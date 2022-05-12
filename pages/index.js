@@ -3,7 +3,7 @@ export default function Home() {
   return (
     <div>
       Hello World. latest nextjs and react
-      <Link href="/about" as={process.env.BACKEND_URL + '/about'}>
+      <Link href="/about">
         <a>About</a>
       </Link>
     </div>
