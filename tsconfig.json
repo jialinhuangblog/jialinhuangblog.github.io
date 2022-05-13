@@ -65,7 +65,7 @@
       "resolveJsonModule": true,
     },
     "include": [
-      //"next-env.d.ts",
+      "next-env.d.ts",
       "**/*.d.ts",
       "**/*.js",
       "**/*.ts",

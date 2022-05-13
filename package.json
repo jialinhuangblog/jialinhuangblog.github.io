@@ -8,6 +8,8 @@
     "deploy": "rm -rf node_modules/.cache && next build && next export && touch out/.nojekyll && git add out/ && git commit -m \"build & deploy\" && git subtree push --prefix out origin gh-pages"
   },
   "dependencies": {
+    "@emotion/css": "^11.9.0",
+    "@emotion/react": "^11.9.0",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest"
