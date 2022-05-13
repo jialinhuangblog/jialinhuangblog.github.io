@@ -5,7 +5,7 @@ import { Avatar, IconButton, Paper } from "@mui/material";
 import { globalGrey, globalOrange } from "~/modules/styling/colors";
 import { flex } from "~/modules/styling/flex";
 import useMedia from "~/modules/styling/useMedia";
-import { RiLinkedinBoxFill, RiGithubFill } from "react-icons/ri";
+import { RiLinkedinBoxFill, RiGithubFill, RiStackFill } from "react-icons/ri";
 
 const descriptionCss = css`
   font-size: 16px;
@@ -93,10 +93,17 @@ const Home: NextPage = () => {
           </IconButton>
           <IconButton
             href="https://github.com/jialinhuang00"
-            color="secondary"
+            color="default"
             size="large"
           >
             <RiGithubFill />
+          </IconButton>
+          <IconButton
+            href="./angular-chunk-versatile"
+            color="error"
+            size="large"
+          >
+            <RiStackFill />
           </IconButton>
         </div>
       </Paper>
