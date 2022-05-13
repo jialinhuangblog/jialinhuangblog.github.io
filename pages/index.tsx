@@ -1,12 +1,11 @@
 /** @jsxImportSource @emotion/react */
 import { css } from "@emotion/react";
-import { Avatar } from "@mui/material";
-import { IconButton, Paper } from "@mui/material";
 import { NextPage } from "next";
-import { globalGrey, globalOrange } from "~/modules/styling/Colors";
+import { Avatar, IconButton, Paper } from "@mui/material";
+import { globalGrey, globalOrange } from "~/modules/styling/colors";
 import { flex } from "~/modules/styling/flex";
-import { RiLinkedinBoxFill, RiGithubFill } from "react-icons/ri";
 import useMedia from "~/modules/styling/useMedia";
+import { RiLinkedinBoxFill, RiGithubFill } from "react-icons/ri";
 
 const descriptionCss = css`
   font-size: 16px;
