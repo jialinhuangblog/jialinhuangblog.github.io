@@ -4,7 +4,13 @@
 
 const debug = process.env.NODE_ENV !== "production";
 
-module.exports = {
+/** @type {import('next').NextConfig} */
+const nextConfig = {
   assetPrefix: "",
   swcMinify: true,
+  experimental: {
+    emotion: true,
+  },
 };
+
+module.exports = nextConfig;

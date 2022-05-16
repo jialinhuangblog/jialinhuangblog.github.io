@@ -1,6 +1,7 @@
 {
     "compilerOptions": {
       /* Visit https://aka.ms/tsconfig.json to read more about this file */
+      "jsxImportSource": "@emotion/react",
       /* Basic Options */
       "incremental": true /* Enable incremental compilation */,
       "tsBuildInfoFile": "./.tsbuildinfo" /* Specify file to store incremental compilation information */,
