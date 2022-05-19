@@ -17,7 +17,6 @@ const MyApp: NextPage<AppProps> = (props) => {
           }
           body,
           #__next {
-            padding: 1px;
             margin: 0;
             box-sizing: border-box;
             width: 100%;
