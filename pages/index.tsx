@@ -6,9 +6,7 @@ import { globalOrange } from '~/modules/styling/colors'
 import { flex } from '~/modules/styling/flex'
 import useMedia from '~/modules/styling/useMedia'
 import { RiLinkedinBoxFill, RiGithubFill, RiStackFill } from 'react-icons/ri'
-import { ThemeProvider } from '@mui/material/styles'
-import { darkTheme, lightTheme } from '~/modules/styling/themes'
-import { MdDarkMode, MdOutlineLightMode } from 'react-icons/md'
+import Layout from '~/components/Layout'
 
 const descriptionCss = css`
   font-size: 16px;
@@ -24,144 +22,97 @@ const valueCss = css`
   line-height: 22px;
 `
 
-const toggleBtnCss = css`
-  border: 0;
-  border-radius: 0;
-`
-
 const Home: NextPage = () => {
-  const { isPc } = useMedia()
-  const [theme, setTheme] = useState<'light' | 'dark'>('dark')
-
-  useEffect(() => {
-    const lightMedia = window.matchMedia('(prefers-color-scheme: light)')
-    if (lightMedia.matches) setTheme('light')
-  },[])
+  const { isPc, isPhone } = useMedia()
 
   return (
-    <ThemeProvider theme={theme === 'dark' ? darkTheme : lightTheme}>
+    <Layout>
       <Paper
+        elevation={isPhone ? 0 : 3}
         css={css`
-          ${isPc ? flex.h.default : flex.h.default};
-          height: 100vh;
-          overflow: auto;
+          width: ${isPhone ? '100%' : isPc ? '400px' : '640px'};
+          border-radius: ${isPc ? 4 : 0}px;
+          position: relative;
+          padding: 16px 32px;
+          margin: ${isPhone ? 0 : 40}px auto 30px;
+          font-family: 'Fira Sans', sans-serif;
+          user-select: none;
         `}
       >
-        <Paper
-          elevation={isPc ? 3 : 0}
+        <div
           css={css`
-            width: ${isPc ? '400px' : '100%'};
-            border-radius: ${isPc ? 4 : 0}px;
-            position: relative;
-            padding: 16px 32px;
-            margin: ${isPc ? 40 : 0}px auto;
-            font-family: 'Fira Sans', sans-serif;
-            user-select: none;
+            position: absolute;
+            width: 100%;
+            height: 29px;
+            left: 0;
+            top: 0;
+            background: ${globalOrange.o600};
+            border-radius: ${isPc ? 4 : 0}px ${isPc ? 4 : 0}px 0 0;
+          `}
+        />
+
+        <div
+          css={css`
+            ${flex.h.crossCenter};
+            gap: 8px;
           `}
         >
-          <div
-            css={css`
-              position: absolute;
-              width: 100%;
-              height: 29px;
-              left: 0;
-              top: 0;
-              background: ${globalOrange.o600};
-              border-radius: ${isPc ? 4 : 0}px ${isPc ? 4 : 0}px 0 0;
-            `}
+          <Avatar
+            sx={{ width: 56, height: 56 }}
+            src='https://lh3.googleusercontent.com/a-/AOh14GgT_31zBJDEEvfcpZc3v9I_8B7c_EHn1sXKJAY6Hw=s96-c'
           />
-          <div
+          <p
             css={css`
-              position: absolute;
-              right: 0.5px;
-              top: 2px;
+              margin: 0;
+              font-size: 26px;
+              font-weight: 700;
+              letter-spacing: 2px;
             `}
           >
-            <ToggleButtonGroup
-              size='small'
-              value={theme}
-              onChange={() => {
-                setTheme(theme === 'light' ? 'dark' : 'light')
-              }}
-            >
-              <ToggleButton
-                css={toggleBtnCss}
-                value='light'
-              >
-                <MdDarkMode />
-              </ToggleButton>
-              <ToggleButton
-                css={toggleBtnCss}
-                value='dark'
-              >
-                <MdOutlineLightMode />
-              </ToggleButton>
-            </ToggleButtonGroup>
-          </div>
-
-          <div
-            css={css`
-              ${flex.h.crossCenter};
-              gap: 8px;
-            `}
+            jialin.huang
+          </p>
+        </div>
+        <p css={descriptionCss}>
+          Around 4 years of web development experience, mostly doing frontend and a big fan of
+          Golang
+        </p>
+        <p css={keyCss}>Location</p>
+        <p css={valueCss}>Taipei</p>
+        <p css={keyCss}>Work</p>
+        <p css={valueCss}>SCMP, Futuresai</p>
+        <p css={keyCss}>MBTI</p>
+        <p css={valueCss}>INTJ</p>
+        <p css={keyCss}>References</p>
+        <div css={flex.h.crossCenter}>
+          <IconButton
+            href='https://www.linkedin.com/in/jlhuangprogramming/'
+            color='primary'
+            size='large'
           >
-            <Avatar
-              sx={{ width: 56, height: 56 }}
-              src='https://lh3.googleusercontent.com/a-/AOh14GgT_31zBJDEEvfcpZc3v9I_8B7c_EHn1sXKJAY6Hw=s96-c'
-            />
-            <p
-              css={css`
-                margin: 0;
-                font-size: 26px;
-                font-weight: 700;
-                letter-spacing: 2px;
-              `}
-            >
-              jialin.huang
-            </p>
-          </div>
-          <p css={descriptionCss}>
-            Around 4 years of web development experience, mostly doing frontend and a big fan of
-            Golang
-          </p>
-          <p css={keyCss}>Location</p>
-          <p css={valueCss}>Taipei</p>
-          <p css={keyCss}>Work</p>
-          <p css={valueCss}>SCMP, Futuresai</p>
-          <p css={keyCss}>MBTI</p>
-          <p css={valueCss}>INTJ</p>
-          <p css={keyCss}>References</p>
-          <div css={flex.h.crossCenter}>
-            <IconButton
-              href='https://www.linkedin.com/in/jlhuangprogramming/'
-              color='primary'
-              size='large'
-            >
-              <RiLinkedinBoxFill />
-            </IconButton>
-            <IconButton
-              href='https://github.com/jialinhuang00'
-              color='default'
-              size='large'
-            >
-              <RiGithubFill />
-            </IconButton>
-            <IconButton
-              href='./angular-chunk-versatile'
-              color='error'
-              size='large'
-            >
-              <RiStackFill />
-            </IconButton>
-          </div>
-          <p css={keyCss}>Philosophy</p>
-          <p css={valueCss}>
-            To live is to risk it all Otherwise you are just an inert chunk of randomly assembled
-            molecules drifting wherever the Universe blows you
-          </p>
-        </Paper>
+            <RiLinkedinBoxFill />
+          </IconButton>
+          <IconButton
+            href='https://github.com/jialinhuang00'
+            color='default'
+            size='large'
+          >
+            <RiGithubFill />
+          </IconButton>
+          <IconButton
+            href='./angular-chunk-versatile'
+            color='error'
+            size='large'
+          >
+            <RiStackFill />
+          </IconButton>
+        </div>
+        <p css={keyCss}>Philosophy</p>
+        <p css={valueCss}>
+          To live is to risk it all Otherwise you are just an inert chunk of randomly assembled
+          molecules drifting wherever the Universe blows you
+        </p>
       </Paper>
-    </ThemeProvider>
+    </Layout>
   )
 }
 export default Home
