@@ -36,8 +36,8 @@ const basicTSRules = {
 /** @type {import('eslint').Linter.RulesRecord} */
 const basicRules = {
   'react/prop-types': 'off',
-  'no-unused-vars': 'error',
-  '@typescript-eslint/no-unused-vars': 'error',
+  'no-unused-vars': 'off',
+  '@typescript-eslint/no-unused-vars': 'off',
   'react/react-in-jsx-scope': 'warn',
 
   // Can use in development mode, but don't let it get to the production
