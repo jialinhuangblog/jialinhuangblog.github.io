@@ -6,8 +6,10 @@ specifiers:
   '@emotion/styled': ^11.8.1
   '@mui/material': ^5.7.0
   '@types/node': ^17.0.33
+  '@types/prettier': ^2.6.1
   '@types/react': ^18.0.9
   next: latest
+  prettier: ^2.6.2
   react: latest
   react-dom: latest
   react-icons: ^4.3.1
@@ -19,12 +21,14 @@ dependencies:
   '@emotion/styled': 11.8.1_ycz2ostpb5cpb2s3izz5qyhrbm
   '@mui/material': 5.7.0_4xriuibr7qayay6mzcpq5f43me
   next: 12.1.6_ef5jwxihqo6n7gxfmzogljlgcm
+  prettier: 2.6.2
   react: 18.1.0
   react-dom: 18.1.0_react@18.1.0
   react-icons: 4.3.1_react@18.1.0
 
 devDependencies:
   '@types/node': 17.0.33
+  '@types/prettier': 2.6.1
   '@types/react': 18.0.9
   typescript: 4.6.4
 
@@ -501,6 +505,10 @@ packages:
     resolution: {integrity: sha512-//oorEZjL6sbPcKUaCdIGlIUeH26mgzimjBB77G6XRgnDl/L5wOnpyBGRe/Mmf5CVW3PwEBE1NjiMZ/ssFh4wA==}
     dev: false
 
+  /@types/prettier/2.6.1:
+    resolution: {integrity: sha512-XFjFHmaLVifrAKaZ+EKghFHtHSUonyw8P2Qmy2/+osBnrKbH9UYtlK10zg8/kCt47MFilll/DEDKy3DHfJ0URw==}
+    dev: true
+
   /@types/prop-types/15.7.5:
     resolution: {integrity: sha512-JCB8C6SnDoQf0cNycqd/35A7MjcnK+ZTqE7judS6o7utxUCg6imJg3QK2qzHKszlTjcj2cn+NwMB2i96ubpj7w==}
 
@@ -770,6 +778,12 @@ packages:
       nanoid: 3.3.4
       picocolors: 1.0.0
       source-map-js: 1.0.2
+    dev: false
+
+  /prettier/2.6.2:
+    resolution: {integrity: sha512-PkUpF+qoXTqhOeWL9fu7As8LXsIUZ1WYaJiY/a7McAQzxjk82OF0tibkFXVCDImZtWxbvojFjerkiLb0/q8mew==}
+    engines: {node: '>=10.13.0'}
+    hasBin: true
     dev: false
 
   /prop-types/15.8.1:

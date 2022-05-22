@@ -1,9 +1,9 @@
-import { Global, css } from "@emotion/react";
-import { NextPage } from "next";
-import { AppProps } from "next/app";
+import { Global, css } from '@emotion/react'
+import { NextPage } from 'next'
+import { AppProps } from 'next/app'
 
-const MyApp: NextPage<AppProps> = (props) => {
-  const { Component, pageProps } = props;
+const MyApp: NextPage<AppProps> = props => {
+  const { Component, pageProps } = props
   return (
     <>
       <Global
@@ -17,14 +17,13 @@ const MyApp: NextPage<AppProps> = (props) => {
             overflow: hidden;
             scroll-behavior: smooth;
           }
-          body{
+          body {
             margin: 0;
           }
-         
         `}
       ></Global>
       <Component {...pageProps} />
     </>
   )
 }
-export default MyApp;
+export default MyApp
