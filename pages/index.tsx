@@ -1,12 +1,12 @@
-import { css } from '@emotion/react'
+import { useEffect, useState } from 'react'
 import { NextPage } from 'next'
+import { css } from '@emotion/react'
 import { Avatar, IconButton, Paper, ToggleButton, ToggleButtonGroup } from '@mui/material'
 import { globalOrange } from '~/modules/styling/colors'
 import { flex } from '~/modules/styling/flex'
 import useMedia from '~/modules/styling/useMedia'
 import { RiLinkedinBoxFill, RiGithubFill, RiStackFill } from 'react-icons/ri'
 import { ThemeProvider } from '@mui/material/styles'
-import { useEffect, useState } from 'react'
 import { darkTheme, lightTheme } from '~/modules/styling/themes'
 import { MdDarkMode, MdOutlineLightMode } from 'react-icons/md'
 
@@ -28,15 +28,15 @@ const toggleBtnCss = css`
   border: 0;
   border-radius: 0;
 `
+
 const Home: NextPage = () => {
   const { isPc } = useMedia()
-
   const [theme, setTheme] = useState<'light' | 'dark'>('dark')
 
   useEffect(() => {
     const lightMedia = window.matchMedia('(prefers-color-scheme: light)')
     if (lightMedia.matches) setTheme('light')
-  })
+  },[])
 
   return (
     <ThemeProvider theme={theme === 'dark' ? darkTheme : lightTheme}>
@@ -81,7 +81,6 @@ const Home: NextPage = () => {
               size='small'
               value={theme}
               onChange={() => {
-                console.log(theme)
                 setTheme(theme === 'light' ? 'dark' : 'light')
               }}
             >
@@ -157,7 +156,7 @@ const Home: NextPage = () => {
           </div>
           <p css={keyCss}>Philosophy</p>
           <p css={valueCss}>
-            To live is to risk it all Otherwise you're just an inert chunk of randomly assembled
+            To live is to risk it all Otherwise you are just an inert chunk of randomly assembled
             molecules drifting wherever the Universe blows you
           </p>
         </Paper>
