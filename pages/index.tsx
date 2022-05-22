@@ -12,7 +12,7 @@ import { flex } from "~/modules/styling/flex";
 import useMedia from "~/modules/styling/useMedia";
 import { RiLinkedinBoxFill, RiGithubFill, RiStackFill } from "react-icons/ri";
 import { ThemeProvider } from "@mui/material/styles";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { darkTheme, lightTheme } from "~/modules/styling/themes";
 import { MdDarkMode, MdOutlineLightMode } from "react-icons/md";
 
@@ -36,7 +36,14 @@ const toggleBtnCss = css`
 `;
 const Home: NextPage = () => {
   const { isPc } = useMedia();
+
   const [theme, setTheme] = useState<"light" | "dark">("dark");
+
+  useEffect(() => {
+    const lightMedia = window.matchMedia("(prefers-color-scheme: light)");
+    if (lightMedia.matches) setTheme("light");
+  })
+  
   return (
     <ThemeProvider theme={theme === "dark" ? darkTheme : lightTheme}>
       <Paper
@@ -157,6 +164,6 @@ const Home: NextPage = () => {
         </Paper>
       </Paper>
     </ThemeProvider>
-  )
-}
+  );
+};
 export default Home;
