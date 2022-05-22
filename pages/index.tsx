@@ -36,23 +36,24 @@ const toggleBtnCss = css`
 `;
 const Home: NextPage = () => {
   const { isPc } = useMedia();
-  const [theme, setTheme] = useState<"light" | "dark">("light");
+  const [theme, setTheme] = useState<"light" | "dark">("dark");
   return (
     <ThemeProvider theme={theme === "dark" ? darkTheme : lightTheme}>
       <Paper
         css={css`
-          ${flex.h.allCenter};
-          height: 100%;
+          ${isPc ? flex.h.default : flex.h.default};
+          height: 100vh;
+          overflow: auto;
         `}
       >
         <Paper
           elevation={isPc ? 3 : 0}
           css={css`
-            width: 320px;
+            width: ${isPc ? "400px" : "100%"};
             border-radius: ${isPc ? 4 : 0}px;
             position: relative;
             padding: 16px 32px;
-            margin: 40px auto;
+            margin: ${isPc ? 40 : 0}px auto;
             font-family: "Fira Sans", sans-serif;
             user-select: none;
           `}
@@ -156,7 +157,6 @@ const Home: NextPage = () => {
         </Paper>
       </Paper>
     </ThemeProvider>
-  );
-};
-
+  )
+}
 export default Home;

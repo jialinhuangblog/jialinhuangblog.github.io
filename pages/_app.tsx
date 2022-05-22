@@ -8,24 +8,23 @@ const MyApp: NextPage<AppProps> = (props) => {
     <>
       <Global
         styles={css`
+          * {
+            box-sizing: border-box;
+          }
           html {
-            scroll-behavior: smooth;
             height: 100vh;
             width: 100vw;
-            box-sizing: border-box;
             overflow: hidden;
+            scroll-behavior: smooth;
           }
-          body,
-          #__next {
+          body{
             margin: 0;
-            box-sizing: border-box;
-            width: 100%;
-            height: 100%;
           }
+         
         `}
       ></Global>
-      <Component {...pageProps} />;
+      <Component {...pageProps} />
     </>
-  );
-};
+  )
+}
 export default MyApp;
