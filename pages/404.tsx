@@ -1,6 +1,5 @@
 import { css } from '@emotion/react'
 import { NextPage } from 'next'
-import Link from 'next/link'
 import { flex } from '~/modules/styling/flex'
 
 const FourOFour: NextPage = () => {

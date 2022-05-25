@@ -37,19 +37,23 @@ const Home: NextPage = () => {
           margin: ${isPhone ? 0 : 40}px auto 30px;
           font-family: 'Fira Sans', sans-serif;
           user-select: none;
+          background: transparent;
+          /* pointer-events: none; */
         `}
       >
-        <div
-          css={css`
-            position: absolute;
-            width: 100%;
-            height: 29px;
-            left: 0;
-            top: 0;
-            background: ${globalOrange.o600};
-            border-radius: ${isPc ? 4 : 0}px ${isPc ? 4 : 0}px 0 0;
-          `}
-        />
+        {isPc && (
+          <div
+            css={css`
+              position: absolute;
+              width: 100%;
+              height: 29px;
+              left: 0;
+              top: 0;
+              background: ${globalOrange.o600};
+              border-radius: ${isPc ? 4 : 0}px ${isPc ? 4 : 0}px 0 0;
+            `}
+          />
+        )}
 
         <div
           css={css`
@@ -66,7 +70,10 @@ const Home: NextPage = () => {
               margin: 0;
               font-size: 26px;
               font-weight: 700;
-              letter-spacing: 2px;
+              letter-spacing: 1px;
+              text-decoration: underline;
+              text-underline-offset: 12px;
+              text-decoration-thickness: 4px;
             `}
           >
             jialin.huang

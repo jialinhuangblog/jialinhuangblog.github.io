@@ -3,6 +3,8 @@ import { css } from '@emotion/react'
 import { flex } from '~/modules/styling/flex'
 import { AppLink } from '~/components/AppLink'
 import Layout from '~/components/Layout'
+import useMedia from '~/modules/styling/useMedia'
+import palettes from '~/modules/styling/palettes'
 
 const linkCss = css`
   font-size: 16px;
@@ -34,38 +36,23 @@ const bookmarks: { href: string; name: string }[] = [
   { href: 'http://rexytseng.com/', name: 'Rexy Tseng 曾慶強' },
   {
     href: 'https://github.com/jwasham/coding-interview-university',
-    name: 'Coding Interview University',
+    name: 'jwasham/coding-interview-university',
   },
+  { href: 'https://medium.com/better-programming', name: 'Better Programming' },
+  { href: 'https://medium.com/better-programming', name: 'Better Programming' },
 ]
 
-const palettes = [
-  '#5C4B51',
-  '#F3EAE5',
-  '#FF6A67',
-  '#E85EFF',
-  '#E87151',
-  '#EDC7CB',
-  '#8CBEB2',
-  '#CD96B3',
-  '#FF9C59',
-  '#E851AC',
-  '#F2EBBF',
-  '#756967',
-  '#7F93A2',
-  '#F3B562',
-  '#F06060',
-]
 const Bookmark: NextPage = () => {
+  const { isPc } = useMedia()
   return (
     <Layout>
       <div
         css={css`
           ${flex.wrap.allCenter};
-          align-content: center;
+          align-content: ${isPc ? 'center' : 'initial'};
           height: 100%;
           margin: 0 auto;
-          overflow: auto;
-          padding: 16px;
+          padding: 32px 16px;
           gap: 16px;
         `}
       >
@@ -77,11 +64,12 @@ const Bookmark: NextPage = () => {
           >
             <p
               css={css`
-                background: ${palettes[index % 15]}22;
+                background: ${palettes[index % palettes.length]}22;
                 ${linkCss};
                 margin: 0;
-                border-bottom: 3px solid ${palettes[index % 15]};
-                padding: 0 2px;
+                border-bottom: 3px solid ${palettes[index % palettes.length]};
+                padding: 4px 8px;
+                border-radius: 10px;
               `}
             >
               {bookmark.name}
