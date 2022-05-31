@@ -1,12 +1,12 @@
 import { useEffect, useState, memo } from 'react'
 import { css } from '@emotion/react'
 import { useRouter } from 'next/router'
-import { Paper, ToggleButton, ToggleButtonGroup } from '@mui/material'
+import { IconButton, Paper, ToggleButton, ToggleButtonGroup } from '@mui/material'
 import { flex } from '~/modules/styling/flex'
 import useMedia from '~/modules/styling/useMedia'
 import { ThemeProvider } from '@mui/material/styles'
 import { darkTheme, lightTheme } from '~/modules/styling/themes'
-import { MdDarkMode, MdOutlineLightMode } from 'react-icons/md'
+import { MdDarkMode, MdOutlineLightMode, MdOutlineWbSunny } from 'react-icons/md'
 import palettes from '~/modules/styling/palettes'
 
 const toggleBtnCss = css`
@@ -64,12 +64,22 @@ const Layout = memo<ReactProps>(function Layout(props) {
         </div>
         <div
           css={css`
-            position: absolute;
+            position: fixed;
             right: 16px;
             top: 2px;
           `}
         >
-          <ToggleButtonGroup
+          <IconButton
+            css={toggleBtnCss}
+            color='secondary'
+            onClick={() => {
+              setTheme(theme === 'light' ? 'dark' : 'light')
+            }}
+            size='large'
+          >
+            {theme === 'dark' ? <MdOutlineWbSunny /> : <MdDarkMode />}
+          </IconButton>
+          {/* <ToggleButtonGroup
             size='small'
             value={theme}
             onChange={() => {
@@ -88,7 +98,7 @@ const Layout = memo<ReactProps>(function Layout(props) {
             >
               <MdOutlineLightMode />
             </ToggleButton>
-          </ToggleButtonGroup>
+          </ToggleButtonGroup> */}
         </div>
         {props.children}
       </Paper>

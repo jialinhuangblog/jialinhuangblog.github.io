@@ -52,7 +52,7 @@ const Bookmark: NextPage = () => {
           align-content: ${isPc ? 'center' : 'initial'};
           height: 100%;
           margin: 0 auto;
-          padding: 32px 16px;
+          padding: 64px 16px;
           gap: 16px;
         `}
       >
@@ -61,6 +61,7 @@ const Bookmark: NextPage = () => {
             css={linkCss}
             key={index}
             href={bookmark.href}
+            target='_blank'
           >
             <p
               css={css`

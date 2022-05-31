@@ -38,7 +38,7 @@ const Home: NextPage = () => {
           font-family: 'Fira Sans', sans-serif;
           user-select: none;
           background: transparent;
-          /* pointer-events: none; */
+          pointer-events: none;
         `}
       >
         {isPc && (
