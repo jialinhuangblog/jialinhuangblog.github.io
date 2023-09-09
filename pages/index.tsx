@@ -90,7 +90,12 @@ const Home: NextPage = () => {
         <p css={keyCss}>MBTI</p>
         <p css={valueCss}>INTJ</p>
         <p css={keyCss}>References</p>
-        <div css={flex.h.crossCenter}>
+        <div
+          css={css`
+            ${flex.h.crossCenter};
+            pointer-events: initial;
+          `}
+        >
           <IconButton
             href='https://www.linkedin.com/in/jlhuangprogramming/'
             color='primary'

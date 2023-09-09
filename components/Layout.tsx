@@ -53,7 +53,6 @@ const Layout = memo<ReactProps>(function Layout(props) {
             position: fixed;
             left: 16px;
             top: 20px;
-            width: 12px;
             font-size: ${isPc ? 20 : 12}px;
             font-weight: 600;
             color: ${color};
