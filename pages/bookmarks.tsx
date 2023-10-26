@@ -56,7 +56,9 @@ const Bookmark: NextPage = () => {
           gap: 16px;
         `}
       >
-        {bookmarks.concat(bookmarks).map((bookmark, index) => (
+        {' '}
+        a test
+        {/* {bookmarks.concat(bookmarks).map((bookmark, index) => (
           <AppLink
             css={linkCss}
             key={index}
@@ -76,7 +78,7 @@ const Bookmark: NextPage = () => {
               {bookmark.name}
             </p>
           </AppLink>
-        ))}
+        ))} */}
       </div>
     </Layout>
   )

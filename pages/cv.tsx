@@ -1,0 +1,161 @@
+import { css } from '@emotion/react'
+import { NextPage } from 'next'
+import Layout from '~/components/Layout'
+import JobCard from '~/components/Layout/JobCard'
+import { Job } from '~/components/Layout/type'
+import { flex } from '~/modules/styling/flex'
+import palettes from '~/modules/styling/palettes'
+import useMedia from '~/modules/styling/useMedia'
+
+const CV: NextPage = () => {
+  const color = palettes[Math.floor(Math.random() * palettes.length)]
+  const { isPhone } = useMedia()
+  return (
+    <Layout>
+      <div
+        css={css`
+          ${flex.v.default};
+          margin: 0 ${isPhone ? 16 : 80}px;
+          width: 100%;
+          padding-bottom: ${isPhone ? 80 : 40}px;
+          height: min-content;
+        `}
+      >
+        {JOB_LIST.map(j => (
+          <JobCard
+            color={color}
+            key={j.company}
+            datum={j}
+          />
+        ))}
+      </div>
+    </Layout>
+  )
+}
+const JOB_LIST: Job[] = [
+  {
+    company: 'Confetti',
+    position: 'Sr. Front-end Developer',
+    timeline: '2022.12 - NOW',
+    project: [
+      {
+        projectIsLink: true,
+        name: 'confetti.studio',
+        stuff: 'Y2K Landing page',
+        techStack: ['Next.js', 'Tailwind CSS', 'Typescript'],
+      },
+      {
+        name: 'Cashing Platform',
+        stuff:
+          'Routine maintenance. To enable users to interact with the payment interface seamlessly and intuitively.',
+        techStack: ['React', 'Next.js', 'Node.js', 'Typescript'],
+      },
+      {
+        name: 'Gaming BO',
+        stuff:
+          'In the middleware layer, the image access requirements for both frontend and backend must be effectively handled, ensuring robust handling on both sides.',
+        techStack: ['aws-sdk', 'React', 'remix', 'Node.js', 'Typescript'],
+      },
+    ],
+  },
+  {
+    company: 'SCMP',
+    position: 'Sr. Front-end Developer',
+    timeline: '2021.10 - 2022.11',
+    project: [
+      {
+        projectIsLink: true,
+        name: 'scmp.com',
+        stuff: [
+          'Optimizing SEO performance, with a specific focus on addressing LCP (Largest Contentful Paint) issues',
+          'Enhancing the business logic to stay current with the latest content updates',
+        ],
+        techStack: ['Vue', 'Typescript'],
+      },
+      {
+        name: 'scmp.com/*',
+        stuff: [
+          'Routine maintenance',
+          'Doing business logic in iframe and other tiny components with our main scmp.com for working with each other.',
+          'maintaining graphql + Node.js  middleware for logic update',
+        ],
+        techStack: ['React', 'Next.js', 'Vue', 'Node.js', 'GraphQL'],
+      },
+    ],
+  },
+  {
+    company: 'Futuresai',
+    position: 'Sr. Front-end Developer',
+    timeline: '2020.11 - 2021.10',
+    project: [
+      {
+        name: 'Trading dashboard',
+        stuff: [
+          'Building financial product expecially futures and options for customers who need direction and filtered noise information.',
+          'Rewrite our product by using React, nexjs & Typescript. Base on mono repo, spliting as more as possible little components for reusablility and pure data handling as we also use hooks anywhere.',
+          'With websocket and restful API backend microservices, help connect SignalR and our application context smoothly and properly manage different types of data soucre with react hook lifecycle.',
+          'Cooperating with the Banking side building the investing sheet for customers getting more easy-looking result.',
+        ],
+        techStack: ['Typescript', 'React', 'Next.js', 'firebase', 'emotion', 'SignalR'],
+      },
+      {
+        name: 'Admin management system',
+        stuff:
+          "Our backend system simplifies the management of client subscriptions and customer products. With an easy-to-use interface, you can effortlessly oversee our clients as well as our customers' clients, handle subscriptions, track expiration dates, and add, delete, or suspend members.",
+        techStack: ['firebase auth', 'Redux', 'React'],
+      },
+      {
+        name: 'Auth member serivice',
+        stuff:
+          'I serve as a middleware backend for our membership system, integrating data from the Firebase platform. My role involves facilitating communication between the browser and the backend, debugging request and response headers, and ensuring data structure compatibility without the need for extensive verbal discussions.',
+        techStack: ['Node.js', 'expressjs'],
+      },
+    ],
+  },
+  {
+    company: 'Dentalltw',
+    position: 'Front-end Developer',
+    timeline: '2018.7 - 2020.11',
+    project: [
+      {
+        name: 'Dentall Clinic App, Mobile Web App',
+        stuff:
+          'a Windows 10 UWP (Universal Windows Platform) application tailored for dental clinics in Taiwan. This software encompasses a range of features including appointment scheduling, patient registration services, visual records of dental procedures, and the ability to generate relevant prescription forms',
+        techStack: ['.Net', 'UWP', 'C#'],
+      },
+      {
+        name: 'Vietnam Dentall Clinic SAAS',
+        stuff:
+          'Also include a Vietnamese version, catering to the Vietnam market. Additionally, I have implemented SMS service integration into the website. These enhancements were achieved primarily through the use of Redux and Saga for seamless data management and internationalization (i18n) support.',
+        techStack: ['React', 'Redux', 'Redux-Saga'],
+      },
+      {
+        name: 'AI Teeth-Catorizing',
+        stuff:
+          'I collaborated with AI colleagues to develop a Python server for dental image classification. We built a web application using Flask and configured it with uWSGI and Nginx. Subsequently, I managed the deployment process on Google Cloud Platform (GCP), making the dental image classification service accessible online for sorting dental images based on different regions.',
+        techStack: ['GCP', 'python', 'flask', 'uwsgi', 'nginx'],
+      },
+      {
+        name: 'Tech Sharing - CICD',
+        stuff:
+          'To simplify the understanding of complex technical concepts, I organized a tech sharing session. In this session, I selected the topic of integrating a basic Golang program into a comprehensive CI/CD (Continuous Integration/Continuous Deployment) ecosystem. The presentation encompassed the orchestration of various tools, such as Google Cloud Platform (GCP), Docker, GitLab CI, and Kubernetes (K8s). The objective was to ensure that both fellow engineers and collaborating designers could grasp and benefit from the insights shared.',
+        techStack: ['GCP', 'docker', 'gitlab-ci', 'k8s'],
+      },
+    ],
+  },
+  {
+    company: 'SAVY',
+    position: 'Front-end Intern',
+    timeline: '2018.4 - 2018.7',
+    project: [
+      {
+        name: 'volunteer website',
+        stuff:
+          'Create a volunteer website where users can post about volunteer opportunities, similar to how posts work on Facebook, allowing people to seek participation or donate resources.',
+        techStack: ['React'],
+      },
+    ],
+  },
+]
+
+export default CV

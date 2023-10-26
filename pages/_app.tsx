@@ -12,7 +12,6 @@ const MyApp: NextPage<AppProps> = props => {
             box-sizing: border-box;
           }
           html {
-            height: 100vh;
             width: 100vw;
             overflow: hidden;
             scroll-behavior: smooth;
