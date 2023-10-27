@@ -3,8 +3,8 @@ import { memo, useState } from 'react'
 import { flex } from '~/modules/styling/flex'
 import palettes from '~/modules/styling/palettes'
 import { Job } from './type'
-import useMedia from '~/modules/styling/useMedia'
 import Link from 'next/link'
+import useMedia from '~/modules/styling/useMedia'
 
 const JobCard = memo<ReactProps<{ datum: Job; color: string }>>(function JobCard(props) {
   const job = props.datum
@@ -14,19 +14,24 @@ const JobCard = memo<ReactProps<{ datum: Job; color: string }>>(function JobCard
     <div
       css={css`
         position: relative;
-        padding: 40px 16px 16px 16px;
+        padding: 40px 16px ${expand ? 16 : 0}px 16px;
         background: #cdcdcd;
-        margin: ${expand ? 40 : 0}px 0;
+        margin: ${expand ? 40 : 20}px 0 ${expand ? 40 : 0}px 0;
         border: 2px solid grey;
         border-top: 4px solid white;
         border-left: 4px solid white;
         border-right: 4px solid black;
         border-bottom: 4px solid black;
         box-shadow: inset -2px -2px 4px 0 #7d7d7d, inset 2px 2px 4px 0 #adadad;
+        &:first-of-type {
+          margin: 40px 0 ${expand ? 40 : 0}px 0;
+        }
       `}
     >
       <div
+        onClick={() => setExpand(prev => !prev)}
         css={css`
+          cursor: pointer;
           position: absolute;
           left: 0px;
           right: 0px;
@@ -37,11 +42,22 @@ const JobCard = memo<ReactProps<{ datum: Job; color: string }>>(function JobCard
           padding: 0 8px;
           background: linear-gradient(to right, ${props.color}dd, ${props.color}88, white);
           z-index: 1;
+          font-size: ${isPhone ? 14 : 24}px;
           color: white;
+          &:hover {
+            background: linear-gradient(to right, ${props.color}dd, ${props.color}dd, white);
+          }
         `}
       >
         <div css={barTextCss}>{job.company}</div>
-        <div css={biggerTextCss}>{job.timeline}</div>
+        <div
+          css={css`
+            font-size: ${isPhone ? 16 : 24}px;
+            font-weight: 700;
+          `}
+        >
+          {job.timeline}
+        </div>
       </div>
       <div
         onClick={() => {
@@ -61,7 +77,10 @@ const JobCard = memo<ReactProps<{ datum: Job; color: string }>>(function JobCard
           border-left: 2px solid white;
           border-right: 2px solid black;
           border-bottom: 2px solid black;
-          ${biggerTextCss}
+          ${biggerTextCss};
+          &:hover {
+            background: #eaeaea;
+          }
         `}
       >
         {expand ? '-' : '+'}

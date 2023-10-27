@@ -13,10 +13,10 @@ export default function Document() {
           href='https://fonts.gstatic.com'
           crossOrigin='crossOrigin'
         />
-        <link
+        {/* <link
           rel='stylesheet'
           href='https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;600;700;800;900&display=swap'
-        />
+        /> */}
       </Head>
       <body>
         <Main />

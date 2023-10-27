@@ -34,10 +34,11 @@ const Profile = memo(function Profile() {
         position: relative;
         padding: 32px 32px;
         margin: ${isPhone ? 0 : 40}px auto 0px;
-        font-family: 'Fira Sans', sans-serif;
         user-select: none;
         background: transparent;
         pointer-events: none;
+        background-color: white;
+
         ${isPhone
           ? ''
           : `  border-top: 4px solid transparent;

@@ -26,7 +26,6 @@ const Layout = memo<ReactProps>(function Layout(props) {
     <ThemeProvider theme={lightTheme}>
       <Paper
         css={css`
-          font-family: 'Fira Sans', sans-serif;
           ${isPc ? flex.h.default : flex.h.default};
           height: calc(100vh - 40px);
           overflow: auto;
