@@ -13,32 +13,34 @@ specifiers:
   '@types/react-dom': ^18.0.4
   '@typescript-eslint/eslint-plugin': ^5.25.0
   '@typescript-eslint/parser': ^5.25.0
-  dayjs: ^1.11.9
+  dayjs: ^1.11.10
   eslint: ^8.16.0
   eslint-config-prettier: ^8.5.0
   eslint-plugin-prettier: ^4.0.0
   eslint-plugin-react: ^7.30.0
   eslint-plugin-react-hooks: ^4.5.0
-  next: latest
+  next: 13.4.19
   prettier: ^2.6.2
   react: latest
   react-dom: latest
   react-icons: ^4.3.1
   type-fest: ^2.12.2
   typescript: ^4.6.4
+  valtio: ^1.11.3
 
 dependencies:
   '@emotion/css': 11.9.0
   '@emotion/react': 11.9.0_ulhmhxukhxjgxaybrsjlob7ffu
   '@emotion/styled': 11.8.1_65u44ym6hd7qupjvglirprax3y
   '@mui/material': 5.7.0_ybeluc3bhweiiuzve6u55gfwqa
-  dayjs: 1.11.9
+  dayjs: 1.11.10
   next: 13.4.19_biqbaboplfbrettd7655fr4n2y
   prettier: 2.6.2
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
   react-icons: 4.3.1_react@18.2.0
   type-fest: 2.12.2
+  valtio: 1.11.3_ulhmhxukhxjgxaybrsjlob7ffu
 
 devDependencies:
   '@babel/eslint-parser': 7.17.0_eslint@8.16.0
@@ -950,8 +952,8 @@ packages:
   /csstype/3.0.11:
     resolution: {integrity: sha512-sa6P2wJ+CAbgyy4KFssIb/JNMLxFvKF1pCYCSXS8ZMuqZnMsrxqI2E5sPyoTpxoPU/gVZMzr2zjOfg8GIZOMsw==}
 
-  /dayjs/1.11.9:
-    resolution: {integrity: sha512-QvzAURSbQ0pKdIye2txOzNaHmxtUBXerpY0FJsFXUMKbIZeFm5ht1LS/jFsrncjnmtv8HsG0W2g6c0zUjZWmpA==}
+  /dayjs/1.11.10:
+    resolution: {integrity: sha512-vjAczensTgRcqDERK0SR2XMwsF/tSvnvlv6VcF2GIhg6Sx4yOIt/irsr1RDJsKiIyBzJDpCoXiWWq28MqH2cnQ==}
     dev: false
 
   /debug/4.3.4:
@@ -1863,6 +1865,10 @@ packages:
       object-assign: 4.1.1
       react-is: 16.13.1
 
+  /proxy-compare/2.5.1:
+    resolution: {integrity: sha512-oyfc0Tx87Cpwva5ZXezSp5V9vht1c7dZBhvuV/y3ctkgMVUmiAGDVeeB0dKhGSyT0v1ZTEQYpe/RXlBVBNuCLA==}
+    dev: false
+
   /punycode/2.1.1:
     resolution: {integrity: sha512-XRsRjdf+j5ml+y/6GKHPZbrF/8p2Yga0JPtdqTIY2Xe5ohJPD9saDJJLPvp9+NSBprVvevdXZybnj2cv8OEd0A==}
     engines: {node: '>=6'}
@@ -2190,9 +2196,35 @@ packages:
       punycode: 2.1.1
     dev: true
 
+  /use-sync-external-store/1.2.0_react@18.2.0:
+    resolution: {integrity: sha512-eEgnFxGQ1Ife9bzYs6VLi8/4X6CObHMw9Qr9tPY43iKwsPw8xE8+EFsf/2cFZ5S3esXgpWgtSCtLNS41F+sKPA==}
+    peerDependencies:
+      react: ^16.8.0 || ^17.0.0 || ^18.0.0
+    dependencies:
+      react: 18.2.0
+    dev: false
+
   /v8-compile-cache/2.3.0:
     resolution: {integrity: sha512-l8lCEmLcLYZh4nbunNZvQCJc5pv7+RCwa8q/LdUx8u7lsWvPDKmpodJAJNwkAhJC//dFY48KuIEmjtd4RViDrA==}
     dev: true
+
+  /valtio/1.11.3_ulhmhxukhxjgxaybrsjlob7ffu:
+    resolution: {integrity: sha512-HL50LlM6YrYfai5H9QKSU0HJYOkghyGvZeRMCJSI6q79DWSng0PdCzT3S3M2UAcvtqBSteThqmhh6jHYyxPUTg==}
+    engines: {node: '>=12.20.0'}
+    peerDependencies:
+      '@types/react': '>=16.8'
+      react: '>=16.8'
+    peerDependenciesMeta:
+      '@types/react':
+        optional: true
+      react:
+        optional: true
+    dependencies:
+      '@types/react': 18.0.9
+      proxy-compare: 2.5.1
+      react: 18.2.0
+      use-sync-external-store: 1.2.0_react@18.2.0
+    dev: false
 
   /watchpack/2.4.0:
     resolution: {integrity: sha512-Lcvm7MGST/4fup+ifyKi2hjyIAwcdI4HRgtvTpIUxBRhB+RFtUh8XtDOxUfctVCnhVi+QQj49i91OyvzkJl6cg==}

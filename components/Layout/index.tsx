@@ -1,62 +1,54 @@
-import { useEffect, useState, memo } from 'react'
+import { memo } from 'react'
 import { css } from '@emotion/react'
 import { useRouter } from 'next/router'
 import { Paper } from '@mui/material'
 import { flex } from '~/modules/styling/flex'
 import useMedia from '~/modules/styling/useMedia'
-import { ThemeProvider } from '@mui/material/styles'
-import { darkTheme, lightTheme } from '~/modules/styling/themes'
+import { themeProxy } from '~/modules/styling/themes'
 import DateTime from '~/components/Layout/DateTime'
 import Window98Start from './Window98Start'
-import palettes from '~/modules/styling/palettes'
 import Link from 'next/link'
+import { useSnapshot } from 'valtio'
 
 const Layout = memo<ReactProps>(function Layout(props) {
   const { isPc } = useMedia()
-  const [theme, setTheme] = useState<'light' | 'dark'>('dark')
+  const { color } = useSnapshot(themeProxy)
+
   const router = useRouter()
-
-  useEffect(() => {
-    const lightMedia = window.matchMedia('(prefers-color-scheme: light)')
-    if (lightMedia.matches) setTheme('light')
-  }, [])
-
-  const color = palettes[Math.floor(Math.random() * palettes.length)]
   return (
-    <ThemeProvider theme={lightTheme}>
-      <Paper
+    <Paper
+      css={css`
+        ${isPc ? flex.h.default : flex.h.default};
+        height: calc(100vh - 40px);
+        overflow: auto;
+        position: relative;
+        background: ${color}44;
+        p {
+          text-decoration-color: ${color};
+        }
+      `}
+    >
+      {/* <div
         css={css`
-          ${isPc ? flex.h.default : flex.h.default};
-          height: calc(100vh - 40px);
-          overflow: auto;
-          position: relative;
-          background: ${color}44;
-          p {
-            text-decoration-color: ${color};
-          }
+          position: fixed;
+          left: 16px;
+          top: 20px;
+          font-size: ${isPc ? 20 : 12}px;
+          font-weight: 600;
+          color: ${color};
+          text-transform: uppercase;
         `}
       >
-        <div
-          css={css`
-            position: fixed;
-            left: 16px;
-            top: 20px;
-            font-size: ${isPc ? 20 : 12}px;
-            font-weight: 600;
-            color: ${color};
-            text-transform: uppercase;
-          `}
-        >
-          {router.asPath}
-        </div>
-        <div
-          css={css`
-            position: fixed;
-            right: 16px;
-            top: 2px;
-          `}
-        >
-          {/* <IconButton
+        {router.asPath}
+      </div> */}
+      <div
+        css={css`
+          position: fixed;
+          right: 16px;
+          top: 2px;
+        `}
+      >
+        {/* <IconButton
             css={toggleBtnCss}
             color='secondary'
             onClick={() => {
@@ -66,48 +58,47 @@ const Layout = memo<ReactProps>(function Layout(props) {
           >
             {theme === 'dark' ? <MdOutlineWbSunny /> : <MdDarkMode />}
           </IconButton> */}
-        </div>
-        {props.children}
+      </div>
+      {props.children}
 
+      <div
+        css={css`
+          position: fixed;
+          ${flex.h.crossCenter};
+          bottom: 0;
+          z-index: 2;
+          width: 100%;
+          background: ${color};
+          padding: 2px 0;
+          ${flex.h.crossCenter};
+          border-top: 4px solid white;
+        `}
+      >
+        <Window98Start color={color} />
+        <div css={dividerCss} />
+        {/* tasks */}
+        <Link
+          href={'/'}
+          css={router.asPath === '/' ? selectedtaskItemCss : defaultTaskCss}
+        >
+          root
+        </Link>
+
+        <Link
+          href='/cv'
+          css={router.asPath === '/cv' ? selectedtaskItemCss : defaultTaskCss}
+        >
+          cv
+        </Link>
         <div
           css={css`
-            position: fixed;
-            ${flex.h.crossCenter};
-            bottom: 0;
-            z-index: 2;
-            width: 100%;
-            background: ${color};
-            padding: 2px 0;
-            ${flex.h.crossCenter};
-            border-top: 4px solid white;
+            ${dividerCss}
+            margin-left: auto;
           `}
-        >
-          <Window98Start color={color} />
-          <div css={dividerCss} />
-          {/* tasks */}
-          <Link
-            href={'/'}
-            css={router.asPath === '/' ? selectedtaskItemCss : defaultTaskCss}
-          >
-            root
-          </Link>
-
-          <Link
-            href='/cv'
-            css={router.asPath === '/cv' ? selectedtaskItemCss : defaultTaskCss}
-          >
-            cv
-          </Link>
-          <div
-            css={css`
-              ${dividerCss}
-              margin-left: auto;
-            `}
-          ></div>
-          <DateTime color={color} />
-        </div>
-      </Paper>
-    </ThemeProvider>
+        ></div>
+        <DateTime />
+      </div>
+    </Paper>
   )
 })
 

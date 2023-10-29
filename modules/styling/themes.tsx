@@ -1,13 +1,4 @@
-import { createTheme, ThemeProvider, ThemeOptions } from '@mui/material/styles'
+import { proxy } from 'valtio'
+import palettes from '~/modules/styling/palettes'
 
-export const darkTheme = createTheme({
-  palette: {
-    mode: "dark",
-  },
-});
-
-export const lightTheme = createTheme({
-  palette: {
-    mode: "light",
-  },
-});
+export const themeProxy = proxy({ color: palettes[Math.floor(Math.random() * palettes.length)] })

@@ -1,15 +1,8 @@
 import { NextPage } from 'next'
 import { css } from '@emotion/react'
 import { flex } from '~/modules/styling/flex'
-import { AppLink } from '~/components/AppLink'
 import Layout from '~/components/Layout'
 import useMedia from '~/modules/styling/useMedia'
-import palettes from '~/modules/styling/palettes'
-
-const linkCss = css`
-  font-size: 16px;
-  line-height: 22px;
-`
 
 const bookmarks: { href: string; name: string }[] = [
   { href: 'https://pointerpointer.com/', name: 'Pointer Pointer' },
@@ -67,10 +60,8 @@ const Bookmark: NextPage = () => {
           >
             <p
               css={css`
-                background: ${palettes[index % palettes.length]}22;
                 ${linkCss};
                 margin: 0;
-                border-bottom: 3px solid ${palettes[index % palettes.length]};
                 padding: 4px 8px;
                 border-radius: 10px;
               `}

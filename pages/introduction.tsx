@@ -1,16 +1,20 @@
-import { css } from '@emotion/react'
+import { css, keyframes } from '@emotion/react'
 import { NextPage } from 'next'
 import { useCallback, useEffect, useState } from 'react'
+import { useSnapshot } from 'valtio'
 import Layout from '~/components/Layout'
 import { activeBtnCss, defaultBtnCss, normalStateBtnCss } from '~/modules/styling/button'
 import { flex } from '~/modules/styling/flex'
+import { themeProxy } from '~/modules/styling/themes'
 import useMedia from '~/modules/styling/useMedia'
 
 const CV: NextPage = () => {
   const { isPad, isPc } = useMedia()
   const [page, setPage] = useState(0)
   const [lock, setLock] = useState(true)
+  const [secondLock, setSecondLock] = useState(true)
   const [password, setPassword] = useState('')
+  const { color } = useSnapshot(themeProxy)
   const handleUserKeyPress = useCallback(
     (e: any) => {
       if (e.keyCode >= 65 && e.keyCode <= 90 && String.fromCharCode(e.keyCode)) {
@@ -20,7 +24,7 @@ const CV: NextPage = () => {
       }
 
       if (password === '696969') {
-        setLock(false)
+        setSecondLock(false)
       }
     },
     [password],
@@ -32,6 +36,14 @@ const CV: NextPage = () => {
       window.removeEventListener('keydown', handleUserKeyPress)
     }
   }, [handleUserKeyPress])
+
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setLock(false)
+    }, 3120)
+    return () => clearTimeout(timer)
+  }, [])
+
   const containerCss = css`
     position: relative;
     ${flex.v.default};
@@ -100,7 +112,7 @@ const CV: NextPage = () => {
                 width: 120px;
               `}
             >
-              {(lock ? [0] : [0, 1, 2, 3]).map(item => (
+              {(lock || secondLock ? [0] : [0, 1, 2, 3]).map(item => (
                 <div
                   key={item}
                   onClick={() => setPage(item)}
@@ -113,6 +125,7 @@ const CV: NextPage = () => {
                     gap: 4px;
                     width: 40px;
                     height: 40px;
+                    color: ${lock ? '#555555' : 'inherit'};
                   `}
                 >
                   {item}
@@ -121,9 +134,8 @@ const CV: NextPage = () => {
             </div>
             <div
               css={css`
-                background: white;
+                background: #ffffff;
                 ${normalStateBtnCss};
-
                 flex: 1;
                 padding: 16px;
                 overflow-y: scroll;
@@ -136,8 +148,31 @@ const CV: NextPage = () => {
                 }
               `}
             >
-              {lock ? (
-                <p>..</p>
+              {lock || secondLock ? (
+                <div
+                  css={css`
+                    ${flex.h.default};
+                    ${normalStateBtnCss};
+                    height: 28px;
+                    padding: 2px;
+                    background: ${color}88;
+                    gap: 2px;
+                    overflow: hidden;
+                  `}
+                >
+                  {new Array(40).fill(0).map((item, index) => (
+                    <div
+                      key={index}
+                      css={css`
+                        width: 40px;
+                        background-color: ${color};
+                        animation: ${index >= 34 ? 400 : index >= 27 ? 200 : 100}ms ease-out
+                          ${showup} ${(index >= 34 ? 120 : index >= 27 ? 100 : 80) * index}ms
+                          backwards;
+                      `}
+                    ></div>
+                  ))}
+                </div>
               ) : (
                 <>
                   <div css={flex.h.default}>
@@ -253,5 +288,18 @@ const PAGE_CONTNET: {
     ],
   },
 ]
+const showup = keyframes`
+ 
+
+  0% {
+    opacity:0
+  }
+
+
+  100% {
+    opacity:1;
+   
+  }
+`
 
 export default CV

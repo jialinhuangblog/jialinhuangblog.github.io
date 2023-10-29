@@ -1,14 +1,18 @@
 import { css } from '@emotion/react'
 import { memo, useState } from 'react'
 import { flex } from '~/modules/styling/flex'
-import palettes from '~/modules/styling/palettes'
+
 import { Job } from './type'
 import Link from 'next/link'
 import useMedia from '~/modules/styling/useMedia'
+import { useSnapshot } from 'valtio'
+import { themeProxy } from '~/modules/styling/themes'
 
-const JobCard = memo<ReactProps<{ datum: Job; color: string }>>(function JobCard(props) {
+const JobCard = memo<ReactProps<{ datum: Job }>>(function JobCard(props) {
   const job = props.datum
   const [expand, setExpand] = useState(true)
+  const { color } = useSnapshot(themeProxy)
+
   const { isPhone } = useMedia()
   return (
     <div
@@ -40,12 +44,12 @@ const JobCard = memo<ReactProps<{ datum: Job; color: string }>>(function JobCard
           top: 1px;
           height: 40px;
           padding: 0 8px;
-          background: linear-gradient(to right, ${props.color}dd, ${props.color}88, white);
+          background: linear-gradient(to right, ${color}dd, ${color}88, white);
           z-index: 1;
           font-size: ${isPhone ? 14 : 24}px;
           color: white;
           &:hover {
-            background: linear-gradient(to right, ${props.color}dd, ${props.color}dd, white);
+            background: linear-gradient(to right, ${color}dd, ${color}dd, white);
           }
         `}
       >
@@ -142,11 +146,11 @@ const JobCard = memo<ReactProps<{ datum: Job; color: string }>>(function JobCard
                   {p.techStack.map((tag, index) => (
                     <div
                       css={css`
-                        background: ${palettes[index % palettes.length]}22;
+                        background: ${color}22;
 
                         font-size: 16px;
                         line-height: 22px;
-                        border-bottom: 3px solid ${palettes[index % palettes.length]};
+                        border-bottom: 3px solid ${color};
                         padding: 4px 8px;
                         border-radius: 10px;
                       `}

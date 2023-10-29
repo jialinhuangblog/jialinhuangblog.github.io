@@ -1,14 +1,15 @@
 import { css } from '@emotion/react'
 import { NextPage } from 'next'
+import { useSnapshot } from 'valtio'
 import Layout from '~/components/Layout'
 import JobCard from '~/components/Layout/JobCard'
 import { Job } from '~/components/Layout/type'
 import { flex } from '~/modules/styling/flex'
-import palettes from '~/modules/styling/palettes'
+import { themeProxy } from '~/modules/styling/themes'
+
 import useMedia from '~/modules/styling/useMedia'
 
 const CV: NextPage = () => {
-  const color = palettes[Math.floor(Math.random() * palettes.length)]
   const { isPhone } = useMedia()
   return (
     <Layout>
@@ -23,7 +24,6 @@ const CV: NextPage = () => {
       >
         {JOB_LIST.map(j => (
           <JobCard
-            color={color}
             key={j.company}
             datum={j}
           />
