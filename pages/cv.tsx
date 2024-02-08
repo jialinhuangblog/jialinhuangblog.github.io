@@ -1,11 +1,10 @@
 import { css } from '@emotion/react'
 import { NextPage } from 'next'
-import { useSnapshot } from 'valtio'
 import Layout from '~/components/Layout'
 import JobCard from '~/components/Layout/JobCard'
-import { Job } from '~/components/Layout/type'
+import JobNewsletter from '~/components/Layout/JobNewsletter'
+import { Job, Newsletter } from '~/components/Layout/type'
 import { flex } from '~/modules/styling/flex'
-import { themeProxy } from '~/modules/styling/themes'
 
 import useMedia from '~/modules/styling/useMedia'
 
@@ -16,18 +15,26 @@ const CV: NextPage = () => {
       <div
         css={css`
           ${flex.v.default};
-          margin: 0 ${isPhone ? 16 : 80}px;
           width: 100%;
-          padding-bottom: ${isPhone ? 80 : 40}px;
+          max-width: ${isPhone ? 100 : 60}%;
+          margin: 0 auto;
           height: min-content;
         `}
       >
-        {JOB_LIST.map(j => (
-          <JobCard
-            key={j.company}
-            datum={j}
-          />
-        ))}
+        {JOB_LIST.map(j => {
+          const news = (j.company, News[News.findIndex(n => n.company === j.company)])
+          return news ? (
+            // <JobNewsletter
+            //   key={j.company}
+            //   datum={j}
+            //   datumNews={News[News.findIndex(n => n.company === j.company)]}
+            // />
+            <JobCard
+              key={j.company}
+              datum={j}
+            />
+          ) : null
+        })}
       </div>
     </Layout>
   )
@@ -154,6 +161,61 @@ const JOB_LIST: Job[] = [
           'Create a volunteer website where users can post about volunteer opportunities, similar to how posts work on Facebook, allowing people to seek participation or donate resources.',
         techStack: ['React'],
       },
+    ],
+  },
+]
+
+const News: Newsletter[] = [
+  {
+    industry: 'Dental',
+    company: 'Dentalltw',
+    title: 'Developing Dental Clinic Software and AI Integration',
+    subtitle: [
+      'Developing Dental Clinic Software and Integrating with Health Insurance',
+      'Creating an AI Service for X-ray Image Analysis',
+    ],
+    content: [
+      'I developed dental clinic software in a Windows desktop format, which integrated with the Taiwan National Health Insurance system. Some parts of the software were web-based.',
+      'Collaborated with a colleague to create an AI service for X-ray image analysis using Python Flask and uWSGI, hosted on Google Cloud Platform, to detect the position of teeth in oral X-ray photos.',
+    ],
+  },
+  {
+    industry: 'Finance',
+    company: 'Futuresai',
+    title: 'Revamp to New React with Complex Strategy Development and Collaborative Roles',
+    subtitle: [
+      'Transitioning to New React: Collaborative Approach and Tools',
+      'Developing Complex Strategies with TradingView and Next.js',
+    ],
+    content: [
+      'Working with financial products at a company that focuses on futures and options. During that time, we were in the midst of transitioning from the old to the new version of React. My role involved collaborating with a partner to revamp the entire old React project.',
+      'We used tools like TradingView, Next.js, and SignalR to develop complex strategies and trends that might be a bit hard for the average person to grasp. In our company, different team members played different roles – some acted like professors, always testing and experimenting with theories, while others were more like gamers, relying on their instincts to trade commodities.',
+      "To visualize their ideas and make them more accessible. I aimed to help users of our company's trading software understand trends more intuitively and make rational decisions.",
+    ],
+  },
+  {
+    industry: 'Media',
+    company: 'SCMP',
+    title: 'SEO Optimization, Complex Ad Analysis, and User Behavior',
+    subtitle: [
+      'Focusing on SEO Performance Metrics and LCP/FCP',
+      'In-Depth Ad Analysis for User Behavior Insights',
+    ],
+    content: [
+      "I'm blessed to work at one of the largest media companies in Hong Kong, and they had been impressively focused on their digital transformation for the past 20-30 years. My primary role there was to enhance the SEO performance of their website, particularly focusing on key metrics like LCP (Largest Contentful Paint) and FCP (First Contentful Paint).",
+      "I also worked on optimizing the logic for Google Analytics analysis. Their ad analysis tools were the most comprehensive I've ever come across, providing multiple perspectives on user behavior.",
+    ],
+  },
+  {
+    industry: 'Gaming',
+    company: 'Confetti',
+    title: 'Building a Modern Gaming Platform',
+    subtitle: [
+      'Developing a Gaming Platform with Modern Interfaces',
+      'Enhancing User Experience with Streamlined Databases',
+    ],
+    content: [
+      "Now, I work at a gaming company where we are in the process of developing a gaming platform. Similarly, I've been involved in handling long-standing customer projects and their iterations. Apart from designing more modern layouts, we've also taken the initiative to streamline the existing old database. This has allowed us to create a more intuitive middleware server for interaction with the frontend.",
     ],
   },
 ]

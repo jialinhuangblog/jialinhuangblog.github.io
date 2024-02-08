@@ -9,3 +9,11 @@ export type Job = {
     techStack: string[]
   }[]
 }
+
+export type Newsletter = {
+  industry: string
+  company: string
+  title: string
+  subtitle: string[]
+  content: string[]
+}

@@ -5,52 +5,30 @@ import { flex } from '~/modules/styling/flex'
 import { Job } from './type'
 import Link from 'next/link'
 import useMedia from '~/modules/styling/useMedia'
-import { useSnapshot } from 'valtio'
-import { themeProxy } from '~/modules/styling/themes'
 
 const JobCard = memo<ReactProps<{ datum: Job }>>(function JobCard(props) {
   const job = props.datum
   const [expand, setExpand] = useState(true)
-  const { color } = useSnapshot(themeProxy)
 
   const { isPhone } = useMedia()
   return (
     <div
       css={css`
         position: relative;
-        padding: 40px 16px ${expand ? 16 : 0}px 16px;
-        background: #cdcdcd;
-        margin: ${expand ? 40 : 20}px 0 ${expand ? 40 : 0}px 0;
-        border: 2px solid grey;
-        border-top: 4px solid white;
-        border-left: 4px solid white;
-        border-right: 4px solid black;
-        border-bottom: 4px solid black;
-        box-shadow: inset -2px -2px 4px 0 #7d7d7d, inset 2px 2px 4px 0 #adadad;
-        &:first-of-type {
-          margin: 40px 0 ${expand ? 40 : 0}px 0;
-        }
+        padding: ${expand ? 16 : 0}px ${isPhone ? 8 : 16}px;
+        background: white;
+        margin: 20px ${isPhone ? 16 : 0}px;
+        border-radius: 4px;
       `}
     >
       <div
         onClick={() => setExpand(prev => !prev)}
         css={css`
           cursor: pointer;
-          position: absolute;
-          left: 0px;
-          right: 0px;
           ${flex.h.crossCenter};
           gap: 16px;
-          top: 1px;
-          height: 40px;
-          padding: 0 8px;
-          background: linear-gradient(to right, ${color}dd, ${color}88, white);
-          z-index: 1;
+          top: 0px;
           font-size: ${isPhone ? 14 : 24}px;
-          color: white;
-          &:hover {
-            background: linear-gradient(to right, ${color}dd, ${color}dd, white);
-          }
         `}
       >
         <div css={barTextCss}>{job.company}</div>
@@ -76,15 +54,6 @@ const JobCard = memo<ReactProps<{ datum: Job }>>(function JobCard(props) {
           height: 38px;
           ${flex.h.allCenter};
           cursor: pointer;
-          background: #ededed;
-          border-top: 2px solid white;
-          border-left: 2px solid white;
-          border-right: 2px solid black;
-          border-bottom: 2px solid black;
-          ${biggerTextCss};
-          &:hover {
-            background: #eaeaea;
-          }
         `}
       >
         {expand ? '-' : '+'}
@@ -93,17 +62,12 @@ const JobCard = memo<ReactProps<{ datum: Job }>>(function JobCard(props) {
         <div
           css={css`
             ${flex.v.default};
-            background: white;
             height: min-content;
-            border: 2px solid grey;
-            border-bottom-left-radius: 8px;
-            border-bottom-right-radius: 8px;
-            padding: 16px;
           `}
         >
           {/* position,time */}
           <div css={flex.v.default}>
-            <div css={biggerTextCss}>{job.position}</div>
+            <div css={positionCss}>{job.position}</div>
           </div>
           {/* tech tags, desc */}
           <div>
@@ -111,9 +75,10 @@ const JobCard = memo<ReactProps<{ datum: Job }>>(function JobCard(props) {
               <div
                 key={i}
                 css={css`
-                  border-top: 1px solid #adadad;
                   margin-top: 16px;
                   padding-top: 16px;
+                  margin-left: 16px;
+                  border-top: 1px solid #666;
                 `}
               >
                 {p.projectIsLink ? (
@@ -128,15 +93,34 @@ const JobCard = memo<ReactProps<{ datum: Job }>>(function JobCard(props) {
                 )}
                 <div css={labelCss}>chores</div>
                 {typeof p.stuff === 'string' ? (
-                  <div>{p.stuff}</div>
+                  <div
+                    css={css`
+                      line-height: 30px;
+                      @media (max-width: 600px) {
+                        line-height: 22px;
+                      }
+                    `}
+                  >
+                    {p.stuff}
+                  </div>
                 ) : (
                   <ul>
                     {p.stuff.map(s => (
-                      <li key={s}>{s}</li>
+                      <li
+                        css={css`
+                          line-height: 30px;
+                          @media (max-width: 600px) {
+                            line-height: 22px;
+                          }
+                        `}
+                        key={s}
+                      >
+                        {s}
+                      </li>
                     ))}
                   </ul>
                 )}
-                <div css={labelCss}>tech stack</div>
+                <div css={labelCss}>gadgets</div>
                 <div
                   css={css`
                     ${flex.wrap.default};
@@ -146,13 +130,12 @@ const JobCard = memo<ReactProps<{ datum: Job }>>(function JobCard(props) {
                   {p.techStack.map((tag, index) => (
                     <div
                       css={css`
-                        background: ${color}22;
-
+                        background: #e5e62b;
                         font-size: 16px;
                         line-height: 22px;
-                        border-bottom: 3px solid ${color};
+                        border-bottom: 3px solid #e5e62b;
                         padding: 4px 8px;
-                        border-radius: 10px;
+                        border-radius: 8px;
                       `}
                       key={tag}
                     >
@@ -173,7 +156,7 @@ const labelCss = css`
   font-size: 20px;
   font-weight: 600;
   margin-bottom: 4px;
-  margin-top: 24px;
+  margin-top: 12px;
 `
 const projectCss = css`
   font-size: 30px;
@@ -187,14 +170,21 @@ const projectCss = css`
   }
 `
 
-const biggerTextCss = css`
+const positionCss = css`
   font-size: 24px;
   font-weight: 700;
+  margin-left: 16px;
+  @media (max-width: 600px) {
+    font-size: 20px;
+  }
 `
 
 const barTextCss = css`
-  font-size: 24px;
+  font-size: 32px;
   font-weight: 700;
+  @media (max-width: 600px) {
+    font-size: 24px;
+  }
 `
 
 export default JobCard

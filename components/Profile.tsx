@@ -1,26 +1,9 @@
 import { css } from '@emotion/react'
-import { Paper, Avatar } from '@mui/material'
+import { Avatar } from '@mui/material'
 import Link from 'next/link'
 import { memo } from 'react'
-import { RiLinkedinBoxFill, RiGithubFill, RiStackFill } from 'react-icons/ri'
-import { defaultBtnCss } from '~/modules/styling/button'
-import { globalOrange } from '~/modules/styling/colors'
-import { ai, flex } from '~/modules/styling/flex'
+import { flex } from '~/modules/styling/flex'
 import useMedia from '~/modules/styling/useMedia'
-
-const descriptionCss = css`
-  font-size: 16px;
-  line-height: 22px;
-`
-const keyCss = css`
-  font-weight: 600;
-  margin: 24px 0 8px;
-`
-
-const valueCss = css`
-  font-weight: 400;
-  line-height: 22px;
-`
 
 const Profile = memo(function Profile() {
   const { isPc, isPhone } = useMedia()
@@ -29,7 +12,6 @@ const Profile = memo(function Profile() {
     <div
       css={css`
         width: ${isPhone ? '100%' : '480px'};
-        height: max-content;
         border-radius: ${isPc ? 4 : 0}px;
         position: relative;
         padding: 32px 32px;
@@ -38,14 +20,8 @@ const Profile = memo(function Profile() {
         background: transparent;
         pointer-events: none;
         background-color: white;
-
-        ${isPhone
-          ? ''
-          : `  border-top: 4px solid transparent;
-        border-left: 4px solid transparent;
-        border-right: 4px solid black;
-        border-bottom: 4px solid black;
-        box-shadow: inset -2px -2px 2px 0 #7d7d7d, inset 2px 2px 2px 0 #adadad;`}
+        border-radius: ${isPhone ? 0 : 4}px;
+        height: ${isPhone ? '100vh' : 'max-content'};
       `}
     >
       {!isPhone && (
@@ -56,8 +32,8 @@ const Profile = memo(function Profile() {
             height: 29px;
             left: 0;
             top: 0;
-            background: ${globalOrange.o600};
-            border-radius: ${isPc ? 4 : 0}px ${isPc ? 4 : 0}px 0 0;
+            background: #e5e62b;
+            border-radius: 4px 4px 0 0;
           `}
         />
       )}
@@ -66,6 +42,7 @@ const Profile = memo(function Profile() {
         css={css`
           ${flex.h.crossCenter};
           gap: 8px;
+          padding-top: 8px;
         `}
       >
         <Avatar
@@ -102,29 +79,26 @@ const Profile = memo(function Profile() {
       <p css={keyCss}>References</p>
       <div
         css={css`
-          ${flex.h.crossCenter};
-          & > * {
-            flex: 1;
-          }
+          ${flex.h.default};
           pointer-events: initial;
         `}
       >
         <Link
           target='_blank'
           href='https://www.linkedin.com/in/jlhuangprogramming/'
-          css={linkCss}
+          css={referenceLinkCss}
         >
           Linkedin
         </Link>
         <Link
           target='_blank'
           href='https://github.com/jialinhuang00'
-          css={linkCss}
+          css={referenceLinkCss}
         >
           Github
         </Link>
         <Link
-          css={linkCss}
+          css={referenceLinkCss}
           href='./angular-chunk-versatile'
         >
           Skills
@@ -139,10 +113,32 @@ const Profile = memo(function Profile() {
   )
 })
 
-const linkCss = css`
-  ${defaultBtnCss};
+const descriptionCss = css`
+  font-size: 16px;
+  line-height: 22px;
+  margin-top: 24px;
+`
+const keyCss = css`
+  font-weight: 600;
+  margin: 24px 0 8px;
+`
+
+const valueCss = css`
+  font-weight: 400;
+  line-height: 22px;
+  color: #666;
+`
+
+const referenceLinkCss = css`
   ${flex.h.allCenter};
-  padding: 4px 8px;
-  text-decoration: none;
+  padding: 4px 4px 4px 0;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+
+  &,
+  &:hover,
+  &:active {
+    color: #666;
+  }
 `
 export default Profile

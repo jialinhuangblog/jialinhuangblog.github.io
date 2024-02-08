@@ -1,6 +1,5 @@
 import { css } from '@emotion/react'
-import { memo, useEffect, useRef, useState } from 'react'
-import { defaultBtnCss } from '~/modules/styling/button'
+import { memo, useEffect, useRef } from 'react'
 import { flex } from '~/modules/styling/flex'
 
 const Window = memo<ReactProps<{ color: string }>>(function Window(props) {
@@ -19,7 +18,6 @@ const Window = memo<ReactProps<{ color: string }>>(function Window(props) {
         border: 3px solid white;
         box-shadow: inset 0px 0px 2px 0 grey;
         background: ${props.color};
-        ${defaultBtnCss};
       `}
     >
       <div
@@ -36,7 +34,6 @@ const Window = memo<ReactProps<{ color: string }>>(function Window(props) {
           height: 20px;
           width: 20px;
           margin-top: 2px;
-          ${defaultBtnCss}
         `}
       >
         x
