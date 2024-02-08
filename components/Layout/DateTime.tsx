@@ -1,18 +1,19 @@
-import { css } from '@emotion/react'
-import dayjs from 'dayjs'
-import { memo, useEffect, useState } from 'react'
-import useMedia from '~/modules/styling/useMedia'
+"use client";
+import { css } from "@emotion/react";
+import dayjs from "dayjs";
+import { memo, useEffect, useState } from "react";
+import useMedia from "@/modules/styling/useMedia";
 
 const DateTime = memo(function DateTime(props) {
-  const [dt, setDt] = useState(dayjs())
-  const { isPhone } = useMedia()
+  const [dt, setDt] = useState(dayjs());
+  const { isPhone } = useMedia();
   useEffect(() => {
     const interval = setInterval(() => {
-      setDt(dayjs())
-    }, 1000)
+      setDt(dayjs());
+    }, 1000);
 
-    return () => clearInterval(interval)
-  }, [dt])
+    return () => clearInterval(interval);
+  }, [dt]);
 
   return (
     <div
@@ -25,7 +26,7 @@ const DateTime = memo(function DateTime(props) {
         font-size: ${isPhone ? 10 : 14}px;
         box-shadow: inset 2px 2px 2px 0 #7d7d7d, inset -2px -2px 2px 0 white;
         &:before {
-          content: ' ';
+          content: " ";
           /* background: #334651; */
           width: 100%;
           border-radius: 4px;
@@ -37,10 +38,10 @@ const DateTime = memo(function DateTime(props) {
         }
       `}
     >
-      {dayjs().format('hh:mm A')}
+      {dayjs().format("hh:mm A")}
       {/* {dayjs().format('YYYY MM/DD hh:mm A')} */}
     </div>
-  )
-})
+  );
+});
 
-export default DateTime
+export default DateTime;

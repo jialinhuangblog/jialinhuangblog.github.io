@@ -1,13 +1,13 @@
-import { css } from '@emotion/react'
-import { memo, useEffect, useRef } from 'react'
-import { flex } from '~/modules/styling/flex'
+import { css } from "@emotion/react";
+import { memo, useEffect, useRef } from "react";
+import { flex } from "@/modules/styling/flex";
 
 const Window = memo<ReactProps<{ color: string }>>(function Window(props) {
-  const dragRef = useRef<HTMLDivElement>(null)
+  const dragRef = useRef<HTMLDivElement>(null);
 
   return (
     <div
-      className='window-main'
+      className="window-main"
       ref={dragRef}
       draggable={true}
       css={css`
@@ -46,7 +46,7 @@ const Window = memo<ReactProps<{ color: string }>>(function Window(props) {
       ></div>
       {/* hello world children. */}
     </div>
-  )
-})
+  );
+});
 
-export default Window
+export default Window;

@@ -1,19 +1,19 @@
-import { memo } from 'react'
-import { css } from '@emotion/react'
-import { useRouter } from 'next/router'
-import { Paper } from '@mui/material'
-import { flex } from '~/modules/styling/flex'
-import useMedia from '~/modules/styling/useMedia'
-import DateTime from '~/components/Layout/DateTime'
-import Window98Start from './Window98Start'
-import Link from 'next/link'
+"use client";
+import { memo } from "react";
+import { css } from "@emotion/react";
+import { usePathname } from "next/navigation";
+import { flex } from "@/modules/styling/flex";
+import useMedia from "@/modules/styling/useMedia";
+import DateTime from "@/components/Layout/DateTime";
+import Window98Start from "./Window98Start";
+import Link from "next/link";
 
 const Layout = memo<ReactProps>(function Layout(props) {
-  const { isPc } = useMedia()
-  const color = '#054D77'
-  const router = useRouter()
+  const { isPc } = useMedia();
+  const color = "#054D77";
+  const path = usePathname();
   return (
-    <Paper
+    <div
       css={css`
         ${isPc ? flex.h.default : flex.h.default};
         height: calc(100vh - 40px);
@@ -44,15 +44,15 @@ const Layout = memo<ReactProps>(function Layout(props) {
         <div css={dividerCss} />
         {/* Tabs */}
         <Link
-          href={'/'}
-          css={router.asPath === '/' ? selectedTabItemCss : defaultTabCss}
+          href={"/"}
+          css={path === "/" ? selectedTabItemCss : defaultTabCss}
         >
           ./
         </Link>
 
         <Link
-          href='/cv'
-          css={router.asPath === '/cv' ? selectedTabItemCss : defaultTabCss}
+          href="/cv"
+          css={path === "/cv" ? selectedTabItemCss : defaultTabCss}
         >
           ./cv
         </Link>
@@ -64,16 +64,16 @@ const Layout = memo<ReactProps>(function Layout(props) {
         ></div>
         <DateTime />
       </div>
-    </Paper>
-  )
-})
+    </div>
+  );
+});
 
 const dividerCss = css`
   width: 2px;
   height: 32px;
   box-shadow: inset 1px 0 0 0 white, inset -1px 0 0 0 #7d7d7d;
   margin: 0 4px;
-`
+`;
 const defaultTabCss = css`
   cursor: pointer;
   width: 200px;
@@ -99,12 +99,12 @@ const defaultTabCss = css`
     border-bottom: 1px solid white;
     box-shadow: inset 1px 1px 0 0 #7d7d7d;
   }
-`
+`;
 
 const selectedTabItemCss = css`
   ${defaultTabCss};
   box-shadow: inset 2px 2px 0 0 #7d7d7d, inset -2px -2px 0 0 #ffffff;
   margin: 0 4px;
-`
+`;
 
-export default Layout
+export default Layout;

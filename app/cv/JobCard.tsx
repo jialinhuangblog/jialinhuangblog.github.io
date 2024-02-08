@@ -1,28 +1,29 @@
-import { css } from '@emotion/react'
-import { memo, useState } from 'react'
-import { flex } from '~/modules/styling/flex'
+"use client";
+import { css } from "@emotion/react";
+import { memo, useState } from "react";
+import { flex } from "@/modules/styling/flex";
 
-import { Job } from './type'
-import Link from 'next/link'
-import useMedia from '~/modules/styling/useMedia'
+import { Job } from "../../components/Layout/type";
+import Link from "next/link";
+import useMedia from "@/modules/styling/useMedia";
 
 const JobCard = memo<ReactProps<{ datum: Job }>>(function JobCard(props) {
-  const job = props.datum
-  const [expand, setExpand] = useState(true)
+  const job = props.datum;
+  const [expand, setExpand] = useState(true);
 
-  const { isPhone } = useMedia()
+  const { isPhone } = useMedia();
   return (
     <div
       css={css`
         position: relative;
-        padding: ${expand ? 16 : 0}px ${isPhone ? 8 : 16}px;
+        padding: ${expand ? 16 : 16}px ${isPhone ? 8 : 16}px;
         background: white;
         margin: 20px ${isPhone ? 16 : 0}px;
         border-radius: 4px;
       `}
     >
       <div
-        onClick={() => setExpand(prev => !prev)}
+        onClick={() => setExpand((prev) => !prev)}
         css={css`
           cursor: pointer;
           ${flex.h.crossCenter};
@@ -43,20 +44,25 @@ const JobCard = memo<ReactProps<{ datum: Job }>>(function JobCard(props) {
       </div>
       <div
         onClick={() => {
-          setExpand(prev => !prev)
+          setExpand((prev) => !prev);
         }}
         css={css`
           position: absolute;
-          right: 0px;
-          top: 2px;
+          right: 0;
+          top: 0;
           z-index: 1;
-          width: 38px;
-          height: 38px;
+          width: 40px;
+          height: 40px;
           ${flex.h.allCenter};
           cursor: pointer;
+          opacity: 0;
+
+          &:hover {
+            opacity: 1;
+          }
         `}
       >
-        {expand ? '-' : '+'}
+        {expand ? "-" : "+"}
       </div>
       {expand ? (
         <div
@@ -82,17 +88,14 @@ const JobCard = memo<ReactProps<{ datum: Job }>>(function JobCard(props) {
                 `}
               >
                 {p.projectIsLink ? (
-                  <Link
-                    css={projectCss}
-                    href={'https://' + p.name}
-                  >
+                  <Link css={projectCss} href={"https://" + p.name}>
                     {p.name}
                   </Link>
                 ) : (
                   <div css={projectCss}>{p.name}</div>
                 )}
                 <div css={labelCss}>chores</div>
-                {typeof p.stuff === 'string' ? (
+                {typeof p.stuff === "string" ? (
                   <div
                     css={css`
                       line-height: 30px;
@@ -105,7 +108,7 @@ const JobCard = memo<ReactProps<{ datum: Job }>>(function JobCard(props) {
                   </div>
                 ) : (
                   <ul>
-                    {p.stuff.map(s => (
+                    {p.stuff.map((s) => (
                       <li
                         css={css`
                           line-height: 30px;
@@ -149,15 +152,15 @@ const JobCard = memo<ReactProps<{ datum: Job }>>(function JobCard(props) {
         </div>
       ) : null}
     </div>
-  )
-})
+  );
+});
 
 const labelCss = css`
   font-size: 20px;
   font-weight: 600;
   margin-bottom: 4px;
   margin-top: 12px;
-`
+`;
 const projectCss = css`
   font-size: 30px;
   font-weight: 700;
@@ -168,7 +171,7 @@ const projectCss = css`
   @media (max-width: 900px) {
     font-size: 22px;
   }
-`
+`;
 
 const positionCss = css`
   font-size: 24px;
@@ -177,7 +180,7 @@ const positionCss = css`
   @media (max-width: 600px) {
     font-size: 20px;
   }
-`
+`;
 
 const barTextCss = css`
   font-size: 32px;
@@ -185,6 +188,6 @@ const barTextCss = css`
   @media (max-width: 600px) {
     font-size: 24px;
   }
-`
+`;
 
-export default JobCard
+export default JobCard;

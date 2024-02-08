@@ -1,15 +1,15 @@
-import { css } from '@emotion/react'
-import { memo, useState } from 'react'
-import { flex } from '~/modules/styling/flex'
+import { css } from "@emotion/react";
+import { memo, useState } from "react";
+import { flex } from "@/modules/styling/flex";
 
-import { Job, Newsletter } from './type'
-import useMedia from '~/modules/styling/useMedia'
+import { Job, Newsletter } from "./type";
+import useMedia from "@/modules/styling/useMedia";
 
 const JobNewsletter = memo<ReactProps<{ datum: Job; datumNews: Newsletter }>>(
   function JobNewsletter({ datum, datumNews }) {
-    const [expand, setExpand] = useState(true)
+    const [expand, setExpand] = useState(true);
 
-    const { isPhone } = useMedia()
+    const { isPhone } = useMedia();
     return (
       <div
         css={css`
@@ -72,13 +72,13 @@ const JobNewsletter = memo<ReactProps<{ datum: Job; datumNews: Newsletter }>>(
           ))}
         </>
       </div>
-    )
-  },
-)
+    );
+  }
+);
 
 const barTextCss = css`
   font-size: 32px;
   font-weight: 700;
-`
+`;
 
-export default JobNewsletter
+export default JobNewsletter;

@@ -1,40 +1,30 @@
 {
+  "name": "new-nextjs",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "export": "next export",
-    "deploy": "rm -rf node_modules/.cache && next build && next export && touch out/.nojekyll && git add out/ && git commit -m \"build & deploy\" && git push -d origin gh-pages && git subtree push --prefix out origin gh-pages"
+    "lint": "next lint",
+    "deploy": "rm -rf node_modules/.cache && next build &&  touch out/.nojekyll && git add out/ && git commit -m \"build & deploy\" && git push -d origin gh-pages && git subtree push --prefix out origin gh-pages"
   },
   "dependencies": {
-    "@emotion/css": "^11.9.0",
-    "@emotion/react": "^11.9.0",
-    "@emotion/styled": "^11.8.1",
-    "@mui/material": "^5.7.0",
+    "@emotion/css": "^11.11.2",
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.15.7",
     "dayjs": "^1.11.10",
-    "next": "13.4.19",
-    "prettier": "^2.6.2",
-    "react": "latest",
-    "react-dom": "latest",
-    "react-icons": "^4.3.1",
-    "type-fest": "^2.12.2",
-    "valtio": "^1.11.3"
+    "next": "14.1.0",
+    "react": "^18",
+    "react-dom": "^18"
   },
   "devDependencies": {
-    "@babel/eslint-parser": "^7.17.0",
-    "@types/eslint": "^8.4.2",
-    "@types/node": "^17.0.33",
-    "@types/prettier": "^2.6.1",
-    "@types/react": "^18.0.9",
-    "@types/react-dom": "^18.0.4",
-    "@typescript-eslint/eslint-plugin": "^5.25.0",
-    "@typescript-eslint/parser": "^5.25.0",
-    "eslint": "^8.16.0",
-    "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-prettier": "^4.0.0",
-    "eslint-plugin-react": "^7.30.0",
-    "eslint-plugin-react-hooks": "^4.5.0",
-    "typescript": "^4.6.4"
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.0",
+    "typescript": "^5"
   }
 }
