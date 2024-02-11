@@ -5,6 +5,8 @@ const nextConfig = {
   compiler: {
     emotion: true,
   },
-  output: 'export',
+  images: {
+    domains: ['lh3.googleusercontent.com'],
+  },
 }
 export default nextConfig

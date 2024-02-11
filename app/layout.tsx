@@ -1,4 +1,4 @@
-import { css } from '@emotion/react'
+import { css } from '@emotion/css'
 import type { Metadata } from 'next'
 import { Merriweather } from 'next/font/google'
 import '@/app/global.css'

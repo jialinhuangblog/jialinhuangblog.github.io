@@ -1,9 +1,10 @@
 'use client'
 import { memo } from 'react'
 import { css } from '@emotion/react'
-import { Avatar } from '@mui/material'
+
 import Link from 'next/link'
 import { flex } from '@/modules/styling/flex'
+import Image from 'next/image'
 
 const Profile = memo(function Profile() {
   return (
@@ -53,8 +54,13 @@ const Profile = memo(function Profile() {
           padding-top: 8px;
         `}
       >
-        <Avatar
-          sx={{ width: 48, height: 48 }}
+        <Image
+          width={48}
+          height={48}
+          css={css`
+            border-radius: 50%;
+          `}
+          alt='avatar'
           src='https://lh3.googleusercontent.com/a-/AOh14GgT_31zBJDEEvfcpZc3v9I_8B7c_EHn1sXKJAY6Hw=s96-c'
         />
         <p
