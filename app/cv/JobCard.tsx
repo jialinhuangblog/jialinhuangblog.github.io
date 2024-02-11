@@ -3,23 +3,26 @@ import { css } from '@emotion/react'
 import { memo, useState } from 'react'
 import { flex } from '@/modules/styling/flex'
 
-import { Job } from '../../components/Layout/type'
+import { Job } from '@/components/Layout/type'
 import Link from 'next/link'
-import useMedia from '@/modules/styling/useMedia'
 
 const JobCard = memo<ReactProps<{ datum: Job }>>(function JobCard(props) {
   const job = props.datum
   const [expand, setExpand] = useState(true)
 
-  const { isPhone } = useMedia()
   return (
     <div
       css={css`
         position: relative;
-        padding: ${expand ? 16 : 16}px ${isPhone ? 8 : 16}px;
+        padding: 16px;
+
         background: white;
-        margin: 20px ${isPhone ? 16 : 0}px;
+        margin: 20px 0;
         border-radius: 4px;
+        @media (max-width: 600px) {
+          padding: 16px 8px;
+          margin: 20px 16px;
+        }
       `}
     >
       <div
@@ -29,13 +32,19 @@ const JobCard = memo<ReactProps<{ datum: Job }>>(function JobCard(props) {
           ${flex.h.crossCenter};
           gap: 16px;
           top: 0px;
-          font-size: ${isPhone ? 14 : 24}px;
+          font-size: 24px;
+          @media (max-width: 600px) {
+            font-size: 14;
+          }
         `}
       >
         <div css={barTextCss}>{job.company}</div>
         <div
           css={css`
-            font-size: ${isPhone ? 16 : 24}px;
+            font-size: 24px;
+            @media (max-width: 600px) {
+              font-size: 16px;
+            }
             font-weight: 700;
           `}
         >
@@ -88,12 +97,15 @@ const JobCard = memo<ReactProps<{ datum: Job }>>(function JobCard(props) {
                 `}
               >
                 {p.projectIsLink ? (
-                  <Link
-                    css={projectCss}
-                    href={'https://' + p.name}
-                  >
-                    {p.name}
-                  </Link>
+                  <>
+                    <Link
+                      css={projectCss}
+                      href={'https://' + p.name}
+                    >
+                      {p.name}
+                    </Link>
+                    <span>👈👈</span>
+                  </>
                 ) : (
                   <div css={projectCss}>{p.name}</div>
                 )}
@@ -189,6 +201,7 @@ const labelCss = css`
 const projectCss = css`
   font-size: 30px;
   font-weight: 700;
+  margin-right: 8px;
   &:visited,
   & {
     color: inherit;

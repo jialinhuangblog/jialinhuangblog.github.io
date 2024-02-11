@@ -8,9 +8,8 @@ const NotFoundIcon = memo(function NotFoundIcon() {
     <p
       css={css`
         ${flex.h.allCenter};
-        font-size: 72px;
+        font-size: 48px;
         width: 100%;
-        height: 100vh;
         user-select: none;
       `}
     >

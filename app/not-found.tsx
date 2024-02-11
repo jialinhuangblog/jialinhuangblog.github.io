@@ -3,6 +3,10 @@ import Layout from '@/components/Layout'
 import NotFoundIcon from '@/components/NotFoundIcon'
 
 const NotFound: NextPage = () => {
-  return <NotFoundIcon />
+  return (
+    <Layout>
+      <NotFoundIcon />
+    </Layout>
+  )
 }
 export default NotFound

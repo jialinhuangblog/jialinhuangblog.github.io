@@ -1,44 +1,51 @@
 'use client'
+import { memo } from 'react'
 import { css } from '@emotion/react'
 import { Avatar } from '@mui/material'
 import Link from 'next/link'
-import { memo } from 'react'
 import { flex } from '@/modules/styling/flex'
-import useMedia from '@/modules/styling/useMedia'
 
 const Profile = memo(function Profile() {
-  const { isPc, isPhone } = useMedia()
-
   return (
     <div
       css={css`
-        width: ${isPhone ? '100%' : '480px'};
-        border-radius: ${isPc ? 4 : 0}px;
+        width: 480px;
+
+        border-radius: 4px;
         position: relative;
         padding: 32px 32px;
-        margin: ${isPhone ? 0 : 40}px auto 0px;
+        margin: 40px auto 0px;
         user-select: none;
         background: transparent;
         pointer-events: none;
         background-color: white;
-        border-radius: ${isPhone ? 0 : 4}px;
-        height: ${isPhone ? '100vh' : 'max-content'};
+        border-radius: 4px;
+        height: max-content;
+        @media (max-width: 600px) {
+          width: 100%;
+          height: 100vh;
+          border-radius: 0;
+          margin: 0;
+          border-radius: 0;
+        }
       `}
     >
-      {!isPhone && (
-        <div
-          css={css`
-            position: absolute;
-            width: 100%;
-            height: 29px;
-            left: 0;
-            top: 0;
-            background: #e5e62b;
-            border-radius: 4px 4px 0 0;
-          `}
-        />
-      )}
+      <div
+        css={css`
+          position: absolute;
+          width: 100%;
+          height: 29px;
+          left: 0;
+          top: 0;
+          background: #e5e62b;
+          border-radius: 4px 4px 0 0;
+          display: block;
 
+          @media (max-width: 600px) {
+            display: none;
+          }
+        `}
+      />
       <div
         css={css`
           ${flex.h.crossCenter};
@@ -47,7 +54,7 @@ const Profile = memo(function Profile() {
         `}
       >
         <Avatar
-          sx={{ width: isPhone ? 48 : 64, height: isPhone ? 48 : 64 }}
+          sx={{ width: 48, height: 48 }}
           src='https://lh3.googleusercontent.com/a-/AOh14GgT_31zBJDEEvfcpZc3v9I_8B7c_EHn1sXKJAY6Hw=s96-c'
         />
         <p
@@ -73,12 +80,12 @@ const Profile = memo(function Profile() {
       <div css={valueCss}>Taipei</div>
       <p css={keyCss}>Company</p>
       <div css={valueCss}>Confetti</div>
-      {isPhone ? null : (
+      {/* {isPhone ? null : (
         <>
           <p css={keyCss}>MBTI</p>
           <div css={valueCss}>INTJ</div>
         </>
-      )}
+      )} */}
       <p css={keyCss}>References</p>
       <div
         css={css`
@@ -136,7 +143,6 @@ const referenceLinkCss = css`
   ${flex.h.allCenter};
   padding: 4px 4px 4px 0;
   text-decoration: underline;
-  text-underline-offset: 4px;
 
   &,
   &:hover,
