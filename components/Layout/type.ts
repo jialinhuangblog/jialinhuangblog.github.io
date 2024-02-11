@@ -5,7 +5,7 @@ export type Job = {
   project: {
     projectIsLink?: boolean
     name: string
-    stuff: string | string[]
+    stuff: string | string[] | { title: string; details: string }[]
     techStack: string[]
   }[]
 }

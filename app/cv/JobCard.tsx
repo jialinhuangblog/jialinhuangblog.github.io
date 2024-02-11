@@ -1,17 +1,17 @@
-"use client";
-import { css } from "@emotion/react";
-import { memo, useState } from "react";
-import { flex } from "@/modules/styling/flex";
+'use client'
+import { css } from '@emotion/react'
+import { memo, useState } from 'react'
+import { flex } from '@/modules/styling/flex'
 
-import { Job } from "../../components/Layout/type";
-import Link from "next/link";
-import useMedia from "@/modules/styling/useMedia";
+import { Job } from '../../components/Layout/type'
+import Link from 'next/link'
+import useMedia from '@/modules/styling/useMedia'
 
 const JobCard = memo<ReactProps<{ datum: Job }>>(function JobCard(props) {
-  const job = props.datum;
-  const [expand, setExpand] = useState(true);
+  const job = props.datum
+  const [expand, setExpand] = useState(true)
 
-  const { isPhone } = useMedia();
+  const { isPhone } = useMedia()
   return (
     <div
       css={css`
@@ -23,7 +23,7 @@ const JobCard = memo<ReactProps<{ datum: Job }>>(function JobCard(props) {
       `}
     >
       <div
-        onClick={() => setExpand((prev) => !prev)}
+        onClick={() => setExpand(prev => !prev)}
         css={css`
           cursor: pointer;
           ${flex.h.crossCenter};
@@ -44,7 +44,7 @@ const JobCard = memo<ReactProps<{ datum: Job }>>(function JobCard(props) {
       </div>
       <div
         onClick={() => {
-          setExpand((prev) => !prev);
+          setExpand(prev => !prev)
         }}
         css={css`
           position: absolute;
@@ -62,7 +62,7 @@ const JobCard = memo<ReactProps<{ datum: Job }>>(function JobCard(props) {
           }
         `}
       >
-        {expand ? "-" : "+"}
+        {expand ? '-' : '+'}
       </div>
       {expand ? (
         <div
@@ -88,14 +88,17 @@ const JobCard = memo<ReactProps<{ datum: Job }>>(function JobCard(props) {
                 `}
               >
                 {p.projectIsLink ? (
-                  <Link css={projectCss} href={"https://" + p.name}>
+                  <Link
+                    css={projectCss}
+                    href={'https://' + p.name}
+                  >
                     {p.name}
                   </Link>
                 ) : (
                   <div css={projectCss}>{p.name}</div>
                 )}
                 <div css={labelCss}>chores</div>
-                {typeof p.stuff === "string" ? (
+                {typeof p.stuff === 'string' ? (
                   <div
                     css={css`
                       line-height: 30px;
@@ -108,19 +111,41 @@ const JobCard = memo<ReactProps<{ datum: Job }>>(function JobCard(props) {
                   </div>
                 ) : (
                   <ul>
-                    {p.stuff.map((s) => (
-                      <li
-                        css={css`
-                          line-height: 30px;
-                          @media (max-width: 600px) {
-                            line-height: 22px;
-                          }
-                        `}
-                        key={s}
-                      >
-                        {s}
-                      </li>
-                    ))}
+                    {p.stuff.map(s => {
+                      return typeof s === 'string' ? (
+                        <li
+                          css={css`
+                            line-height: 30px;
+                            @media (max-width: 600px) {
+                              line-height: 22px;
+                            }
+                          `}
+                          key={s}
+                        >
+                          {s}
+                        </li>
+                      ) : (
+                        <li
+                          css={css`
+                            line-height: 30px;
+                            color: #666;
+                            @media (max-width: 600px) {
+                              line-height: 22px;
+                            }
+                          `}
+                          key={s.title}
+                        >
+                          <b
+                            css={css`
+                              color: black;
+                            `}
+                          >
+                            {s.title}
+                          </b>
+                          {s.details}
+                        </li>
+                      )
+                    })}
                   </ul>
                 )}
                 <div css={labelCss}>gadgets</div>
@@ -152,15 +177,15 @@ const JobCard = memo<ReactProps<{ datum: Job }>>(function JobCard(props) {
         </div>
       ) : null}
     </div>
-  );
-});
+  )
+})
 
 const labelCss = css`
   font-size: 20px;
   font-weight: 600;
-  margin-bottom: 4px;
-  margin-top: 12px;
-`;
+  margin-bottom: 8px;
+  margin-top: 16px;
+`
 const projectCss = css`
   font-size: 30px;
   font-weight: 700;
@@ -171,7 +196,7 @@ const projectCss = css`
   @media (max-width: 900px) {
     font-size: 22px;
   }
-`;
+`
 
 const positionCss = css`
   font-size: 24px;
@@ -180,7 +205,7 @@ const positionCss = css`
   @media (max-width: 600px) {
     font-size: 20px;
   }
-`;
+`
 
 const barTextCss = css`
   font-size: 32px;
@@ -188,6 +213,6 @@ const barTextCss = css`
   @media (max-width: 600px) {
     font-size: 24px;
   }
-`;
+`
 
-export default JobCard;
+export default JobCard
