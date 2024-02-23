@@ -4,7 +4,6 @@ import { css } from '@emotion/react'
 
 import Link from 'next/link'
 import { flex } from '@/modules/styling/flex'
-import Image from 'next/image'
 
 const Profile = memo(function Profile() {
   return (
@@ -54,11 +53,12 @@ const Profile = memo(function Profile() {
           padding-top: 8px;
         `}
       >
-        <Image
-          width={48}
-          height={48}
+        {/* // eslint-disable-next-line @next/next/no-img-element */}
+        <img
           css={css`
             border-radius: 50%;
+            width: 48px;
+            height: 48px;
           `}
           alt='avatar'
           src='https://lh3.googleusercontent.com/a-/AOh14GgT_31zBJDEEvfcpZc3v9I_8B7c_EHn1sXKJAY6Hw=s96-c'

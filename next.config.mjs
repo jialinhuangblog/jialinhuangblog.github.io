@@ -5,8 +5,16 @@ const nextConfig = {
   compiler: {
     emotion: true,
   },
-  images: {
-    domains: ['lh3.googleusercontent.com'],
-  },
+  // images: {
+  //   domains: ['https://lh3.googleusercontent.com'],
+  //   // remotePatterns: [
+  //   //   {
+  //   //     protocol: 'https',
+  //   //     hostname: 'lh3.googleusercontent.com',
+  //   //     port: '',
+  //   //   },
+  //   // ],
+  // },
+  output: 'export', //production
 }
 export default nextConfig

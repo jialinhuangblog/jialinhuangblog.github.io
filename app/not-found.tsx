@@ -1,12 +1,7 @@
 import { NextPage } from 'next'
-import Layout from '@/components/Layout'
-import NotFoundIcon from '@/components/NotFoundIcon'
+import '@/app/not-found.css'
 
 const NotFound: NextPage = () => {
-  return (
-    <Layout>
-      <NotFoundIcon />
-    </Layout>
-  )
+  return <div></div>
 }
 export default NotFound
