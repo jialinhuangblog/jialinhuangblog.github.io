@@ -15,7 +15,6 @@ const JobCard = memo<ReactProps<{ datum: Job }>>(function JobCard(props) {
       css={css`
         position: relative;
         padding: 16px;
-
         background: white;
         margin: 20px 0;
         border-radius: 4px;
@@ -109,7 +108,7 @@ const JobCard = memo<ReactProps<{ datum: Job }>>(function JobCard(props) {
                 ) : (
                   <div css={projectCss}>{p.name}</div>
                 )}
-                <div css={labelCss}>chores</div>
+                {/* <div css={labelCss}>Stuff</div> */}
                 {typeof p.stuff === 'string' ? (
                   <div
                     css={css`
@@ -160,7 +159,7 @@ const JobCard = memo<ReactProps<{ datum: Job }>>(function JobCard(props) {
                     })}
                   </ul>
                 )}
-                <div css={labelCss}>gadgets</div>
+                <div css={labelCss}>Tech Stack</div>
                 <div
                   css={css`
                     ${flex.wrap.default};

@@ -7,7 +7,9 @@ import DateTime from '@/components/Layout/DateTime'
 import Window98Start from '@/components/Layout/Window98Start'
 import Link from 'next/link'
 
-const Layout = memo<ReactProps>(function Layout(props) {
+const Layout = memo<ReactProps<{ background?: string; hideTaskbar?: boolean }>>(function Layout(
+  props,
+) {
   const color = '#054D77'
   const path = usePathname()
   return (
@@ -17,7 +19,13 @@ const Layout = memo<ReactProps>(function Layout(props) {
         height: calc(100vh - 40px);
         overflow: auto;
         position: relative;
-        background: ${color};
+        background: ${props.background ?? color};
+        animation: b 0.5s infinite alternate;
+        @keyframes b {
+          100% {
+            background-position: 9% 49%, 50% 50%;
+          }
+        }
         p {
           text-decoration-color: ${color};
         }
@@ -28,43 +36,45 @@ const Layout = memo<ReactProps>(function Layout(props) {
     >
       {props.children}
 
-      <div
-        css={css`
-          position: fixed;
-          ${flex.h.crossCenter};
-          bottom: 0;
-          z-index: 2;
-          width: 100%;
-          background: ${color};
-          height: 40px;
-          border-top: 1px solid white;
-          ${flex.h.crossCenter};
-        `}
-      >
-        <Window98Start color={color} />
-        <div css={dividerCss} />
-        {/* Tabs */}
-        <Link
-          href={'/'}
-          css={path === '/' ? selectedTabItemCss : defaultTabCss}
-        >
-          ./
-        </Link>
-
-        <Link
-          href='/cv'
-          css={path === '/cv' ? selectedTabItemCss : defaultTabCss}
-        >
-          ./cv
-        </Link>
+      {props.hideTaskbar ? null : (
         <div
           css={css`
-            ${dividerCss}
-            margin-left: auto;
+            position: fixed;
+            ${flex.h.crossCenter};
+            bottom: 0;
+            z-index: 2;
+            width: 100%;
+            background: ${color};
+            height: 40px;
+            border-top: 1px solid white;
+            ${flex.h.crossCenter};
           `}
-        ></div>
-        <DateTime />
-      </div>
+        >
+          <Window98Start color={color} />
+          <div css={dividerCss} />
+          {/* Tabs */}
+          <Link
+            href={'/'}
+            css={path === '/' ? selectedTabItemCss : defaultTabCss}
+          >
+            ./
+          </Link>
+
+          <Link
+            href='/cv'
+            css={path === '/cv' ? selectedTabItemCss : defaultTabCss}
+          >
+            ./cv
+          </Link>
+          <div
+            css={css`
+              ${dividerCss}
+              margin-left: auto;
+            `}
+          ></div>
+          <DateTime />
+        </div>
+      )}
     </div>
   )
 })

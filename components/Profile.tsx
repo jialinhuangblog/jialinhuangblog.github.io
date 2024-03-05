@@ -10,17 +10,15 @@ const Profile = memo(function Profile() {
     <div
       css={css`
         width: 480px;
-
         border-radius: 4px;
         position: relative;
         padding: 32px 32px;
-        margin: 40px auto 0px;
-        user-select: none;
+        margin: 40px auto;
         background: transparent;
-        pointer-events: none;
         background-color: white;
         border-radius: 4px;
-        height: max-content;
+        overflow-y: auto;
+        scrollbar-width: none; /* Firefox */
         @media (max-width: 600px) {
           width: 100%;
           height: 100vh;
@@ -38,6 +36,11 @@ const Profile = memo(function Profile() {
           left: 0;
           top: 0;
           background: #e5e62b;
+          @keyframes b {
+            100% {
+              background-position: 9% 49%, 50% 50%;
+            }
+          }
           border-radius: 4px 4px 0 0;
           display: block;
 
@@ -97,6 +100,7 @@ const Profile = memo(function Profile() {
         css={css`
           ${flex.h.default};
           pointer-events: initial;
+          gap: 8px;
         `}
       >
         <Link
@@ -113,17 +117,32 @@ const Profile = memo(function Profile() {
         >
           Github
         </Link>
-        <Link
-          css={referenceLinkCss}
-          href='./angular-chunk-versatile'
-        >
-          Skills
-        </Link>
       </div>
       <p css={keyCss}>My favorite motto</p>
       <div css={valueCss}>
         To live is to risk it all Otherwise you are just an inert chunk of randomly assembled
         molecules drifting wherever the Universe blows you
+      </div>
+      <p css={keyCss}>Toys</p>
+      <div
+        css={css`
+          ${flex.v.default};
+          pointer-events: initial;
+          gap: 8px;
+        `}
+      >
+        <Link
+          css={referenceLinkCss}
+          href='./angular-chunk-versatile'
+        >
+          My Tech stack (Angular, firebase) 👈👈
+        </Link>
+        <Link
+          css={referenceLinkCss}
+          href='./rick-and-morty-quotes'
+        >
+          Rick & Morty Quotes 👈👈
+        </Link>
       </div>
     </div>
   )
@@ -136,7 +155,8 @@ const descriptionCss = css`
 `
 const keyCss = css`
   font-weight: 600;
-  margin: 24px 0 8px;
+  font-size: 18px;
+  margin: 16px 0 8px;
 `
 
 const valueCss = css`
@@ -146,8 +166,7 @@ const valueCss = css`
 `
 
 const referenceLinkCss = css`
-  ${flex.h.allCenter};
-  padding: 4px 4px 4px 0;
+  padding: 4px 0;
   text-decoration: underline;
 
   &,

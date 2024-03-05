@@ -1,45 +1,83 @@
 'use client'
 import { css } from '@emotion/react'
-import dayjs from 'dayjs'
-import { memo, useEffect, useState } from 'react'
+import { memo } from 'react'
 import Link from 'next/link'
 import { flex } from '@/modules/styling/flex'
+import { Metadata } from 'next'
 
+const colors = ['#9f58e0', '#17b3fb', '#f48f27', '#fc44b2', '#dcdc24', '#1aea9d', '#e0e0e0']
+export const metadata: Metadata = {
+  title: 'References/Inspirations',
+  description: '',
+}
 const MiscLinkList = memo(function MiscLinkList(props) {
-  const [dt, setDt] = useState(dayjs())
-  useEffect(() => {
-    const interval = setInterval(() => {
-      setDt(dayjs())
-    }, 1000)
-
-    return () => clearInterval(interval)
-  }, [dt])
-
   return (
     <div
       css={css`
         margin: 0 auto;
-        ${flex.v.default};
-        gap: 16px;
-        padding: 16px;
-        a,
-        * {
-          &,
-          &:visited {
-            color: white;
+        background: repeating-conic-gradient(#1a1a1a 0 0.0001%, #7f7f7f 0 0.0002%) 50% 50%/2500px
+          2500px;
+        animation: b 0.1s infinite alternate;
+        @keyframes b {
+          100% {
+            background-position: 9% 49%, 50% 50%;
           }
+        }
+        height: 100vh;
+        width: 100vw;
+        padding: 16px;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 16px;
+        @media (max-width: 600px) {
+          ${flex.v.default}
         }
       `}
     >
-      <h1>Sparkling</h1>
-      {ITEMS.map(item => (
-        <Link
-          key={item.title}
-          href={item.link}
+      <div
+        css={css`
+          grid-column: 2;
+        `}
+      >
+        <h1
+          css={css`
+            color: #cecece;
+            margin-top: 24px;
+            margin-bottom: 24px;
+          `}
         >
-          {item.title}
-        </Link>
-      ))}
+          Sparkling
+        </h1>
+        <div
+          css={css`
+            ${flex.v.default};
+            gap: 16px;
+          `}
+        >
+          {ITEMS.map((item, idx) => (
+            <Link
+              css={css`
+                padding: 4px;
+                border-radius: 2px;
+                &,
+                &:visited {
+                  color: ${colors[idx % colors.length]};
+                }
+                &:hover,
+                &:active {
+                  background: ${colors[idx % colors.length]}88;
+                  color: #19201e;
+                }
+                transition: background 300ms;
+              `}
+              key={item.title}
+              href={item.link}
+            >
+              {item.title}
+            </Link>
+          ))}
+        </div>
+      </div>
     </div>
   )
 })
@@ -65,6 +103,12 @@ const ITEMS: { title: string; link: string }[] = [
   {
     title: 'Old TV noise effect',
     link: 'https://codepen.io/t_afif/pen/oNdKYge',
+  },
+  { title: 'musicforprogramming.net', link: 'https://musicforprogramming.net/' },
+  { title: 'Text Scramble Effect', link: 'https://codepen.io/soulwire/pen/mEMPrK' },
+  {
+    title: 'Poliwag: Hypnosis',
+    link: 'https://www.deviantart.com/ultragriffy/art/Poliwag-Hypnosis-386070700',
   },
 ]
 

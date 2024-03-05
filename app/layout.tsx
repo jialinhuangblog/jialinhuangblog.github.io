@@ -8,8 +8,7 @@ const merriweather = Merriweather({
 })
 
 export const metadata: Metadata = {
-  title: "jia0's",
-  description: 'my page',
+  title: 'jialinhuang',
 }
 
 export default function RootLayout({
