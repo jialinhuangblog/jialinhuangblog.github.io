@@ -1,7 +1,7 @@
 import { NextPage } from 'next'
 import CardsSlider from '@/app/css-decode/horizontal-slider/CardsSlider'
 
-const Misc: NextPage = () => {
+const HorizontalSlider: NextPage = () => {
   return <CardsSlider />
 }
-export default Misc
+export default HorizontalSlider

@@ -24,7 +24,6 @@ const CardsSlider = memo<ReactProps>(function CardsSlider(props) {
       //card list
       const target = scrollHorizontalNode.current
       const containerTarget = containerNode.current
-
       // control cards horizontal scrolling when we scroll down
       if (target) {
         const maxPercentage =
@@ -34,7 +33,7 @@ const CardsSlider = memo<ReactProps>(function CardsSlider(props) {
 
       // since sticky doesn't work, use this to let its position to be fixed temporarily
       if (containerTarget) {
-        console.log(containerTarget?.offsetTop < scrollTop)
+        console.log(containerTarget?.offsetTop < scrollTop, scrollPercentage)
         setBeSticky(containerTarget?.offsetTop < scrollTop)
       }
     }
@@ -62,7 +61,7 @@ const CardsSlider = memo<ReactProps>(function CardsSlider(props) {
         css={css`
           width: 100vw;
           /* super high */
-          height: 800vh;
+          height: ${beSticky ? 800 : 100}vh;
           overflow-y: auto;
           background-color: #1a1a1a;
           position: relative;
@@ -72,7 +71,6 @@ const CardsSlider = memo<ReactProps>(function CardsSlider(props) {
           css={css`
             background-color: #1a1a1a;
             width: min-content;
-            overflow-y: hidden;
             position: ${beSticky ? 'fixed' : 'relative'};
             top: 0;
             padding: 32px;
