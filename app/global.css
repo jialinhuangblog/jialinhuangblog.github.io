@@ -1,14 +1,12 @@
 html {
   width: 100vw;
-  overflow: hidden;
   scroll-behavior: smooth;
 }
-body {
-  margin: 0;
-}
+
 * {
   box-sizing: border-box;
   line-height: 1.4;
   margin: 0;
   color: #222222;
+  position: relative;
 }

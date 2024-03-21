@@ -143,6 +143,12 @@ const Profile = memo(function Profile() {
         >
           Rick & Morty Quotes 👈👈
         </Link>
+        <Link
+          css={referenceLinkCss}
+          href='./css-decode/horizontal-slider'
+        >
+          CSS - Vertical Scroll, Horizontal Control
+        </Link>
       </div>
     </div>
   )
