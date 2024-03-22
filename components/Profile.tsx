@@ -36,11 +36,7 @@ const Profile = memo(function Profile() {
           left: 0;
           top: 0;
           background: #e5e62b;
-          @keyframes b {
-            100% {
-              background-position: 9% 49%, 50% 50%;
-            }
-          }
+
           border-radius: 4px 4px 0 0;
           display: block;
 
@@ -148,6 +144,19 @@ const Profile = memo(function Profile() {
           href='./css-decode/horizontal-slider'
         >
           CSS - Vertical Scroll, Horizontal Control
+        </Link>
+
+        <Link
+          css={referenceLinkCss}
+          href='./css-decode/sliding-windows'
+        >
+          CSS - Vertical Sliding Windows
+        </Link>
+        <Link
+          css={referenceLinkCss}
+          href='./game-of-life'
+        >
+          Conway&#39;s Game of life
         </Link>
       </div>
     </div>
