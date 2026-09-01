@@ -1,0 +1,198 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"default"]
+4:I[47843,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"default"]
+5:I[48350,[],""]
+6:I[11412,[],""]
+7:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+8:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-5f5d0eb30b97fa1b.js"],"default"]
+a:I[96727,[],"OutletBoundary"]
+c:I[14038,[],"AsyncMetadataOutlet"]
+e:I[96727,[],"ViewportBoundary"]
+10:I[96727,[],"MetadataBoundary"]
+11:"$Sreact.suspense"
+13:I[92950,[],""]
+:HL["/_next/static/media/4c9affa5bc8f420e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/6e5637a05e39a1b1.css","style"]
+:HL["/_next/static/css/27451c99e2657f58.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/004145cbd0a33204.css","style"]
+0:{"P":null,"b":"ULvxUWnH7J2D9qudU--bA","p":"","c":["","v2","async-await-blocking"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","async-await-blocking","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6e5637a05e39a1b1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/27451c99e2657f58.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L8",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","async-await-blocking","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/004145cbd0a33204.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$La",null,{"children":["$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L10",null,{"children":["$","div",null,{"hidden":true,"children":["$","$11",null,{"fallback":null,"children":"$L12"}]}]}]]}],false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+b:null
+14:I[25885,["7654","static/chunks/7654-339fd591b7f76774.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+15:T2e48,<p>Every tutorial says async/await is "non-blocking." But look at this:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">async</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> getData</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> data</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> fetch</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'/api'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(data); </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// this line waits</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p><code>console.log(data)</code> cannot run until <code>fetch</code> finishes. That is waiting. That is blocking. So why does everyone keep saying it's not?</p>
+<p>Because "non-blocking" refers to the caller, not the next line.</p>
+<h2>The confusion</h2>
+<p>The word "blocking" gets used without saying <em>what</em> is being blocked. Inside the function, <code>await</code> absolutely blocks the lines below it. The function pauses and the remaining code waits.</p>
+<p>But step outside:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">getData</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">();</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'This runs right away'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span></code></pre></figure>
+<p><code>console.log</code> fires immediately. It does not wait for <code>fetch</code>. The caller moved on. The main thread kept going.</p>
+<p>So <code>await</code> blocks the function it lives in. It does not block whoever called that function — unless the caller also uses <code>await</code>.</p>
+<h2>Nested await</h2>
+<p>Three layers, each with <code>await</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">async</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> fetchData</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'3. fetchData: before await'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> delay</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">500</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'3. fetchData: after await'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">async</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> process</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'2. process: before await'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> fetchData</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">();</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'2. process: after await'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">async</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> main</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'1. main: before await'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> process</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">();</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'1. main: after await'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">main</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">();</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'0. main thread: immediate'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span></code></pre></figure>
+<p>Output:</p>
+<pre><code>1. main: before await
+2. process: before await
+3. fetchData: before await
+0. main thread: immediate        ← not first, but before the 500ms delay
+
+  [resolved] fetchData (500ms)
+3. fetchData: after await        ← innermost resolves first
+2. process: after await
+1. main: after await             ← outermost resolves last
+</code></pre>
+<p><code>main thread: immediate</code> is not the first line to print. Each function enters and runs synchronously until it hits its <code>await</code>. So <code>main</code> calls <code>process</code>, <code>process</code> calls <code>fetchData</code>, <code>fetchData</code> hits <code>await delay(500)</code> — only then does execution suspend and return to the caller. An async function behaves like a regular function call until the moment it actually awaits something.</p>
+<p>After 500ms, the await chain unwinds inside-out, like a call stack. <code>main()</code> was called without <code>await</code>, so the main thread never waited.</p>
+<h2>What if the top level also awaits?</h2>
+<p>Change <code>main()</code> to <code>await main()</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> main</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">();</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'0. main thread: immediate'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span></code></pre></figure>
+<pre><code>1. main: before await
+2. process: before await
+3. fetchData: before await
+  [resolved] fetchData (500ms)
+3. fetchData: after await
+2. process: after await
+1. main: after await
+0. main thread: immediate        ← now it waits too
+</code></pre>
+<p><code>immediate</code> moves to the end. The top level used <code>await</code>, so the top level waits too.</p>
+<p>Side note: top-level <code>await</code> is ES module syntax. Node detects it and reparses the file as ESM, which is why a <code>MODULE_TYPELESS_PACKAGE_JSON</code> warning appears. <code>await</code> inside an <code>async function</code> works in both CJS and ESM. Only top-level <code>await</code> requires ESM.</p>
+<h2>So which is it — blocking or not?</h2>
+<p>Both. <code>await</code> blocks the scope it sits in. Every line after <code>await</code> in the same function waits. Add <code>await</code> to the caller, that caller waits too. The blocking propagates upward, one layer at a time.</p>
+<p>The only reason async/await is called "non-blocking" is that this waiting never reaches the main thread — unless someone explicitly <code>await</code>s all the way up. The function suspends, wraps the rest as a microtask, and hands control back to the event loop. The caller is free to continue.</p>
+<p>"Async is non-blocking" is a statement about the main thread. The next line after <code>await</code> is absolutely blocked.</p>16:Te55,
+Every tutorial says async/await is "non-blocking." But look at this:
+
+```js
+async function getData() {
+  const data = await fetch('/api');
+  console.log(data); // this line waits
+}
+```
+
+`console.log(data)` cannot run until `fetch` finishes. That is waiting. That is blocking. So why does everyone keep saying it's not?
+
+Because "non-blocking" refers to the caller, not the next line.
+
+## The confusion
+
+The word "blocking" gets used without saying *what* is being blocked. Inside the function, `await` absolutely blocks the lines below it. The function pauses and the remaining code waits.
+
+But step outside:
+
+```js
+getData();
+console.log('This runs right away');
+```
+
+`console.log` fires immediately. It does not wait for `fetch`. The caller moved on. The main thread kept going.
+
+So `await` blocks the function it lives in. It does not block whoever called that function — unless the caller also uses `await`.
+
+## Nested await
+
+Three layers, each with `await`:
+
+```js
+async function fetchData() {
+  console.log('3. fetchData: before await');
+  await delay(500);
+  console.log('3. fetchData: after await');
+}
+
+async function process() {
+  console.log('2. process: before await');
+  await fetchData();
+  console.log('2. process: after await');
+}
+
+async function main() {
+  console.log('1. main: before await');
+  await process();
+  console.log('1. main: after await');
+}
+
+main();
+console.log('0. main thread: immediate');
+```
+
+Output:
+
+```
+1. main: before await
+2. process: before await
+3. fetchData: before await
+0. main thread: immediate        ← not first, but before the 500ms delay
+
+  [resolved] fetchData (500ms)
+3. fetchData: after await        ← innermost resolves first
+2. process: after await
+1. main: after await             ← outermost resolves last
+```
+
+`main thread: immediate` is not the first line to print. Each function enters and runs synchronously until it hits its `await`. So `main` calls `process`, `process` calls `fetchData`, `fetchData` hits `await delay(500)` — only then does execution suspend and return to the caller. An async function behaves like a regular function call until the moment it actually awaits something.
+
+After 500ms, the await chain unwinds inside-out, like a call stack. `main()` was called without `await`, so the main thread never waited.
+
+## What if the top level also awaits?
+
+Change `main()` to `await main()`:
+
+```js
+await main();
+console.log('0. main thread: immediate');
+```
+
+```
+1. main: before await
+2. process: before await
+3. fetchData: before await
+  [resolved] fetchData (500ms)
+3. fetchData: after await
+2. process: after await
+1. main: after await
+0. main thread: immediate        ← now it waits too
+```
+
+`immediate` moves to the end. The top level used `await`, so the top level waits too.
+
+Side note: top-level `await` is ES module syntax. Node detects it and reparses the file as ESM, which is why a `MODULE_TYPELESS_PACKAGE_JSON` warning appears. `await` inside an `async function` works in both CJS and ESM. Only top-level `await` requires ESM.
+
+## So which is it — blocking or not?
+
+Both. `await` blocks the scope it sits in. Every line after `await` in the same function waits. Add `await` to the caller, that caller waits too. The blocking propagates upward, one layer at a time.
+
+The only reason async/await is called "non-blocking" is that this waiting never reaches the main thread — unless someone explicitly `await`s all the way up. The function suspends, wraps the rest as a microtask, and hands control back to the event loop. The caller is free to continue.
+
+"Async is non-blocking" is a statement about the main thread. The next line after `await` is absolutely blocked.
+17:T1458,LS0tCnRpdGxlOiAiYXdhaXQgZG9lcyBibG9jayDigJQganVzdCBub3Qgd2hlcmUgeW91IHRoaW5rIgpkYXRlOiAyMDI2LTAzLTIxVDIwOjI3OjE3CnRhZ3M6IFtqYXZhc2NyaXB0LCBhc3luY10KZGVzY3JpcHRpb246IEV2ZXJ5IHR1dG9yaWFsIHNheXMgYXN5bmMvYXdhaXQgaXMgbm9uLWJsb2NraW5nLiBCdXQgdGhlIGxpbmUgYWZ0ZXIgYXdhaXQgZGVmaW5pdGVseSB3YWl0cy4gU28gd2hpY2ggaXMgaXQ/Ci0tLQoKRXZlcnkgdHV0b3JpYWwgc2F5cyBhc3luYy9hd2FpdCBpcyAibm9uLWJsb2NraW5nLiIgQnV0IGxvb2sgYXQgdGhpczoKCmBgYGpzCmFzeW5jIGZ1bmN0aW9uIGdldERhdGEoKSB7CiAgY29uc3QgZGF0YSA9IGF3YWl0IGZldGNoKCcvYXBpJyk7CiAgY29uc29sZS5sb2coZGF0YSk7IC8vIHRoaXMgbGluZSB3YWl0cwp9CmBgYAoKYGNvbnNvbGUubG9nKGRhdGEpYCBjYW5ub3QgcnVuIHVudGlsIGBmZXRjaGAgZmluaXNoZXMuIFRoYXQgaXMgd2FpdGluZy4gVGhhdCBpcyBibG9ja2luZy4gU28gd2h5IGRvZXMgZXZlcnlvbmUga2VlcCBzYXlpbmcgaXQncyBub3Q/CgpCZWNhdXNlICJub24tYmxvY2tpbmciIHJlZmVycyB0byB0aGUgY2FsbGVyLCBub3QgdGhlIG5leHQgbGluZS4KCiMjIFRoZSBjb25mdXNpb24KClRoZSB3b3JkICJibG9ja2luZyIgZ2V0cyB1c2VkIHdpdGhvdXQgc2F5aW5nICp3aGF0KiBpcyBiZWluZyBibG9ja2VkLiBJbnNpZGUgdGhlIGZ1bmN0aW9uLCBgYXdhaXRgIGFic29sdXRlbHkgYmxvY2tzIHRoZSBsaW5lcyBiZWxvdyBpdC4gVGhlIGZ1bmN0aW9uIHBhdXNlcyBhbmQgdGhlIHJlbWFpbmluZyBjb2RlIHdhaXRzLgoKQnV0IHN0ZXAgb3V0c2lkZToKCmBgYGpzCmdldERhdGEoKTsKY29uc29sZS5sb2coJ1RoaXMgcnVucyByaWdodCBhd2F5Jyk7CmBgYAoKYGNvbnNvbGUubG9nYCBmaXJlcyBpbW1lZGlhdGVseS4gSXQgZG9lcyBub3Qgd2FpdCBmb3IgYGZldGNoYC4gVGhlIGNhbGxlciBtb3ZlZCBvbi4gVGhlIG1haW4gdGhyZWFkIGtlcHQgZ29pbmcuCgpTbyBgYXdhaXRgIGJsb2NrcyB0aGUgZnVuY3Rpb24gaXQgbGl2ZXMgaW4uIEl0IGRvZXMgbm90IGJsb2NrIHdob2V2ZXIgY2FsbGVkIHRoYXQgZnVuY3Rpb24g4oCUIHVubGVzcyB0aGUgY2FsbGVyIGFsc28gdXNlcyBgYXdhaXRgLgoKIyMgTmVzdGVkIGF3YWl0CgpUaHJlZSBsYXllcnMsIGVhY2ggd2l0aCBgYXdhaXRgOgoKYGBganMKYXN5bmMgZnVuY3Rpb24gZmV0Y2hEYXRhKCkgewogIGNvbnNvbGUubG9nKCczLiBmZXRjaERhdGE6IGJlZm9yZSBhd2FpdCcpOwogIGF3YWl0IGRlbGF5KDUwMCk7CiAgY29uc29sZS5sb2coJzMuIGZldGNoRGF0YTogYWZ0ZXIgYXdhaXQnKTsKfQoKYXN5bmMgZnVuY3Rpb24gcHJvY2VzcygpIHsKICBjb25zb2xlLmxvZygnMi4gcHJvY2VzczogYmVmb3JlIGF3YWl0Jyk7CiAgYXdhaXQgZmV0Y2hEYXRhKCk7CiAgY29uc29sZS5sb2coJzIuIHByb2Nlc3M6IGFmdGVyIGF3YWl0Jyk7Cn0KCmFzeW5jIGZ1bmN0aW9uIG1haW4oKSB7CiAgY29uc29sZS5sb2coJzEuIG1haW46IGJlZm9yZSBhd2FpdCcpOwogIGF3YWl0IHByb2Nlc3MoKTsKICBjb25zb2xlLmxvZygnMS4gbWFpbjogYWZ0ZXIgYXdhaXQnKTsKfQoKbWFpbigpOwpjb25zb2xlLmxvZygnMC4gbWFpbiB0aHJlYWQ6IGltbWVkaWF0ZScpOwpgYGAKCk91dHB1dDoKCmBgYAoxLiBtYWluOiBiZWZvcmUgYXdhaXQKMi4gcHJvY2VzczogYmVmb3JlIGF3YWl0CjMuIGZldGNoRGF0YTogYmVmb3JlIGF3YWl0CjAuIG1haW4gdGhyZWFkOiBpbW1lZGlhdGUgICAgICAgIOKGkCBub3QgZmlyc3QsIGJ1dCBiZWZvcmUgdGhlIDUwMG1zIGRlbGF5CgogIFtyZXNvbHZlZF0gZmV0Y2hEYXRhICg1MDBtcykKMy4gZmV0Y2hEYXRhOiBhZnRlciBhd2FpdCAgICAgICAg4oaQIGlubmVybW9zdCByZXNvbHZlcyBmaXJzdAoyLiBwcm9jZXNzOiBhZnRlciBhd2FpdAoxLiBtYWluOiBhZnRlciBhd2FpdCAgICAgICAgICAgICDihpAgb3V0ZXJtb3N0IHJlc29sdmVzIGxhc3QKYGBgCgpgbWFpbiB0aHJlYWQ6IGltbWVkaWF0ZWAgaXMgbm90IHRoZSBmaXJzdCBsaW5lIHRvIHByaW50LiBFYWNoIGZ1bmN0aW9uIGVudGVycyBhbmQgcnVucyBzeW5jaHJvbm91c2x5IHVudGlsIGl0IGhpdHMgaXRzIGBhd2FpdGAuIFNvIGBtYWluYCBjYWxscyBgcHJvY2Vzc2AsIGBwcm9jZXNzYCBjYWxscyBgZmV0Y2hEYXRhYCwgYGZldGNoRGF0YWAgaGl0cyBgYXdhaXQgZGVsYXkoNTAwKWAg4oCUIG9ubHkgdGhlbiBkb2VzIGV4ZWN1dGlvbiBzdXNwZW5kIGFuZCByZXR1cm4gdG8gdGhlIGNhbGxlci4gQW4gYXN5bmMgZnVuY3Rpb24gYmVoYXZlcyBsaWtlIGEgcmVndWxhciBmdW5jdGlvbiBjYWxsIHVudGlsIHRoZSBtb21lbnQgaXQgYWN0dWFsbHkgYXdhaXRzIHNvbWV0aGluZy4KCkFmdGVyIDUwMG1zLCB0aGUgYXdhaXQgY2hhaW4gdW53aW5kcyBpbnNpZGUtb3V0LCBsaWtlIGEgY2FsbCBzdGFjay4gYG1haW4oKWAgd2FzIGNhbGxlZCB3aXRob3V0IGBhd2FpdGAsIHNvIHRoZSBtYWluIHRocmVhZCBuZXZlciB3YWl0ZWQuCgojIyBXaGF0IGlmIHRoZSB0b3AgbGV2ZWwgYWxzbyBhd2FpdHM/CgpDaGFuZ2UgYG1haW4oKWAgdG8gYGF3YWl0IG1haW4oKWA6CgpgYGBqcwphd2FpdCBtYWluKCk7CmNvbnNvbGUubG9nKCcwLiBtYWluIHRocmVhZDogaW1tZWRpYXRlJyk7CmBgYAoKYGBgCjEuIG1haW46IGJlZm9yZSBhd2FpdAoyLiBwcm9jZXNzOiBiZWZvcmUgYXdhaXQKMy4gZmV0Y2hEYXRhOiBiZWZvcmUgYXdhaXQKICBbcmVzb2x2ZWRdIGZldGNoRGF0YSAoNTAwbXMpCjMuIGZldGNoRGF0YTogYWZ0ZXIgYXdhaXQKMi4gcHJvY2VzczogYWZ0ZXIgYXdhaXQKMS4gbWFpbjogYWZ0ZXIgYXdhaXQKMC4gbWFpbiB0aHJlYWQ6IGltbWVkaWF0ZSAgICAgICAg4oaQIG5vdyBpdCB3YWl0cyB0b28KYGBgCgpgaW1tZWRpYXRlYCBtb3ZlcyB0byB0aGUgZW5kLiBUaGUgdG9wIGxldmVsIHVzZWQgYGF3YWl0YCwgc28gdGhlIHRvcCBsZXZlbCB3YWl0cyB0b28uCgpTaWRlIG5vdGU6IHRvcC1sZXZlbCBgYXdhaXRgIGlzIEVTIG1vZHVsZSBzeW50YXguIE5vZGUgZGV0ZWN0cyBpdCBhbmQgcmVwYXJzZXMgdGhlIGZpbGUgYXMgRVNNLCB3aGljaCBpcyB3aHkgYSBgTU9EVUxFX1RZUEVMRVNTX1BBQ0tBR0VfSlNPTmAgd2FybmluZyBhcHBlYXJzLiBgYXdhaXRgIGluc2lkZSBhbiBgYXN5bmMgZnVuY3Rpb25gIHdvcmtzIGluIGJvdGggQ0pTIGFuZCBFU00uIE9ubHkgdG9wLWxldmVsIGBhd2FpdGAgcmVxdWlyZXMgRVNNLgoKIyMgU28gd2hpY2ggaXMgaXQg4oCUIGJsb2NraW5nIG9yIG5vdD8KCkJvdGguIGBhd2FpdGAgYmxvY2tzIHRoZSBzY29wZSBpdCBzaXRzIGluLiBFdmVyeSBsaW5lIGFmdGVyIGBhd2FpdGAgaW4gdGhlIHNhbWUgZnVuY3Rpb24gd2FpdHMuIEFkZCBgYXdhaXRgIHRvIHRoZSBjYWxsZXIsIHRoYXQgY2FsbGVyIHdhaXRzIHRvby4gVGhlIGJsb2NraW5nIHByb3BhZ2F0ZXMgdXB3YXJkLCBvbmUgbGF5ZXIgYXQgYSB0aW1lLgoKVGhlIG9ubHkgcmVhc29uIGFzeW5jL2F3YWl0IGlzIGNhbGxlZCAibm9uLWJsb2NraW5nIiBpcyB0aGF0IHRoaXMgd2FpdGluZyBuZXZlciByZWFjaGVzIHRoZSBtYWluIHRocmVhZCDigJQgdW5sZXNzIHNvbWVvbmUgZXhwbGljaXRseSBgYXdhaXRgcyBhbGwgdGhlIHdheSB1cC4gVGhlIGZ1bmN0aW9uIHN1c3BlbmRzLCB3cmFwcyB0aGUgcmVzdCBhcyBhIG1pY3JvdGFzaywgYW5kIGhhbmRzIGNvbnRyb2wgYmFjayB0byB0aGUgZXZlbnQgbG9vcC4gVGhlIGNhbGxlciBpcyBmcmVlIHRvIGNvbnRpbnVlLgoKIkFzeW5jIGlzIG5vbi1ibG9ja2luZyIgaXMgYSBzdGF0ZW1lbnQgYWJvdXQgdGhlIG1haW4gdGhyZWFkLiBUaGUgbmV4dCBsaW5lIGFmdGVyIGBhd2FpdGAgaXMgYWJzb2x1dGVseSBibG9ja2VkLgo=9:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L14",null,{"htmlContent":"$15","rawContent":"$16","base64Content":"$17","title":"await does block — just not where you think","createdAt":"2026-03-21T20:27:17.000Z","updatedAt":"$undefined","tags":["javascript","async"],"altHtmlContent":"$undefined","currentLang":"$undefined","altLang":"$undefined"}]}]}]
+d:{"metadata":[["$","title","0",{"children":"await does block — just not where you think  | jialinhuang"}],["$","meta","1",{"name":"description","content":"Every tutorial says async/await is non-blocking. But the line after await definitely waits. So which is it?"}]],"error":null,"digest":"$undefined"}
+12:"$d:metadata"

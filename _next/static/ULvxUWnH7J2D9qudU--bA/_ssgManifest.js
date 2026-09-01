@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fhtml\u002F[...slug]","\u002Fv1\u002Fhtml\u002F[...slug]","\u002Fv2\u002F[slug]","\u002Fws-quotes\u002F[symbol]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

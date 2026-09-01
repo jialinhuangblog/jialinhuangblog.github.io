@@ -1,0 +1,387 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"default"]
+4:I[47843,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"default"]
+5:I[48350,[],""]
+6:I[11412,[],""]
+7:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+8:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-5f5d0eb30b97fa1b.js"],"default"]
+a:I[96727,[],"OutletBoundary"]
+c:I[14038,[],"AsyncMetadataOutlet"]
+e:I[96727,[],"ViewportBoundary"]
+10:I[96727,[],"MetadataBoundary"]
+11:"$Sreact.suspense"
+13:I[92950,[],""]
+:HL["/_next/static/media/4c9affa5bc8f420e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/6e5637a05e39a1b1.css","style"]
+:HL["/_next/static/css/27451c99e2657f58.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/004145cbd0a33204.css","style"]
+0:{"P":null,"b":"ULvxUWnH7J2D9qudU--bA","p":"","c":["","v2","samesite-and-the-subdomain-cookie-bug"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","samesite-and-the-subdomain-cookie-bug","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6e5637a05e39a1b1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/27451c99e2657f58.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L8",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","samesite-and-the-subdomain-cookie-bug","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/004145cbd0a33204.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$La",null,{"children":["$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L10",null,{"children":["$","div",null,{"hidden":true,"children":["$","$11",null,{"fallback":null,"children":"$L12"}]}]}]]}],false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+b:null
+14:I[25885,["7654","static/chunks/7654-339fd591b7f76774.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+15:T3927,<p>You log in at <code>localhost:3000</code>. Server sets a session cookie. You navigate to <code>thembase.localhost:3000</code>. Same machine. Just a different subdomain prefix. The cookie is gone. Server says you're not logged in.</p>
+<p>Same machine. Same browser. Same port. Why?</p>
+<p>Because the cookie only ever belonged to <code>localhost</code>, never to its subdomains. <code>localhost</code> is a special name, and the browser won't carry a cookie from it over to <code>thembase.localhost</code>. That's a <strong>scoping problem, not a <code>SameSite</code> one.</strong> Seeing why means untangling two rules people blur together: "same site" and "same origin."</p>
+<h2>The cookie I shipped</h2>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  httpOnly</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">true</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  secure</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">false</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  sameSite</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"lax"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  path</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"/"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p><code>sameSite: "lax"</code> is the default in modern browsers. Sounds permissive. Actually has rules.</p>
+<p>To understand the rules, you have to separate two concepts.</p>
+<h2>Same Site ≠ Same Origin</h2>
+<p>Different specs, different rules.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th></th><th>Same Site</th><th>Same Origin</th></tr></thead><tbody><tr><td>Used by</td><td><code>SameSite</code> cookie attribute, <code>Sec-Fetch-Site</code> header</td><td>Same-Origin Policy (storage, fetch, postMessage)</td></tr><tr><td>Compares</td><td>eTLD+1 (effective top-level domain + 1 label)</td><td>scheme + host + port (all three exact)</td></tr><tr><td><code>www.example.com</code> vs <code>blog.example.com</code></td><td>✅ Same site</td><td>❌ Different origin</td></tr><tr><td><code>http://x.com</code> vs <code>https://x.com</code></td><td>✅ Same site</td><td>❌ Different origin</td></tr><tr><td><code>example.com:80</code> vs <code>example.com:8080</code></td><td>✅ Same site</td><td>❌ Different origin</td></tr></tbody></table>
+<p><strong>Same Site is broader than Same Origin.</strong> Same Origin requires everything to match. Same Site only cares about the registrable domain.</p>
+<blockquote>
+<p><strong>Schemeful caveat.</strong> Browsers later added <em>schemeful</em> same-site (Chrome 86+, now the default), which also splits on scheme. Under it, <code>http://x.com</code> and <code>https://x.com</code> count as cross-site after all. The cure is the same as everywhere else here: serve the whole site over HTTPS, and the scheme stops mattering. (<a href="https://web.dev/articles/schemeful-samesite">Schemeful Same-Site</a>)</p>
+</blockquote>
+<h2>What's eTLD+1</h2>
+<p>eTLD = effective Top-Level Domain. The "public" part of a domain. The part anyone can register under.</p>
+<ul>
+<li>TLDs like <code>.com</code>, <code>.org</code>, <code>.net</code> are also eTLDs.</li>
+<li>Multi-level eTLDs like <code>.co.uk</code>, <code>.com.tw</code> (you register <code>mycorp.co.uk</code>, not <code>.uk</code>).</li>
+<li><code>eTLD+1</code> means eTLD plus one more label, which is the registrable name.</li>
+</ul>
+<p>Examples:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Domain</th><th>eTLD</th><th>eTLD+1</th></tr></thead><tbody><tr><td><code>www.example.com</code></td><td><code>.com</code></td><td><code>example.com</code></td></tr><tr><td><code>blog.example.co.uk</code></td><td><code>.co.uk</code></td><td><code>example.co.uk</code></td></tr><tr><td><code>cdn.assets.example.com</code></td><td><code>.com</code></td><td><code>example.com</code></td></tr></tbody></table>
+<p>All <code>*.example.com</code> share <code>example.com</code> as eTLD+1, so all same site.</p>
+<h2>The Public Suffix List trap</h2>
+<p>Some hosting platforms run on a single domain but serve untrusted user content under subdomains. <code>github.io</code>, <code>herokuapp.com</code>, <code>vercel.app</code>. If <code>youraccount.github.io</code> and <code>myaccount.github.io</code> were treated as same site, your cookies would leak to mine.</p>
+<p>The <a href="https://publicsuffix.org/">Public Suffix List</a> fixes this. It declares certain domains as "<strong>public suffixes</strong>" that get treated like TLDs.</p>
+<p>Once <code>github.io</code> is on the list:</p>
+<ul>
+<li><code>github.io</code> becomes an eTLD</li>
+<li><code>youraccount.github.io</code> is <code>github.io</code> + 1 label, so eTLD+1</li>
+<li><code>myaccount.github.io</code> is its own eTLD+1</li>
+<li>They are <strong>different sites</strong>, even though they share <code>github.io</code></li>
+</ul>
+<p>This is why GitHub Pages users can't accidentally share cookies. Same mechanism for Heroku, Vercel, Netlify, S3 website endpoints. Anywhere user-generated subdomains exist.</p>
+<h2>SameSite values</h2>
+<pre><code>Set-Cookie: id=abc; SameSite=Strict
+Set-Cookie: id=abc; SameSite=Lax       (default in modern browsers)
+Set-Cookie: id=abc; SameSite=None; Secure
+</code></pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Value</th><th>Cross-site request sends cookie?</th><th>Top-level navigation sends?</th></tr></thead><tbody><tr><td>Strict</td><td>Never</td><td><strong>No.</strong> Even clicking a link to your site won't send the cookie on first request</td></tr><tr><td>Lax</td><td>No</td><td><strong>Yes.</strong> Clicking a link, address-bar typing, redirects all carry the cookie</td></tr><tr><td>None</td><td>Yes (everywhere)</td><td>Yes (requires <code>Secure</code> flag)</td></tr></tbody></table>
+<p><strong>Top-level navigation</strong> = the URL in the address bar changes. Clicking a link, typing a URL, redirects. NOT triggered by <code>&#x3C;img src></code>, <code>&#x3C;iframe></code>, <code>&#x3C;script></code>, <code>fetch()</code>, <code>XHR</code>. Those are sub-resource requests.</p>
+<p>So <code>Lax</code> is the middle ground, and it splits on who started the request:</p>
+<ul>
+<li><strong>Cookie goes.</strong> You navigate to the site yourself: click an email link, type the URL, follow a redirect. The address bar changes, so it's a top-level navigation, and <code>Lax</code> allows it. The "click the link, still logged in" flow keeps working.</li>
+<li><strong>Cookie doesn't.</strong> Another page quietly calls your site: <code>&#x3C;img></code>, <code>&#x3C;iframe></code>, <code>&#x3C;script></code>, <code>fetch</code>. The address bar never changes, so it's a sub-resource request, and <code>Lax</code> blocks it. An attacker's <code>&#x3C;img src="https://yourbank.com/transfer?to=evil"></code> fires with no session cookie, and the CSRF fails.</li>
+</ul>
+<p><code>Strict</code> is paranoid: even the email link case fails. Reserve for high-stakes auth (banking second-factor, admin panels).</p>
+<h2>Back to the localhost bug</h2>
+<p>Recall: cookie set on <code>localhost:3000</code>, navigate to <code>thembase.localhost:3000</code>, cookie gone.</p>
+<p>The instinct is to blame <code>SameSite</code>. It's the wrong suspect. The cookie never had a chance to reach the subdomain, and the reason is <em>where it was scoped</em>, not how it was guarded.</p>
+<p>A cookie set on <code>localhost</code> with no <code>Domain</code> is <strong>host-only</strong>: bound to exactly <code>localhost</code>, never sent to <code>thembase.localhost</code>. Adding <code>Domain=localhost</code> doesn't rescue it either. <code>localhost</code> is a single-label, non-registrable name (<a href="https://datatracker.ietf.org/doc/html/rfc6761">RFC 6761</a>, not on the Public Suffix List), so the browser refuses to widen the cookie across it. That's the same supercookie protection the Public Suffix List enforces everywhere else. The cookie stays pinned to one host.</p>
+<p>I tested this across Chromium 114–149 and Firefox 151. On <code>localhost</code> the subdomain gets the cookie under <em>no</em> <code>SameSite</code> value, not <code>Lax</code>, not even <code>None; Secure</code>. <code>Domain=localhost</code> doesn't help; both browsers reject it and store the cookie host-only. Switch to a registrable name (<code>myapp.test</code>) and it just works under every value, because subdomains are <em>same-site</em>. The lever was never <code>SameSite</code>. It was the hostname.</p>
+<h2>Uninvite the special guest</h2>
+<p>The whole mess is <code>localhost</code> crashing the party with its own rules. Stop letting it host your cookies, give them a registrable home instead, and they behave exactly like production, subdomains and all. Three approaches, increasing radicality:</p>
+<p><strong>1. Use a registrable hostname in dev.</strong> <code>.test</code> is reserved for exactly this by RFC 6761, and unlike <code>.local</code> it won't collide with macOS mDNS. Point it at loopback in <code>/etc/hosts</code>:</p>
+<pre><code># /etc/hosts
+127.0.0.1   myapp.test
+127.0.0.1   sub.myapp.test
+</code></pre>
+<p>Or append in one line:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">echo</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> "127.0.0.1 myapp.test sub.myapp.test"</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> |</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> sudo</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> tee</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -a</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> /etc/hosts</span></span></code></pre></figure>
+<p>Now dev at <code>http://myapp.test:3000</code> and set the cookie with <code>Domain=myapp.test</code>. The two hosts share <code>myapp.test</code> as eTLD+1, so the cookie spans both. This is the real fix.</p>
+<p><strong>2. Try <code>Domain=.localhost</code> (often won't work).</strong></p>
+<pre><code>Set-Cookie: id=abc; Domain=.localhost
+</code></pre>
+<p>In theory this scopes the cookie to every subdomain of <code>localhost</code>. In practice Chrome and Firefox both reject it and store the cookie as host-only anyway, because <code>localhost</code> isn't registrable. The subdomain still gets nothing. Don't rely on it.</p>
+<p><strong>3. Use <code>SameSite=None; Secure</code>.</strong> Removes site-matching entirely, but requires HTTPS. Localhost is exempt from the HTTPS rule in most browsers, so <code>secure: false</code> works in dev. <strong>Don't ship this to production unless you actually need cross-site cookies</strong> (third-party iframes, embedded widgets).</p>
+<p>The cleanest answer: a dev environment that mirrors production naming. <code>myapp.test</code> behaves like <code>myapp.com</code>. Cookie rules are identical, no special-casing.</p>
+<h2>Why SameSite=None requires Secure</h2>
+<p>If you go full open (<code>SameSite=None</code>), the cookie is sent on every cross-site request. Without <code>Secure</code>, an attacker on a coffee shop WiFi can MITM an HTTP request and steal it.</p>
+<p>Browsers enforce: <code>SameSite=None</code> without <code>Secure</code> means cookie rejected.</p>
+<pre><code>Set-Cookie: id=abc; SameSite=None             rejected, no Secure
+Set-Cookie: id=abc; SameSite=None; Secure     accepted, sent over HTTPS only
+</code></pre>
+<p>Chrome started enforcing this in 2020. Today it's universal.</p>
+<h2>What I now reach for</h2>
+<pre><code>Set-Cookie: session=...; HttpOnly; Secure; SameSite=Lax; Path=/
+</code></pre>
+<ul>
+<li><strong><code>HttpOnly</code></strong>: JS can't read it. XSS payload can't exfiltrate. Independent of SameSite, just always on for session cookies.</li>
+<li><strong><code>Secure</code></strong>: HTTPS only. Localhost exempt.</li>
+<li><strong><code>SameSite=Lax</code></strong>: default safe, allows email links to work.</li>
+<li><strong><code>Path=/</code></strong>: entire app.</li>
+</ul>
+<p>Add <code>Domain</code> only when you actually need cross-subdomain cookies, and you've thought through the security implications.</p>
+<h2>What I learned</h2>
+<p>The frustrating part was assuming a subdomain should "just work." Sometimes it does. But <code>localhost</code> is special, and the Public Suffix List has trapdoors. What actually governs a cross-host cookie is the <strong>registrable domain</strong>: can this name even own a cookie that its subdomains share? <code>localhost</code> can't, so no <code>SameSite</code> value was ever going to save it.</p>
+<p>Whenever cookies behave weirdly across hostnames, the first question is "what's the eTLD+1 of each side, and does the Public Suffix List intervene?" Not "do these look like the same site?"</p>
+<h2>References</h2>
+<ul>
+<li><a href="https://web.dev/articles/samesite-cookies-explained">SameSite cookies explained (web.dev)</a></li>
+<li><a href="https://web.dev/articles/schemeful-samesite">Schemeful Same-Site (web.dev)</a></li>
+<li><a href="https://datatracker.ietf.org/doc/html/rfc6761">RFC 6761: Special-Use Domain Names</a> — §6.3 reserves <code>localhost</code>.</li>
+<li><a href="https://publicsuffix.org/">Public Suffix List</a></li>
+<li><a href="https://developers.google.com/search/blog/2020/01/get-ready-for-new-samesitenone-secure">Get ready for new SameSite=None; Secure (Google)</a></li>
+</ul>16:T262d,
+You log in at `localhost:3000`. Server sets a session cookie. You navigate to `thembase.localhost:3000`. Same machine. Just a different subdomain prefix. The cookie is gone. Server says you're not logged in.
+
+Same machine. Same browser. Same port. Why?
+
+Because the cookie only ever belonged to `localhost`, never to its subdomains. `localhost` is a special name, and the browser won't carry a cookie from it over to `thembase.localhost`. That's a **scoping problem, not a `SameSite` one.** Seeing why means untangling two rules people blur together: "same site" and "same origin."
+
+## The cookie I shipped
+
+```js
+{
+  httpOnly: true,
+  secure: false,
+  sameSite: "lax",
+  path: "/",
+}
+```
+
+`sameSite: "lax"` is the default in modern browsers. Sounds permissive. Actually has rules.
+
+To understand the rules, you have to separate two concepts.
+
+## Same Site ≠ Same Origin
+
+Different specs, different rules.
+
+| | Same Site | Same Origin |
+|---|---|---|
+| Used by | `SameSite` cookie attribute, `Sec-Fetch-Site` header | Same-Origin Policy (storage, fetch, postMessage) |
+| Compares | eTLD+1 (effective top-level domain + 1 label) | scheme + host + port (all three exact) |
+| `www.example.com` vs `blog.example.com` | ✅ Same site | ❌ Different origin |
+| `http://x.com` vs `https://x.com` | ✅ Same site | ❌ Different origin |
+| `example.com:80` vs `example.com:8080` | ✅ Same site | ❌ Different origin |
+
+**Same Site is broader than Same Origin.** Same Origin requires everything to match. Same Site only cares about the registrable domain.
+
+> **Schemeful caveat.** Browsers later added *schemeful* same-site (Chrome 86+, now the default), which also splits on scheme. Under it, `http://x.com` and `https://x.com` count as cross-site after all. The cure is the same as everywhere else here: serve the whole site over HTTPS, and the scheme stops mattering. ([Schemeful Same-Site](https://web.dev/articles/schemeful-samesite))
+
+## What's eTLD+1
+
+eTLD = effective Top-Level Domain. The "public" part of a domain. The part anyone can register under.
+
+- TLDs like `.com`, `.org`, `.net` are also eTLDs.
+- Multi-level eTLDs like `.co.uk`, `.com.tw` (you register `mycorp.co.uk`, not `.uk`).
+- `eTLD+1` means eTLD plus one more label, which is the registrable name.
+
+Examples:
+
+| Domain | eTLD | eTLD+1 |
+|---|---|---|
+| `www.example.com` | `.com` | `example.com` |
+| `blog.example.co.uk` | `.co.uk` | `example.co.uk` |
+| `cdn.assets.example.com` | `.com` | `example.com` |
+
+All `*.example.com` share `example.com` as eTLD+1, so all same site.
+
+## The Public Suffix List trap
+
+Some hosting platforms run on a single domain but serve untrusted user content under subdomains. `github.io`, `herokuapp.com`, `vercel.app`. If `youraccount.github.io` and `myaccount.github.io` were treated as same site, your cookies would leak to mine.
+
+The [Public Suffix List](https://publicsuffix.org/) fixes this. It declares certain domains as "**public suffixes**" that get treated like TLDs.
+
+Once `github.io` is on the list:
+
+- `github.io` becomes an eTLD
+- `youraccount.github.io` is `github.io` + 1 label, so eTLD+1
+- `myaccount.github.io` is its own eTLD+1
+- They are **different sites**, even though they share `github.io`
+
+This is why GitHub Pages users can't accidentally share cookies. Same mechanism for Heroku, Vercel, Netlify, S3 website endpoints. Anywhere user-generated subdomains exist.
+
+## SameSite values
+
+```
+Set-Cookie: id=abc; SameSite=Strict
+Set-Cookie: id=abc; SameSite=Lax       (default in modern browsers)
+Set-Cookie: id=abc; SameSite=None; Secure
+```
+
+| Value | Cross-site request sends cookie? | Top-level navigation sends? |
+|---|---|---|
+| Strict | Never | **No.** Even clicking a link to your site won't send the cookie on first request |
+| Lax | No | **Yes.** Clicking a link, address-bar typing, redirects all carry the cookie |
+| None | Yes (everywhere) | Yes (requires `Secure` flag) |
+
+**Top-level navigation** = the URL in the address bar changes. Clicking a link, typing a URL, redirects. NOT triggered by `<img src>`, `<iframe>`, `<script>`, `fetch()`, `XHR`. Those are sub-resource requests.
+
+So `Lax` is the middle ground, and it splits on who started the request:
+
+- **Cookie goes.** You navigate to the site yourself: click an email link, type the URL, follow a redirect. The address bar changes, so it's a top-level navigation, and `Lax` allows it. The "click the link, still logged in" flow keeps working.
+- **Cookie doesn't.** Another page quietly calls your site: `<img>`, `<iframe>`, `<script>`, `fetch`. The address bar never changes, so it's a sub-resource request, and `Lax` blocks it. An attacker's `<img src="https://yourbank.com/transfer?to=evil">` fires with no session cookie, and the CSRF fails.
+
+`Strict` is paranoid: even the email link case fails. Reserve for high-stakes auth (banking second-factor, admin panels).
+
+## Back to the localhost bug
+
+Recall: cookie set on `localhost:3000`, navigate to `thembase.localhost:3000`, cookie gone.
+
+The instinct is to blame `SameSite`. It's the wrong suspect. The cookie never had a chance to reach the subdomain, and the reason is *where it was scoped*, not how it was guarded.
+
+A cookie set on `localhost` with no `Domain` is **host-only**: bound to exactly `localhost`, never sent to `thembase.localhost`. Adding `Domain=localhost` doesn't rescue it either. `localhost` is a single-label, non-registrable name ([RFC 6761](https://datatracker.ietf.org/doc/html/rfc6761), not on the Public Suffix List), so the browser refuses to widen the cookie across it. That's the same supercookie protection the Public Suffix List enforces everywhere else. The cookie stays pinned to one host.
+
+I tested this across Chromium 114–149 and Firefox 151. On `localhost` the subdomain gets the cookie under *no* `SameSite` value, not `Lax`, not even `None; Secure`. `Domain=localhost` doesn't help; both browsers reject it and store the cookie host-only. Switch to a registrable name (`myapp.test`) and it just works under every value, because subdomains are *same-site*. The lever was never `SameSite`. It was the hostname.
+
+## Uninvite the special guest
+
+The whole mess is `localhost` crashing the party with its own rules. Stop letting it host your cookies, give them a registrable home instead, and they behave exactly like production, subdomains and all. Three approaches, increasing radicality:
+
+**1. Use a registrable hostname in dev.** `.test` is reserved for exactly this by RFC 6761, and unlike `.local` it won't collide with macOS mDNS. Point it at loopback in `/etc/hosts`:
+
+```
+# /etc/hosts
+127.0.0.1   myapp.test
+127.0.0.1   sub.myapp.test
+```
+
+Or append in one line:
+
+```bash
+echo "127.0.0.1 myapp.test sub.myapp.test" | sudo tee -a /etc/hosts
+```
+
+Now dev at `http://myapp.test:3000` and set the cookie with `Domain=myapp.test`. The two hosts share `myapp.test` as eTLD+1, so the cookie spans both. This is the real fix.
+
+**2. Try `Domain=.localhost` (often won't work).**
+
+```
+Set-Cookie: id=abc; Domain=.localhost
+```
+
+In theory this scopes the cookie to every subdomain of `localhost`. In practice Chrome and Firefox both reject it and store the cookie as host-only anyway, because `localhost` isn't registrable. The subdomain still gets nothing. Don't rely on it.
+
+**3. Use `SameSite=None; Secure`.** Removes site-matching entirely, but requires HTTPS. Localhost is exempt from the HTTPS rule in most browsers, so `secure: false` works in dev. **Don't ship this to production unless you actually need cross-site cookies** (third-party iframes, embedded widgets).
+
+The cleanest answer: a dev environment that mirrors production naming. `myapp.test` behaves like `myapp.com`. Cookie rules are identical, no special-casing.
+
+## Why SameSite=None requires Secure
+
+If you go full open (`SameSite=None`), the cookie is sent on every cross-site request. Without `Secure`, an attacker on a coffee shop WiFi can MITM an HTTP request and steal it.
+
+Browsers enforce: `SameSite=None` without `Secure` means cookie rejected.
+
+```
+Set-Cookie: id=abc; SameSite=None             rejected, no Secure
+Set-Cookie: id=abc; SameSite=None; Secure     accepted, sent over HTTPS only
+```
+
+Chrome started enforcing this in 2020. Today it's universal.
+
+## What I now reach for
+
+```
+Set-Cookie: session=...; HttpOnly; Secure; SameSite=Lax; Path=/
+```
+
+- **`HttpOnly`**: JS can't read it. XSS payload can't exfiltrate. Independent of SameSite, just always on for session cookies.
+- **`Secure`**: HTTPS only. Localhost exempt.
+- **`SameSite=Lax`**: default safe, allows email links to work.
+- **`Path=/`**: entire app.
+
+Add `Domain` only when you actually need cross-subdomain cookies, and you've thought through the security implications.
+
+## What I learned
+
+The frustrating part was assuming a subdomain should "just work." Sometimes it does. But `localhost` is special, and the Public Suffix List has trapdoors. What actually governs a cross-host cookie is the **registrable domain**: can this name even own a cookie that its subdomains share? `localhost` can't, so no `SameSite` value was ever going to save it.
+
+Whenever cookies behave weirdly across hostnames, the first question is "what's the eTLD+1 of each side, and does the Public Suffix List intervene?" Not "do these look like the same site?"
+
+## References
+
+- [SameSite cookies explained (web.dev)](https://web.dev/articles/samesite-cookies-explained)
+- [Schemeful Same-Site (web.dev)](https://web.dev/articles/schemeful-samesite)
+- [RFC 6761: Special-Use Domain Names](https://datatracker.ietf.org/doc/html/rfc6761) — §6.3 reserves `localhost`.
+- [Public Suffix List](https://publicsuffix.org/)
+- [Get ready for new SameSite=None; Secure (Google)](https://developers.google.com/search/blog/2020/01/get-ready-for-new-samesitenone-secure)
+17:T34c8,LS0tCnRpdGxlOiAiU2FtZVNpdGUgZG9lc24ndCBhcHBseSB0byB0aGlzIHNwZWNpYWwgZ3Vlc3Q6IGxvY2FsaG9zdCIKZGF0ZTogMjAyNC0wOS0xOVQyMDo0NzowMAp0YWdzOiBbbmV0d29yaywgaHR0cCwgY29va2llLCBzYW1lc2l0ZSwgc2VjdXJpdHldCmRlc2NyaXB0aW9uOiAiTG9nZ2VkIGluIGF0IGxvY2FsaG9zdDozMDAwLCBzd2l0Y2ggdG8gdGhlbWJhc2UubG9jYWxob3N0OjMwMDAsIGFuZCB0aGUgY29va2llIGlzIGdvbmUuIEl0IGxvb2tzIGxpa2UgYSBTYW1lU2l0ZSBwcm9ibGVtLiBJdCBpc24ndDogbG9jYWxob3N0IGlzIGEgc3BlY2lhbC1jYXNlIG5hbWUuIEhlcmUncyBob3cgdG8gZ2V0IGFyb3VuZCBpdC4iCi0tLQoKWW91IGxvZyBpbiBhdCBgbG9jYWxob3N0OjMwMDBgLiBTZXJ2ZXIgc2V0cyBhIHNlc3Npb24gY29va2llLiBZb3UgbmF2aWdhdGUgdG8gYHRoZW1iYXNlLmxvY2FsaG9zdDozMDAwYC4gU2FtZSBtYWNoaW5lLiBKdXN0IGEgZGlmZmVyZW50IHN1YmRvbWFpbiBwcmVmaXguIFRoZSBjb29raWUgaXMgZ29uZS4gU2VydmVyIHNheXMgeW91J3JlIG5vdCBsb2dnZWQgaW4uCgpTYW1lIG1hY2hpbmUuIFNhbWUgYnJvd3Nlci4gU2FtZSBwb3J0LiBXaHk/CgpCZWNhdXNlIHRoZSBjb29raWUgb25seSBldmVyIGJlbG9uZ2VkIHRvIGBsb2NhbGhvc3RgLCBuZXZlciB0byBpdHMgc3ViZG9tYWlucy4gYGxvY2FsaG9zdGAgaXMgYSBzcGVjaWFsIG5hbWUsIGFuZCB0aGUgYnJvd3NlciB3b24ndCBjYXJyeSBhIGNvb2tpZSBmcm9tIGl0IG92ZXIgdG8gYHRoZW1iYXNlLmxvY2FsaG9zdGAuIFRoYXQncyBhICoqc2NvcGluZyBwcm9ibGVtLCBub3QgYSBgU2FtZVNpdGVgIG9uZS4qKiBTZWVpbmcgd2h5IG1lYW5zIHVudGFuZ2xpbmcgdHdvIHJ1bGVzIHBlb3BsZSBibHVyIHRvZ2V0aGVyOiAic2FtZSBzaXRlIiBhbmQgInNhbWUgb3JpZ2luLiIKCiMjIFRoZSBjb29raWUgSSBzaGlwcGVkCgpgYGBqcwp7CiAgaHR0cE9ubHk6IHRydWUsCiAgc2VjdXJlOiBmYWxzZSwKICBzYW1lU2l0ZTogImxheCIsCiAgcGF0aDogIi8iLAp9CmBgYAoKYHNhbWVTaXRlOiAibGF4ImAgaXMgdGhlIGRlZmF1bHQgaW4gbW9kZXJuIGJyb3dzZXJzLiBTb3VuZHMgcGVybWlzc2l2ZS4gQWN0dWFsbHkgaGFzIHJ1bGVzLgoKVG8gdW5kZXJzdGFuZCB0aGUgcnVsZXMsIHlvdSBoYXZlIHRvIHNlcGFyYXRlIHR3byBjb25jZXB0cy4KCiMjIFNhbWUgU2l0ZSDiiaAgU2FtZSBPcmlnaW4KCkRpZmZlcmVudCBzcGVjcywgZGlmZmVyZW50IHJ1bGVzLgoKfCB8IFNhbWUgU2l0ZSB8IFNhbWUgT3JpZ2luIHwKfC0tLXwtLS18LS0tfAp8IFVzZWQgYnkgfCBgU2FtZVNpdGVgIGNvb2tpZSBhdHRyaWJ1dGUsIGBTZWMtRmV0Y2gtU2l0ZWAgaGVhZGVyIHwgU2FtZS1PcmlnaW4gUG9saWN5IChzdG9yYWdlLCBmZXRjaCwgcG9zdE1lc3NhZ2UpIHwKfCBDb21wYXJlcyB8IGVUTEQrMSAoZWZmZWN0aXZlIHRvcC1sZXZlbCBkb21haW4gKyAxIGxhYmVsKSB8IHNjaGVtZSArIGhvc3QgKyBwb3J0IChhbGwgdGhyZWUgZXhhY3QpIHwKfCBgd3d3LmV4YW1wbGUuY29tYCB2cyBgYmxvZy5leGFtcGxlLmNvbWAgfCDinIUgU2FtZSBzaXRlIHwg4p2MIERpZmZlcmVudCBvcmlnaW4gfAp8IGBodHRwOi8veC5jb21gIHZzIGBodHRwczovL3guY29tYCB8IOKchSBTYW1lIHNpdGUgfCDinYwgRGlmZmVyZW50IG9yaWdpbiB8CnwgYGV4YW1wbGUuY29tOjgwYCB2cyBgZXhhbXBsZS5jb206ODA4MGAgfCDinIUgU2FtZSBzaXRlIHwg4p2MIERpZmZlcmVudCBvcmlnaW4gfAoKKipTYW1lIFNpdGUgaXMgYnJvYWRlciB0aGFuIFNhbWUgT3JpZ2luLioqIFNhbWUgT3JpZ2luIHJlcXVpcmVzIGV2ZXJ5dGhpbmcgdG8gbWF0Y2guIFNhbWUgU2l0ZSBvbmx5IGNhcmVzIGFib3V0IHRoZSByZWdpc3RyYWJsZSBkb21haW4uCgo+ICoqU2NoZW1lZnVsIGNhdmVhdC4qKiBCcm93c2VycyBsYXRlciBhZGRlZCAqc2NoZW1lZnVsKiBzYW1lLXNpdGUgKENocm9tZSA4NissIG5vdyB0aGUgZGVmYXVsdCksIHdoaWNoIGFsc28gc3BsaXRzIG9uIHNjaGVtZS4gVW5kZXIgaXQsIGBodHRwOi8veC5jb21gIGFuZCBgaHR0cHM6Ly94LmNvbWAgY291bnQgYXMgY3Jvc3Mtc2l0ZSBhZnRlciBhbGwuIFRoZSBjdXJlIGlzIHRoZSBzYW1lIGFzIGV2ZXJ5d2hlcmUgZWxzZSBoZXJlOiBzZXJ2ZSB0aGUgd2hvbGUgc2l0ZSBvdmVyIEhUVFBTLCBhbmQgdGhlIHNjaGVtZSBzdG9wcyBtYXR0ZXJpbmcuIChbU2NoZW1lZnVsIFNhbWUtU2l0ZV0oaHR0cHM6Ly93ZWIuZGV2L2FydGljbGVzL3NjaGVtZWZ1bC1zYW1lc2l0ZSkpCgojIyBXaGF0J3MgZVRMRCsxCgplVExEID0gZWZmZWN0aXZlIFRvcC1MZXZlbCBEb21haW4uIFRoZSAicHVibGljIiBwYXJ0IG9mIGEgZG9tYWluLiBUaGUgcGFydCBhbnlvbmUgY2FuIHJlZ2lzdGVyIHVuZGVyLgoKLSBUTERzIGxpa2UgYC5jb21gLCBgLm9yZ2AsIGAubmV0YCBhcmUgYWxzbyBlVExEcy4KLSBNdWx0aS1sZXZlbCBlVExEcyBsaWtlIGAuY28udWtgLCBgLmNvbS50d2AgKHlvdSByZWdpc3RlciBgbXljb3JwLmNvLnVrYCwgbm90IGAudWtgKS4KLSBgZVRMRCsxYCBtZWFucyBlVExEIHBsdXMgb25lIG1vcmUgbGFiZWwsIHdoaWNoIGlzIHRoZSByZWdpc3RyYWJsZSBuYW1lLgoKRXhhbXBsZXM6Cgp8IERvbWFpbiB8IGVUTEQgfCBlVExEKzEgfAp8LS0tfC0tLXwtLS18CnwgYHd3dy5leGFtcGxlLmNvbWAgfCBgLmNvbWAgfCBgZXhhbXBsZS5jb21gIHwKfCBgYmxvZy5leGFtcGxlLmNvLnVrYCB8IGAuY28udWtgIHwgYGV4YW1wbGUuY28udWtgIHwKfCBgY2RuLmFzc2V0cy5leGFtcGxlLmNvbWAgfCBgLmNvbWAgfCBgZXhhbXBsZS5jb21gIHwKCkFsbCBgKi5leGFtcGxlLmNvbWAgc2hhcmUgYGV4YW1wbGUuY29tYCBhcyBlVExEKzEsIHNvIGFsbCBzYW1lIHNpdGUuCgojIyBUaGUgUHVibGljIFN1ZmZpeCBMaXN0IHRyYXAKClNvbWUgaG9zdGluZyBwbGF0Zm9ybXMgcnVuIG9uIGEgc2luZ2xlIGRvbWFpbiBidXQgc2VydmUgdW50cnVzdGVkIHVzZXIgY29udGVudCB1bmRlciBzdWJkb21haW5zLiBgZ2l0aHViLmlvYCwgYGhlcm9rdWFwcC5jb21gLCBgdmVyY2VsLmFwcGAuIElmIGB5b3VyYWNjb3VudC5naXRodWIuaW9gIGFuZCBgbXlhY2NvdW50LmdpdGh1Yi5pb2Agd2VyZSB0cmVhdGVkIGFzIHNhbWUgc2l0ZSwgeW91ciBjb29raWVzIHdvdWxkIGxlYWsgdG8gbWluZS4KClRoZSBbUHVibGljIFN1ZmZpeCBMaXN0XShodHRwczovL3B1YmxpY3N1ZmZpeC5vcmcvKSBmaXhlcyB0aGlzLiBJdCBkZWNsYXJlcyBjZXJ0YWluIGRvbWFpbnMgYXMgIioqcHVibGljIHN1ZmZpeGVzKioiIHRoYXQgZ2V0IHRyZWF0ZWQgbGlrZSBUTERzLgoKT25jZSBgZ2l0aHViLmlvYCBpcyBvbiB0aGUgbGlzdDoKCi0gYGdpdGh1Yi5pb2AgYmVjb21lcyBhbiBlVExECi0gYHlvdXJhY2NvdW50LmdpdGh1Yi5pb2AgaXMgYGdpdGh1Yi5pb2AgKyAxIGxhYmVsLCBzbyBlVExEKzEKLSBgbXlhY2NvdW50LmdpdGh1Yi5pb2AgaXMgaXRzIG93biBlVExEKzEKLSBUaGV5IGFyZSAqKmRpZmZlcmVudCBzaXRlcyoqLCBldmVuIHRob3VnaCB0aGV5IHNoYXJlIGBnaXRodWIuaW9gCgpUaGlzIGlzIHdoeSBHaXRIdWIgUGFnZXMgdXNlcnMgY2FuJ3QgYWNjaWRlbnRhbGx5IHNoYXJlIGNvb2tpZXMuIFNhbWUgbWVjaGFuaXNtIGZvciBIZXJva3UsIFZlcmNlbCwgTmV0bGlmeSwgUzMgd2Vic2l0ZSBlbmRwb2ludHMuIEFueXdoZXJlIHVzZXItZ2VuZXJhdGVkIHN1YmRvbWFpbnMgZXhpc3QuCgojIyBTYW1lU2l0ZSB2YWx1ZXMKCmBgYApTZXQtQ29va2llOiBpZD1hYmM7IFNhbWVTaXRlPVN0cmljdApTZXQtQ29va2llOiBpZD1hYmM7IFNhbWVTaXRlPUxheCAgICAgICAoZGVmYXVsdCBpbiBtb2Rlcm4gYnJvd3NlcnMpClNldC1Db29raWU6IGlkPWFiYzsgU2FtZVNpdGU9Tm9uZTsgU2VjdXJlCmBgYAoKfCBWYWx1ZSB8IENyb3NzLXNpdGUgcmVxdWVzdCBzZW5kcyBjb29raWU/IHwgVG9wLWxldmVsIG5hdmlnYXRpb24gc2VuZHM/IHwKfC0tLXwtLS18LS0tfAp8IFN0cmljdCB8IE5ldmVyIHwgKipOby4qKiBFdmVuIGNsaWNraW5nIGEgbGluayB0byB5b3VyIHNpdGUgd29uJ3Qgc2VuZCB0aGUgY29va2llIG9uIGZpcnN0IHJlcXVlc3QgfAp8IExheCB8IE5vIHwgKipZZXMuKiogQ2xpY2tpbmcgYSBsaW5rLCBhZGRyZXNzLWJhciB0eXBpbmcsIHJlZGlyZWN0cyBhbGwgY2FycnkgdGhlIGNvb2tpZSB8CnwgTm9uZSB8IFllcyAoZXZlcnl3aGVyZSkgfCBZZXMgKHJlcXVpcmVzIGBTZWN1cmVgIGZsYWcpIHwKCioqVG9wLWxldmVsIG5hdmlnYXRpb24qKiA9IHRoZSBVUkwgaW4gdGhlIGFkZHJlc3MgYmFyIGNoYW5nZXMuIENsaWNraW5nIGEgbGluaywgdHlwaW5nIGEgVVJMLCByZWRpcmVjdHMuIE5PVCB0cmlnZ2VyZWQgYnkgYDxpbWcgc3JjPmAsIGA8aWZyYW1lPmAsIGA8c2NyaXB0PmAsIGBmZXRjaCgpYCwgYFhIUmAuIFRob3NlIGFyZSBzdWItcmVzb3VyY2UgcmVxdWVzdHMuCgpTbyBgTGF4YCBpcyB0aGUgbWlkZGxlIGdyb3VuZCwgYW5kIGl0IHNwbGl0cyBvbiB3aG8gc3RhcnRlZCB0aGUgcmVxdWVzdDoKCi0gKipDb29raWUgZ29lcy4qKiBZb3UgbmF2aWdhdGUgdG8gdGhlIHNpdGUgeW91cnNlbGY6IGNsaWNrIGFuIGVtYWlsIGxpbmssIHR5cGUgdGhlIFVSTCwgZm9sbG93IGEgcmVkaXJlY3QuIFRoZSBhZGRyZXNzIGJhciBjaGFuZ2VzLCBzbyBpdCdzIGEgdG9wLWxldmVsIG5hdmlnYXRpb24sIGFuZCBgTGF4YCBhbGxvd3MgaXQuIFRoZSAiY2xpY2sgdGhlIGxpbmssIHN0aWxsIGxvZ2dlZCBpbiIgZmxvdyBrZWVwcyB3b3JraW5nLgotICoqQ29va2llIGRvZXNuJ3QuKiogQW5vdGhlciBwYWdlIHF1aWV0bHkgY2FsbHMgeW91ciBzaXRlOiBgPGltZz5gLCBgPGlmcmFtZT5gLCBgPHNjcmlwdD5gLCBgZmV0Y2hgLiBUaGUgYWRkcmVzcyBiYXIgbmV2ZXIgY2hhbmdlcywgc28gaXQncyBhIHN1Yi1yZXNvdXJjZSByZXF1ZXN0LCBhbmQgYExheGAgYmxvY2tzIGl0LiBBbiBhdHRhY2tlcidzIGA8aW1nIHNyYz0iaHR0cHM6Ly95b3VyYmFuay5jb20vdHJhbnNmZXI/dG89ZXZpbCI+YCBmaXJlcyB3aXRoIG5vIHNlc3Npb24gY29va2llLCBhbmQgdGhlIENTUkYgZmFpbHMuCgpgU3RyaWN0YCBpcyBwYXJhbm9pZDogZXZlbiB0aGUgZW1haWwgbGluayBjYXNlIGZhaWxzLiBSZXNlcnZlIGZvciBoaWdoLXN0YWtlcyBhdXRoIChiYW5raW5nIHNlY29uZC1mYWN0b3IsIGFkbWluIHBhbmVscykuCgojIyBCYWNrIHRvIHRoZSBsb2NhbGhvc3QgYnVnCgpSZWNhbGw6IGNvb2tpZSBzZXQgb24gYGxvY2FsaG9zdDozMDAwYCwgbmF2aWdhdGUgdG8gYHRoZW1iYXNlLmxvY2FsaG9zdDozMDAwYCwgY29va2llIGdvbmUuCgpUaGUgaW5zdGluY3QgaXMgdG8gYmxhbWUgYFNhbWVTaXRlYC4gSXQncyB0aGUgd3Jvbmcgc3VzcGVjdC4gVGhlIGNvb2tpZSBuZXZlciBoYWQgYSBjaGFuY2UgdG8gcmVhY2ggdGhlIHN1YmRvbWFpbiwgYW5kIHRoZSByZWFzb24gaXMgKndoZXJlIGl0IHdhcyBzY29wZWQqLCBub3QgaG93IGl0IHdhcyBndWFyZGVkLgoKQSBjb29raWUgc2V0IG9uIGBsb2NhbGhvc3RgIHdpdGggbm8gYERvbWFpbmAgaXMgKipob3N0LW9ubHkqKjogYm91bmQgdG8gZXhhY3RseSBgbG9jYWxob3N0YCwgbmV2ZXIgc2VudCB0byBgdGhlbWJhc2UubG9jYWxob3N0YC4gQWRkaW5nIGBEb21haW49bG9jYWxob3N0YCBkb2Vzbid0IHJlc2N1ZSBpdCBlaXRoZXIuIGBsb2NhbGhvc3RgIGlzIGEgc2luZ2xlLWxhYmVsLCBub24tcmVnaXN0cmFibGUgbmFtZSAoW1JGQyA2NzYxXShodHRwczovL2RhdGF0cmFja2VyLmlldGYub3JnL2RvYy9odG1sL3JmYzY3NjEpLCBub3Qgb24gdGhlIFB1YmxpYyBTdWZmaXggTGlzdCksIHNvIHRoZSBicm93c2VyIHJlZnVzZXMgdG8gd2lkZW4gdGhlIGNvb2tpZSBhY3Jvc3MgaXQuIFRoYXQncyB0aGUgc2FtZSBzdXBlcmNvb2tpZSBwcm90ZWN0aW9uIHRoZSBQdWJsaWMgU3VmZml4IExpc3QgZW5mb3JjZXMgZXZlcnl3aGVyZSBlbHNlLiBUaGUgY29va2llIHN0YXlzIHBpbm5lZCB0byBvbmUgaG9zdC4KCkkgdGVzdGVkIHRoaXMgYWNyb3NzIENocm9taXVtIDExNOKAkzE0OSBhbmQgRmlyZWZveCAxNTEuIE9uIGBsb2NhbGhvc3RgIHRoZSBzdWJkb21haW4gZ2V0cyB0aGUgY29va2llIHVuZGVyICpubyogYFNhbWVTaXRlYCB2YWx1ZSwgbm90IGBMYXhgLCBub3QgZXZlbiBgTm9uZTsgU2VjdXJlYC4gYERvbWFpbj1sb2NhbGhvc3RgIGRvZXNuJ3QgaGVscDsgYm90aCBicm93c2VycyByZWplY3QgaXQgYW5kIHN0b3JlIHRoZSBjb29raWUgaG9zdC1vbmx5LiBTd2l0Y2ggdG8gYSByZWdpc3RyYWJsZSBuYW1lIChgbXlhcHAudGVzdGApIGFuZCBpdCBqdXN0IHdvcmtzIHVuZGVyIGV2ZXJ5IHZhbHVlLCBiZWNhdXNlIHN1YmRvbWFpbnMgYXJlICpzYW1lLXNpdGUqLiBUaGUgbGV2ZXIgd2FzIG5ldmVyIGBTYW1lU2l0ZWAuIEl0IHdhcyB0aGUgaG9zdG5hbWUuCgojIyBVbmludml0ZSB0aGUgc3BlY2lhbCBndWVzdAoKVGhlIHdob2xlIG1lc3MgaXMgYGxvY2FsaG9zdGAgY3Jhc2hpbmcgdGhlIHBhcnR5IHdpdGggaXRzIG93biBydWxlcy4gU3RvcCBsZXR0aW5nIGl0IGhvc3QgeW91ciBjb29raWVzLCBnaXZlIHRoZW0gYSByZWdpc3RyYWJsZSBob21lIGluc3RlYWQsIGFuZCB0aGV5IGJlaGF2ZSBleGFjdGx5IGxpa2UgcHJvZHVjdGlvbiwgc3ViZG9tYWlucyBhbmQgYWxsLiBUaHJlZSBhcHByb2FjaGVzLCBpbmNyZWFzaW5nIHJhZGljYWxpdHk6CgoqKjEuIFVzZSBhIHJlZ2lzdHJhYmxlIGhvc3RuYW1lIGluIGRldi4qKiBgLnRlc3RgIGlzIHJlc2VydmVkIGZvciBleGFjdGx5IHRoaXMgYnkgUkZDIDY3NjEsIGFuZCB1bmxpa2UgYC5sb2NhbGAgaXQgd29uJ3QgY29sbGlkZSB3aXRoIG1hY09TIG1ETlMuIFBvaW50IGl0IGF0IGxvb3BiYWNrIGluIGAvZXRjL2hvc3RzYDoKCmBgYAojIC9ldGMvaG9zdHMKMTI3LjAuMC4xICAgbXlhcHAudGVzdAoxMjcuMC4wLjEgICBzdWIubXlhcHAudGVzdApgYGAKCk9yIGFwcGVuZCBpbiBvbmUgbGluZToKCmBgYGJhc2gKZWNobyAiMTI3LjAuMC4xIG15YXBwLnRlc3Qgc3ViLm15YXBwLnRlc3QiIHwgc3VkbyB0ZWUgLWEgL2V0Yy9ob3N0cwpgYGAKCk5vdyBkZXYgYXQgYGh0dHA6Ly9teWFwcC50ZXN0OjMwMDBgIGFuZCBzZXQgdGhlIGNvb2tpZSB3aXRoIGBEb21haW49bXlhcHAudGVzdGAuIFRoZSB0d28gaG9zdHMgc2hhcmUgYG15YXBwLnRlc3RgIGFzIGVUTEQrMSwgc28gdGhlIGNvb2tpZSBzcGFucyBib3RoLiBUaGlzIGlzIHRoZSByZWFsIGZpeC4KCioqMi4gVHJ5IGBEb21haW49LmxvY2FsaG9zdGAgKG9mdGVuIHdvbid0IHdvcmspLioqCgpgYGAKU2V0LUNvb2tpZTogaWQ9YWJjOyBEb21haW49LmxvY2FsaG9zdApgYGAKCkluIHRoZW9yeSB0aGlzIHNjb3BlcyB0aGUgY29va2llIHRvIGV2ZXJ5IHN1YmRvbWFpbiBvZiBgbG9jYWxob3N0YC4gSW4gcHJhY3RpY2UgQ2hyb21lIGFuZCBGaXJlZm94IGJvdGggcmVqZWN0IGl0IGFuZCBzdG9yZSB0aGUgY29va2llIGFzIGhvc3Qtb25seSBhbnl3YXksIGJlY2F1c2UgYGxvY2FsaG9zdGAgaXNuJ3QgcmVnaXN0cmFibGUuIFRoZSBzdWJkb21haW4gc3RpbGwgZ2V0cyBub3RoaW5nLiBEb24ndCByZWx5IG9uIGl0LgoKKiozLiBVc2UgYFNhbWVTaXRlPU5vbmU7IFNlY3VyZWAuKiogUmVtb3ZlcyBzaXRlLW1hdGNoaW5nIGVudGlyZWx5LCBidXQgcmVxdWlyZXMgSFRUUFMuIExvY2FsaG9zdCBpcyBleGVtcHQgZnJvbSB0aGUgSFRUUFMgcnVsZSBpbiBtb3N0IGJyb3dzZXJzLCBzbyBgc2VjdXJlOiBmYWxzZWAgd29ya3MgaW4gZGV2LiAqKkRvbid0IHNoaXAgdGhpcyB0byBwcm9kdWN0aW9uIHVubGVzcyB5b3UgYWN0dWFsbHkgbmVlZCBjcm9zcy1zaXRlIGNvb2tpZXMqKiAodGhpcmQtcGFydHkgaWZyYW1lcywgZW1iZWRkZWQgd2lkZ2V0cykuCgpUaGUgY2xlYW5lc3QgYW5zd2VyOiBhIGRldiBlbnZpcm9ubWVudCB0aGF0IG1pcnJvcnMgcHJvZHVjdGlvbiBuYW1pbmcuIGBteWFwcC50ZXN0YCBiZWhhdmVzIGxpa2UgYG15YXBwLmNvbWAuIENvb2tpZSBydWxlcyBhcmUgaWRlbnRpY2FsLCBubyBzcGVjaWFsLWNhc2luZy4KCiMjIFdoeSBTYW1lU2l0ZT1Ob25lIHJlcXVpcmVzIFNlY3VyZQoKSWYgeW91IGdvIGZ1bGwgb3BlbiAoYFNhbWVTaXRlPU5vbmVgKSwgdGhlIGNvb2tpZSBpcyBzZW50IG9uIGV2ZXJ5IGNyb3NzLXNpdGUgcmVxdWVzdC4gV2l0aG91dCBgU2VjdXJlYCwgYW4gYXR0YWNrZXIgb24gYSBjb2ZmZWUgc2hvcCBXaUZpIGNhbiBNSVRNIGFuIEhUVFAgcmVxdWVzdCBhbmQgc3RlYWwgaXQuCgpCcm93c2VycyBlbmZvcmNlOiBgU2FtZVNpdGU9Tm9uZWAgd2l0aG91dCBgU2VjdXJlYCBtZWFucyBjb29raWUgcmVqZWN0ZWQuCgpgYGAKU2V0LUNvb2tpZTogaWQ9YWJjOyBTYW1lU2l0ZT1Ob25lICAgICAgICAgICAgIHJlamVjdGVkLCBubyBTZWN1cmUKU2V0LUNvb2tpZTogaWQ9YWJjOyBTYW1lU2l0ZT1Ob25lOyBTZWN1cmUgICAgIGFjY2VwdGVkLCBzZW50IG92ZXIgSFRUUFMgb25seQpgYGAKCkNocm9tZSBzdGFydGVkIGVuZm9yY2luZyB0aGlzIGluIDIwMjAuIFRvZGF5IGl0J3MgdW5pdmVyc2FsLgoKIyMgV2hhdCBJIG5vdyByZWFjaCBmb3IKCmBgYApTZXQtQ29va2llOiBzZXNzaW9uPS4uLjsgSHR0cE9ubHk7IFNlY3VyZTsgU2FtZVNpdGU9TGF4OyBQYXRoPS8KYGBgCgotICoqYEh0dHBPbmx5YCoqOiBKUyBjYW4ndCByZWFkIGl0LiBYU1MgcGF5bG9hZCBjYW4ndCBleGZpbHRyYXRlLiBJbmRlcGVuZGVudCBvZiBTYW1lU2l0ZSwganVzdCBhbHdheXMgb24gZm9yIHNlc3Npb24gY29va2llcy4KLSAqKmBTZWN1cmVgKio6IEhUVFBTIG9ubHkuIExvY2FsaG9zdCBleGVtcHQuCi0gKipgU2FtZVNpdGU9TGF4YCoqOiBkZWZhdWx0IHNhZmUsIGFsbG93cyBlbWFpbCBsaW5rcyB0byB3b3JrLgotICoqYFBhdGg9L2AqKjogZW50aXJlIGFwcC4KCkFkZCBgRG9tYWluYCBvbmx5IHdoZW4geW91IGFjdHVhbGx5IG5lZWQgY3Jvc3Mtc3ViZG9tYWluIGNvb2tpZXMsIGFuZCB5b3UndmUgdGhvdWdodCB0aHJvdWdoIHRoZSBzZWN1cml0eSBpbXBsaWNhdGlvbnMuCgojIyBXaGF0IEkgbGVhcm5lZAoKVGhlIGZydXN0cmF0aW5nIHBhcnQgd2FzIGFzc3VtaW5nIGEgc3ViZG9tYWluIHNob3VsZCAianVzdCB3b3JrLiIgU29tZXRpbWVzIGl0IGRvZXMuIEJ1dCBgbG9jYWxob3N0YCBpcyBzcGVjaWFsLCBhbmQgdGhlIFB1YmxpYyBTdWZmaXggTGlzdCBoYXMgdHJhcGRvb3JzLiBXaGF0IGFjdHVhbGx5IGdvdmVybnMgYSBjcm9zcy1ob3N0IGNvb2tpZSBpcyB0aGUgKipyZWdpc3RyYWJsZSBkb21haW4qKjogY2FuIHRoaXMgbmFtZSBldmVuIG93biBhIGNvb2tpZSB0aGF0IGl0cyBzdWJkb21haW5zIHNoYXJlPyBgbG9jYWxob3N0YCBjYW4ndCwgc28gbm8gYFNhbWVTaXRlYCB2YWx1ZSB3YXMgZXZlciBnb2luZyB0byBzYXZlIGl0LgoKV2hlbmV2ZXIgY29va2llcyBiZWhhdmUgd2VpcmRseSBhY3Jvc3MgaG9zdG5hbWVzLCB0aGUgZmlyc3QgcXVlc3Rpb24gaXMgIndoYXQncyB0aGUgZVRMRCsxIG9mIGVhY2ggc2lkZSwgYW5kIGRvZXMgdGhlIFB1YmxpYyBTdWZmaXggTGlzdCBpbnRlcnZlbmU/IiBOb3QgImRvIHRoZXNlIGxvb2sgbGlrZSB0aGUgc2FtZSBzaXRlPyIKCiMjIFJlZmVyZW5jZXMKCi0gW1NhbWVTaXRlIGNvb2tpZXMgZXhwbGFpbmVkICh3ZWIuZGV2KV0oaHR0cHM6Ly93ZWIuZGV2L2FydGljbGVzL3NhbWVzaXRlLWNvb2tpZXMtZXhwbGFpbmVkKQotIFtTY2hlbWVmdWwgU2FtZS1TaXRlICh3ZWIuZGV2KV0oaHR0cHM6Ly93ZWIuZGV2L2FydGljbGVzL3NjaGVtZWZ1bC1zYW1lc2l0ZSkKLSBbUkZDIDY3NjE6IFNwZWNpYWwtVXNlIERvbWFpbiBOYW1lc10oaHR0cHM6Ly9kYXRhdHJhY2tlci5pZXRmLm9yZy9kb2MvaHRtbC9yZmM2NzYxKSDigJQgwqc2LjMgcmVzZXJ2ZXMgYGxvY2FsaG9zdGAuCi0gW1B1YmxpYyBTdWZmaXggTGlzdF0oaHR0cHM6Ly9wdWJsaWNzdWZmaXgub3JnLykKLSBbR2V0IHJlYWR5IGZvciBuZXcgU2FtZVNpdGU9Tm9uZTsgU2VjdXJlIChHb29nbGUpXShodHRwczovL2RldmVsb3BlcnMuZ29vZ2xlLmNvbS9zZWFyY2gvYmxvZy8yMDIwLzAxL2dldC1yZWFkeS1mb3ItbmV3LXNhbWVzaXRlbm9uZS1zZWN1cmUpCg==9:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L14",null,{"htmlContent":"$15","rawContent":"$16","base64Content":"$17","title":"SameSite doesn't apply to this special guest: localhost","createdAt":"2024-09-19T20:47:00.000Z","updatedAt":"$undefined","tags":["network","http","cookie","samesite","security"],"altHtmlContent":"$undefined","currentLang":"$undefined","altLang":"$undefined"}]}]}]
+d:{"metadata":[["$","title","0",{"children":"SameSite doesn't apply to this special guest: localhost  | jialinhuang"}],["$","meta","1",{"name":"description","content":"Logged in at localhost:3000, switch to thembase.localhost:3000, and the cookie is gone. It looks like a SameSite problem. It isn't: localhost is a special-case name. Here's how to get around it."}]],"error":null,"digest":"$undefined"}
+12:"$d:metadata"

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>jialin00.com</title>
+        <link>https://jialin00.com</link>
+        <description>Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.</description>
+        <lastBuildDate>Tue, 01 Sep 2026 09:47:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Feeds</generator>
+        <image>
+            <title>jialin00.com</title>
+            <url>https://jialin00.com/fav.svg</url>
+            <link>https://jialin00.com</link>
+        </image>
+        <copyright>All rights reserved 2026, JiaLin Huang</copyright>
+        <item>
+            <title><![CDATA[A packet's walk through a VPC, in AWS]]></title>
+            <link>https://jialin00.com/v2/a-packet-walk-through-the-vpc</link>
+            <guid>https://jialin00.com/v2/a-packet-walk-through-the-vpc</guid>
+            <pubDate>Sun, 29 Sep 2024 09:47:00 GMT</pubDate>
+            <description><![CDATA[Open inbound 80 on a security group, leave outbound 80 closed, and the server still works. Follow one packet from the internet to an EC2 instance and watch which walls it hits, and why only one of them remembers you.]]></description>
+            <content:encoded><![CDATA[A packet's walk through a VPC, in AWS]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Why my load balancer returned 502 (the task was fine)]]></title>
+            <link>https://jialin00.com/v2/alb-502-target-group-protocol</link>
+            <guid>https://jialin00.com/v2/alb-502-target-group-protocol</guid>
+            <pubDate>Sun, 23 Mar 2025 19:20:00 GMT</pubDate>
+            <description><![CDATA[A 502 from my ALB that made no sense, until I understood that HTTPS stops at the load balancer and the next hop to the task is plain HTTP.]]></description>
+            <content:encoded><![CDATA[Why my load balancer returned 502 (the task was fine)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[One IP in a hundred places: how anycast works]]></title>
+            <link>https://jialin00.com/v2/anycast-one-ip-many-places</link>
+            <guid>https://jialin00.com/v2/anycast-one-ip-many-places</guid>
+            <pubDate>Wed, 04 Mar 2026 23:03:00 GMT</pubDate>
+            <description><![CDATA[You and someone in Tokyo both type 1.1.1.1 and reach different machines. That breaks the first rule you learned about IP addresses. Here is how anycast does it.]]></description>
+            <content:encoded><![CDATA[One IP in a hundred places: how anycast works]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[await does block — just not where you think]]></title>
+            <link>https://jialin00.com/v2/async-await-blocking</link>
+            <guid>https://jialin00.com/v2/async-await-blocking</guid>
+            <pubDate>Sat, 21 Mar 2026 20:27:17 GMT</pubDate>
+            <description><![CDATA[Every tutorial says async/await is non-blocking. But the line after await definitely waits. So which is it?]]></description>
+            <content:encoded><![CDATA[await does block — just not where you think]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AWS has a dozen policies. They're all one shape.]]></title>
+            <link>https://jialin00.com/v2/aws-policies-same-shape</link>
+            <guid>https://jialin00.com/v2/aws-policies-same-shape</guid>
+            <pubDate>Mon, 28 Oct 2024 10:53:00 GMT</pubDate>
+            <description><![CDATA[S3 bucket policy, SQS queue policy, KMS key policy, IAM role policy. AWS keeps inventing things called 'policy.' You don't have to learn each one. They share one JSON shape, and a single question tells you how any of them works.]]></description>
+            <content:encoded><![CDATA[AWS has a dozen policies. They're all one shape.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Skills, Agents, Tools, Hooks: which one can call which]]></title>
+            <link>https://jialin00.com/v2/claude-code-who-calls-who.en</link>
+            <guid>https://jialin00.com/v2/claude-code-who-calls-who.en</guid>
+            <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The sixteen calling combinations between Claude Code's four primitives, every one of them run on CLI 2.1.252 and Agent SDK 0.3.252, with the returned strings and the fields that wire each one.]]></description>
+            <content:encoded><![CDATA[Skills, Agents, Tools, Hooks: which one can call which]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Skill、Agent、Tool、Hook：誰呼叫得動誰]]></title>
+            <link>https://jialin00.com/v2/claude-code-who-calls-who.zh</link>
+            <guid>https://jialin00.com/v2/claude-code-who-calls-who.zh</guid>
+            <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Claude Code 四個元件的十六種呼叫組合，每一種都在 CLI 2.1.252 與 Agent SDK 0.3.252 上跑過，附實測回傳的字串跟串接用的欄位。]]></description>
+            <content:encoded><![CDATA[Skill、Agent、Tool、Hook：誰呼叫得動誰]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Same /16, the big 3 cloud providers differ on how far it reaches]]></title>
+            <link>https://jialin00.com/v2/cloud-network-cidr</link>
+            <guid>https://jialin00.com/v2/cloud-network-cidr</guid>
+            <pubDate>Tue, 01 Oct 2024 14:24:00 GMT</pubDate>
+            <description><![CDATA[Same 10.0.0.0/16 lives in my home router, my AWS account, and a friend's GCP project at the same time. The block doesn't have a location. How far it reaches is an abstraction each cloud chooses, and the choices track each provider's design philosophy.]]></description>
+            <content:encoded><![CDATA[Same /16, the big 3 cloud providers differ on how far it reaches]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[K8s needed Docker. Then it didn't.]]></title>
+            <link>https://jialin00.com/v2/container-runtime-evolution</link>
+            <guid>https://jialin00.com/v2/container-runtime-evolution</guid>
+            <pubDate>Fri, 20 Feb 2026 23:30:00 GMT</pubDate>
+            <description><![CDATA[K8s needed Docker. Then it didn't. Getting rid of it took six years and a pile of throwaway shims.]]></description>
+            <content:encoded><![CDATA[K8s needed Docker. Then it didn't.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[inside containerd: how shim and runc actually work]]></title>
+            <link>https://jialin00.com/v2/containerd-shim-and-runc</link>
+            <guid>https://jialin00.com/v2/containerd-shim-and-runc</guid>
+            <pubDate>Fri, 20 Feb 2026 23:31:00 GMT</pubDate>
+            <description><![CDATA[kubelet calls containerd, and a container appears. But between that call and the running container, three processes do a relay. One of them is created to die.]]></description>
+            <content:encoded><![CDATA[inside containerd: how shim and runc actually work]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CSS rendering: layers, threads, and why transform beats width]]></title>
+            <link>https://jialin00.com/v2/css-rendering-layers-and-animation-performance</link>
+            <guid>https://jialin00.com/v2/css-rendering-layers-and-animation-performance</guid>
+            <pubDate>Sun, 21 Sep 2025 19:10:00 GMT</pubDate>
+            <description><![CDATA[Not all CSS properties cost the same. Some trigger a full pipeline reflow. Others skip straight to the GPU. The difference is which thread does the work.]]></description>
+            <content:encoded><![CDATA[CSS rendering: layers, threads, and why transform beats width]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Three ways to keep an EC2 reachable, and why DDNS stopped saving money]]></title>
+            <link>https://jialin00.com/v2/ec2-public-address-options</link>
+            <guid>https://jialin00.com/v2/ec2-public-address-options</guid>
+            <pubDate>Mon, 07 Oct 2024 22:43:00 GMT</pubDate>
+            <description><![CDATA[Launch an EC2, get a public IP, restart it, and the IP is gone. Three ways to keep a stable address on it, and why the cheap one stopped being cheap in 2024.]]></description>
+            <content:encoded><![CDATA[Three ways to keep an EC2 reachable, and why DDNS stopped saving money]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[from docker push to HTTPS: deploying a Go server on ECS Fargate]]></title>
+            <link>https://jialin00.com/v2/fargate-ecs-go-server</link>
+            <guid>https://jialin00.com/v2/fargate-ecs-go-server</guid>
+            <pubDate>Sun, 29 Sep 2024 10:00:00 GMT</pubDate>
+            <description><![CDATA[I pushed a Go container to ECR and spent the next two hours untangling Fargate's Task Definitions, Capacity Providers, and ALB target groups.]]></description>
+            <content:encoded><![CDATA[from docker push to HTTPS: deploying a Go server on ECS Fargate]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Five ways to reach a service in Kubernetes, and the one you should use]]></title>
+            <link>https://jialin00.com/v2/five-ways-to-reach-a-k8s-service</link>
+            <guid>https://jialin00.com/v2/five-ways-to-reach-a-k8s-service</guid>
+            <pubDate>Sun, 07 Sep 2025 20:21:00 GMT</pubDate>
+            <description><![CDATA[A Kubernetes service can be reached five different ways. In real code you use exactly one. Walking through all five is the fastest way to see what the service abstraction is hiding, and why the other four only come out when something is broken.]]></description>
+            <content:encoded><![CDATA[Five ways to reach a service in Kubernetes, and the one you should use]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[from setState to pixels]]></title>
+            <link>https://jialin00.com/v2/from-setstate-to-pixels</link>
+            <guid>https://jialin00.com/v2/from-setstate-to-pixels</guid>
+            <pubDate>Tue, 14 Apr 2026 23:00:50 GMT</pubDate>
+            <description><![CDATA[You call setState. Nine steps later, a pixel changes. Here's what happens in between.]]></description>
+            <content:encoded><![CDATA[from setState to pixels]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Goroutines: from "it works" to "why is prod silently hanging"]]></title>
+            <link>https://jialin00.com/v2/go-goroutines-waitgroup-to-deadlock</link>
+            <guid>https://jialin00.com/v2/go-goroutines-waitgroup-to-deadlock</guid>
+            <pubDate>Sun, 06 Oct 2024 23:57:00 GMT</pubDate>
+            <description><![CDATA[A walk from naive goroutines up to the deadlock that does not crash. The loud failures are easy. The quiet one is the boss fight.]]></description>
+            <content:encoded><![CDATA[Goroutines: from "it works" to "why is prod silently hanging"]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[kubelens: a visual map and control panel for Kubernetes]]></title>
+            <link>https://jialin00.com/v2/how-i-built-kubelens</link>
+            <guid>https://jialin00.com/v2/how-i-built-kubelens</guid>
+            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Graph the whole cluster, click into any resource, run kubectl across windows, live or from an offline snapshot.]]></description>
+            <content:encoded><![CDATA[kubelens: a visual map and control panel for Kubernetes]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[HTTP 1.1, 2, and 3: what broke and what fixed it]]></title>
+            <link>https://jialin00.com/v2/http123</link>
+            <guid>https://jialin00.com/v2/http123</guid>
+            <pubDate>Wed, 30 Apr 2025 20:35:00 GMT</pubDate>
+            <description><![CDATA[Each HTTP version exists because the previous one had a fatal flaw. 1.0 opened too many connections. 1.1 blocked responses in order. 2 fixed that but TCP betrayed it. 3 replaced TCP entirely.]]></description>
+            <content:encoded><![CDATA[HTTP 1.1, 2, and 3: what broke and what fixed it]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[assumeRole and trust policy: why IAM users aren't enough]]></title>
+            <link>https://jialin00.com/v2/iam-assume-role-trust-policy</link>
+            <guid>https://jialin00.com/v2/iam-assume-role-trust-policy</guid>
+            <pubDate>Wed, 05 Nov 2025 23:48:00 GMT</pubDate>
+            <description><![CDATA[IAM users and policies seem like the whole story. Then assumeRole and trust policies show up and nothing makes sense.]]></description>
+            <content:encoded><![CDATA[assumeRole and trust policy: why IAM users aren't enough]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Inside React's FiberWorkLoop]]></title>
+            <link>https://jialin00.com/v2/inside-react-fiberworkloop</link>
+            <guid>https://jialin00.com/v2/inside-react-fiberworkloop</guid>
+            <pubDate>Mon, 20 Apr 2026 16:00:00 GMT</pubDate>
+            <description><![CDATA[From setState to commit, in four numbered stages. A tour of the reconciler's workloop.]]></description>
+            <content:encoded><![CDATA[Inside React's FiberWorkLoop]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[localhost is not 127.0.0.1]]></title>
+            <link>https://jialin00.com/v2/localhost-not-127001</link>
+            <guid>https://jialin00.com/v2/localhost-not-127001</guid>
+            <pubDate>Wed, 25 Sep 2024 22:55:00 GMT</pubDate>
+            <description><![CDATA[v17 made localhost resolve to ::1. v20 added the connect-side IPv4 fallback. Two policy changes, three years apart, often misread as one bug.]]></description>
+            <content:encoded><![CDATA[localhost is not 127.0.0.1]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Markdown Style Template]]></title>
+            <link>https://jialin00.com/v2/markdown-style-template</link>
+            <guid>https://jialin00.com/v2/markdown-style-template</guid>
+            <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A template for testing and tuning markdown rendering across all common elements.]]></description>
+            <content:encoded><![CDATA[Markdown Style Template]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Why two laptops on an iPhone hotspot can't talk]]></title>
+            <link>https://jialin00.com/v2/mobile-hotspot-ip</link>
+            <guid>https://jialin00.com/v2/mobile-hotspot-ip</guid>
+            <pubDate>Tue, 07 Apr 2026 22:02:02 GMT</pubDate>
+            <description><![CDATA[Apple turned on AP isolation and did not give you a switch to turn it off.]]></description>
+            <content:encoded><![CDATA[Why two laptops on an iPhone hotspot can't talk]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[N+1 isn't a database problem. It's a shape.]]></title>
+            <link>https://jialin00.com/v2/n-plus-1-is-a-shape</link>
+            <guid>https://jialin00.com/v2/n-plus-1-is-a-shape</guid>
+            <pubDate>Sun, 28 Jun 2026 01:15:14 GMT</pubDate>
+            <description><![CDATA[You think N+1 is a SQL thing. It's a shape: take a list, make one round-trip per element. DataLoader uses microtask timing to combine the scattered calls into a single IN query.]]></description>
+            <content:encoded><![CDATA[N+1 isn't a database problem. It's a shape.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Partitioning: a new table? And stored where?]]></title>
+            <link>https://jialin00.com/v2/partition-by-two-questions</link>
+            <guid>https://jialin00.com/v2/partition-by-two-questions</guid>
+            <pubDate>Wed, 16 Oct 2024 15:30:00 GMT</pubDate>
+            <description><![CDATA[PARTITION BY looks like one operation. It is two independent questions, and MySQL, Postgres, and Oracle answer them in different combinations.]]></description>
+            <content:encoded><![CDATA[Partitioning: a new table? And stored where?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[How pnpm fits ten copies of React in the space of one]]></title>
+            <link>https://jialin00.com/v2/pnpm-one-copy</link>
+            <guid>https://jialin00.com/v2/pnpm-one-copy</guid>
+            <pubDate>Sat, 11 Jul 2026 23:23:11 GMT</pubDate>
+            <description><![CDATA[Ten projects, all using React, one copy on disk. How pnpm's symlink tree and content-addressed store pull it off, and why the link is a hardlink on Linux but a copy-on-write clone on macOS.]]></description>
+            <content:encoded><![CDATA[How pnpm fits ten copies of React in the space of one]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[how I fucked up my MFA, lost my AWS root account :(]]></title>
+            <link>https://jialin00.com/v2/recovery-codes-mfa-fuckup</link>
+            <guid>https://jialin00.com/v2/recovery-codes-mfa-fuckup</guid>
+            <pubDate>Sat, 08 Nov 2025 21:00:00 GMT</pubDate>
+            <description><![CDATA[Locked out of AWS root for three hours. Tried CLI hacks, fought support bots, yelled at a chat agent. The fix? A password I already knew.]]></description>
+            <content:encoded><![CDATA[how I fucked up my MFA, lost my AWS root account :(]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[I stopped touching build config, and the whole layer got rewritten in Rust]]></title>
+            <link>https://jialin00.com/v2/rust-ate-javascript-build-toolchain</link>
+            <guid>https://jialin00.com/v2/rust-ate-javascript-build-toolchain</guid>
+            <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[I learned frontend in 2018, suffered through webpack and babel config, then Next.js hid all of it. While I wasn't looking, the entire build layer got rewritten in Rust. A war story, plus a map of who uses what in 2026.]]></description>
+            <content:encoded><![CDATA[I stopped touching build config, and the whole layer got rewritten in Rust]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SameSite doesn't apply to this special guest: localhost]]></title>
+            <link>https://jialin00.com/v2/samesite-and-the-subdomain-cookie-bug</link>
+            <guid>https://jialin00.com/v2/samesite-and-the-subdomain-cookie-bug</guid>
+            <pubDate>Thu, 19 Sep 2024 20:47:00 GMT</pubDate>
+            <description><![CDATA[Logged in at localhost:3000, switch to thembase.localhost:3000, and the cookie is gone. It looks like a SameSite problem. It isn't: localhost is a special-case name. Here's how to get around it.]]></description>
+            <content:encoded><![CDATA[SameSite doesn't apply to this special guest: localhost]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[One move kills CORS errors and hides your API key]]></title>
+            <link>https://jialin00.com/v2/server-side-calls-and-cors</link>
+            <guid>https://jialin00.com/v2/server-side-calls-and-cors</guid>
+            <pubDate>Sat, 02 Aug 2025 12:46:00 GMT</pubDate>
+            <description><![CDATA[Postman passes, the browser throws CORS, and you're back to asking the backend for headers. One move ends that loop and keeps your API key out of the browser at the same time: route the call through your own origin.]]></description>
+            <content:encoded><![CDATA[One move kills CORS errors and hides your API key]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SPA is not CSR: the 2026 rendering strategy map]]></title>
+            <link>https://jialin00.com/v2/spa-is-not-csr-rendering-strategies</link>
+            <guid>https://jialin00.com/v2/spa-is-not-csr-rendering-strategies</guid>
+            <pubDate>Sat, 02 Aug 2025 11:32:00 GMT</pubDate>
+            <description><![CDATA[SPA is an architecture. CSR / SSR / SSG / RSC / Islands / Resumability are strategies. They share an era and a tech stack, which is why they get tangled. Here's the untangle.]]></description>
+            <content:encoded><![CDATA[SPA is not CSR: the 2026 rendering strategy map]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Things, elements, fibers, pixels]]></title>
+            <link>https://jialin00.com/v2/things-elements-fibers-pixels</link>
+            <guid>https://jialin00.com/v2/things-elements-fibers-pixels</guid>
+            <pubDate>Tue, 21 Apr 2026 09:00:00 GMT</pubDate>
+            <description><![CDATA[ReactNode, ReactElement, Component, div. Four names that look like the same thing. They are not.]]></description>
+            <content:encoded><![CDATA[Things, elements, fibers, pixels]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The three GCP credentials, and which question each one answers]]></title>
+            <link>https://jialin00.com/v2/three-gcp-credentials</link>
+            <guid>https://jialin00.com/v2/three-gcp-credentials</guid>
+            <pubDate>Mon, 08 Sep 2025 21:28:00 GMT</pubDate>
+            <description><![CDATA[I tried to use OAuth 2.0 for everything. Then my backend had to read a Google Calendar with no user around, and no amount of OAuth could do it. The three GCP credentials aren't interchangeable. Each answers a different question: who is making the request?]]></description>
+            <content:encoded><![CDATA[The three GCP credentials, and which question each one answers]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[use client doesn't mean browser-only]]></title>
+            <link>https://jialin00.com/v2/use-client-not-browser-only</link>
+            <guid>https://jialin00.com/v2/use-client-not-browser-only</guid>
+            <pubDate>Wed, 16 Oct 2024 13:53:00 GMT</pubDate>
+            <description><![CDATA[use client doesn't mean browser-only. Your component still runs through Node.js at build time. useEffect is the only safe place for window.]]></description>
+            <content:encoded><![CDATA[use client doesn't mean browser-only]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Who can hear this? A map of browser messaging]]></title>
+            <link>https://jialin00.com/v2/who-can-hear-this</link>
+            <guid>https://jialin00.com/v2/who-can-hear-this</guid>
+            <pubDate>Sat, 02 Aug 2025 11:29:00 GMT</pubDate>
+            <description><![CDATA[The browser has a dozen ways to send a message. The confusion is never the syntax, it's two questions: who receives it, and can you make it private?]]></description>
+            <content:encoded><![CDATA[Who can hear this? A map of browser messaging]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[I kept repeating 'Rust is faster.' So I sat down and measured it.]]></title>
+            <link>https://jialin00.com/v2/why-rust-is-faster-i-benchmarked-it.en</link>
+            <guid>https://jialin00.com/v2/why-rust-is-faster-i-benchmarked-it.en</guid>
+            <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[I wrote a whole post about the JS toolchain being rewritten in Rust, and never once asked why Rust is faster, or how much. So I built a benchmark. The answer is not the one everybody repeats.]]></description>
+            <content:encoded><![CDATA[I kept repeating 'Rust is faster.' So I sat down and measured it.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[XSS and CSRF: a locked door and open windows]]></title>
+            <link>https://jialin00.com/v2/xss-and-csrf-defense-stack</link>
+            <guid>https://jialin00.com/v2/xss-and-csrf-defense-stack</guid>
+            <pubDate>Sun, 30 Mar 2025 15:39:00 GMT</pubDate>
+            <description><![CDATA[XSS and CSRF break different things and live in different layers. Defenses scatter across client, server, and browser. Here's the split, plus step-by-step hardening for a cookie-session app and a JWT app.]]></description>
+            <content:encoded><![CDATA[XSS and CSRF: a locked door and open windows]]></content:encoded>
+        </item>
+    </channel>
+</rss>

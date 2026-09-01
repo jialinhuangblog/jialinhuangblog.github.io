@@ -1,0 +1,499 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"default"]
+4:I[47843,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"default"]
+5:I[48350,[],""]
+6:I[11412,[],""]
+7:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+8:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-5f5d0eb30b97fa1b.js"],"default"]
+a:I[96727,[],"OutletBoundary"]
+c:I[14038,[],"AsyncMetadataOutlet"]
+e:I[96727,[],"ViewportBoundary"]
+10:I[96727,[],"MetadataBoundary"]
+11:"$Sreact.suspense"
+13:I[92950,[],""]
+:HL["/_next/static/media/4c9affa5bc8f420e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/6e5637a05e39a1b1.css","style"]
+:HL["/_next/static/css/27451c99e2657f58.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/004145cbd0a33204.css","style"]
+0:{"P":null,"b":"ULvxUWnH7J2D9qudU--bA","p":"","c":["","v2","from-setstate-to-pixels"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","from-setstate-to-pixels","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6e5637a05e39a1b1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/27451c99e2657f58.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L8",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","from-setstate-to-pixels","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/004145cbd0a33204.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$La",null,{"children":["$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L10",null,{"children":["$","div",null,{"hidden":true,"children":["$","$11",null,{"fallback":null,"children":"$L12"}]}]}]]}],false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+b:null
+14:I[25885,["7654","static/chunks/7654-339fd591b7f76774.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+15:T5638,<p>You call <code>setState</code>. You think you're updating the screen. You're not. Not yet.</p>
+<p>What you've done is schedule a rerender. React queues it, decides when to run it, and hands the result to the browser. The browser still has to do its own work before anything changes on screen. That handoff involves nine steps. Most frontend developers know two of them.</p>
+<p>Here is the whole loop up front, so the nine steps have somewhere to land. React owns the first three and the last; the browser owns the five in the middle, the same work it does with or without a framework.</p>
+<pre><code>setState
+  → render           ┐
+  → commit           │  React
+  → useLayoutEffect  ┘
+  → Style Recalc     ┐
+  → Render Tree      │
+  → Layout           │  browser
+  → Paint            │
+  → Composite        ┘
+  → useEffect           React
+</code></pre>
+<h2>I. The render phase</h2>
+<p>React runs your component function again. The function returns a new tree of JavaScript objects: the Virtual DOM. The browser has no idea this exists. It's just memory.</p>
+<p>React compares the new tree against the previous one. Two rules govern the diff:</p>
+<ul>
+<li>Different element type? Tear down the old subtree, build a new one.</li>
+<li>List items? The <code>key</code> prop tells React which item is which across renders.</li>
+</ul>
+<p>In React 18, this phase can be paused and restarted. With <code>startTransition</code>, you mark an update as low priority. If the user does something more urgent before it finishes, React drops the partial render and starts over with the new state. Nothing has touched the DOM yet, so throwing away ongoing work is safe.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="jsx" data-theme="github-dark github-light"><code data-language="jsx" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> [</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">input</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">setInput</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">] </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> useState</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">''</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> [</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">query</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">setQuery</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">] </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> useState</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">''</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> handleChange</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">e</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) {</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  setInput</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(e.target.value)           </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// high priority. update input immediately</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  startTransition</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(() </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">    setQuery</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(e.target.value)         </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// low priority. React can interrupt this render</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  })</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// &#x3C;ExpensiveList> rerenders with query.</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// If the user types again before it finishes, React drops</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// the ongoing render and restarts with the latest query.</span></span></code></pre></figure>
+<p>Without <code>startTransition</code>, the entire render runs synchronously. The input lags until the list finishes.</p>
+<h2>II. The commit phase</h2>
+<p>The diff is ready. React writes it to the real DOM.</p>
+<p>This phase cannot be interrupted. React runs it to completion. Once it starts, the DOM is changing.</p>
+<p>Internally, commit runs three stages:</p>
+<ul>
+<li><strong>Before mutation</strong>: snapshot the state before the DOM changes. Class components use <code>getSnapshotBeforeUpdate</code> here to record things like scroll position.</li>
+<li><strong>Mutation</strong>: actual DOM writes. <code>insertBefore</code>, <code>removeChild</code>, <code>setAttribute</code>.</li>
+<li><strong>Layout</strong>: attach or detach refs, fire <code>useLayoutEffect</code>. So "useLayoutEffect runs after commit" really means it runs inside the last of these three.</li>
+</ul>
+<p><span id="uselayouteffect"></span></p>
+<h2>III. useLayoutEffect</h2>
+<p>Before the browser renders anything, React fires <code>useLayoutEffect</code> synchronously.</p>
+<p>This is the only moment you can safely read layout: <code>getBoundingClientRect</code>, <code>offsetHeight</code>, scroll position. You're reading after the DOM write, before the paint. If you read layout in <code>useEffect</code> instead, you're reading after the browser has already rendered once, which means you'll trigger a second render to correct it.</p>
+<p>Reading layout here is <strong>synchronous and blocking</strong>: <code>getBoundingClientRect()</code> computes style and layout on that line, no Promise, no <code>await</code> to warn you. A read forces that compute only when layout is <em>dirty</em>, and a <strong>write</strong> dirties it. One read is one pass:</p>
+<pre><code>read → style recalc → layout
+</code></pre>
+<p>Interleave writes and each one re-dirties, so the pass runs again and again (<strong>layout thrashing</strong>):</p>
+<pre><code>read → style recalc → layout → write → style recalc → layout → write → style recalc → layout
+</code></pre>
+<p>Fix: batch all reads, then all writes. For pure measurement, <code>ResizeObserver</code> / <code>IntersectionObserver</code> report asynchronously, no forced layout.</p>
+<p><code>useLayoutEffect</code> blocks the paint. Keep it fast.</p>
+<p>Now the browser takes over.</p>
+<blockquote>
+<p><strong>CRP, technically.</strong> People call this whole pipeline (Style Recalc through Composite) the Critical Rendering Path. Strictly, CRP is <em>first paint only</em>. After that, <code>setState</code> reuses the same pipeline. Same steps, different context.</p>
+</blockquote>
+<p><span id="style-recalc"></span></p>
+<h2>IV. Style Recalc</h2>
+<p>The browser notices the DOM changed and needs to figure out what every element should look like. A value moves through six stages before it reaches the screen:</p>
+<pre><code>declared → cascaded → specified → computed → used → actual
+</code></pre>
+<p>Style Recalc runs the first four (the steps below). <em>Used</em> and <em>actual</em> finish later, in Layout and Paint.</p>
+<p><strong>Collecting.</strong> The browser gathers styles from three sources: its own builtin defaults (User Agent), any preferences the user has configured in their browser, and your stylesheet (Author).</p>
+<p><strong>Cascading.</strong> All collected declarations compete. The browser resolves conflicts in this order, highest priority first:</p>
+<ol>
+<li>Transitions</li>
+<li>User Agent + <code>!important</code></li>
+<li>User + <code>!important</code></li>
+<li>Author + <code>!important</code></li>
+<li>Animations</li>
+<li>Author</li>
+<li>User</li>
+<li>User Agent</li>
+</ol>
+<p>Within the same origin, specificity breaks the tie: inline styles beat IDs, IDs beat classes, classes beat type selectors. If specificity is equal, the declaration that appears last wins. The reference below shows every selector's exact score and what <code>!important</code> does to the whole system.</p>
+<iframe src="https://specificity.webcore.io/" width="100%" height="800" style="border:none; margin: 24px 0;" title="CSS Specificity Reference"></iframe>
+<p><strong>Defaulting.</strong> Properties with no declared value still need one. Two ways to fill it:<br>
+Text-ish properties inherit from the parent: <code>color</code>, <code>font-size</code>, <code>font-family</code>.<br>
+Box-ish properties fall back to a spec default: <code>border</code> → <code>none</code>, <code>margin</code> → <code>0</code>.<br>
+Override either path with <code>inherit</code>, <code>initial</code>, or <code>unset</code>.</p>
+<p><strong>Resolving (the easy half).</strong> First of two passes (<a href="#layout-reflow">section VI</a> is the other). Anything that doesn't need geometry becomes concrete: <code>em</code> against the parent font size, <code>rem</code> against the root, <code>bold</code> becomes <code>700</code>, relative paths become absolute URLs. Anything that needs the box size (<code>50%</code>, <code>auto</code>, <code>min-content</code>) can't resolve yet, so it waits for Layout.</p>
+<p>Output: every node's <em>computed style</em>. Note <em>computed</em>: <code>width: 50%</code> is still <code>50%</code> here, not a pixel.</p>
+<h2>V. Render Tree</h2>
+<p>DOM plus computed styles merge into the Render Tree. It's the same DOM with style attached, and everything invisible dropped.</p>
+<p><code>display: none</code>: excluded. No node in the tree, no space in the layout.<br>
+<code>visibility: hidden</code>: included. Space reserved, pixels not drawn.<br>
+<code>&#x3C;title></code>, <code>&#x3C;head></code>: excluded. The browser only builds the tree from what's visible.</p>
+<p><span id="layout-reflow"></span></p>
+<h2>VI. Layout / Reflow</h2>
+<p>The browser walks the Render Tree and calculates the geometry of every element: position, width, height. This step is also called Reflow. It's where two CSS steps finish:</p>
+<p><strong>Formatting.</strong> The browser organizes elements into formatting contexts: block, inline, flex, grid. Each context has rules for how its children stack and flow.</p>
+<p><strong>Resolving (the layout half).</strong> The second pass. <code>50%</code>, <code>auto</code>, <code>min-content</code> needed a box to measure against; now it exists, so they resolve. <a href="#style-recalc">Style Recalc</a> gave the <em>computed value</em> (<code>50%</code>); Layout makes it the <em>used value</em> (<code>400px</code>).</p>
+<p>Layout is expensive. Inserting a DOM node triggers it. Changing <code>font-size</code> triggers it. Resizing the window triggers it. Reading <code>getBoundingClientRect</code> mid-animation can trigger it repeatedly.</p>
+<p>That's why <a href="#uselayouteffect"><code>useLayoutEffect</code></a> fires back in section III, <em>before</em> this step: one place to batch your reads, right after the DOM write, before the browser reaches this geometry pass.</p>
+<h2>VII. Paint</h2>
+<p>The browser fills pixels into layers. Multiple layers, not one. It draws <code>background</code>, <code>color</code>, <code>box-shadow</code>, <code>border</code>. Each property fills pixels in its own layer.</p>
+<p><strong>Transforming.</strong> The browser does its final pixel level cleanup: subpixel snapping, clamping values to device limits, clipping to the viewport. (Unrelated to CSS <code>transform: translate()</code>, which lives in the next section.)</p>
+<p>This step is cheaper than layout but still involves the CPU.</p>
+<h2>VIII. Composite</h2>
+<p>The GPU takes the layers from the paint step and merges them into the final frame.</p>
+<p><code>transform</code> and <code>opacity</code> live here. Moving an element with <code>transform: translateX(100px)</code> skips layout and paint entirely. Only the composite step runs. That's why CSS animations on <code>transform</code> or <code>opacity</code> are smooth even on slow hardware. They bypass the expensive steps.</p>
+<p>Animations on <code>left</code>, <code>top</code>, or <code>width</code> trigger layout on every frame. That's the difference between 60fps and a jank spike.</p>
+<h2>IX. useEffect</h2>
+<p><code>useEffect</code> fires after the browser has painted.</p>
+<p>This is where side effects belong: data fetches, subscriptions, event listeners. The user has already seen the updated screen. Nothing here blocks the paint.</p>
+<h2>The naming collision</h2>
+<p>"Render" means two different things in frontend, and conflating them causes confusion in every performance discussion.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Term</th><th>What it means</th></tr></thead><tbody><tr><td>React render phase</td><td>Runs the component function, produces a Virtual DOM. The browser is not involved.</td></tr><tr><td>Browser Render Tree</td><td>DOM + CSSOM merged. Built from the real DOM React wrote in the commit phase.</td></tr></tbody></table>
+<p>React's render phase produces JavaScript objects. The browser's Render Tree is built from real DOM nodes. They don't overlap. React finishes its render before the browser starts building its Render Tree.</p>
+<h2>The full sequence</h2>
+<pre><code>Browser receives HTML
+  │
+  ├── HTML parser ──► DOM
+  │                    │
+  │                    ├──► DOMContentLoaded          ← DOM ready + defer scripts (NOT CSSOM)
+  │                    │       → React.render(&#x3C;App />, #root)
+  │                    │       → render + commit        React writes DOM nodes, no CSSOM needed
+  │                    │
+  └── CSS fetch ──► CSSOM
+                       │
+      DOM + CSSOM ─────┴──► Render Tree ──► Layout ──► Paint ──► Composite ──► First Contentful Paint
+
+  scripts   &#x3C;script>        blocks parser, runs immediately
+            &#x3C;script defer>  parallel fetch, runs after DOM ready
+            &#x3C;script async>  parallel fetch, runs on download
+            &#x3C;script module> same as defer + own scope
+
+window.onload      ← images, fonts, iframes all loaded
+
+──────────────── app is live ────────────────────────────────
+
+any setState (event handler, fetch, timer, WebSocket...)
+  → setState called
+      ┌──────────────────────────────────────────────────┐
+      │  render phase     VDOM diff, interruptible       │
+      │  commit phase     writes to real DOM             │
+      │  useLayoutEffect  read layout, blocks paint      │
+      │  Style Recalc     cascade, specificity, compute  │
+      │  Render Tree      DOM + computed styles merged   │
+      │  Layout / Reflow  geometry: position, size       │
+      │  Paint            pixels into layers             │
+      │  Composite        GPU merges, screen updates     │
+      │  useEffect        side effects                   │
+      └────────────────────────┬─────────────────────────┘
+                               │ any setState
+                               └──► back to render phase
+</code></pre>
+<blockquote>
+<p><strong>The three paint metrics.</strong> The bootstrap path above ends at <em>FCP</em> (First Contentful Paint), the first content pixels. Two cousins sit near it: <em>FP</em> (First Paint) is the first pixels of anything, a background counts; <em>LCP</em> (Largest Contentful Paint) is when the viewport's largest element paints, usually much later, gated on when the hero image's bytes arrive.</p>
+</blockquote>
+<p>Nine steps. The first three belong to React. The last one belongs to React. The middle five are the browser doing what it has always done, with or without a framework. And the loop runs for as long as the app is alive.</p>
+<p>To see how those nine steps spread across processes and threads in real time, here is the same loop laid out as a timeline:</p>
+<iframe src="/embeds/browser-arch" width="100%" height="880" style="border:none;" title="Browser Architecture: Chrome processes and threads"></iframe>
+<h2>References</h2>
+<p><strong>React internals</strong></p>
+<ul>
+<li><a href="/v2/inside-react-fiberworkloop">Inside React's FiberWorkLoop</a>. Follow up post of mine. Zooms inside the "render phase" and "commit phase" bullets above, walking through the four numbered stages of React's internal reconciler workloop.</li>
+<li><a href="https://react.iamkasong.com">React 技术揭秘</a> by Jokcy (卡颂). A simplified Chinese deep dive into Fiber, Scheduler, Lanes, and Hooks. The standard narrative reference for React at source level.</li>
+<li><a href="https://7km.top/main/reconciler-workflow">React 技术解析 (图解系列)</a>. Another simplified Chinese resource, but function by function, with flow charts that trace the reconciler from <code>scheduleUpdateOnFiber</code> all the way to <code>commitRoot</code>. Complements Jokcy's book with more concrete workflow diagrams.</li>
+<li><a href="https://www.youtube.com/watch?v=ZCuYPiUIONs">A Cartoon Intro to Fiber</a> by Lin Clark, React Conf 2017. Visual walkthrough of why Fiber replaced the old stack reconciler.</li>
+</ul>
+<p><strong>Browser rendering pipeline</strong></p>
+<ul>
+<li><a href="https://developer.chrome.com/blog/inside-browser-part1/">Inside look at modern web browser</a> by Mariko Kosaka. Four part series on how Chrome's processes and threads cooperate.</li>
+<li><a href="https://web.dev/articles/howbrowserswork">How browsers work</a> by Tali Garsiel. The long form classic on what happens from bytes to pixels.</li>
+<li><a href="https://dev.to/arikaturika/how-web-browsers-work-the-render-tree-part-7-with-illustrations-24h3">How web browsers work: the render tree (part 7)</a> by arikaturika. Part 7 of an illustrated dev.to series. Walks render tree construction step by step with diagrams.</li>
+<li><a href="https://medium.com/@regondaakhil/the-anatomy-of-browser-rendering-how-web-pages-come-to-life-6fa9e801a3f">The Anatomy of Browser Rendering</a> by Akhil Regonda. Six step walkthrough from parse to composite, with optimization notes along the way.</li>
+<li><a href="https://juejin.cn/post/6952878811046215711">浏览器是如何渲染网页的？</a> by Kerb. Simplified Chinese take on DOM, CSSOM, and render tree. Explains how render-blocking CSS and parser-blocking scripts reshape the pipeline.</li>
+</ul>
+<p><strong>Critical Rendering Path</strong></p>
+<ul>
+<li><a href="https://web.dev/articles/critical-rendering-path/render-tree-construction">Render Tree Construction</a>. How DOM and CSSOM merge, what gets included, what gets dropped.</li>
+<li><a href="https://web.dev/articles/critical-rendering-path/measure-crp">Measure the Critical Rendering Path</a>. How to instrument and measure CRP timing with Navigation Timing API and DevTools.</li>
+</ul>
+<p><strong>Layout and reflow</strong></p>
+<ul>
+<li><a href="https://kellegous.com/j/2013/01/26/layout-performance/">On Layout &#x26; Web Performance</a> by Kelly Norton. The classic post on layout thrashing. Browsers compute layout lazily, so read-write-read forces reflow every time.</li>
+<li><a href="https://web.dev/articles/avoid-large-complex-layouts-and-layout-thrashing">Avoid large, complex layouts and layout thrashing</a> by Jeremy Wagner, Paul Lewis, Barry Pollard. Concrete techniques: batch reads before writes, avoid forced synchronous layout, flatten the tree.</li>
+<li><a href="https://stackoverflow.com/questions/27637184/what-is-dom-reflow/27637245#27637245">What is DOM reflow?</a> Stack Overflow thread. Short canonical answer for what reflow is and what triggers it.</li>
+<li><a href="https://github.com/vasanthk/browser-rendering-optimization/blob/master/README.md">Browser Rendering Optimization</a> by Vasanth Krishnamoorthy. Checklist style notes on hitting 60fps. Covers pipeline stages, frame budget, and per step optimizations.</li>
+</ul>
+<p><strong>Extensibility</strong></p>
+<ul>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Houdini_APIs">Houdini APIs</a> on MDN. Houdini opens the CSS engine's internal steps to userland. Paint, Layout, and Animation Worklets each hook into one step of the pipeline above. Chrome and Edge only for now.</li>
+<li><a href="https://bitsofco.de/web-workers-vs-service-workers-vs-worklets/">Web Workers vs Service Workers vs Worklets</a> by Ire Aderinokun. Short comparison that pins down what each one does, and why only Worklets hook into the rendering pipeline.</li>
+</ul>16:T407f,
+You call `setState`. You think you're updating the screen. You're not. Not yet.
+
+What you've done is schedule a rerender. React queues it, decides when to run it, and hands the result to the browser. The browser still has to do its own work before anything changes on screen. That handoff involves nine steps. Most frontend developers know two of them.
+
+Here is the whole loop up front, so the nine steps have somewhere to land. React owns the first three and the last; the browser owns the five in the middle, the same work it does with or without a framework.
+
+```
+setState
+  → render           ┐
+  → commit           │  React
+  → useLayoutEffect  ┘
+  → Style Recalc     ┐
+  → Render Tree      │
+  → Layout           │  browser
+  → Paint            │
+  → Composite        ┘
+  → useEffect           React
+```
+
+## I. The render phase
+
+React runs your component function again. The function returns a new tree of JavaScript objects: the Virtual DOM. The browser has no idea this exists. It's just memory.
+
+React compares the new tree against the previous one. Two rules govern the diff:
+
+- Different element type? Tear down the old subtree, build a new one.
+- List items? The `key` prop tells React which item is which across renders.
+
+In React 18, this phase can be paused and restarted. With `startTransition`, you mark an update as low priority. If the user does something more urgent before it finishes, React drops the partial render and starts over with the new state. Nothing has touched the DOM yet, so throwing away ongoing work is safe.
+
+```jsx
+const [input, setInput] = useState('')
+const [query, setQuery] = useState('')
+
+function handleChange(e) {
+  setInput(e.target.value)           // high priority. update input immediately
+
+  startTransition(() => {
+    setQuery(e.target.value)         // low priority. React can interrupt this render
+  })
+}
+
+// <ExpensiveList> rerenders with query.
+// If the user types again before it finishes, React drops
+// the ongoing render and restarts with the latest query.
+```
+
+Without `startTransition`, the entire render runs synchronously. The input lags until the list finishes.
+
+## II. The commit phase
+
+The diff is ready. React writes it to the real DOM.
+
+This phase cannot be interrupted. React runs it to completion. Once it starts, the DOM is changing.
+
+Internally, commit runs three stages:
+
+- **Before mutation**: snapshot the state before the DOM changes. Class components use `getSnapshotBeforeUpdate` here to record things like scroll position.
+- **Mutation**: actual DOM writes. `insertBefore`, `removeChild`, `setAttribute`.
+- **Layout**: attach or detach refs, fire `useLayoutEffect`. So "useLayoutEffect runs after commit" really means it runs inside the last of these three.
+
+<span id="uselayouteffect"></span>
+
+## III. useLayoutEffect
+
+Before the browser renders anything, React fires `useLayoutEffect` synchronously.
+
+This is the only moment you can safely read layout: `getBoundingClientRect`, `offsetHeight`, scroll position. You're reading after the DOM write, before the paint. If you read layout in `useEffect` instead, you're reading after the browser has already rendered once, which means you'll trigger a second render to correct it.
+
+Reading layout here is **synchronous and blocking**: `getBoundingClientRect()` computes style and layout on that line, no Promise, no `await` to warn you. A read forces that compute only when layout is *dirty*, and a **write** dirties it. One read is one pass:
+
+```
+read → style recalc → layout
+```
+
+Interleave writes and each one re-dirties, so the pass runs again and again (**layout thrashing**):
+
+```
+read → style recalc → layout → write → style recalc → layout → write → style recalc → layout
+```
+
+Fix: batch all reads, then all writes. For pure measurement, `ResizeObserver` / `IntersectionObserver` report asynchronously, no forced layout.
+
+`useLayoutEffect` blocks the paint. Keep it fast.
+
+Now the browser takes over.
+
+> **CRP, technically.** People call this whole pipeline (Style Recalc through Composite) the Critical Rendering Path. Strictly, CRP is *first paint only*. After that, `setState` reuses the same pipeline. Same steps, different context.
+
+<span id="style-recalc"></span>
+
+## IV. Style Recalc
+
+The browser notices the DOM changed and needs to figure out what every element should look like. A value moves through six stages before it reaches the screen:
+
+```
+declared → cascaded → specified → computed → used → actual
+```
+
+Style Recalc runs the first four (the steps below). *Used* and *actual* finish later, in Layout and Paint.
+
+**Collecting.** The browser gathers styles from three sources: its own builtin defaults (User Agent), any preferences the user has configured in their browser, and your stylesheet (Author).
+
+**Cascading.** All collected declarations compete. The browser resolves conflicts in this order, highest priority first:
+
+1. Transitions
+2. User Agent + `!important`
+3. User + `!important`
+4. Author + `!important`
+5. Animations
+6. Author
+7. User
+8. User Agent
+
+Within the same origin, specificity breaks the tie: inline styles beat IDs, IDs beat classes, classes beat type selectors. If specificity is equal, the declaration that appears last wins. The reference below shows every selector's exact score and what `!important` does to the whole system.
+
+<iframe src="https://specificity.webcore.io/" width="100%" height="800" style="border:none; margin: 24px 0;" title="CSS Specificity Reference"></iframe>
+
+**Defaulting.** Properties with no declared value still need one. Two ways to fill it:  
+Text-ish properties inherit from the parent: `color`, `font-size`, `font-family`.  
+Box-ish properties fall back to a spec default: `border` → `none`, `margin` → `0`.  
+Override either path with `inherit`, `initial`, or `unset`.
+
+**Resolving (the easy half).** First of two passes ([section VI](#layout-reflow) is the other). Anything that doesn't need geometry becomes concrete: `em` against the parent font size, `rem` against the root, `bold` becomes `700`, relative paths become absolute URLs. Anything that needs the box size (`50%`, `auto`, `min-content`) can't resolve yet, so it waits for Layout.
+
+Output: every node's *computed style*. Note *computed*: `width: 50%` is still `50%` here, not a pixel.
+
+## V. Render Tree
+
+DOM plus computed styles merge into the Render Tree. It's the same DOM with style attached, and everything invisible dropped.
+
+`display: none`: excluded. No node in the tree, no space in the layout.  
+`visibility: hidden`: included. Space reserved, pixels not drawn.  
+`<title>`, `<head>`: excluded. The browser only builds the tree from what's visible.
+
+<span id="layout-reflow"></span>
+
+## VI. Layout / Reflow
+
+The browser walks the Render Tree and calculates the geometry of every element: position, width, height. This step is also called Reflow. It's where two CSS steps finish:
+
+**Formatting.** The browser organizes elements into formatting contexts: block, inline, flex, grid. Each context has rules for how its children stack and flow.
+
+**Resolving (the layout half).** The second pass. `50%`, `auto`, `min-content` needed a box to measure against; now it exists, so they resolve. [Style Recalc](#style-recalc) gave the *computed value* (`50%`); Layout makes it the *used value* (`400px`).
+
+Layout is expensive. Inserting a DOM node triggers it. Changing `font-size` triggers it. Resizing the window triggers it. Reading `getBoundingClientRect` mid-animation can trigger it repeatedly.
+
+That's why [`useLayoutEffect`](#uselayouteffect) fires back in section III, *before* this step: one place to batch your reads, right after the DOM write, before the browser reaches this geometry pass.
+
+## VII. Paint
+
+The browser fills pixels into layers. Multiple layers, not one. It draws `background`, `color`, `box-shadow`, `border`. Each property fills pixels in its own layer.
+
+**Transforming.** The browser does its final pixel level cleanup: subpixel snapping, clamping values to device limits, clipping to the viewport. (Unrelated to CSS `transform: translate()`, which lives in the next section.)
+
+This step is cheaper than layout but still involves the CPU.
+
+## VIII. Composite
+
+The GPU takes the layers from the paint step and merges them into the final frame.
+
+`transform` and `opacity` live here. Moving an element with `transform: translateX(100px)` skips layout and paint entirely. Only the composite step runs. That's why CSS animations on `transform` or `opacity` are smooth even on slow hardware. They bypass the expensive steps.
+
+Animations on `left`, `top`, or `width` trigger layout on every frame. That's the difference between 60fps and a jank spike.
+
+## IX. useEffect
+
+`useEffect` fires after the browser has painted.
+
+This is where side effects belong: data fetches, subscriptions, event listeners. The user has already seen the updated screen. Nothing here blocks the paint.
+
+## The naming collision
+
+"Render" means two different things in frontend, and conflating them causes confusion in every performance discussion.
+
+| Term | What it means |
+|---|---|
+| React render phase | Runs the component function, produces a Virtual DOM. The browser is not involved. |
+| Browser Render Tree | DOM + CSSOM merged. Built from the real DOM React wrote in the commit phase. |
+
+React's render phase produces JavaScript objects. The browser's Render Tree is built from real DOM nodes. They don't overlap. React finishes its render before the browser starts building its Render Tree.
+
+## The full sequence
+
+```
+Browser receives HTML
+  │
+  ├── HTML parser ──► DOM
+  │                    │
+  │                    ├──► DOMContentLoaded          ← DOM ready + defer scripts (NOT CSSOM)
+  │                    │       → React.render(<App />, #root)
+  │                    │       → render + commit        React writes DOM nodes, no CSSOM needed
+  │                    │
+  └── CSS fetch ──► CSSOM
+                       │
+      DOM + CSSOM ─────┴──► Render Tree ──► Layout ──► Paint ──► Composite ──► First Contentful Paint
+
+  scripts   <script>        blocks parser, runs immediately
+            <script defer>  parallel fetch, runs after DOM ready
+            <script async>  parallel fetch, runs on download
+            <script module> same as defer + own scope
+
+window.onload      ← images, fonts, iframes all loaded
+
+──────────────── app is live ────────────────────────────────
+
+any setState (event handler, fetch, timer, WebSocket...)
+  → setState called
+      ┌──────────────────────────────────────────────────┐
+      │  render phase     VDOM diff, interruptible       │
+      │  commit phase     writes to real DOM             │
+      │  useLayoutEffect  read layout, blocks paint      │
+      │  Style Recalc     cascade, specificity, compute  │
+      │  Render Tree      DOM + computed styles merged   │
+      │  Layout / Reflow  geometry: position, size       │
+      │  Paint            pixels into layers             │
+      │  Composite        GPU merges, screen updates     │
+      │  useEffect        side effects                   │
+      └────────────────────────┬─────────────────────────┘
+                               │ any setState
+                               └──► back to render phase
+```
+
+> **The three paint metrics.** The bootstrap path above ends at *FCP* (First Contentful Paint), the first content pixels. Two cousins sit near it: *FP* (First Paint) is the first pixels of anything, a background counts; *LCP* (Largest Contentful Paint) is when the viewport's largest element paints, usually much later, gated on when the hero image's bytes arrive.
+
+Nine steps. The first three belong to React. The last one belongs to React. The middle five are the browser doing what it has always done, with or without a framework. And the loop runs for as long as the app is alive.
+
+To see how those nine steps spread across processes and threads in real time, here is the same loop laid out as a timeline:
+
+<iframe src="/embeds/browser-arch" width="100%" height="880" style="border:none;" title="Browser Architecture: Chrome processes and threads"></iframe>
+
+## References
+
+**React internals**
+
+- [Inside React's FiberWorkLoop](/v2/inside-react-fiberworkloop). Follow up post of mine. Zooms inside the "render phase" and "commit phase" bullets above, walking through the four numbered stages of React's internal reconciler workloop.
+- [React 技术揭秘](https://react.iamkasong.com) by Jokcy (卡颂). A simplified Chinese deep dive into Fiber, Scheduler, Lanes, and Hooks. The standard narrative reference for React at source level.
+- [React 技术解析 (图解系列)](https://7km.top/main/reconciler-workflow). Another simplified Chinese resource, but function by function, with flow charts that trace the reconciler from `scheduleUpdateOnFiber` all the way to `commitRoot`. Complements Jokcy's book with more concrete workflow diagrams.
+- [A Cartoon Intro to Fiber](https://www.youtube.com/watch?v=ZCuYPiUIONs) by Lin Clark, React Conf 2017. Visual walkthrough of why Fiber replaced the old stack reconciler.
+
+**Browser rendering pipeline**
+
+- [Inside look at modern web browser](https://developer.chrome.com/blog/inside-browser-part1/) by Mariko Kosaka. Four part series on how Chrome's processes and threads cooperate.
+- [How browsers work](https://web.dev/articles/howbrowserswork) by Tali Garsiel. The long form classic on what happens from bytes to pixels.
+- [How web browsers work: the render tree (part 7)](https://dev.to/arikaturika/how-web-browsers-work-the-render-tree-part-7-with-illustrations-24h3) by arikaturika. Part 7 of an illustrated dev.to series. Walks render tree construction step by step with diagrams.
+- [The Anatomy of Browser Rendering](https://medium.com/@regondaakhil/the-anatomy-of-browser-rendering-how-web-pages-come-to-life-6fa9e801a3f) by Akhil Regonda. Six step walkthrough from parse to composite, with optimization notes along the way.
+- [浏览器是如何渲染网页的？](https://juejin.cn/post/6952878811046215711) by Kerb. Simplified Chinese take on DOM, CSSOM, and render tree. Explains how render-blocking CSS and parser-blocking scripts reshape the pipeline.
+
+**Critical Rendering Path**
+
+- [Render Tree Construction](https://web.dev/articles/critical-rendering-path/render-tree-construction). How DOM and CSSOM merge, what gets included, what gets dropped.
+- [Measure the Critical Rendering Path](https://web.dev/articles/critical-rendering-path/measure-crp). How to instrument and measure CRP timing with Navigation Timing API and DevTools.
+
+**Layout and reflow**
+
+- [On Layout & Web Performance](https://kellegous.com/j/2013/01/26/layout-performance/) by Kelly Norton. The classic post on layout thrashing. Browsers compute layout lazily, so read-write-read forces reflow every time.
+- [Avoid large, complex layouts and layout thrashing](https://web.dev/articles/avoid-large-complex-layouts-and-layout-thrashing) by Jeremy Wagner, Paul Lewis, Barry Pollard. Concrete techniques: batch reads before writes, avoid forced synchronous layout, flatten the tree.
+- [What is DOM reflow?](https://stackoverflow.com/questions/27637184/what-is-dom-reflow/27637245#27637245) Stack Overflow thread. Short canonical answer for what reflow is and what triggers it.
+- [Browser Rendering Optimization](https://github.com/vasanthk/browser-rendering-optimization/blob/master/README.md) by Vasanth Krishnamoorthy. Checklist style notes on hitting 60fps. Covers pipeline stages, frame budget, and per step optimizations.
+
+**Extensibility**
+
+- [Houdini APIs](https://developer.mozilla.org/en-US/docs/Web/API/Houdini_APIs) on MDN. Houdini opens the CSS engine's internal steps to userland. Paint, Layout, and Animation Worklets each hook into one step of the pipeline above. Chrome and Edge only for now.
+- [Web Workers vs Service Workers vs Worklets](https://bitsofco.de/web-workers-vs-service-workers-vs-worklets/) by Ire Aderinokun. Short comparison that pins down what each one does, and why only Worklets hook into the rendering pipeline.
+17:T571c,LS0tCnRpdGxlOiAiZnJvbSBzZXRTdGF0ZSB0byBwaXhlbHMiCmRhdGU6IDIwMjYtMDQtMTRUMjM6MDA6NTAKdGFnczogW2Zyb250ZW5kLCByZWFjdCwgYnJvd3NlciwgcmVuZGVyaW5nXQpkZXNjcmlwdGlvbjogIllvdSBjYWxsIHNldFN0YXRlLiBOaW5lIHN0ZXBzIGxhdGVyLCBhIHBpeGVsIGNoYW5nZXMuIEhlcmUncyB3aGF0IGhhcHBlbnMgaW4gYmV0d2Vlbi4iCi0tLQoKWW91IGNhbGwgYHNldFN0YXRlYC4gWW91IHRoaW5rIHlvdSdyZSB1cGRhdGluZyB0aGUgc2NyZWVuLiBZb3UncmUgbm90LiBOb3QgeWV0LgoKV2hhdCB5b3UndmUgZG9uZSBpcyBzY2hlZHVsZSBhIHJlcmVuZGVyLiBSZWFjdCBxdWV1ZXMgaXQsIGRlY2lkZXMgd2hlbiB0byBydW4gaXQsIGFuZCBoYW5kcyB0aGUgcmVzdWx0IHRvIHRoZSBicm93c2VyLiBUaGUgYnJvd3NlciBzdGlsbCBoYXMgdG8gZG8gaXRzIG93biB3b3JrIGJlZm9yZSBhbnl0aGluZyBjaGFuZ2VzIG9uIHNjcmVlbi4gVGhhdCBoYW5kb2ZmIGludm9sdmVzIG5pbmUgc3RlcHMuIE1vc3QgZnJvbnRlbmQgZGV2ZWxvcGVycyBrbm93IHR3byBvZiB0aGVtLgoKSGVyZSBpcyB0aGUgd2hvbGUgbG9vcCB1cCBmcm9udCwgc28gdGhlIG5pbmUgc3RlcHMgaGF2ZSBzb21ld2hlcmUgdG8gbGFuZC4gUmVhY3Qgb3ducyB0aGUgZmlyc3QgdGhyZWUgYW5kIHRoZSBsYXN0OyB0aGUgYnJvd3NlciBvd25zIHRoZSBmaXZlIGluIHRoZSBtaWRkbGUsIHRoZSBzYW1lIHdvcmsgaXQgZG9lcyB3aXRoIG9yIHdpdGhvdXQgYSBmcmFtZXdvcmsuCgpgYGAKc2V0U3RhdGUKICDihpIgcmVuZGVyICAgICAgICAgICDilJAKICDihpIgY29tbWl0ICAgICAgICAgICDilIIgIFJlYWN0CiAg4oaSIHVzZUxheW91dEVmZmVjdCAg4pSYCiAg4oaSIFN0eWxlIFJlY2FsYyAgICAg4pSQCiAg4oaSIFJlbmRlciBUcmVlICAgICAg4pSCCiAg4oaSIExheW91dCAgICAgICAgICAg4pSCICBicm93c2VyCiAg4oaSIFBhaW50ICAgICAgICAgICAg4pSCCiAg4oaSIENvbXBvc2l0ZSAgICAgICAg4pSYCiAg4oaSIHVzZUVmZmVjdCAgICAgICAgICAgUmVhY3QKYGBgCgojIyBJLiBUaGUgcmVuZGVyIHBoYXNlCgpSZWFjdCBydW5zIHlvdXIgY29tcG9uZW50IGZ1bmN0aW9uIGFnYWluLiBUaGUgZnVuY3Rpb24gcmV0dXJucyBhIG5ldyB0cmVlIG9mIEphdmFTY3JpcHQgb2JqZWN0czogdGhlIFZpcnR1YWwgRE9NLiBUaGUgYnJvd3NlciBoYXMgbm8gaWRlYSB0aGlzIGV4aXN0cy4gSXQncyBqdXN0IG1lbW9yeS4KClJlYWN0IGNvbXBhcmVzIHRoZSBuZXcgdHJlZSBhZ2FpbnN0IHRoZSBwcmV2aW91cyBvbmUuIFR3byBydWxlcyBnb3Zlcm4gdGhlIGRpZmY6CgotIERpZmZlcmVudCBlbGVtZW50IHR5cGU/IFRlYXIgZG93biB0aGUgb2xkIHN1YnRyZWUsIGJ1aWxkIGEgbmV3IG9uZS4KLSBMaXN0IGl0ZW1zPyBUaGUgYGtleWAgcHJvcCB0ZWxscyBSZWFjdCB3aGljaCBpdGVtIGlzIHdoaWNoIGFjcm9zcyByZW5kZXJzLgoKSW4gUmVhY3QgMTgsIHRoaXMgcGhhc2UgY2FuIGJlIHBhdXNlZCBhbmQgcmVzdGFydGVkLiBXaXRoIGBzdGFydFRyYW5zaXRpb25gLCB5b3UgbWFyayBhbiB1cGRhdGUgYXMgbG93IHByaW9yaXR5LiBJZiB0aGUgdXNlciBkb2VzIHNvbWV0aGluZyBtb3JlIHVyZ2VudCBiZWZvcmUgaXQgZmluaXNoZXMsIFJlYWN0IGRyb3BzIHRoZSBwYXJ0aWFsIHJlbmRlciBhbmQgc3RhcnRzIG92ZXIgd2l0aCB0aGUgbmV3IHN0YXRlLiBOb3RoaW5nIGhhcyB0b3VjaGVkIHRoZSBET00geWV0LCBzbyB0aHJvd2luZyBhd2F5IG9uZ29pbmcgd29yayBpcyBzYWZlLgoKYGBganN4CmNvbnN0IFtpbnB1dCwgc2V0SW5wdXRdID0gdXNlU3RhdGUoJycpCmNvbnN0IFtxdWVyeSwgc2V0UXVlcnldID0gdXNlU3RhdGUoJycpCgpmdW5jdGlvbiBoYW5kbGVDaGFuZ2UoZSkgewogIHNldElucHV0KGUudGFyZ2V0LnZhbHVlKSAgICAgICAgICAgLy8gaGlnaCBwcmlvcml0eS4gdXBkYXRlIGlucHV0IGltbWVkaWF0ZWx5CgogIHN0YXJ0VHJhbnNpdGlvbigoKSA9PiB7CiAgICBzZXRRdWVyeShlLnRhcmdldC52YWx1ZSkgICAgICAgICAvLyBsb3cgcHJpb3JpdHkuIFJlYWN0IGNhbiBpbnRlcnJ1cHQgdGhpcyByZW5kZXIKICB9KQp9CgovLyA8RXhwZW5zaXZlTGlzdD4gcmVyZW5kZXJzIHdpdGggcXVlcnkuCi8vIElmIHRoZSB1c2VyIHR5cGVzIGFnYWluIGJlZm9yZSBpdCBmaW5pc2hlcywgUmVhY3QgZHJvcHMKLy8gdGhlIG9uZ29pbmcgcmVuZGVyIGFuZCByZXN0YXJ0cyB3aXRoIHRoZSBsYXRlc3QgcXVlcnkuCmBgYAoKV2l0aG91dCBgc3RhcnRUcmFuc2l0aW9uYCwgdGhlIGVudGlyZSByZW5kZXIgcnVucyBzeW5jaHJvbm91c2x5LiBUaGUgaW5wdXQgbGFncyB1bnRpbCB0aGUgbGlzdCBmaW5pc2hlcy4KCiMjIElJLiBUaGUgY29tbWl0IHBoYXNlCgpUaGUgZGlmZiBpcyByZWFkeS4gUmVhY3Qgd3JpdGVzIGl0IHRvIHRoZSByZWFsIERPTS4KClRoaXMgcGhhc2UgY2Fubm90IGJlIGludGVycnVwdGVkLiBSZWFjdCBydW5zIGl0IHRvIGNvbXBsZXRpb24uIE9uY2UgaXQgc3RhcnRzLCB0aGUgRE9NIGlzIGNoYW5naW5nLgoKSW50ZXJuYWxseSwgY29tbWl0IHJ1bnMgdGhyZWUgc3RhZ2VzOgoKLSAqKkJlZm9yZSBtdXRhdGlvbioqOiBzbmFwc2hvdCB0aGUgc3RhdGUgYmVmb3JlIHRoZSBET00gY2hhbmdlcy4gQ2xhc3MgY29tcG9uZW50cyB1c2UgYGdldFNuYXBzaG90QmVmb3JlVXBkYXRlYCBoZXJlIHRvIHJlY29yZCB0aGluZ3MgbGlrZSBzY3JvbGwgcG9zaXRpb24uCi0gKipNdXRhdGlvbioqOiBhY3R1YWwgRE9NIHdyaXRlcy4gYGluc2VydEJlZm9yZWAsIGByZW1vdmVDaGlsZGAsIGBzZXRBdHRyaWJ1dGVgLgotICoqTGF5b3V0Kio6IGF0dGFjaCBvciBkZXRhY2ggcmVmcywgZmlyZSBgdXNlTGF5b3V0RWZmZWN0YC4gU28gInVzZUxheW91dEVmZmVjdCBydW5zIGFmdGVyIGNvbW1pdCIgcmVhbGx5IG1lYW5zIGl0IHJ1bnMgaW5zaWRlIHRoZSBsYXN0IG9mIHRoZXNlIHRocmVlLgoKPHNwYW4gaWQ9InVzZWxheW91dGVmZmVjdCI+PC9zcGFuPgoKIyMgSUlJLiB1c2VMYXlvdXRFZmZlY3QKCkJlZm9yZSB0aGUgYnJvd3NlciByZW5kZXJzIGFueXRoaW5nLCBSZWFjdCBmaXJlcyBgdXNlTGF5b3V0RWZmZWN0YCBzeW5jaHJvbm91c2x5LgoKVGhpcyBpcyB0aGUgb25seSBtb21lbnQgeW91IGNhbiBzYWZlbHkgcmVhZCBsYXlvdXQ6IGBnZXRCb3VuZGluZ0NsaWVudFJlY3RgLCBgb2Zmc2V0SGVpZ2h0YCwgc2Nyb2xsIHBvc2l0aW9uLiBZb3UncmUgcmVhZGluZyBhZnRlciB0aGUgRE9NIHdyaXRlLCBiZWZvcmUgdGhlIHBhaW50LiBJZiB5b3UgcmVhZCBsYXlvdXQgaW4gYHVzZUVmZmVjdGAgaW5zdGVhZCwgeW91J3JlIHJlYWRpbmcgYWZ0ZXIgdGhlIGJyb3dzZXIgaGFzIGFscmVhZHkgcmVuZGVyZWQgb25jZSwgd2hpY2ggbWVhbnMgeW91J2xsIHRyaWdnZXIgYSBzZWNvbmQgcmVuZGVyIHRvIGNvcnJlY3QgaXQuCgpSZWFkaW5nIGxheW91dCBoZXJlIGlzICoqc3luY2hyb25vdXMgYW5kIGJsb2NraW5nKio6IGBnZXRCb3VuZGluZ0NsaWVudFJlY3QoKWAgY29tcHV0ZXMgc3R5bGUgYW5kIGxheW91dCBvbiB0aGF0IGxpbmUsIG5vIFByb21pc2UsIG5vIGBhd2FpdGAgdG8gd2FybiB5b3UuIEEgcmVhZCBmb3JjZXMgdGhhdCBjb21wdXRlIG9ubHkgd2hlbiBsYXlvdXQgaXMgKmRpcnR5KiwgYW5kIGEgKip3cml0ZSoqIGRpcnRpZXMgaXQuIE9uZSByZWFkIGlzIG9uZSBwYXNzOgoKYGBgCnJlYWQg4oaSIHN0eWxlIHJlY2FsYyDihpIgbGF5b3V0CmBgYAoKSW50ZXJsZWF2ZSB3cml0ZXMgYW5kIGVhY2ggb25lIHJlLWRpcnRpZXMsIHNvIHRoZSBwYXNzIHJ1bnMgYWdhaW4gYW5kIGFnYWluICgqKmxheW91dCB0aHJhc2hpbmcqKik6CgpgYGAKcmVhZCDihpIgc3R5bGUgcmVjYWxjIOKGkiBsYXlvdXQg4oaSIHdyaXRlIOKGkiBzdHlsZSByZWNhbGMg4oaSIGxheW91dCDihpIgd3JpdGUg4oaSIHN0eWxlIHJlY2FsYyDihpIgbGF5b3V0CmBgYAoKRml4OiBiYXRjaCBhbGwgcmVhZHMsIHRoZW4gYWxsIHdyaXRlcy4gRm9yIHB1cmUgbWVhc3VyZW1lbnQsIGBSZXNpemVPYnNlcnZlcmAgLyBgSW50ZXJzZWN0aW9uT2JzZXJ2ZXJgIHJlcG9ydCBhc3luY2hyb25vdXNseSwgbm8gZm9yY2VkIGxheW91dC4KCmB1c2VMYXlvdXRFZmZlY3RgIGJsb2NrcyB0aGUgcGFpbnQuIEtlZXAgaXQgZmFzdC4KCk5vdyB0aGUgYnJvd3NlciB0YWtlcyBvdmVyLgoKPiAqKkNSUCwgdGVjaG5pY2FsbHkuKiogUGVvcGxlIGNhbGwgdGhpcyB3aG9sZSBwaXBlbGluZSAoU3R5bGUgUmVjYWxjIHRocm91Z2ggQ29tcG9zaXRlKSB0aGUgQ3JpdGljYWwgUmVuZGVyaW5nIFBhdGguIFN0cmljdGx5LCBDUlAgaXMgKmZpcnN0IHBhaW50IG9ubHkqLiBBZnRlciB0aGF0LCBgc2V0U3RhdGVgIHJldXNlcyB0aGUgc2FtZSBwaXBlbGluZS4gU2FtZSBzdGVwcywgZGlmZmVyZW50IGNvbnRleHQuCgo8c3BhbiBpZD0ic3R5bGUtcmVjYWxjIj48L3NwYW4+CgojIyBJVi4gU3R5bGUgUmVjYWxjCgpUaGUgYnJvd3NlciBub3RpY2VzIHRoZSBET00gY2hhbmdlZCBhbmQgbmVlZHMgdG8gZmlndXJlIG91dCB3aGF0IGV2ZXJ5IGVsZW1lbnQgc2hvdWxkIGxvb2sgbGlrZS4gQSB2YWx1ZSBtb3ZlcyB0aHJvdWdoIHNpeCBzdGFnZXMgYmVmb3JlIGl0IHJlYWNoZXMgdGhlIHNjcmVlbjoKCmBgYApkZWNsYXJlZCDihpIgY2FzY2FkZWQg4oaSIHNwZWNpZmllZCDihpIgY29tcHV0ZWQg4oaSIHVzZWQg4oaSIGFjdHVhbApgYGAKClN0eWxlIFJlY2FsYyBydW5zIHRoZSBmaXJzdCBmb3VyICh0aGUgc3RlcHMgYmVsb3cpLiAqVXNlZCogYW5kICphY3R1YWwqIGZpbmlzaCBsYXRlciwgaW4gTGF5b3V0IGFuZCBQYWludC4KCioqQ29sbGVjdGluZy4qKiBUaGUgYnJvd3NlciBnYXRoZXJzIHN0eWxlcyBmcm9tIHRocmVlIHNvdXJjZXM6IGl0cyBvd24gYnVpbHRpbiBkZWZhdWx0cyAoVXNlciBBZ2VudCksIGFueSBwcmVmZXJlbmNlcyB0aGUgdXNlciBoYXMgY29uZmlndXJlZCBpbiB0aGVpciBicm93c2VyLCBhbmQgeW91ciBzdHlsZXNoZWV0IChBdXRob3IpLgoKKipDYXNjYWRpbmcuKiogQWxsIGNvbGxlY3RlZCBkZWNsYXJhdGlvbnMgY29tcGV0ZS4gVGhlIGJyb3dzZXIgcmVzb2x2ZXMgY29uZmxpY3RzIGluIHRoaXMgb3JkZXIsIGhpZ2hlc3QgcHJpb3JpdHkgZmlyc3Q6CgoxLiBUcmFuc2l0aW9ucwoyLiBVc2VyIEFnZW50ICsgYCFpbXBvcnRhbnRgCjMuIFVzZXIgKyBgIWltcG9ydGFudGAKNC4gQXV0aG9yICsgYCFpbXBvcnRhbnRgCjUuIEFuaW1hdGlvbnMKNi4gQXV0aG9yCjcuIFVzZXIKOC4gVXNlciBBZ2VudAoKV2l0aGluIHRoZSBzYW1lIG9yaWdpbiwgc3BlY2lmaWNpdHkgYnJlYWtzIHRoZSB0aWU6IGlubGluZSBzdHlsZXMgYmVhdCBJRHMsIElEcyBiZWF0IGNsYXNzZXMsIGNsYXNzZXMgYmVhdCB0eXBlIHNlbGVjdG9ycy4gSWYgc3BlY2lmaWNpdHkgaXMgZXF1YWwsIHRoZSBkZWNsYXJhdGlvbiB0aGF0IGFwcGVhcnMgbGFzdCB3aW5zLiBUaGUgcmVmZXJlbmNlIGJlbG93IHNob3dzIGV2ZXJ5IHNlbGVjdG9yJ3MgZXhhY3Qgc2NvcmUgYW5kIHdoYXQgYCFpbXBvcnRhbnRgIGRvZXMgdG8gdGhlIHdob2xlIHN5c3RlbS4KCjxpZnJhbWUgc3JjPSJodHRwczovL3NwZWNpZmljaXR5LndlYmNvcmUuaW8vIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI4MDAiIHN0eWxlPSJib3JkZXI6bm9uZTsgbWFyZ2luOiAyNHB4IDA7IiB0aXRsZT0iQ1NTIFNwZWNpZmljaXR5IFJlZmVyZW5jZSI+PC9pZnJhbWU+CgoqKkRlZmF1bHRpbmcuKiogUHJvcGVydGllcyB3aXRoIG5vIGRlY2xhcmVkIHZhbHVlIHN0aWxsIG5lZWQgb25lLiBUd28gd2F5cyB0byBmaWxsIGl0OiAgClRleHQtaXNoIHByb3BlcnRpZXMgaW5oZXJpdCBmcm9tIHRoZSBwYXJlbnQ6IGBjb2xvcmAsIGBmb250LXNpemVgLCBgZm9udC1mYW1pbHlgLiAgCkJveC1pc2ggcHJvcGVydGllcyBmYWxsIGJhY2sgdG8gYSBzcGVjIGRlZmF1bHQ6IGBib3JkZXJgIOKGkiBgbm9uZWAsIGBtYXJnaW5gIOKGkiBgMGAuICAKT3ZlcnJpZGUgZWl0aGVyIHBhdGggd2l0aCBgaW5oZXJpdGAsIGBpbml0aWFsYCwgb3IgYHVuc2V0YC4KCioqUmVzb2x2aW5nICh0aGUgZWFzeSBoYWxmKS4qKiBGaXJzdCBvZiB0d28gcGFzc2VzIChbc2VjdGlvbiBWSV0oI2xheW91dC1yZWZsb3cpIGlzIHRoZSBvdGhlcikuIEFueXRoaW5nIHRoYXQgZG9lc24ndCBuZWVkIGdlb21ldHJ5IGJlY29tZXMgY29uY3JldGU6IGBlbWAgYWdhaW5zdCB0aGUgcGFyZW50IGZvbnQgc2l6ZSwgYHJlbWAgYWdhaW5zdCB0aGUgcm9vdCwgYGJvbGRgIGJlY29tZXMgYDcwMGAsIHJlbGF0aXZlIHBhdGhzIGJlY29tZSBhYnNvbHV0ZSBVUkxzLiBBbnl0aGluZyB0aGF0IG5lZWRzIHRoZSBib3ggc2l6ZSAoYDUwJWAsIGBhdXRvYCwgYG1pbi1jb250ZW50YCkgY2FuJ3QgcmVzb2x2ZSB5ZXQsIHNvIGl0IHdhaXRzIGZvciBMYXlvdXQuCgpPdXRwdXQ6IGV2ZXJ5IG5vZGUncyAqY29tcHV0ZWQgc3R5bGUqLiBOb3RlICpjb21wdXRlZCo6IGB3aWR0aDogNTAlYCBpcyBzdGlsbCBgNTAlYCBoZXJlLCBub3QgYSBwaXhlbC4KCiMjIFYuIFJlbmRlciBUcmVlCgpET00gcGx1cyBjb21wdXRlZCBzdHlsZXMgbWVyZ2UgaW50byB0aGUgUmVuZGVyIFRyZWUuIEl0J3MgdGhlIHNhbWUgRE9NIHdpdGggc3R5bGUgYXR0YWNoZWQsIGFuZCBldmVyeXRoaW5nIGludmlzaWJsZSBkcm9wcGVkLgoKYGRpc3BsYXk6IG5vbmVgOiBleGNsdWRlZC4gTm8gbm9kZSBpbiB0aGUgdHJlZSwgbm8gc3BhY2UgaW4gdGhlIGxheW91dC4gIApgdmlzaWJpbGl0eTogaGlkZGVuYDogaW5jbHVkZWQuIFNwYWNlIHJlc2VydmVkLCBwaXhlbHMgbm90IGRyYXduLiAgCmA8dGl0bGU+YCwgYDxoZWFkPmA6IGV4Y2x1ZGVkLiBUaGUgYnJvd3NlciBvbmx5IGJ1aWxkcyB0aGUgdHJlZSBmcm9tIHdoYXQncyB2aXNpYmxlLgoKPHNwYW4gaWQ9ImxheW91dC1yZWZsb3ciPjwvc3Bhbj4KCiMjIFZJLiBMYXlvdXQgLyBSZWZsb3cKClRoZSBicm93c2VyIHdhbGtzIHRoZSBSZW5kZXIgVHJlZSBhbmQgY2FsY3VsYXRlcyB0aGUgZ2VvbWV0cnkgb2YgZXZlcnkgZWxlbWVudDogcG9zaXRpb24sIHdpZHRoLCBoZWlnaHQuIFRoaXMgc3RlcCBpcyBhbHNvIGNhbGxlZCBSZWZsb3cuIEl0J3Mgd2hlcmUgdHdvIENTUyBzdGVwcyBmaW5pc2g6CgoqKkZvcm1hdHRpbmcuKiogVGhlIGJyb3dzZXIgb3JnYW5pemVzIGVsZW1lbnRzIGludG8gZm9ybWF0dGluZyBjb250ZXh0czogYmxvY2ssIGlubGluZSwgZmxleCwgZ3JpZC4gRWFjaCBjb250ZXh0IGhhcyBydWxlcyBmb3IgaG93IGl0cyBjaGlsZHJlbiBzdGFjayBhbmQgZmxvdy4KCioqUmVzb2x2aW5nICh0aGUgbGF5b3V0IGhhbGYpLioqIFRoZSBzZWNvbmQgcGFzcy4gYDUwJWAsIGBhdXRvYCwgYG1pbi1jb250ZW50YCBuZWVkZWQgYSBib3ggdG8gbWVhc3VyZSBhZ2FpbnN0OyBub3cgaXQgZXhpc3RzLCBzbyB0aGV5IHJlc29sdmUuIFtTdHlsZSBSZWNhbGNdKCNzdHlsZS1yZWNhbGMpIGdhdmUgdGhlICpjb21wdXRlZCB2YWx1ZSogKGA1MCVgKTsgTGF5b3V0IG1ha2VzIGl0IHRoZSAqdXNlZCB2YWx1ZSogKGA0MDBweGApLgoKTGF5b3V0IGlzIGV4cGVuc2l2ZS4gSW5zZXJ0aW5nIGEgRE9NIG5vZGUgdHJpZ2dlcnMgaXQuIENoYW5naW5nIGBmb250LXNpemVgIHRyaWdnZXJzIGl0LiBSZXNpemluZyB0aGUgd2luZG93IHRyaWdnZXJzIGl0LiBSZWFkaW5nIGBnZXRCb3VuZGluZ0NsaWVudFJlY3RgIG1pZC1hbmltYXRpb24gY2FuIHRyaWdnZXIgaXQgcmVwZWF0ZWRseS4KClRoYXQncyB3aHkgW2B1c2VMYXlvdXRFZmZlY3RgXSgjdXNlbGF5b3V0ZWZmZWN0KSBmaXJlcyBiYWNrIGluIHNlY3Rpb24gSUlJLCAqYmVmb3JlKiB0aGlzIHN0ZXA6IG9uZSBwbGFjZSB0byBiYXRjaCB5b3VyIHJlYWRzLCByaWdodCBhZnRlciB0aGUgRE9NIHdyaXRlLCBiZWZvcmUgdGhlIGJyb3dzZXIgcmVhY2hlcyB0aGlzIGdlb21ldHJ5IHBhc3MuCgojIyBWSUkuIFBhaW50CgpUaGUgYnJvd3NlciBmaWxscyBwaXhlbHMgaW50byBsYXllcnMuIE11bHRpcGxlIGxheWVycywgbm90IG9uZS4gSXQgZHJhd3MgYGJhY2tncm91bmRgLCBgY29sb3JgLCBgYm94LXNoYWRvd2AsIGBib3JkZXJgLiBFYWNoIHByb3BlcnR5IGZpbGxzIHBpeGVscyBpbiBpdHMgb3duIGxheWVyLgoKKipUcmFuc2Zvcm1pbmcuKiogVGhlIGJyb3dzZXIgZG9lcyBpdHMgZmluYWwgcGl4ZWwgbGV2ZWwgY2xlYW51cDogc3VicGl4ZWwgc25hcHBpbmcsIGNsYW1waW5nIHZhbHVlcyB0byBkZXZpY2UgbGltaXRzLCBjbGlwcGluZyB0byB0aGUgdmlld3BvcnQuIChVbnJlbGF0ZWQgdG8gQ1NTIGB0cmFuc2Zvcm06IHRyYW5zbGF0ZSgpYCwgd2hpY2ggbGl2ZXMgaW4gdGhlIG5leHQgc2VjdGlvbi4pCgpUaGlzIHN0ZXAgaXMgY2hlYXBlciB0aGFuIGxheW91dCBidXQgc3RpbGwgaW52b2x2ZXMgdGhlIENQVS4KCiMjIFZJSUkuIENvbXBvc2l0ZQoKVGhlIEdQVSB0YWtlcyB0aGUgbGF5ZXJzIGZyb20gdGhlIHBhaW50IHN0ZXAgYW5kIG1lcmdlcyB0aGVtIGludG8gdGhlIGZpbmFsIGZyYW1lLgoKYHRyYW5zZm9ybWAgYW5kIGBvcGFjaXR5YCBsaXZlIGhlcmUuIE1vdmluZyBhbiBlbGVtZW50IHdpdGggYHRyYW5zZm9ybTogdHJhbnNsYXRlWCgxMDBweClgIHNraXBzIGxheW91dCBhbmQgcGFpbnQgZW50aXJlbHkuIE9ubHkgdGhlIGNvbXBvc2l0ZSBzdGVwIHJ1bnMuIFRoYXQncyB3aHkgQ1NTIGFuaW1hdGlvbnMgb24gYHRyYW5zZm9ybWAgb3IgYG9wYWNpdHlgIGFyZSBzbW9vdGggZXZlbiBvbiBzbG93IGhhcmR3YXJlLiBUaGV5IGJ5cGFzcyB0aGUgZXhwZW5zaXZlIHN0ZXBzLgoKQW5pbWF0aW9ucyBvbiBgbGVmdGAsIGB0b3BgLCBvciBgd2lkdGhgIHRyaWdnZXIgbGF5b3V0IG9uIGV2ZXJ5IGZyYW1lLiBUaGF0J3MgdGhlIGRpZmZlcmVuY2UgYmV0d2VlbiA2MGZwcyBhbmQgYSBqYW5rIHNwaWtlLgoKIyMgSVguIHVzZUVmZmVjdAoKYHVzZUVmZmVjdGAgZmlyZXMgYWZ0ZXIgdGhlIGJyb3dzZXIgaGFzIHBhaW50ZWQuCgpUaGlzIGlzIHdoZXJlIHNpZGUgZWZmZWN0cyBiZWxvbmc6IGRhdGEgZmV0Y2hlcywgc3Vic2NyaXB0aW9ucywgZXZlbnQgbGlzdGVuZXJzLiBUaGUgdXNlciBoYXMgYWxyZWFkeSBzZWVuIHRoZSB1cGRhdGVkIHNjcmVlbi4gTm90aGluZyBoZXJlIGJsb2NrcyB0aGUgcGFpbnQuCgojIyBUaGUgbmFtaW5nIGNvbGxpc2lvbgoKIlJlbmRlciIgbWVhbnMgdHdvIGRpZmZlcmVudCB0aGluZ3MgaW4gZnJvbnRlbmQsIGFuZCBjb25mbGF0aW5nIHRoZW0gY2F1c2VzIGNvbmZ1c2lvbiBpbiBldmVyeSBwZXJmb3JtYW5jZSBkaXNjdXNzaW9uLgoKfCBUZXJtIHwgV2hhdCBpdCBtZWFucyB8CnwtLS18LS0tfAp8IFJlYWN0IHJlbmRlciBwaGFzZSB8IFJ1bnMgdGhlIGNvbXBvbmVudCBmdW5jdGlvbiwgcHJvZHVjZXMgYSBWaXJ0dWFsIERPTS4gVGhlIGJyb3dzZXIgaXMgbm90IGludm9sdmVkLiB8CnwgQnJvd3NlciBSZW5kZXIgVHJlZSB8IERPTSArIENTU09NIG1lcmdlZC4gQnVpbHQgZnJvbSB0aGUgcmVhbCBET00gUmVhY3Qgd3JvdGUgaW4gdGhlIGNvbW1pdCBwaGFzZS4gfAoKUmVhY3QncyByZW5kZXIgcGhhc2UgcHJvZHVjZXMgSmF2YVNjcmlwdCBvYmplY3RzLiBUaGUgYnJvd3NlcidzIFJlbmRlciBUcmVlIGlzIGJ1aWx0IGZyb20gcmVhbCBET00gbm9kZXMuIFRoZXkgZG9uJ3Qgb3ZlcmxhcC4gUmVhY3QgZmluaXNoZXMgaXRzIHJlbmRlciBiZWZvcmUgdGhlIGJyb3dzZXIgc3RhcnRzIGJ1aWxkaW5nIGl0cyBSZW5kZXIgVHJlZS4KCiMjIFRoZSBmdWxsIHNlcXVlbmNlCgpgYGAKQnJvd3NlciByZWNlaXZlcyBIVE1MCiAg4pSCCiAg4pSc4pSA4pSAIEhUTUwgcGFyc2VyIOKUgOKUgOKWuiBET00KICDilIIgICAgICAgICAgICAgICAgICAgIOKUggogIOKUgiAgICAgICAgICAgICAgICAgICAg4pSc4pSA4pSA4pa6IERPTUNvbnRlbnRMb2FkZWQgICAgICAgICAg4oaQIERPTSByZWFkeSArIGRlZmVyIHNjcmlwdHMgKE5PVCBDU1NPTSkKICDilIIgICAgICAgICAgICAgICAgICAgIOKUgiAgICAgICDihpIgUmVhY3QucmVuZGVyKDxBcHAgLz4sICNyb290KQogIOKUgiAgICAgICAgICAgICAgICAgICAg4pSCICAgICAgIOKGkiByZW5kZXIgKyBjb21taXQgICAgICAgIFJlYWN0IHdyaXRlcyBET00gbm9kZXMsIG5vIENTU09NIG5lZWRlZAogIOKUgiAgICAgICAgICAgICAgICAgICAg4pSCCiAg4pSU4pSA4pSAIENTUyBmZXRjaCDilIDilIDilrogQ1NTT00KICAgICAgICAgICAgICAgICAgICAgICDilIIKICAgICAgRE9NICsgQ1NTT00g4pSA4pSA4pSA4pSA4pSA4pS04pSA4pSA4pa6IFJlbmRlciBUcmVlIOKUgOKUgOKWuiBMYXlvdXQg4pSA4pSA4pa6IFBhaW50IOKUgOKUgOKWuiBDb21wb3NpdGUg4pSA4pSA4pa6IEZpcnN0IENvbnRlbnRmdWwgUGFpbnQKCiAgc2NyaXB0cyAgIDxzY3JpcHQ+ICAgICAgICBibG9ja3MgcGFyc2VyLCBydW5zIGltbWVkaWF0ZWx5CiAgICAgICAgICAgIDxzY3JpcHQgZGVmZXI+ICBwYXJhbGxlbCBmZXRjaCwgcnVucyBhZnRlciBET00gcmVhZHkKICAgICAgICAgICAgPHNjcmlwdCBhc3luYz4gIHBhcmFsbGVsIGZldGNoLCBydW5zIG9uIGRvd25sb2FkCiAgICAgICAgICAgIDxzY3JpcHQgbW9kdWxlPiBzYW1lIGFzIGRlZmVyICsgb3duIHNjb3BlCgp3aW5kb3cub25sb2FkICAgICAg4oaQIGltYWdlcywgZm9udHMsIGlmcmFtZXMgYWxsIGxvYWRlZAoK4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSAIGFwcCBpcyBsaXZlIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAoKYW55IHNldFN0YXRlIChldmVudCBoYW5kbGVyLCBmZXRjaCwgdGltZXIsIFdlYlNvY2tldC4uLikKICDihpIgc2V0U3RhdGUgY2FsbGVkCiAgICAgIOKUjOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUkAogICAgICDilIIgIHJlbmRlciBwaGFzZSAgICAgVkRPTSBkaWZmLCBpbnRlcnJ1cHRpYmxlICAgICAgIOKUggogICAgICDilIIgIGNvbW1pdCBwaGFzZSAgICAgd3JpdGVzIHRvIHJlYWwgRE9NICAgICAgICAgICAgIOKUggogICAgICDilIIgIHVzZUxheW91dEVmZmVjdCAgcmVhZCBsYXlvdXQsIGJsb2NrcyBwYWludCAgICAgIOKUggogICAgICDilIIgIFN0eWxlIFJlY2FsYyAgICAgY2FzY2FkZSwgc3BlY2lmaWNpdHksIGNvbXB1dGUgIOKUggogICAgICDilIIgIFJlbmRlciBUcmVlICAgICAgRE9NICsgY29tcHV0ZWQgc3R5bGVzIG1lcmdlZCAgIOKUggogICAgICDilIIgIExheW91dCAvIFJlZmxvdyAgZ2VvbWV0cnk6IHBvc2l0aW9uLCBzaXplICAgICAgIOKUggogICAgICDilIIgIFBhaW50ICAgICAgICAgICAgcGl4ZWxzIGludG8gbGF5ZXJzICAgICAgICAgICAgIOKUggogICAgICDilIIgIENvbXBvc2l0ZSAgICAgICAgR1BVIG1lcmdlcywgc2NyZWVuIHVwZGF0ZXMgICAgIOKUggogICAgICDilIIgIHVzZUVmZmVjdCAgICAgICAgc2lkZSBlZmZlY3RzICAgICAgICAgICAgICAgICAgIOKUggogICAgICDilJTilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilKzilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilJgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOKUgiBhbnkgc2V0U3RhdGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOKUlOKUgOKUgOKWuiBiYWNrIHRvIHJlbmRlciBwaGFzZQpgYGAKCj4gKipUaGUgdGhyZWUgcGFpbnQgbWV0cmljcy4qKiBUaGUgYm9vdHN0cmFwIHBhdGggYWJvdmUgZW5kcyBhdCAqRkNQKiAoRmlyc3QgQ29udGVudGZ1bCBQYWludCksIHRoZSBmaXJzdCBjb250ZW50IHBpeGVscy4gVHdvIGNvdXNpbnMgc2l0IG5lYXIgaXQ6ICpGUCogKEZpcnN0IFBhaW50KSBpcyB0aGUgZmlyc3QgcGl4ZWxzIG9mIGFueXRoaW5nLCBhIGJhY2tncm91bmQgY291bnRzOyAqTENQKiAoTGFyZ2VzdCBDb250ZW50ZnVsIFBhaW50KSBpcyB3aGVuIHRoZSB2aWV3cG9ydCdzIGxhcmdlc3QgZWxlbWVudCBwYWludHMsIHVzdWFsbHkgbXVjaCBsYXRlciwgZ2F0ZWQgb24gd2hlbiB0aGUgaGVybyBpbWFnZSdzIGJ5dGVzIGFycml2ZS4KCk5pbmUgc3RlcHMuIFRoZSBmaXJzdCB0aHJlZSBiZWxvbmcgdG8gUmVhY3QuIFRoZSBsYXN0IG9uZSBiZWxvbmdzIHRvIFJlYWN0LiBUaGUgbWlkZGxlIGZpdmUgYXJlIHRoZSBicm93c2VyIGRvaW5nIHdoYXQgaXQgaGFzIGFsd2F5cyBkb25lLCB3aXRoIG9yIHdpdGhvdXQgYSBmcmFtZXdvcmsuIEFuZCB0aGUgbG9vcCBydW5zIGZvciBhcyBsb25nIGFzIHRoZSBhcHAgaXMgYWxpdmUuCgpUbyBzZWUgaG93IHRob3NlIG5pbmUgc3RlcHMgc3ByZWFkIGFjcm9zcyBwcm9jZXNzZXMgYW5kIHRocmVhZHMgaW4gcmVhbCB0aW1lLCBoZXJlIGlzIHRoZSBzYW1lIGxvb3AgbGFpZCBvdXQgYXMgYSB0aW1lbGluZToKCjxpZnJhbWUgc3JjPSIvZW1iZWRzL2Jyb3dzZXItYXJjaCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iODgwIiBzdHlsZT0iYm9yZGVyOm5vbmU7IiB0aXRsZT0iQnJvd3NlciBBcmNoaXRlY3R1cmU6IENocm9tZSBwcm9jZXNzZXMgYW5kIHRocmVhZHMiPjwvaWZyYW1lPgoKIyMgUmVmZXJlbmNlcwoKKipSZWFjdCBpbnRlcm5hbHMqKgoKLSBbSW5zaWRlIFJlYWN0J3MgRmliZXJXb3JrTG9vcF0oL3YyL2luc2lkZS1yZWFjdC1maWJlcndvcmtsb29wKS4gRm9sbG93IHVwIHBvc3Qgb2YgbWluZS4gWm9vbXMgaW5zaWRlIHRoZSAicmVuZGVyIHBoYXNlIiBhbmQgImNvbW1pdCBwaGFzZSIgYnVsbGV0cyBhYm92ZSwgd2Fsa2luZyB0aHJvdWdoIHRoZSBmb3VyIG51bWJlcmVkIHN0YWdlcyBvZiBSZWFjdCdzIGludGVybmFsIHJlY29uY2lsZXIgd29ya2xvb3AuCi0gW1JlYWN0IOaKgOacr+aPreenmF0oaHR0cHM6Ly9yZWFjdC5pYW1rYXNvbmcuY29tKSBieSBKb2tjeSAo5Y2h6aKCKS4gQSBzaW1wbGlmaWVkIENoaW5lc2UgZGVlcCBkaXZlIGludG8gRmliZXIsIFNjaGVkdWxlciwgTGFuZXMsIGFuZCBIb29rcy4gVGhlIHN0YW5kYXJkIG5hcnJhdGl2ZSByZWZlcmVuY2UgZm9yIFJlYWN0IGF0IHNvdXJjZSBsZXZlbC4KLSBbUmVhY3Qg5oqA5pyv6Kej5p6QICjlm77op6Pns7vliJcpXShodHRwczovLzdrbS50b3AvbWFpbi9yZWNvbmNpbGVyLXdvcmtmbG93KS4gQW5vdGhlciBzaW1wbGlmaWVkIENoaW5lc2UgcmVzb3VyY2UsIGJ1dCBmdW5jdGlvbiBieSBmdW5jdGlvbiwgd2l0aCBmbG93IGNoYXJ0cyB0aGF0IHRyYWNlIHRoZSByZWNvbmNpbGVyIGZyb20gYHNjaGVkdWxlVXBkYXRlT25GaWJlcmAgYWxsIHRoZSB3YXkgdG8gYGNvbW1pdFJvb3RgLiBDb21wbGVtZW50cyBKb2tjeSdzIGJvb2sgd2l0aCBtb3JlIGNvbmNyZXRlIHdvcmtmbG93IGRpYWdyYW1zLgotIFtBIENhcnRvb24gSW50cm8gdG8gRmliZXJdKGh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WkN1WVBpVUlPTnMpIGJ5IExpbiBDbGFyaywgUmVhY3QgQ29uZiAyMDE3LiBWaXN1YWwgd2Fsa3Rocm91Z2ggb2Ygd2h5IEZpYmVyIHJlcGxhY2VkIHRoZSBvbGQgc3RhY2sgcmVjb25jaWxlci4KCioqQnJvd3NlciByZW5kZXJpbmcgcGlwZWxpbmUqKgoKLSBbSW5zaWRlIGxvb2sgYXQgbW9kZXJuIHdlYiBicm93c2VyXShodHRwczovL2RldmVsb3Blci5jaHJvbWUuY29tL2Jsb2cvaW5zaWRlLWJyb3dzZXItcGFydDEvKSBieSBNYXJpa28gS29zYWthLiBGb3VyIHBhcnQgc2VyaWVzIG9uIGhvdyBDaHJvbWUncyBwcm9jZXNzZXMgYW5kIHRocmVhZHMgY29vcGVyYXRlLgotIFtIb3cgYnJvd3NlcnMgd29ya10oaHR0cHM6Ly93ZWIuZGV2L2FydGljbGVzL2hvd2Jyb3dzZXJzd29yaykgYnkgVGFsaSBHYXJzaWVsLiBUaGUgbG9uZyBmb3JtIGNsYXNzaWMgb24gd2hhdCBoYXBwZW5zIGZyb20gYnl0ZXMgdG8gcGl4ZWxzLgotIFtIb3cgd2ViIGJyb3dzZXJzIHdvcms6IHRoZSByZW5kZXIgdHJlZSAocGFydCA3KV0oaHR0cHM6Ly9kZXYudG8vYXJpa2F0dXJpa2EvaG93LXdlYi1icm93c2Vycy13b3JrLXRoZS1yZW5kZXItdHJlZS1wYXJ0LTctd2l0aC1pbGx1c3RyYXRpb25zLTI0aDMpIGJ5IGFyaWthdHVyaWthLiBQYXJ0IDcgb2YgYW4gaWxsdXN0cmF0ZWQgZGV2LnRvIHNlcmllcy4gV2Fsa3MgcmVuZGVyIHRyZWUgY29uc3RydWN0aW9uIHN0ZXAgYnkgc3RlcCB3aXRoIGRpYWdyYW1zLgotIFtUaGUgQW5hdG9teSBvZiBCcm93c2VyIFJlbmRlcmluZ10oaHR0cHM6Ly9tZWRpdW0uY29tL0ByZWdvbmRhYWtoaWwvdGhlLWFuYXRvbXktb2YtYnJvd3Nlci1yZW5kZXJpbmctaG93LXdlYi1wYWdlcy1jb21lLXRvLWxpZmUtNmZhOWU4MDFhM2YpIGJ5IEFraGlsIFJlZ29uZGEuIFNpeCBzdGVwIHdhbGt0aHJvdWdoIGZyb20gcGFyc2UgdG8gY29tcG9zaXRlLCB3aXRoIG9wdGltaXphdGlvbiBub3RlcyBhbG9uZyB0aGUgd2F5LgotIFvmtY/op4jlmajmmK/lpoLkvZXmuLLmn5PnvZHpobXnmoTvvJ9dKGh0dHBzOi8vanVlamluLmNuL3Bvc3QvNjk1Mjg3ODgxMTA0NjIxNTcxMSkgYnkgS2VyYi4gU2ltcGxpZmllZCBDaGluZXNlIHRha2Ugb24gRE9NLCBDU1NPTSwgYW5kIHJlbmRlciB0cmVlLiBFeHBsYWlucyBob3cgcmVuZGVyLWJsb2NraW5nIENTUyBhbmQgcGFyc2VyLWJsb2NraW5nIHNjcmlwdHMgcmVzaGFwZSB0aGUgcGlwZWxpbmUuCgoqKkNyaXRpY2FsIFJlbmRlcmluZyBQYXRoKioKCi0gW1JlbmRlciBUcmVlIENvbnN0cnVjdGlvbl0oaHR0cHM6Ly93ZWIuZGV2L2FydGljbGVzL2NyaXRpY2FsLXJlbmRlcmluZy1wYXRoL3JlbmRlci10cmVlLWNvbnN0cnVjdGlvbikuIEhvdyBET00gYW5kIENTU09NIG1lcmdlLCB3aGF0IGdldHMgaW5jbHVkZWQsIHdoYXQgZ2V0cyBkcm9wcGVkLgotIFtNZWFzdXJlIHRoZSBDcml0aWNhbCBSZW5kZXJpbmcgUGF0aF0oaHR0cHM6Ly93ZWIuZGV2L2FydGljbGVzL2NyaXRpY2FsLXJlbmRlcmluZy1wYXRoL21lYXN1cmUtY3JwKS4gSG93IHRvIGluc3RydW1lbnQgYW5kIG1lYXN1cmUgQ1JQIHRpbWluZyB3aXRoIE5hdmlnYXRpb24gVGltaW5nIEFQSSBhbmQgRGV2VG9vbHMuCgoqKkxheW91dCBhbmQgcmVmbG93KioKCi0gW09uIExheW91dCAmIFdlYiBQZXJmb3JtYW5jZV0oaHR0cHM6Ly9rZWxsZWdvdXMuY29tL2ovMjAxMy8wMS8yNi9sYXlvdXQtcGVyZm9ybWFuY2UvKSBieSBLZWxseSBOb3J0b24uIFRoZSBjbGFzc2ljIHBvc3Qgb24gbGF5b3V0IHRocmFzaGluZy4gQnJvd3NlcnMgY29tcHV0ZSBsYXlvdXQgbGF6aWx5LCBzbyByZWFkLXdyaXRlLXJlYWQgZm9yY2VzIHJlZmxvdyBldmVyeSB0aW1lLgotIFtBdm9pZCBsYXJnZSwgY29tcGxleCBsYXlvdXRzIGFuZCBsYXlvdXQgdGhyYXNoaW5nXShodHRwczovL3dlYi5kZXYvYXJ0aWNsZXMvYXZvaWQtbGFyZ2UtY29tcGxleC1sYXlvdXRzLWFuZC1sYXlvdXQtdGhyYXNoaW5nKSBieSBKZXJlbXkgV2FnbmVyLCBQYXVsIExld2lzLCBCYXJyeSBQb2xsYXJkLiBDb25jcmV0ZSB0ZWNobmlxdWVzOiBiYXRjaCByZWFkcyBiZWZvcmUgd3JpdGVzLCBhdm9pZCBmb3JjZWQgc3luY2hyb25vdXMgbGF5b3V0LCBmbGF0dGVuIHRoZSB0cmVlLgotIFtXaGF0IGlzIERPTSByZWZsb3c/XShodHRwczovL3N0YWNrb3ZlcmZsb3cuY29tL3F1ZXN0aW9ucy8yNzYzNzE4NC93aGF0LWlzLWRvbS1yZWZsb3cvMjc2MzcyNDUjMjc2MzcyNDUpIFN0YWNrIE92ZXJmbG93IHRocmVhZC4gU2hvcnQgY2Fub25pY2FsIGFuc3dlciBmb3Igd2hhdCByZWZsb3cgaXMgYW5kIHdoYXQgdHJpZ2dlcnMgaXQuCi0gW0Jyb3dzZXIgUmVuZGVyaW5nIE9wdGltaXphdGlvbl0oaHR0cHM6Ly9naXRodWIuY29tL3Zhc2FudGhrL2Jyb3dzZXItcmVuZGVyaW5nLW9wdGltaXphdGlvbi9ibG9iL21hc3Rlci9SRUFETUUubWQpIGJ5IFZhc2FudGggS3Jpc2huYW1vb3J0aHkuIENoZWNrbGlzdCBzdHlsZSBub3RlcyBvbiBoaXR0aW5nIDYwZnBzLiBDb3ZlcnMgcGlwZWxpbmUgc3RhZ2VzLCBmcmFtZSBidWRnZXQsIGFuZCBwZXIgc3RlcCBvcHRpbWl6YXRpb25zLgoKKipFeHRlbnNpYmlsaXR5KioKCi0gW0hvdWRpbmkgQVBJc10oaHR0cHM6Ly9kZXZlbG9wZXIubW96aWxsYS5vcmcvZW4tVVMvZG9jcy9XZWIvQVBJL0hvdWRpbmlfQVBJcykgb24gTUROLiBIb3VkaW5pIG9wZW5zIHRoZSBDU1MgZW5naW5lJ3MgaW50ZXJuYWwgc3RlcHMgdG8gdXNlcmxhbmQuIFBhaW50LCBMYXlvdXQsIGFuZCBBbmltYXRpb24gV29ya2xldHMgZWFjaCBob29rIGludG8gb25lIHN0ZXAgb2YgdGhlIHBpcGVsaW5lIGFib3ZlLiBDaHJvbWUgYW5kIEVkZ2Ugb25seSBmb3Igbm93LgotIFtXZWIgV29ya2VycyB2cyBTZXJ2aWNlIFdvcmtlcnMgdnMgV29ya2xldHNdKGh0dHBzOi8vYml0c29mY28uZGUvd2ViLXdvcmtlcnMtdnMtc2VydmljZS13b3JrZXJzLXZzLXdvcmtsZXRzLykgYnkgSXJlIEFkZXJpbm9rdW4uIFNob3J0IGNvbXBhcmlzb24gdGhhdCBwaW5zIGRvd24gd2hhdCBlYWNoIG9uZSBkb2VzLCBhbmQgd2h5IG9ubHkgV29ya2xldHMgaG9vayBpbnRvIHRoZSByZW5kZXJpbmcgcGlwZWxpbmUuCg==9:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L14",null,{"htmlContent":"$15","rawContent":"$16","base64Content":"$17","title":"from setState to pixels","createdAt":"2026-04-14T23:00:50.000Z","updatedAt":"$undefined","tags":["frontend","react","browser","rendering"],"altHtmlContent":"$undefined","currentLang":"$undefined","altLang":"$undefined"}]}]}]
+d:{"metadata":[["$","title","0",{"children":"from setState to pixels  | jialinhuang"}],["$","meta","1",{"name":"description","content":"You call setState. Nine steps later, a pixel changes. Here's what happens in between."}]],"error":null,"digest":"$undefined"}
+12:"$d:metadata"

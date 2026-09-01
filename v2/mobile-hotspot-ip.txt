@@ -1,0 +1,219 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"default"]
+4:I[47843,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"default"]
+5:I[48350,[],""]
+6:I[11412,[],""]
+7:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+8:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-5f5d0eb30b97fa1b.js"],"default"]
+a:I[96727,[],"OutletBoundary"]
+c:I[14038,[],"AsyncMetadataOutlet"]
+e:I[96727,[],"ViewportBoundary"]
+10:I[96727,[],"MetadataBoundary"]
+11:"$Sreact.suspense"
+13:I[92950,[],""]
+:HL["/_next/static/media/4c9affa5bc8f420e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/6e5637a05e39a1b1.css","style"]
+:HL["/_next/static/css/27451c99e2657f58.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/004145cbd0a33204.css","style"]
+0:{"P":null,"b":"ULvxUWnH7J2D9qudU--bA","p":"","c":["","v2","mobile-hotspot-ip"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","mobile-hotspot-ip","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6e5637a05e39a1b1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/27451c99e2657f58.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L8",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","mobile-hotspot-ip","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/004145cbd0a33204.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$La",null,{"children":["$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L10",null,{"children":["$","div",null,{"hidden":true,"children":["$","$11",null,{"fallback":null,"children":"$L12"}]}]}]]}],false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+b:null
+14:I[25885,["7654","static/chunks/7654-339fd591b7f76774.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+15:T2282,<p>Two laptops on the same WiFi. You find each other's IP with <code>ifconfig</code>. You run <code>nc</code>. It works.</p>
+<p>Two laptops on the same iPhone hotspot. Same steps. Nothing.</p>
+<p>I assumed a hotspot was just a small WiFi router. It's not.</p>
+<hr>
+<h2>The setup that works</h2>
+<p>Home WiFi. Two laptops on the same network.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="text" data-theme="github-dark github-light"><code data-language="text" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span>Laptop A (192.168.0.2) ──┐</span></span>
+<span data-line=""><span>                          ├── WiFi Router ── Internet</span></span>
+<span data-line=""><span>Laptop B (192.168.0.3) ──┘</span></span></code></pre></figure>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># Laptop A</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">nc</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -l</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 5000</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># Laptop B</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">nc</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 192.168.0.2</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 5000</span></span></code></pre></figure>
+<p>Works. The router forwards packets between devices on the same subnet. Standard LAN.</p>
+<h2>The setup that doesn't</h2>
+<p>iPhone hotspot. Two laptops connected.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="text" data-theme="github-dark github-light"><code data-language="text" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span>Laptop A (172.20.10.2) ──┐</span></span>
+<span data-line=""><span>                          ├── iPhone (172.20.10.1) ── Carrier ── Internet</span></span>
+<span data-line=""><span>Laptop B (172.20.10.3) ──┘</span></span></code></pre></figure>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">nc</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -l</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 5000</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">nc</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 172.20.10.2</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 5000</span></span></code></pre></figure>
+<p>Silence. Connection refused or timeout. Same subnet. Same command. Doesn't work.</p>
+<hr>
+<h2>The cause: AP isolation</h2>
+<p>iPhone's Personal Hotspot runs with <strong>AP isolation</strong> permanently enabled. The AP (your iPhone) refuses to forward packets between connected clients. Each laptop can reach the phone, and through the phone the internet. They cannot reach each other.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="text" data-theme="github-dark github-light"><code data-language="text" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span>Laptop A → iPhone → Internet     ✓</span></span>
+<span data-line=""><span>Laptop B → iPhone → Internet     ✓</span></span>
+<span data-line=""><span>Laptop A → iPhone → Laptop B     ✗  AP isolation blocks this</span></span></code></pre></figure>
+<p>The block is a policy at layer 2. The phone's bridge sees Laptop A's frame destined for Laptop B, consults its rule ("isolation on"), and drops it. No packet ever leaves the phone's LAN interface. The carrier is not involved. NAT is not involved. This is entirely a decision inside the phone.</p>
+<h2>Why Apple locks this</h2>
+<p>Three things Apple values, stacked:</p>
+<ol>
+<li><strong>Security by default</strong>. Coffee shop hotspot: random strangers should not be able to see each other's <code>nc</code> listeners.</li>
+<li><strong>iPhone as client, not router</strong>. Apple's mental model is that the phone is a terminal device. Router features (port forwarding, DMZ, isolation toggle, QoS) are deliberately absent.</li>
+<li><strong>Support cost</strong>. Fewer knobs, fewer tickets.</li>
+</ol>
+<p>No user setting. No developer API. No MDM profile key. Not even hidden behind an entitlement. It is just off.</p>
+<p>Android varies. Pixel and stock Android usually allow clients to talk. Samsung and some vendors have started adding the toggle, sometimes on by default. iOS is the one that is always on, always locked.</p>
+<h2>The workaround: Tailscale</h2>
+<p>The cleanest way around this is an <strong>overlay VPN</strong>. Tailscale is the default recommendation.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># Both laptops</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">brew</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> install</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> --cask</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> tailscale</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># Open the app, log in to the same account on both</span></span></code></pre></figure>
+<p>Each laptop gets a Tailscale IP (<code>100.x.x.x</code>). Use those to reach each other:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># Laptop A</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">nc</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -l</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 5000</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># Laptop B (use Tailscale IP, not the hotspot's 172.20.10.x)</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">nc</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 100.64.1.5</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 5000</span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">    # works</span></span></code></pre></figure>
+<p>Why it works: Tailscale runs at L3 on top of the internet. Both laptops reach out through the iPhone's NAT to the Tailscale coordinator, which helps them find each other and punch a direct peer connection via WireGuard. The AP bridge never needs to forward sideways traffic, so AP isolation has nothing to block.</p>
+<p>The irony: your two laptops sitting a foot apart are now connected by a round trip through the carrier, but the connection is solid and the latency is surprisingly low once NAT traversal settles.</p>
+<p>Alternatives if Tailscale is off the table:</p>
+<ul>
+<li>A small travel router. Use the iPhone as WAN (USB tether or client WiFi), let the travel router be the real AP. Laptops connect there, free to talk.</li>
+<li>USB tether one laptop, then have it share its connection as a WiFi hotspot to the other laptop. That laptop becomes the router.</li>
+</ul>
+<p>Both work but require extra hardware or awkward config.</p>
+<h2>Summary</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>WiFi router</th><th>iPhone hotspot</th></tr></thead><tbody><tr><td>Devices can talk to each other</td><td>AP isolation blocks device to device</td></tr><tr><td>Router forwards LAN traffic</td><td>Phone refuses to forward LAN traffic</td></tr><tr><td>You control the config</td><td>Apple decided for you</td></tr></tbody></table>
+<p>An iPhone hotspot looks like a small router. It's not. It's a deliberately crippled AP that gives you internet and nothing else. If you need two laptops to actually talk while tethered, you route them through the internet via Tailscale. Apple didn't leave a door; you build one.</p>16:T10bf,
+Two laptops on the same WiFi. You find each other's IP with `ifconfig`. You run `nc`. It works.
+
+Two laptops on the same iPhone hotspot. Same steps. Nothing.
+
+I assumed a hotspot was just a small WiFi router. It's not.
+
+---
+
+## The setup that works
+
+Home WiFi. Two laptops on the same network.
+
+```text
+Laptop A (192.168.0.2) ──┐
+                          ├── WiFi Router ── Internet
+Laptop B (192.168.0.3) ──┘
+```
+
+```bash
+# Laptop A
+nc -l 5000
+
+# Laptop B
+nc 192.168.0.2 5000
+```
+
+Works. The router forwards packets between devices on the same subnet. Standard LAN.
+
+## The setup that doesn't
+
+iPhone hotspot. Two laptops connected.
+
+```text
+Laptop A (172.20.10.2) ──┐
+                          ├── iPhone (172.20.10.1) ── Carrier ── Internet
+Laptop B (172.20.10.3) ──┘
+```
+
+```bash
+nc -l 5000
+nc 172.20.10.2 5000
+```
+
+Silence. Connection refused or timeout. Same subnet. Same command. Doesn't work.
+
+---
+
+## The cause: AP isolation
+
+iPhone's Personal Hotspot runs with **AP isolation** permanently enabled. The AP (your iPhone) refuses to forward packets between connected clients. Each laptop can reach the phone, and through the phone the internet. They cannot reach each other.
+
+```text
+Laptop A → iPhone → Internet     ✓
+Laptop B → iPhone → Internet     ✓
+Laptop A → iPhone → Laptop B     ✗  AP isolation blocks this
+```
+
+The block is a policy at layer 2. The phone's bridge sees Laptop A's frame destined for Laptop B, consults its rule ("isolation on"), and drops it. No packet ever leaves the phone's LAN interface. The carrier is not involved. NAT is not involved. This is entirely a decision inside the phone.
+
+## Why Apple locks this
+
+Three things Apple values, stacked:
+
+1. **Security by default**. Coffee shop hotspot: random strangers should not be able to see each other's `nc` listeners.
+2. **iPhone as client, not router**. Apple's mental model is that the phone is a terminal device. Router features (port forwarding, DMZ, isolation toggle, QoS) are deliberately absent.
+3. **Support cost**. Fewer knobs, fewer tickets.
+
+No user setting. No developer API. No MDM profile key. Not even hidden behind an entitlement. It is just off.
+
+Android varies. Pixel and stock Android usually allow clients to talk. Samsung and some vendors have started adding the toggle, sometimes on by default. iOS is the one that is always on, always locked.
+
+## The workaround: Tailscale
+
+The cleanest way around this is an **overlay VPN**. Tailscale is the default recommendation.
+
+```bash
+# Both laptops
+brew install --cask tailscale
+# Open the app, log in to the same account on both
+```
+
+Each laptop gets a Tailscale IP (`100.x.x.x`). Use those to reach each other:
+
+```bash
+# Laptop A
+nc -l 5000
+
+# Laptop B (use Tailscale IP, not the hotspot's 172.20.10.x)
+nc 100.64.1.5 5000    # works
+```
+
+Why it works: Tailscale runs at L3 on top of the internet. Both laptops reach out through the iPhone's NAT to the Tailscale coordinator, which helps them find each other and punch a direct peer connection via WireGuard. The AP bridge never needs to forward sideways traffic, so AP isolation has nothing to block.
+
+The irony: your two laptops sitting a foot apart are now connected by a round trip through the carrier, but the connection is solid and the latency is surprisingly low once NAT traversal settles.
+
+Alternatives if Tailscale is off the table:
+
+- A small travel router. Use the iPhone as WAN (USB tether or client WiFi), let the travel router be the real AP. Laptops connect there, free to talk.
+- USB tether one laptop, then have it share its connection as a WiFi hotspot to the other laptop. That laptop becomes the router.
+
+Both work but require extra hardware or awkward config.
+
+## Summary
+
+| WiFi router | iPhone hotspot |
+|---|---|
+| Devices can talk to each other | AP isolation blocks device to device |
+| Router forwards LAN traffic | Phone refuses to forward LAN traffic |
+| You control the config | Apple decided for you |
+
+An iPhone hotspot looks like a small router. It's not. It's a deliberately crippled AP that gives you internet and nothing else. If you need two laptops to actually talk while tethered, you route them through the internet via Tailscale. Apple didn't leave a door; you build one.
+17:T1788,LS0tCnRpdGxlOiAiV2h5IHR3byBsYXB0b3BzIG9uIGFuIGlQaG9uZSBob3RzcG90IGNhbid0IHRhbGsiCmNyZWF0ZWRBdDogMjAyNi0wNC0wN1QyMjowMjowMgp0YWdzOiBbbmV0d29yaywgaG90c3BvdCwgaW9zLCBhcC1pc29sYXRpb25dCmRlc2NyaXB0aW9uOiAiQXBwbGUgdHVybmVkIG9uIEFQIGlzb2xhdGlvbiBhbmQgZGlkIG5vdCBnaXZlIHlvdSBhIHN3aXRjaCB0byB0dXJuIGl0IG9mZi4iCi0tLQoKVHdvIGxhcHRvcHMgb24gdGhlIHNhbWUgV2lGaS4gWW91IGZpbmQgZWFjaCBvdGhlcidzIElQIHdpdGggYGlmY29uZmlnYC4gWW91IHJ1biBgbmNgLiBJdCB3b3Jrcy4KClR3byBsYXB0b3BzIG9uIHRoZSBzYW1lIGlQaG9uZSBob3RzcG90LiBTYW1lIHN0ZXBzLiBOb3RoaW5nLgoKSSBhc3N1bWVkIGEgaG90c3BvdCB3YXMganVzdCBhIHNtYWxsIFdpRmkgcm91dGVyLiBJdCdzIG5vdC4KCi0tLQoKIyMgVGhlIHNldHVwIHRoYXQgd29ya3MKCkhvbWUgV2lGaS4gVHdvIGxhcHRvcHMgb24gdGhlIHNhbWUgbmV0d29yay4KCmBgYHRleHQKTGFwdG9wIEEgKDE5Mi4xNjguMC4yKSDilIDilIDilJAKICAgICAgICAgICAgICAgICAgICAgICAgICDilJzilIDilIAgV2lGaSBSb3V0ZXIg4pSA4pSAIEludGVybmV0CkxhcHRvcCBCICgxOTIuMTY4LjAuMykg4pSA4pSA4pSYCmBgYAoKYGBgYmFzaAojIExhcHRvcCBBCm5jIC1sIDUwMDAKCiMgTGFwdG9wIEIKbmMgMTkyLjE2OC4wLjIgNTAwMApgYGAKCldvcmtzLiBUaGUgcm91dGVyIGZvcndhcmRzIHBhY2tldHMgYmV0d2VlbiBkZXZpY2VzIG9uIHRoZSBzYW1lIHN1Ym5ldC4gU3RhbmRhcmQgTEFOLgoKIyMgVGhlIHNldHVwIHRoYXQgZG9lc24ndAoKaVBob25lIGhvdHNwb3QuIFR3byBsYXB0b3BzIGNvbm5lY3RlZC4KCmBgYHRleHQKTGFwdG9wIEEgKDE3Mi4yMC4xMC4yKSDilIDilIDilJAKICAgICAgICAgICAgICAgICAgICAgICAgICDilJzilIDilIAgaVBob25lICgxNzIuMjAuMTAuMSkg4pSA4pSAIENhcnJpZXIg4pSA4pSAIEludGVybmV0CkxhcHRvcCBCICgxNzIuMjAuMTAuMykg4pSA4pSA4pSYCmBgYAoKYGBgYmFzaApuYyAtbCA1MDAwCm5jIDE3Mi4yMC4xMC4yIDUwMDAKYGBgCgpTaWxlbmNlLiBDb25uZWN0aW9uIHJlZnVzZWQgb3IgdGltZW91dC4gU2FtZSBzdWJuZXQuIFNhbWUgY29tbWFuZC4gRG9lc24ndCB3b3JrLgoKLS0tCgojIyBUaGUgY2F1c2U6IEFQIGlzb2xhdGlvbgoKaVBob25lJ3MgUGVyc29uYWwgSG90c3BvdCBydW5zIHdpdGggKipBUCBpc29sYXRpb24qKiBwZXJtYW5lbnRseSBlbmFibGVkLiBUaGUgQVAgKHlvdXIgaVBob25lKSByZWZ1c2VzIHRvIGZvcndhcmQgcGFja2V0cyBiZXR3ZWVuIGNvbm5lY3RlZCBjbGllbnRzLiBFYWNoIGxhcHRvcCBjYW4gcmVhY2ggdGhlIHBob25lLCBhbmQgdGhyb3VnaCB0aGUgcGhvbmUgdGhlIGludGVybmV0LiBUaGV5IGNhbm5vdCByZWFjaCBlYWNoIG90aGVyLgoKYGBgdGV4dApMYXB0b3AgQSDihpIgaVBob25lIOKGkiBJbnRlcm5ldCAgICAg4pyTCkxhcHRvcCBCIOKGkiBpUGhvbmUg4oaSIEludGVybmV0ICAgICDinJMKTGFwdG9wIEEg4oaSIGlQaG9uZSDihpIgTGFwdG9wIEIgICAgIOKclyAgQVAgaXNvbGF0aW9uIGJsb2NrcyB0aGlzCmBgYAoKVGhlIGJsb2NrIGlzIGEgcG9saWN5IGF0IGxheWVyIDIuIFRoZSBwaG9uZSdzIGJyaWRnZSBzZWVzIExhcHRvcCBBJ3MgZnJhbWUgZGVzdGluZWQgZm9yIExhcHRvcCBCLCBjb25zdWx0cyBpdHMgcnVsZSAoImlzb2xhdGlvbiBvbiIpLCBhbmQgZHJvcHMgaXQuIE5vIHBhY2tldCBldmVyIGxlYXZlcyB0aGUgcGhvbmUncyBMQU4gaW50ZXJmYWNlLiBUaGUgY2FycmllciBpcyBub3QgaW52b2x2ZWQuIE5BVCBpcyBub3QgaW52b2x2ZWQuIFRoaXMgaXMgZW50aXJlbHkgYSBkZWNpc2lvbiBpbnNpZGUgdGhlIHBob25lLgoKIyMgV2h5IEFwcGxlIGxvY2tzIHRoaXMKClRocmVlIHRoaW5ncyBBcHBsZSB2YWx1ZXMsIHN0YWNrZWQ6CgoxLiAqKlNlY3VyaXR5IGJ5IGRlZmF1bHQqKi4gQ29mZmVlIHNob3AgaG90c3BvdDogcmFuZG9tIHN0cmFuZ2VycyBzaG91bGQgbm90IGJlIGFibGUgdG8gc2VlIGVhY2ggb3RoZXIncyBgbmNgIGxpc3RlbmVycy4KMi4gKippUGhvbmUgYXMgY2xpZW50LCBub3Qgcm91dGVyKiouIEFwcGxlJ3MgbWVudGFsIG1vZGVsIGlzIHRoYXQgdGhlIHBob25lIGlzIGEgdGVybWluYWwgZGV2aWNlLiBSb3V0ZXIgZmVhdHVyZXMgKHBvcnQgZm9yd2FyZGluZywgRE1aLCBpc29sYXRpb24gdG9nZ2xlLCBRb1MpIGFyZSBkZWxpYmVyYXRlbHkgYWJzZW50LgozLiAqKlN1cHBvcnQgY29zdCoqLiBGZXdlciBrbm9icywgZmV3ZXIgdGlja2V0cy4KCk5vIHVzZXIgc2V0dGluZy4gTm8gZGV2ZWxvcGVyIEFQSS4gTm8gTURNIHByb2ZpbGUga2V5LiBOb3QgZXZlbiBoaWRkZW4gYmVoaW5kIGFuIGVudGl0bGVtZW50LiBJdCBpcyBqdXN0IG9mZi4KCkFuZHJvaWQgdmFyaWVzLiBQaXhlbCBhbmQgc3RvY2sgQW5kcm9pZCB1c3VhbGx5IGFsbG93IGNsaWVudHMgdG8gdGFsay4gU2Ftc3VuZyBhbmQgc29tZSB2ZW5kb3JzIGhhdmUgc3RhcnRlZCBhZGRpbmcgdGhlIHRvZ2dsZSwgc29tZXRpbWVzIG9uIGJ5IGRlZmF1bHQuIGlPUyBpcyB0aGUgb25lIHRoYXQgaXMgYWx3YXlzIG9uLCBhbHdheXMgbG9ja2VkLgoKIyMgVGhlIHdvcmthcm91bmQ6IFRhaWxzY2FsZQoKVGhlIGNsZWFuZXN0IHdheSBhcm91bmQgdGhpcyBpcyBhbiAqKm92ZXJsYXkgVlBOKiouIFRhaWxzY2FsZSBpcyB0aGUgZGVmYXVsdCByZWNvbW1lbmRhdGlvbi4KCmBgYGJhc2gKIyBCb3RoIGxhcHRvcHMKYnJldyBpbnN0YWxsIC0tY2FzayB0YWlsc2NhbGUKIyBPcGVuIHRoZSBhcHAsIGxvZyBpbiB0byB0aGUgc2FtZSBhY2NvdW50IG9uIGJvdGgKYGBgCgpFYWNoIGxhcHRvcCBnZXRzIGEgVGFpbHNjYWxlIElQIChgMTAwLngueC54YCkuIFVzZSB0aG9zZSB0byByZWFjaCBlYWNoIG90aGVyOgoKYGBgYmFzaAojIExhcHRvcCBBCm5jIC1sIDUwMDAKCiMgTGFwdG9wIEIgKHVzZSBUYWlsc2NhbGUgSVAsIG5vdCB0aGUgaG90c3BvdCdzIDE3Mi4yMC4xMC54KQpuYyAxMDAuNjQuMS41IDUwMDAgICAgIyB3b3JrcwpgYGAKCldoeSBpdCB3b3JrczogVGFpbHNjYWxlIHJ1bnMgYXQgTDMgb24gdG9wIG9mIHRoZSBpbnRlcm5ldC4gQm90aCBsYXB0b3BzIHJlYWNoIG91dCB0aHJvdWdoIHRoZSBpUGhvbmUncyBOQVQgdG8gdGhlIFRhaWxzY2FsZSBjb29yZGluYXRvciwgd2hpY2ggaGVscHMgdGhlbSBmaW5kIGVhY2ggb3RoZXIgYW5kIHB1bmNoIGEgZGlyZWN0IHBlZXIgY29ubmVjdGlvbiB2aWEgV2lyZUd1YXJkLiBUaGUgQVAgYnJpZGdlIG5ldmVyIG5lZWRzIHRvIGZvcndhcmQgc2lkZXdheXMgdHJhZmZpYywgc28gQVAgaXNvbGF0aW9uIGhhcyBub3RoaW5nIHRvIGJsb2NrLgoKVGhlIGlyb255OiB5b3VyIHR3byBsYXB0b3BzIHNpdHRpbmcgYSBmb290IGFwYXJ0IGFyZSBub3cgY29ubmVjdGVkIGJ5IGEgcm91bmQgdHJpcCB0aHJvdWdoIHRoZSBjYXJyaWVyLCBidXQgdGhlIGNvbm5lY3Rpb24gaXMgc29saWQgYW5kIHRoZSBsYXRlbmN5IGlzIHN1cnByaXNpbmdseSBsb3cgb25jZSBOQVQgdHJhdmVyc2FsIHNldHRsZXMuCgpBbHRlcm5hdGl2ZXMgaWYgVGFpbHNjYWxlIGlzIG9mZiB0aGUgdGFibGU6CgotIEEgc21hbGwgdHJhdmVsIHJvdXRlci4gVXNlIHRoZSBpUGhvbmUgYXMgV0FOIChVU0IgdGV0aGVyIG9yIGNsaWVudCBXaUZpKSwgbGV0IHRoZSB0cmF2ZWwgcm91dGVyIGJlIHRoZSByZWFsIEFQLiBMYXB0b3BzIGNvbm5lY3QgdGhlcmUsIGZyZWUgdG8gdGFsay4KLSBVU0IgdGV0aGVyIG9uZSBsYXB0b3AsIHRoZW4gaGF2ZSBpdCBzaGFyZSBpdHMgY29ubmVjdGlvbiBhcyBhIFdpRmkgaG90c3BvdCB0byB0aGUgb3RoZXIgbGFwdG9wLiBUaGF0IGxhcHRvcCBiZWNvbWVzIHRoZSByb3V0ZXIuCgpCb3RoIHdvcmsgYnV0IHJlcXVpcmUgZXh0cmEgaGFyZHdhcmUgb3IgYXdrd2FyZCBjb25maWcuCgojIyBTdW1tYXJ5Cgp8IFdpRmkgcm91dGVyIHwgaVBob25lIGhvdHNwb3QgfAp8LS0tfC0tLXwKfCBEZXZpY2VzIGNhbiB0YWxrIHRvIGVhY2ggb3RoZXIgfCBBUCBpc29sYXRpb24gYmxvY2tzIGRldmljZSB0byBkZXZpY2UgfAp8IFJvdXRlciBmb3J3YXJkcyBMQU4gdHJhZmZpYyB8IFBob25lIHJlZnVzZXMgdG8gZm9yd2FyZCBMQU4gdHJhZmZpYyB8CnwgWW91IGNvbnRyb2wgdGhlIGNvbmZpZyB8IEFwcGxlIGRlY2lkZWQgZm9yIHlvdSB8CgpBbiBpUGhvbmUgaG90c3BvdCBsb29rcyBsaWtlIGEgc21hbGwgcm91dGVyLiBJdCdzIG5vdC4gSXQncyBhIGRlbGliZXJhdGVseSBjcmlwcGxlZCBBUCB0aGF0IGdpdmVzIHlvdSBpbnRlcm5ldCBhbmQgbm90aGluZyBlbHNlLiBJZiB5b3UgbmVlZCB0d28gbGFwdG9wcyB0byBhY3R1YWxseSB0YWxrIHdoaWxlIHRldGhlcmVkLCB5b3Ugcm91dGUgdGhlbSB0aHJvdWdoIHRoZSBpbnRlcm5ldCB2aWEgVGFpbHNjYWxlLiBBcHBsZSBkaWRuJ3QgbGVhdmUgYSBkb29yOyB5b3UgYnVpbGQgb25lLgo=9:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L14",null,{"htmlContent":"$15","rawContent":"$16","base64Content":"$17","title":"Why two laptops on an iPhone hotspot can't talk","createdAt":"$undefined","updatedAt":"$undefined","tags":["network","hotspot","ios","ap-isolation"],"altHtmlContent":"$undefined","currentLang":"$undefined","altLang":"$undefined"}]}]}]
+d:{"metadata":[["$","title","0",{"children":"Why two laptops on an iPhone hotspot can't talk  | jialinhuang"}],["$","meta","1",{"name":"description","content":"Apple turned on AP isolation and did not give you a switch to turn it off."}]],"error":null,"digest":"$undefined"}
+12:"$d:metadata"

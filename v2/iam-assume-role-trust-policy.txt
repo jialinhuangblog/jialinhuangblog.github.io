@@ -1,0 +1,368 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"default"]
+4:I[47843,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"default"]
+5:I[48350,[],""]
+6:I[11412,[],""]
+7:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+8:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-5f5d0eb30b97fa1b.js"],"default"]
+a:I[96727,[],"OutletBoundary"]
+c:I[14038,[],"AsyncMetadataOutlet"]
+e:I[96727,[],"ViewportBoundary"]
+10:I[96727,[],"MetadataBoundary"]
+11:"$Sreact.suspense"
+13:I[92950,[],""]
+:HL["/_next/static/media/4c9affa5bc8f420e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/6e5637a05e39a1b1.css","style"]
+:HL["/_next/static/css/27451c99e2657f58.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/004145cbd0a33204.css","style"]
+0:{"P":null,"b":"ULvxUWnH7J2D9qudU--bA","p":"","c":["","v2","iam-assume-role-trust-policy"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","iam-assume-role-trust-policy","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6e5637a05e39a1b1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/27451c99e2657f58.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L8",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","iam-assume-role-trust-policy","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/004145cbd0a33204.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$La",null,{"children":["$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L10",null,{"children":["$","div",null,{"hidden":true,"children":["$","$11",null,{"fallback":null,"children":"$L12"}]}]}]]}],false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+b:null
+14:I[25885,["7654","static/chunks/7654-339fd591b7f76774.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+15:T50a8,<p><code>sts:AssumeRole</code> is an API action. A service or user calls it to get temporary credentials for a role. <strong>Trust policy</strong> is the policy attached to that role that controls who is allowed to call <code>sts:AssumeRole</code> on it. Not a separate concept. Just a policy governing one specific action.</p>
+<p>The examples in this article build these resources:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Name</th><th>Type</th><th>Purpose</th></tr></thead><tbody><tr><td><code>s3-reader-role</code></td><td>IAM Role</td><td>the role ECS/Lambda assumes</td></tr><tr><td>trust policy</td><td>Policy on the role</td><td>allows <code>ecs.amazonaws.com</code> and <code>lambda.amazonaws.com</code> to call <code>sts:AssumeRole</code></td></tr><tr><td><code>s3-reader-policy.json</code></td><td>Permission policy attached to the role</td><td>grants <code>s3:GetObject</code> and <code>s3:ListBucket</code> on <code>my-app-assets</code></td></tr></tbody></table>
+<hr>
+<p>IAM users attach to policies. Policies define what actions are allowed on which resources. Simple.</p>
+<p>Then <strong>assumeRole</strong> and <strong>trust policy</strong> show up. Two terms sitting on top of everything, and the docs don't explain why they exist before explaining how they work.</p>
+<h2>why not just use IAM users</h2>
+<p>An IAM user has permanent credentials. Access key, secret key. They work forever until someone manually revokes them.</p>
+<p>This breaks in three ways:</p>
+<ul>
+<li>A key leaks in a git commit. It stays valid until someone notices.</li>
+<li>A partner team in another AWS account needs access. Now you're managing someone else's permanent identity.</li>
+<li>An AWS service (ECS, Lambda) needs permissions. Services aren't users. They can't hold permanent keys.</li>
+</ul>
+<p>All three cases have the same shape: <strong>something needs temporary, scoped access instead of a permanent key.</strong></p>
+<p>assumeRole returns temporary credentials that expire on their own. No cleanup.</p>
+<h2>the simple path: AWS services</h2>
+<p>ECS needs to read from S3. Two steps.</p>
+<h3>step 1: create the role and set who can assume it</h3>
+<p>Go to <strong>IAM > Roles > Create role</strong>.</p>
+<p>First thing AWS asks: <strong>"Who will use this role?"</strong> Select <strong>AWS service</strong>, pick <strong>ECS</strong>.</p>
+<p>This creates the <strong>trust policy</strong>. It's not a separate thing. It's baked into the role at creation. You can see it later under the <strong>Trust relationships</strong> tab:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Version"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"2012-10-17"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Statement"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    {</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">      "Effect"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Allow"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">      "Principal"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: {</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">        "Service"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"ecs.amazonaws.com"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"lambda.amazonaws.com"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">]</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">      },</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">      "Action"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"sts:AssumeRole"</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  ]</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>One role, one trust policy. The Principal field accepts multiple services in an array. No need to create separate trust policies.</p>
+<p>Name the role <code>s3-reader-role</code>.</p>
+<h3>step 2: attach permissions to the role</h3>
+<p>Next screen. Attach a <strong>permission policy</strong> that defines what this role can do. Save the following as <code>s3-reader-policy.json</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Version"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"2012-10-17"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Statement"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    {</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">      "Effect"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Allow"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">      "Action"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"s3:GetObject"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"s3:ListBucket"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">],</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">      "Resource"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [</span></span>
+<span data-line=""><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">        "arn:aws:s3:::my-app-assets"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">        "arn:aws:s3:::my-app-assets/*"</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">      ]</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  ]</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>Attach this to <code>s3-reader-role</code>:</p>
+<p><strong>CLI:</strong></p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">aws</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> iam</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> create-policy</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> \</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  --policy-name</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> s3-reader-policy</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> \</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  --policy-document</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> file://s3-reader-policy.json</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">aws</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> iam</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> attach-role-policy</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> \</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  --role-name</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> s3-reader-role</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> \</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  --policy-arn</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> arn:aws:iam::ACCOUNT-ID:policy/s3-reader-policy</span></span></code></pre></figure>
+<p><strong>Console:</strong> IAM > Roles > <code>s3-reader-role</code> > Permissions > Add permissions > Attach policies > select <code>s3-reader-policy</code>.</p>
+<p>Done. Go to the ECS task definition, set the <strong>Task Role</strong> to <code>s3-reader-role</code>.</p>
+<p>At runtime: ECS task starts → ECS service calls <code>sts:AssumeRole</code> → STS checks the trust policy, finds <code>ecs.amazonaws.com</code> listed → grants temporary credentials to the task → task uses those credentials to access S3.</p>
+<p>No third step. AWS services handle the assume call internally.</p>
+<h3>what if there's no assumeRole</h3>
+<p>Without roles, the permissions have to live on the S3 side. The bucket policy lists every service, every account, every task that needs access:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Version"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"2012-10-17"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Statement"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    {</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">      "Effect"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Allow"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">      "Principal"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: {</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">        "Service"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"ecs.amazonaws.com"</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">      },</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">      "Action"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"s3:GetObject"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"s3:ListBucket"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">],</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">      "Resource"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [</span></span>
+<span data-line=""><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">        "arn:aws:s3:::my-app-assets"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">        "arn:aws:s3:::my-app-assets/*"</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">      ]</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    },</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    {</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">      "Effect"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Allow"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">      "Principal"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: {</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">        "Service"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"lambda.amazonaws.com"</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">      },</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">      "Action"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"s3:GetObject"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"s3:ListBucket"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">],</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">      "Resource"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [</span></span>
+<span data-line=""><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">        "arn:aws:s3:::my-app-assets"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">        "arn:aws:s3:::my-app-assets/*"</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">      ]</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  ]</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>Every new consumer means another Statement block on the bucket. Ten services reading S3, ten blocks. And this is just one bucket. Multiply by every resource they touch.</p>
+<p>With assumeRole, the bucket doesn't need to know who's coming. The role carries the permissions. Add a new service to the trust policy, it inherits the same S3 access. The bucket policy stays untouched.</p>
+<h2>the full path: IAM users and cross-account</h2>
+<p>A developer in another AWS account needs to read your S3 bucket. Three steps.</p>
+<h3>step 1 and 2: same as above</h3>
+<p>Create the role, set the trust policy to trust the other account:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Principal"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: {</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">    "AWS"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"arn:aws:iam::OTHER-ACCOUNT-ID:root"</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>Attach S3 read permissions. Same as before.</p>
+<h3>step 3: the other side also needs permission</h3>
+<p>In the <strong>other account</strong>, go to <strong>IAM > Users > [the user] > Permissions</strong>, add a policy:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Version"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"2012-10-17"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Statement"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    {</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">      "Effect"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Allow"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">      "Action"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"sts:AssumeRole"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">      "Resource"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"arn:aws:iam::YOUR-ACCOUNT-ID:role/s3-reader-role"</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  ]</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>This is the extra step that AWS services don't need. A human (or their scripts) has to prove they're allowed to ask.</p>
+<p><strong>Both sides must agree.</strong> The role says "I trust this account" (trust policy). The user says "I'm allowed to assume this role" (user policy). Either side says no, access denied.</p>
+<p>Same runtime flow as above: the user calls <code>sts:AssumeRole</code>, STS checks both sides, and returns temporary credentials (default: one hour).</p>
+<h2>the mental model</h2>
+<p>An IAM user with permanent keys is a house key. Works forever until the locks change.</p>
+<p>assumeRole is a hotel key card. Opens one room, for one night, stops working at checkout.</p>
+<p><strong>Trust policy</strong> = the hotel's guest list (who can check in)
+<strong>User policy</strong> = the reservation (proof the guest is allowed to ask for a room)
+<strong>Temporary credentials</strong> = the key card (works for a limited time, then dies)</p>16:T18d0,
+`sts:AssumeRole` is an API action. A service or user calls it to get temporary credentials for a role. **Trust policy** is the policy attached to that role that controls who is allowed to call `sts:AssumeRole` on it. Not a separate concept. Just a policy governing one specific action.
+
+The examples in this article build these resources:
+
+| Name | Type | Purpose |
+|---|---|---|
+| `s3-reader-role` | IAM Role | the role ECS/Lambda assumes |
+| trust policy | Policy on the role | allows `ecs.amazonaws.com` and `lambda.amazonaws.com` to call `sts:AssumeRole` |
+| `s3-reader-policy.json` | Permission policy attached to the role | grants `s3:GetObject` and `s3:ListBucket` on `my-app-assets` |
+
+---
+
+IAM users attach to policies. Policies define what actions are allowed on which resources. Simple.
+
+Then **assumeRole** and **trust policy** show up. Two terms sitting on top of everything, and the docs don't explain why they exist before explaining how they work.
+
+## why not just use IAM users
+
+An IAM user has permanent credentials. Access key, secret key. They work forever until someone manually revokes them.
+
+This breaks in three ways:
+
+- A key leaks in a git commit. It stays valid until someone notices.
+- A partner team in another AWS account needs access. Now you're managing someone else's permanent identity.
+- An AWS service (ECS, Lambda) needs permissions. Services aren't users. They can't hold permanent keys.
+
+All three cases have the same shape: **something needs temporary, scoped access instead of a permanent key.**
+
+assumeRole returns temporary credentials that expire on their own. No cleanup.
+
+## the simple path: AWS services
+
+ECS needs to read from S3. Two steps.
+
+### step 1: create the role and set who can assume it
+
+Go to **IAM > Roles > Create role**.
+
+First thing AWS asks: **"Who will use this role?"** Select **AWS service**, pick **ECS**.
+
+This creates the **trust policy**. It's not a separate thing. It's baked into the role at creation. You can see it later under the **Trust relationships** tab:
+
+```json
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Principal": {
+        "Service": ["ecs.amazonaws.com", "lambda.amazonaws.com"]
+      },
+      "Action": "sts:AssumeRole"
+    }
+  ]
+}
+```
+
+One role, one trust policy. The Principal field accepts multiple services in an array. No need to create separate trust policies.
+
+Name the role `s3-reader-role`.
+
+### step 2: attach permissions to the role
+
+Next screen. Attach a **permission policy** that defines what this role can do. Save the following as `s3-reader-policy.json`:
+
+```json
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": ["s3:GetObject", "s3:ListBucket"],
+      "Resource": [
+        "arn:aws:s3:::my-app-assets",
+        "arn:aws:s3:::my-app-assets/*"
+      ]
+    }
+  ]
+}
+```
+
+Attach this to `s3-reader-role`:
+
+**CLI:**
+
+```bash
+aws iam create-policy \
+  --policy-name s3-reader-policy \
+  --policy-document file://s3-reader-policy.json
+
+aws iam attach-role-policy \
+  --role-name s3-reader-role \
+  --policy-arn arn:aws:iam::ACCOUNT-ID:policy/s3-reader-policy
+```
+
+**Console:** IAM > Roles > `s3-reader-role` > Permissions > Add permissions > Attach policies > select `s3-reader-policy`.
+
+Done. Go to the ECS task definition, set the **Task Role** to `s3-reader-role`.
+
+At runtime: ECS task starts → ECS service calls `sts:AssumeRole` → STS checks the trust policy, finds `ecs.amazonaws.com` listed → grants temporary credentials to the task → task uses those credentials to access S3.
+
+No third step. AWS services handle the assume call internally.
+
+### what if there's no assumeRole
+
+Without roles, the permissions have to live on the S3 side. The bucket policy lists every service, every account, every task that needs access:
+
+```json
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Principal": {
+        "Service": "ecs.amazonaws.com"
+      },
+      "Action": ["s3:GetObject", "s3:ListBucket"],
+      "Resource": [
+        "arn:aws:s3:::my-app-assets",
+        "arn:aws:s3:::my-app-assets/*"
+      ]
+    },
+    {
+      "Effect": "Allow",
+      "Principal": {
+        "Service": "lambda.amazonaws.com"
+      },
+      "Action": ["s3:GetObject", "s3:ListBucket"],
+      "Resource": [
+        "arn:aws:s3:::my-app-assets",
+        "arn:aws:s3:::my-app-assets/*"
+      ]
+    }
+  ]
+}
+```
+
+Every new consumer means another Statement block on the bucket. Ten services reading S3, ten blocks. And this is just one bucket. Multiply by every resource they touch.
+
+With assumeRole, the bucket doesn't need to know who's coming. The role carries the permissions. Add a new service to the trust policy, it inherits the same S3 access. The bucket policy stays untouched.
+
+## the full path: IAM users and cross-account
+
+A developer in another AWS account needs to read your S3 bucket. Three steps.
+
+### step 1 and 2: same as above
+
+Create the role, set the trust policy to trust the other account:
+
+```json
+{
+  "Principal": {
+    "AWS": "arn:aws:iam::OTHER-ACCOUNT-ID:root"
+  }
+}
+```
+
+Attach S3 read permissions. Same as before.
+
+### step 3: the other side also needs permission
+
+In the **other account**, go to **IAM > Users > [the user] > Permissions**, add a policy:
+
+```json
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": "sts:AssumeRole",
+      "Resource": "arn:aws:iam::YOUR-ACCOUNT-ID:role/s3-reader-role"
+    }
+  ]
+}
+```
+
+This is the extra step that AWS services don't need. A human (or their scripts) has to prove they're allowed to ask.
+
+**Both sides must agree.** The role says "I trust this account" (trust policy). The user says "I'm allowed to assume this role" (user policy). Either side says no, access denied.
+
+Same runtime flow as above: the user calls `sts:AssumeRole`, STS checks both sides, and returns temporary credentials (default: one hour).
+
+## the mental model
+
+An IAM user with permanent keys is a house key. Works forever until the locks change.
+
+assumeRole is a hotel key card. Opens one room, for one night, stops working at checkout.
+
+**Trust policy** = the hotel's guest list (who can check in)
+**User policy** = the reservation (proof the guest is allowed to ask for a room)
+**Temporary credentials** = the key card (works for a limited time, then dies)
+17:T2264,LS0tCnRpdGxlOiAiYXNzdW1lUm9sZSBhbmQgdHJ1c3QgcG9saWN5OiB3aHkgSUFNIHVzZXJzIGFyZW4ndCBlbm91Z2giCmRhdGU6IDIwMjUtMTEtMDVUMjM6NDg6MDAKdGFnczogW2F3cywgaWFtXQpkZXNjcmlwdGlvbjogIklBTSB1c2VycyBhbmQgcG9saWNpZXMgc2VlbSBsaWtlIHRoZSB3aG9sZSBzdG9yeS4gVGhlbiBhc3N1bWVSb2xlIGFuZCB0cnVzdCBwb2xpY2llcyBzaG93IHVwIGFuZCBub3RoaW5nIG1ha2VzIHNlbnNlLiIKLS0tCgpgc3RzOkFzc3VtZVJvbGVgIGlzIGFuIEFQSSBhY3Rpb24uIEEgc2VydmljZSBvciB1c2VyIGNhbGxzIGl0IHRvIGdldCB0ZW1wb3JhcnkgY3JlZGVudGlhbHMgZm9yIGEgcm9sZS4gKipUcnVzdCBwb2xpY3kqKiBpcyB0aGUgcG9saWN5IGF0dGFjaGVkIHRvIHRoYXQgcm9sZSB0aGF0IGNvbnRyb2xzIHdobyBpcyBhbGxvd2VkIHRvIGNhbGwgYHN0czpBc3N1bWVSb2xlYCBvbiBpdC4gTm90IGEgc2VwYXJhdGUgY29uY2VwdC4gSnVzdCBhIHBvbGljeSBnb3Zlcm5pbmcgb25lIHNwZWNpZmljIGFjdGlvbi4KClRoZSBleGFtcGxlcyBpbiB0aGlzIGFydGljbGUgYnVpbGQgdGhlc2UgcmVzb3VyY2VzOgoKfCBOYW1lIHwgVHlwZSB8IFB1cnBvc2UgfAp8LS0tfC0tLXwtLS18CnwgYHMzLXJlYWRlci1yb2xlYCB8IElBTSBSb2xlIHwgdGhlIHJvbGUgRUNTL0xhbWJkYSBhc3N1bWVzIHwKfCB0cnVzdCBwb2xpY3kgfCBQb2xpY3kgb24gdGhlIHJvbGUgfCBhbGxvd3MgYGVjcy5hbWF6b25hd3MuY29tYCBhbmQgYGxhbWJkYS5hbWF6b25hd3MuY29tYCB0byBjYWxsIGBzdHM6QXNzdW1lUm9sZWAgfAp8IGBzMy1yZWFkZXItcG9saWN5Lmpzb25gIHwgUGVybWlzc2lvbiBwb2xpY3kgYXR0YWNoZWQgdG8gdGhlIHJvbGUgfCBncmFudHMgYHMzOkdldE9iamVjdGAgYW5kIGBzMzpMaXN0QnVja2V0YCBvbiBgbXktYXBwLWFzc2V0c2AgfAoKLS0tCgpJQU0gdXNlcnMgYXR0YWNoIHRvIHBvbGljaWVzLiBQb2xpY2llcyBkZWZpbmUgd2hhdCBhY3Rpb25zIGFyZSBhbGxvd2VkIG9uIHdoaWNoIHJlc291cmNlcy4gU2ltcGxlLgoKVGhlbiAqKmFzc3VtZVJvbGUqKiBhbmQgKip0cnVzdCBwb2xpY3kqKiBzaG93IHVwLiBUd28gdGVybXMgc2l0dGluZyBvbiB0b3Agb2YgZXZlcnl0aGluZywgYW5kIHRoZSBkb2NzIGRvbid0IGV4cGxhaW4gd2h5IHRoZXkgZXhpc3QgYmVmb3JlIGV4cGxhaW5pbmcgaG93IHRoZXkgd29yay4KCiMjIHdoeSBub3QganVzdCB1c2UgSUFNIHVzZXJzCgpBbiBJQU0gdXNlciBoYXMgcGVybWFuZW50IGNyZWRlbnRpYWxzLiBBY2Nlc3Mga2V5LCBzZWNyZXQga2V5LiBUaGV5IHdvcmsgZm9yZXZlciB1bnRpbCBzb21lb25lIG1hbnVhbGx5IHJldm9rZXMgdGhlbS4KClRoaXMgYnJlYWtzIGluIHRocmVlIHdheXM6CgotIEEga2V5IGxlYWtzIGluIGEgZ2l0IGNvbW1pdC4gSXQgc3RheXMgdmFsaWQgdW50aWwgc29tZW9uZSBub3RpY2VzLgotIEEgcGFydG5lciB0ZWFtIGluIGFub3RoZXIgQVdTIGFjY291bnQgbmVlZHMgYWNjZXNzLiBOb3cgeW91J3JlIG1hbmFnaW5nIHNvbWVvbmUgZWxzZSdzIHBlcm1hbmVudCBpZGVudGl0eS4KLSBBbiBBV1Mgc2VydmljZSAoRUNTLCBMYW1iZGEpIG5lZWRzIHBlcm1pc3Npb25zLiBTZXJ2aWNlcyBhcmVuJ3QgdXNlcnMuIFRoZXkgY2FuJ3QgaG9sZCBwZXJtYW5lbnQga2V5cy4KCkFsbCB0aHJlZSBjYXNlcyBoYXZlIHRoZSBzYW1lIHNoYXBlOiAqKnNvbWV0aGluZyBuZWVkcyB0ZW1wb3JhcnksIHNjb3BlZCBhY2Nlc3MgaW5zdGVhZCBvZiBhIHBlcm1hbmVudCBrZXkuKioKCmFzc3VtZVJvbGUgcmV0dXJucyB0ZW1wb3JhcnkgY3JlZGVudGlhbHMgdGhhdCBleHBpcmUgb24gdGhlaXIgb3duLiBObyBjbGVhbnVwLgoKIyMgdGhlIHNpbXBsZSBwYXRoOiBBV1Mgc2VydmljZXMKCkVDUyBuZWVkcyB0byByZWFkIGZyb20gUzMuIFR3byBzdGVwcy4KCiMjIyBzdGVwIDE6IGNyZWF0ZSB0aGUgcm9sZSBhbmQgc2V0IHdobyBjYW4gYXNzdW1lIGl0CgpHbyB0byAqKklBTSA+IFJvbGVzID4gQ3JlYXRlIHJvbGUqKi4KCkZpcnN0IHRoaW5nIEFXUyBhc2tzOiAqKiJXaG8gd2lsbCB1c2UgdGhpcyByb2xlPyIqKiBTZWxlY3QgKipBV1Mgc2VydmljZSoqLCBwaWNrICoqRUNTKiouCgpUaGlzIGNyZWF0ZXMgdGhlICoqdHJ1c3QgcG9saWN5KiouIEl0J3Mgbm90IGEgc2VwYXJhdGUgdGhpbmcuIEl0J3MgYmFrZWQgaW50byB0aGUgcm9sZSBhdCBjcmVhdGlvbi4gWW91IGNhbiBzZWUgaXQgbGF0ZXIgdW5kZXIgdGhlICoqVHJ1c3QgcmVsYXRpb25zaGlwcyoqIHRhYjoKCmBgYGpzb24KewogICJWZXJzaW9uIjogIjIwMTItMTAtMTciLAogICJTdGF0ZW1lbnQiOiBbCiAgICB7CiAgICAgICJFZmZlY3QiOiAiQWxsb3ciLAogICAgICAiUHJpbmNpcGFsIjogewogICAgICAgICJTZXJ2aWNlIjogWyJlY3MuYW1hem9uYXdzLmNvbSIsICJsYW1iZGEuYW1hem9uYXdzLmNvbSJdCiAgICAgIH0sCiAgICAgICJBY3Rpb24iOiAic3RzOkFzc3VtZVJvbGUiCiAgICB9CiAgXQp9CmBgYAoKT25lIHJvbGUsIG9uZSB0cnVzdCBwb2xpY3kuIFRoZSBQcmluY2lwYWwgZmllbGQgYWNjZXB0cyBtdWx0aXBsZSBzZXJ2aWNlcyBpbiBhbiBhcnJheS4gTm8gbmVlZCB0byBjcmVhdGUgc2VwYXJhdGUgdHJ1c3QgcG9saWNpZXMuCgpOYW1lIHRoZSByb2xlIGBzMy1yZWFkZXItcm9sZWAuCgojIyMgc3RlcCAyOiBhdHRhY2ggcGVybWlzc2lvbnMgdG8gdGhlIHJvbGUKCk5leHQgc2NyZWVuLiBBdHRhY2ggYSAqKnBlcm1pc3Npb24gcG9saWN5KiogdGhhdCBkZWZpbmVzIHdoYXQgdGhpcyByb2xlIGNhbiBkby4gU2F2ZSB0aGUgZm9sbG93aW5nIGFzIGBzMy1yZWFkZXItcG9saWN5Lmpzb25gOgoKYGBganNvbgp7CiAgIlZlcnNpb24iOiAiMjAxMi0xMC0xNyIsCiAgIlN0YXRlbWVudCI6IFsKICAgIHsKICAgICAgIkVmZmVjdCI6ICJBbGxvdyIsCiAgICAgICJBY3Rpb24iOiBbInMzOkdldE9iamVjdCIsICJzMzpMaXN0QnVja2V0Il0sCiAgICAgICJSZXNvdXJjZSI6IFsKICAgICAgICAiYXJuOmF3czpzMzo6Om15LWFwcC1hc3NldHMiLAogICAgICAgICJhcm46YXdzOnMzOjo6bXktYXBwLWFzc2V0cy8qIgogICAgICBdCiAgICB9CiAgXQp9CmBgYAoKQXR0YWNoIHRoaXMgdG8gYHMzLXJlYWRlci1yb2xlYDoKCioqQ0xJOioqCgpgYGBiYXNoCmF3cyBpYW0gY3JlYXRlLXBvbGljeSBcCiAgLS1wb2xpY3ktbmFtZSBzMy1yZWFkZXItcG9saWN5IFwKICAtLXBvbGljeS1kb2N1bWVudCBmaWxlOi8vczMtcmVhZGVyLXBvbGljeS5qc29uCgphd3MgaWFtIGF0dGFjaC1yb2xlLXBvbGljeSBcCiAgLS1yb2xlLW5hbWUgczMtcmVhZGVyLXJvbGUgXAogIC0tcG9saWN5LWFybiBhcm46YXdzOmlhbTo6QUNDT1VOVC1JRDpwb2xpY3kvczMtcmVhZGVyLXBvbGljeQpgYGAKCioqQ29uc29sZToqKiBJQU0gPiBSb2xlcyA+IGBzMy1yZWFkZXItcm9sZWAgPiBQZXJtaXNzaW9ucyA+IEFkZCBwZXJtaXNzaW9ucyA+IEF0dGFjaCBwb2xpY2llcyA+IHNlbGVjdCBgczMtcmVhZGVyLXBvbGljeWAuCgpEb25lLiBHbyB0byB0aGUgRUNTIHRhc2sgZGVmaW5pdGlvbiwgc2V0IHRoZSAqKlRhc2sgUm9sZSoqIHRvIGBzMy1yZWFkZXItcm9sZWAuCgpBdCBydW50aW1lOiBFQ1MgdGFzayBzdGFydHMg4oaSIEVDUyBzZXJ2aWNlIGNhbGxzIGBzdHM6QXNzdW1lUm9sZWAg4oaSIFNUUyBjaGVja3MgdGhlIHRydXN0IHBvbGljeSwgZmluZHMgYGVjcy5hbWF6b25hd3MuY29tYCBsaXN0ZWQg4oaSIGdyYW50cyB0ZW1wb3JhcnkgY3JlZGVudGlhbHMgdG8gdGhlIHRhc2sg4oaSIHRhc2sgdXNlcyB0aG9zZSBjcmVkZW50aWFscyB0byBhY2Nlc3MgUzMuCgpObyB0aGlyZCBzdGVwLiBBV1Mgc2VydmljZXMgaGFuZGxlIHRoZSBhc3N1bWUgY2FsbCBpbnRlcm5hbGx5LgoKIyMjIHdoYXQgaWYgdGhlcmUncyBubyBhc3N1bWVSb2xlCgpXaXRob3V0IHJvbGVzLCB0aGUgcGVybWlzc2lvbnMgaGF2ZSB0byBsaXZlIG9uIHRoZSBTMyBzaWRlLiBUaGUgYnVja2V0IHBvbGljeSBsaXN0cyBldmVyeSBzZXJ2aWNlLCBldmVyeSBhY2NvdW50LCBldmVyeSB0YXNrIHRoYXQgbmVlZHMgYWNjZXNzOgoKYGBganNvbgp7CiAgIlZlcnNpb24iOiAiMjAxMi0xMC0xNyIsCiAgIlN0YXRlbWVudCI6IFsKICAgIHsKICAgICAgIkVmZmVjdCI6ICJBbGxvdyIsCiAgICAgICJQcmluY2lwYWwiOiB7CiAgICAgICAgIlNlcnZpY2UiOiAiZWNzLmFtYXpvbmF3cy5jb20iCiAgICAgIH0sCiAgICAgICJBY3Rpb24iOiBbInMzOkdldE9iamVjdCIsICJzMzpMaXN0QnVja2V0Il0sCiAgICAgICJSZXNvdXJjZSI6IFsKICAgICAgICAiYXJuOmF3czpzMzo6Om15LWFwcC1hc3NldHMiLAogICAgICAgICJhcm46YXdzOnMzOjo6bXktYXBwLWFzc2V0cy8qIgogICAgICBdCiAgICB9LAogICAgewogICAgICAiRWZmZWN0IjogIkFsbG93IiwKICAgICAgIlByaW5jaXBhbCI6IHsKICAgICAgICAiU2VydmljZSI6ICJsYW1iZGEuYW1hem9uYXdzLmNvbSIKICAgICAgfSwKICAgICAgIkFjdGlvbiI6IFsiczM6R2V0T2JqZWN0IiwgInMzOkxpc3RCdWNrZXQiXSwKICAgICAgIlJlc291cmNlIjogWwogICAgICAgICJhcm46YXdzOnMzOjo6bXktYXBwLWFzc2V0cyIsCiAgICAgICAgImFybjphd3M6czM6OjpteS1hcHAtYXNzZXRzLyoiCiAgICAgIF0KICAgIH0KICBdCn0KYGBgCgpFdmVyeSBuZXcgY29uc3VtZXIgbWVhbnMgYW5vdGhlciBTdGF0ZW1lbnQgYmxvY2sgb24gdGhlIGJ1Y2tldC4gVGVuIHNlcnZpY2VzIHJlYWRpbmcgUzMsIHRlbiBibG9ja3MuIEFuZCB0aGlzIGlzIGp1c3Qgb25lIGJ1Y2tldC4gTXVsdGlwbHkgYnkgZXZlcnkgcmVzb3VyY2UgdGhleSB0b3VjaC4KCldpdGggYXNzdW1lUm9sZSwgdGhlIGJ1Y2tldCBkb2Vzbid0IG5lZWQgdG8ga25vdyB3aG8ncyBjb21pbmcuIFRoZSByb2xlIGNhcnJpZXMgdGhlIHBlcm1pc3Npb25zLiBBZGQgYSBuZXcgc2VydmljZSB0byB0aGUgdHJ1c3QgcG9saWN5LCBpdCBpbmhlcml0cyB0aGUgc2FtZSBTMyBhY2Nlc3MuIFRoZSBidWNrZXQgcG9saWN5IHN0YXlzIHVudG91Y2hlZC4KCiMjIHRoZSBmdWxsIHBhdGg6IElBTSB1c2VycyBhbmQgY3Jvc3MtYWNjb3VudAoKQSBkZXZlbG9wZXIgaW4gYW5vdGhlciBBV1MgYWNjb3VudCBuZWVkcyB0byByZWFkIHlvdXIgUzMgYnVja2V0LiBUaHJlZSBzdGVwcy4KCiMjIyBzdGVwIDEgYW5kIDI6IHNhbWUgYXMgYWJvdmUKCkNyZWF0ZSB0aGUgcm9sZSwgc2V0IHRoZSB0cnVzdCBwb2xpY3kgdG8gdHJ1c3QgdGhlIG90aGVyIGFjY291bnQ6CgpgYGBqc29uCnsKICAiUHJpbmNpcGFsIjogewogICAgIkFXUyI6ICJhcm46YXdzOmlhbTo6T1RIRVItQUNDT1VOVC1JRDpyb290IgogIH0KfQpgYGAKCkF0dGFjaCBTMyByZWFkIHBlcm1pc3Npb25zLiBTYW1lIGFzIGJlZm9yZS4KCiMjIyBzdGVwIDM6IHRoZSBvdGhlciBzaWRlIGFsc28gbmVlZHMgcGVybWlzc2lvbgoKSW4gdGhlICoqb3RoZXIgYWNjb3VudCoqLCBnbyB0byAqKklBTSA+IFVzZXJzID4gW3RoZSB1c2VyXSA+IFBlcm1pc3Npb25zKiosIGFkZCBhIHBvbGljeToKCmBgYGpzb24KewogICJWZXJzaW9uIjogIjIwMTItMTAtMTciLAogICJTdGF0ZW1lbnQiOiBbCiAgICB7CiAgICAgICJFZmZlY3QiOiAiQWxsb3ciLAogICAgICAiQWN0aW9uIjogInN0czpBc3N1bWVSb2xlIiwKICAgICAgIlJlc291cmNlIjogImFybjphd3M6aWFtOjpZT1VSLUFDQ09VTlQtSUQ6cm9sZS9zMy1yZWFkZXItcm9sZSIKICAgIH0KICBdCn0KYGBgCgpUaGlzIGlzIHRoZSBleHRyYSBzdGVwIHRoYXQgQVdTIHNlcnZpY2VzIGRvbid0IG5lZWQuIEEgaHVtYW4gKG9yIHRoZWlyIHNjcmlwdHMpIGhhcyB0byBwcm92ZSB0aGV5J3JlIGFsbG93ZWQgdG8gYXNrLgoKKipCb3RoIHNpZGVzIG11c3QgYWdyZWUuKiogVGhlIHJvbGUgc2F5cyAiSSB0cnVzdCB0aGlzIGFjY291bnQiICh0cnVzdCBwb2xpY3kpLiBUaGUgdXNlciBzYXlzICJJJ20gYWxsb3dlZCB0byBhc3N1bWUgdGhpcyByb2xlIiAodXNlciBwb2xpY3kpLiBFaXRoZXIgc2lkZSBzYXlzIG5vLCBhY2Nlc3MgZGVuaWVkLgoKU2FtZSBydW50aW1lIGZsb3cgYXMgYWJvdmU6IHRoZSB1c2VyIGNhbGxzIGBzdHM6QXNzdW1lUm9sZWAsIFNUUyBjaGVja3MgYm90aCBzaWRlcywgYW5kIHJldHVybnMgdGVtcG9yYXJ5IGNyZWRlbnRpYWxzIChkZWZhdWx0OiBvbmUgaG91cikuCgojIyB0aGUgbWVudGFsIG1vZGVsCgpBbiBJQU0gdXNlciB3aXRoIHBlcm1hbmVudCBrZXlzIGlzIGEgaG91c2Uga2V5LiBXb3JrcyBmb3JldmVyIHVudGlsIHRoZSBsb2NrcyBjaGFuZ2UuCgphc3N1bWVSb2xlIGlzIGEgaG90ZWwga2V5IGNhcmQuIE9wZW5zIG9uZSByb29tLCBmb3Igb25lIG5pZ2h0LCBzdG9wcyB3b3JraW5nIGF0IGNoZWNrb3V0LgoKKipUcnVzdCBwb2xpY3kqKiA9IHRoZSBob3RlbCdzIGd1ZXN0IGxpc3QgKHdobyBjYW4gY2hlY2sgaW4pCioqVXNlciBwb2xpY3kqKiA9IHRoZSByZXNlcnZhdGlvbiAocHJvb2YgdGhlIGd1ZXN0IGlzIGFsbG93ZWQgdG8gYXNrIGZvciBhIHJvb20pCioqVGVtcG9yYXJ5IGNyZWRlbnRpYWxzKiogPSB0aGUga2V5IGNhcmQgKHdvcmtzIGZvciBhIGxpbWl0ZWQgdGltZSwgdGhlbiBkaWVzKQo=9:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L14",null,{"htmlContent":"$15","rawContent":"$16","base64Content":"$17","title":"assumeRole and trust policy: why IAM users aren't enough","createdAt":"2025-11-05T23:48:00.000Z","updatedAt":"$undefined","tags":["aws","iam"],"altHtmlContent":"$undefined","currentLang":"$undefined","altLang":"$undefined"}]}]}]
+d:{"metadata":[["$","title","0",{"children":"assumeRole and trust policy: why IAM users aren't enough  | jialinhuang"}],["$","meta","1",{"name":"description","content":"IAM users and policies seem like the whole story. Then assumeRole and trust policies show up and nothing makes sense."}]],"error":null,"digest":"$undefined"}
+12:"$d:metadata"

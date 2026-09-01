@@ -1,0 +1,540 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"default"]
+4:I[47843,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"default"]
+5:I[48350,[],""]
+6:I[11412,[],""]
+7:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+8:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-5f5d0eb30b97fa1b.js"],"default"]
+a:I[96727,[],"OutletBoundary"]
+c:I[14038,[],"AsyncMetadataOutlet"]
+e:I[96727,[],"ViewportBoundary"]
+10:I[96727,[],"MetadataBoundary"]
+11:"$Sreact.suspense"
+13:I[92950,[],""]
+:HL["/_next/static/media/4c9affa5bc8f420e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/6e5637a05e39a1b1.css","style"]
+:HL["/_next/static/css/27451c99e2657f58.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/004145cbd0a33204.css","style"]
+0:{"P":null,"b":"ULvxUWnH7J2D9qudU--bA","p":"","c":["","v2","markdown-style-template"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","markdown-style-template","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6e5637a05e39a1b1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/27451c99e2657f58.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L8",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","markdown-style-template","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/004145cbd0a33204.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$La",null,{"children":["$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L10",null,{"children":["$","div",null,{"hidden":true,"children":["$","$11",null,{"fallback":null,"children":"$L12"}]}]}]]}],false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+b:null
+14:I[25885,["7654","static/chunks/7654-339fd591b7f76774.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+15:T9e25,<p>This page exists to test every markdown element. If it looks right here, it looks right everywhere.</p>
+<hr>
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
+<h6>Heading 6</h6>
+<hr>
+<h2>Inline styles</h2>
+<p>This is <strong>bold</strong>, this is <em>italic</em>, this is <del>strikethrough</del>, and this is <code>inline code</code>. You can also combine <strong>bold and <em>italic</em></strong> together.</p>
+<p>Here's a <a href="https://github.com">link to GitHub</a> and an auto-linked URL: <a href="https://example.com">https://example.com</a></p>
+<hr>
+<h2>Blockquote</h2>
+<blockquote>
+<p>The best way to predict the future is to invent it.</p>
+<p>— Alan Kay</p>
+</blockquote>
+<p>Nested:</p>
+<blockquote>
+<p>First level</p>
+<blockquote>
+<p>Second level</p>
+<blockquote>
+<p>Third level</p>
+</blockquote>
+</blockquote>
+</blockquote>
+<hr>
+<h2>Lists</h2>
+<h3>Unordered</h3>
+<ul>
+<li>containerd</li>
+<li>CRI-O</li>
+<li>Docker Engine
+<ul>
+<li>dockershim (removed)</li>
+<li>cri-dockerd (replacement)</li>
+</ul>
+</li>
+<li>runc
+<ul>
+<li>gVisor (runsc)</li>
+<li>kata-runtime</li>
+</ul>
+</li>
+</ul>
+<h3>Ordered</h3>
+<ol>
+<li>Define the interface (CRI)</li>
+<li>Implement the interface (containerd, CRI-O)</li>
+<li>Remove the shim (dockershim)</li>
+<li>Profit</li>
+</ol>
+<h3>Task list</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" checked disabled> Define CRI</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> Implement containerd CRI plugin</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> Remove dockershim</li>
+<li class="task-list-item"><input type="checkbox" disabled> World domination</li>
+</ul>
+<hr>
+<h2>Table</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Runtime</th><th>Type</th><th>CRI</th><th>OCI</th><th>Notes</th></tr></thead><tbody><tr><td>containerd</td><td>High-level</td><td>Yes</td><td>Yes</td><td>Default for K8s</td></tr><tr><td>CRI-O</td><td>High-level</td><td>Yes</td><td>Yes</td><td>OpenShift default</td></tr><tr><td>runc</td><td>Low-level</td><td>No</td><td>Yes</td><td>Standard OCI runtime</td></tr><tr><td>gVisor</td><td>Low-level</td><td>No</td><td>Yes</td><td>User-space kernel</td></tr><tr><td>kata</td><td>Low-level</td><td>No</td><td>Yes</td><td>Lightweight VM</td></tr></tbody></table>
+<hr>
+<h2>Code blocks — FizzBuzz (LeetCode #412)</h2>
+<h3>Bash</h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">#!/bin/bash</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">for</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">in</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> $(</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">seq</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 1</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 15</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">); </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">do</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (( i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">%</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 15</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> ==</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> )); </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">then</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">    echo</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> "FizzBuzz"</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  elif</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (( i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">%</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 3</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> ==</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> )); </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">then</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">    echo</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> "Fizz"</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  elif</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (( i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">%</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 5</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> ==</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> )); </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">then</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">    echo</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> "Buzz"</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  else</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">    echo</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> "</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">$i</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  fi</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">done</span></span></code></pre></figure>
+<h3>TypeScript</h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="typescript" data-theme="github-dark github-light"><code data-language="typescript" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> fizzBuzz</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">n</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> number</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> string</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">[] {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> result</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> string</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">[] </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> [];</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  for</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">let</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 1</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">; i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">&#x3C;=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> n; i</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">++</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">%</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 15</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> ===</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) result.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">push</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"FizzBuzz"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    else</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">%</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 3</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> ===</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) result.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">push</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Fizz"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    else</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">%</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 5</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> ===</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) result.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">push</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Buzz"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    else</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> result.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">push</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">String</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(i));</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  }</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> result;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<h3>JavaScript</h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="javascript" data-theme="github-dark github-light"><code data-language="javascript" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> fizzBuzz</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">n</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> Array.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">from</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">({ length: n }, (</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">_</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">i</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> num</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">+</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 1</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">;</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (num </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">%</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 15</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> ===</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">return</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> "FizzBuzz"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">;</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (num </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">%</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 3</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> ===</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">return</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> "Fizz"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">;</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (num </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">%</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 5</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> ===</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">return</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> "Buzz"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">;</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    return</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> String</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(num);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  });</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">};</span></span></code></pre></figure>
+<h3>C#</h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="csharp" data-theme="github-dark github-light"><code data-language="csharp" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">public</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> class</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> Solution</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    public</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> IList</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">string</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">> </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">FizzBuzz</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">int</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> n</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">        var</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> result</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> new</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> List</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">string</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">>();</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">        for</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">int</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> i</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 1</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">; i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">&#x3C;=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> n; i</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">++</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">            if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">%</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 15</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> ==</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) result.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Add</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"FizzBuzz"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">            else</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">%</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 3</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> ==</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) result.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Add</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Fizz"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">            else</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">%</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 5</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> ==</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) result.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Add</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Buzz"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">            else</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> result.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Add</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(i.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">ToString</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">());</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">        }</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">        return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> result;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<h3>Java</h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="java" data-theme="github-dark github-light"><code data-language="java" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">class</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> Solution</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    public</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> List&#x3C;</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">String</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">> </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">fizzBuzz</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">int</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209"> n</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">        List&#x3C;</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">String</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">> result </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> new</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> ArrayList&#x3C;>();</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">        for</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">int</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 1</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">; i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">&#x3C;=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> n; i</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">++</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">            if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">%</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 15</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> ==</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) result.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">add</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"FizzBuzz"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">            else</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">%</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 3</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> ==</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) result.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">add</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Fizz"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">            else</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">%</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 5</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> ==</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) result.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">add</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Buzz"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">            else</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> result.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">add</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(String.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">valueOf</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(i));</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">        }</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">        return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> result;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<h3>Go</h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="go" data-theme="github-dark github-light"><code data-language="go" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">func</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> fizzBuzz</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">n</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> int</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) []</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">string</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">	result </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:=</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> make</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">([]</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">string</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, n)</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">	for</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:=</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 1</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">; i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">&#x3C;=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> n; i</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">++</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">		switch</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">		case</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> i</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">%</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">15</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> ==</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">			result </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> append</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(result, </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"FizzBuzz"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">		case</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> i</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">%</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">3</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> ==</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">			result </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> append</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(result, </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Fizz"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">		case</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> i</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">%</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">5</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> ==</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">			result </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> append</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(result, </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Buzz"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">		default</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">			result </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> append</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(result, strconv.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Itoa</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(i))</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">		}</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">	}</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">	return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> result</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<hr>
+<h2>Plain code block (no language)</h2>
+<pre><code>kubelet → containerd → runc → container
+</code></pre>
+<hr>
+<h2>Horizontal rules</h2>
+<p>Three styles, all render the same:</p>
+<hr>
+<hr>
+<hr>
+<hr>
+<h2>Image</h2>
+<p><img src="https://via.placeholder.com/600x200/1c1c2e/5fdfdb?text=markdown+style+template" alt="placeholder"></p>
+<hr>
+<h2>Footnote</h2>
+<p>This is a sentence with a footnote<sup><a href="#user-content-fn-1" id="user-content-fnref-1" data-footnote-ref="" aria-describedby="footnote-label">1</a></sup>.</p>
+<hr>
+<h2>Math (if supported)</h2>
+<p>Inline: <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>E</mi><mo>=</mo><mi>m</mi><msup><mi>c</mi><mn>2</mn></msup></mrow><annotation encoding="application/x-tex">E = mc^2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.05764em;">E</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord mathnormal">m</span><span class="mord"><span class="mord mathnormal">c</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span></p>
+<p>Block:</p>
+<span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><munderover><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>n</mi></munderover><mi>i</mi><mo>=</mo><mfrac><mrow><mi>n</mi><mo stretchy="false">(</mo><mi>n</mi><mo>+</mo><mn>1</mn><mo stretchy="false">)</mo></mrow><mn>2</mn></mfrac></mrow><annotation encoding="application/x-tex">\sum_{i=1}^{n} i = \frac{n(n+1)}{2}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.9291em;vertical-align:-1.2777em;"></span><span class="mop op-limits"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.6514em;"><span style="top:-1.8723em;margin-left:0em;"><span class="pstrut" style="height:3.05em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">i</span><span class="mrel mtight">=</span><span class="mord mtight">1</span></span></span></span><span style="top:-3.05em;"><span class="pstrut" style="height:3.05em;"></span><span><span class="mop op-symbol large-op">∑</span></span></span><span style="top:-4.3em;margin-left:0em;"><span class="pstrut" style="height:3.05em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">n</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:1.2777em;"><span></span></span></span></span></span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord mathnormal">i</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:2.113em;vertical-align:-0.686em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.427em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">2</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">n</span><span class="mopen">(</span><span class="mord mathnormal">n</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mord">1</span><span class="mclose">)</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></span>
+<hr>
+<h2>Mermaid</h2>
+<pre class="mermaid">flowchart LR
+  A[kubelet] --> B[containerd]
+  B --> C[runc]
+  C --> D[container]
+  B --> E[gVisor]
+  B --> F[kata-runtime]
+</pre>
+<pre class="mermaid">sequenceDiagram
+  participant U as User
+  participant K as kubelet
+  participant C as containerd
+  participant R as runc
+  U->>K: kubectl run nginx
+  K->>C: CRI CreateContainer
+  C->>R: OCI bundle
+  R-->>C: PID
+  C-->>K: container ready
+  K-->>U: pod Running
+</pre>
+<hr>
+<h2>Summary / Details</h2>
+<details>
+<summary>Click to expand</summary>
+<p>Hidden content here. Supports <strong>markdown</strong> inside.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="typescript" data-theme="github-dark github-light"><code data-language="typescript" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"revealed!"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span></code></pre></figure>
+</details>
+<section data-footnotes="" class="footnotes"><h2 class="sr-only" id="footnote-label">Footnotes</h2>
+<ol>
+<li id="user-content-fn-1">
+<p>This is the footnote content. <a href="#user-content-fnref-1" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+</li>
+</ol>
+</section>16:T11e1,
+This page exists to test every markdown element. If it looks right here, it looks right everywhere.
+
+---
+
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+
+---
+
+## Inline styles
+
+This is **bold**, this is *italic*, this is ~~strikethrough~~, and this is `inline code`. You can also combine **bold and *italic*** together.
+
+Here's a [link to GitHub](https://github.com) and an auto-linked URL: https://example.com
+
+---
+
+## Blockquote
+
+> The best way to predict the future is to invent it.
+>
+> — Alan Kay
+
+Nested:
+
+> First level
+>
+> > Second level
+> >
+> > > Third level
+
+---
+
+## Lists
+
+### Unordered
+
+- containerd
+- CRI-O
+- Docker Engine
+  - dockershim (removed)
+  - cri-dockerd (replacement)
+- runc
+  - gVisor (runsc)
+  - kata-runtime
+
+### Ordered
+
+1. Define the interface (CRI)
+2. Implement the interface (containerd, CRI-O)
+3. Remove the shim (dockershim)
+4. Profit
+
+### Task list
+
+- [x] Define CRI
+- [x] Implement containerd CRI plugin
+- [x] Remove dockershim
+- [ ] World domination
+
+---
+
+## Table
+
+| Runtime | Type | CRI | OCI | Notes |
+|---------|------|-----|-----|-------|
+| containerd | High-level | Yes | Yes | Default for K8s |
+| CRI-O | High-level | Yes | Yes | OpenShift default |
+| runc | Low-level | No | Yes | Standard OCI runtime |
+| gVisor | Low-level | No | Yes | User-space kernel |
+| kata | Low-level | No | Yes | Lightweight VM |
+
+---
+
+## Code blocks — FizzBuzz (LeetCode #412)
+
+### Bash
+
+```bash
+#!/bin/bash
+for i in $(seq 1 15); do
+  if (( i % 15 == 0 )); then
+    echo "FizzBuzz"
+  elif (( i % 3 == 0 )); then
+    echo "Fizz"
+  elif (( i % 5 == 0 )); then
+    echo "Buzz"
+  else
+    echo "$i"
+  fi
+done
+```
+
+### TypeScript
+
+```typescript
+function fizzBuzz(n: number): string[] {
+  const result: string[] = [];
+  for (let i = 1; i <= n; i++) {
+    if (i % 15 === 0) result.push("FizzBuzz");
+    else if (i % 3 === 0) result.push("Fizz");
+    else if (i % 5 === 0) result.push("Buzz");
+    else result.push(String(i));
+  }
+  return result;
+}
+```
+
+### JavaScript
+
+```javascript
+const fizzBuzz = (n) => {
+  return Array.from({ length: n }, (_, i) => {
+    const num = i + 1;
+    if (num % 15 === 0) return "FizzBuzz";
+    if (num % 3 === 0) return "Fizz";
+    if (num % 5 === 0) return "Buzz";
+    return String(num);
+  });
+};
+```
+
+### C#
+
+```csharp
+public class Solution {
+    public IList<string> FizzBuzz(int n) {
+        var result = new List<string>();
+        for (int i = 1; i <= n; i++) {
+            if (i % 15 == 0) result.Add("FizzBuzz");
+            else if (i % 3 == 0) result.Add("Fizz");
+            else if (i % 5 == 0) result.Add("Buzz");
+            else result.Add(i.ToString());
+        }
+        return result;
+    }
+}
+```
+
+### Java
+
+```java
+class Solution {
+    public List<String> fizzBuzz(int n) {
+        List<String> result = new ArrayList<>();
+        for (int i = 1; i <= n; i++) {
+            if (i % 15 == 0) result.add("FizzBuzz");
+            else if (i % 3 == 0) result.add("Fizz");
+            else if (i % 5 == 0) result.add("Buzz");
+            else result.add(String.valueOf(i));
+        }
+        return result;
+    }
+}
+```
+
+### Go
+
+```go
+func fizzBuzz(n int) []string {
+	result := make([]string, 0, n)
+	for i := 1; i <= n; i++ {
+		switch {
+		case i%15 == 0:
+			result = append(result, "FizzBuzz")
+		case i%3 == 0:
+			result = append(result, "Fizz")
+		case i%5 == 0:
+			result = append(result, "Buzz")
+		default:
+			result = append(result, strconv.Itoa(i))
+		}
+	}
+	return result
+}
+```
+
+---
+
+## Plain code block (no language)
+
+```
+kubelet → containerd → runc → container
+```
+
+---
+
+## Horizontal rules
+
+Three styles, all render the same:
+
+---
+
+***
+
+___
+
+---
+
+## Image
+
+![placeholder](https://via.placeholder.com/600x200/1c1c2e/5fdfdb?text=markdown+style+template)
+
+---
+
+## Footnote
+
+This is a sentence with a footnote[^1].
+
+[^1]: This is the footnote content.
+
+---
+
+## Math (if supported)
+
+Inline: $E = mc^2$
+
+Block:
+
+$$
+\sum_{i=1}^{n} i = \frac{n(n+1)}{2}
+$$
+
+---
+
+## Mermaid
+
+```mermaid
+flowchart LR
+  A[kubelet] --> B[containerd]
+  B --> C[runc]
+  C --> D[container]
+  B --> E[gVisor]
+  B --> F[kata-runtime]
+```
+
+```mermaid
+sequenceDiagram
+  participant U as User
+  participant K as kubelet
+  participant C as containerd
+  participant R as runc
+  U->>K: kubectl run nginx
+  K->>C: CRI CreateContainer
+  C->>R: OCI bundle
+  R-->>C: PID
+  C-->>K: container ready
+  K-->>U: pod Running
+```
+
+---
+
+## Summary / Details
+
+<details>
+<summary>Click to expand</summary>
+
+Hidden content here. Supports **markdown** inside.
+
+```typescript
+console.log("revealed!");
+```
+
+</details>
+17:T18c8,LS0tCnRpdGxlOiBNYXJrZG93biBTdHlsZSBUZW1wbGF0ZQpjcmVhdGVkQXQ6IDIwMjYtMDItMjAKdGFnczogW3RlbXBsYXRlLCBzdHlsZV0KZGVzY3JpcHRpb246IEEgdGVtcGxhdGUgZm9yIHRlc3RpbmcgYW5kIHR1bmluZyBtYXJrZG93biByZW5kZXJpbmcgYWNyb3NzIGFsbCBjb21tb24gZWxlbWVudHMuCi0tLQoKVGhpcyBwYWdlIGV4aXN0cyB0byB0ZXN0IGV2ZXJ5IG1hcmtkb3duIGVsZW1lbnQuIElmIGl0IGxvb2tzIHJpZ2h0IGhlcmUsIGl0IGxvb2tzIHJpZ2h0IGV2ZXJ5d2hlcmUuCgotLS0KCiMgSGVhZGluZyAxCiMjIEhlYWRpbmcgMgojIyMgSGVhZGluZyAzCiMjIyMgSGVhZGluZyA0CiMjIyMjIEhlYWRpbmcgNQojIyMjIyMgSGVhZGluZyA2CgotLS0KCiMjIElubGluZSBzdHlsZXMKClRoaXMgaXMgKipib2xkKiosIHRoaXMgaXMgKml0YWxpYyosIHRoaXMgaXMgfn5zdHJpa2V0aHJvdWdofn4sIGFuZCB0aGlzIGlzIGBpbmxpbmUgY29kZWAuIFlvdSBjYW4gYWxzbyBjb21iaW5lICoqYm9sZCBhbmQgKml0YWxpYyoqKiB0b2dldGhlci4KCkhlcmUncyBhIFtsaW5rIHRvIEdpdEh1Yl0oaHR0cHM6Ly9naXRodWIuY29tKSBhbmQgYW4gYXV0by1saW5rZWQgVVJMOiBodHRwczovL2V4YW1wbGUuY29tCgotLS0KCiMjIEJsb2NrcXVvdGUKCj4gVGhlIGJlc3Qgd2F5IHRvIHByZWRpY3QgdGhlIGZ1dHVyZSBpcyB0byBpbnZlbnQgaXQuCj4KPiDigJQgQWxhbiBLYXkKCk5lc3RlZDoKCj4gRmlyc3QgbGV2ZWwKPgo+ID4gU2Vjb25kIGxldmVsCj4gPgo+ID4gPiBUaGlyZCBsZXZlbAoKLS0tCgojIyBMaXN0cwoKIyMjIFVub3JkZXJlZAoKLSBjb250YWluZXJkCi0gQ1JJLU8KLSBEb2NrZXIgRW5naW5lCiAgLSBkb2NrZXJzaGltIChyZW1vdmVkKQogIC0gY3JpLWRvY2tlcmQgKHJlcGxhY2VtZW50KQotIHJ1bmMKICAtIGdWaXNvciAocnVuc2MpCiAgLSBrYXRhLXJ1bnRpbWUKCiMjIyBPcmRlcmVkCgoxLiBEZWZpbmUgdGhlIGludGVyZmFjZSAoQ1JJKQoyLiBJbXBsZW1lbnQgdGhlIGludGVyZmFjZSAoY29udGFpbmVyZCwgQ1JJLU8pCjMuIFJlbW92ZSB0aGUgc2hpbSAoZG9ja2Vyc2hpbSkKNC4gUHJvZml0CgojIyMgVGFzayBsaXN0CgotIFt4XSBEZWZpbmUgQ1JJCi0gW3hdIEltcGxlbWVudCBjb250YWluZXJkIENSSSBwbHVnaW4KLSBbeF0gUmVtb3ZlIGRvY2tlcnNoaW0KLSBbIF0gV29ybGQgZG9taW5hdGlvbgoKLS0tCgojIyBUYWJsZQoKfCBSdW50aW1lIHwgVHlwZSB8IENSSSB8IE9DSSB8IE5vdGVzIHwKfC0tLS0tLS0tLXwtLS0tLS18LS0tLS18LS0tLS18LS0tLS0tLXwKfCBjb250YWluZXJkIHwgSGlnaC1sZXZlbCB8IFllcyB8IFllcyB8IERlZmF1bHQgZm9yIEs4cyB8CnwgQ1JJLU8gfCBIaWdoLWxldmVsIHwgWWVzIHwgWWVzIHwgT3BlblNoaWZ0IGRlZmF1bHQgfAp8IHJ1bmMgfCBMb3ctbGV2ZWwgfCBObyB8IFllcyB8IFN0YW5kYXJkIE9DSSBydW50aW1lIHwKfCBnVmlzb3IgfCBMb3ctbGV2ZWwgfCBObyB8IFllcyB8IFVzZXItc3BhY2Uga2VybmVsIHwKfCBrYXRhIHwgTG93LWxldmVsIHwgTm8gfCBZZXMgfCBMaWdodHdlaWdodCBWTSB8CgotLS0KCiMjIENvZGUgYmxvY2tzIOKAlCBGaXp6QnV6eiAoTGVldENvZGUgIzQxMikKCiMjIyBCYXNoCgpgYGBiYXNoCiMhL2Jpbi9iYXNoCmZvciBpIGluICQoc2VxIDEgMTUpOyBkbwogIGlmICgoIGkgJSAxNSA9PSAwICkpOyB0aGVuCiAgICBlY2hvICJGaXp6QnV6eiIKICBlbGlmICgoIGkgJSAzID09IDAgKSk7IHRoZW4KICAgIGVjaG8gIkZpenoiCiAgZWxpZiAoKCBpICUgNSA9PSAwICkpOyB0aGVuCiAgICBlY2hvICJCdXp6IgogIGVsc2UKICAgIGVjaG8gIiRpIgogIGZpCmRvbmUKYGBgCgojIyMgVHlwZVNjcmlwdAoKYGBgdHlwZXNjcmlwdApmdW5jdGlvbiBmaXp6QnV6eihuOiBudW1iZXIpOiBzdHJpbmdbXSB7CiAgY29uc3QgcmVzdWx0OiBzdHJpbmdbXSA9IFtdOwogIGZvciAobGV0IGkgPSAxOyBpIDw9IG47IGkrKykgewogICAgaWYgKGkgJSAxNSA9PT0gMCkgcmVzdWx0LnB1c2goIkZpenpCdXp6Iik7CiAgICBlbHNlIGlmIChpICUgMyA9PT0gMCkgcmVzdWx0LnB1c2goIkZpenoiKTsKICAgIGVsc2UgaWYgKGkgJSA1ID09PSAwKSByZXN1bHQucHVzaCgiQnV6eiIpOwogICAgZWxzZSByZXN1bHQucHVzaChTdHJpbmcoaSkpOwogIH0KICByZXR1cm4gcmVzdWx0Owp9CmBgYAoKIyMjIEphdmFTY3JpcHQKCmBgYGphdmFzY3JpcHQKY29uc3QgZml6ekJ1enogPSAobikgPT4gewogIHJldHVybiBBcnJheS5mcm9tKHsgbGVuZ3RoOiBuIH0sIChfLCBpKSA9PiB7CiAgICBjb25zdCBudW0gPSBpICsgMTsKICAgIGlmIChudW0gJSAxNSA9PT0gMCkgcmV0dXJuICJGaXp6QnV6eiI7CiAgICBpZiAobnVtICUgMyA9PT0gMCkgcmV0dXJuICJGaXp6IjsKICAgIGlmIChudW0gJSA1ID09PSAwKSByZXR1cm4gIkJ1enoiOwogICAgcmV0dXJuIFN0cmluZyhudW0pOwogIH0pOwp9OwpgYGAKCiMjIyBDIwoKYGBgY3NoYXJwCnB1YmxpYyBjbGFzcyBTb2x1dGlvbiB7CiAgICBwdWJsaWMgSUxpc3Q8c3RyaW5nPiBGaXp6QnV6eihpbnQgbikgewogICAgICAgIHZhciByZXN1bHQgPSBuZXcgTGlzdDxzdHJpbmc+KCk7CiAgICAgICAgZm9yIChpbnQgaSA9IDE7IGkgPD0gbjsgaSsrKSB7CiAgICAgICAgICAgIGlmIChpICUgMTUgPT0gMCkgcmVzdWx0LkFkZCgiRml6ekJ1enoiKTsKICAgICAgICAgICAgZWxzZSBpZiAoaSAlIDMgPT0gMCkgcmVzdWx0LkFkZCgiRml6eiIpOwogICAgICAgICAgICBlbHNlIGlmIChpICUgNSA9PSAwKSByZXN1bHQuQWRkKCJCdXp6Iik7CiAgICAgICAgICAgIGVsc2UgcmVzdWx0LkFkZChpLlRvU3RyaW5nKCkpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgfQp9CmBgYAoKIyMjIEphdmEKCmBgYGphdmEKY2xhc3MgU29sdXRpb24gewogICAgcHVibGljIExpc3Q8U3RyaW5nPiBmaXp6QnV6eihpbnQgbikgewogICAgICAgIExpc3Q8U3RyaW5nPiByZXN1bHQgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBmb3IgKGludCBpID0gMTsgaSA8PSBuOyBpKyspIHsKICAgICAgICAgICAgaWYgKGkgJSAxNSA9PSAwKSByZXN1bHQuYWRkKCJGaXp6QnV6eiIpOwogICAgICAgICAgICBlbHNlIGlmIChpICUgMyA9PSAwKSByZXN1bHQuYWRkKCJGaXp6Iik7CiAgICAgICAgICAgIGVsc2UgaWYgKGkgJSA1ID09IDApIHJlc3VsdC5hZGQoIkJ1enoiKTsKICAgICAgICAgICAgZWxzZSByZXN1bHQuYWRkKFN0cmluZy52YWx1ZU9mKGkpKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgIH0KfQpgYGAKCiMjIyBHbwoKYGBgZ28KZnVuYyBmaXp6QnV6eihuIGludCkgW11zdHJpbmcgewoJcmVzdWx0IDo9IG1ha2UoW11zdHJpbmcsIDAsIG4pCglmb3IgaSA6PSAxOyBpIDw9IG47IGkrKyB7CgkJc3dpdGNoIHsKCQljYXNlIGklMTUgPT0gMDoKCQkJcmVzdWx0ID0gYXBwZW5kKHJlc3VsdCwgIkZpenpCdXp6IikKCQljYXNlIGklMyA9PSAwOgoJCQlyZXN1bHQgPSBhcHBlbmQocmVzdWx0LCAiRml6eiIpCgkJY2FzZSBpJTUgPT0gMDoKCQkJcmVzdWx0ID0gYXBwZW5kKHJlc3VsdCwgIkJ1enoiKQoJCWRlZmF1bHQ6CgkJCXJlc3VsdCA9IGFwcGVuZChyZXN1bHQsIHN0cmNvbnYuSXRvYShpKSkKCQl9Cgl9CglyZXR1cm4gcmVzdWx0Cn0KYGBgCgotLS0KCiMjIFBsYWluIGNvZGUgYmxvY2sgKG5vIGxhbmd1YWdlKQoKYGBgCmt1YmVsZXQg4oaSIGNvbnRhaW5lcmQg4oaSIHJ1bmMg4oaSIGNvbnRhaW5lcgpgYGAKCi0tLQoKIyMgSG9yaXpvbnRhbCBydWxlcwoKVGhyZWUgc3R5bGVzLCBhbGwgcmVuZGVyIHRoZSBzYW1lOgoKLS0tCgoqKioKCl9fXwoKLS0tCgojIyBJbWFnZQoKIVtwbGFjZWhvbGRlcl0oaHR0cHM6Ly92aWEucGxhY2Vob2xkZXIuY29tLzYwMHgyMDAvMWMxYzJlLzVmZGZkYj90ZXh0PW1hcmtkb3duK3N0eWxlK3RlbXBsYXRlKQoKLS0tCgojIyBGb290bm90ZQoKVGhpcyBpcyBhIHNlbnRlbmNlIHdpdGggYSBmb290bm90ZVteMV0uCgpbXjFdOiBUaGlzIGlzIHRoZSBmb290bm90ZSBjb250ZW50LgoKLS0tCgojIyBNYXRoIChpZiBzdXBwb3J0ZWQpCgpJbmxpbmU6ICRFID0gbWNeMiQKCkJsb2NrOgoKJCQKXHN1bV97aT0xfV57bn0gaSA9IFxmcmFje24obisxKX17Mn0KJCQKCi0tLQoKIyMgTWVybWFpZAoKYGBgbWVybWFpZApmbG93Y2hhcnQgTFIKICBBW2t1YmVsZXRdIC0tPiBCW2NvbnRhaW5lcmRdCiAgQiAtLT4gQ1tydW5jXQogIEMgLS0+IERbY29udGFpbmVyXQogIEIgLS0+IEVbZ1Zpc29yXQogIEIgLS0+IEZba2F0YS1ydW50aW1lXQpgYGAKCmBgYG1lcm1haWQKc2VxdWVuY2VEaWFncmFtCiAgcGFydGljaXBhbnQgVSBhcyBVc2VyCiAgcGFydGljaXBhbnQgSyBhcyBrdWJlbGV0CiAgcGFydGljaXBhbnQgQyBhcyBjb250YWluZXJkCiAgcGFydGljaXBhbnQgUiBhcyBydW5jCiAgVS0+Pks6IGt1YmVjdGwgcnVuIG5naW54CiAgSy0+PkM6IENSSSBDcmVhdGVDb250YWluZXIKICBDLT4+UjogT0NJIGJ1bmRsZQogIFItLT4+QzogUElECiAgQy0tPj5LOiBjb250YWluZXIgcmVhZHkKICBLLS0+PlU6IHBvZCBSdW5uaW5nCmBgYAoKLS0tCgojIyBTdW1tYXJ5IC8gRGV0YWlscwoKPGRldGFpbHM+CjxzdW1tYXJ5PkNsaWNrIHRvIGV4cGFuZDwvc3VtbWFyeT4KCkhpZGRlbiBjb250ZW50IGhlcmUuIFN1cHBvcnRzICoqbWFya2Rvd24qKiBpbnNpZGUuCgpgYGB0eXBlc2NyaXB0CmNvbnNvbGUubG9nKCJyZXZlYWxlZCEiKTsKYGBgCgo8L2RldGFpbHM+Cg==9:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L14",null,{"htmlContent":"$15","rawContent":"$16","base64Content":"$17","title":"Markdown Style Template","createdAt":"$undefined","updatedAt":"$undefined","tags":["template","style"],"altHtmlContent":"$undefined","currentLang":"$undefined","altLang":"$undefined"}]}]}]
+d:{"metadata":[["$","title","0",{"children":"Markdown Style Template  | jialinhuang"}],["$","meta","1",{"name":"description","content":"A template for testing and tuning markdown rendering across all common elements."}]],"error":null,"digest":"$undefined"}
+12:"$d:metadata"

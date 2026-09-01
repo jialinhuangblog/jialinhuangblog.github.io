@@ -1,0 +1,182 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"default"]
+4:I[47843,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"default"]
+5:I[48350,[],""]
+6:I[11412,[],""]
+7:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+8:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-5f5d0eb30b97fa1b.js"],"default"]
+a:I[96727,[],"OutletBoundary"]
+c:I[14038,[],"AsyncMetadataOutlet"]
+e:I[96727,[],"ViewportBoundary"]
+10:I[96727,[],"MetadataBoundary"]
+11:"$Sreact.suspense"
+13:I[92950,[],""]
+:HL["/_next/static/media/4c9affa5bc8f420e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/6e5637a05e39a1b1.css","style"]
+:HL["/_next/static/css/27451c99e2657f58.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/004145cbd0a33204.css","style"]
+0:{"P":null,"b":"ULvxUWnH7J2D9qudU--bA","p":"","c":["","v2","pnpm-one-copy"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","pnpm-one-copy","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6e5637a05e39a1b1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/27451c99e2657f58.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L8",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","pnpm-one-copy","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/004145cbd0a33204.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$La",null,{"children":["$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L10",null,{"children":["$","div",null,{"hidden":true,"children":["$","$11",null,{"fallback":null,"children":"$L12"}]}]}]]}],false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+b:null
+14:I[25885,["7654","static/chunks/7654-339fd591b7f76774.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+15:T29d4,<p>You have ten projects on your machine. All ten depend on React. npm gives each project its own full copy of the package tree. pnpm gives all ten a link to a single shared copy. Same bytes, stored once, ten projects pointing at it. This is how.</p>
+<h2>The package in your project is not really there</h2>
+<p>Open <code>node_modules/react</code> in a pnpm project and it is not a folder. It is a symlink:</p>
+<pre><code>node_modules/react -> .pnpm/react@19.2.4/node_modules/react
+</code></pre>
+<p>So the real thing lives under <code>.pnpm/</code>, still inside your project. But that copy under <code>.pnpm/</code> is not a full copy either. Its files link out to a global store that lives once per machine.</p>
+<p>Two hops, two kinds of link. Hover the packages below to see them light up.</p>
+<iframe src="/embeds/pnpm-store" width="100%" height="480" style="border:0" loading="lazy" title="How a pnpm project links to the global store"></iframe>
+<p>The symlink does one job: it builds a tree that Node can resolve. <code>import 'react'</code> walks into <code>node_modules/react</code>, follows the symlink, and lands on the real files. That symlink stays inside the project. It never reaches the store.</p>
+<p>The files under <code>.pnpm/</code> do the other job: they connect to the store, where the one real copy lives.</p>
+<h2>The store keeps one copy, addressed by its contents</h2>
+<p>The global store sits at <code>~/Library/pnpm/store</code> on macOS, or <code>~/.local/share/pnpm/store</code> on Linux. Every package file your machine has ever installed lives there once.</p>
+<p>Files in the store are addressed by a hash of their contents. Same hash means same bytes, and those bytes never change. That is the property that makes sharing safe: if two projects want the exact same file, they can point at the exact same stored copy, and neither can surprise the other by editing it.</p>
+<p>Git works the same way. Its object database is content addressed by SHA too. pnpm just brought the idea to <code>node_modules</code>.</p>
+<h2>The link to the store: hardlink on Linux, clone on macOS</h2>
+<p>Here is the part most people get wrong, including me until I checked my own machine.</p>
+<p>"pnpm uses hardlinks" is the common wisdom. <strong>On Linux</strong> it is true. The store file and the project file are the same inode. One inode, two names pointing at it:</p>
+<pre><code>inode #100  &#x3C;- react/index.js, the real bytes
+  ├─ ~/.local/share/pnpm/store/.../index.js   (1)
+  └─ my-app/.../.pnpm/react@.../index.js       (2)
+                                     link count = 2
+</code></pre>
+<p>Install the same package in a second project and it hardlinks to the same inode again. The count goes to 3. The number tells you how many projects share this one copy.</p>
+<p><strong>On macOS</strong> with APFS, pnpm picks a different mechanism: a copy-on-write clone, made with <code>clonefile</code>. The project file gets its own new inode. Its disk blocks are shared with the store, but only until something writes. On the first write, the filesystem copies just the changed blocks and the two files part ways. Because the inode is its own, the link count reads 1.</p>
+<p>You can check either one yourself:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># macOS</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">stat</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -f</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> "inode=%i links=%l"</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> node_modules/.pnpm/react@19.2.4/node_modules/react/index.js</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># inode=88074942 links=1</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># Linux</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">stat</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -c</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> "inode=%i links=%h"</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> node_modules/.pnpm/react@.../node_modules/react/index.js</span></span></code></pre></figure>
+<p><code>ls -li</code> works on both. The first column is the inode, the third is the link count.</p>
+<h2>Why macOS goes with the clone</h2>
+<p>A hardlink means the store file and your project file are literally one file. If any tool writes into <code>node_modules</code>, it writes straight into the store, and corrupts that package for every project on the machine. Linux pnpm guards against this by keeping the store read only.</p>
+<p>A clone has no such risk. Write into it and it splits off on its own, the store copy untouched. When the filesystem can do copy-on-write, pnpm takes the safer path. Same disk savings, less to worry about.</p>
+<h2>Reading the link count</h2>
+<p>The link count is just how many names point to one inode.</p>
+<p><strong>On Linux</strong>, it doubles as a sharing counter. Count 2 means the store plus one project. Count 5 means four projects share this copy. A count above 1 is proof, right there, that the file is not yours alone.</p>
+<p><strong>On macOS</strong>, the count is always 1. The clone gave the file its own inode, so the counter has nothing to add up. The space is still shared, just not where a link count can see it.</p>
+<h2>Check it yourself</h2>
+<p>Want to see the sharing? The command depends on your OS, because the two link types hide it in different places.</p>
+<p><strong>On Linux</strong>, the store uses hardlinks, so a store file and its copy in <code>node_modules</code> are the same inode. <code>du</code> dedupes by inode: within one run it counts each inode once, and a second hardlink to an inode it already counted adds nothing. The catch is that the dedup only happens inside a single <code>du</code> traversal. So walk the store and your <code>node_modules</code> in the same command, and <code>node_modules</code> adds almost nothing on top of the store:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># Linux: du dedupes by inode, so count them together</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">du</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -sh</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> ~/.local/share/pnpm/store</span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">               # the one real copy</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">du</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -sh</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> ~/.local/share/pnpm/store</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> node_modules</span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">   # node_modules barely adds to it</span></span></code></pre></figure>
+<p>A single <code>du -sh node_modules</code> on its own will not look shrunk, since each package sits there exactly once. The sharing only shows when the store and the project are counted together.</p>
+<p><strong>On macOS</strong>, the clone gives every file its own inode, so <code>du</code> counts each one at full size and cannot see the sharing. Watch <code>df</code> instead. It measures free space on the whole volume, so it catches what actually got written:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># macOS: du overcounts, so bracket the install with df</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">before</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">$(</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">df</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -k</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> .</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> |</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> awk</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'NR==2{print $4}'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">pnpm</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> install</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">after</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">$(</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">df</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -k</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> .</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> |</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> awk</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'NR==2{print $4}'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># before and after barely differ = almost nothing new hit the disk</span></span></code></pre></figure>
+<p>Same reason under both. The sharing lives in the disk blocks, one layer below the inode. <code>du</code> and the link count look at inodes, so on macOS neither can see it. <code>df</code> measures the filesystem as a whole, so it always can.</p>
+<h2>The speed is a bonus</h2>
+<p>pnpm is also faster than npm and yarn to install. That falls out of the same design: most of an install is linking files that already sit in the store, not downloading and copying them. Nice to have, but it is a side effect of the store, not the point. The point is that one copy on disk can serve every project you own.</p>16:T187d,
+You have ten projects on your machine. All ten depend on React. npm gives each project its own full copy of the package tree. pnpm gives all ten a link to a single shared copy. Same bytes, stored once, ten projects pointing at it. This is how.
+
+## The package in your project is not really there
+
+Open `node_modules/react` in a pnpm project and it is not a folder. It is a symlink:
+
+```
+node_modules/react -> .pnpm/react@19.2.4/node_modules/react
+```
+
+So the real thing lives under `.pnpm/`, still inside your project. But that copy under `.pnpm/` is not a full copy either. Its files link out to a global store that lives once per machine.
+
+Two hops, two kinds of link. Hover the packages below to see them light up.
+
+<iframe src="/embeds/pnpm-store" width="100%" height="480" style="border:0" loading="lazy" title="How a pnpm project links to the global store"></iframe>
+
+The symlink does one job: it builds a tree that Node can resolve. `import 'react'` walks into `node_modules/react`, follows the symlink, and lands on the real files. That symlink stays inside the project. It never reaches the store.
+
+The files under `.pnpm/` do the other job: they connect to the store, where the one real copy lives.
+
+## The store keeps one copy, addressed by its contents
+
+The global store sits at `~/Library/pnpm/store` on macOS, or `~/.local/share/pnpm/store` on Linux. Every package file your machine has ever installed lives there once.
+
+Files in the store are addressed by a hash of their contents. Same hash means same bytes, and those bytes never change. That is the property that makes sharing safe: if two projects want the exact same file, they can point at the exact same stored copy, and neither can surprise the other by editing it.
+
+Git works the same way. Its object database is content addressed by SHA too. pnpm just brought the idea to `node_modules`.
+
+## The link to the store: hardlink on Linux, clone on macOS
+
+Here is the part most people get wrong, including me until I checked my own machine.
+
+"pnpm uses hardlinks" is the common wisdom. **On Linux** it is true. The store file and the project file are the same inode. One inode, two names pointing at it:
+
+```
+inode #100  <- react/index.js, the real bytes
+  ├─ ~/.local/share/pnpm/store/.../index.js   (1)
+  └─ my-app/.../.pnpm/react@.../index.js       (2)
+                                     link count = 2
+```
+
+Install the same package in a second project and it hardlinks to the same inode again. The count goes to 3. The number tells you how many projects share this one copy.
+
+**On macOS** with APFS, pnpm picks a different mechanism: a copy-on-write clone, made with `clonefile`. The project file gets its own new inode. Its disk blocks are shared with the store, but only until something writes. On the first write, the filesystem copies just the changed blocks and the two files part ways. Because the inode is its own, the link count reads 1.
+
+You can check either one yourself:
+
+```bash
+# macOS
+stat -f "inode=%i links=%l" node_modules/.pnpm/react@19.2.4/node_modules/react/index.js
+# inode=88074942 links=1
+
+# Linux
+stat -c "inode=%i links=%h" node_modules/.pnpm/react@.../node_modules/react/index.js
+```
+
+`ls -li` works on both. The first column is the inode, the third is the link count.
+
+## Why macOS goes with the clone
+
+A hardlink means the store file and your project file are literally one file. If any tool writes into `node_modules`, it writes straight into the store, and corrupts that package for every project on the machine. Linux pnpm guards against this by keeping the store read only.
+
+A clone has no such risk. Write into it and it splits off on its own, the store copy untouched. When the filesystem can do copy-on-write, pnpm takes the safer path. Same disk savings, less to worry about.
+
+## Reading the link count
+
+The link count is just how many names point to one inode.
+
+**On Linux**, it doubles as a sharing counter. Count 2 means the store plus one project. Count 5 means four projects share this copy. A count above 1 is proof, right there, that the file is not yours alone.
+
+**On macOS**, the count is always 1. The clone gave the file its own inode, so the counter has nothing to add up. The space is still shared, just not where a link count can see it.
+
+## Check it yourself
+
+Want to see the sharing? The command depends on your OS, because the two link types hide it in different places.
+
+**On Linux**, the store uses hardlinks, so a store file and its copy in `node_modules` are the same inode. `du` dedupes by inode: within one run it counts each inode once, and a second hardlink to an inode it already counted adds nothing. The catch is that the dedup only happens inside a single `du` traversal. So walk the store and your `node_modules` in the same command, and `node_modules` adds almost nothing on top of the store:
+
+```bash
+# Linux: du dedupes by inode, so count them together
+du -sh ~/.local/share/pnpm/store               # the one real copy
+du -sh ~/.local/share/pnpm/store node_modules   # node_modules barely adds to it
+```
+
+A single `du -sh node_modules` on its own will not look shrunk, since each package sits there exactly once. The sharing only shows when the store and the project are counted together.
+
+**On macOS**, the clone gives every file its own inode, so `du` counts each one at full size and cannot see the sharing. Watch `df` instead. It measures free space on the whole volume, so it catches what actually got written:
+
+```bash
+# macOS: du overcounts, so bracket the install with df
+before=$(df -k . | awk 'NR==2{print $4}')
+pnpm install
+after=$(df -k . | awk 'NR==2{print $4}')
+# before and after barely differ = almost nothing new hit the disk
+```
+
+Same reason under both. The sharing lives in the disk blocks, one layer below the inode. `du` and the link count look at inodes, so on macOS neither can see it. `df` measures the filesystem as a whole, so it always can.
+
+## The speed is a bonus
+
+pnpm is also faster than npm and yarn to install. That falls out of the same design: most of an install is linking files that already sit in the store, not downloading and copying them. Nice to have, but it is a side effect of the store, not the point. The point is that one copy on disk can serve every project you own.
+17:T229c,LS0tCnRpdGxlOiAiSG93IHBucG0gZml0cyB0ZW4gY29waWVzIG9mIFJlYWN0IGluIHRoZSBzcGFjZSBvZiBvbmUiCmNyZWF0ZWRBdDogMjAyNi0wNy0xMVQyMzoyMzoxMQp0YWdzOiBbcG5wbSwgcGFja2FnZS1tYW5hZ2VyLCBmaWxlc3lzdGVtLCBoYXJkbGluaywgY29weS1vbi13cml0ZV0KZGVzY3JpcHRpb246ICJUZW4gcHJvamVjdHMsIGFsbCB1c2luZyBSZWFjdCwgb25lIGNvcHkgb24gZGlzay4gSG93IHBucG0ncyBzeW1saW5rIHRyZWUgYW5kIGNvbnRlbnQtYWRkcmVzc2VkIHN0b3JlIHB1bGwgaXQgb2ZmLCBhbmQgd2h5IHRoZSBsaW5rIGlzIGEgaGFyZGxpbmsgb24gTGludXggYnV0IGEgY29weS1vbi13cml0ZSBjbG9uZSBvbiBtYWNPUy4iCi0tLQoKWW91IGhhdmUgdGVuIHByb2plY3RzIG9uIHlvdXIgbWFjaGluZS4gQWxsIHRlbiBkZXBlbmQgb24gUmVhY3QuIG5wbSBnaXZlcyBlYWNoIHByb2plY3QgaXRzIG93biBmdWxsIGNvcHkgb2YgdGhlIHBhY2thZ2UgdHJlZS4gcG5wbSBnaXZlcyBhbGwgdGVuIGEgbGluayB0byBhIHNpbmdsZSBzaGFyZWQgY29weS4gU2FtZSBieXRlcywgc3RvcmVkIG9uY2UsIHRlbiBwcm9qZWN0cyBwb2ludGluZyBhdCBpdC4gVGhpcyBpcyBob3cuCgojIyBUaGUgcGFja2FnZSBpbiB5b3VyIHByb2plY3QgaXMgbm90IHJlYWxseSB0aGVyZQoKT3BlbiBgbm9kZV9tb2R1bGVzL3JlYWN0YCBpbiBhIHBucG0gcHJvamVjdCBhbmQgaXQgaXMgbm90IGEgZm9sZGVyLiBJdCBpcyBhIHN5bWxpbms6CgpgYGAKbm9kZV9tb2R1bGVzL3JlYWN0IC0+IC5wbnBtL3JlYWN0QDE5LjIuNC9ub2RlX21vZHVsZXMvcmVhY3QKYGBgCgpTbyB0aGUgcmVhbCB0aGluZyBsaXZlcyB1bmRlciBgLnBucG0vYCwgc3RpbGwgaW5zaWRlIHlvdXIgcHJvamVjdC4gQnV0IHRoYXQgY29weSB1bmRlciBgLnBucG0vYCBpcyBub3QgYSBmdWxsIGNvcHkgZWl0aGVyLiBJdHMgZmlsZXMgbGluayBvdXQgdG8gYSBnbG9iYWwgc3RvcmUgdGhhdCBsaXZlcyBvbmNlIHBlciBtYWNoaW5lLgoKVHdvIGhvcHMsIHR3byBraW5kcyBvZiBsaW5rLiBIb3ZlciB0aGUgcGFja2FnZXMgYmVsb3cgdG8gc2VlIHRoZW0gbGlnaHQgdXAuCgo8aWZyYW1lIHNyYz0iL2VtYmVkcy9wbnBtLXN0b3JlIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI0ODAiIHN0eWxlPSJib3JkZXI6MCIgbG9hZGluZz0ibGF6eSIgdGl0bGU9IkhvdyBhIHBucG0gcHJvamVjdCBsaW5rcyB0byB0aGUgZ2xvYmFsIHN0b3JlIj48L2lmcmFtZT4KClRoZSBzeW1saW5rIGRvZXMgb25lIGpvYjogaXQgYnVpbGRzIGEgdHJlZSB0aGF0IE5vZGUgY2FuIHJlc29sdmUuIGBpbXBvcnQgJ3JlYWN0J2Agd2Fsa3MgaW50byBgbm9kZV9tb2R1bGVzL3JlYWN0YCwgZm9sbG93cyB0aGUgc3ltbGluaywgYW5kIGxhbmRzIG9uIHRoZSByZWFsIGZpbGVzLiBUaGF0IHN5bWxpbmsgc3RheXMgaW5zaWRlIHRoZSBwcm9qZWN0LiBJdCBuZXZlciByZWFjaGVzIHRoZSBzdG9yZS4KClRoZSBmaWxlcyB1bmRlciBgLnBucG0vYCBkbyB0aGUgb3RoZXIgam9iOiB0aGV5IGNvbm5lY3QgdG8gdGhlIHN0b3JlLCB3aGVyZSB0aGUgb25lIHJlYWwgY29weSBsaXZlcy4KCiMjIFRoZSBzdG9yZSBrZWVwcyBvbmUgY29weSwgYWRkcmVzc2VkIGJ5IGl0cyBjb250ZW50cwoKVGhlIGdsb2JhbCBzdG9yZSBzaXRzIGF0IGB+L0xpYnJhcnkvcG5wbS9zdG9yZWAgb24gbWFjT1MsIG9yIGB+Ly5sb2NhbC9zaGFyZS9wbnBtL3N0b3JlYCBvbiBMaW51eC4gRXZlcnkgcGFja2FnZSBmaWxlIHlvdXIgbWFjaGluZSBoYXMgZXZlciBpbnN0YWxsZWQgbGl2ZXMgdGhlcmUgb25jZS4KCkZpbGVzIGluIHRoZSBzdG9yZSBhcmUgYWRkcmVzc2VkIGJ5IGEgaGFzaCBvZiB0aGVpciBjb250ZW50cy4gU2FtZSBoYXNoIG1lYW5zIHNhbWUgYnl0ZXMsIGFuZCB0aG9zZSBieXRlcyBuZXZlciBjaGFuZ2UuIFRoYXQgaXMgdGhlIHByb3BlcnR5IHRoYXQgbWFrZXMgc2hhcmluZyBzYWZlOiBpZiB0d28gcHJvamVjdHMgd2FudCB0aGUgZXhhY3Qgc2FtZSBmaWxlLCB0aGV5IGNhbiBwb2ludCBhdCB0aGUgZXhhY3Qgc2FtZSBzdG9yZWQgY29weSwgYW5kIG5laXRoZXIgY2FuIHN1cnByaXNlIHRoZSBvdGhlciBieSBlZGl0aW5nIGl0LgoKR2l0IHdvcmtzIHRoZSBzYW1lIHdheS4gSXRzIG9iamVjdCBkYXRhYmFzZSBpcyBjb250ZW50IGFkZHJlc3NlZCBieSBTSEEgdG9vLiBwbnBtIGp1c3QgYnJvdWdodCB0aGUgaWRlYSB0byBgbm9kZV9tb2R1bGVzYC4KCiMjIFRoZSBsaW5rIHRvIHRoZSBzdG9yZTogaGFyZGxpbmsgb24gTGludXgsIGNsb25lIG9uIG1hY09TCgpIZXJlIGlzIHRoZSBwYXJ0IG1vc3QgcGVvcGxlIGdldCB3cm9uZywgaW5jbHVkaW5nIG1lIHVudGlsIEkgY2hlY2tlZCBteSBvd24gbWFjaGluZS4KCiJwbnBtIHVzZXMgaGFyZGxpbmtzIiBpcyB0aGUgY29tbW9uIHdpc2RvbS4gKipPbiBMaW51eCoqIGl0IGlzIHRydWUuIFRoZSBzdG9yZSBmaWxlIGFuZCB0aGUgcHJvamVjdCBmaWxlIGFyZSB0aGUgc2FtZSBpbm9kZS4gT25lIGlub2RlLCB0d28gbmFtZXMgcG9pbnRpbmcgYXQgaXQ6CgpgYGAKaW5vZGUgIzEwMCAgPC0gcmVhY3QvaW5kZXguanMsIHRoZSByZWFsIGJ5dGVzCiAg4pSc4pSAIH4vLmxvY2FsL3NoYXJlL3BucG0vc3RvcmUvLi4uL2luZGV4LmpzICAgKDEpCiAg4pSU4pSAIG15LWFwcC8uLi4vLnBucG0vcmVhY3RALi4uL2luZGV4LmpzICAgICAgICgyKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGluayBjb3VudCA9IDIKYGBgCgpJbnN0YWxsIHRoZSBzYW1lIHBhY2thZ2UgaW4gYSBzZWNvbmQgcHJvamVjdCBhbmQgaXQgaGFyZGxpbmtzIHRvIHRoZSBzYW1lIGlub2RlIGFnYWluLiBUaGUgY291bnQgZ29lcyB0byAzLiBUaGUgbnVtYmVyIHRlbGxzIHlvdSBob3cgbWFueSBwcm9qZWN0cyBzaGFyZSB0aGlzIG9uZSBjb3B5LgoKKipPbiBtYWNPUyoqIHdpdGggQVBGUywgcG5wbSBwaWNrcyBhIGRpZmZlcmVudCBtZWNoYW5pc206IGEgY29weS1vbi13cml0ZSBjbG9uZSwgbWFkZSB3aXRoIGBjbG9uZWZpbGVgLiBUaGUgcHJvamVjdCBmaWxlIGdldHMgaXRzIG93biBuZXcgaW5vZGUuIEl0cyBkaXNrIGJsb2NrcyBhcmUgc2hhcmVkIHdpdGggdGhlIHN0b3JlLCBidXQgb25seSB1bnRpbCBzb21ldGhpbmcgd3JpdGVzLiBPbiB0aGUgZmlyc3Qgd3JpdGUsIHRoZSBmaWxlc3lzdGVtIGNvcGllcyBqdXN0IHRoZSBjaGFuZ2VkIGJsb2NrcyBhbmQgdGhlIHR3byBmaWxlcyBwYXJ0IHdheXMuIEJlY2F1c2UgdGhlIGlub2RlIGlzIGl0cyBvd24sIHRoZSBsaW5rIGNvdW50IHJlYWRzIDEuCgpZb3UgY2FuIGNoZWNrIGVpdGhlciBvbmUgeW91cnNlbGY6CgpgYGBiYXNoCiMgbWFjT1MKc3RhdCAtZiAiaW5vZGU9JWkgbGlua3M9JWwiIG5vZGVfbW9kdWxlcy8ucG5wbS9yZWFjdEAxOS4yLjQvbm9kZV9tb2R1bGVzL3JlYWN0L2luZGV4LmpzCiMgaW5vZGU9ODgwNzQ5NDIgbGlua3M9MQoKIyBMaW51eApzdGF0IC1jICJpbm9kZT0laSBsaW5rcz0laCIgbm9kZV9tb2R1bGVzLy5wbnBtL3JlYWN0QC4uLi9ub2RlX21vZHVsZXMvcmVhY3QvaW5kZXguanMKYGBgCgpgbHMgLWxpYCB3b3JrcyBvbiBib3RoLiBUaGUgZmlyc3QgY29sdW1uIGlzIHRoZSBpbm9kZSwgdGhlIHRoaXJkIGlzIHRoZSBsaW5rIGNvdW50LgoKIyMgV2h5IG1hY09TIGdvZXMgd2l0aCB0aGUgY2xvbmUKCkEgaGFyZGxpbmsgbWVhbnMgdGhlIHN0b3JlIGZpbGUgYW5kIHlvdXIgcHJvamVjdCBmaWxlIGFyZSBsaXRlcmFsbHkgb25lIGZpbGUuIElmIGFueSB0b29sIHdyaXRlcyBpbnRvIGBub2RlX21vZHVsZXNgLCBpdCB3cml0ZXMgc3RyYWlnaHQgaW50byB0aGUgc3RvcmUsIGFuZCBjb3JydXB0cyB0aGF0IHBhY2thZ2UgZm9yIGV2ZXJ5IHByb2plY3Qgb24gdGhlIG1hY2hpbmUuIExpbnV4IHBucG0gZ3VhcmRzIGFnYWluc3QgdGhpcyBieSBrZWVwaW5nIHRoZSBzdG9yZSByZWFkIG9ubHkuCgpBIGNsb25lIGhhcyBubyBzdWNoIHJpc2suIFdyaXRlIGludG8gaXQgYW5kIGl0IHNwbGl0cyBvZmYgb24gaXRzIG93biwgdGhlIHN0b3JlIGNvcHkgdW50b3VjaGVkLiBXaGVuIHRoZSBmaWxlc3lzdGVtIGNhbiBkbyBjb3B5LW9uLXdyaXRlLCBwbnBtIHRha2VzIHRoZSBzYWZlciBwYXRoLiBTYW1lIGRpc2sgc2F2aW5ncywgbGVzcyB0byB3b3JyeSBhYm91dC4KCiMjIFJlYWRpbmcgdGhlIGxpbmsgY291bnQKClRoZSBsaW5rIGNvdW50IGlzIGp1c3QgaG93IG1hbnkgbmFtZXMgcG9pbnQgdG8gb25lIGlub2RlLgoKKipPbiBMaW51eCoqLCBpdCBkb3VibGVzIGFzIGEgc2hhcmluZyBjb3VudGVyLiBDb3VudCAyIG1lYW5zIHRoZSBzdG9yZSBwbHVzIG9uZSBwcm9qZWN0LiBDb3VudCA1IG1lYW5zIGZvdXIgcHJvamVjdHMgc2hhcmUgdGhpcyBjb3B5LiBBIGNvdW50IGFib3ZlIDEgaXMgcHJvb2YsIHJpZ2h0IHRoZXJlLCB0aGF0IHRoZSBmaWxlIGlzIG5vdCB5b3VycyBhbG9uZS4KCioqT24gbWFjT1MqKiwgdGhlIGNvdW50IGlzIGFsd2F5cyAxLiBUaGUgY2xvbmUgZ2F2ZSB0aGUgZmlsZSBpdHMgb3duIGlub2RlLCBzbyB0aGUgY291bnRlciBoYXMgbm90aGluZyB0byBhZGQgdXAuIFRoZSBzcGFjZSBpcyBzdGlsbCBzaGFyZWQsIGp1c3Qgbm90IHdoZXJlIGEgbGluayBjb3VudCBjYW4gc2VlIGl0LgoKIyMgQ2hlY2sgaXQgeW91cnNlbGYKCldhbnQgdG8gc2VlIHRoZSBzaGFyaW5nPyBUaGUgY29tbWFuZCBkZXBlbmRzIG9uIHlvdXIgT1MsIGJlY2F1c2UgdGhlIHR3byBsaW5rIHR5cGVzIGhpZGUgaXQgaW4gZGlmZmVyZW50IHBsYWNlcy4KCioqT24gTGludXgqKiwgdGhlIHN0b3JlIHVzZXMgaGFyZGxpbmtzLCBzbyBhIHN0b3JlIGZpbGUgYW5kIGl0cyBjb3B5IGluIGBub2RlX21vZHVsZXNgIGFyZSB0aGUgc2FtZSBpbm9kZS4gYGR1YCBkZWR1cGVzIGJ5IGlub2RlOiB3aXRoaW4gb25lIHJ1biBpdCBjb3VudHMgZWFjaCBpbm9kZSBvbmNlLCBhbmQgYSBzZWNvbmQgaGFyZGxpbmsgdG8gYW4gaW5vZGUgaXQgYWxyZWFkeSBjb3VudGVkIGFkZHMgbm90aGluZy4gVGhlIGNhdGNoIGlzIHRoYXQgdGhlIGRlZHVwIG9ubHkgaGFwcGVucyBpbnNpZGUgYSBzaW5nbGUgYGR1YCB0cmF2ZXJzYWwuIFNvIHdhbGsgdGhlIHN0b3JlIGFuZCB5b3VyIGBub2RlX21vZHVsZXNgIGluIHRoZSBzYW1lIGNvbW1hbmQsIGFuZCBgbm9kZV9tb2R1bGVzYCBhZGRzIGFsbW9zdCBub3RoaW5nIG9uIHRvcCBvZiB0aGUgc3RvcmU6CgpgYGBiYXNoCiMgTGludXg6IGR1IGRlZHVwZXMgYnkgaW5vZGUsIHNvIGNvdW50IHRoZW0gdG9nZXRoZXIKZHUgLXNoIH4vLmxvY2FsL3NoYXJlL3BucG0vc3RvcmUgICAgICAgICAgICAgICAjIHRoZSBvbmUgcmVhbCBjb3B5CmR1IC1zaCB+Ly5sb2NhbC9zaGFyZS9wbnBtL3N0b3JlIG5vZGVfbW9kdWxlcyAgICMgbm9kZV9tb2R1bGVzIGJhcmVseSBhZGRzIHRvIGl0CmBgYAoKQSBzaW5nbGUgYGR1IC1zaCBub2RlX21vZHVsZXNgIG9uIGl0cyBvd24gd2lsbCBub3QgbG9vayBzaHJ1bmssIHNpbmNlIGVhY2ggcGFja2FnZSBzaXRzIHRoZXJlIGV4YWN0bHkgb25jZS4gVGhlIHNoYXJpbmcgb25seSBzaG93cyB3aGVuIHRoZSBzdG9yZSBhbmQgdGhlIHByb2plY3QgYXJlIGNvdW50ZWQgdG9nZXRoZXIuCgoqKk9uIG1hY09TKiosIHRoZSBjbG9uZSBnaXZlcyBldmVyeSBmaWxlIGl0cyBvd24gaW5vZGUsIHNvIGBkdWAgY291bnRzIGVhY2ggb25lIGF0IGZ1bGwgc2l6ZSBhbmQgY2Fubm90IHNlZSB0aGUgc2hhcmluZy4gV2F0Y2ggYGRmYCBpbnN0ZWFkLiBJdCBtZWFzdXJlcyBmcmVlIHNwYWNlIG9uIHRoZSB3aG9sZSB2b2x1bWUsIHNvIGl0IGNhdGNoZXMgd2hhdCBhY3R1YWxseSBnb3Qgd3JpdHRlbjoKCmBgYGJhc2gKIyBtYWNPUzogZHUgb3ZlcmNvdW50cywgc28gYnJhY2tldCB0aGUgaW5zdGFsbCB3aXRoIGRmCmJlZm9yZT0kKGRmIC1rIC4gfCBhd2sgJ05SPT0ye3ByaW50ICQ0fScpCnBucG0gaW5zdGFsbAphZnRlcj0kKGRmIC1rIC4gfCBhd2sgJ05SPT0ye3ByaW50ICQ0fScpCiMgYmVmb3JlIGFuZCBhZnRlciBiYXJlbHkgZGlmZmVyID0gYWxtb3N0IG5vdGhpbmcgbmV3IGhpdCB0aGUgZGlzawpgYGAKClNhbWUgcmVhc29uIHVuZGVyIGJvdGguIFRoZSBzaGFyaW5nIGxpdmVzIGluIHRoZSBkaXNrIGJsb2Nrcywgb25lIGxheWVyIGJlbG93IHRoZSBpbm9kZS4gYGR1YCBhbmQgdGhlIGxpbmsgY291bnQgbG9vayBhdCBpbm9kZXMsIHNvIG9uIG1hY09TIG5laXRoZXIgY2FuIHNlZSBpdC4gYGRmYCBtZWFzdXJlcyB0aGUgZmlsZXN5c3RlbSBhcyBhIHdob2xlLCBzbyBpdCBhbHdheXMgY2FuLgoKIyMgVGhlIHNwZWVkIGlzIGEgYm9udXMKCnBucG0gaXMgYWxzbyBmYXN0ZXIgdGhhbiBucG0gYW5kIHlhcm4gdG8gaW5zdGFsbC4gVGhhdCBmYWxscyBvdXQgb2YgdGhlIHNhbWUgZGVzaWduOiBtb3N0IG9mIGFuIGluc3RhbGwgaXMgbGlua2luZyBmaWxlcyB0aGF0IGFscmVhZHkgc2l0IGluIHRoZSBzdG9yZSwgbm90IGRvd25sb2FkaW5nIGFuZCBjb3B5aW5nIHRoZW0uIE5pY2UgdG8gaGF2ZSwgYnV0IGl0IGlzIGEgc2lkZSBlZmZlY3Qgb2YgdGhlIHN0b3JlLCBub3QgdGhlIHBvaW50LiBUaGUgcG9pbnQgaXMgdGhhdCBvbmUgY29weSBvbiBkaXNrIGNhbiBzZXJ2ZSBldmVyeSBwcm9qZWN0IHlvdSBvd24uCg==9:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L14",null,{"htmlContent":"$15","rawContent":"$16","base64Content":"$17","title":"How pnpm fits ten copies of React in the space of one","createdAt":"$undefined","updatedAt":"$undefined","tags":["pnpm","package-manager","filesystem","hardlink","copy-on-write"],"altHtmlContent":"$undefined","currentLang":"$undefined","altLang":"$undefined"}]}]}]
+d:{"metadata":[["$","title","0",{"children":"How pnpm fits ten copies of React in the space of one  | jialinhuang"}],["$","meta","1",{"name":"description","content":"Ten projects, all using React, one copy on disk. How pnpm's symlink tree and content-addressed store pull it off, and why the link is a hardlink on Linux but a copy-on-write clone on macOS."}]],"error":null,"digest":"$undefined"}
+12:"$d:metadata"

@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+    <url>
+      <loc>https://jialin00.com/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/ws-quotes</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/ws-quotes/[symbol]</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/water</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/[slug]</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/surfing</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/posts</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/packets</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/packets/situations</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/packets/journey</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/packets/goes-and-comes</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/packets/bit-form</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/mondrian</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/innies</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/game-of-life</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/embeds/rust-bench-spectrum</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/embeds/rust-bench-esbuild</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/embeds/rust-bench-dataflip</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/embeds/pnpm-store</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/embeds/cloud-network/sdn</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/embeds/cloud-network/gcp</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/embeds/cloud-network/azure</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/embeds/cloud-network/aws</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/embeds/browser-arch</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/cv</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/css-decode</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/css-decode/y2k</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/css-decode/protobuf-fields</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/css-decode/lumons-magnifier</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/css-decode/animations</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/core</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/always-there</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+  
+    <url>
+      <loc>https://jialin00.com</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/a-packet-walk-through-the-vpc</loc>
+      <lastmod>2024-09-29T09:47:00.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/alb-502-target-group-protocol</loc>
+      <lastmod>2025-03-23T19:20:00.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/anycast-one-ip-many-places</loc>
+      <lastmod>2026-03-04T23:03:00.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/async-await-blocking</loc>
+      <lastmod>2026-03-21T20:27:17.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/aws-policies-same-shape</loc>
+      <lastmod>2024-10-28T10:53:00.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/claude-code-who-calls-who.en</loc>
+      <lastmod>2026-09-01T00:00:00.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/claude-code-who-calls-who.zh</loc>
+      <lastmod>2026-09-01T00:00:00.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/cloud-network-cidr</loc>
+      <lastmod>2026-06-25T22:35:53.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/container-runtime-evolution</loc>
+      <lastmod>2026-04-12T00:00:00.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/containerd-shim-and-runc</loc>
+      <lastmod>2026-06-16T00:00:00.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/css-rendering-layers-and-animation-performance</loc>
+      <lastmod>2026-02-21T10:51:34.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/ec2-public-address-options</loc>
+      <lastmod>2024-10-07T22:43:00.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/fargate-ecs-go-server</loc>
+      <lastmod>2026-02-21T16:00:00.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/five-ways-to-reach-a-k8s-service</loc>
+      <lastmod>2025-09-07T20:21:00.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/from-setstate-to-pixels</loc>
+      <lastmod>2026-04-14T23:00:50.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/go-goroutines-waitgroup-to-deadlock</loc>
+      <lastmod>2024-10-06T23:57:00.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/hiroki-ark.zh</loc>
+      <lastmod>2026-09-01T09:47:21.210Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/how-i-built-kubelens</loc>
+      <lastmod>2026-06-28T21:35:25.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/http123</loc>
+      <lastmod>2026-02-22T21:07:59.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/iam-assume-role-trust-policy</loc>
+      <lastmod>2025-11-05T23:48:00.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/inside-react-fiberworkloop</loc>
+      <lastmod>2026-04-20T16:00:00.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/localhost-not-127001</loc>
+      <lastmod>2024-09-25T22:55:00.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/markdown-style-template</loc>
+      <lastmod>2026-02-20T00:00:00.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/mobile-hotspot-ip</loc>
+      <lastmod>2026-04-07T22:02:02.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/n-plus-1-is-a-shape</loc>
+      <lastmod>2026-06-28T01:15:14.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/partition-by-two-questions</loc>
+      <lastmod>2024-10-16T15:30:00.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/pnpm-one-copy</loc>
+      <lastmod>2026-07-11T23:23:11.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/recovery-codes-mfa-fuckup</loc>
+      <lastmod>2025-11-08T21:00:00.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/rust-ate-javascript-build-toolchain</loc>
+      <lastmod>2026-05-14T00:00:00.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/samesite-and-the-subdomain-cookie-bug</loc>
+      <lastmod>2024-09-19T20:47:00.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/server-side-calls-and-cors</loc>
+      <lastmod>2025-08-02T12:46:00.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/spa-is-not-csr-rendering-strategies</loc>
+      <lastmod>2025-08-02T11:32:00.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/things-elements-fibers-pixels</loc>
+      <lastmod>2026-04-21T09:00:00.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/three-gcp-credentials</loc>
+      <lastmod>2025-09-08T21:28:00.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/use-client-not-browser-only</loc>
+      <lastmod>2026-02-22T17:20:03.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/who-can-hear-this</loc>
+      <lastmod>2025-08-02T11:29:00.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/why-rust-is-faster-i-benchmarked-it.en</loc>
+      <lastmod>2026-07-29T00:00:00.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jialin00.com/v2/xss-and-csrf-defense-stack</loc>
+      <lastmod>2025-03-30T15:39:00.000Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+</urlset>

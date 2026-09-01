@@ -1,0 +1,352 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"default"]
+4:I[47843,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"default"]
+5:I[48350,[],""]
+6:I[11412,[],""]
+7:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+8:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-5f5d0eb30b97fa1b.js"],"default"]
+a:I[96727,[],"OutletBoundary"]
+c:I[14038,[],"AsyncMetadataOutlet"]
+e:I[96727,[],"ViewportBoundary"]
+10:I[96727,[],"MetadataBoundary"]
+11:"$Sreact.suspense"
+13:I[92950,[],""]
+:HL["/_next/static/media/4c9affa5bc8f420e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/6e5637a05e39a1b1.css","style"]
+:HL["/_next/static/css/27451c99e2657f58.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/004145cbd0a33204.css","style"]
+0:{"P":null,"b":"ULvxUWnH7J2D9qudU--bA","p":"","c":["","v2","fargate-ecs-go-server"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","fargate-ecs-go-server","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6e5637a05e39a1b1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/27451c99e2657f58.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L8",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","fargate-ecs-go-server","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/004145cbd0a33204.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$La",null,{"children":["$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L10",null,{"children":["$","div",null,{"hidden":true,"children":["$","$11",null,{"fallback":null,"children":"$L12"}]}]}]]}],false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+b:null
+14:I[25885,["7654","static/chunks/7654-339fd591b7f76774.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+15:T30c9,<p>I needed to deploy a Go HTTP server on AWS. Docker build, push, run — three commands on my machine. On AWS, those three commands turned into a maze of Task Definitions, Capacity Providers, Services, and Target Groups.</p>
+<p>Here's what actually happened.</p>
+<hr>
+<h2>The Docker part is easy</h2>
+<p>If you know Docker, you already know 80% of this. Build. Tag. Push. The only difference is the registry URL.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">docker</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> build</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -t</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> my-app</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> .</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">docker</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> tag</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> my-app:latest</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 123456789.dkr.ecr.us-west-2.amazonaws.com/my-app:latest</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">docker</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> push</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 123456789.dkr.ecr.us-west-2.amazonaws.com/my-app:latest</span></span></code></pre></figure>
+<p>Two more steps to run it:</p>
+<ol>
+<li>Create a Task Definition in ECS — point it to <code>123456789.dkr.ecr.us-west-2.amazonaws.com/my-app:latest</code></li>
+<li>Launch a Service or Task — pick the task definition and run</li>
+</ol>
+<p>Done. The rest of this article is about what went wrong between those steps.</p>
+<hr>
+<h2>The Go build that broke silently</h2>
+<p>A normal multi-stage Dockerfile:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="dockerfile" data-theme="github-dark github-light"><code data-language="dockerfile" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">FROM</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> golang:1.22 </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">AS</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> builder</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">WORKDIR</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> /app</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">COPY</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> go.mod go.sum ./</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">RUN</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> go mod download</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">COPY</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> . .</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">RUN</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -a -installsuffix cgo -o main .</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">FROM</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> alpine:latest</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">RUN</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> apk --no-cache add ca-certificates</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">WORKDIR</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> /root/</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">COPY</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> --from=builder /app/main .</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">CMD</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> [</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"./main"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">]</span></span></code></pre></figure>
+<p>Two flags matter here.</p>
+<h3>CGO_ENABLED=0</h3>
+<p>Go has its own implementations for low-level operations — networking, DNS, crypto. Setting <code>CGO_ENABLED=0</code> tells the compiler: use those pure Go implementations. Don't link against the system's C library.</p>
+<p>Without this, the binary depends on the exact glibc version in your build environment. Alpine uses musl, not glibc. The binary crashes at startup with a cryptic shared library error.</p>
+<p>Trade-off: pure Go implementations are slightly larger but run anywhere. If your code needs C interop (SQLite, some graphics libraries), set it to <code>1</code> and match your base image's C library.</p>
+<h3>GOARCH=amd64</h3>
+<p>ECS Fargate only supports two architectures: <code>X86_64</code> and <code>ARM64</code>. The default is <code>X86_64</code>.</p>
+<blockquote>
+<p>"If the property is undefined, <code>operatingSystemFamily</code> is <code>LINUX</code> and <code>cpuArchitecture</code> is <code>X86_64</code>" — <a href="https://docs.aws.amazon.com/cdk/api/v2/python/aws_cdk.aws_ecs_patterns/FargateServiceBaseProps.html">AWS CDK FargateServiceBaseProps</a></p>
+</blockquote>
+<p>If you build on an M1/M2 Mac without specifying <code>GOARCH</code>, Go defaults to <code>arm64</code> — because Go cross-compilation targets the host architecture by default. The image pushes to ECR fine. Fargate pulls it fine. Then:</p>
+<pre><code>exec ./main: exec format error
+</code></pre>
+<p>The binary is <code>arm64</code>, but Fargate's runtime is <code>X86_64</code>. Architecture mismatch. Specify <code>GOARCH=amd64</code> (or <code>arm64</code> if you chose ARM64 in Task Definition).</p>
+<blockquote>
+<p>"When you register a task definition, you specify the CPU architecture. The valid values are <code>X86_64</code> and <code>ARM64</code>." Default: <code>X86_64</code> — <a href="https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task_definition_parameters.html">Amazon ECS task definition parameters</a></p>
+</blockquote>
+<hr>
+<h2>Capacity Provider: why two things exist for "just pick Fargate"</h2>
+<p>When you create a Service, ECS asks: Launch Type or Capacity Provider Strategy?</p>
+<p><strong>Launch Type</strong> is simple. Pick Fargate, EC2, or Fargate Spot. Done.</p>
+<p><strong>Capacity Provider Strategy</strong> exists because production deployments need cost optimization. You mix Fargate (reliable, expensive) with Fargate Spot (cheap, might get interrupted). Two parameters control the mix:</p>
+<ul>
+<li><code>base</code> — guaranteed minimum tasks for one provider. One provider's base must be 0.</li>
+<li><code>weight</code> — ratio for distributing the remaining tasks.</li>
+</ul>
+<p>Example: 12 tasks, Fargate base=3, Spot base=0, weights 1:2.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th></th><th>Fargate</th><th>Fargate Spot</th></tr></thead><tbody><tr><td>base</td><td>3</td><td>0</td></tr><tr><td>weight</td><td>1</td><td>2</td></tr><tr><td>result</td><td>6 (3 + 3)</td><td>6 (0 + 6)</td></tr></tbody></table>
+<p>First, Fargate gets its base of 3. Nine tasks remain. Weight 1:2 splits them 3 and 6. Fargate: 6 total. Spot: 6 total.</p>
+<p>This matters for Services. Tasks don't auto-scale, so the strategy only affects initial placement.</p>
+<hr>
+<h2>Service or Task: the choice that confused me</h2>
+<p>I assumed Service and Task were fundamentally different things. They're not.</p>
+<p><strong>Tasks are the actual running units.</strong> Every container you run on ECS is a Task. Always.</p>
+<p><strong>Services are a management layer on top of Tasks.</strong> A Service says "keep N tasks running" and adds auto-scaling, load balancing, and rolling deployments.</p>
+<p>When I created a Service with 3 replicas, I expected to see one Service. Instead, I saw one Service and three Tasks. The Service didn't replace Tasks — it created them.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>ECS</th><th>Kubernetes equivalent</th></tr></thead><tbody><tr><td>Task</td><td>Pod</td></tr><tr><td>Service</td><td>Deployment + Service</td></tr><tr><td>Task Definition</td><td>Pod spec</td></tr></tbody></table>
+<p>For a long-running HTTP server: Service. For a one-time batch job, CI/CD step, or cron: Task.</p>
+<p>Here's what surprised me: the console lets you switch between Service and Task configurations freely. Choose "Run new Task," then change settings to look like a Service. The options are almost identical — Service just adds auto-scaling and ALB integration. The UI separation is for user clarity, not a technical boundary.</p>
+<p>Even the Task Definition's launch type setting isn't binding. Define it as EC2, then launch it as Fargate. ECS doesn't enforce the match.</p>
+<hr>
+<h2>ALB: why you want it even for a single server</h2>
+<p>Without ALB, your task gets a public IP. That IP changes every time the task restarts. Users can't bookmark it. You can't add HTTPS.</p>
+<p>ALB solves this through target groups. ECS registers tasks into a target group. ALB routes traffic to the target group. You expose one stable DNS name.</p>
+<p>Multiple services, one ALB:</p>
+<ul>
+<li><code>domain.app/api</code> → target group <code>backend</code></li>
+<li><code>domain.app/</code> → target group <code>landing-page</code></li>
+</ul>
+<p>When you create a Service, the Load Balancing section lets you assign a target group. That's the registration step — ECS tells ALB "send traffic to these tasks."</p>
+<h3>From ALB to HTTPS with a custom domain</h3>
+<p>Three steps:</p>
+<ol>
+<li>Add an HTTPS listener on port 443. Attach your domain's ACM certificate.</li>
+<li>Set the HTTP listener on port 80 to redirect to HTTPS.</li>
+<li>In Route53, create an A record alias pointing your domain to the ALB's DNS name.</li>
+</ol>
+<p>Custom domain. HTTPS. No certificates to manage on the server.</p>
+<p>One trap hides here: if the load balancer returns 502 even though the task itself works, the target group's protocol is almost always the cause. I wrote that one up separately in <a href="/v2/alb-502-target-group-protocol">why my load balancer returned 502</a>.</p>
+<hr>
+<h2>What I'd do differently</h2>
+<p>Task Definition is to ECS what AMI is to EC2 — a blueprint. But Task Definition is simpler. An AMI captures an entire OS, processes, and configurations. A Task Definition just describes containers, resource limits, and environment variables.</p>
+<p>The key difference: Task Definition must exist before you create a Service or Task. AMI is optional — you can launch an EC2 instance from AWS's default AMIs.</p>
+<p>If I set this up again:</p>
+<ol>
+<li>Start with Capacity Provider Strategy, not Launch Type. Even if you only use Fargate today, the migration path to Spot is painless.</li>
+<li>Always specify <code>GOARCH</code>. Cross-compilation is free. Debugging format errors is not.</li>
+<li>Put ALB in front from day one. The cost is minimal. Retrofitting HTTPS and stable DNS later is a headache.</li>
+<li>Use Service, not Task, for anything that should stay running. The auto-restart alone is worth it.</li>
+</ol>
+<hr>
+<h2>References</h2>
+<ul>
+<li><a href="https://docs.docker.com/build/building/multi-platform/">Docker multi-platform builds</a></li>
+<li><a href="https://gist.github.com/asukakenji/f15ba7e588ac42795f421b48b8aede63">Go cross-compilation flags</a></li>
+<li><a href="https://stackoverflow.com/questions/73285601/docker-exec-usr-bin-sh-exec-format-error">exec format error — StackOverflow</a></li>
+<li><a href="https://dev.to/metal3d/understand-how-to-use-c-libraries-in-go-with-cgo-3dbn">Using CGO in Go</a></li>
+<li><a href="https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task_definition_parameters.html">Amazon ECS task definition parameters for Fargate</a></li>
+<li><a href="https://docs.aws.amazon.com/cdk/api/v2/python/aws_cdk.aws_ecs_patterns/FargateServiceBaseProps.html">AWS CDK FargateServiceBaseProps</a></li>
+</ul>16:T1f2a,
+I needed to deploy a Go HTTP server on AWS. Docker build, push, run — three commands on my machine. On AWS, those three commands turned into a maze of Task Definitions, Capacity Providers, Services, and Target Groups.
+
+Here's what actually happened.
+
+---
+
+## The Docker part is easy
+
+If you know Docker, you already know 80% of this. Build. Tag. Push. The only difference is the registry URL.
+
+```bash
+docker build -t my-app .
+docker tag my-app:latest 123456789.dkr.ecr.us-west-2.amazonaws.com/my-app:latest
+docker push 123456789.dkr.ecr.us-west-2.amazonaws.com/my-app:latest
+```
+
+Two more steps to run it:
+
+1. Create a Task Definition in ECS — point it to `123456789.dkr.ecr.us-west-2.amazonaws.com/my-app:latest`
+2. Launch a Service or Task — pick the task definition and run
+
+Done. The rest of this article is about what went wrong between those steps.
+
+---
+
+## The Go build that broke silently
+
+A normal multi-stage Dockerfile:
+
+```dockerfile
+FROM golang:1.22 AS builder
+WORKDIR /app
+COPY go.mod go.sum ./
+RUN go mod download
+COPY . .
+RUN CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -a -installsuffix cgo -o main .
+
+FROM alpine:latest
+RUN apk --no-cache add ca-certificates
+WORKDIR /root/
+COPY --from=builder /app/main .
+CMD ["./main"]
+```
+
+Two flags matter here.
+
+### CGO_ENABLED=0
+
+Go has its own implementations for low-level operations — networking, DNS, crypto. Setting `CGO_ENABLED=0` tells the compiler: use those pure Go implementations. Don't link against the system's C library.
+
+Without this, the binary depends on the exact glibc version in your build environment. Alpine uses musl, not glibc. The binary crashes at startup with a cryptic shared library error.
+
+Trade-off: pure Go implementations are slightly larger but run anywhere. If your code needs C interop (SQLite, some graphics libraries), set it to `1` and match your base image's C library.
+
+### GOARCH=amd64
+
+ECS Fargate only supports two architectures: `X86_64` and `ARM64`. The default is `X86_64`.
+
+> "If the property is undefined, `operatingSystemFamily` is `LINUX` and `cpuArchitecture` is `X86_64`" — [AWS CDK FargateServiceBaseProps](https://docs.aws.amazon.com/cdk/api/v2/python/aws_cdk.aws_ecs_patterns/FargateServiceBaseProps.html)
+
+If you build on an M1/M2 Mac without specifying `GOARCH`, Go defaults to `arm64` — because Go cross-compilation targets the host architecture by default. The image pushes to ECR fine. Fargate pulls it fine. Then:
+
+```
+exec ./main: exec format error
+```
+
+The binary is `arm64`, but Fargate's runtime is `X86_64`. Architecture mismatch. Specify `GOARCH=amd64` (or `arm64` if you chose ARM64 in Task Definition).
+
+> "When you register a task definition, you specify the CPU architecture. The valid values are `X86_64` and `ARM64`." Default: `X86_64` — [Amazon ECS task definition parameters](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task_definition_parameters.html)
+
+---
+
+## Capacity Provider: why two things exist for "just pick Fargate"
+
+When you create a Service, ECS asks: Launch Type or Capacity Provider Strategy?
+
+**Launch Type** is simple. Pick Fargate, EC2, or Fargate Spot. Done.
+
+**Capacity Provider Strategy** exists because production deployments need cost optimization. You mix Fargate (reliable, expensive) with Fargate Spot (cheap, might get interrupted). Two parameters control the mix:
+
+- `base` — guaranteed minimum tasks for one provider. One provider's base must be 0.
+- `weight` — ratio for distributing the remaining tasks.
+
+Example: 12 tasks, Fargate base=3, Spot base=0, weights 1:2.
+
+| | Fargate | Fargate Spot |
+|---|---|---|
+| base | 3 | 0 |
+| weight | 1 | 2 |
+| result | 6 (3 + 3) | 6 (0 + 6) |
+
+First, Fargate gets its base of 3. Nine tasks remain. Weight 1:2 splits them 3 and 6. Fargate: 6 total. Spot: 6 total.
+
+This matters for Services. Tasks don't auto-scale, so the strategy only affects initial placement.
+
+---
+
+## Service or Task: the choice that confused me
+
+I assumed Service and Task were fundamentally different things. They're not.
+
+**Tasks are the actual running units.** Every container you run on ECS is a Task. Always.
+
+**Services are a management layer on top of Tasks.** A Service says "keep N tasks running" and adds auto-scaling, load balancing, and rolling deployments.
+
+When I created a Service with 3 replicas, I expected to see one Service. Instead, I saw one Service and three Tasks. The Service didn't replace Tasks — it created them.
+
+| ECS | Kubernetes equivalent |
+|---|---|
+| Task | Pod |
+| Service | Deployment + Service |
+| Task Definition | Pod spec |
+
+For a long-running HTTP server: Service. For a one-time batch job, CI/CD step, or cron: Task.
+
+Here's what surprised me: the console lets you switch between Service and Task configurations freely. Choose "Run new Task," then change settings to look like a Service. The options are almost identical — Service just adds auto-scaling and ALB integration. The UI separation is for user clarity, not a technical boundary.
+
+Even the Task Definition's launch type setting isn't binding. Define it as EC2, then launch it as Fargate. ECS doesn't enforce the match.
+
+---
+
+## ALB: why you want it even for a single server
+
+Without ALB, your task gets a public IP. That IP changes every time the task restarts. Users can't bookmark it. You can't add HTTPS.
+
+ALB solves this through target groups. ECS registers tasks into a target group. ALB routes traffic to the target group. You expose one stable DNS name.
+
+Multiple services, one ALB:
+
+- `domain.app/api` → target group `backend`
+- `domain.app/` → target group `landing-page`
+
+When you create a Service, the Load Balancing section lets you assign a target group. That's the registration step — ECS tells ALB "send traffic to these tasks."
+
+### From ALB to HTTPS with a custom domain
+
+Three steps:
+
+1. Add an HTTPS listener on port 443. Attach your domain's ACM certificate.
+2. Set the HTTP listener on port 80 to redirect to HTTPS.
+3. In Route53, create an A record alias pointing your domain to the ALB's DNS name.
+
+Custom domain. HTTPS. No certificates to manage on the server.
+
+One trap hides here: if the load balancer returns 502 even though the task itself works, the target group's protocol is almost always the cause. I wrote that one up separately in [why my load balancer returned 502](/v2/alb-502-target-group-protocol).
+
+---
+
+## What I'd do differently
+
+Task Definition is to ECS what AMI is to EC2 — a blueprint. But Task Definition is simpler. An AMI captures an entire OS, processes, and configurations. A Task Definition just describes containers, resource limits, and environment variables.
+
+The key difference: Task Definition must exist before you create a Service or Task. AMI is optional — you can launch an EC2 instance from AWS's default AMIs.
+
+If I set this up again:
+
+1. Start with Capacity Provider Strategy, not Launch Type. Even if you only use Fargate today, the migration path to Spot is painless.
+2. Always specify `GOARCH`. Cross-compilation is free. Debugging format errors is not.
+3. Put ALB in front from day one. The cost is minimal. Retrofitting HTTPS and stable DNS later is a headache.
+4. Use Service, not Task, for anything that should stay running. The auto-restart alone is worth it.
+
+---
+
+## References
+
+- [Docker multi-platform builds](https://docs.docker.com/build/building/multi-platform/)
+- [Go cross-compilation flags](https://gist.github.com/asukakenji/f15ba7e588ac42795f421b48b8aede63)
+- [exec format error — StackOverflow](https://stackoverflow.com/questions/73285601/docker-exec-usr-bin-sh-exec-format-error)
+- [Using CGO in Go](https://dev.to/metal3d/understand-how-to-use-c-libraries-in-go-with-cgo-3dbn)
+- [Amazon ECS task definition parameters for Fargate](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task_definition_parameters.html)
+- [AWS CDK FargateServiceBaseProps](https://docs.aws.amazon.com/cdk/api/v2/python/aws_cdk.aws_ecs_patterns/FargateServiceBaseProps.html)
+17:T2b64,LS0tCnRpdGxlOiAiZnJvbSBkb2NrZXIgcHVzaCB0byBIVFRQUzogZGVwbG95aW5nIGEgR28gc2VydmVyIG9uIEVDUyBGYXJnYXRlIgpjcmVhdGVkQXQ6IDIwMjQtMDktMjlUMTA6MDA6MDAKdXBkYXRlZEF0OiAyMDI2LTAyLTIxVDE2OjAwOjAwCnRhZ3M6IFthd3MsIGZhcmdhdGUsIGVjcywgZWNyLCBnb2xhbmcsIGVsYiwgcm91dGU1M10KZGVzY3JpcHRpb246ICJJIHB1c2hlZCBhIEdvIGNvbnRhaW5lciB0byBFQ1IgYW5kIHNwZW50IHRoZSBuZXh0IHR3byBob3VycyB1bnRhbmdsaW5nIEZhcmdhdGUncyBUYXNrIERlZmluaXRpb25zLCBDYXBhY2l0eSBQcm92aWRlcnMsIGFuZCBBTEIgdGFyZ2V0IGdyb3Vwcy4iCi0tLQoKSSBuZWVkZWQgdG8gZGVwbG95IGEgR28gSFRUUCBzZXJ2ZXIgb24gQVdTLiBEb2NrZXIgYnVpbGQsIHB1c2gsIHJ1biDigJQgdGhyZWUgY29tbWFuZHMgb24gbXkgbWFjaGluZS4gT24gQVdTLCB0aG9zZSB0aHJlZSBjb21tYW5kcyB0dXJuZWQgaW50byBhIG1hemUgb2YgVGFzayBEZWZpbml0aW9ucywgQ2FwYWNpdHkgUHJvdmlkZXJzLCBTZXJ2aWNlcywgYW5kIFRhcmdldCBHcm91cHMuCgpIZXJlJ3Mgd2hhdCBhY3R1YWxseSBoYXBwZW5lZC4KCi0tLQoKIyMgVGhlIERvY2tlciBwYXJ0IGlzIGVhc3kKCklmIHlvdSBrbm93IERvY2tlciwgeW91IGFscmVhZHkga25vdyA4MCUgb2YgdGhpcy4gQnVpbGQuIFRhZy4gUHVzaC4gVGhlIG9ubHkgZGlmZmVyZW5jZSBpcyB0aGUgcmVnaXN0cnkgVVJMLgoKYGBgYmFzaApkb2NrZXIgYnVpbGQgLXQgbXktYXBwIC4KZG9ja2VyIHRhZyBteS1hcHA6bGF0ZXN0IDEyMzQ1Njc4OS5ka3IuZWNyLnVzLXdlc3QtMi5hbWF6b25hd3MuY29tL215LWFwcDpsYXRlc3QKZG9ja2VyIHB1c2ggMTIzNDU2Nzg5LmRrci5lY3IudXMtd2VzdC0yLmFtYXpvbmF3cy5jb20vbXktYXBwOmxhdGVzdApgYGAKClR3byBtb3JlIHN0ZXBzIHRvIHJ1biBpdDoKCjEuIENyZWF0ZSBhIFRhc2sgRGVmaW5pdGlvbiBpbiBFQ1Mg4oCUIHBvaW50IGl0IHRvIGAxMjM0NTY3ODkuZGtyLmVjci51cy13ZXN0LTIuYW1hem9uYXdzLmNvbS9teS1hcHA6bGF0ZXN0YAoyLiBMYXVuY2ggYSBTZXJ2aWNlIG9yIFRhc2sg4oCUIHBpY2sgdGhlIHRhc2sgZGVmaW5pdGlvbiBhbmQgcnVuCgpEb25lLiBUaGUgcmVzdCBvZiB0aGlzIGFydGljbGUgaXMgYWJvdXQgd2hhdCB3ZW50IHdyb25nIGJldHdlZW4gdGhvc2Ugc3RlcHMuCgotLS0KCiMjIFRoZSBHbyBidWlsZCB0aGF0IGJyb2tlIHNpbGVudGx5CgpBIG5vcm1hbCBtdWx0aS1zdGFnZSBEb2NrZXJmaWxlOgoKYGBgZG9ja2VyZmlsZQpGUk9NIGdvbGFuZzoxLjIyIEFTIGJ1aWxkZXIKV09SS0RJUiAvYXBwCkNPUFkgZ28ubW9kIGdvLnN1bSAuLwpSVU4gZ28gbW9kIGRvd25sb2FkCkNPUFkgLiAuClJVTiBDR09fRU5BQkxFRD0wIEdPT1M9bGludXggR09BUkNIPWFtZDY0IGdvIGJ1aWxkIC1hIC1pbnN0YWxsc3VmZml4IGNnbyAtbyBtYWluIC4KCkZST00gYWxwaW5lOmxhdGVzdApSVU4gYXBrIC0tbm8tY2FjaGUgYWRkIGNhLWNlcnRpZmljYXRlcwpXT1JLRElSIC9yb290LwpDT1BZIC0tZnJvbT1idWlsZGVyIC9hcHAvbWFpbiAuCkNNRCBbIi4vbWFpbiJdCmBgYAoKVHdvIGZsYWdzIG1hdHRlciBoZXJlLgoKIyMjIENHT19FTkFCTEVEPTAKCkdvIGhhcyBpdHMgb3duIGltcGxlbWVudGF0aW9ucyBmb3IgbG93LWxldmVsIG9wZXJhdGlvbnMg4oCUIG5ldHdvcmtpbmcsIEROUywgY3J5cHRvLiBTZXR0aW5nIGBDR09fRU5BQkxFRD0wYCB0ZWxscyB0aGUgY29tcGlsZXI6IHVzZSB0aG9zZSBwdXJlIEdvIGltcGxlbWVudGF0aW9ucy4gRG9uJ3QgbGluayBhZ2FpbnN0IHRoZSBzeXN0ZW0ncyBDIGxpYnJhcnkuCgpXaXRob3V0IHRoaXMsIHRoZSBiaW5hcnkgZGVwZW5kcyBvbiB0aGUgZXhhY3QgZ2xpYmMgdmVyc2lvbiBpbiB5b3VyIGJ1aWxkIGVudmlyb25tZW50LiBBbHBpbmUgdXNlcyBtdXNsLCBub3QgZ2xpYmMuIFRoZSBiaW5hcnkgY3Jhc2hlcyBhdCBzdGFydHVwIHdpdGggYSBjcnlwdGljIHNoYXJlZCBsaWJyYXJ5IGVycm9yLgoKVHJhZGUtb2ZmOiBwdXJlIEdvIGltcGxlbWVudGF0aW9ucyBhcmUgc2xpZ2h0bHkgbGFyZ2VyIGJ1dCBydW4gYW55d2hlcmUuIElmIHlvdXIgY29kZSBuZWVkcyBDIGludGVyb3AgKFNRTGl0ZSwgc29tZSBncmFwaGljcyBsaWJyYXJpZXMpLCBzZXQgaXQgdG8gYDFgIGFuZCBtYXRjaCB5b3VyIGJhc2UgaW1hZ2UncyBDIGxpYnJhcnkuCgojIyMgR09BUkNIPWFtZDY0CgpFQ1MgRmFyZ2F0ZSBvbmx5IHN1cHBvcnRzIHR3byBhcmNoaXRlY3R1cmVzOiBgWDg2XzY0YCBhbmQgYEFSTTY0YC4gVGhlIGRlZmF1bHQgaXMgYFg4Nl82NGAuCgo+ICJJZiB0aGUgcHJvcGVydHkgaXMgdW5kZWZpbmVkLCBgb3BlcmF0aW5nU3lzdGVtRmFtaWx5YCBpcyBgTElOVVhgIGFuZCBgY3B1QXJjaGl0ZWN0dXJlYCBpcyBgWDg2XzY0YCIg4oCUIFtBV1MgQ0RLIEZhcmdhdGVTZXJ2aWNlQmFzZVByb3BzXShodHRwczovL2RvY3MuYXdzLmFtYXpvbi5jb20vY2RrL2FwaS92Mi9weXRob24vYXdzX2Nkay5hd3NfZWNzX3BhdHRlcm5zL0ZhcmdhdGVTZXJ2aWNlQmFzZVByb3BzLmh0bWwpCgpJZiB5b3UgYnVpbGQgb24gYW4gTTEvTTIgTWFjIHdpdGhvdXQgc3BlY2lmeWluZyBgR09BUkNIYCwgR28gZGVmYXVsdHMgdG8gYGFybTY0YCDigJQgYmVjYXVzZSBHbyBjcm9zcy1jb21waWxhdGlvbiB0YXJnZXRzIHRoZSBob3N0IGFyY2hpdGVjdHVyZSBieSBkZWZhdWx0LiBUaGUgaW1hZ2UgcHVzaGVzIHRvIEVDUiBmaW5lLiBGYXJnYXRlIHB1bGxzIGl0IGZpbmUuIFRoZW46CgpgYGAKZXhlYyAuL21haW46IGV4ZWMgZm9ybWF0IGVycm9yCmBgYAoKVGhlIGJpbmFyeSBpcyBgYXJtNjRgLCBidXQgRmFyZ2F0ZSdzIHJ1bnRpbWUgaXMgYFg4Nl82NGAuIEFyY2hpdGVjdHVyZSBtaXNtYXRjaC4gU3BlY2lmeSBgR09BUkNIPWFtZDY0YCAob3IgYGFybTY0YCBpZiB5b3UgY2hvc2UgQVJNNjQgaW4gVGFzayBEZWZpbml0aW9uKS4KCj4gIldoZW4geW91IHJlZ2lzdGVyIGEgdGFzayBkZWZpbml0aW9uLCB5b3Ugc3BlY2lmeSB0aGUgQ1BVIGFyY2hpdGVjdHVyZS4gVGhlIHZhbGlkIHZhbHVlcyBhcmUgYFg4Nl82NGAgYW5kIGBBUk02NGAuIiBEZWZhdWx0OiBgWDg2XzY0YCDigJQgW0FtYXpvbiBFQ1MgdGFzayBkZWZpbml0aW9uIHBhcmFtZXRlcnNdKGh0dHBzOi8vZG9jcy5hd3MuYW1hem9uLmNvbS9BbWF6b25FQ1MvbGF0ZXN0L2RldmVsb3Blcmd1aWRlL3Rhc2tfZGVmaW5pdGlvbl9wYXJhbWV0ZXJzLmh0bWwpCgotLS0KCiMjIENhcGFjaXR5IFByb3ZpZGVyOiB3aHkgdHdvIHRoaW5ncyBleGlzdCBmb3IgImp1c3QgcGljayBGYXJnYXRlIgoKV2hlbiB5b3UgY3JlYXRlIGEgU2VydmljZSwgRUNTIGFza3M6IExhdW5jaCBUeXBlIG9yIENhcGFjaXR5IFByb3ZpZGVyIFN0cmF0ZWd5PwoKKipMYXVuY2ggVHlwZSoqIGlzIHNpbXBsZS4gUGljayBGYXJnYXRlLCBFQzIsIG9yIEZhcmdhdGUgU3BvdC4gRG9uZS4KCioqQ2FwYWNpdHkgUHJvdmlkZXIgU3RyYXRlZ3kqKiBleGlzdHMgYmVjYXVzZSBwcm9kdWN0aW9uIGRlcGxveW1lbnRzIG5lZWQgY29zdCBvcHRpbWl6YXRpb24uIFlvdSBtaXggRmFyZ2F0ZSAocmVsaWFibGUsIGV4cGVuc2l2ZSkgd2l0aCBGYXJnYXRlIFNwb3QgKGNoZWFwLCBtaWdodCBnZXQgaW50ZXJydXB0ZWQpLiBUd28gcGFyYW1ldGVycyBjb250cm9sIHRoZSBtaXg6CgotIGBiYXNlYCDigJQgZ3VhcmFudGVlZCBtaW5pbXVtIHRhc2tzIGZvciBvbmUgcHJvdmlkZXIuIE9uZSBwcm92aWRlcidzIGJhc2UgbXVzdCBiZSAwLgotIGB3ZWlnaHRgIOKAlCByYXRpbyBmb3IgZGlzdHJpYnV0aW5nIHRoZSByZW1haW5pbmcgdGFza3MuCgpFeGFtcGxlOiAxMiB0YXNrcywgRmFyZ2F0ZSBiYXNlPTMsIFNwb3QgYmFzZT0wLCB3ZWlnaHRzIDE6Mi4KCnwgfCBGYXJnYXRlIHwgRmFyZ2F0ZSBTcG90IHwKfC0tLXwtLS18LS0tfAp8IGJhc2UgfCAzIHwgMCB8Cnwgd2VpZ2h0IHwgMSB8IDIgfAp8IHJlc3VsdCB8IDYgKDMgKyAzKSB8IDYgKDAgKyA2KSB8CgpGaXJzdCwgRmFyZ2F0ZSBnZXRzIGl0cyBiYXNlIG9mIDMuIE5pbmUgdGFza3MgcmVtYWluLiBXZWlnaHQgMToyIHNwbGl0cyB0aGVtIDMgYW5kIDYuIEZhcmdhdGU6IDYgdG90YWwuIFNwb3Q6IDYgdG90YWwuCgpUaGlzIG1hdHRlcnMgZm9yIFNlcnZpY2VzLiBUYXNrcyBkb24ndCBhdXRvLXNjYWxlLCBzbyB0aGUgc3RyYXRlZ3kgb25seSBhZmZlY3RzIGluaXRpYWwgcGxhY2VtZW50LgoKLS0tCgojIyBTZXJ2aWNlIG9yIFRhc2s6IHRoZSBjaG9pY2UgdGhhdCBjb25mdXNlZCBtZQoKSSBhc3N1bWVkIFNlcnZpY2UgYW5kIFRhc2sgd2VyZSBmdW5kYW1lbnRhbGx5IGRpZmZlcmVudCB0aGluZ3MuIFRoZXkncmUgbm90LgoKKipUYXNrcyBhcmUgdGhlIGFjdHVhbCBydW5uaW5nIHVuaXRzLioqIEV2ZXJ5IGNvbnRhaW5lciB5b3UgcnVuIG9uIEVDUyBpcyBhIFRhc2suIEFsd2F5cy4KCioqU2VydmljZXMgYXJlIGEgbWFuYWdlbWVudCBsYXllciBvbiB0b3Agb2YgVGFza3MuKiogQSBTZXJ2aWNlIHNheXMgImtlZXAgTiB0YXNrcyBydW5uaW5nIiBhbmQgYWRkcyBhdXRvLXNjYWxpbmcsIGxvYWQgYmFsYW5jaW5nLCBhbmQgcm9sbGluZyBkZXBsb3ltZW50cy4KCldoZW4gSSBjcmVhdGVkIGEgU2VydmljZSB3aXRoIDMgcmVwbGljYXMsIEkgZXhwZWN0ZWQgdG8gc2VlIG9uZSBTZXJ2aWNlLiBJbnN0ZWFkLCBJIHNhdyBvbmUgU2VydmljZSBhbmQgdGhyZWUgVGFza3MuIFRoZSBTZXJ2aWNlIGRpZG4ndCByZXBsYWNlIFRhc2tzIOKAlCBpdCBjcmVhdGVkIHRoZW0uCgp8IEVDUyB8IEt1YmVybmV0ZXMgZXF1aXZhbGVudCB8CnwtLS18LS0tfAp8IFRhc2sgfCBQb2QgfAp8IFNlcnZpY2UgfCBEZXBsb3ltZW50ICsgU2VydmljZSB8CnwgVGFzayBEZWZpbml0aW9uIHwgUG9kIHNwZWMgfAoKRm9yIGEgbG9uZy1ydW5uaW5nIEhUVFAgc2VydmVyOiBTZXJ2aWNlLiBGb3IgYSBvbmUtdGltZSBiYXRjaCBqb2IsIENJL0NEIHN0ZXAsIG9yIGNyb246IFRhc2suCgpIZXJlJ3Mgd2hhdCBzdXJwcmlzZWQgbWU6IHRoZSBjb25zb2xlIGxldHMgeW91IHN3aXRjaCBiZXR3ZWVuIFNlcnZpY2UgYW5kIFRhc2sgY29uZmlndXJhdGlvbnMgZnJlZWx5LiBDaG9vc2UgIlJ1biBuZXcgVGFzaywiIHRoZW4gY2hhbmdlIHNldHRpbmdzIHRvIGxvb2sgbGlrZSBhIFNlcnZpY2UuIFRoZSBvcHRpb25zIGFyZSBhbG1vc3QgaWRlbnRpY2FsIOKAlCBTZXJ2aWNlIGp1c3QgYWRkcyBhdXRvLXNjYWxpbmcgYW5kIEFMQiBpbnRlZ3JhdGlvbi4gVGhlIFVJIHNlcGFyYXRpb24gaXMgZm9yIHVzZXIgY2xhcml0eSwgbm90IGEgdGVjaG5pY2FsIGJvdW5kYXJ5LgoKRXZlbiB0aGUgVGFzayBEZWZpbml0aW9uJ3MgbGF1bmNoIHR5cGUgc2V0dGluZyBpc24ndCBiaW5kaW5nLiBEZWZpbmUgaXQgYXMgRUMyLCB0aGVuIGxhdW5jaCBpdCBhcyBGYXJnYXRlLiBFQ1MgZG9lc24ndCBlbmZvcmNlIHRoZSBtYXRjaC4KCi0tLQoKIyMgQUxCOiB3aHkgeW91IHdhbnQgaXQgZXZlbiBmb3IgYSBzaW5nbGUgc2VydmVyCgpXaXRob3V0IEFMQiwgeW91ciB0YXNrIGdldHMgYSBwdWJsaWMgSVAuIFRoYXQgSVAgY2hhbmdlcyBldmVyeSB0aW1lIHRoZSB0YXNrIHJlc3RhcnRzLiBVc2VycyBjYW4ndCBib29rbWFyayBpdC4gWW91IGNhbid0IGFkZCBIVFRQUy4KCkFMQiBzb2x2ZXMgdGhpcyB0aHJvdWdoIHRhcmdldCBncm91cHMuIEVDUyByZWdpc3RlcnMgdGFza3MgaW50byBhIHRhcmdldCBncm91cC4gQUxCIHJvdXRlcyB0cmFmZmljIHRvIHRoZSB0YXJnZXQgZ3JvdXAuIFlvdSBleHBvc2Ugb25lIHN0YWJsZSBETlMgbmFtZS4KCk11bHRpcGxlIHNlcnZpY2VzLCBvbmUgQUxCOgoKLSBgZG9tYWluLmFwcC9hcGlgIOKGkiB0YXJnZXQgZ3JvdXAgYGJhY2tlbmRgCi0gYGRvbWFpbi5hcHAvYCDihpIgdGFyZ2V0IGdyb3VwIGBsYW5kaW5nLXBhZ2VgCgpXaGVuIHlvdSBjcmVhdGUgYSBTZXJ2aWNlLCB0aGUgTG9hZCBCYWxhbmNpbmcgc2VjdGlvbiBsZXRzIHlvdSBhc3NpZ24gYSB0YXJnZXQgZ3JvdXAuIFRoYXQncyB0aGUgcmVnaXN0cmF0aW9uIHN0ZXAg4oCUIEVDUyB0ZWxscyBBTEIgInNlbmQgdHJhZmZpYyB0byB0aGVzZSB0YXNrcy4iCgojIyMgRnJvbSBBTEIgdG8gSFRUUFMgd2l0aCBhIGN1c3RvbSBkb21haW4KClRocmVlIHN0ZXBzOgoKMS4gQWRkIGFuIEhUVFBTIGxpc3RlbmVyIG9uIHBvcnQgNDQzLiBBdHRhY2ggeW91ciBkb21haW4ncyBBQ00gY2VydGlmaWNhdGUuCjIuIFNldCB0aGUgSFRUUCBsaXN0ZW5lciBvbiBwb3J0IDgwIHRvIHJlZGlyZWN0IHRvIEhUVFBTLgozLiBJbiBSb3V0ZTUzLCBjcmVhdGUgYW4gQSByZWNvcmQgYWxpYXMgcG9pbnRpbmcgeW91ciBkb21haW4gdG8gdGhlIEFMQidzIEROUyBuYW1lLgoKQ3VzdG9tIGRvbWFpbi4gSFRUUFMuIE5vIGNlcnRpZmljYXRlcyB0byBtYW5hZ2Ugb24gdGhlIHNlcnZlci4KCk9uZSB0cmFwIGhpZGVzIGhlcmU6IGlmIHRoZSBsb2FkIGJhbGFuY2VyIHJldHVybnMgNTAyIGV2ZW4gdGhvdWdoIHRoZSB0YXNrIGl0c2VsZiB3b3JrcywgdGhlIHRhcmdldCBncm91cCdzIHByb3RvY29sIGlzIGFsbW9zdCBhbHdheXMgdGhlIGNhdXNlLiBJIHdyb3RlIHRoYXQgb25lIHVwIHNlcGFyYXRlbHkgaW4gW3doeSBteSBsb2FkIGJhbGFuY2VyIHJldHVybmVkIDUwMl0oL3YyL2FsYi01MDItdGFyZ2V0LWdyb3VwLXByb3RvY29sKS4KCi0tLQoKIyMgV2hhdCBJJ2QgZG8gZGlmZmVyZW50bHkKClRhc2sgRGVmaW5pdGlvbiBpcyB0byBFQ1Mgd2hhdCBBTUkgaXMgdG8gRUMyIOKAlCBhIGJsdWVwcmludC4gQnV0IFRhc2sgRGVmaW5pdGlvbiBpcyBzaW1wbGVyLiBBbiBBTUkgY2FwdHVyZXMgYW4gZW50aXJlIE9TLCBwcm9jZXNzZXMsIGFuZCBjb25maWd1cmF0aW9ucy4gQSBUYXNrIERlZmluaXRpb24ganVzdCBkZXNjcmliZXMgY29udGFpbmVycywgcmVzb3VyY2UgbGltaXRzLCBhbmQgZW52aXJvbm1lbnQgdmFyaWFibGVzLgoKVGhlIGtleSBkaWZmZXJlbmNlOiBUYXNrIERlZmluaXRpb24gbXVzdCBleGlzdCBiZWZvcmUgeW91IGNyZWF0ZSBhIFNlcnZpY2Ugb3IgVGFzay4gQU1JIGlzIG9wdGlvbmFsIOKAlCB5b3UgY2FuIGxhdW5jaCBhbiBFQzIgaW5zdGFuY2UgZnJvbSBBV1MncyBkZWZhdWx0IEFNSXMuCgpJZiBJIHNldCB0aGlzIHVwIGFnYWluOgoKMS4gU3RhcnQgd2l0aCBDYXBhY2l0eSBQcm92aWRlciBTdHJhdGVneSwgbm90IExhdW5jaCBUeXBlLiBFdmVuIGlmIHlvdSBvbmx5IHVzZSBGYXJnYXRlIHRvZGF5LCB0aGUgbWlncmF0aW9uIHBhdGggdG8gU3BvdCBpcyBwYWlubGVzcy4KMi4gQWx3YXlzIHNwZWNpZnkgYEdPQVJDSGAuIENyb3NzLWNvbXBpbGF0aW9uIGlzIGZyZWUuIERlYnVnZ2luZyBmb3JtYXQgZXJyb3JzIGlzIG5vdC4KMy4gUHV0IEFMQiBpbiBmcm9udCBmcm9tIGRheSBvbmUuIFRoZSBjb3N0IGlzIG1pbmltYWwuIFJldHJvZml0dGluZyBIVFRQUyBhbmQgc3RhYmxlIEROUyBsYXRlciBpcyBhIGhlYWRhY2hlLgo0LiBVc2UgU2VydmljZSwgbm90IFRhc2ssIGZvciBhbnl0aGluZyB0aGF0IHNob3VsZCBzdGF5IHJ1bm5pbmcuIFRoZSBhdXRvLXJlc3RhcnQgYWxvbmUgaXMgd29ydGggaXQuCgotLS0KCiMjIFJlZmVyZW5jZXMKCi0gW0RvY2tlciBtdWx0aS1wbGF0Zm9ybSBidWlsZHNdKGh0dHBzOi8vZG9jcy5kb2NrZXIuY29tL2J1aWxkL2J1aWxkaW5nL211bHRpLXBsYXRmb3JtLykKLSBbR28gY3Jvc3MtY29tcGlsYXRpb24gZmxhZ3NdKGh0dHBzOi8vZ2lzdC5naXRodWIuY29tL2FzdWtha2VuamkvZjE1YmE3ZTU4OGFjNDI3OTVmNDIxYjQ4YjhhZWRlNjMpCi0gW2V4ZWMgZm9ybWF0IGVycm9yIOKAlCBTdGFja092ZXJmbG93XShodHRwczovL3N0YWNrb3ZlcmZsb3cuY29tL3F1ZXN0aW9ucy83MzI4NTYwMS9kb2NrZXItZXhlYy11c3ItYmluLXNoLWV4ZWMtZm9ybWF0LWVycm9yKQotIFtVc2luZyBDR08gaW4gR29dKGh0dHBzOi8vZGV2LnRvL21ldGFsM2QvdW5kZXJzdGFuZC1ob3ctdG8tdXNlLWMtbGlicmFyaWVzLWluLWdvLXdpdGgtY2dvLTNkYm4pCi0gW0FtYXpvbiBFQ1MgdGFzayBkZWZpbml0aW9uIHBhcmFtZXRlcnMgZm9yIEZhcmdhdGVdKGh0dHBzOi8vZG9jcy5hd3MuYW1hem9uLmNvbS9BbWF6b25FQ1MvbGF0ZXN0L2RldmVsb3Blcmd1aWRlL3Rhc2tfZGVmaW5pdGlvbl9wYXJhbWV0ZXJzLmh0bWwpCi0gW0FXUyBDREsgRmFyZ2F0ZVNlcnZpY2VCYXNlUHJvcHNdKGh0dHBzOi8vZG9jcy5hd3MuYW1hem9uLmNvbS9jZGsvYXBpL3YyL3B5dGhvbi9hd3NfY2RrLmF3c19lY3NfcGF0dGVybnMvRmFyZ2F0ZVNlcnZpY2VCYXNlUHJvcHMuaHRtbCkK9:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L14",null,{"htmlContent":"$15","rawContent":"$16","base64Content":"$17","title":"from docker push to HTTPS: deploying a Go server on ECS Fargate","createdAt":"$undefined","updatedAt":"2026-02-21T16:00:00.000Z","tags":["aws","fargate","ecs","ecr","golang","elb","route53"],"altHtmlContent":"$undefined","currentLang":"$undefined","altLang":"$undefined"}]}]}]
+d:{"metadata":[["$","title","0",{"children":"from docker push to HTTPS: deploying a Go server on ECS Fargate  | jialinhuang"}],["$","meta","1",{"name":"description","content":"I pushed a Go container to ECR and spent the next two hours untangling Fargate's Task Definitions, Capacity Providers, and ALB target groups."}]],"error":null,"digest":"$undefined"}
+12:"$d:metadata"

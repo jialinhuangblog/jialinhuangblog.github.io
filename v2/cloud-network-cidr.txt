@@ -1,0 +1,246 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"default"]
+4:I[47843,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"default"]
+5:I[48350,[],""]
+6:I[11412,[],""]
+7:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+8:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-5f5d0eb30b97fa1b.js"],"default"]
+a:I[96727,[],"OutletBoundary"]
+c:I[14038,[],"AsyncMetadataOutlet"]
+e:I[96727,[],"ViewportBoundary"]
+10:I[96727,[],"MetadataBoundary"]
+11:"$Sreact.suspense"
+13:I[92950,[],""]
+:HL["/_next/static/media/4c9affa5bc8f420e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/6e5637a05e39a1b1.css","style"]
+:HL["/_next/static/css/27451c99e2657f58.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/004145cbd0a33204.css","style"]
+0:{"P":null,"b":"ULvxUWnH7J2D9qudU--bA","p":"","c":["","v2","cloud-network-cidr"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","cloud-network-cidr","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6e5637a05e39a1b1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/27451c99e2657f58.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L8",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","cloud-network-cidr","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/004145cbd0a33204.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$La",null,{"children":["$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L10",null,{"children":["$","div",null,{"hidden":true,"children":["$","$11",null,{"fallback":null,"children":"$L12"}]}]}]]}],false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+b:null
+14:I[25885,["7654","static/chunks/7654-339fd591b7f76774.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+d:{"metadata":[["$","title","0",{"children":"Same /16, the big 3 cloud providers differ on how far it reaches  | jialinhuang"}],["$","meta","1",{"name":"description","content":"Same 10.0.0.0/16 lives in my home router, my AWS account, and a friend's GCP project at the same time. The block doesn't have a location. How far it reaches is an abstraction each cloud chooses, and the choices track each provider's design philosophy."}]],"error":null,"digest":"$undefined"}
+12:"$d:metadata"
+15:T2e4a,<p>I used to think <code>10.0.0.0/16</code> was pinned to one corner of one datacenter.</p>
+<p>Then I noticed the same block running in three places at once: my home router, my AWS account, a friend's GCP project. None of them collided.</p>
+<p>If it were a place, they would have. So it isn't a place. It's a set of numbers, and how far those numbers reach is something each cloud decides, not something the block carries.</p>
+<blockquote>
+<p>CIDR (Classless Inter-Domain Routing) is a contiguous range of IP numbers. In <code>10.0.0.0/16</code> the <code>/16</code> fixes the first 16 bits, which leaves 65536 addresses.</p>
+</blockquote>
+<h2>The block is just numbers</h2>
+<p><code>10.0.0.0/16</code> looks like "the network behind my home router." That glues together three things that are actually independent:</p>
+<ul>
+<li><strong>How many numbers.</strong> <code>/16</code> is 65536 addresses, <code>/24</code> is 256. A count, not a geographic size.</li>
+<li><strong>Whether it touches the public internet.</strong> Three ranges are reserved as private (RFC 1918): <code>10/8</code>, <code>172.16/12</code>, <code>192.168/16</code>. Private means reusable and never routed onto the internet. Not small, not local. That is why my home, my AWS, and a friend's GCP can all run <code>10.0.0.0/16</code> at once.</li>
+<li><strong>Where the machines are.</strong> Region, zone. The only axis that is about geography.</li>
+</ul>
+<p>The confusion is reading the first axis as if it were the third. Numbers don't decide where a machine sits.</p>
+<h2>A VPC is a logical envelope</h2>
+<blockquote>
+<p>VPC (Virtual Private Cloud) is your own private network in the cloud.</p>
+</blockquote>
+<p>Creating a <code>10.0.0.0/16</code> VPC builds nothing physical. You are declaring "this range of numbers is mine." A VPC has no location.</p>
+<p>The subnet is what touches the ground. It carves out a slice (<code>10.0.1.0/24</code>) and binds it to a real place. In AWS that place is an Availability Zone (AZ), an isolated group of datacenters in a region.</p>
+<p>First you claim numbers, then you pin them down.</p>
+<h2>Three abstractions, three design philosophies</h2>
+<p>Same concept, three layouts. Two questions tell them apart: is the VPC drawn <strong>inside</strong> the region or <strong>outside</strong> it, and does a subnet cover <strong>one</strong> zone or <strong>several</strong>?</p>
+<p>Put VMs and their IPs in and the difference shows.</p>
+<p><strong>AWS</strong> is strictest. The VPC stays in one region, the subnet is locked to one AZ. Zone <code>a</code> is <code>10.0.1.x</code>, zone <code>b</code> is <code>10.0.2.x</code>, so spanning two AZs means two subnets. AWS started in 2006, the earliest of the three, and enforces the tightest fault isolation.</p>
+<iframe src="/embeds/cloud-network/aws" width="100%" height="452" style="border:none; margin: 16px 0;" title="AWS network scoping"></iframe>
+<p><strong>Azure</strong> keeps the VNet in one region but lets a subnet span every zone. Three VMs in three zones share one range, <code>10.1.1.x</code>. The zone is not a subnet property; you pick it when you create the VM.</p>
+<iframe src="/embeds/cloud-network/azure" width="100%" height="370" style="border:none; margin: 16px 0;" title="Azure network scoping"></iframe>
+<p><strong>GCP</strong> went furthest: the VPC is global. One envelope wraps both <code>us-west1</code> and <code>asia-east1</code>. The subnet stays regional, so two VMs in different zones still share <code>10.240.0.x</code>.</p>
+<iframe src="/embeds/cloud-network/gcp" width="100%" height="548" style="border:none; margin: 16px 0;" title="GCP network scoping"></iframe>
+<p>Line them up and the difference is one axis: how far each lets the same <code>/16</code> reach (the wider reach in <span style="color:#D40920;font-weight:700">red</span>):</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th></th><th>subnet reaches</th><th>VPC reaches</th></tr></thead><tbody><tr><td><strong>AWS</strong></td><td>one AZ</td><td>one region</td></tr><tr><td><strong>Azure</strong></td><td><span style="color:#D40920;font-weight:700">the whole region</span></td><td>one region</td></tr><tr><td><strong>GCP</strong></td><td>the whole region</td><td><span style="color:#D40920;font-weight:700">global</span></td></tr></tbody></table>
+<p>The numbers never changed. Only the envelope got wider.</p>
+<h2>How the abstraction holds</h2>
+<p>Two tenants both run <code>10.0.0.5</code>. On one physical network, why don't they collide?</p>
+<p>Two networks are stacked. The <strong>overlay</strong> is your VPC's <code>10.0.0.5</code>. The <strong>substrate</strong> (the underlay) is the cloud's real network beneath it, where your VM's host has an address like <code>10.51.0.7</code>. A table maps <code>(VPC, overlay IP)</code> to a substrate host, so two <code>10.0.0.5</code>s carry different VPC IDs and land on different machines. The IP is now a label, not an address.</p>
+<iframe src="/embeds/cloud-network/sdn" width="100%" height="864" style="border:none; margin: 16px 0;" title="SDN overlay: same IP, different VPC, resolved by a table"></iframe>
+<p>You never touch that table. Your <code>eth0</code> is virtual, and its other end plugs into a virtual switch on the host (Open vSwitch, GCP's Andromeda, or AWS's Nitro card). The switch is the <strong>data plane</strong>; the table is the <strong>control plane</strong> (AWS's mapping service, GCP's Andromeda).</p>
+<p>So VM-A (<code>10.0.0.5</code>) reaching VM-B (<code>10.0.0.9</code>) is really three lookups, and only the middle one is the cloud's invention:</p>
+<ul>
+<li><strong>① in the guest, overlay ARP.</strong> <code>10.0.0.9 → MAC</code>, at L2, inside your VPC. The virtual switch proxy-answers it.</li>
+<li><strong>② in the virtual switch, the mapping table.</strong> <code>(vpc, 10.0.0.9) → host 10.51.0.9</code>, overlay to substrate. It then wraps the packet: an outer <code>10.51.0.7 → 10.51.0.9</code> on the substrate, carrying your inner <code>10.0.0.5 → 10.0.0.9</code>.</li>
+<li><strong>③ on the fabric, substrate ARP.</strong> <code>10.51.0.9 → MAC</code>, at L2, on the cloud's physical network.</li>
+</ul>
+<p>At the far end the switch strips the outer header and hands the inner packet to VM-B. Your guest ran plain networking the whole time and saw none of it.</p>
+<p>And <code>10.51.0.7</code> needs no further lookup: private just means scoped, and on the cloud's own fabric it is a real, routable address. The recursion stops at the wire.</p>
+<p>None of this needs the cloud to recognize your traffic. Your VM boots on the cloud's host, on the cloud's network; from the moment a packet leaves <code>eth0</code> it was never anywhere else. The cloud is the landlord. That is also how a flat global <code>10.0.0.0/16</code> spans continents: the number is flat, the table routes each label to a real host over the backbone.</p>
+<h2>GCP's global VPC, layer by layer</h2>
+<p>GCP's global VPC is the surprising one, so it is worth zooming in. The "magic" is just layers, and the layering is textbook dependency inversion:</p>
+<pre><code>You → Global VPC → Andromeda → physical network
+</code></pre>
+<p><strong>Global VPC</strong> is the console you touch: subnets, routes, firewall rules. <strong>Andromeda</strong> is the engine underneath, the thing that actually carries a packet from <code>us-west1</code> to <code>asia-east1</code>. Each layer is an abstraction for the one above and an implementation for the one below. Global VPC hides Andromeda from you; Andromeda hides the physical fabric from Global VPC. Shell and kernel.</p>
+<p>And Andromeda is not a dumb forwarder. It does <strong>intelligent routing</strong> (decisions on load, health, and latency, not just distance) and <strong>network function virtualization</strong> (firewalls and NAT as software, not boxes on a rack).</p>
+<p>So a cross-region request never escapes physics. Your packet hits a GCP edge, rides Google's private backbone, and Andromeda steers it to the right region. The global VPC you configured did not move; the control plane did the moving. A flat <code>/16</code> spans continents because the layer beneath it is deep enough to route a flat number to any host on the planet.</p>
+<p>It is the same illusion containers and serverless sell: the messy physical thing is still there, a layer below just stopped making you look at it.</p>
+<h2>Why peering hates overlapping CIDRs</h2>
+<p>Peering two VPCs has one hard rule: their ranges cannot overlap. The break happens earlier than you would guess.</p>
+<p>When VM-A sends to <code>10.0.0.5</code>, the first thing its OS checks is its own routing table, and <code>10.0.0.0/16</code> is local. So it judges the destination to be on its own subnet and tries to deliver at home. The packet never heads for the door, so the mapping table, the substrate, and ARP never get a turn. A destination that matches your own range cannot even leave your own VPC.</p>
+<p>That is also why connecting overlapping VPCs needs NAT: a foreign-looking address like <code>100.64.0.5</code> is what convinces the VM the target is remote and worth sending out.</p>
+<h2>Each layout fits the company behind it</h2>
+<p>These choices line up with what each company already was. Less a proven cause than a pattern worth noticing.</p>
+<ul>
+<li><strong>AWS: contain the blast radius.</strong> AWS treats an Availability Zone as a hard failure boundary, and pinning a subnet to one AZ likely reflects the same instinct, pushing your architecture across failure domains. (<a href="https://docs.aws.amazon.com/whitepapers/latest/aws-fault-isolation-boundaries/availability-zones.html">AWS Fault Isolation Boundaries</a>)</li>
+<li><strong>GCP: expose a network that was already global.</strong> Google ran a planet-scale software-defined network (Andromeda) for its own products long before selling cloud, so a global VPC mostly opens up what already existed. (<a href="https://research.google/pubs/andromeda-performance-isolation-and-velocity-at-scale-in-cloud-network-virtualization/">Andromeda</a>)</li>
+<li><strong>Azure: shaped by the enterprise it came from.</strong> Microsoft built Azure to be hybrid from day one, and the VNet is made to extend to on-premises over VPN or ExpressRoute, the way a corporate network would. (<a href="https://azure.microsoft.com/en-us/blog/microsoft-azure-the-only-consistent-comprehensive-hybrid-cloud/">Microsoft Azure on hybrid</a>)</li>
+</ul>
+<h2>References</h2>
+<ul>
+<li><a href="https://blog.ipspace.net/2021/02/vpc-subnets-aws-azure-gcp.html">Subnets across AWS, Azure, and GCP — ipspace.net (Ivan Pepelnjak)</a> — the comparison table this article builds on.</li>
+<li><a href="https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html">Amazon VPC — Subnets for your VPC</a> — "each subnet must reside entirely within one Availability Zone."</li>
+<li><a href="https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview">Azure — What is Azure Virtual Network?</a> — virtual networks and subnets span all availability zones in a region.</li>
+<li><a href="https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-faq#can-a-virtual-network-span-regions">Azure — Virtual Network FAQ: can a VNet span regions?</a></li>
+<li><a href="https://docs.cloud.google.com/vpc/docs/vpc">Google Cloud — VPC networks</a> — VPC networks are global resources; subnets are regional.</li>
+<li><a href="https://research.google/pubs/andromeda-performance-isolation-and-velocity-at-scale-in-cloud-network-virtualization/">Andromeda: Performance, Isolation, and Velocity at Scale in Cloud Network Virtualization (Google research)</a> — GCP's SDN layer.</li>
+<li><a href="https://www.rfc-editor.org/rfc/rfc1918">RFC 1918 — Address Allocation for Private Internets</a></li>
+</ul>16:T2844,
+I used to think `10.0.0.0/16` was pinned to one corner of one datacenter.
+
+Then I noticed the same block running in three places at once: my home router, my AWS account, a friend's GCP project. None of them collided.
+
+If it were a place, they would have. So it isn't a place. It's a set of numbers, and how far those numbers reach is something each cloud decides, not something the block carries.
+
+> CIDR (Classless Inter-Domain Routing) is a contiguous range of IP numbers. In `10.0.0.0/16` the `/16` fixes the first 16 bits, which leaves 65536 addresses.
+
+## The block is just numbers
+
+`10.0.0.0/16` looks like "the network behind my home router." That glues together three things that are actually independent:
+
+- **How many numbers.** `/16` is 65536 addresses, `/24` is 256. A count, not a geographic size.
+- **Whether it touches the public internet.** Three ranges are reserved as private (RFC 1918): `10/8`, `172.16/12`, `192.168/16`. Private means reusable and never routed onto the internet. Not small, not local. That is why my home, my AWS, and a friend's GCP can all run `10.0.0.0/16` at once.
+- **Where the machines are.** Region, zone. The only axis that is about geography.
+
+The confusion is reading the first axis as if it were the third. Numbers don't decide where a machine sits.
+
+## A VPC is a logical envelope
+
+> VPC (Virtual Private Cloud) is your own private network in the cloud.
+
+Creating a `10.0.0.0/16` VPC builds nothing physical. You are declaring "this range of numbers is mine." A VPC has no location.
+
+The subnet is what touches the ground. It carves out a slice (`10.0.1.0/24`) and binds it to a real place. In AWS that place is an Availability Zone (AZ), an isolated group of datacenters in a region.
+
+First you claim numbers, then you pin them down.
+
+## Three abstractions, three design philosophies
+
+Same concept, three layouts. Two questions tell them apart: is the VPC drawn **inside** the region or **outside** it, and does a subnet cover **one** zone or **several**?
+
+Put VMs and their IPs in and the difference shows.
+
+**AWS** is strictest. The VPC stays in one region, the subnet is locked to one AZ. Zone `a` is `10.0.1.x`, zone `b` is `10.0.2.x`, so spanning two AZs means two subnets. AWS started in 2006, the earliest of the three, and enforces the tightest fault isolation.
+
+<iframe src="/embeds/cloud-network/aws" width="100%" height="452" style="border:none; margin: 16px 0;" title="AWS network scoping"></iframe>
+
+**Azure** keeps the VNet in one region but lets a subnet span every zone. Three VMs in three zones share one range, `10.1.1.x`. The zone is not a subnet property; you pick it when you create the VM.
+
+<iframe src="/embeds/cloud-network/azure" width="100%" height="370" style="border:none; margin: 16px 0;" title="Azure network scoping"></iframe>
+
+**GCP** went furthest: the VPC is global. One envelope wraps both `us-west1` and `asia-east1`. The subnet stays regional, so two VMs in different zones still share `10.240.0.x`.
+
+<iframe src="/embeds/cloud-network/gcp" width="100%" height="548" style="border:none; margin: 16px 0;" title="GCP network scoping"></iframe>
+
+Line them up and the difference is one axis: how far each lets the same `/16` reach (the wider reach in <span style="color:#D40920;font-weight:700">red</span>):
+
+| | subnet reaches | VPC reaches |
+|---|---|---|
+| **AWS** | one AZ | one region |
+| **Azure** | <span style="color:#D40920;font-weight:700">the whole region</span> | one region |
+| **GCP** | the whole region | <span style="color:#D40920;font-weight:700">global</span> |
+
+The numbers never changed. Only the envelope got wider.
+
+## How the abstraction holds
+
+Two tenants both run `10.0.0.5`. On one physical network, why don't they collide?
+
+Two networks are stacked. The **overlay** is your VPC's `10.0.0.5`. The **substrate** (the underlay) is the cloud's real network beneath it, where your VM's host has an address like `10.51.0.7`. A table maps `(VPC, overlay IP)` to a substrate host, so two `10.0.0.5`s carry different VPC IDs and land on different machines. The IP is now a label, not an address.
+
+<iframe src="/embeds/cloud-network/sdn" width="100%" height="864" style="border:none; margin: 16px 0;" title="SDN overlay: same IP, different VPC, resolved by a table"></iframe>
+
+You never touch that table. Your `eth0` is virtual, and its other end plugs into a virtual switch on the host (Open vSwitch, GCP's Andromeda, or AWS's Nitro card). The switch is the **data plane**; the table is the **control plane** (AWS's mapping service, GCP's Andromeda).
+
+So VM-A (`10.0.0.5`) reaching VM-B (`10.0.0.9`) is really three lookups, and only the middle one is the cloud's invention:
+
+- **① in the guest, overlay ARP.** `10.0.0.9 → MAC`, at L2, inside your VPC. The virtual switch proxy-answers it.
+- **② in the virtual switch, the mapping table.** `(vpc, 10.0.0.9) → host 10.51.0.9`, overlay to substrate. It then wraps the packet: an outer `10.51.0.7 → 10.51.0.9` on the substrate, carrying your inner `10.0.0.5 → 10.0.0.9`.
+- **③ on the fabric, substrate ARP.** `10.51.0.9 → MAC`, at L2, on the cloud's physical network.
+
+At the far end the switch strips the outer header and hands the inner packet to VM-B. Your guest ran plain networking the whole time and saw none of it.
+
+And `10.51.0.7` needs no further lookup: private just means scoped, and on the cloud's own fabric it is a real, routable address. The recursion stops at the wire.
+
+None of this needs the cloud to recognize your traffic. Your VM boots on the cloud's host, on the cloud's network; from the moment a packet leaves `eth0` it was never anywhere else. The cloud is the landlord. That is also how a flat global `10.0.0.0/16` spans continents: the number is flat, the table routes each label to a real host over the backbone.
+
+## GCP's global VPC, layer by layer
+
+GCP's global VPC is the surprising one, so it is worth zooming in. The "magic" is just layers, and the layering is textbook dependency inversion:
+
+```
+You → Global VPC → Andromeda → physical network
+```
+
+**Global VPC** is the console you touch: subnets, routes, firewall rules. **Andromeda** is the engine underneath, the thing that actually carries a packet from `us-west1` to `asia-east1`. Each layer is an abstraction for the one above and an implementation for the one below. Global VPC hides Andromeda from you; Andromeda hides the physical fabric from Global VPC. Shell and kernel.
+
+And Andromeda is not a dumb forwarder. It does **intelligent routing** (decisions on load, health, and latency, not just distance) and **network function virtualization** (firewalls and NAT as software, not boxes on a rack).
+
+So a cross-region request never escapes physics. Your packet hits a GCP edge, rides Google's private backbone, and Andromeda steers it to the right region. The global VPC you configured did not move; the control plane did the moving. A flat `/16` spans continents because the layer beneath it is deep enough to route a flat number to any host on the planet.
+
+It is the same illusion containers and serverless sell: the messy physical thing is still there, a layer below just stopped making you look at it.
+
+## Why peering hates overlapping CIDRs
+
+Peering two VPCs has one hard rule: their ranges cannot overlap. The break happens earlier than you would guess.
+
+When VM-A sends to `10.0.0.5`, the first thing its OS checks is its own routing table, and `10.0.0.0/16` is local. So it judges the destination to be on its own subnet and tries to deliver at home. The packet never heads for the door, so the mapping table, the substrate, and ARP never get a turn. A destination that matches your own range cannot even leave your own VPC.
+
+That is also why connecting overlapping VPCs needs NAT: a foreign-looking address like `100.64.0.5` is what convinces the VM the target is remote and worth sending out.
+
+## Each layout fits the company behind it
+
+These choices line up with what each company already was. Less a proven cause than a pattern worth noticing.
+
+- **AWS: contain the blast radius.** AWS treats an Availability Zone as a hard failure boundary, and pinning a subnet to one AZ likely reflects the same instinct, pushing your architecture across failure domains. ([AWS Fault Isolation Boundaries](https://docs.aws.amazon.com/whitepapers/latest/aws-fault-isolation-boundaries/availability-zones.html))
+- **GCP: expose a network that was already global.** Google ran a planet-scale software-defined network (Andromeda) for its own products long before selling cloud, so a global VPC mostly opens up what already existed. ([Andromeda](https://research.google/pubs/andromeda-performance-isolation-and-velocity-at-scale-in-cloud-network-virtualization/))
+- **Azure: shaped by the enterprise it came from.** Microsoft built Azure to be hybrid from day one, and the VNet is made to extend to on-premises over VPN or ExpressRoute, the way a corporate network would. ([Microsoft Azure on hybrid](https://azure.microsoft.com/en-us/blog/microsoft-azure-the-only-consistent-comprehensive-hybrid-cloud/))
+
+## References
+
+- [Subnets across AWS, Azure, and GCP — ipspace.net (Ivan Pepelnjak)](https://blog.ipspace.net/2021/02/vpc-subnets-aws-azure-gcp.html) — the comparison table this article builds on.
+- [Amazon VPC — Subnets for your VPC](https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html) — "each subnet must reside entirely within one Availability Zone."
+- [Azure — What is Azure Virtual Network?](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview) — virtual networks and subnets span all availability zones in a region.
+- [Azure — Virtual Network FAQ: can a VNet span regions?](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-faq#can-a-virtual-network-span-regions)
+- [Google Cloud — VPC networks](https://docs.cloud.google.com/vpc/docs/vpc) — VPC networks are global resources; subnets are regional.
+- [Andromeda: Performance, Isolation, and Velocity at Scale in Cloud Network Virtualization (Google research)](https://research.google/pubs/andromeda-performance-isolation-and-velocity-at-scale-in-cloud-network-virtualization/) — GCP's SDN layer.
+- [RFC 1918 — Address Allocation for Private Internets](https://www.rfc-editor.org/rfc/rfc1918)
+17:T380c,LS0tCnRpdGxlOiAiU2FtZSAvMTYsIHRoZSBiaWcgMyBjbG91ZCBwcm92aWRlcnMgZGlmZmVyIG9uIGhvdyBmYXIgaXQgcmVhY2hlcyIKY3JlYXRlZEF0OiAyMDI0LTEwLTAxVDE0OjI0OjAwCnVwZGF0ZWRBdDogMjAyNi0wNi0yNVQyMjozNTo1Mwp0YWdzOiBbY2xvdWQsIG5ldHdvcmssIGF3cywgZ2NwLCBhenVyZV0KZGVzY3JpcHRpb246ICJTYW1lIDEwLjAuMC4wLzE2IGxpdmVzIGluIG15IGhvbWUgcm91dGVyLCBteSBBV1MgYWNjb3VudCwgYW5kIGEgZnJpZW5kJ3MgR0NQIHByb2plY3QgYXQgdGhlIHNhbWUgdGltZS4gVGhlIGJsb2NrIGRvZXNuJ3QgaGF2ZSBhIGxvY2F0aW9uLiBIb3cgZmFyIGl0IHJlYWNoZXMgaXMgYW4gYWJzdHJhY3Rpb24gZWFjaCBjbG91ZCBjaG9vc2VzLCBhbmQgdGhlIGNob2ljZXMgdHJhY2sgZWFjaCBwcm92aWRlcidzIGRlc2lnbiBwaGlsb3NvcGh5LiIKLS0tCgpJIHVzZWQgdG8gdGhpbmsgYDEwLjAuMC4wLzE2YCB3YXMgcGlubmVkIHRvIG9uZSBjb3JuZXIgb2Ygb25lIGRhdGFjZW50ZXIuCgpUaGVuIEkgbm90aWNlZCB0aGUgc2FtZSBibG9jayBydW5uaW5nIGluIHRocmVlIHBsYWNlcyBhdCBvbmNlOiBteSBob21lIHJvdXRlciwgbXkgQVdTIGFjY291bnQsIGEgZnJpZW5kJ3MgR0NQIHByb2plY3QuIE5vbmUgb2YgdGhlbSBjb2xsaWRlZC4KCklmIGl0IHdlcmUgYSBwbGFjZSwgdGhleSB3b3VsZCBoYXZlLiBTbyBpdCBpc24ndCBhIHBsYWNlLiBJdCdzIGEgc2V0IG9mIG51bWJlcnMsIGFuZCBob3cgZmFyIHRob3NlIG51bWJlcnMgcmVhY2ggaXMgc29tZXRoaW5nIGVhY2ggY2xvdWQgZGVjaWRlcywgbm90IHNvbWV0aGluZyB0aGUgYmxvY2sgY2Fycmllcy4KCj4gQ0lEUiAoQ2xhc3NsZXNzIEludGVyLURvbWFpbiBSb3V0aW5nKSBpcyBhIGNvbnRpZ3VvdXMgcmFuZ2Ugb2YgSVAgbnVtYmVycy4gSW4gYDEwLjAuMC4wLzE2YCB0aGUgYC8xNmAgZml4ZXMgdGhlIGZpcnN0IDE2IGJpdHMsIHdoaWNoIGxlYXZlcyA2NTUzNiBhZGRyZXNzZXMuCgojIyBUaGUgYmxvY2sgaXMganVzdCBudW1iZXJzCgpgMTAuMC4wLjAvMTZgIGxvb2tzIGxpa2UgInRoZSBuZXR3b3JrIGJlaGluZCBteSBob21lIHJvdXRlci4iIFRoYXQgZ2x1ZXMgdG9nZXRoZXIgdGhyZWUgdGhpbmdzIHRoYXQgYXJlIGFjdHVhbGx5IGluZGVwZW5kZW50OgoKLSAqKkhvdyBtYW55IG51bWJlcnMuKiogYC8xNmAgaXMgNjU1MzYgYWRkcmVzc2VzLCBgLzI0YCBpcyAyNTYuIEEgY291bnQsIG5vdCBhIGdlb2dyYXBoaWMgc2l6ZS4KLSAqKldoZXRoZXIgaXQgdG91Y2hlcyB0aGUgcHVibGljIGludGVybmV0LioqIFRocmVlIHJhbmdlcyBhcmUgcmVzZXJ2ZWQgYXMgcHJpdmF0ZSAoUkZDIDE5MTgpOiBgMTAvOGAsIGAxNzIuMTYvMTJgLCBgMTkyLjE2OC8xNmAuIFByaXZhdGUgbWVhbnMgcmV1c2FibGUgYW5kIG5ldmVyIHJvdXRlZCBvbnRvIHRoZSBpbnRlcm5ldC4gTm90IHNtYWxsLCBub3QgbG9jYWwuIFRoYXQgaXMgd2h5IG15IGhvbWUsIG15IEFXUywgYW5kIGEgZnJpZW5kJ3MgR0NQIGNhbiBhbGwgcnVuIGAxMC4wLjAuMC8xNmAgYXQgb25jZS4KLSAqKldoZXJlIHRoZSBtYWNoaW5lcyBhcmUuKiogUmVnaW9uLCB6b25lLiBUaGUgb25seSBheGlzIHRoYXQgaXMgYWJvdXQgZ2VvZ3JhcGh5LgoKVGhlIGNvbmZ1c2lvbiBpcyByZWFkaW5nIHRoZSBmaXJzdCBheGlzIGFzIGlmIGl0IHdlcmUgdGhlIHRoaXJkLiBOdW1iZXJzIGRvbid0IGRlY2lkZSB3aGVyZSBhIG1hY2hpbmUgc2l0cy4KCiMjIEEgVlBDIGlzIGEgbG9naWNhbCBlbnZlbG9wZQoKPiBWUEMgKFZpcnR1YWwgUHJpdmF0ZSBDbG91ZCkgaXMgeW91ciBvd24gcHJpdmF0ZSBuZXR3b3JrIGluIHRoZSBjbG91ZC4KCkNyZWF0aW5nIGEgYDEwLjAuMC4wLzE2YCBWUEMgYnVpbGRzIG5vdGhpbmcgcGh5c2ljYWwuIFlvdSBhcmUgZGVjbGFyaW5nICJ0aGlzIHJhbmdlIG9mIG51bWJlcnMgaXMgbWluZS4iIEEgVlBDIGhhcyBubyBsb2NhdGlvbi4KClRoZSBzdWJuZXQgaXMgd2hhdCB0b3VjaGVzIHRoZSBncm91bmQuIEl0IGNhcnZlcyBvdXQgYSBzbGljZSAoYDEwLjAuMS4wLzI0YCkgYW5kIGJpbmRzIGl0IHRvIGEgcmVhbCBwbGFjZS4gSW4gQVdTIHRoYXQgcGxhY2UgaXMgYW4gQXZhaWxhYmlsaXR5IFpvbmUgKEFaKSwgYW4gaXNvbGF0ZWQgZ3JvdXAgb2YgZGF0YWNlbnRlcnMgaW4gYSByZWdpb24uCgpGaXJzdCB5b3UgY2xhaW0gbnVtYmVycywgdGhlbiB5b3UgcGluIHRoZW0gZG93bi4KCiMjIFRocmVlIGFic3RyYWN0aW9ucywgdGhyZWUgZGVzaWduIHBoaWxvc29waGllcwoKU2FtZSBjb25jZXB0LCB0aHJlZSBsYXlvdXRzLiBUd28gcXVlc3Rpb25zIHRlbGwgdGhlbSBhcGFydDogaXMgdGhlIFZQQyBkcmF3biAqKmluc2lkZSoqIHRoZSByZWdpb24gb3IgKipvdXRzaWRlKiogaXQsIGFuZCBkb2VzIGEgc3VibmV0IGNvdmVyICoqb25lKiogem9uZSBvciAqKnNldmVyYWwqKj8KClB1dCBWTXMgYW5kIHRoZWlyIElQcyBpbiBhbmQgdGhlIGRpZmZlcmVuY2Ugc2hvd3MuCgoqKkFXUyoqIGlzIHN0cmljdGVzdC4gVGhlIFZQQyBzdGF5cyBpbiBvbmUgcmVnaW9uLCB0aGUgc3VibmV0IGlzIGxvY2tlZCB0byBvbmUgQVouIFpvbmUgYGFgIGlzIGAxMC4wLjEueGAsIHpvbmUgYGJgIGlzIGAxMC4wLjIueGAsIHNvIHNwYW5uaW5nIHR3byBBWnMgbWVhbnMgdHdvIHN1Ym5ldHMuIEFXUyBzdGFydGVkIGluIDIwMDYsIHRoZSBlYXJsaWVzdCBvZiB0aGUgdGhyZWUsIGFuZCBlbmZvcmNlcyB0aGUgdGlnaHRlc3QgZmF1bHQgaXNvbGF0aW9uLgoKPGlmcmFtZSBzcmM9Ii9lbWJlZHMvY2xvdWQtbmV0d29yay9hd3MiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjQ1MiIgc3R5bGU9ImJvcmRlcjpub25lOyBtYXJnaW46IDE2cHggMDsiIHRpdGxlPSJBV1MgbmV0d29yayBzY29waW5nIj48L2lmcmFtZT4KCioqQXp1cmUqKiBrZWVwcyB0aGUgVk5ldCBpbiBvbmUgcmVnaW9uIGJ1dCBsZXRzIGEgc3VibmV0IHNwYW4gZXZlcnkgem9uZS4gVGhyZWUgVk1zIGluIHRocmVlIHpvbmVzIHNoYXJlIG9uZSByYW5nZSwgYDEwLjEuMS54YC4gVGhlIHpvbmUgaXMgbm90IGEgc3VibmV0IHByb3BlcnR5OyB5b3UgcGljayBpdCB3aGVuIHlvdSBjcmVhdGUgdGhlIFZNLgoKPGlmcmFtZSBzcmM9Ii9lbWJlZHMvY2xvdWQtbmV0d29yay9henVyZSIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMzcwIiBzdHlsZT0iYm9yZGVyOm5vbmU7IG1hcmdpbjogMTZweCAwOyIgdGl0bGU9IkF6dXJlIG5ldHdvcmsgc2NvcGluZyI+PC9pZnJhbWU+CgoqKkdDUCoqIHdlbnQgZnVydGhlc3Q6IHRoZSBWUEMgaXMgZ2xvYmFsLiBPbmUgZW52ZWxvcGUgd3JhcHMgYm90aCBgdXMtd2VzdDFgIGFuZCBgYXNpYS1lYXN0MWAuIFRoZSBzdWJuZXQgc3RheXMgcmVnaW9uYWwsIHNvIHR3byBWTXMgaW4gZGlmZmVyZW50IHpvbmVzIHN0aWxsIHNoYXJlIGAxMC4yNDAuMC54YC4KCjxpZnJhbWUgc3JjPSIvZW1iZWRzL2Nsb3VkLW5ldHdvcmsvZ2NwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI1NDgiIHN0eWxlPSJib3JkZXI6bm9uZTsgbWFyZ2luOiAxNnB4IDA7IiB0aXRsZT0iR0NQIG5ldHdvcmsgc2NvcGluZyI+PC9pZnJhbWU+CgpMaW5lIHRoZW0gdXAgYW5kIHRoZSBkaWZmZXJlbmNlIGlzIG9uZSBheGlzOiBob3cgZmFyIGVhY2ggbGV0cyB0aGUgc2FtZSBgLzE2YCByZWFjaCAodGhlIHdpZGVyIHJlYWNoIGluIDxzcGFuIHN0eWxlPSJjb2xvcjojRDQwOTIwO2ZvbnQtd2VpZ2h0OjcwMCI+cmVkPC9zcGFuPik6Cgp8IHwgc3VibmV0IHJlYWNoZXMgfCBWUEMgcmVhY2hlcyB8CnwtLS18LS0tfC0tLXwKfCAqKkFXUyoqIHwgb25lIEFaIHwgb25lIHJlZ2lvbiB8CnwgKipBenVyZSoqIHwgPHNwYW4gc3R5bGU9ImNvbG9yOiNENDA5MjA7Zm9udC13ZWlnaHQ6NzAwIj50aGUgd2hvbGUgcmVnaW9uPC9zcGFuPiB8IG9uZSByZWdpb24gfAp8ICoqR0NQKiogfCB0aGUgd2hvbGUgcmVnaW9uIHwgPHNwYW4gc3R5bGU9ImNvbG9yOiNENDA5MjA7Zm9udC13ZWlnaHQ6NzAwIj5nbG9iYWw8L3NwYW4+IHwKClRoZSBudW1iZXJzIG5ldmVyIGNoYW5nZWQuIE9ubHkgdGhlIGVudmVsb3BlIGdvdCB3aWRlci4KCiMjIEhvdyB0aGUgYWJzdHJhY3Rpb24gaG9sZHMKClR3byB0ZW5hbnRzIGJvdGggcnVuIGAxMC4wLjAuNWAuIE9uIG9uZSBwaHlzaWNhbCBuZXR3b3JrLCB3aHkgZG9uJ3QgdGhleSBjb2xsaWRlPwoKVHdvIG5ldHdvcmtzIGFyZSBzdGFja2VkLiBUaGUgKipvdmVybGF5KiogaXMgeW91ciBWUEMncyBgMTAuMC4wLjVgLiBUaGUgKipzdWJzdHJhdGUqKiAodGhlIHVuZGVybGF5KSBpcyB0aGUgY2xvdWQncyByZWFsIG5ldHdvcmsgYmVuZWF0aCBpdCwgd2hlcmUgeW91ciBWTSdzIGhvc3QgaGFzIGFuIGFkZHJlc3MgbGlrZSBgMTAuNTEuMC43YC4gQSB0YWJsZSBtYXBzIGAoVlBDLCBvdmVybGF5IElQKWAgdG8gYSBzdWJzdHJhdGUgaG9zdCwgc28gdHdvIGAxMC4wLjAuNWBzIGNhcnJ5IGRpZmZlcmVudCBWUEMgSURzIGFuZCBsYW5kIG9uIGRpZmZlcmVudCBtYWNoaW5lcy4gVGhlIElQIGlzIG5vdyBhIGxhYmVsLCBub3QgYW4gYWRkcmVzcy4KCjxpZnJhbWUgc3JjPSIvZW1iZWRzL2Nsb3VkLW5ldHdvcmsvc2RuIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI4NjQiIHN0eWxlPSJib3JkZXI6bm9uZTsgbWFyZ2luOiAxNnB4IDA7IiB0aXRsZT0iU0ROIG92ZXJsYXk6IHNhbWUgSVAsIGRpZmZlcmVudCBWUEMsIHJlc29sdmVkIGJ5IGEgdGFibGUiPjwvaWZyYW1lPgoKWW91IG5ldmVyIHRvdWNoIHRoYXQgdGFibGUuIFlvdXIgYGV0aDBgIGlzIHZpcnR1YWwsIGFuZCBpdHMgb3RoZXIgZW5kIHBsdWdzIGludG8gYSB2aXJ0dWFsIHN3aXRjaCBvbiB0aGUgaG9zdCAoT3BlbiB2U3dpdGNoLCBHQ1AncyBBbmRyb21lZGEsIG9yIEFXUydzIE5pdHJvIGNhcmQpLiBUaGUgc3dpdGNoIGlzIHRoZSAqKmRhdGEgcGxhbmUqKjsgdGhlIHRhYmxlIGlzIHRoZSAqKmNvbnRyb2wgcGxhbmUqKiAoQVdTJ3MgbWFwcGluZyBzZXJ2aWNlLCBHQ1AncyBBbmRyb21lZGEpLgoKU28gVk0tQSAoYDEwLjAuMC41YCkgcmVhY2hpbmcgVk0tQiAoYDEwLjAuMC45YCkgaXMgcmVhbGx5IHRocmVlIGxvb2t1cHMsIGFuZCBvbmx5IHRoZSBtaWRkbGUgb25lIGlzIHRoZSBjbG91ZCdzIGludmVudGlvbjoKCi0gKirikaAgaW4gdGhlIGd1ZXN0LCBvdmVybGF5IEFSUC4qKiBgMTAuMC4wLjkg4oaSIE1BQ2AsIGF0IEwyLCBpbnNpZGUgeW91ciBWUEMuIFRoZSB2aXJ0dWFsIHN3aXRjaCBwcm94eS1hbnN3ZXJzIGl0LgotICoq4pGhIGluIHRoZSB2aXJ0dWFsIHN3aXRjaCwgdGhlIG1hcHBpbmcgdGFibGUuKiogYCh2cGMsIDEwLjAuMC45KSDihpIgaG9zdCAxMC41MS4wLjlgLCBvdmVybGF5IHRvIHN1YnN0cmF0ZS4gSXQgdGhlbiB3cmFwcyB0aGUgcGFja2V0OiBhbiBvdXRlciBgMTAuNTEuMC43IOKGkiAxMC41MS4wLjlgIG9uIHRoZSBzdWJzdHJhdGUsIGNhcnJ5aW5nIHlvdXIgaW5uZXIgYDEwLjAuMC41IOKGkiAxMC4wLjAuOWAuCi0gKirikaIgb24gdGhlIGZhYnJpYywgc3Vic3RyYXRlIEFSUC4qKiBgMTAuNTEuMC45IOKGkiBNQUNgLCBhdCBMMiwgb24gdGhlIGNsb3VkJ3MgcGh5c2ljYWwgbmV0d29yay4KCkF0IHRoZSBmYXIgZW5kIHRoZSBzd2l0Y2ggc3RyaXBzIHRoZSBvdXRlciBoZWFkZXIgYW5kIGhhbmRzIHRoZSBpbm5lciBwYWNrZXQgdG8gVk0tQi4gWW91ciBndWVzdCByYW4gcGxhaW4gbmV0d29ya2luZyB0aGUgd2hvbGUgdGltZSBhbmQgc2F3IG5vbmUgb2YgaXQuCgpBbmQgYDEwLjUxLjAuN2AgbmVlZHMgbm8gZnVydGhlciBsb29rdXA6IHByaXZhdGUganVzdCBtZWFucyBzY29wZWQsIGFuZCBvbiB0aGUgY2xvdWQncyBvd24gZmFicmljIGl0IGlzIGEgcmVhbCwgcm91dGFibGUgYWRkcmVzcy4gVGhlIHJlY3Vyc2lvbiBzdG9wcyBhdCB0aGUgd2lyZS4KCk5vbmUgb2YgdGhpcyBuZWVkcyB0aGUgY2xvdWQgdG8gcmVjb2duaXplIHlvdXIgdHJhZmZpYy4gWW91ciBWTSBib290cyBvbiB0aGUgY2xvdWQncyBob3N0LCBvbiB0aGUgY2xvdWQncyBuZXR3b3JrOyBmcm9tIHRoZSBtb21lbnQgYSBwYWNrZXQgbGVhdmVzIGBldGgwYCBpdCB3YXMgbmV2ZXIgYW55d2hlcmUgZWxzZS4gVGhlIGNsb3VkIGlzIHRoZSBsYW5kbG9yZC4gVGhhdCBpcyBhbHNvIGhvdyBhIGZsYXQgZ2xvYmFsIGAxMC4wLjAuMC8xNmAgc3BhbnMgY29udGluZW50czogdGhlIG51bWJlciBpcyBmbGF0LCB0aGUgdGFibGUgcm91dGVzIGVhY2ggbGFiZWwgdG8gYSByZWFsIGhvc3Qgb3ZlciB0aGUgYmFja2JvbmUuCgojIyBHQ1AncyBnbG9iYWwgVlBDLCBsYXllciBieSBsYXllcgoKR0NQJ3MgZ2xvYmFsIFZQQyBpcyB0aGUgc3VycHJpc2luZyBvbmUsIHNvIGl0IGlzIHdvcnRoIHpvb21pbmcgaW4uIFRoZSAibWFnaWMiIGlzIGp1c3QgbGF5ZXJzLCBhbmQgdGhlIGxheWVyaW5nIGlzIHRleHRib29rIGRlcGVuZGVuY3kgaW52ZXJzaW9uOgoKYGBgCllvdSDihpIgR2xvYmFsIFZQQyDihpIgQW5kcm9tZWRhIOKGkiBwaHlzaWNhbCBuZXR3b3JrCmBgYAoKKipHbG9iYWwgVlBDKiogaXMgdGhlIGNvbnNvbGUgeW91IHRvdWNoOiBzdWJuZXRzLCByb3V0ZXMsIGZpcmV3YWxsIHJ1bGVzLiAqKkFuZHJvbWVkYSoqIGlzIHRoZSBlbmdpbmUgdW5kZXJuZWF0aCwgdGhlIHRoaW5nIHRoYXQgYWN0dWFsbHkgY2FycmllcyBhIHBhY2tldCBmcm9tIGB1cy13ZXN0MWAgdG8gYGFzaWEtZWFzdDFgLiBFYWNoIGxheWVyIGlzIGFuIGFic3RyYWN0aW9uIGZvciB0aGUgb25lIGFib3ZlIGFuZCBhbiBpbXBsZW1lbnRhdGlvbiBmb3IgdGhlIG9uZSBiZWxvdy4gR2xvYmFsIFZQQyBoaWRlcyBBbmRyb21lZGEgZnJvbSB5b3U7IEFuZHJvbWVkYSBoaWRlcyB0aGUgcGh5c2ljYWwgZmFicmljIGZyb20gR2xvYmFsIFZQQy4gU2hlbGwgYW5kIGtlcm5lbC4KCkFuZCBBbmRyb21lZGEgaXMgbm90IGEgZHVtYiBmb3J3YXJkZXIuIEl0IGRvZXMgKippbnRlbGxpZ2VudCByb3V0aW5nKiogKGRlY2lzaW9ucyBvbiBsb2FkLCBoZWFsdGgsIGFuZCBsYXRlbmN5LCBub3QganVzdCBkaXN0YW5jZSkgYW5kICoqbmV0d29yayBmdW5jdGlvbiB2aXJ0dWFsaXphdGlvbioqIChmaXJld2FsbHMgYW5kIE5BVCBhcyBzb2Z0d2FyZSwgbm90IGJveGVzIG9uIGEgcmFjaykuCgpTbyBhIGNyb3NzLXJlZ2lvbiByZXF1ZXN0IG5ldmVyIGVzY2FwZXMgcGh5c2ljcy4gWW91ciBwYWNrZXQgaGl0cyBhIEdDUCBlZGdlLCByaWRlcyBHb29nbGUncyBwcml2YXRlIGJhY2tib25lLCBhbmQgQW5kcm9tZWRhIHN0ZWVycyBpdCB0byB0aGUgcmlnaHQgcmVnaW9uLiBUaGUgZ2xvYmFsIFZQQyB5b3UgY29uZmlndXJlZCBkaWQgbm90IG1vdmU7IHRoZSBjb250cm9sIHBsYW5lIGRpZCB0aGUgbW92aW5nLiBBIGZsYXQgYC8xNmAgc3BhbnMgY29udGluZW50cyBiZWNhdXNlIHRoZSBsYXllciBiZW5lYXRoIGl0IGlzIGRlZXAgZW5vdWdoIHRvIHJvdXRlIGEgZmxhdCBudW1iZXIgdG8gYW55IGhvc3Qgb24gdGhlIHBsYW5ldC4KCkl0IGlzIHRoZSBzYW1lIGlsbHVzaW9uIGNvbnRhaW5lcnMgYW5kIHNlcnZlcmxlc3Mgc2VsbDogdGhlIG1lc3N5IHBoeXNpY2FsIHRoaW5nIGlzIHN0aWxsIHRoZXJlLCBhIGxheWVyIGJlbG93IGp1c3Qgc3RvcHBlZCBtYWtpbmcgeW91IGxvb2sgYXQgaXQuCgojIyBXaHkgcGVlcmluZyBoYXRlcyBvdmVybGFwcGluZyBDSURScwoKUGVlcmluZyB0d28gVlBDcyBoYXMgb25lIGhhcmQgcnVsZTogdGhlaXIgcmFuZ2VzIGNhbm5vdCBvdmVybGFwLiBUaGUgYnJlYWsgaGFwcGVucyBlYXJsaWVyIHRoYW4geW91IHdvdWxkIGd1ZXNzLgoKV2hlbiBWTS1BIHNlbmRzIHRvIGAxMC4wLjAuNWAsIHRoZSBmaXJzdCB0aGluZyBpdHMgT1MgY2hlY2tzIGlzIGl0cyBvd24gcm91dGluZyB0YWJsZSwgYW5kIGAxMC4wLjAuMC8xNmAgaXMgbG9jYWwuIFNvIGl0IGp1ZGdlcyB0aGUgZGVzdGluYXRpb24gdG8gYmUgb24gaXRzIG93biBzdWJuZXQgYW5kIHRyaWVzIHRvIGRlbGl2ZXIgYXQgaG9tZS4gVGhlIHBhY2tldCBuZXZlciBoZWFkcyBmb3IgdGhlIGRvb3IsIHNvIHRoZSBtYXBwaW5nIHRhYmxlLCB0aGUgc3Vic3RyYXRlLCBhbmQgQVJQIG5ldmVyIGdldCBhIHR1cm4uIEEgZGVzdGluYXRpb24gdGhhdCBtYXRjaGVzIHlvdXIgb3duIHJhbmdlIGNhbm5vdCBldmVuIGxlYXZlIHlvdXIgb3duIFZQQy4KClRoYXQgaXMgYWxzbyB3aHkgY29ubmVjdGluZyBvdmVybGFwcGluZyBWUENzIG5lZWRzIE5BVDogYSBmb3JlaWduLWxvb2tpbmcgYWRkcmVzcyBsaWtlIGAxMDAuNjQuMC41YCBpcyB3aGF0IGNvbnZpbmNlcyB0aGUgVk0gdGhlIHRhcmdldCBpcyByZW1vdGUgYW5kIHdvcnRoIHNlbmRpbmcgb3V0LgoKIyMgRWFjaCBsYXlvdXQgZml0cyB0aGUgY29tcGFueSBiZWhpbmQgaXQKClRoZXNlIGNob2ljZXMgbGluZSB1cCB3aXRoIHdoYXQgZWFjaCBjb21wYW55IGFscmVhZHkgd2FzLiBMZXNzIGEgcHJvdmVuIGNhdXNlIHRoYW4gYSBwYXR0ZXJuIHdvcnRoIG5vdGljaW5nLgoKLSAqKkFXUzogY29udGFpbiB0aGUgYmxhc3QgcmFkaXVzLioqIEFXUyB0cmVhdHMgYW4gQXZhaWxhYmlsaXR5IFpvbmUgYXMgYSBoYXJkIGZhaWx1cmUgYm91bmRhcnksIGFuZCBwaW5uaW5nIGEgc3VibmV0IHRvIG9uZSBBWiBsaWtlbHkgcmVmbGVjdHMgdGhlIHNhbWUgaW5zdGluY3QsIHB1c2hpbmcgeW91ciBhcmNoaXRlY3R1cmUgYWNyb3NzIGZhaWx1cmUgZG9tYWlucy4gKFtBV1MgRmF1bHQgSXNvbGF0aW9uIEJvdW5kYXJpZXNdKGh0dHBzOi8vZG9jcy5hd3MuYW1hem9uLmNvbS93aGl0ZXBhcGVycy9sYXRlc3QvYXdzLWZhdWx0LWlzb2xhdGlvbi1ib3VuZGFyaWVzL2F2YWlsYWJpbGl0eS16b25lcy5odG1sKSkKLSAqKkdDUDogZXhwb3NlIGEgbmV0d29yayB0aGF0IHdhcyBhbHJlYWR5IGdsb2JhbC4qKiBHb29nbGUgcmFuIGEgcGxhbmV0LXNjYWxlIHNvZnR3YXJlLWRlZmluZWQgbmV0d29yayAoQW5kcm9tZWRhKSBmb3IgaXRzIG93biBwcm9kdWN0cyBsb25nIGJlZm9yZSBzZWxsaW5nIGNsb3VkLCBzbyBhIGdsb2JhbCBWUEMgbW9zdGx5IG9wZW5zIHVwIHdoYXQgYWxyZWFkeSBleGlzdGVkLiAoW0FuZHJvbWVkYV0oaHR0cHM6Ly9yZXNlYXJjaC5nb29nbGUvcHVicy9hbmRyb21lZGEtcGVyZm9ybWFuY2UtaXNvbGF0aW9uLWFuZC12ZWxvY2l0eS1hdC1zY2FsZS1pbi1jbG91ZC1uZXR3b3JrLXZpcnR1YWxpemF0aW9uLykpCi0gKipBenVyZTogc2hhcGVkIGJ5IHRoZSBlbnRlcnByaXNlIGl0IGNhbWUgZnJvbS4qKiBNaWNyb3NvZnQgYnVpbHQgQXp1cmUgdG8gYmUgaHlicmlkIGZyb20gZGF5IG9uZSwgYW5kIHRoZSBWTmV0IGlzIG1hZGUgdG8gZXh0ZW5kIHRvIG9uLXByZW1pc2VzIG92ZXIgVlBOIG9yIEV4cHJlc3NSb3V0ZSwgdGhlIHdheSBhIGNvcnBvcmF0ZSBuZXR3b3JrIHdvdWxkLiAoW01pY3Jvc29mdCBBenVyZSBvbiBoeWJyaWRdKGh0dHBzOi8vYXp1cmUubWljcm9zb2Z0LmNvbS9lbi11cy9ibG9nL21pY3Jvc29mdC1henVyZS10aGUtb25seS1jb25zaXN0ZW50LWNvbXByZWhlbnNpdmUtaHlicmlkLWNsb3VkLykpCgojIyBSZWZlcmVuY2VzCgotIFtTdWJuZXRzIGFjcm9zcyBBV1MsIEF6dXJlLCBhbmQgR0NQIOKAlCBpcHNwYWNlLm5ldCAoSXZhbiBQZXBlbG5qYWspXShodHRwczovL2Jsb2cuaXBzcGFjZS5uZXQvMjAyMS8wMi92cGMtc3VibmV0cy1hd3MtYXp1cmUtZ2NwLmh0bWwpIOKAlCB0aGUgY29tcGFyaXNvbiB0YWJsZSB0aGlzIGFydGljbGUgYnVpbGRzIG9uLgotIFtBbWF6b24gVlBDIOKAlCBTdWJuZXRzIGZvciB5b3VyIFZQQ10oaHR0cHM6Ly9kb2NzLmF3cy5hbWF6b24uY29tL3ZwYy9sYXRlc3QvdXNlcmd1aWRlL2NvbmZpZ3VyZS1zdWJuZXRzLmh0bWwpIOKAlCAiZWFjaCBzdWJuZXQgbXVzdCByZXNpZGUgZW50aXJlbHkgd2l0aGluIG9uZSBBdmFpbGFiaWxpdHkgWm9uZS4iCi0gW0F6dXJlIOKAlCBXaGF0IGlzIEF6dXJlIFZpcnR1YWwgTmV0d29yaz9dKGh0dHBzOi8vbGVhcm4ubWljcm9zb2Z0LmNvbS9lbi11cy9henVyZS92aXJ0dWFsLW5ldHdvcmsvdmlydHVhbC1uZXR3b3Jrcy1vdmVydmlldykg4oCUIHZpcnR1YWwgbmV0d29ya3MgYW5kIHN1Ym5ldHMgc3BhbiBhbGwgYXZhaWxhYmlsaXR5IHpvbmVzIGluIGEgcmVnaW9uLgotIFtBenVyZSDigJQgVmlydHVhbCBOZXR3b3JrIEZBUTogY2FuIGEgVk5ldCBzcGFuIHJlZ2lvbnM/XShodHRwczovL2xlYXJuLm1pY3Jvc29mdC5jb20vZW4tdXMvYXp1cmUvdmlydHVhbC1uZXR3b3JrL3ZpcnR1YWwtbmV0d29ya3MtZmFxI2Nhbi1hLXZpcnR1YWwtbmV0d29yay1zcGFuLXJlZ2lvbnMpCi0gW0dvb2dsZSBDbG91ZCDigJQgVlBDIG5ldHdvcmtzXShodHRwczovL2RvY3MuY2xvdWQuZ29vZ2xlLmNvbS92cGMvZG9jcy92cGMpIOKAlCBWUEMgbmV0d29ya3MgYXJlIGdsb2JhbCByZXNvdXJjZXM7IHN1Ym5ldHMgYXJlIHJlZ2lvbmFsLgotIFtBbmRyb21lZGE6IFBlcmZvcm1hbmNlLCBJc29sYXRpb24sIGFuZCBWZWxvY2l0eSBhdCBTY2FsZSBpbiBDbG91ZCBOZXR3b3JrIFZpcnR1YWxpemF0aW9uIChHb29nbGUgcmVzZWFyY2gpXShodHRwczovL3Jlc2VhcmNoLmdvb2dsZS9wdWJzL2FuZHJvbWVkYS1wZXJmb3JtYW5jZS1pc29sYXRpb24tYW5kLXZlbG9jaXR5LWF0LXNjYWxlLWluLWNsb3VkLW5ldHdvcmstdmlydHVhbGl6YXRpb24vKSDigJQgR0NQJ3MgU0ROIGxheWVyLgotIFtSRkMgMTkxOCDigJQgQWRkcmVzcyBBbGxvY2F0aW9uIGZvciBQcml2YXRlIEludGVybmV0c10oaHR0cHM6Ly93d3cucmZjLWVkaXRvci5vcmcvcmZjL3JmYzE5MTgpCg==9:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L14",null,{"htmlContent":"$15","rawContent":"$16","base64Content":"$17","title":"Same /16, the big 3 cloud providers differ on how far it reaches","createdAt":"$undefined","updatedAt":"2026-06-25T22:35:53.000Z","tags":["cloud","network","aws","gcp","azure"],"altHtmlContent":"$undefined","currentLang":"$undefined","altLang":"$undefined"}]}]}]

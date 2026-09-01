@@ -1,0 +1,141 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"default"]
+4:I[47843,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"default"]
+5:I[48350,[],""]
+6:I[11412,[],""]
+7:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+8:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-5f5d0eb30b97fa1b.js"],"default"]
+a:I[96727,[],"OutletBoundary"]
+c:I[14038,[],"AsyncMetadataOutlet"]
+e:I[96727,[],"ViewportBoundary"]
+10:I[96727,[],"MetadataBoundary"]
+11:"$Sreact.suspense"
+13:I[92950,[],""]
+:HL["/_next/static/media/4c9affa5bc8f420e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/6e5637a05e39a1b1.css","style"]
+:HL["/_next/static/css/27451c99e2657f58.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/004145cbd0a33204.css","style"]
+0:{"P":null,"b":"ULvxUWnH7J2D9qudU--bA","p":"","c":["","v2","aws-policies-same-shape"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","aws-policies-same-shape","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6e5637a05e39a1b1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/27451c99e2657f58.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L8",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","aws-policies-same-shape","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/004145cbd0a33204.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$La",null,{"children":["$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L10",null,{"children":["$","div",null,{"hidden":true,"children":["$","$11",null,{"fallback":null,"children":"$L12"}]}]}]]}],false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+b:null
+14:I[25885,["7654","static/chunks/7654-339fd591b7f76774.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+d:{"metadata":[["$","title","0",{"children":"AWS has a dozen policies. They're all one shape.  | jialinhuang"}],["$","meta","1",{"name":"description","content":"S3 bucket policy, SQS queue policy, KMS key policy, IAM role policy. AWS keeps inventing things called 'policy.' You don't have to learn each one. They share one JSON shape, and a single question tells you how any of them works."}]],"error":null,"digest":"$undefined"}
+12:"$d:metadata"
+15:T18f5,<p>AWS keeps inventing policies. S3 bucket policy, SQS queue policy, SNS topic policy, Lambda function policy, KMS key policy, API Gateway resource policy, IAM role policy. It looks like a dozen things to learn.</p>
+<p>It's one thing.</p>
+<h2>One shape</h2>
+<p>Every one of them is this JSON:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Version"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"2012-10-17"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Statement"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">    "Effect"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Allow"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,            </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// or Deny</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">    "Principal"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: { },             </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// who</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">    "Action"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"s3:GetObject"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">],   </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// what they may do</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">    "Resource"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"arn:..."</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,        </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// on which thing</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">    "Condition"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: { }              </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// when (optional)</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  }]</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>Learn it once and you can read any AWS policy. The service prefix on the action (<code>s3:</code>, <code>sqs:</code>, <code>kms:</code>) is the only part that really changes.</p>
+<h2>The one split that matters</h2>
+<p>There are really just two kinds, and <code>Principal</code> ("who") is the tell.</p>
+<ul>
+<li><strong>Identity-based policy.</strong> Attached to an IAM user, group, or role. It has <strong>no <code>Principal</code></strong>. The "who" is already settled: it's the identity you stapled the policy to.</li>
+<li><strong>Resource-based policy.</strong> Attached to a <em>thing</em>: a bucket, a queue, a key. It <strong>must name a <code>Principal</code></strong>, because the thing has no idea who's knocking until you say so.</li>
+</ul>
+<p>That's the entire distinction. Put a policy on an identity, drop the Principal. Put it on a resource, name the Principal.</p>
+<p>So the dozen names collapse into two piles:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Identity-based (no Principal)</th><th>Resource-based (needs Principal)</th></tr></thead><tbody><tr><td>IAM user / group / role policy</td><td>S3 bucket, SQS, SNS, Lambda, KMS key, Secrets Manager, API Gateway, VPC endpoint, DynamoDB, ...</td></tr></tbody></table>
+<p>The resource list keeps growing. When unsure, ask: can I attach a policy directly to this thing? If yes, it's resource-based and wants a Principal.</p>
+<h2>Two that break the mold</h2>
+<ul>
+<li><strong>CloudFormation stack policy</strong> is a fake-out. Same-looking JSON, but it isn't about access at all. It guards which resources a stack update is allowed to touch. No Principal, because there's no "who."</li>
+<li><strong><a href="https://aws.amazon.com/blogs/aws/introducing-resource-control-policies-rcps-a-new-authorization-policy/">RCP (Resource Control Policy)</a></strong>, added late 2024, is the new arrival. It sits at the AWS Organizations level and caps what every resource-based policy in your org is allowed to grant. Same family, bigger blast radius.</li>
+</ul>
+<h2>S3 is the cautionary tale</h2>
+<p>S3 is where this sprawl got out of hand. One bucket can be governed by a bucket policy, your IAM policies, <strong>and</strong> ACLs at the same time, with a Block Public Access switch over the top. Several knobs, one bucket.</p>
+<p>The odd one out is the <strong>ACL</strong>. It predates IAM policies and doesn't use the JSON shape at all: no <code>Effect</code>, no <code>Action</code>, no <code>Condition</code>. Just a coarse "grant this account or group READ/WRITE," in its own format. The mechanism that never fit.</p>
+<p>That overlap leaked real data: a bucket read private by its policy while an ACL quietly said otherwise. So AWS changed the default. New buckets now ship with <a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/about-object-ownership.html">ACLs disabled</a> ("Bucket owner enforced"), and the guidance is to leave them off and use bucket policies alone. The cure for too many shapes was to delete one.</p>
+<h2>The takeaway</h2>
+<p>Next time AWS hands you a new "X policy," relearn nothing. Ask one question: <strong>does it have a <code>Principal</code>?</strong></p>
+<ul>
+<li>No, it's identity-based. Attached to a who.</li>
+<li>Yes, it's resource-based. Attached to a what, and you're naming the who.</li>
+</ul>
+<p>One shape, one question. The dozen names were never a dozen things.</p>16:Td95,
+AWS keeps inventing policies. S3 bucket policy, SQS queue policy, SNS topic policy, Lambda function policy, KMS key policy, API Gateway resource policy, IAM role policy. It looks like a dozen things to learn.
+
+It's one thing.
+
+## One shape
+
+Every one of them is this JSON:
+
+```json
+{
+  "Version": "2012-10-17",
+  "Statement": [{
+    "Effect": "Allow",            // or Deny
+    "Principal": { },             // who
+    "Action": ["s3:GetObject"],   // what they may do
+    "Resource": "arn:...",        // on which thing
+    "Condition": { }              // when (optional)
+  }]
+}
+```
+
+Learn it once and you can read any AWS policy. The service prefix on the action (`s3:`, `sqs:`, `kms:`) is the only part that really changes.
+
+## The one split that matters
+
+There are really just two kinds, and `Principal` ("who") is the tell.
+
+- **Identity-based policy.** Attached to an IAM user, group, or role. It has **no `Principal`**. The "who" is already settled: it's the identity you stapled the policy to.
+- **Resource-based policy.** Attached to a *thing*: a bucket, a queue, a key. It **must name a `Principal`**, because the thing has no idea who's knocking until you say so.
+
+That's the entire distinction. Put a policy on an identity, drop the Principal. Put it on a resource, name the Principal.
+
+So the dozen names collapse into two piles:
+
+| Identity-based (no Principal) | Resource-based (needs Principal) |
+|---|---|
+| IAM user / group / role policy | S3 bucket, SQS, SNS, Lambda, KMS key, Secrets Manager, API Gateway, VPC endpoint, DynamoDB, ... |
+
+The resource list keeps growing. When unsure, ask: can I attach a policy directly to this thing? If yes, it's resource-based and wants a Principal.
+
+## Two that break the mold
+
+- **CloudFormation stack policy** is a fake-out. Same-looking JSON, but it isn't about access at all. It guards which resources a stack update is allowed to touch. No Principal, because there's no "who."
+- **[RCP (Resource Control Policy)](https://aws.amazon.com/blogs/aws/introducing-resource-control-policies-rcps-a-new-authorization-policy/)**, added late 2024, is the new arrival. It sits at the AWS Organizations level and caps what every resource-based policy in your org is allowed to grant. Same family, bigger blast radius.
+
+## S3 is the cautionary tale
+
+S3 is where this sprawl got out of hand. One bucket can be governed by a bucket policy, your IAM policies, **and** ACLs at the same time, with a Block Public Access switch over the top. Several knobs, one bucket.
+
+The odd one out is the **ACL**. It predates IAM policies and doesn't use the JSON shape at all: no `Effect`, no `Action`, no `Condition`. Just a coarse "grant this account or group READ/WRITE," in its own format. The mechanism that never fit.
+
+That overlap leaked real data: a bucket read private by its policy while an ACL quietly said otherwise. So AWS changed the default. New buckets now ship with [ACLs disabled](https://docs.aws.amazon.com/AmazonS3/latest/userguide/about-object-ownership.html) ("Bucket owner enforced"), and the guidance is to leave them off and use bucket policies alone. The cure for too many shapes was to delete one.
+
+## The takeaway
+
+Next time AWS hands you a new "X policy," relearn nothing. Ask one question: **does it have a `Principal`?**
+
+- No, it's identity-based. Attached to a who.
+- Yes, it's resource-based. Attached to a what, and you're naming the who.
+
+One shape, one question. The dozen names were never a dozen things.
+17:T1410,LS0tCnRpdGxlOiAiQVdTIGhhcyBhIGRvemVuIHBvbGljaWVzLiBUaGV5J3JlIGFsbCBvbmUgc2hhcGUuIgpjcmVhdGVkQXQ6IDIwMjQtMTAtMjhUMTA6NTM6MDAKdGFnczogW2F3cywgaWFtLCBzZWN1cml0eSwgY2xvdWRdCmRlc2NyaXB0aW9uOiAiUzMgYnVja2V0IHBvbGljeSwgU1FTIHF1ZXVlIHBvbGljeSwgS01TIGtleSBwb2xpY3ksIElBTSByb2xlIHBvbGljeS4gQVdTIGtlZXBzIGludmVudGluZyB0aGluZ3MgY2FsbGVkICdwb2xpY3kuJyBZb3UgZG9uJ3QgaGF2ZSB0byBsZWFybiBlYWNoIG9uZS4gVGhleSBzaGFyZSBvbmUgSlNPTiBzaGFwZSwgYW5kIGEgc2luZ2xlIHF1ZXN0aW9uIHRlbGxzIHlvdSBob3cgYW55IG9mIHRoZW0gd29ya3MuIgotLS0KCkFXUyBrZWVwcyBpbnZlbnRpbmcgcG9saWNpZXMuIFMzIGJ1Y2tldCBwb2xpY3ksIFNRUyBxdWV1ZSBwb2xpY3ksIFNOUyB0b3BpYyBwb2xpY3ksIExhbWJkYSBmdW5jdGlvbiBwb2xpY3ksIEtNUyBrZXkgcG9saWN5LCBBUEkgR2F0ZXdheSByZXNvdXJjZSBwb2xpY3ksIElBTSByb2xlIHBvbGljeS4gSXQgbG9va3MgbGlrZSBhIGRvemVuIHRoaW5ncyB0byBsZWFybi4KCkl0J3Mgb25lIHRoaW5nLgoKIyMgT25lIHNoYXBlCgpFdmVyeSBvbmUgb2YgdGhlbSBpcyB0aGlzIEpTT046CgpgYGBqc29uCnsKICAiVmVyc2lvbiI6ICIyMDEyLTEwLTE3IiwKICAiU3RhdGVtZW50IjogW3sKICAgICJFZmZlY3QiOiAiQWxsb3ciLCAgICAgICAgICAgIC8vIG9yIERlbnkKICAgICJQcmluY2lwYWwiOiB7IH0sICAgICAgICAgICAgIC8vIHdobwogICAgIkFjdGlvbiI6IFsiczM6R2V0T2JqZWN0Il0sICAgLy8gd2hhdCB0aGV5IG1heSBkbwogICAgIlJlc291cmNlIjogImFybjouLi4iLCAgICAgICAgLy8gb24gd2hpY2ggdGhpbmcKICAgICJDb25kaXRpb24iOiB7IH0gICAgICAgICAgICAgIC8vIHdoZW4gKG9wdGlvbmFsKQogIH1dCn0KYGBgCgpMZWFybiBpdCBvbmNlIGFuZCB5b3UgY2FuIHJlYWQgYW55IEFXUyBwb2xpY3kuIFRoZSBzZXJ2aWNlIHByZWZpeCBvbiB0aGUgYWN0aW9uIChgczM6YCwgYHNxczpgLCBga21zOmApIGlzIHRoZSBvbmx5IHBhcnQgdGhhdCByZWFsbHkgY2hhbmdlcy4KCiMjIFRoZSBvbmUgc3BsaXQgdGhhdCBtYXR0ZXJzCgpUaGVyZSBhcmUgcmVhbGx5IGp1c3QgdHdvIGtpbmRzLCBhbmQgYFByaW5jaXBhbGAgKCJ3aG8iKSBpcyB0aGUgdGVsbC4KCi0gKipJZGVudGl0eS1iYXNlZCBwb2xpY3kuKiogQXR0YWNoZWQgdG8gYW4gSUFNIHVzZXIsIGdyb3VwLCBvciByb2xlLiBJdCBoYXMgKipubyBgUHJpbmNpcGFsYCoqLiBUaGUgIndobyIgaXMgYWxyZWFkeSBzZXR0bGVkOiBpdCdzIHRoZSBpZGVudGl0eSB5b3Ugc3RhcGxlZCB0aGUgcG9saWN5IHRvLgotICoqUmVzb3VyY2UtYmFzZWQgcG9saWN5LioqIEF0dGFjaGVkIHRvIGEgKnRoaW5nKjogYSBidWNrZXQsIGEgcXVldWUsIGEga2V5LiBJdCAqKm11c3QgbmFtZSBhIGBQcmluY2lwYWxgKiosIGJlY2F1c2UgdGhlIHRoaW5nIGhhcyBubyBpZGVhIHdobydzIGtub2NraW5nIHVudGlsIHlvdSBzYXkgc28uCgpUaGF0J3MgdGhlIGVudGlyZSBkaXN0aW5jdGlvbi4gUHV0IGEgcG9saWN5IG9uIGFuIGlkZW50aXR5LCBkcm9wIHRoZSBQcmluY2lwYWwuIFB1dCBpdCBvbiBhIHJlc291cmNlLCBuYW1lIHRoZSBQcmluY2lwYWwuCgpTbyB0aGUgZG96ZW4gbmFtZXMgY29sbGFwc2UgaW50byB0d28gcGlsZXM6Cgp8IElkZW50aXR5LWJhc2VkIChubyBQcmluY2lwYWwpIHwgUmVzb3VyY2UtYmFzZWQgKG5lZWRzIFByaW5jaXBhbCkgfAp8LS0tfC0tLXwKfCBJQU0gdXNlciAvIGdyb3VwIC8gcm9sZSBwb2xpY3kgfCBTMyBidWNrZXQsIFNRUywgU05TLCBMYW1iZGEsIEtNUyBrZXksIFNlY3JldHMgTWFuYWdlciwgQVBJIEdhdGV3YXksIFZQQyBlbmRwb2ludCwgRHluYW1vREIsIC4uLiB8CgpUaGUgcmVzb3VyY2UgbGlzdCBrZWVwcyBncm93aW5nLiBXaGVuIHVuc3VyZSwgYXNrOiBjYW4gSSBhdHRhY2ggYSBwb2xpY3kgZGlyZWN0bHkgdG8gdGhpcyB0aGluZz8gSWYgeWVzLCBpdCdzIHJlc291cmNlLWJhc2VkIGFuZCB3YW50cyBhIFByaW5jaXBhbC4KCiMjIFR3byB0aGF0IGJyZWFrIHRoZSBtb2xkCgotICoqQ2xvdWRGb3JtYXRpb24gc3RhY2sgcG9saWN5KiogaXMgYSBmYWtlLW91dC4gU2FtZS1sb29raW5nIEpTT04sIGJ1dCBpdCBpc24ndCBhYm91dCBhY2Nlc3MgYXQgYWxsLiBJdCBndWFyZHMgd2hpY2ggcmVzb3VyY2VzIGEgc3RhY2sgdXBkYXRlIGlzIGFsbG93ZWQgdG8gdG91Y2guIE5vIFByaW5jaXBhbCwgYmVjYXVzZSB0aGVyZSdzIG5vICJ3aG8uIgotICoqW1JDUCAoUmVzb3VyY2UgQ29udHJvbCBQb2xpY3kpXShodHRwczovL2F3cy5hbWF6b24uY29tL2Jsb2dzL2F3cy9pbnRyb2R1Y2luZy1yZXNvdXJjZS1jb250cm9sLXBvbGljaWVzLXJjcHMtYS1uZXctYXV0aG9yaXphdGlvbi1wb2xpY3kvKSoqLCBhZGRlZCBsYXRlIDIwMjQsIGlzIHRoZSBuZXcgYXJyaXZhbC4gSXQgc2l0cyBhdCB0aGUgQVdTIE9yZ2FuaXphdGlvbnMgbGV2ZWwgYW5kIGNhcHMgd2hhdCBldmVyeSByZXNvdXJjZS1iYXNlZCBwb2xpY3kgaW4geW91ciBvcmcgaXMgYWxsb3dlZCB0byBncmFudC4gU2FtZSBmYW1pbHksIGJpZ2dlciBibGFzdCByYWRpdXMuCgojIyBTMyBpcyB0aGUgY2F1dGlvbmFyeSB0YWxlCgpTMyBpcyB3aGVyZSB0aGlzIHNwcmF3bCBnb3Qgb3V0IG9mIGhhbmQuIE9uZSBidWNrZXQgY2FuIGJlIGdvdmVybmVkIGJ5IGEgYnVja2V0IHBvbGljeSwgeW91ciBJQU0gcG9saWNpZXMsICoqYW5kKiogQUNMcyBhdCB0aGUgc2FtZSB0aW1lLCB3aXRoIGEgQmxvY2sgUHVibGljIEFjY2VzcyBzd2l0Y2ggb3ZlciB0aGUgdG9wLiBTZXZlcmFsIGtub2JzLCBvbmUgYnVja2V0LgoKVGhlIG9kZCBvbmUgb3V0IGlzIHRoZSAqKkFDTCoqLiBJdCBwcmVkYXRlcyBJQU0gcG9saWNpZXMgYW5kIGRvZXNuJ3QgdXNlIHRoZSBKU09OIHNoYXBlIGF0IGFsbDogbm8gYEVmZmVjdGAsIG5vIGBBY3Rpb25gLCBubyBgQ29uZGl0aW9uYC4gSnVzdCBhIGNvYXJzZSAiZ3JhbnQgdGhpcyBhY2NvdW50IG9yIGdyb3VwIFJFQUQvV1JJVEUsIiBpbiBpdHMgb3duIGZvcm1hdC4gVGhlIG1lY2hhbmlzbSB0aGF0IG5ldmVyIGZpdC4KClRoYXQgb3ZlcmxhcCBsZWFrZWQgcmVhbCBkYXRhOiBhIGJ1Y2tldCByZWFkIHByaXZhdGUgYnkgaXRzIHBvbGljeSB3aGlsZSBhbiBBQ0wgcXVpZXRseSBzYWlkIG90aGVyd2lzZS4gU28gQVdTIGNoYW5nZWQgdGhlIGRlZmF1bHQuIE5ldyBidWNrZXRzIG5vdyBzaGlwIHdpdGggW0FDTHMgZGlzYWJsZWRdKGh0dHBzOi8vZG9jcy5hd3MuYW1hem9uLmNvbS9BbWF6b25TMy9sYXRlc3QvdXNlcmd1aWRlL2Fib3V0LW9iamVjdC1vd25lcnNoaXAuaHRtbCkgKCJCdWNrZXQgb3duZXIgZW5mb3JjZWQiKSwgYW5kIHRoZSBndWlkYW5jZSBpcyB0byBsZWF2ZSB0aGVtIG9mZiBhbmQgdXNlIGJ1Y2tldCBwb2xpY2llcyBhbG9uZS4gVGhlIGN1cmUgZm9yIHRvbyBtYW55IHNoYXBlcyB3YXMgdG8gZGVsZXRlIG9uZS4KCiMjIFRoZSB0YWtlYXdheQoKTmV4dCB0aW1lIEFXUyBoYW5kcyB5b3UgYSBuZXcgIlggcG9saWN5LCIgcmVsZWFybiBub3RoaW5nLiBBc2sgb25lIHF1ZXN0aW9uOiAqKmRvZXMgaXQgaGF2ZSBhIGBQcmluY2lwYWxgPyoqCgotIE5vLCBpdCdzIGlkZW50aXR5LWJhc2VkLiBBdHRhY2hlZCB0byBhIHdoby4KLSBZZXMsIGl0J3MgcmVzb3VyY2UtYmFzZWQuIEF0dGFjaGVkIHRvIGEgd2hhdCwgYW5kIHlvdSdyZSBuYW1pbmcgdGhlIHdoby4KCk9uZSBzaGFwZSwgb25lIHF1ZXN0aW9uLiBUaGUgZG96ZW4gbmFtZXMgd2VyZSBuZXZlciBhIGRvemVuIHRoaW5ncy4K9:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L14",null,{"htmlContent":"$15","rawContent":"$16","base64Content":"$17","title":"AWS has a dozen policies. They're all one shape.","createdAt":"$undefined","updatedAt":"$undefined","tags":["aws","iam","security","cloud"],"altHtmlContent":"$undefined","currentLang":"$undefined","altLang":"$undefined"}]}]}]

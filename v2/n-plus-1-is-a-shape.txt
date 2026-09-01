@@ -1,0 +1,583 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"default"]
+4:I[47843,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"default"]
+5:I[48350,[],""]
+6:I[11412,[],""]
+7:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+8:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-5f5d0eb30b97fa1b.js"],"default"]
+a:I[96727,[],"OutletBoundary"]
+c:I[14038,[],"AsyncMetadataOutlet"]
+e:I[96727,[],"ViewportBoundary"]
+10:I[96727,[],"MetadataBoundary"]
+11:"$Sreact.suspense"
+13:I[92950,[],""]
+:HL["/_next/static/media/4c9affa5bc8f420e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/6e5637a05e39a1b1.css","style"]
+:HL["/_next/static/css/27451c99e2657f58.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/004145cbd0a33204.css","style"]
+0:{"P":null,"b":"ULvxUWnH7J2D9qudU--bA","p":"","c":["","v2","n-plus-1-is-a-shape"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","n-plus-1-is-a-shape","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6e5637a05e39a1b1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/27451c99e2657f58.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L8",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","n-plus-1-is-a-shape","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/004145cbd0a33204.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$La",null,{"children":["$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L10",null,{"children":["$","div",null,{"hidden":true,"children":["$","$11",null,{"fallback":null,"children":"$L12"}]}]}]]}],false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+b:null
+14:I[25885,["7654","static/chunks/7654-339fd591b7f76774.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+15:Td3c6,<p>A page needs the author name for 20 posts. The data model is the conventional one: each <code>post</code> stores an <code>author_id</code>, and the name lives in the <code>users</code> table. One post has one author, one author has many posts (many-to-one).</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="text" data-theme="github-dark github-light"><code data-language="text" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span>posts(id, title, author_id)   author_id → users.id</span></span>
+<span data-line=""><span>users(id, name)</span></span></code></pre></figure>
+<p>The obvious way to fetch the names is a for loop:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="ts" data-theme="github-dark github-light"><code data-language="ts" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> posts</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> await</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> db.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">query</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'SELECT * FROM posts LIMIT 20'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);  </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// 1 query</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">for</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> post</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> of</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> posts) {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  post.author </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> await</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> db.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">query</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span></span>
+<span data-line=""><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">    'SELECT * FROM users WHERE id = ?'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, [post.author_id]</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  );  </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// ← one query per post, runs 20 times</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>1 + 20 = 21 queries. Each round-trip is 5ms, 105ms total. A single JOIN does it in 7ms.</p>
+<p>It reads like an ordinary loop. But every iteration sends a network request. That's N+1.</p>
+<p>Textbooks put it under "database optimization." I think that placement hides the truth: N+1 has nothing essential to do with databases. It's a <strong>shape</strong>.</p>
+<h2>A shape, not SQL</h2>
+<p>Strip the code down and the skeleton is this:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="text" data-theme="github-dark github-light"><code data-language="text" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span>take a list (1 query)</span></span>
+<span data-line=""><span>for each element, make one round-trip (N queries)</span></span></code></pre></figure>
+<p>What the round-trip <em>is</em> doesn't change whether the shape holds. It can be:</p>
+<ul>
+<li>a SQL query (the most common version)</li>
+<li>an HTTP call to another microservice</li>
+<li>a Redis <code>GET</code></li>
+<li>a gRPC call</li>
+<li>a file read</li>
+</ul>
+<p>The moment you send one cross-boundary request per item across N items, you have N+1. The only difference is the cost of that boundary. SQL is a network round-trip, HTTP is more expensive, a file read is cheaper. The shape is identical. So instead of memorizing "don't query inside a loop," remember: <strong>don't cross a boundary inside a loop</strong>.</p>
+<h2>Three forms of the same shape</h2>
+<p>Same shape, different forms across frameworks. The hard part is the last two, where the loop is invisible.</p>
+<p><strong>The plain for loop.</strong> The opening snippet. At least it's honest: the loop is visible in the code.</p>
+<p><strong>ORM lazy load.</strong> The loop is still there, but the query disappeared:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="python" data-theme="github-dark github-light"><code data-language="python" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># Django</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">posts </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> Post.objects.all()       </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># 1 query</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">for</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> post </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">in</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> posts:</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">    print</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(post.author.name)      </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># ← a hidden query on attribute access</span></span></code></pre></figure>
+<p>To make <code>post.author</code> feel like a plain object, the ORM sends a query the instant you read that attribute. The person writing it feels nothing. Only a profiler or the SQL log shows that one <code>print</code> line is 20 round-trips.</p>
+<p><strong>GraphQL resolvers.</strong> Now even the loop is gone:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="graphql" data-theme="github-dark github-light"><code data-language="graphql" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">  posts</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">    title</span></span>
+<span data-line=""><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">    author</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> { </span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">name</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>You wrote no loop. The GraphQL engine wrote one for you: it takes 20 posts and runs the <code>author</code> resolver once per post, each one querying the user table. Same 1+N. The framework hid the loop, and you only see a clean declarative query.</p>
+<p>Three forms, one shape. The further down you go, the more invisible the loop, the harder to notice in code review.</p>
+<h2>Promise.all looks like a fix, but it isn't</h2>
+<p>The first instinct: just send them all with Promise.all.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="ts" data-theme="github-dark github-light"><code data-language="ts" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> posts</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> await</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> db.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">query</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'SELECT * FROM posts LIMIT 20'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">await</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> Promise</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">all</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  posts.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">map</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">post</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    db.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">query</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'SELECT * FROM users WHERE id = ?'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, [post.author_id])</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  )</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span></code></pre></figure>
+<p>"I parallelized it, much faster." It is faster. 20 × 5ms one-by-one was 100ms. Send all 20 at the same time and the latency drops to the slowest one, around 5ms. Looks solved.</p>
+<p>But the DB still receives 20 queries. You only changed them from running one by one to running all at once. If the connection pool has 10 connections, those 20 queries now compete for connections and wait anyway. You hid the latency problem and bought a throughput problem.</p>
+<p>Promise.all does <strong>parallelism</strong>, not <strong>combining</strong>. The real problem with N+1 is too many requests. Parallelism doesn't cut the count, it only makes them happen at the same time. To actually remove N+1, turn N requests into 1. Two different things. Don't mix them up.</p>
+<h2>Three real fixes</h2>
+<p>All doing the same thing: combine N requests into 1. They differ in which layer they combine at.</p>
+<p><strong>JOIN (combine at the DB layer):</strong></p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="sql" data-theme="github-dark github-light"><code data-language="sql" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">SELECT</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> p.</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">*</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">u</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">name</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> AS</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> author_name</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">FROM</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> posts p </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">JOIN</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> users u </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">ON</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> p</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">author_id</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> u</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">id</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">LIMIT</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 20</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">;</span></span></code></pre></figure>
+<p>One statement covers it. Fastest on Postgres. The cost: it is tied to a single DB and a single query, and can't reach across services.</p>
+<p><strong>IN batch (combine manually at the application layer):</strong></p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="ts" data-theme="github-dark github-light"><code data-language="ts" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> posts</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> await</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> db.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">query</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'SELECT * FROM posts LIMIT 20'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> authorIds</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> posts.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">map</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">p</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> p.author_id);</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> users</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> await</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> db.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">query</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'SELECT * FROM users WHERE id IN (?)'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, [authorIds]);</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> userMap</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> new</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> Map</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(users.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">map</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">u</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> [u.id, u]));</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">posts.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">forEach</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">p</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> p.author </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> userMap.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">get</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(p.author_id));</span></span></code></pre></figure>
+<p>21 down to 2. One more round-trip than JOIN, but the logic is clear, and the data can live across different services / caches / DBs. The key step is that middle line <code>posts.map(p => p.author_id)</code>: <strong>you have one place to collect every id at once</strong>.</p>
+<p><strong>DataLoader (combine automatically at the application layer):</strong> for when you don't have that one place to collect ids. GraphQL resolvers are exactly that case. Each resolver sees only its own post and has no idea the other 19 exist. The rest of this article is about this.</p>
+<h2>The clean fix: when two tables need joining</h2>
+<p>The earlier example crosses one table (post → user). Real-world N+1 is often two hops. Here's a production case.</p>
+<p>A GraphQL query pulls a list of API keys, each carrying its <code>adminRoles</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="graphql" data-theme="github-dark github-light"><code data-language="graphql" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">query</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">  apiKeys</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">    name</span></span>
+<span data-line=""><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">    adminRoles</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> { </span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">id</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">name</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> }</span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">   # ← triggers a lookup per key</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p><code>adminRoles</code> can't come from one table. The data model is a many-to-many: one API key holds many roles, one role attaches to many keys. A junction table <code>links</code> holds the pairing, and the role bodies live in <code>roles</code>.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="text" data-theme="github-dark github-light"><code data-language="text" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span>api_keys(api_key, name)</span></span>
+<span data-line=""><span>links(api_key, admin_role_id)      ← junction, many-to-many</span></span>
+<span data-line=""><span>roles(id, name, description)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span>api_keys ──&#x3C; links >── roles</span></span></code></pre></figure>
+<p>So fetching <code>adminRoles</code> for one key is two hops: <code>api_keys</code> → <code>links</code> (find its role ids) → <code>roles</code> (load those roles). The naive field resolver:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="ts" data-theme="github-dark github-light"><code data-language="ts" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">@</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">ResolveField</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(() </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> [ApiKeyAdminRoleDto], { name: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'adminRoles'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> })</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">async </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">adminRoles</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(@</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Parent</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() apiKey: ApiKeyDto) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> links</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> await</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> this</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.queryService.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">findAdminRolesByApiKey</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(apiKey.apiKey);  </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// hop 1</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> roleIds</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> links.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">map</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">l</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> l.adminRoleId);</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> roles</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> await</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> this</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.roleRepository.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">listByIds</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(roleIds);                    </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// hop 2</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> roles.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">map</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">/* ... */</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>5 API keys, count the queries:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="text" data-theme="github-dark github-light"><code data-language="text" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span>1 × SELECT api_keys</span></span>
+<span data-line=""><span>5 × SELECT links  WHERE api_key = ?    ← once per key</span></span>
+<span data-line=""><span>5 × SELECT roles  WHERE id IN (...)    ← once per key</span></span>
+<span data-line=""><span>= 11 queries</span></span></code></pre></figure>
+<p>The DataLoader here isn't a concept I wrote by hand. It's Facebook's open-source npm package <a href="https://github.com/graphql/dataloader"><code>dataloader</code></a>, the standard choice for GraphQL backends. <code>new DataLoader(batchFn)</code> wraps a batch function, and it handles collect + merge + resolve-in-order. You only write the IN query.</p>
+<p>The clean fix puts both hops into that batch function. The resolver layer doesn't change at all, still calling <code>.load()</code> one at a time:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="ts" data-theme="github-dark github-light"><code data-language="ts" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">import</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> DataLoader </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">from</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'dataloader'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">@</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Injectable</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">({ scope: Scope.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">REQUEST</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> })   </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// one independent instance per request</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">export</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> class</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> ApiKeyAdminRoleLoaderService</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">  // type: load(string) → returns ApiKeyAdminRole[]</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  private</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> readonly</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209"> loader</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> DataLoader</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">string</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">ApiKeyAdminRole</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">[]> </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    new</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> DataLoader</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">this</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.#batchLoad.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">bind</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">this</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">));</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">  // DataLoader gathers every .load() key from the same round, calls this once</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  async</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> #</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">batchLoad</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">apiKeyIds</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> string</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">[])</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> Promise</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">ApiKeyAdminRole</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">[][]> {</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">    // hop 1: one query for all links</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> allLinks</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> await</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> this</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.linkRepository.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">findLinksByApiKeys</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(apiKeyIds);</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">    // hop 2: one query for all roles</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> roleIds</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> [</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">...new</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> Set</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(allLinks.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">map</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">l</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> l.adminRoleId))];</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> roles</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> await</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> this</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.roleRepository.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">listByIds</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(roleIds);</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> roleMap</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> new</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> Map</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(roles.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">map</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">r</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> [r.id, r]));</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">    // group by apiKey; return order must match input order</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> grouped</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> new</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> Map</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">string</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">ApiKeyAdminRole</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">[]>();</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    for</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> link</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> of</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> allLinks) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">      const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> role</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> roleMap.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">get</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(link.adminRoleId);</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">      if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (role) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">        if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">!</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">grouped.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">has</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(link.apiKey)) grouped.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">set</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(link.apiKey, []);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">        grouped.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">get</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(link.apiKey)</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">!</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">push</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(role);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">      }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    }</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> apiKeyIds.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">map</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">id</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> grouped.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">get</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(id) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">||</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> []);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  }</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  load</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">apiKeyId</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> string</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) { </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">return</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> this</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.loader.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">load</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(apiKeyId); }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>The resolver becomes one line:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="ts" data-theme="github-dark github-light"><code data-language="ts" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">@</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">ResolveField</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(() </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> [ApiKeyAdminRoleDto], { name: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'adminRoles'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> })</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">async </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">adminRoles</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(@</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Parent</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() apiKey: ApiKeyDto) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> roles</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> await</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> this</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.loader.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">load</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(apiKey.apiKey);</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> roles.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">map</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">/* ... */</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>Result:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="text" data-theme="github-dark github-light"><code data-language="text" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span>1 × SELECT api_keys</span></span>
+<span data-line=""><span>1 × SELECT links  WHERE api_key IN (5 keys)</span></span>
+<span data-line=""><span>1 × SELECT roles  WHERE id      IN (3 roles)</span></span>
+<span data-line=""><span>= 3 queries   (11 → 3, -73%)</span></span></code></pre></figure>
+<p>Each hop combines into one IN, and the second hop removes duplicate ids with <code>new Set</code> along the way. 3 keys may share the same role, so after removing duplicates you query 3 roles, not 5. The point: <strong>all of this stays inside the batch function. The resolver neither sees it nor needs to.</strong> N+1 is handled underneath, while the top stays a clean "load one at a time."</p>
+<h2>Who calls whom</h2>
+<p>Four players, top to bottom:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="text" data-theme="github-dark github-light"><code data-language="text" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span>your resolver  →  .load(id)          (once per parent)</span></span>
+<span data-line=""><span>DataLoader     →  collects the ids, calls your batch function once</span></span>
+<span data-line=""><span>your batchFn   →  one query: findMany({ id: { in: ids } })</span></span>
+<span data-line=""><span>ORM            →  SELECT ... WHERE id IN (...)</span></span>
+<span data-line=""><span>database       →  runs the SQL</span></span></code></pre></figure>
+<p>The common misread: DataLoader does <strong>not</strong> turn <code>.load()</code> into a query. It only collects keys and gets the timing right. <em>You</em> write the query, inside the batch function. The ORM and the database do their normal jobs, unaware DataLoader exists. Open each player for the detail.</p>
+<details>
+<summary><strong>DataLoader</strong> — collects and times, never touches the DB</summary>
+<p><code>.load(id)</code> pushes the id into an array and returns a pending promise. No query yet. DataLoader waits out the round (the event-loop timing from the next section), then calls your batch function once with the full array of ids, and when the results come back, resolves each promise by index. It knows nothing about SQL, ORMs, or tables. It holds keys and promises, nothing more.</p>
+</details>
+<details>
+<summary><strong>Your batch function</strong> — the one place the query is decided</summary>
+<p>DataLoader hands you <code>[id1, id2, …]</code>. What query to run is your decision. You write the single <code>IN</code> lookup here:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="ts" data-theme="github-dark github-light"><code data-language="ts" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">new</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> DataLoader</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">async</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">ids</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> rows</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> await</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> prisma.user.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">findMany</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">({ where: { id: { in: [</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">...</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">ids] } } });</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> map</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> new</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> Map</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(rows.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">map</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">r</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> [r.id, r]));</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> ids.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">map</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">id</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> map.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">get</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(id) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">??</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);   </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// same order as ids</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">});</span></span></code></pre></figure>
+<p>The <code>findMany({ in: ids })</code> is yours, not something DataLoader generated. You also map the rows back in the same order as the ids, or each caller gets the wrong row.</p>
+</details>
+<details>
+<summary><strong>The ORM</strong> — turns findMany into SQL</summary>
+<p><code>prisma.user.findMany({ where: { id: { in: ids } } })</code> becomes <code>SELECT * FROM users WHERE id IN ($1, $2, …)</code>. Normal ORM translation, the same as any other query. Swap Prisma for TypeORM (<code>In(ids)</code>) or Drizzle (<code>inArray(users.id, ids)</code>) and the SQL is the same. None of this knows DataLoader is involved.</p>
+</details>
+<h2>Under the hood: how DataLoader "auto-collects"</h2>
+<p>Resolvers call <code>.load()</code> one by one. How does DataLoader know when to send them together? The JavaScript event loop.</p>
+<p>The plain version first. DataLoader puts a short pause between the moment you call <code>.load()</code> and the moment the DB is actually queried. In that pause it collects every key from the round. Without the pause, the call and the query are stuck together, so you query the DB once for every call. With it, one query covers the whole round. Everything below is just <em>how</em> it places that pause.</p>
+<p>Now the mechanics. <code>.load(key)</code> doesn't touch the DB. It pushes the key into a batch and returns a <strong>pending promise</strong> right away. Every <code>.load()</code> made in the same round of the event loop lands in that one batch. At the end of the round, DataLoader dispatches once: it calls your batch function (the IN query), and after the DB returns, it fills each promise in order.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="text" data-theme="github-dark github-light"><code data-language="text" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span>load(key1) load(key2) … load(key5)   ← same round, all pushed into one batch</span></span>
+<span data-line=""><span>        ↓ end of the round</span></span>
+<span data-line=""><span>batchFn([key1..key5]) → 1 × SELECT ... IN (...)</span></span>
+<span data-line=""><span>        ↓ DB returns</span></span>
+<span data-line=""><span>resolve each .load() promise by index</span></span></code></pre></figure>
+<p>That's the whole idea: collect during the round, send at the boundary. DataLoader gets the timing right using the event loop's microtask and <code>process.nextTick</code> order, so the dispatch waits until every <code>.load()</code> of the round has been made, but no longer. The exact scheduling trick is worth reading once, but you don't need it to use DataLoader correctly. What you do need is the next part.</p>
+<h2>The way to break batching</h2>
+<p>Once you understand how "one round" is defined, you know what breaks it. Put a real <code>await</code> (yielding to real I/O) in the middle and you cut the round in two:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="ts" data-theme="github-dark github-light"><code data-language="ts" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// ✓ same round: 100 loads in one batch → 1 query</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">await</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> Promise</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">all</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(ids.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">map</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">id</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> loader.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">load</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(id)));</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// ✗ sequential loop: each await yields, dispatch runs early, each its own batch → 100 queries</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">for</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> id</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> of</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> ids) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">await</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> loader.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">load</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(id);</span></span></code></pre></figure>
+<p>The second one is the common mistake. Each <code>await loader.load(id)</code> waits for this load to finish before the next iteration, so each iteration becomes its own batch. You think DataLoader keeps you safe, and you end up back at N+1.</p>
+<p>But GraphQL resolvers, where each field does its own <code>await load()</code>, are safe. Don't confuse the two. The engine calls sibling resolvers <strong>in parallel</strong>, so those <code>.load()</code> calls happen in the same round and the same batch. The only thing that breaks batching is a <strong>sequential loop you wrote by hand</strong>.</p>
+<h2>Don't confuse it with p-limit: different problems</h2>
+<p>One last common mix-up. DataLoader and <code>p-limit</code> both "control a pile of async," but they solve opposite problems.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="text" data-theme="github-dark github-light"><code data-language="text" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span>DataLoader:  many asking the same question → merge into one, ask once</span></span>
+<span data-line=""><span>p-limit:     many requests at the same time → queue up, let 10 through at a time</span></span></code></pre></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th></th><th>DataLoader</th><th>p-limit</th></tr></thead><tbody><tr><td>Solves</td><td>N+1 (too many queries)</td><td>pool exhaustion (too many connections at once)</td></tr><tr><td>How</td><td>collects <code>.load()</code>, merges into one batch query</td><td>caps how many async run at the same time</td></tr><tr><td>Connections</td><td>5 <code>.load()</code> use just 1 connection</td><td>100 tasks capped to 10 connections at once</td></tr><tr><td>Fits</td><td>rows that merge into <code>WHERE IN (...)</code></td><td>tasks that each do something different (read → decide → update)</td></tr></tbody></table>
+<p>They're never used together. With DataLoader, after batching you use only 1 connection, so there's no need for p-limit's throttling. With p-limit, each task does something different and can't merge into one query, so DataLoader can't help. Back to that Promise.all problem from the start: if your case genuinely can't batch and you must send N separate requests, that's when p-limit is used. Not to remove requests, but to keep them from overloading the connection pool all at once.</p>
+<hr>
+<p>N+1 isn't a SQL thing. It's the shape "take a list, cross a boundary once per element." It goes invisible inside ORM lazy load and GraphQL resolvers, and the more invisible, the harder to notice. Promise.all turns one-by-one into parallel, but the request count doesn't drop. It hides the slowness and keeps the same number of requests. The real fix combines N into 1: JOIN, manual IN, or DataLoader. The good thing about DataLoader is that the top stays a simple "load one at a time," while underneath it uses a two-layer <code>Promise.then</code> + <code>process.nextTick</code> wrap to place the dispatch in exactly the right gap of the event loop, quietly combining it into a single IN.</p>16:T3d99,
+A page needs the author name for 20 posts. The data model is the conventional one: each `post` stores an `author_id`, and the name lives in the `users` table. One post has one author, one author has many posts (many-to-one).
+
+```text
+posts(id, title, author_id)   author_id → users.id
+users(id, name)
+```
+
+The obvious way to fetch the names is a for loop:
+
+```ts
+const posts = await db.query('SELECT * FROM posts LIMIT 20');  // 1 query
+
+for (const post of posts) {
+  post.author = await db.query(
+    'SELECT * FROM users WHERE id = ?', [post.author_id]
+  );  // ← one query per post, runs 20 times
+}
+```
+
+1 + 20 = 21 queries. Each round-trip is 5ms, 105ms total. A single JOIN does it in 7ms.
+
+It reads like an ordinary loop. But every iteration sends a network request. That's N+1.
+
+Textbooks put it under "database optimization." I think that placement hides the truth: N+1 has nothing essential to do with databases. It's a **shape**.
+
+## A shape, not SQL
+
+Strip the code down and the skeleton is this:
+
+```text
+take a list (1 query)
+for each element, make one round-trip (N queries)
+```
+
+What the round-trip *is* doesn't change whether the shape holds. It can be:
+
+- a SQL query (the most common version)
+- an HTTP call to another microservice
+- a Redis `GET`
+- a gRPC call
+- a file read
+
+The moment you send one cross-boundary request per item across N items, you have N+1. The only difference is the cost of that boundary. SQL is a network round-trip, HTTP is more expensive, a file read is cheaper. The shape is identical. So instead of memorizing "don't query inside a loop," remember: **don't cross a boundary inside a loop**.
+
+## Three forms of the same shape
+
+Same shape, different forms across frameworks. The hard part is the last two, where the loop is invisible.
+
+**The plain for loop.** The opening snippet. At least it's honest: the loop is visible in the code.
+
+**ORM lazy load.** The loop is still there, but the query disappeared:
+
+```python
+# Django
+posts = Post.objects.all()       # 1 query
+for post in posts:
+    print(post.author.name)      # ← a hidden query on attribute access
+```
+
+To make `post.author` feel like a plain object, the ORM sends a query the instant you read that attribute. The person writing it feels nothing. Only a profiler or the SQL log shows that one `print` line is 20 round-trips.
+
+**GraphQL resolvers.** Now even the loop is gone:
+
+```graphql
+{
+  posts {
+    title
+    author { name }
+  }
+}
+```
+
+You wrote no loop. The GraphQL engine wrote one for you: it takes 20 posts and runs the `author` resolver once per post, each one querying the user table. Same 1+N. The framework hid the loop, and you only see a clean declarative query.
+
+Three forms, one shape. The further down you go, the more invisible the loop, the harder to notice in code review.
+
+## Promise.all looks like a fix, but it isn't
+
+The first instinct: just send them all with Promise.all.
+
+```ts
+const posts = await db.query('SELECT * FROM posts LIMIT 20');
+await Promise.all(
+  posts.map(post =>
+    db.query('SELECT * FROM users WHERE id = ?', [post.author_id])
+  )
+);
+```
+
+"I parallelized it, much faster." It is faster. 20 × 5ms one-by-one was 100ms. Send all 20 at the same time and the latency drops to the slowest one, around 5ms. Looks solved.
+
+But the DB still receives 20 queries. You only changed them from running one by one to running all at once. If the connection pool has 10 connections, those 20 queries now compete for connections and wait anyway. You hid the latency problem and bought a throughput problem.
+
+Promise.all does **parallelism**, not **combining**. The real problem with N+1 is too many requests. Parallelism doesn't cut the count, it only makes them happen at the same time. To actually remove N+1, turn N requests into 1. Two different things. Don't mix them up.
+
+## Three real fixes
+
+All doing the same thing: combine N requests into 1. They differ in which layer they combine at.
+
+**JOIN (combine at the DB layer):**
+
+```sql
+SELECT p.*, u.name AS author_name
+FROM posts p JOIN users u ON p.author_id = u.id
+LIMIT 20;
+```
+
+One statement covers it. Fastest on Postgres. The cost: it is tied to a single DB and a single query, and can't reach across services.
+
+**IN batch (combine manually at the application layer):**
+
+```ts
+const posts = await db.query('SELECT * FROM posts LIMIT 20');
+const authorIds = posts.map(p => p.author_id);
+const users = await db.query('SELECT * FROM users WHERE id IN (?)', [authorIds]);
+const userMap = new Map(users.map(u => [u.id, u]));
+posts.forEach(p => p.author = userMap.get(p.author_id));
+```
+
+21 down to 2. One more round-trip than JOIN, but the logic is clear, and the data can live across different services / caches / DBs. The key step is that middle line `posts.map(p => p.author_id)`: **you have one place to collect every id at once**.
+
+**DataLoader (combine automatically at the application layer):** for when you don't have that one place to collect ids. GraphQL resolvers are exactly that case. Each resolver sees only its own post and has no idea the other 19 exist. The rest of this article is about this.
+
+## The clean fix: when two tables need joining
+
+The earlier example crosses one table (post → user). Real-world N+1 is often two hops. Here's a production case.
+
+A GraphQL query pulls a list of API keys, each carrying its `adminRoles`:
+
+```graphql
+query {
+  apiKeys {
+    name
+    adminRoles { id, name }   # ← triggers a lookup per key
+  }
+}
+```
+
+`adminRoles` can't come from one table. The data model is a many-to-many: one API key holds many roles, one role attaches to many keys. A junction table `links` holds the pairing, and the role bodies live in `roles`.
+
+```text
+api_keys(api_key, name)
+links(api_key, admin_role_id)      ← junction, many-to-many
+roles(id, name, description)
+
+api_keys ──< links >── roles
+```
+
+So fetching `adminRoles` for one key is two hops: `api_keys` → `links` (find its role ids) → `roles` (load those roles). The naive field resolver:
+
+```ts
+@ResolveField(() => [ApiKeyAdminRoleDto], { name: 'adminRoles' })
+async adminRoles(@Parent() apiKey: ApiKeyDto) {
+  const links = await this.queryService.findAdminRolesByApiKey(apiKey.apiKey);  // hop 1
+  const roleIds = links.map(l => l.adminRoleId);
+  const roles = await this.roleRepository.listByIds(roleIds);                    // hop 2
+  return roles.map(/* ... */);
+}
+```
+
+5 API keys, count the queries:
+
+```text
+1 × SELECT api_keys
+5 × SELECT links  WHERE api_key = ?    ← once per key
+5 × SELECT roles  WHERE id IN (...)    ← once per key
+= 11 queries
+```
+
+The DataLoader here isn't a concept I wrote by hand. It's Facebook's open-source npm package [`dataloader`](https://github.com/graphql/dataloader), the standard choice for GraphQL backends. `new DataLoader(batchFn)` wraps a batch function, and it handles collect + merge + resolve-in-order. You only write the IN query.
+
+The clean fix puts both hops into that batch function. The resolver layer doesn't change at all, still calling `.load()` one at a time:
+
+```ts
+import DataLoader from 'dataloader';
+
+@Injectable({ scope: Scope.REQUEST })   // one independent instance per request
+export class ApiKeyAdminRoleLoaderService {
+  // type: load(string) → returns ApiKeyAdminRole[]
+  private readonly loader: DataLoader<string, ApiKeyAdminRole[]> =
+    new DataLoader(this.#batchLoad.bind(this));
+
+  // DataLoader gathers every .load() key from the same round, calls this once
+  async #batchLoad(apiKeyIds: string[]): Promise<ApiKeyAdminRole[][]> {
+    // hop 1: one query for all links
+    const allLinks = await this.linkRepository.findLinksByApiKeys(apiKeyIds);
+
+    // hop 2: one query for all roles
+    const roleIds = [...new Set(allLinks.map(l => l.adminRoleId))];
+    const roles = await this.roleRepository.listByIds(roleIds);
+    const roleMap = new Map(roles.map(r => [r.id, r]));
+
+    // group by apiKey; return order must match input order
+    const grouped = new Map<string, ApiKeyAdminRole[]>();
+    for (const link of allLinks) {
+      const role = roleMap.get(link.adminRoleId);
+      if (role) {
+        if (!grouped.has(link.apiKey)) grouped.set(link.apiKey, []);
+        grouped.get(link.apiKey)!.push(role);
+      }
+    }
+    return apiKeyIds.map(id => grouped.get(id) || []);
+  }
+
+  load(apiKeyId: string) { return this.loader.load(apiKeyId); }
+}
+```
+
+The resolver becomes one line:
+
+```ts
+@ResolveField(() => [ApiKeyAdminRoleDto], { name: 'adminRoles' })
+async adminRoles(@Parent() apiKey: ApiKeyDto) {
+  const roles = await this.loader.load(apiKey.apiKey);
+  return roles.map(/* ... */);
+}
+```
+
+Result:
+
+```text
+1 × SELECT api_keys
+1 × SELECT links  WHERE api_key IN (5 keys)
+1 × SELECT roles  WHERE id      IN (3 roles)
+= 3 queries   (11 → 3, -73%)
+```
+
+Each hop combines into one IN, and the second hop removes duplicate ids with `new Set` along the way. 3 keys may share the same role, so after removing duplicates you query 3 roles, not 5. The point: **all of this stays inside the batch function. The resolver neither sees it nor needs to.** N+1 is handled underneath, while the top stays a clean "load one at a time."
+
+## Who calls whom
+
+Four players, top to bottom:
+
+```text
+your resolver  →  .load(id)          (once per parent)
+DataLoader     →  collects the ids, calls your batch function once
+your batchFn   →  one query: findMany({ id: { in: ids } })
+ORM            →  SELECT ... WHERE id IN (...)
+database       →  runs the SQL
+```
+
+The common misread: DataLoader does **not** turn `.load()` into a query. It only collects keys and gets the timing right. *You* write the query, inside the batch function. The ORM and the database do their normal jobs, unaware DataLoader exists. Open each player for the detail.
+
+<details>
+<summary><strong>DataLoader</strong> — collects and times, never touches the DB</summary>
+
+`.load(id)` pushes the id into an array and returns a pending promise. No query yet. DataLoader waits out the round (the event-loop timing from the next section), then calls your batch function once with the full array of ids, and when the results come back, resolves each promise by index. It knows nothing about SQL, ORMs, or tables. It holds keys and promises, nothing more.
+
+</details>
+
+<details>
+<summary><strong>Your batch function</strong> — the one place the query is decided</summary>
+
+DataLoader hands you `[id1, id2, …]`. What query to run is your decision. You write the single `IN` lookup here:
+
+```ts
+new DataLoader(async (ids) => {
+  const rows = await prisma.user.findMany({ where: { id: { in: [...ids] } } });
+  const map = new Map(rows.map(r => [r.id, r]));
+  return ids.map(id => map.get(id) ?? null);   // same order as ids
+});
+```
+
+The `findMany({ in: ids })` is yours, not something DataLoader generated. You also map the rows back in the same order as the ids, or each caller gets the wrong row.
+
+</details>
+
+<details>
+<summary><strong>The ORM</strong> — turns findMany into SQL</summary>
+
+`prisma.user.findMany({ where: { id: { in: ids } } })` becomes `SELECT * FROM users WHERE id IN ($1, $2, …)`. Normal ORM translation, the same as any other query. Swap Prisma for TypeORM (`In(ids)`) or Drizzle (`inArray(users.id, ids)`) and the SQL is the same. None of this knows DataLoader is involved.
+
+</details>
+
+## Under the hood: how DataLoader "auto-collects"
+
+Resolvers call `.load()` one by one. How does DataLoader know when to send them together? The JavaScript event loop.
+
+The plain version first. DataLoader puts a short pause between the moment you call `.load()` and the moment the DB is actually queried. In that pause it collects every key from the round. Without the pause, the call and the query are stuck together, so you query the DB once for every call. With it, one query covers the whole round. Everything below is just *how* it places that pause.
+
+Now the mechanics. `.load(key)` doesn't touch the DB. It pushes the key into a batch and returns a **pending promise** right away. Every `.load()` made in the same round of the event loop lands in that one batch. At the end of the round, DataLoader dispatches once: it calls your batch function (the IN query), and after the DB returns, it fills each promise in order.
+
+```text
+load(key1) load(key2) … load(key5)   ← same round, all pushed into one batch
+        ↓ end of the round
+batchFn([key1..key5]) → 1 × SELECT ... IN (...)
+        ↓ DB returns
+resolve each .load() promise by index
+```
+
+That's the whole idea: collect during the round, send at the boundary. DataLoader gets the timing right using the event loop's microtask and `process.nextTick` order, so the dispatch waits until every `.load()` of the round has been made, but no longer. The exact scheduling trick is worth reading once, but you don't need it to use DataLoader correctly. What you do need is the next part.
+
+## The way to break batching
+
+Once you understand how "one round" is defined, you know what breaks it. Put a real `await` (yielding to real I/O) in the middle and you cut the round in two:
+
+```ts
+// ✓ same round: 100 loads in one batch → 1 query
+await Promise.all(ids.map(id => loader.load(id)));
+
+// ✗ sequential loop: each await yields, dispatch runs early, each its own batch → 100 queries
+for (const id of ids) await loader.load(id);
+```
+
+The second one is the common mistake. Each `await loader.load(id)` waits for this load to finish before the next iteration, so each iteration becomes its own batch. You think DataLoader keeps you safe, and you end up back at N+1.
+
+But GraphQL resolvers, where each field does its own `await load()`, are safe. Don't confuse the two. The engine calls sibling resolvers **in parallel**, so those `.load()` calls happen in the same round and the same batch. The only thing that breaks batching is a **sequential loop you wrote by hand**.
+
+## Don't confuse it with p-limit: different problems
+
+One last common mix-up. DataLoader and `p-limit` both "control a pile of async," but they solve opposite problems.
+
+```text
+DataLoader:  many asking the same question → merge into one, ask once
+p-limit:     many requests at the same time → queue up, let 10 through at a time
+```
+
+|  | DataLoader | p-limit |
+|---|---|---|
+| Solves | N+1 (too many queries) | pool exhaustion (too many connections at once) |
+| How | collects `.load()`, merges into one batch query | caps how many async run at the same time |
+| Connections | 5 `.load()` use just 1 connection | 100 tasks capped to 10 connections at once |
+| Fits | rows that merge into `WHERE IN (...)` | tasks that each do something different (read → decide → update) |
+
+They're never used together. With DataLoader, after batching you use only 1 connection, so there's no need for p-limit's throttling. With p-limit, each task does something different and can't merge into one query, so DataLoader can't help. Back to that Promise.all problem from the start: if your case genuinely can't batch and you must send N separate requests, that's when p-limit is used. Not to remove requests, but to keep them from overloading the connection pool all at once.
+
+---
+
+N+1 isn't a SQL thing. It's the shape "take a list, cross a boundary once per element." It goes invisible inside ORM lazy load and GraphQL resolvers, and the more invisible, the harder to notice. Promise.all turns one-by-one into parallel, but the request count doesn't drop. It hides the slowness and keeps the same number of requests. The real fix combines N into 1: JOIN, manual IN, or DataLoader. The good thing about DataLoader is that the top stays a simple "load one at a time," while underneath it uses a two-layer `Promise.then` + `process.nextTick` wrap to place the dispatch in exactly the right gap of the event loop, quietly combining it into a single IN.
+17:T53f8,LS0tCnRpdGxlOiAiTisxIGlzbid0IGEgZGF0YWJhc2UgcHJvYmxlbS4gSXQncyBhIHNoYXBlLiIKZGF0ZTogMjAyNi0wNi0yOFQwMToxNToxNAp0YWdzOiBbbi1wbHVzLTEsIGRhdGFsb2FkZXIsIGdyYXBocWwsIGV2ZW50LWxvb3AsIG5vZGVqcywgcGVyZm9ybWFuY2VdCmRlc2NyaXB0aW9uOiAiWW91IHRoaW5rIE4rMSBpcyBhIFNRTCB0aGluZy4gSXQncyBhIHNoYXBlOiB0YWtlIGEgbGlzdCwgbWFrZSBvbmUgcm91bmQtdHJpcCBwZXIgZWxlbWVudC4gRGF0YUxvYWRlciB1c2VzIG1pY3JvdGFzayB0aW1pbmcgdG8gY29tYmluZSB0aGUgc2NhdHRlcmVkIGNhbGxzIGludG8gYSBzaW5nbGUgSU4gcXVlcnkuIgotLS0KCkEgcGFnZSBuZWVkcyB0aGUgYXV0aG9yIG5hbWUgZm9yIDIwIHBvc3RzLiBUaGUgZGF0YSBtb2RlbCBpcyB0aGUgY29udmVudGlvbmFsIG9uZTogZWFjaCBgcG9zdGAgc3RvcmVzIGFuIGBhdXRob3JfaWRgLCBhbmQgdGhlIG5hbWUgbGl2ZXMgaW4gdGhlIGB1c2Vyc2AgdGFibGUuIE9uZSBwb3N0IGhhcyBvbmUgYXV0aG9yLCBvbmUgYXV0aG9yIGhhcyBtYW55IHBvc3RzIChtYW55LXRvLW9uZSkuCgpgYGB0ZXh0CnBvc3RzKGlkLCB0aXRsZSwgYXV0aG9yX2lkKSAgIGF1dGhvcl9pZCDihpIgdXNlcnMuaWQKdXNlcnMoaWQsIG5hbWUpCmBgYAoKVGhlIG9idmlvdXMgd2F5IHRvIGZldGNoIHRoZSBuYW1lcyBpcyBhIGZvciBsb29wOgoKYGBgdHMKY29uc3QgcG9zdHMgPSBhd2FpdCBkYi5xdWVyeSgnU0VMRUNUICogRlJPTSBwb3N0cyBMSU1JVCAyMCcpOyAgLy8gMSBxdWVyeQoKZm9yIChjb25zdCBwb3N0IG9mIHBvc3RzKSB7CiAgcG9zdC5hdXRob3IgPSBhd2FpdCBkYi5xdWVyeSgKICAgICdTRUxFQ1QgKiBGUk9NIHVzZXJzIFdIRVJFIGlkID0gPycsIFtwb3N0LmF1dGhvcl9pZF0KICApOyAgLy8g4oaQIG9uZSBxdWVyeSBwZXIgcG9zdCwgcnVucyAyMCB0aW1lcwp9CmBgYAoKMSArIDIwID0gMjEgcXVlcmllcy4gRWFjaCByb3VuZC10cmlwIGlzIDVtcywgMTA1bXMgdG90YWwuIEEgc2luZ2xlIEpPSU4gZG9lcyBpdCBpbiA3bXMuCgpJdCByZWFkcyBsaWtlIGFuIG9yZGluYXJ5IGxvb3AuIEJ1dCBldmVyeSBpdGVyYXRpb24gc2VuZHMgYSBuZXR3b3JrIHJlcXVlc3QuIFRoYXQncyBOKzEuCgpUZXh0Ym9va3MgcHV0IGl0IHVuZGVyICJkYXRhYmFzZSBvcHRpbWl6YXRpb24uIiBJIHRoaW5rIHRoYXQgcGxhY2VtZW50IGhpZGVzIHRoZSB0cnV0aDogTisxIGhhcyBub3RoaW5nIGVzc2VudGlhbCB0byBkbyB3aXRoIGRhdGFiYXNlcy4gSXQncyBhICoqc2hhcGUqKi4KCiMjIEEgc2hhcGUsIG5vdCBTUUwKClN0cmlwIHRoZSBjb2RlIGRvd24gYW5kIHRoZSBza2VsZXRvbiBpcyB0aGlzOgoKYGBgdGV4dAp0YWtlIGEgbGlzdCAoMSBxdWVyeSkKZm9yIGVhY2ggZWxlbWVudCwgbWFrZSBvbmUgcm91bmQtdHJpcCAoTiBxdWVyaWVzKQpgYGAKCldoYXQgdGhlIHJvdW5kLXRyaXAgKmlzKiBkb2Vzbid0IGNoYW5nZSB3aGV0aGVyIHRoZSBzaGFwZSBob2xkcy4gSXQgY2FuIGJlOgoKLSBhIFNRTCBxdWVyeSAodGhlIG1vc3QgY29tbW9uIHZlcnNpb24pCi0gYW4gSFRUUCBjYWxsIHRvIGFub3RoZXIgbWljcm9zZXJ2aWNlCi0gYSBSZWRpcyBgR0VUYAotIGEgZ1JQQyBjYWxsCi0gYSBmaWxlIHJlYWQKClRoZSBtb21lbnQgeW91IHNlbmQgb25lIGNyb3NzLWJvdW5kYXJ5IHJlcXVlc3QgcGVyIGl0ZW0gYWNyb3NzIE4gaXRlbXMsIHlvdSBoYXZlIE4rMS4gVGhlIG9ubHkgZGlmZmVyZW5jZSBpcyB0aGUgY29zdCBvZiB0aGF0IGJvdW5kYXJ5LiBTUUwgaXMgYSBuZXR3b3JrIHJvdW5kLXRyaXAsIEhUVFAgaXMgbW9yZSBleHBlbnNpdmUsIGEgZmlsZSByZWFkIGlzIGNoZWFwZXIuIFRoZSBzaGFwZSBpcyBpZGVudGljYWwuIFNvIGluc3RlYWQgb2YgbWVtb3JpemluZyAiZG9uJ3QgcXVlcnkgaW5zaWRlIGEgbG9vcCwiIHJlbWVtYmVyOiAqKmRvbid0IGNyb3NzIGEgYm91bmRhcnkgaW5zaWRlIGEgbG9vcCoqLgoKIyMgVGhyZWUgZm9ybXMgb2YgdGhlIHNhbWUgc2hhcGUKClNhbWUgc2hhcGUsIGRpZmZlcmVudCBmb3JtcyBhY3Jvc3MgZnJhbWV3b3Jrcy4gVGhlIGhhcmQgcGFydCBpcyB0aGUgbGFzdCB0d28sIHdoZXJlIHRoZSBsb29wIGlzIGludmlzaWJsZS4KCioqVGhlIHBsYWluIGZvciBsb29wLioqIFRoZSBvcGVuaW5nIHNuaXBwZXQuIEF0IGxlYXN0IGl0J3MgaG9uZXN0OiB0aGUgbG9vcCBpcyB2aXNpYmxlIGluIHRoZSBjb2RlLgoKKipPUk0gbGF6eSBsb2FkLioqIFRoZSBsb29wIGlzIHN0aWxsIHRoZXJlLCBidXQgdGhlIHF1ZXJ5IGRpc2FwcGVhcmVkOgoKYGBgcHl0aG9uCiMgRGphbmdvCnBvc3RzID0gUG9zdC5vYmplY3RzLmFsbCgpICAgICAgICMgMSBxdWVyeQpmb3IgcG9zdCBpbiBwb3N0czoKICAgIHByaW50KHBvc3QuYXV0aG9yLm5hbWUpICAgICAgIyDihpAgYSBoaWRkZW4gcXVlcnkgb24gYXR0cmlidXRlIGFjY2VzcwpgYGAKClRvIG1ha2UgYHBvc3QuYXV0aG9yYCBmZWVsIGxpa2UgYSBwbGFpbiBvYmplY3QsIHRoZSBPUk0gc2VuZHMgYSBxdWVyeSB0aGUgaW5zdGFudCB5b3UgcmVhZCB0aGF0IGF0dHJpYnV0ZS4gVGhlIHBlcnNvbiB3cml0aW5nIGl0IGZlZWxzIG5vdGhpbmcuIE9ubHkgYSBwcm9maWxlciBvciB0aGUgU1FMIGxvZyBzaG93cyB0aGF0IG9uZSBgcHJpbnRgIGxpbmUgaXMgMjAgcm91bmQtdHJpcHMuCgoqKkdyYXBoUUwgcmVzb2x2ZXJzLioqIE5vdyBldmVuIHRoZSBsb29wIGlzIGdvbmU6CgpgYGBncmFwaHFsCnsKICBwb3N0cyB7CiAgICB0aXRsZQogICAgYXV0aG9yIHsgbmFtZSB9CiAgfQp9CmBgYAoKWW91IHdyb3RlIG5vIGxvb3AuIFRoZSBHcmFwaFFMIGVuZ2luZSB3cm90ZSBvbmUgZm9yIHlvdTogaXQgdGFrZXMgMjAgcG9zdHMgYW5kIHJ1bnMgdGhlIGBhdXRob3JgIHJlc29sdmVyIG9uY2UgcGVyIHBvc3QsIGVhY2ggb25lIHF1ZXJ5aW5nIHRoZSB1c2VyIHRhYmxlLiBTYW1lIDErTi4gVGhlIGZyYW1ld29yayBoaWQgdGhlIGxvb3AsIGFuZCB5b3Ugb25seSBzZWUgYSBjbGVhbiBkZWNsYXJhdGl2ZSBxdWVyeS4KClRocmVlIGZvcm1zLCBvbmUgc2hhcGUuIFRoZSBmdXJ0aGVyIGRvd24geW91IGdvLCB0aGUgbW9yZSBpbnZpc2libGUgdGhlIGxvb3AsIHRoZSBoYXJkZXIgdG8gbm90aWNlIGluIGNvZGUgcmV2aWV3LgoKIyMgUHJvbWlzZS5hbGwgbG9va3MgbGlrZSBhIGZpeCwgYnV0IGl0IGlzbid0CgpUaGUgZmlyc3QgaW5zdGluY3Q6IGp1c3Qgc2VuZCB0aGVtIGFsbCB3aXRoIFByb21pc2UuYWxsLgoKYGBgdHMKY29uc3QgcG9zdHMgPSBhd2FpdCBkYi5xdWVyeSgnU0VMRUNUICogRlJPTSBwb3N0cyBMSU1JVCAyMCcpOwphd2FpdCBQcm9taXNlLmFsbCgKICBwb3N0cy5tYXAocG9zdCA9PgogICAgZGIucXVlcnkoJ1NFTEVDVCAqIEZST00gdXNlcnMgV0hFUkUgaWQgPSA/JywgW3Bvc3QuYXV0aG9yX2lkXSkKICApCik7CmBgYAoKIkkgcGFyYWxsZWxpemVkIGl0LCBtdWNoIGZhc3Rlci4iIEl0IGlzIGZhc3Rlci4gMjAgw5cgNW1zIG9uZS1ieS1vbmUgd2FzIDEwMG1zLiBTZW5kIGFsbCAyMCBhdCB0aGUgc2FtZSB0aW1lIGFuZCB0aGUgbGF0ZW5jeSBkcm9wcyB0byB0aGUgc2xvd2VzdCBvbmUsIGFyb3VuZCA1bXMuIExvb2tzIHNvbHZlZC4KCkJ1dCB0aGUgREIgc3RpbGwgcmVjZWl2ZXMgMjAgcXVlcmllcy4gWW91IG9ubHkgY2hhbmdlZCB0aGVtIGZyb20gcnVubmluZyBvbmUgYnkgb25lIHRvIHJ1bm5pbmcgYWxsIGF0IG9uY2UuIElmIHRoZSBjb25uZWN0aW9uIHBvb2wgaGFzIDEwIGNvbm5lY3Rpb25zLCB0aG9zZSAyMCBxdWVyaWVzIG5vdyBjb21wZXRlIGZvciBjb25uZWN0aW9ucyBhbmQgd2FpdCBhbnl3YXkuIFlvdSBoaWQgdGhlIGxhdGVuY3kgcHJvYmxlbSBhbmQgYm91Z2h0IGEgdGhyb3VnaHB1dCBwcm9ibGVtLgoKUHJvbWlzZS5hbGwgZG9lcyAqKnBhcmFsbGVsaXNtKiosIG5vdCAqKmNvbWJpbmluZyoqLiBUaGUgcmVhbCBwcm9ibGVtIHdpdGggTisxIGlzIHRvbyBtYW55IHJlcXVlc3RzLiBQYXJhbGxlbGlzbSBkb2Vzbid0IGN1dCB0aGUgY291bnQsIGl0IG9ubHkgbWFrZXMgdGhlbSBoYXBwZW4gYXQgdGhlIHNhbWUgdGltZS4gVG8gYWN0dWFsbHkgcmVtb3ZlIE4rMSwgdHVybiBOIHJlcXVlc3RzIGludG8gMS4gVHdvIGRpZmZlcmVudCB0aGluZ3MuIERvbid0IG1peCB0aGVtIHVwLgoKIyMgVGhyZWUgcmVhbCBmaXhlcwoKQWxsIGRvaW5nIHRoZSBzYW1lIHRoaW5nOiBjb21iaW5lIE4gcmVxdWVzdHMgaW50byAxLiBUaGV5IGRpZmZlciBpbiB3aGljaCBsYXllciB0aGV5IGNvbWJpbmUgYXQuCgoqKkpPSU4gKGNvbWJpbmUgYXQgdGhlIERCIGxheWVyKToqKgoKYGBgc3FsClNFTEVDVCBwLiosIHUubmFtZSBBUyBhdXRob3JfbmFtZQpGUk9NIHBvc3RzIHAgSk9JTiB1c2VycyB1IE9OIHAuYXV0aG9yX2lkID0gdS5pZApMSU1JVCAyMDsKYGBgCgpPbmUgc3RhdGVtZW50IGNvdmVycyBpdC4gRmFzdGVzdCBvbiBQb3N0Z3Jlcy4gVGhlIGNvc3Q6IGl0IGlzIHRpZWQgdG8gYSBzaW5nbGUgREIgYW5kIGEgc2luZ2xlIHF1ZXJ5LCBhbmQgY2FuJ3QgcmVhY2ggYWNyb3NzIHNlcnZpY2VzLgoKKipJTiBiYXRjaCAoY29tYmluZSBtYW51YWxseSBhdCB0aGUgYXBwbGljYXRpb24gbGF5ZXIpOioqCgpgYGB0cwpjb25zdCBwb3N0cyA9IGF3YWl0IGRiLnF1ZXJ5KCdTRUxFQ1QgKiBGUk9NIHBvc3RzIExJTUlUIDIwJyk7CmNvbnN0IGF1dGhvcklkcyA9IHBvc3RzLm1hcChwID0+IHAuYXV0aG9yX2lkKTsKY29uc3QgdXNlcnMgPSBhd2FpdCBkYi5xdWVyeSgnU0VMRUNUICogRlJPTSB1c2VycyBXSEVSRSBpZCBJTiAoPyknLCBbYXV0aG9ySWRzXSk7CmNvbnN0IHVzZXJNYXAgPSBuZXcgTWFwKHVzZXJzLm1hcCh1ID0+IFt1LmlkLCB1XSkpOwpwb3N0cy5mb3JFYWNoKHAgPT4gcC5hdXRob3IgPSB1c2VyTWFwLmdldChwLmF1dGhvcl9pZCkpOwpgYGAKCjIxIGRvd24gdG8gMi4gT25lIG1vcmUgcm91bmQtdHJpcCB0aGFuIEpPSU4sIGJ1dCB0aGUgbG9naWMgaXMgY2xlYXIsIGFuZCB0aGUgZGF0YSBjYW4gbGl2ZSBhY3Jvc3MgZGlmZmVyZW50IHNlcnZpY2VzIC8gY2FjaGVzIC8gREJzLiBUaGUga2V5IHN0ZXAgaXMgdGhhdCBtaWRkbGUgbGluZSBgcG9zdHMubWFwKHAgPT4gcC5hdXRob3JfaWQpYDogKip5b3UgaGF2ZSBvbmUgcGxhY2UgdG8gY29sbGVjdCBldmVyeSBpZCBhdCBvbmNlKiouCgoqKkRhdGFMb2FkZXIgKGNvbWJpbmUgYXV0b21hdGljYWxseSBhdCB0aGUgYXBwbGljYXRpb24gbGF5ZXIpOioqIGZvciB3aGVuIHlvdSBkb24ndCBoYXZlIHRoYXQgb25lIHBsYWNlIHRvIGNvbGxlY3QgaWRzLiBHcmFwaFFMIHJlc29sdmVycyBhcmUgZXhhY3RseSB0aGF0IGNhc2UuIEVhY2ggcmVzb2x2ZXIgc2VlcyBvbmx5IGl0cyBvd24gcG9zdCBhbmQgaGFzIG5vIGlkZWEgdGhlIG90aGVyIDE5IGV4aXN0LiBUaGUgcmVzdCBvZiB0aGlzIGFydGljbGUgaXMgYWJvdXQgdGhpcy4KCiMjIFRoZSBjbGVhbiBmaXg6IHdoZW4gdHdvIHRhYmxlcyBuZWVkIGpvaW5pbmcKClRoZSBlYXJsaWVyIGV4YW1wbGUgY3Jvc3NlcyBvbmUgdGFibGUgKHBvc3Qg4oaSIHVzZXIpLiBSZWFsLXdvcmxkIE4rMSBpcyBvZnRlbiB0d28gaG9wcy4gSGVyZSdzIGEgcHJvZHVjdGlvbiBjYXNlLgoKQSBHcmFwaFFMIHF1ZXJ5IHB1bGxzIGEgbGlzdCBvZiBBUEkga2V5cywgZWFjaCBjYXJyeWluZyBpdHMgYGFkbWluUm9sZXNgOgoKYGBgZ3JhcGhxbApxdWVyeSB7CiAgYXBpS2V5cyB7CiAgICBuYW1lCiAgICBhZG1pblJvbGVzIHsgaWQsIG5hbWUgfSAgICMg4oaQIHRyaWdnZXJzIGEgbG9va3VwIHBlciBrZXkKICB9Cn0KYGBgCgpgYWRtaW5Sb2xlc2AgY2FuJ3QgY29tZSBmcm9tIG9uZSB0YWJsZS4gVGhlIGRhdGEgbW9kZWwgaXMgYSBtYW55LXRvLW1hbnk6IG9uZSBBUEkga2V5IGhvbGRzIG1hbnkgcm9sZXMsIG9uZSByb2xlIGF0dGFjaGVzIHRvIG1hbnkga2V5cy4gQSBqdW5jdGlvbiB0YWJsZSBgbGlua3NgIGhvbGRzIHRoZSBwYWlyaW5nLCBhbmQgdGhlIHJvbGUgYm9kaWVzIGxpdmUgaW4gYHJvbGVzYC4KCmBgYHRleHQKYXBpX2tleXMoYXBpX2tleSwgbmFtZSkKbGlua3MoYXBpX2tleSwgYWRtaW5fcm9sZV9pZCkgICAgICDihpAganVuY3Rpb24sIG1hbnktdG8tbWFueQpyb2xlcyhpZCwgbmFtZSwgZGVzY3JpcHRpb24pCgphcGlfa2V5cyDilIDilIA8IGxpbmtzID7ilIDilIAgcm9sZXMKYGBgCgpTbyBmZXRjaGluZyBgYWRtaW5Sb2xlc2AgZm9yIG9uZSBrZXkgaXMgdHdvIGhvcHM6IGBhcGlfa2V5c2Ag4oaSIGBsaW5rc2AgKGZpbmQgaXRzIHJvbGUgaWRzKSDihpIgYHJvbGVzYCAobG9hZCB0aG9zZSByb2xlcykuIFRoZSBuYWl2ZSBmaWVsZCByZXNvbHZlcjoKCmBgYHRzCkBSZXNvbHZlRmllbGQoKCkgPT4gW0FwaUtleUFkbWluUm9sZUR0b10sIHsgbmFtZTogJ2FkbWluUm9sZXMnIH0pCmFzeW5jIGFkbWluUm9sZXMoQFBhcmVudCgpIGFwaUtleTogQXBpS2V5RHRvKSB7CiAgY29uc3QgbGlua3MgPSBhd2FpdCB0aGlzLnF1ZXJ5U2VydmljZS5maW5kQWRtaW5Sb2xlc0J5QXBpS2V5KGFwaUtleS5hcGlLZXkpOyAgLy8gaG9wIDEKICBjb25zdCByb2xlSWRzID0gbGlua3MubWFwKGwgPT4gbC5hZG1pblJvbGVJZCk7CiAgY29uc3Qgcm9sZXMgPSBhd2FpdCB0aGlzLnJvbGVSZXBvc2l0b3J5Lmxpc3RCeUlkcyhyb2xlSWRzKTsgICAgICAgICAgICAgICAgICAgIC8vIGhvcCAyCiAgcmV0dXJuIHJvbGVzLm1hcCgvKiAuLi4gKi8pOwp9CmBgYAoKNSBBUEkga2V5cywgY291bnQgdGhlIHF1ZXJpZXM6CgpgYGB0ZXh0CjEgw5cgU0VMRUNUIGFwaV9rZXlzCjUgw5cgU0VMRUNUIGxpbmtzICBXSEVSRSBhcGlfa2V5ID0gPyAgICDihpAgb25jZSBwZXIga2V5CjUgw5cgU0VMRUNUIHJvbGVzICBXSEVSRSBpZCBJTiAoLi4uKSAgICDihpAgb25jZSBwZXIga2V5Cj0gMTEgcXVlcmllcwpgYGAKClRoZSBEYXRhTG9hZGVyIGhlcmUgaXNuJ3QgYSBjb25jZXB0IEkgd3JvdGUgYnkgaGFuZC4gSXQncyBGYWNlYm9vaydzIG9wZW4tc291cmNlIG5wbSBwYWNrYWdlIFtgZGF0YWxvYWRlcmBdKGh0dHBzOi8vZ2l0aHViLmNvbS9ncmFwaHFsL2RhdGFsb2FkZXIpLCB0aGUgc3RhbmRhcmQgY2hvaWNlIGZvciBHcmFwaFFMIGJhY2tlbmRzLiBgbmV3IERhdGFMb2FkZXIoYmF0Y2hGbilgIHdyYXBzIGEgYmF0Y2ggZnVuY3Rpb24sIGFuZCBpdCBoYW5kbGVzIGNvbGxlY3QgKyBtZXJnZSArIHJlc29sdmUtaW4tb3JkZXIuIFlvdSBvbmx5IHdyaXRlIHRoZSBJTiBxdWVyeS4KClRoZSBjbGVhbiBmaXggcHV0cyBib3RoIGhvcHMgaW50byB0aGF0IGJhdGNoIGZ1bmN0aW9uLiBUaGUgcmVzb2x2ZXIgbGF5ZXIgZG9lc24ndCBjaGFuZ2UgYXQgYWxsLCBzdGlsbCBjYWxsaW5nIGAubG9hZCgpYCBvbmUgYXQgYSB0aW1lOgoKYGBgdHMKaW1wb3J0IERhdGFMb2FkZXIgZnJvbSAnZGF0YWxvYWRlcic7CgpASW5qZWN0YWJsZSh7IHNjb3BlOiBTY29wZS5SRVFVRVNUIH0pICAgLy8gb25lIGluZGVwZW5kZW50IGluc3RhbmNlIHBlciByZXF1ZXN0CmV4cG9ydCBjbGFzcyBBcGlLZXlBZG1pblJvbGVMb2FkZXJTZXJ2aWNlIHsKICAvLyB0eXBlOiBsb2FkKHN0cmluZykg4oaSIHJldHVybnMgQXBpS2V5QWRtaW5Sb2xlW10KICBwcml2YXRlIHJlYWRvbmx5IGxvYWRlcjogRGF0YUxvYWRlcjxzdHJpbmcsIEFwaUtleUFkbWluUm9sZVtdPiA9CiAgICBuZXcgRGF0YUxvYWRlcih0aGlzLiNiYXRjaExvYWQuYmluZCh0aGlzKSk7CgogIC8vIERhdGFMb2FkZXIgZ2F0aGVycyBldmVyeSAubG9hZCgpIGtleSBmcm9tIHRoZSBzYW1lIHJvdW5kLCBjYWxscyB0aGlzIG9uY2UKICBhc3luYyAjYmF0Y2hMb2FkKGFwaUtleUlkczogc3RyaW5nW10pOiBQcm9taXNlPEFwaUtleUFkbWluUm9sZVtdW10+IHsKICAgIC8vIGhvcCAxOiBvbmUgcXVlcnkgZm9yIGFsbCBsaW5rcwogICAgY29uc3QgYWxsTGlua3MgPSBhd2FpdCB0aGlzLmxpbmtSZXBvc2l0b3J5LmZpbmRMaW5rc0J5QXBpS2V5cyhhcGlLZXlJZHMpOwoKICAgIC8vIGhvcCAyOiBvbmUgcXVlcnkgZm9yIGFsbCByb2xlcwogICAgY29uc3Qgcm9sZUlkcyA9IFsuLi5uZXcgU2V0KGFsbExpbmtzLm1hcChsID0+IGwuYWRtaW5Sb2xlSWQpKV07CiAgICBjb25zdCByb2xlcyA9IGF3YWl0IHRoaXMucm9sZVJlcG9zaXRvcnkubGlzdEJ5SWRzKHJvbGVJZHMpOwogICAgY29uc3Qgcm9sZU1hcCA9IG5ldyBNYXAocm9sZXMubWFwKHIgPT4gW3IuaWQsIHJdKSk7CgogICAgLy8gZ3JvdXAgYnkgYXBpS2V5OyByZXR1cm4gb3JkZXIgbXVzdCBtYXRjaCBpbnB1dCBvcmRlcgogICAgY29uc3QgZ3JvdXBlZCA9IG5ldyBNYXA8c3RyaW5nLCBBcGlLZXlBZG1pblJvbGVbXT4oKTsKICAgIGZvciAoY29uc3QgbGluayBvZiBhbGxMaW5rcykgewogICAgICBjb25zdCByb2xlID0gcm9sZU1hcC5nZXQobGluay5hZG1pblJvbGVJZCk7CiAgICAgIGlmIChyb2xlKSB7CiAgICAgICAgaWYgKCFncm91cGVkLmhhcyhsaW5rLmFwaUtleSkpIGdyb3VwZWQuc2V0KGxpbmsuYXBpS2V5LCBbXSk7CiAgICAgICAgZ3JvdXBlZC5nZXQobGluay5hcGlLZXkpIS5wdXNoKHJvbGUpOwogICAgICB9CiAgICB9CiAgICByZXR1cm4gYXBpS2V5SWRzLm1hcChpZCA9PiBncm91cGVkLmdldChpZCkgfHwgW10pOwogIH0KCiAgbG9hZChhcGlLZXlJZDogc3RyaW5nKSB7IHJldHVybiB0aGlzLmxvYWRlci5sb2FkKGFwaUtleUlkKTsgfQp9CmBgYAoKVGhlIHJlc29sdmVyIGJlY29tZXMgb25lIGxpbmU6CgpgYGB0cwpAUmVzb2x2ZUZpZWxkKCgpID0+IFtBcGlLZXlBZG1pblJvbGVEdG9dLCB7IG5hbWU6ICdhZG1pblJvbGVzJyB9KQphc3luYyBhZG1pblJvbGVzKEBQYXJlbnQoKSBhcGlLZXk6IEFwaUtleUR0bykgewogIGNvbnN0IHJvbGVzID0gYXdhaXQgdGhpcy5sb2FkZXIubG9hZChhcGlLZXkuYXBpS2V5KTsKICByZXR1cm4gcm9sZXMubWFwKC8qIC4uLiAqLyk7Cn0KYGBgCgpSZXN1bHQ6CgpgYGB0ZXh0CjEgw5cgU0VMRUNUIGFwaV9rZXlzCjEgw5cgU0VMRUNUIGxpbmtzICBXSEVSRSBhcGlfa2V5IElOICg1IGtleXMpCjEgw5cgU0VMRUNUIHJvbGVzICBXSEVSRSBpZCAgICAgIElOICgzIHJvbGVzKQo9IDMgcXVlcmllcyAgICgxMSDihpIgMywgLTczJSkKYGBgCgpFYWNoIGhvcCBjb21iaW5lcyBpbnRvIG9uZSBJTiwgYW5kIHRoZSBzZWNvbmQgaG9wIHJlbW92ZXMgZHVwbGljYXRlIGlkcyB3aXRoIGBuZXcgU2V0YCBhbG9uZyB0aGUgd2F5LiAzIGtleXMgbWF5IHNoYXJlIHRoZSBzYW1lIHJvbGUsIHNvIGFmdGVyIHJlbW92aW5nIGR1cGxpY2F0ZXMgeW91IHF1ZXJ5IDMgcm9sZXMsIG5vdCA1LiBUaGUgcG9pbnQ6ICoqYWxsIG9mIHRoaXMgc3RheXMgaW5zaWRlIHRoZSBiYXRjaCBmdW5jdGlvbi4gVGhlIHJlc29sdmVyIG5laXRoZXIgc2VlcyBpdCBub3IgbmVlZHMgdG8uKiogTisxIGlzIGhhbmRsZWQgdW5kZXJuZWF0aCwgd2hpbGUgdGhlIHRvcCBzdGF5cyBhIGNsZWFuICJsb2FkIG9uZSBhdCBhIHRpbWUuIgoKIyMgV2hvIGNhbGxzIHdob20KCkZvdXIgcGxheWVycywgdG9wIHRvIGJvdHRvbToKCmBgYHRleHQKeW91ciByZXNvbHZlciAg4oaSICAubG9hZChpZCkgICAgICAgICAgKG9uY2UgcGVyIHBhcmVudCkKRGF0YUxvYWRlciAgICAg4oaSICBjb2xsZWN0cyB0aGUgaWRzLCBjYWxscyB5b3VyIGJhdGNoIGZ1bmN0aW9uIG9uY2UKeW91ciBiYXRjaEZuICAg4oaSICBvbmUgcXVlcnk6IGZpbmRNYW55KHsgaWQ6IHsgaW46IGlkcyB9IH0pCk9STSAgICAgICAgICAgIOKGkiAgU0VMRUNUIC4uLiBXSEVSRSBpZCBJTiAoLi4uKQpkYXRhYmFzZSAgICAgICDihpIgIHJ1bnMgdGhlIFNRTApgYGAKClRoZSBjb21tb24gbWlzcmVhZDogRGF0YUxvYWRlciBkb2VzICoqbm90KiogdHVybiBgLmxvYWQoKWAgaW50byBhIHF1ZXJ5LiBJdCBvbmx5IGNvbGxlY3RzIGtleXMgYW5kIGdldHMgdGhlIHRpbWluZyByaWdodC4gKllvdSogd3JpdGUgdGhlIHF1ZXJ5LCBpbnNpZGUgdGhlIGJhdGNoIGZ1bmN0aW9uLiBUaGUgT1JNIGFuZCB0aGUgZGF0YWJhc2UgZG8gdGhlaXIgbm9ybWFsIGpvYnMsIHVuYXdhcmUgRGF0YUxvYWRlciBleGlzdHMuIE9wZW4gZWFjaCBwbGF5ZXIgZm9yIHRoZSBkZXRhaWwuCgo8ZGV0YWlscz4KPHN1bW1hcnk+PHN0cm9uZz5EYXRhTG9hZGVyPC9zdHJvbmc+IOKAlCBjb2xsZWN0cyBhbmQgdGltZXMsIG5ldmVyIHRvdWNoZXMgdGhlIERCPC9zdW1tYXJ5PgoKYC5sb2FkKGlkKWAgcHVzaGVzIHRoZSBpZCBpbnRvIGFuIGFycmF5IGFuZCByZXR1cm5zIGEgcGVuZGluZyBwcm9taXNlLiBObyBxdWVyeSB5ZXQuIERhdGFMb2FkZXIgd2FpdHMgb3V0IHRoZSByb3VuZCAodGhlIGV2ZW50LWxvb3AgdGltaW5nIGZyb20gdGhlIG5leHQgc2VjdGlvbiksIHRoZW4gY2FsbHMgeW91ciBiYXRjaCBmdW5jdGlvbiBvbmNlIHdpdGggdGhlIGZ1bGwgYXJyYXkgb2YgaWRzLCBhbmQgd2hlbiB0aGUgcmVzdWx0cyBjb21lIGJhY2ssIHJlc29sdmVzIGVhY2ggcHJvbWlzZSBieSBpbmRleC4gSXQga25vd3Mgbm90aGluZyBhYm91dCBTUUwsIE9STXMsIG9yIHRhYmxlcy4gSXQgaG9sZHMga2V5cyBhbmQgcHJvbWlzZXMsIG5vdGhpbmcgbW9yZS4KCjwvZGV0YWlscz4KCjxkZXRhaWxzPgo8c3VtbWFyeT48c3Ryb25nPllvdXIgYmF0Y2ggZnVuY3Rpb248L3N0cm9uZz4g4oCUIHRoZSBvbmUgcGxhY2UgdGhlIHF1ZXJ5IGlzIGRlY2lkZWQ8L3N1bW1hcnk+CgpEYXRhTG9hZGVyIGhhbmRzIHlvdSBgW2lkMSwgaWQyLCDigKZdYC4gV2hhdCBxdWVyeSB0byBydW4gaXMgeW91ciBkZWNpc2lvbi4gWW91IHdyaXRlIHRoZSBzaW5nbGUgYElOYCBsb29rdXAgaGVyZToKCmBgYHRzCm5ldyBEYXRhTG9hZGVyKGFzeW5jIChpZHMpID0+IHsKICBjb25zdCByb3dzID0gYXdhaXQgcHJpc21hLnVzZXIuZmluZE1hbnkoeyB3aGVyZTogeyBpZDogeyBpbjogWy4uLmlkc10gfSB9IH0pOwogIGNvbnN0IG1hcCA9IG5ldyBNYXAocm93cy5tYXAociA9PiBbci5pZCwgcl0pKTsKICByZXR1cm4gaWRzLm1hcChpZCA9PiBtYXAuZ2V0KGlkKSA/PyBudWxsKTsgICAvLyBzYW1lIG9yZGVyIGFzIGlkcwp9KTsKYGBgCgpUaGUgYGZpbmRNYW55KHsgaW46IGlkcyB9KWAgaXMgeW91cnMsIG5vdCBzb21ldGhpbmcgRGF0YUxvYWRlciBnZW5lcmF0ZWQuIFlvdSBhbHNvIG1hcCB0aGUgcm93cyBiYWNrIGluIHRoZSBzYW1lIG9yZGVyIGFzIHRoZSBpZHMsIG9yIGVhY2ggY2FsbGVyIGdldHMgdGhlIHdyb25nIHJvdy4KCjwvZGV0YWlscz4KCjxkZXRhaWxzPgo8c3VtbWFyeT48c3Ryb25nPlRoZSBPUk08L3N0cm9uZz4g4oCUIHR1cm5zIGZpbmRNYW55IGludG8gU1FMPC9zdW1tYXJ5PgoKYHByaXNtYS51c2VyLmZpbmRNYW55KHsgd2hlcmU6IHsgaWQ6IHsgaW46IGlkcyB9IH0gfSlgIGJlY29tZXMgYFNFTEVDVCAqIEZST00gdXNlcnMgV0hFUkUgaWQgSU4gKCQxLCAkMiwg4oCmKWAuIE5vcm1hbCBPUk0gdHJhbnNsYXRpb24sIHRoZSBzYW1lIGFzIGFueSBvdGhlciBxdWVyeS4gU3dhcCBQcmlzbWEgZm9yIFR5cGVPUk0gKGBJbihpZHMpYCkgb3IgRHJpenpsZSAoYGluQXJyYXkodXNlcnMuaWQsIGlkcylgKSBhbmQgdGhlIFNRTCBpcyB0aGUgc2FtZS4gTm9uZSBvZiB0aGlzIGtub3dzIERhdGFMb2FkZXIgaXMgaW52b2x2ZWQuCgo8L2RldGFpbHM+CgojIyBVbmRlciB0aGUgaG9vZDogaG93IERhdGFMb2FkZXIgImF1dG8tY29sbGVjdHMiCgpSZXNvbHZlcnMgY2FsbCBgLmxvYWQoKWAgb25lIGJ5IG9uZS4gSG93IGRvZXMgRGF0YUxvYWRlciBrbm93IHdoZW4gdG8gc2VuZCB0aGVtIHRvZ2V0aGVyPyBUaGUgSmF2YVNjcmlwdCBldmVudCBsb29wLgoKVGhlIHBsYWluIHZlcnNpb24gZmlyc3QuIERhdGFMb2FkZXIgcHV0cyBhIHNob3J0IHBhdXNlIGJldHdlZW4gdGhlIG1vbWVudCB5b3UgY2FsbCBgLmxvYWQoKWAgYW5kIHRoZSBtb21lbnQgdGhlIERCIGlzIGFjdHVhbGx5IHF1ZXJpZWQuIEluIHRoYXQgcGF1c2UgaXQgY29sbGVjdHMgZXZlcnkga2V5IGZyb20gdGhlIHJvdW5kLiBXaXRob3V0IHRoZSBwYXVzZSwgdGhlIGNhbGwgYW5kIHRoZSBxdWVyeSBhcmUgc3R1Y2sgdG9nZXRoZXIsIHNvIHlvdSBxdWVyeSB0aGUgREIgb25jZSBmb3IgZXZlcnkgY2FsbC4gV2l0aCBpdCwgb25lIHF1ZXJ5IGNvdmVycyB0aGUgd2hvbGUgcm91bmQuIEV2ZXJ5dGhpbmcgYmVsb3cgaXMganVzdCAqaG93KiBpdCBwbGFjZXMgdGhhdCBwYXVzZS4KCk5vdyB0aGUgbWVjaGFuaWNzLiBgLmxvYWQoa2V5KWAgZG9lc24ndCB0b3VjaCB0aGUgREIuIEl0IHB1c2hlcyB0aGUga2V5IGludG8gYSBiYXRjaCBhbmQgcmV0dXJucyBhICoqcGVuZGluZyBwcm9taXNlKiogcmlnaHQgYXdheS4gRXZlcnkgYC5sb2FkKClgIG1hZGUgaW4gdGhlIHNhbWUgcm91bmQgb2YgdGhlIGV2ZW50IGxvb3AgbGFuZHMgaW4gdGhhdCBvbmUgYmF0Y2guIEF0IHRoZSBlbmQgb2YgdGhlIHJvdW5kLCBEYXRhTG9hZGVyIGRpc3BhdGNoZXMgb25jZTogaXQgY2FsbHMgeW91ciBiYXRjaCBmdW5jdGlvbiAodGhlIElOIHF1ZXJ5KSwgYW5kIGFmdGVyIHRoZSBEQiByZXR1cm5zLCBpdCBmaWxscyBlYWNoIHByb21pc2UgaW4gb3JkZXIuCgpgYGB0ZXh0CmxvYWQoa2V5MSkgbG9hZChrZXkyKSDigKYgbG9hZChrZXk1KSAgIOKGkCBzYW1lIHJvdW5kLCBhbGwgcHVzaGVkIGludG8gb25lIGJhdGNoCiAgICAgICAg4oaTIGVuZCBvZiB0aGUgcm91bmQKYmF0Y2hGbihba2V5MS4ua2V5NV0pIOKGkiAxIMOXIFNFTEVDVCAuLi4gSU4gKC4uLikKICAgICAgICDihpMgREIgcmV0dXJucwpyZXNvbHZlIGVhY2ggLmxvYWQoKSBwcm9taXNlIGJ5IGluZGV4CmBgYAoKVGhhdCdzIHRoZSB3aG9sZSBpZGVhOiBjb2xsZWN0IGR1cmluZyB0aGUgcm91bmQsIHNlbmQgYXQgdGhlIGJvdW5kYXJ5LiBEYXRhTG9hZGVyIGdldHMgdGhlIHRpbWluZyByaWdodCB1c2luZyB0aGUgZXZlbnQgbG9vcCdzIG1pY3JvdGFzayBhbmQgYHByb2Nlc3MubmV4dFRpY2tgIG9yZGVyLCBzbyB0aGUgZGlzcGF0Y2ggd2FpdHMgdW50aWwgZXZlcnkgYC5sb2FkKClgIG9mIHRoZSByb3VuZCBoYXMgYmVlbiBtYWRlLCBidXQgbm8gbG9uZ2VyLiBUaGUgZXhhY3Qgc2NoZWR1bGluZyB0cmljayBpcyB3b3J0aCByZWFkaW5nIG9uY2UsIGJ1dCB5b3UgZG9uJ3QgbmVlZCBpdCB0byB1c2UgRGF0YUxvYWRlciBjb3JyZWN0bHkuIFdoYXQgeW91IGRvIG5lZWQgaXMgdGhlIG5leHQgcGFydC4KCiMjIFRoZSB3YXkgdG8gYnJlYWsgYmF0Y2hpbmcKCk9uY2UgeW91IHVuZGVyc3RhbmQgaG93ICJvbmUgcm91bmQiIGlzIGRlZmluZWQsIHlvdSBrbm93IHdoYXQgYnJlYWtzIGl0LiBQdXQgYSByZWFsIGBhd2FpdGAgKHlpZWxkaW5nIHRvIHJlYWwgSS9PKSBpbiB0aGUgbWlkZGxlIGFuZCB5b3UgY3V0IHRoZSByb3VuZCBpbiB0d286CgpgYGB0cwovLyDinJMgc2FtZSByb3VuZDogMTAwIGxvYWRzIGluIG9uZSBiYXRjaCDihpIgMSBxdWVyeQphd2FpdCBQcm9taXNlLmFsbChpZHMubWFwKGlkID0+IGxvYWRlci5sb2FkKGlkKSkpOwoKLy8g4pyXIHNlcXVlbnRpYWwgbG9vcDogZWFjaCBhd2FpdCB5aWVsZHMsIGRpc3BhdGNoIHJ1bnMgZWFybHksIGVhY2ggaXRzIG93biBiYXRjaCDihpIgMTAwIHF1ZXJpZXMKZm9yIChjb25zdCBpZCBvZiBpZHMpIGF3YWl0IGxvYWRlci5sb2FkKGlkKTsKYGBgCgpUaGUgc2Vjb25kIG9uZSBpcyB0aGUgY29tbW9uIG1pc3Rha2UuIEVhY2ggYGF3YWl0IGxvYWRlci5sb2FkKGlkKWAgd2FpdHMgZm9yIHRoaXMgbG9hZCB0byBmaW5pc2ggYmVmb3JlIHRoZSBuZXh0IGl0ZXJhdGlvbiwgc28gZWFjaCBpdGVyYXRpb24gYmVjb21lcyBpdHMgb3duIGJhdGNoLiBZb3UgdGhpbmsgRGF0YUxvYWRlciBrZWVwcyB5b3Ugc2FmZSwgYW5kIHlvdSBlbmQgdXAgYmFjayBhdCBOKzEuCgpCdXQgR3JhcGhRTCByZXNvbHZlcnMsIHdoZXJlIGVhY2ggZmllbGQgZG9lcyBpdHMgb3duIGBhd2FpdCBsb2FkKClgLCBhcmUgc2FmZS4gRG9uJ3QgY29uZnVzZSB0aGUgdHdvLiBUaGUgZW5naW5lIGNhbGxzIHNpYmxpbmcgcmVzb2x2ZXJzICoqaW4gcGFyYWxsZWwqKiwgc28gdGhvc2UgYC5sb2FkKClgIGNhbGxzIGhhcHBlbiBpbiB0aGUgc2FtZSByb3VuZCBhbmQgdGhlIHNhbWUgYmF0Y2guIFRoZSBvbmx5IHRoaW5nIHRoYXQgYnJlYWtzIGJhdGNoaW5nIGlzIGEgKipzZXF1ZW50aWFsIGxvb3AgeW91IHdyb3RlIGJ5IGhhbmQqKi4KCiMjIERvbid0IGNvbmZ1c2UgaXQgd2l0aCBwLWxpbWl0OiBkaWZmZXJlbnQgcHJvYmxlbXMKCk9uZSBsYXN0IGNvbW1vbiBtaXgtdXAuIERhdGFMb2FkZXIgYW5kIGBwLWxpbWl0YCBib3RoICJjb250cm9sIGEgcGlsZSBvZiBhc3luYywiIGJ1dCB0aGV5IHNvbHZlIG9wcG9zaXRlIHByb2JsZW1zLgoKYGBgdGV4dApEYXRhTG9hZGVyOiAgbWFueSBhc2tpbmcgdGhlIHNhbWUgcXVlc3Rpb24g4oaSIG1lcmdlIGludG8gb25lLCBhc2sgb25jZQpwLWxpbWl0OiAgICAgbWFueSByZXF1ZXN0cyBhdCB0aGUgc2FtZSB0aW1lIOKGkiBxdWV1ZSB1cCwgbGV0IDEwIHRocm91Z2ggYXQgYSB0aW1lCmBgYAoKfCAgfCBEYXRhTG9hZGVyIHwgcC1saW1pdCB8CnwtLS18LS0tfC0tLXwKfCBTb2x2ZXMgfCBOKzEgKHRvbyBtYW55IHF1ZXJpZXMpIHwgcG9vbCBleGhhdXN0aW9uICh0b28gbWFueSBjb25uZWN0aW9ucyBhdCBvbmNlKSB8CnwgSG93IHwgY29sbGVjdHMgYC5sb2FkKClgLCBtZXJnZXMgaW50byBvbmUgYmF0Y2ggcXVlcnkgfCBjYXBzIGhvdyBtYW55IGFzeW5jIHJ1biBhdCB0aGUgc2FtZSB0aW1lIHwKfCBDb25uZWN0aW9ucyB8IDUgYC5sb2FkKClgIHVzZSBqdXN0IDEgY29ubmVjdGlvbiB8IDEwMCB0YXNrcyBjYXBwZWQgdG8gMTAgY29ubmVjdGlvbnMgYXQgb25jZSB8CnwgRml0cyB8IHJvd3MgdGhhdCBtZXJnZSBpbnRvIGBXSEVSRSBJTiAoLi4uKWAgfCB0YXNrcyB0aGF0IGVhY2ggZG8gc29tZXRoaW5nIGRpZmZlcmVudCAocmVhZCDihpIgZGVjaWRlIOKGkiB1cGRhdGUpIHwKClRoZXkncmUgbmV2ZXIgdXNlZCB0b2dldGhlci4gV2l0aCBEYXRhTG9hZGVyLCBhZnRlciBiYXRjaGluZyB5b3UgdXNlIG9ubHkgMSBjb25uZWN0aW9uLCBzbyB0aGVyZSdzIG5vIG5lZWQgZm9yIHAtbGltaXQncyB0aHJvdHRsaW5nLiBXaXRoIHAtbGltaXQsIGVhY2ggdGFzayBkb2VzIHNvbWV0aGluZyBkaWZmZXJlbnQgYW5kIGNhbid0IG1lcmdlIGludG8gb25lIHF1ZXJ5LCBzbyBEYXRhTG9hZGVyIGNhbid0IGhlbHAuIEJhY2sgdG8gdGhhdCBQcm9taXNlLmFsbCBwcm9ibGVtIGZyb20gdGhlIHN0YXJ0OiBpZiB5b3VyIGNhc2UgZ2VudWluZWx5IGNhbid0IGJhdGNoIGFuZCB5b3UgbXVzdCBzZW5kIE4gc2VwYXJhdGUgcmVxdWVzdHMsIHRoYXQncyB3aGVuIHAtbGltaXQgaXMgdXNlZC4gTm90IHRvIHJlbW92ZSByZXF1ZXN0cywgYnV0IHRvIGtlZXAgdGhlbSBmcm9tIG92ZXJsb2FkaW5nIHRoZSBjb25uZWN0aW9uIHBvb2wgYWxsIGF0IG9uY2UuCgotLS0KCk4rMSBpc24ndCBhIFNRTCB0aGluZy4gSXQncyB0aGUgc2hhcGUgInRha2UgYSBsaXN0LCBjcm9zcyBhIGJvdW5kYXJ5IG9uY2UgcGVyIGVsZW1lbnQuIiBJdCBnb2VzIGludmlzaWJsZSBpbnNpZGUgT1JNIGxhenkgbG9hZCBhbmQgR3JhcGhRTCByZXNvbHZlcnMsIGFuZCB0aGUgbW9yZSBpbnZpc2libGUsIHRoZSBoYXJkZXIgdG8gbm90aWNlLiBQcm9taXNlLmFsbCB0dXJucyBvbmUtYnktb25lIGludG8gcGFyYWxsZWwsIGJ1dCB0aGUgcmVxdWVzdCBjb3VudCBkb2Vzbid0IGRyb3AuIEl0IGhpZGVzIHRoZSBzbG93bmVzcyBhbmQga2VlcHMgdGhlIHNhbWUgbnVtYmVyIG9mIHJlcXVlc3RzLiBUaGUgcmVhbCBmaXggY29tYmluZXMgTiBpbnRvIDE6IEpPSU4sIG1hbnVhbCBJTiwgb3IgRGF0YUxvYWRlci4gVGhlIGdvb2QgdGhpbmcgYWJvdXQgRGF0YUxvYWRlciBpcyB0aGF0IHRoZSB0b3Agc3RheXMgYSBzaW1wbGUgImxvYWQgb25lIGF0IGEgdGltZSwiIHdoaWxlIHVuZGVybmVhdGggaXQgdXNlcyBhIHR3by1sYXllciBgUHJvbWlzZS50aGVuYCArIGBwcm9jZXNzLm5leHRUaWNrYCB3cmFwIHRvIHBsYWNlIHRoZSBkaXNwYXRjaCBpbiBleGFjdGx5IHRoZSByaWdodCBnYXAgb2YgdGhlIGV2ZW50IGxvb3AsIHF1aWV0bHkgY29tYmluaW5nIGl0IGludG8gYSBzaW5nbGUgSU4uCg==9:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L14",null,{"htmlContent":"$15","rawContent":"$16","base64Content":"$17","title":"N+1 isn't a database problem. It's a shape.","createdAt":"2026-06-28T01:15:14.000Z","updatedAt":"$undefined","tags":["n-plus-1","dataloader","graphql","event-loop","nodejs","performance"],"altHtmlContent":"$undefined","currentLang":"$undefined","altLang":"$undefined"}]}]}]
+d:{"metadata":[["$","title","0",{"children":"N+1 isn't a database problem. It's a shape.  | jialinhuang"}],["$","meta","1",{"name":"description","content":"You think N+1 is a SQL thing. It's a shape: take a list, make one round-trip per element. DataLoader uses microtask timing to combine the scattered calls into a single IN query."}]],"error":null,"digest":"$undefined"}
+12:"$d:metadata"

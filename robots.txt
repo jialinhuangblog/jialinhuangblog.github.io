@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /mondrian-cv/jialin-huang-cv.pdf
+Disallow: /mondrian-cv/jialin-huang-cv-frontend.pdf
+Disallow: /mondrian-cv/jialin-huang-cv-backend.pdf
+
+Sitemap: https://jialin00.com/sitemap.xml

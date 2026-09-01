@@ -1,0 +1,765 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"default"]
+4:I[47843,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"default"]
+5:I[48350,[],""]
+6:I[11412,[],""]
+7:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+8:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-5f5d0eb30b97fa1b.js"],"default"]
+a:I[96727,[],"OutletBoundary"]
+c:I[14038,[],"AsyncMetadataOutlet"]
+e:I[96727,[],"ViewportBoundary"]
+10:I[96727,[],"MetadataBoundary"]
+11:"$Sreact.suspense"
+13:I[92950,[],""]
+:HL["/_next/static/media/4c9affa5bc8f420e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/6e5637a05e39a1b1.css","style"]
+:HL["/_next/static/css/27451c99e2657f58.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/004145cbd0a33204.css","style"]
+0:{"P":null,"b":"ULvxUWnH7J2D9qudU--bA","p":"","c":["","v2","go-goroutines-waitgroup-to-deadlock"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","go-goroutines-waitgroup-to-deadlock","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6e5637a05e39a1b1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/27451c99e2657f58.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L8",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","go-goroutines-waitgroup-to-deadlock","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/004145cbd0a33204.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$La",null,{"children":["$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L10",null,{"children":["$","div",null,{"hidden":true,"children":["$","$11",null,{"fallback":null,"children":"$L12"}]}]}]]}],false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+b:null
+14:I[25885,["7654","static/chunks/7654-339fd591b7f76774.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+15:Tf18f,<p>There are two kinds of broken Go concurrency. The kind that screams at you, and the kind that doesn't.</p>
+<p>The screaming kind is almost a kindness. It might still take down prod, but it leaves you a stack trace, a line number, a place to start. The quiet kind gives you nothing. No crash, no log, no error. Your service just stops answering some of the time, and you find out from a Slack message that starts with "hey is the API ok?"</p>
+<p>This is the whole arc. We build up from "I want to do two things at once" to "why are 200 goroutines stuck and the runtime doesn't care". The easy parts are easy. Stick around for the last act.</p>
+<h2>Act 1: making concurrency actually run</h2>
+<h3>The naive version</h3>
+<p>Everybody starts here. You have two tasks, you run them one after another, you pad it with sleeps to simulate real work.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="go" data-theme="github-dark github-light"><code data-language="go" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">func</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> doSomething</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">	fmt.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Println</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Doing something important..."</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">	time.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Sleep</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(time.Second </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">*</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 2</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">func</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> doSomethingElse</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">	fmt.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Println</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Doing something else, equally important..."</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">	time.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Sleep</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(time.Second </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">*</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 3</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">func</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> main</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() {</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">	doSomething</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">	doSomethingElse</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>It's dumb and it's slow, because the second task sits around waiting for the first to finish. But hey, we all start somewhere.</p>
+<h3>"I'll just put go in front of everything"</h3>
+<p>Then you hear about goroutines. Lightweight threads. So you do the obvious thing.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="go" data-theme="github-dark github-light"><code data-language="go" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">func</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> main</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">	go</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> doSomething</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">	go</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> doSomethingElse</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">	fmt.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Println</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"I'm done"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<pre><code>$ go run main.go
+I'm done
+</code></pre>
+<p>That's it. That's the whole output. The main goroutine does not give a damn about your two new goroutines. It hits the end of <code>main</code>, says "I'm done", and peaces out before they even start their engines. When <code>main</code> returns, the program dies, and everything still running dies with it.</p>
+<p>So <code>go</code> is not the answer. <code>go</code> is the question. The answer is: how does <code>main</code> wait?</p>
+<h3>WaitGroup: the responsible adult</h3>
+<p><code>WaitGroup</code> is a counter with three buttons.</p>
+<ul>
+<li><code>wg.Add(1)</code> says "I'm starting one more task".</li>
+<li><code>wg.Done()</code> says "this one's finished" (counter down by one).</li>
+<li><code>wg.Wait()</code> blocks until the counter == 0.</li>
+</ul>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="go" data-theme="github-dark github-light"><code data-language="go" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">func</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> worker</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">id</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> int</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">wg</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> *</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">sync</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">WaitGroup</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">	defer</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> wg.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Done</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">	fmt.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Printf</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Worker </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">%d</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> starting</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">\n</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, id)</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">	time.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Sleep</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(time.Second)</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">	fmt.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Printf</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Worker </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">%d</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> done</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">\n</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, id)</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">func</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> main</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">	var</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> wg </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">sync</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">WaitGroup</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">	for</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:=</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 1</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">; i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">&#x3C;=</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 5</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">; i</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">++</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">		wg.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Add</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">1</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">		go</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> worker</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(i, </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">&#x26;</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">wg)</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">	}</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">	wg.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Wait</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">	fmt.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Println</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"All workers done"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p><code>defer wg.Done()</code> is the move you want to internalize. It runs when the function returns, no matter how it returns. So even if the worker bails early, the counter still drops. Forget the <code>Done</code> and <code>wg.Wait()</code> blocks forever, which is a nice preview of where this article is heading.</p>
+<h3>Channels: when goroutines need to talk</h3>
+<p>WaitGroup tells you <em>when</em> everyone is finished. It does not carry <em>what</em> they produced. For that you need a channel.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="go" data-theme="github-dark github-light"><code data-language="go" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">func</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> worker</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">id</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> int</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">wg</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> *</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">sync</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">WaitGroup</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">result</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> chan&#x3C;-</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> int</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">	defer</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> wg.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Done</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">	time.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Sleep</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(time.Second </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">*</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 2</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">	result </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">&#x3C;-</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> id </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">*</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 2</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">func</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> main</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">	var</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> wg </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">sync</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">WaitGroup</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">	result </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:=</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> make</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">chan</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> int</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">3</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">	for</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:=</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 1</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">; i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">&#x3C;=</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 3</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">; i</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">++</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">		wg.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Add</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">1</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">		go</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> worker</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(i, </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">&#x26;</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">wg, result)</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">	}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">	go</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> func</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">		wg.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Wait</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">		close</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(result)</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">	}()</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">	for</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> r </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:=</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> range</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> result {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">		fmt.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Printf</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Received: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">%d\n</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, r)</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">	}</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">	fmt.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Println</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"All workers done"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>It works. Results come out, program ends. But what's that little <code>go func()</code> doing in the middle? Before getting clever, just read its two lines.</p>
+<p><code>wg.Wait()</code> you know: block here until the counter == 0.</p>
+<p><code>close(result)</code> is the one people get wrong. It doesn't delete the channel or empty it. It flips a "kitchen's closed" sign: nothing new comes through, but whatever's already inside stays readable. The <code>for range</code> loop keeps eating leftovers, and stops the instant the channel is closed <em>and</em> empty.</p>
+<p>Together: wait until the workers are done, then tell the range loop the kitchen's closed. Reasonable enough. So the real question isn't what these lines do. It's why they're wrapped in a <code>go func()</code> instead of sitting plainly in <code>main</code>.</p>
+<p>That wrapper looks optional. It isn't. Pull it out and you can wedge the whole program. Let's take it apart one change at a time, because the reason is sneakier than it looks.</p>
+<h3>The first deadlock (the loud one)</h3>
+<p>Here's what that wrapper was hiding. Two separate things were keeping this program alive, and you have to kill <em>both</em> to break it.</p>
+<p><strong>Net one: the <code>go func()</code>.</strong> It lets <code>main</code> jump straight into the <code>for range</code> and drain results while the workers are still sending. Send and drain happen at the same time, so the buffer never stays full for long.</p>
+<p><strong>Net two: a buffer big enough to hold every result</strong> (3 slots, 3 workers). Even if nobody drained until the very end, all the sends still fit, so no worker ever blocks.</p>
+<p>Either net alone is enough. Really:</p>
+<ul>
+<li>Keep the wrapper, shrink the buffer to 2? Fine. <code>main</code> is draining concurrently, so a 2-slot buffer never overflows.</li>
+<li>Remove the wrapper, keep the buffer at 3? Fine. All 3 sends fit, nobody blocks, then <code>main</code> drains.</li>
+</ul>
+<p>So to actually break it you have to cut <em>both</em>. Unwrap the lines (net one gone) and shrink the buffer (net two gone):</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="go" data-theme="github-dark github-light"><code data-language="go" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">result </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:=</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> make</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">chan</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> int</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">2</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// net two gone: too small for 3 senders</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// ...</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">wg.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Wait</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()                     </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// net one gone: main blocks here instead of draining</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">close</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(result)</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">for</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> r </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:=</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> range</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> result { </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">...</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> }</span></span></code></pre></figure>
+<pre><code>fatal error: all goroutines are asleep - deadlock!
+</code></pre>
+<p>Now walk the circle:</p>
+<ol>
+<li>Buffer holds 2, three workers want to send. Worker three can't fit, so it blocks on <code>result &#x3C;- ...</code>, waiting for room.</li>
+<li>A blocked worker never reaches <code>defer wg.Done()</code>. The counter never reaches 0.</li>
+<li>So <code>wg.Wait()</code> waits forever, standing in <code>main</code>'s way.</li>
+<li><code>main</code> is the only one who drains the channel, down in the <code>for range</code>. But it never gets there, stuck up top on <code>wg.Wait()</code>.</li>
+<li>Nobody drains, so no room ever frees up, so worker three stays blocked. Back to step 1.</li>
+</ol>
+<p>Everyone is waiting for everyone. The runtime sees the whole program asleep, throws <code>all goroutines are asleep - deadlock!</code>, and pulls the plug.</p>
+<p>The fix is to keep net one. Put the two lines back in their goroutine:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="go" data-theme="github-dark github-light"><code data-language="go" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">go</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> func</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">	wg.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Wait</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">	close</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(result)</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}()</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">for</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> r </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:=</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> range</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> result { </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">...</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> }</span></span></code></pre></figure>
+<p>Now <code>main</code> drains right away while the waiter waits in the background, and the buffer size stops mattering. That's why net one is the one to lean on: you can't always size a buffer to the workload, but you can always drain concurrently.</p>
+<p>Now here is the part I actually want you to remember. <strong>That crash was a gift.</strong> The runtime caught it, named it, and stopped everything before it could do damage. You hear about it the instant you hit run.</p>
+<p>Hold that thought. Because its evil twin makes no sound at all.</p>
+<h2>Act 2: when concurrency breaks</h2>
+<p>Goroutine code dies two ways.</p>
+<p><strong>Panic</strong> is loud and immediate. One goroutine blows up, prints a stack, and unless it recovers itself, takes the whole process down with it.</p>
+<p><strong>Deadlock</strong> is the opposite. It can be quiet, it can wait, and it can take down the whole system without a single line of output.</p>
+<h3>Panic, the loud one</h3>
+<p>Panic tells you everything: the error, the type, the exact line. That doesn't make it harmless. It makes it <em>findable</em>.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="go" data-theme="github-dark github-light"><code data-language="go" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">ch </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:=</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> make</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">chan</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> int</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">close</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(ch)</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">ch </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">&#x3C;-</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 1</span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"> // panic: send on closed channel</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">var</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> p </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">*</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Person</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">fmt.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Println</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(p.Name) </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// panic: nil pointer dereference</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">a </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> []</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">int</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">1</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">2</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">3</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">_ </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> a[</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">5</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">] </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// panic: index out of range [5] with length 3</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">var</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">interface</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{} </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> "hello"</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">_ </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> i.(</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">int</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// panic: interface conversion: string, not int</span></span></code></pre></figure>
+<p>It stops the goroutine, runs that goroutine's <code>defer</code>s on the way up, and bubbles. A <code>defer</code> with <code>recover()</code> catches it; otherwise you get a stack trace pointing at the crime scene.</p>
+<p>The part that bites in production: an unrecovered panic takes down the <strong>whole process</strong>, not just the one goroutine. And <code>recover()</code> only works inside the <em>same</em> goroutine that panicked, so <code>main</code> can't catch a worker's panic. <code>net/http</code> already wraps each request handler, but a goroutine <em>you</em> spawn is bare, and one stray panic in it sinks the whole service. So wrap the ones you start:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="go" data-theme="github-dark github-light"><code data-language="go" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">func</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> goSafe</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">fn</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> func</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">	go</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> func</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">		defer</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> func</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">			if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> r </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:=</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> recover</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(); r </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">!=</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> nil</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">				log.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Printf</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"goroutine panic: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">%v\n%s</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, r, debug.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Stack</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">())</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">			}</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">		}()</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">		fn</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">	}()</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>Still, panic is the gentler problem: when it blows it leaves a body and a note, a stack trace that says what and where. The deadlock we're about to meet keeps the lights on and says nothing.</p>
+<h3>Deadlock, the boss fight</h3>
+<p>Deadlock comes in two flavors, and the difference between them is the whole point of this article.</p>
+<p><strong>Channel deadlock.</strong> You already met it in Act 1. The minimal version:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="go" data-theme="github-dark github-light"><code data-language="go" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">ch </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:=</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> make</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">chan</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> int</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// open, unbuffered</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">ch </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">&#x3C;-</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 1</span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">              // nobody is receiving, so this blocks forever</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// fatal error: all goroutines are asleep - deadlock!</span></span></code></pre></figure>
+<p>The runtime catches this. Loud, instant, fatal.</p>
+<p>Worth pausing on, because the channel's <em>state</em> decides your fate here. Send to a <strong>closed</strong> channel and you get a panic (<code>send on closed channel</code>). Send to an <strong>open</strong> one with no receiver, like above, and you deadlock. Same <code>ch &#x3C;- 1</code>, two completely different deaths.</p>
+<p><strong>Mutex deadlock.</strong> Two goroutines, two locks, grabbed in opposite order:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="go" data-theme="github-dark github-light"><code data-language="go" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">func</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> mutexDeadlock</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">	var</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> m1, m2 </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">sync</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Mutex</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">	go</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> func</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">		m1.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Lock</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">		time.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Sleep</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">100</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> *</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> time.Millisecond)</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">		m2.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Lock</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// waiting for the other one to let go of m2</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">		m2.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Unlock</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">		m1.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Unlock</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">	}()</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">	go</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> func</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">		m2.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Lock</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">		time.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Sleep</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">100</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> *</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> time.Millisecond)</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">		m1.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Lock</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// waiting for the other one to let go of m1</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">		m1.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Unlock</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">		m2.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Unlock</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">	}()</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">	time.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Sleep</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(time.Second)</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>Goroutine 1 holds <code>m1</code>, wants <code>m2</code>. Goroutine 2 holds <code>m2</code>, wants <code>m1</code>. Neither will ever let go. They are stuck until the heat death of the universe.</p>
+<p>And the runtime says... nothing.</p>
+<h3>Why one screams and the other stays quiet</h3>
+<p>Go does have a built-in deadlock alarm. But it fires under exactly one condition: <strong>every goroutine is blocked at the same time.</strong> No goroutine left that could possibly run, so the runtime gives up and shouts <code>all goroutines are asleep</code>.</p>
+<p>A toy channel deadlock trips it instantly. There's only <code>main</code>, <code>main</code> is stuck, so <em>everyone</em> is stuck. Alarm.</p>
+<p>A mutex deadlock in a real server never trips it. The server still has goroutines accepting requests, timers firing, the GC running. So even with two goroutines locked against each other, the runtime looks around, sees plenty still awake, and stays quiet. The alarm only knows how to spot <em>total</em> gridlock, not two stuck goroutines in an otherwise busy program.</p>
+<p>That's the whole asymmetry: the loud failure trips the alarm, the quiet one walks right under it. So for the quiet one you're on your own. You need habits to keep it from forming, and tools to find it when it does. Both are coming up.</p>
+<h3>The fix ladder</h3>
+<p>There are four ways out, and they climb from "simple but fragile" to "Go idiomatic". Pick the lowest rung that holds your weight.</p>
+<p><strong>Rung 1: lock in the same order, always.</strong> The deadlock only happens because one goroutine grabs <code>m1</code> then <code>m2</code> and the other grabs <code>m2</code> then <code>m1</code>. Force everyone to grab them in the same order and the cycle can't form.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="go" data-theme="github-dark github-light"><code data-language="go" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// the rule is the LOCK order: everyone takes m1, then m2</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">m1.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Lock</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">m2.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Lock</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// work</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">m2.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Unlock</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// unlock order is free, reverse is just habit</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">m1.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Unlock</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span></code></pre></figure>
+<p>Only the lock order matters. Unlocking never blocks, so you can release in any order you like. The reverse-order unlock above is just the tidy convention, and it's exactly what you get for free if you use <code>defer m1.Unlock()</code> right after each <code>Lock()</code>, since defers run last-in-first-out. Don't mistake that habit for a rule.</p>
+<p>Simple, correct. Falls apart the moment you have a dozen locks and can't keep the global order straight in your head.</p>
+<p><strong>Rung 2: one lock to rule them all.</strong> Wrap the whole set behind a single lock-everything / unlock-everything pair.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="go" data-theme="github-dark github-light"><code data-language="go" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">type</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> OrderedLocks</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> struct</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{ m1, m2 </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">sync</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Mutex</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> }</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">func</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">l </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">*</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">OrderedLocks</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">LockBoth</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()   { l.m1.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Lock</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(); l.m2.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Lock</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() }</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">func</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">l </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">*</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">OrderedLocks</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">UnlockBoth</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() { l.m2.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Unlock</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(); l.m1.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Unlock</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() }</span></span></code></pre></figure>
+<p>Barbaric, but it works. You also just threw away most of your concurrency, because nobody can hold one lock while another holds the other. Sometimes that's the right call. Usually it's a sign you need rung 3.</p>
+<p><strong>Rung 3: TryLock with a timeout.</strong> Instead of blocking forever waiting for a lock, try, and give up if it doesn't come.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="go" data-theme="github-dark github-light"><code data-language="go" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">func</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> tryLock</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">m</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> *</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">sync</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Mutex</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">timeout</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> time</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Duration</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">bool</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">	ctx, cancel </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> context.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">WithTimeout</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(context.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Background</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(), timeout)</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">	defer</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> cancel</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">	for</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">		select</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">		case</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> &#x3C;-</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">ctx.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Done</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">():</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">			return</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> false</span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"> // gave up, no deadlock</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">		default</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">			if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> m.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">TryLock</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">				return</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> true</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">			}</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">			time.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Sleep</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(time.Millisecond)</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">		}</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">	}</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p><code>TryLock</code> landed in Go 1.18. The <code>context</code> here is just a stopwatch, don't overthink it. The point is a goroutine that can't get its second lock backs off instead of hanging. No permanent wait means no deadlock. This is the rung most real services live on.</p>
+<p><strong>Rung 4: don't share memory, pass messages.</strong> This one is a Go proverb, almost word for word from <a href="https://go.dev/doc/effective_go#Share_by_communicating">Effective Go</a>: <em>"Do not communicate by sharing memory; instead, share memory by communicating."</em> Model each resource as a buffered channel holding one token. Holding the resource means holding the token. <code>select</code> with a <code>default</code> means "grab it if you can, otherwise move on".</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="go" data-theme="github-dark github-light"><code data-language="go" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">resource1 </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:=</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> make</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">chan</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> struct</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{}, </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">1</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">resource1 </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">&#x3C;-</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> struct</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{}{} </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// the token</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">select</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">case</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> &#x3C;-</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">resource1:</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">	// got it, do work, then put it back</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">	resource1 </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">&#x3C;-</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> struct</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{}{}</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">default</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">	// someone else has it, don't block</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>No mutexes, no lock ordering to babysit. You've turned "wait on a lock" into "ask a channel, take no for an answer". Whether this is cleaner than rung 3 depends on the problem, but it's the one that feels most like Go.</p>
+<h2>Debugging cheat sheet</h2>
+<p>The sticky little facts, in one place.</p>
+<p>Read the symptom first:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>What you see</th><th>What it usually is</th><th>First move</th></tr></thead><tbody><tr><td>stack trace, process exits</td><td>unrecovered panic</td><td>read the trace, it names the line</td></tr><tr><td>process dies, trace points into a goroutine you spawned</td><td>panic with no <code>recover()</code> in that goroutine</td><td>wrap the goroutine (below)</td></tr><tr><td><code>fatal error: all goroutines are asleep</code></td><td>total deadlock</td><td>the trace shows where everyone is parked</td></tr><tr><td>service hangs, no error, goroutine count climbs</td><td>partial / mutex deadlock</td><td><code>runtime.NumGoroutine()</code> trend, then pprof</td></tr><tr><td>flaky, occasional garbage data</td><td>data race</td><td><code>go test -race</code></td></tr></tbody></table>
+<p>Then the facts that bite:</p>
+<ul>
+<li>
+<p><strong>There is no <code>wg.Count()</code>.</strong> To watch outstanding work, keep your own <code>atomic.Int64</code> next to the <code>WaitGroup</code>, or watch <code>runtime.NumGoroutine()</code> for the trend (it counts every goroutine, so read the direction, not the absolute number).</p>
+</li>
+<li>
+<p><strong><code>recover()</code> only saves its own goroutine, and only inside a <code>defer</code>.</strong> Every goroutine you spawn needs its own. <code>net/http</code> already wraps each request handler for you; your bare <code>go</code> statements get nothing.</p>
+</li>
+<li>
+<p><strong>pprof for stuck locks:</strong> <code>import _ "net/http/pprof"</code>, run a server (<code>go http.ListenAndServe("localhost:6060", nil)</code>), then open <code>/debug/pprof/goroutine?debug=1</code>. A pile of goroutines parked like this is your deadlock:</p>
+<pre><code>sync.runtime_SemacquireMutex+0x27  runtime/sema.go:77
+sync.(*Mutex).Lock+0x16f           sync/mutex.go:90
+main.mutexDeadlock.func1+0x11c     main.go:35
+</code></pre>
+<p><code>sync.runtime_SemacquireMutex</code> is the internal name for "stuck in <code>Mutex.Lock</code>"; the line numbers tell you which locks.</p>
+</li>
+<li>
+<p><strong>Static tools are thin.</strong> <code>go vet</code> catches a copied <code>Mutex</code> / <code>WaitGroup</code>. <code>staticcheck</code> catches some provable nil derefs and impossible type assertions. Neither catches a deadlock. The compiler only flags a constant index out of range on an <strong>array</strong>, never a slice.</p>
+</li>
+<li>
+<p><strong>Lock-order deadlock in dev:</strong> swap <code>sync.Mutex</code> for <code>sasha-s/go-deadlock</code>, a drop-in that prints a report at runtime when the lock order inverts. Take it back out for prod.</p>
+</li>
+</ul>
+<h2>The one table to remember</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th></th><th>Panic</th><th>Deadlock</th></tr></thead><tbody><tr><td>When</td><td>immediately</td><td>maybe never, maybe whenever</td></tr><tr><td>Output</td><td>stack trace, error message</td><td>often nothing</td></tr><tr><td>Recover</td><td>yes, <code>recover()</code>, same goroutine only</td><td>no, you restart</td></tr><tr><td>Blast radius</td><td>whole process, unless that goroutine recovers itself</td><td>potentially the whole system</td></tr><tr><td>Finding it</td><td>read the error</td><td><code>NumGoroutine</code>, pprof, suspicion</td></tr></tbody></table>
+<p>Panic is the coworker who tells you to your face. Deadlock is the one who quietly stops doing their job and lets you find out in the standup three days later.</p>
+<p>The lesson from the whole arc: the failures that crash are doing you a favor. The one that worries me, the one worth building habits around, is the mutex deadlock that keeps the lights on while half your requests quietly die in the dark. Lock in one order, or stop sharing memory and pass a message instead.</p>
+<h2>References</h2>
+<ul>
+<li>Effective Go, "Share by communicating" — <a href="https://go.dev/doc/effective_go#Share_by_communicating">go.dev/doc/effective_go#Share_by_communicating</a></li>
+<li>Rob Pike, "Go Proverbs" — <a href="https://go-proverbs.github.io/">go-proverbs.github.io</a></li>
+</ul>16:T4314,
+There are two kinds of broken Go concurrency. The kind that screams at you, and the kind that doesn't.
+
+The screaming kind is almost a kindness. It might still take down prod, but it leaves you a stack trace, a line number, a place to start. The quiet kind gives you nothing. No crash, no log, no error. Your service just stops answering some of the time, and you find out from a Slack message that starts with "hey is the API ok?"
+
+This is the whole arc. We build up from "I want to do two things at once" to "why are 200 goroutines stuck and the runtime doesn't care". The easy parts are easy. Stick around for the last act.
+
+## Act 1: making concurrency actually run
+
+### The naive version
+
+Everybody starts here. You have two tasks, you run them one after another, you pad it with sleeps to simulate real work.
+
+```go
+func doSomething() {
+	fmt.Println("Doing something important...")
+	time.Sleep(time.Second * 2)
+}
+
+func doSomethingElse() {
+	fmt.Println("Doing something else, equally important...")
+	time.Sleep(time.Second * 3)
+}
+
+func main() {
+	doSomething()
+	doSomethingElse()
+}
+```
+
+It's dumb and it's slow, because the second task sits around waiting for the first to finish. But hey, we all start somewhere.
+
+### "I'll just put go in front of everything"
+
+Then you hear about goroutines. Lightweight threads. So you do the obvious thing.
+
+```go
+func main() {
+	go doSomething()
+	go doSomethingElse()
+	fmt.Println("I'm done")
+}
+```
+
+```
+$ go run main.go
+I'm done
+```
+
+That's it. That's the whole output. The main goroutine does not give a damn about your two new goroutines. It hits the end of `main`, says "I'm done", and peaces out before they even start their engines. When `main` returns, the program dies, and everything still running dies with it.
+
+So `go` is not the answer. `go` is the question. The answer is: how does `main` wait?
+
+### WaitGroup: the responsible adult
+
+`WaitGroup` is a counter with three buttons.
+
+- `wg.Add(1)` says "I'm starting one more task".
+- `wg.Done()` says "this one's finished" (counter down by one).
+- `wg.Wait()` blocks until the counter == 0.
+
+```go
+func worker(id int, wg *sync.WaitGroup) {
+	defer wg.Done()
+	fmt.Printf("Worker %d starting\n", id)
+	time.Sleep(time.Second)
+	fmt.Printf("Worker %d done\n", id)
+}
+
+func main() {
+	var wg sync.WaitGroup
+	for i := 1; i <= 5; i++ {
+		wg.Add(1)
+		go worker(i, &wg)
+	}
+	wg.Wait()
+	fmt.Println("All workers done")
+}
+```
+
+`defer wg.Done()` is the move you want to internalize. It runs when the function returns, no matter how it returns. So even if the worker bails early, the counter still drops. Forget the `Done` and `wg.Wait()` blocks forever, which is a nice preview of where this article is heading.
+
+### Channels: when goroutines need to talk
+
+WaitGroup tells you *when* everyone is finished. It does not carry *what* they produced. For that you need a channel.
+
+```go
+func worker(id int, wg *sync.WaitGroup, result chan<- int) {
+	defer wg.Done()
+	time.Sleep(time.Second * 2)
+	result <- id * 2
+}
+
+func main() {
+	var wg sync.WaitGroup
+	result := make(chan int, 3)
+
+	for i := 1; i <= 3; i++ {
+		wg.Add(1)
+		go worker(i, &wg, result)
+	}
+
+	go func() {
+		wg.Wait()
+		close(result)
+	}()
+
+	for r := range result {
+		fmt.Printf("Received: %d\n", r)
+	}
+	fmt.Println("All workers done")
+}
+```
+
+It works. Results come out, program ends. But what's that little `go func()` doing in the middle? Before getting clever, just read its two lines.
+
+`wg.Wait()` you know: block here until the counter == 0.
+
+`close(result)` is the one people get wrong. It doesn't delete the channel or empty it. It flips a "kitchen's closed" sign: nothing new comes through, but whatever's already inside stays readable. The `for range` loop keeps eating leftovers, and stops the instant the channel is closed *and* empty.
+
+Together: wait until the workers are done, then tell the range loop the kitchen's closed. Reasonable enough. So the real question isn't what these lines do. It's why they're wrapped in a `go func()` instead of sitting plainly in `main`.
+
+That wrapper looks optional. It isn't. Pull it out and you can wedge the whole program. Let's take it apart one change at a time, because the reason is sneakier than it looks.
+
+### The first deadlock (the loud one)
+
+Here's what that wrapper was hiding. Two separate things were keeping this program alive, and you have to kill *both* to break it.
+
+**Net one: the `go func()`.** It lets `main` jump straight into the `for range` and drain results while the workers are still sending. Send and drain happen at the same time, so the buffer never stays full for long.
+
+**Net two: a buffer big enough to hold every result** (3 slots, 3 workers). Even if nobody drained until the very end, all the sends still fit, so no worker ever blocks.
+
+Either net alone is enough. Really:
+
+- Keep the wrapper, shrink the buffer to 2? Fine. `main` is draining concurrently, so a 2-slot buffer never overflows.
+- Remove the wrapper, keep the buffer at 3? Fine. All 3 sends fit, nobody blocks, then `main` drains.
+
+So to actually break it you have to cut *both*. Unwrap the lines (net one gone) and shrink the buffer (net two gone):
+
+```go
+result := make(chan int, 2) // net two gone: too small for 3 senders
+// ...
+wg.Wait()                     // net one gone: main blocks here instead of draining
+close(result)
+for r := range result { ... }
+```
+
+```
+fatal error: all goroutines are asleep - deadlock!
+```
+
+Now walk the circle:
+
+1. Buffer holds 2, three workers want to send. Worker three can't fit, so it blocks on `result <- ...`, waiting for room.
+2. A blocked worker never reaches `defer wg.Done()`. The counter never reaches 0.
+3. So `wg.Wait()` waits forever, standing in `main`'s way.
+4. `main` is the only one who drains the channel, down in the `for range`. But it never gets there, stuck up top on `wg.Wait()`.
+5. Nobody drains, so no room ever frees up, so worker three stays blocked. Back to step 1.
+
+Everyone is waiting for everyone. The runtime sees the whole program asleep, throws `all goroutines are asleep - deadlock!`, and pulls the plug.
+
+The fix is to keep net one. Put the two lines back in their goroutine:
+
+```go
+go func() {
+	wg.Wait()
+	close(result)
+}()
+for r := range result { ... }
+```
+
+Now `main` drains right away while the waiter waits in the background, and the buffer size stops mattering. That's why net one is the one to lean on: you can't always size a buffer to the workload, but you can always drain concurrently.
+
+Now here is the part I actually want you to remember. **That crash was a gift.** The runtime caught it, named it, and stopped everything before it could do damage. You hear about it the instant you hit run.
+
+Hold that thought. Because its evil twin makes no sound at all.
+
+## Act 2: when concurrency breaks
+
+Goroutine code dies two ways.
+
+**Panic** is loud and immediate. One goroutine blows up, prints a stack, and unless it recovers itself, takes the whole process down with it.
+
+**Deadlock** is the opposite. It can be quiet, it can wait, and it can take down the whole system without a single line of output.
+
+### Panic, the loud one
+
+Panic tells you everything: the error, the type, the exact line. That doesn't make it harmless. It makes it *findable*.
+
+```go
+ch := make(chan int)
+close(ch)
+ch <- 1 // panic: send on closed channel
+
+var p *Person
+fmt.Println(p.Name) // panic: nil pointer dereference
+
+a := []int{1, 2, 3}
+_ = a[5] // panic: index out of range [5] with length 3
+
+var i interface{} = "hello"
+_ = i.(int) // panic: interface conversion: string, not int
+```
+
+It stops the goroutine, runs that goroutine's `defer`s on the way up, and bubbles. A `defer` with `recover()` catches it; otherwise you get a stack trace pointing at the crime scene.
+
+The part that bites in production: an unrecovered panic takes down the **whole process**, not just the one goroutine. And `recover()` only works inside the *same* goroutine that panicked, so `main` can't catch a worker's panic. `net/http` already wraps each request handler, but a goroutine *you* spawn is bare, and one stray panic in it sinks the whole service. So wrap the ones you start:
+
+```go
+func goSafe(fn func()) {
+	go func() {
+		defer func() {
+			if r := recover(); r != nil {
+				log.Printf("goroutine panic: %v\n%s", r, debug.Stack())
+			}
+		}()
+		fn()
+	}()
+}
+```
+
+Still, panic is the gentler problem: when it blows it leaves a body and a note, a stack trace that says what and where. The deadlock we're about to meet keeps the lights on and says nothing.
+
+### Deadlock, the boss fight
+
+Deadlock comes in two flavors, and the difference between them is the whole point of this article.
+
+**Channel deadlock.** You already met it in Act 1. The minimal version:
+
+```go
+ch := make(chan int) // open, unbuffered
+ch <- 1              // nobody is receiving, so this blocks forever
+// fatal error: all goroutines are asleep - deadlock!
+```
+
+The runtime catches this. Loud, instant, fatal.
+
+Worth pausing on, because the channel's *state* decides your fate here. Send to a **closed** channel and you get a panic (`send on closed channel`). Send to an **open** one with no receiver, like above, and you deadlock. Same `ch <- 1`, two completely different deaths.
+
+**Mutex deadlock.** Two goroutines, two locks, grabbed in opposite order:
+
+```go
+func mutexDeadlock() {
+	var m1, m2 sync.Mutex
+
+	go func() {
+		m1.Lock()
+		time.Sleep(100 * time.Millisecond)
+		m2.Lock() // waiting for the other one to let go of m2
+		m2.Unlock()
+		m1.Unlock()
+	}()
+
+	go func() {
+		m2.Lock()
+		time.Sleep(100 * time.Millisecond)
+		m1.Lock() // waiting for the other one to let go of m1
+		m1.Unlock()
+		m2.Unlock()
+	}()
+
+	time.Sleep(time.Second)
+}
+```
+
+Goroutine 1 holds `m1`, wants `m2`. Goroutine 2 holds `m2`, wants `m1`. Neither will ever let go. They are stuck until the heat death of the universe.
+
+And the runtime says... nothing.
+
+### Why one screams and the other stays quiet
+
+Go does have a built-in deadlock alarm. But it fires under exactly one condition: **every goroutine is blocked at the same time.** No goroutine left that could possibly run, so the runtime gives up and shouts `all goroutines are asleep`.
+
+A toy channel deadlock trips it instantly. There's only `main`, `main` is stuck, so *everyone* is stuck. Alarm.
+
+A mutex deadlock in a real server never trips it. The server still has goroutines accepting requests, timers firing, the GC running. So even with two goroutines locked against each other, the runtime looks around, sees plenty still awake, and stays quiet. The alarm only knows how to spot *total* gridlock, not two stuck goroutines in an otherwise busy program.
+
+That's the whole asymmetry: the loud failure trips the alarm, the quiet one walks right under it. So for the quiet one you're on your own. You need habits to keep it from forming, and tools to find it when it does. Both are coming up.
+
+### The fix ladder
+
+There are four ways out, and they climb from "simple but fragile" to "Go idiomatic". Pick the lowest rung that holds your weight.
+
+**Rung 1: lock in the same order, always.** The deadlock only happens because one goroutine grabs `m1` then `m2` and the other grabs `m2` then `m1`. Force everyone to grab them in the same order and the cycle can't form.
+
+```go
+// the rule is the LOCK order: everyone takes m1, then m2
+m1.Lock()
+m2.Lock()
+// work
+m2.Unlock() // unlock order is free, reverse is just habit
+m1.Unlock()
+```
+
+Only the lock order matters. Unlocking never blocks, so you can release in any order you like. The reverse-order unlock above is just the tidy convention, and it's exactly what you get for free if you use `defer m1.Unlock()` right after each `Lock()`, since defers run last-in-first-out. Don't mistake that habit for a rule.
+
+Simple, correct. Falls apart the moment you have a dozen locks and can't keep the global order straight in your head.
+
+**Rung 2: one lock to rule them all.** Wrap the whole set behind a single lock-everything / unlock-everything pair.
+
+```go
+type OrderedLocks struct{ m1, m2 sync.Mutex }
+
+func (l *OrderedLocks) LockBoth()   { l.m1.Lock(); l.m2.Lock() }
+func (l *OrderedLocks) UnlockBoth() { l.m2.Unlock(); l.m1.Unlock() }
+```
+
+Barbaric, but it works. You also just threw away most of your concurrency, because nobody can hold one lock while another holds the other. Sometimes that's the right call. Usually it's a sign you need rung 3.
+
+**Rung 3: TryLock with a timeout.** Instead of blocking forever waiting for a lock, try, and give up if it doesn't come.
+
+```go
+func tryLock(m *sync.Mutex, timeout time.Duration) bool {
+	ctx, cancel := context.WithTimeout(context.Background(), timeout)
+	defer cancel()
+	for {
+		select {
+		case <-ctx.Done():
+			return false // gave up, no deadlock
+		default:
+			if m.TryLock() {
+				return true
+			}
+			time.Sleep(time.Millisecond)
+		}
+	}
+}
+```
+
+`TryLock` landed in Go 1.18. The `context` here is just a stopwatch, don't overthink it. The point is a goroutine that can't get its second lock backs off instead of hanging. No permanent wait means no deadlock. This is the rung most real services live on.
+
+**Rung 4: don't share memory, pass messages.** This one is a Go proverb, almost word for word from [Effective Go](https://go.dev/doc/effective_go#Share_by_communicating): *"Do not communicate by sharing memory; instead, share memory by communicating."* Model each resource as a buffered channel holding one token. Holding the resource means holding the token. `select` with a `default` means "grab it if you can, otherwise move on".
+
+```go
+resource1 := make(chan struct{}, 1)
+resource1 <- struct{}{} // the token
+
+select {
+case <-resource1:
+	// got it, do work, then put it back
+	resource1 <- struct{}{}
+default:
+	// someone else has it, don't block
+}
+```
+
+No mutexes, no lock ordering to babysit. You've turned "wait on a lock" into "ask a channel, take no for an answer". Whether this is cleaner than rung 3 depends on the problem, but it's the one that feels most like Go.
+
+## Debugging cheat sheet
+
+The sticky little facts, in one place.
+
+Read the symptom first:
+
+| What you see | What it usually is | First move |
+|---|---|---|
+| stack trace, process exits | unrecovered panic | read the trace, it names the line |
+| process dies, trace points into a goroutine you spawned | panic with no `recover()` in that goroutine | wrap the goroutine (below) |
+| `fatal error: all goroutines are asleep` | total deadlock | the trace shows where everyone is parked |
+| service hangs, no error, goroutine count climbs | partial / mutex deadlock | `runtime.NumGoroutine()` trend, then pprof |
+| flaky, occasional garbage data | data race | `go test -race` |
+
+Then the facts that bite:
+
+- **There is no `wg.Count()`.** To watch outstanding work, keep your own `atomic.Int64` next to the `WaitGroup`, or watch `runtime.NumGoroutine()` for the trend (it counts every goroutine, so read the direction, not the absolute number).
+- **`recover()` only saves its own goroutine, and only inside a `defer`.** Every goroutine you spawn needs its own. `net/http` already wraps each request handler for you; your bare `go` statements get nothing.
+- **pprof for stuck locks:** `import _ "net/http/pprof"`, run a server (`go http.ListenAndServe("localhost:6060", nil)`), then open `/debug/pprof/goroutine?debug=1`. A pile of goroutines parked like this is your deadlock:
+
+  ```
+  sync.runtime_SemacquireMutex+0x27  runtime/sema.go:77
+  sync.(*Mutex).Lock+0x16f           sync/mutex.go:90
+  main.mutexDeadlock.func1+0x11c     main.go:35
+  ```
+
+  `sync.runtime_SemacquireMutex` is the internal name for "stuck in `Mutex.Lock`"; the line numbers tell you which locks.
+- **Static tools are thin.** `go vet` catches a copied `Mutex` / `WaitGroup`. `staticcheck` catches some provable nil derefs and impossible type assertions. Neither catches a deadlock. The compiler only flags a constant index out of range on an **array**, never a slice.
+- **Lock-order deadlock in dev:** swap `sync.Mutex` for `sasha-s/go-deadlock`, a drop-in that prints a report at runtime when the lock order inverts. Take it back out for prod.
+
+## The one table to remember
+
+| | Panic | Deadlock |
+|---|---|---|
+| When | immediately | maybe never, maybe whenever |
+| Output | stack trace, error message | often nothing |
+| Recover | yes, `recover()`, same goroutine only | no, you restart |
+| Blast radius | whole process, unless that goroutine recovers itself | potentially the whole system |
+| Finding it | read the error | `NumGoroutine`, pprof, suspicion |
+
+Panic is the coworker who tells you to your face. Deadlock is the one who quietly stops doing their job and lets you find out in the standup three days later.
+
+The lesson from the whole arc: the failures that crash are doing you a favor. The one that worries me, the one worth building habits around, is the mutex deadlock that keeps the lights on while half your requests quietly die in the dark. Lock in one order, or stop sharing memory and pass a message instead.
+
+## References
+
+- Effective Go, "Share by communicating" — [go.dev/doc/effective_go#Share_by_communicating](https://go.dev/doc/effective_go#Share_by_communicating)
+- Rob Pike, "Go Proverbs" — [go-proverbs.github.io](https://go-proverbs.github.io/)
+17:T5b08,LS0tCnRpdGxlOiAnR29yb3V0aW5lczogZnJvbSAiaXQgd29ya3MiIHRvICJ3aHkgaXMgcHJvZCBzaWxlbnRseSBoYW5naW5nIicKZGF0ZTogMjAyNC0xMC0wNlQyMzo1NzowMAp0YWdzOiBbZ29sYW5nLCBjb25jdXJyZW5jeSwgZ29yb3V0aW5lcywgZGVhZGxvY2ssIG11dGV4XQpkZXNjcmlwdGlvbjogQSB3YWxrIGZyb20gbmFpdmUgZ29yb3V0aW5lcyB1cCB0byB0aGUgZGVhZGxvY2sgdGhhdCBkb2VzIG5vdCBjcmFzaC4gVGhlIGxvdWQgZmFpbHVyZXMgYXJlIGVhc3kuIFRoZSBxdWlldCBvbmUgaXMgdGhlIGJvc3MgZmlnaHQuCi0tLQoKVGhlcmUgYXJlIHR3byBraW5kcyBvZiBicm9rZW4gR28gY29uY3VycmVuY3kuIFRoZSBraW5kIHRoYXQgc2NyZWFtcyBhdCB5b3UsIGFuZCB0aGUga2luZCB0aGF0IGRvZXNuJ3QuCgpUaGUgc2NyZWFtaW5nIGtpbmQgaXMgYWxtb3N0IGEga2luZG5lc3MuIEl0IG1pZ2h0IHN0aWxsIHRha2UgZG93biBwcm9kLCBidXQgaXQgbGVhdmVzIHlvdSBhIHN0YWNrIHRyYWNlLCBhIGxpbmUgbnVtYmVyLCBhIHBsYWNlIHRvIHN0YXJ0LiBUaGUgcXVpZXQga2luZCBnaXZlcyB5b3Ugbm90aGluZy4gTm8gY3Jhc2gsIG5vIGxvZywgbm8gZXJyb3IuIFlvdXIgc2VydmljZSBqdXN0IHN0b3BzIGFuc3dlcmluZyBzb21lIG9mIHRoZSB0aW1lLCBhbmQgeW91IGZpbmQgb3V0IGZyb20gYSBTbGFjayBtZXNzYWdlIHRoYXQgc3RhcnRzIHdpdGggImhleSBpcyB0aGUgQVBJIG9rPyIKClRoaXMgaXMgdGhlIHdob2xlIGFyYy4gV2UgYnVpbGQgdXAgZnJvbSAiSSB3YW50IHRvIGRvIHR3byB0aGluZ3MgYXQgb25jZSIgdG8gIndoeSBhcmUgMjAwIGdvcm91dGluZXMgc3R1Y2sgYW5kIHRoZSBydW50aW1lIGRvZXNuJ3QgY2FyZSIuIFRoZSBlYXN5IHBhcnRzIGFyZSBlYXN5LiBTdGljayBhcm91bmQgZm9yIHRoZSBsYXN0IGFjdC4KCiMjIEFjdCAxOiBtYWtpbmcgY29uY3VycmVuY3kgYWN0dWFsbHkgcnVuCgojIyMgVGhlIG5haXZlIHZlcnNpb24KCkV2ZXJ5Ym9keSBzdGFydHMgaGVyZS4gWW91IGhhdmUgdHdvIHRhc2tzLCB5b3UgcnVuIHRoZW0gb25lIGFmdGVyIGFub3RoZXIsIHlvdSBwYWQgaXQgd2l0aCBzbGVlcHMgdG8gc2ltdWxhdGUgcmVhbCB3b3JrLgoKYGBgZ28KZnVuYyBkb1NvbWV0aGluZygpIHsKCWZtdC5QcmludGxuKCJEb2luZyBzb21ldGhpbmcgaW1wb3J0YW50Li4uIikKCXRpbWUuU2xlZXAodGltZS5TZWNvbmQgKiAyKQp9CgpmdW5jIGRvU29tZXRoaW5nRWxzZSgpIHsKCWZtdC5QcmludGxuKCJEb2luZyBzb21ldGhpbmcgZWxzZSwgZXF1YWxseSBpbXBvcnRhbnQuLi4iKQoJdGltZS5TbGVlcCh0aW1lLlNlY29uZCAqIDMpCn0KCmZ1bmMgbWFpbigpIHsKCWRvU29tZXRoaW5nKCkKCWRvU29tZXRoaW5nRWxzZSgpCn0KYGBgCgpJdCdzIGR1bWIgYW5kIGl0J3Mgc2xvdywgYmVjYXVzZSB0aGUgc2Vjb25kIHRhc2sgc2l0cyBhcm91bmQgd2FpdGluZyBmb3IgdGhlIGZpcnN0IHRvIGZpbmlzaC4gQnV0IGhleSwgd2UgYWxsIHN0YXJ0IHNvbWV3aGVyZS4KCiMjIyAiSSdsbCBqdXN0IHB1dCBnbyBpbiBmcm9udCBvZiBldmVyeXRoaW5nIgoKVGhlbiB5b3UgaGVhciBhYm91dCBnb3JvdXRpbmVzLiBMaWdodHdlaWdodCB0aHJlYWRzLiBTbyB5b3UgZG8gdGhlIG9idmlvdXMgdGhpbmcuCgpgYGBnbwpmdW5jIG1haW4oKSB7CglnbyBkb1NvbWV0aGluZygpCglnbyBkb1NvbWV0aGluZ0Vsc2UoKQoJZm10LlByaW50bG4oIkknbSBkb25lIikKfQpgYGAKCmBgYAokIGdvIHJ1biBtYWluLmdvCkknbSBkb25lCmBgYAoKVGhhdCdzIGl0LiBUaGF0J3MgdGhlIHdob2xlIG91dHB1dC4gVGhlIG1haW4gZ29yb3V0aW5lIGRvZXMgbm90IGdpdmUgYSBkYW1uIGFib3V0IHlvdXIgdHdvIG5ldyBnb3JvdXRpbmVzLiBJdCBoaXRzIHRoZSBlbmQgb2YgYG1haW5gLCBzYXlzICJJJ20gZG9uZSIsIGFuZCBwZWFjZXMgb3V0IGJlZm9yZSB0aGV5IGV2ZW4gc3RhcnQgdGhlaXIgZW5naW5lcy4gV2hlbiBgbWFpbmAgcmV0dXJucywgdGhlIHByb2dyYW0gZGllcywgYW5kIGV2ZXJ5dGhpbmcgc3RpbGwgcnVubmluZyBkaWVzIHdpdGggaXQuCgpTbyBgZ29gIGlzIG5vdCB0aGUgYW5zd2VyLiBgZ29gIGlzIHRoZSBxdWVzdGlvbi4gVGhlIGFuc3dlciBpczogaG93IGRvZXMgYG1haW5gIHdhaXQ/CgojIyMgV2FpdEdyb3VwOiB0aGUgcmVzcG9uc2libGUgYWR1bHQKCmBXYWl0R3JvdXBgIGlzIGEgY291bnRlciB3aXRoIHRocmVlIGJ1dHRvbnMuCgotIGB3Zy5BZGQoMSlgIHNheXMgIkknbSBzdGFydGluZyBvbmUgbW9yZSB0YXNrIi4KLSBgd2cuRG9uZSgpYCBzYXlzICJ0aGlzIG9uZSdzIGZpbmlzaGVkIiAoY291bnRlciBkb3duIGJ5IG9uZSkuCi0gYHdnLldhaXQoKWAgYmxvY2tzIHVudGlsIHRoZSBjb3VudGVyID09IDAuCgpgYGBnbwpmdW5jIHdvcmtlcihpZCBpbnQsIHdnICpzeW5jLldhaXRHcm91cCkgewoJZGVmZXIgd2cuRG9uZSgpCglmbXQuUHJpbnRmKCJXb3JrZXIgJWQgc3RhcnRpbmdcbiIsIGlkKQoJdGltZS5TbGVlcCh0aW1lLlNlY29uZCkKCWZtdC5QcmludGYoIldvcmtlciAlZCBkb25lXG4iLCBpZCkKfQoKZnVuYyBtYWluKCkgewoJdmFyIHdnIHN5bmMuV2FpdEdyb3VwCglmb3IgaSA6PSAxOyBpIDw9IDU7IGkrKyB7CgkJd2cuQWRkKDEpCgkJZ28gd29ya2VyKGksICZ3ZykKCX0KCXdnLldhaXQoKQoJZm10LlByaW50bG4oIkFsbCB3b3JrZXJzIGRvbmUiKQp9CmBgYAoKYGRlZmVyIHdnLkRvbmUoKWAgaXMgdGhlIG1vdmUgeW91IHdhbnQgdG8gaW50ZXJuYWxpemUuIEl0IHJ1bnMgd2hlbiB0aGUgZnVuY3Rpb24gcmV0dXJucywgbm8gbWF0dGVyIGhvdyBpdCByZXR1cm5zLiBTbyBldmVuIGlmIHRoZSB3b3JrZXIgYmFpbHMgZWFybHksIHRoZSBjb3VudGVyIHN0aWxsIGRyb3BzLiBGb3JnZXQgdGhlIGBEb25lYCBhbmQgYHdnLldhaXQoKWAgYmxvY2tzIGZvcmV2ZXIsIHdoaWNoIGlzIGEgbmljZSBwcmV2aWV3IG9mIHdoZXJlIHRoaXMgYXJ0aWNsZSBpcyBoZWFkaW5nLgoKIyMjIENoYW5uZWxzOiB3aGVuIGdvcm91dGluZXMgbmVlZCB0byB0YWxrCgpXYWl0R3JvdXAgdGVsbHMgeW91ICp3aGVuKiBldmVyeW9uZSBpcyBmaW5pc2hlZC4gSXQgZG9lcyBub3QgY2FycnkgKndoYXQqIHRoZXkgcHJvZHVjZWQuIEZvciB0aGF0IHlvdSBuZWVkIGEgY2hhbm5lbC4KCmBgYGdvCmZ1bmMgd29ya2VyKGlkIGludCwgd2cgKnN5bmMuV2FpdEdyb3VwLCByZXN1bHQgY2hhbjwtIGludCkgewoJZGVmZXIgd2cuRG9uZSgpCgl0aW1lLlNsZWVwKHRpbWUuU2Vjb25kICogMikKCXJlc3VsdCA8LSBpZCAqIDIKfQoKZnVuYyBtYWluKCkgewoJdmFyIHdnIHN5bmMuV2FpdEdyb3VwCglyZXN1bHQgOj0gbWFrZShjaGFuIGludCwgMykKCglmb3IgaSA6PSAxOyBpIDw9IDM7IGkrKyB7CgkJd2cuQWRkKDEpCgkJZ28gd29ya2VyKGksICZ3ZywgcmVzdWx0KQoJfQoKCWdvIGZ1bmMoKSB7CgkJd2cuV2FpdCgpCgkJY2xvc2UocmVzdWx0KQoJfSgpCgoJZm9yIHIgOj0gcmFuZ2UgcmVzdWx0IHsKCQlmbXQuUHJpbnRmKCJSZWNlaXZlZDogJWRcbiIsIHIpCgl9CglmbXQuUHJpbnRsbigiQWxsIHdvcmtlcnMgZG9uZSIpCn0KYGBgCgpJdCB3b3Jrcy4gUmVzdWx0cyBjb21lIG91dCwgcHJvZ3JhbSBlbmRzLiBCdXQgd2hhdCdzIHRoYXQgbGl0dGxlIGBnbyBmdW5jKClgIGRvaW5nIGluIHRoZSBtaWRkbGU/IEJlZm9yZSBnZXR0aW5nIGNsZXZlciwganVzdCByZWFkIGl0cyB0d28gbGluZXMuCgpgd2cuV2FpdCgpYCB5b3Uga25vdzogYmxvY2sgaGVyZSB1bnRpbCB0aGUgY291bnRlciA9PSAwLgoKYGNsb3NlKHJlc3VsdClgIGlzIHRoZSBvbmUgcGVvcGxlIGdldCB3cm9uZy4gSXQgZG9lc24ndCBkZWxldGUgdGhlIGNoYW5uZWwgb3IgZW1wdHkgaXQuIEl0IGZsaXBzIGEgImtpdGNoZW4ncyBjbG9zZWQiIHNpZ246IG5vdGhpbmcgbmV3IGNvbWVzIHRocm91Z2gsIGJ1dCB3aGF0ZXZlcidzIGFscmVhZHkgaW5zaWRlIHN0YXlzIHJlYWRhYmxlLiBUaGUgYGZvciByYW5nZWAgbG9vcCBrZWVwcyBlYXRpbmcgbGVmdG92ZXJzLCBhbmQgc3RvcHMgdGhlIGluc3RhbnQgdGhlIGNoYW5uZWwgaXMgY2xvc2VkICphbmQqIGVtcHR5LgoKVG9nZXRoZXI6IHdhaXQgdW50aWwgdGhlIHdvcmtlcnMgYXJlIGRvbmUsIHRoZW4gdGVsbCB0aGUgcmFuZ2UgbG9vcCB0aGUga2l0Y2hlbidzIGNsb3NlZC4gUmVhc29uYWJsZSBlbm91Z2guIFNvIHRoZSByZWFsIHF1ZXN0aW9uIGlzbid0IHdoYXQgdGhlc2UgbGluZXMgZG8uIEl0J3Mgd2h5IHRoZXkncmUgd3JhcHBlZCBpbiBhIGBnbyBmdW5jKClgIGluc3RlYWQgb2Ygc2l0dGluZyBwbGFpbmx5IGluIGBtYWluYC4KClRoYXQgd3JhcHBlciBsb29rcyBvcHRpb25hbC4gSXQgaXNuJ3QuIFB1bGwgaXQgb3V0IGFuZCB5b3UgY2FuIHdlZGdlIHRoZSB3aG9sZSBwcm9ncmFtLiBMZXQncyB0YWtlIGl0IGFwYXJ0IG9uZSBjaGFuZ2UgYXQgYSB0aW1lLCBiZWNhdXNlIHRoZSByZWFzb24gaXMgc25lYWtpZXIgdGhhbiBpdCBsb29rcy4KCiMjIyBUaGUgZmlyc3QgZGVhZGxvY2sgKHRoZSBsb3VkIG9uZSkKCkhlcmUncyB3aGF0IHRoYXQgd3JhcHBlciB3YXMgaGlkaW5nLiBUd28gc2VwYXJhdGUgdGhpbmdzIHdlcmUga2VlcGluZyB0aGlzIHByb2dyYW0gYWxpdmUsIGFuZCB5b3UgaGF2ZSB0byBraWxsICpib3RoKiB0byBicmVhayBpdC4KCioqTmV0IG9uZTogdGhlIGBnbyBmdW5jKClgLioqIEl0IGxldHMgYG1haW5gIGp1bXAgc3RyYWlnaHQgaW50byB0aGUgYGZvciByYW5nZWAgYW5kIGRyYWluIHJlc3VsdHMgd2hpbGUgdGhlIHdvcmtlcnMgYXJlIHN0aWxsIHNlbmRpbmcuIFNlbmQgYW5kIGRyYWluIGhhcHBlbiBhdCB0aGUgc2FtZSB0aW1lLCBzbyB0aGUgYnVmZmVyIG5ldmVyIHN0YXlzIGZ1bGwgZm9yIGxvbmcuCgoqKk5ldCB0d286IGEgYnVmZmVyIGJpZyBlbm91Z2ggdG8gaG9sZCBldmVyeSByZXN1bHQqKiAoMyBzbG90cywgMyB3b3JrZXJzKS4gRXZlbiBpZiBub2JvZHkgZHJhaW5lZCB1bnRpbCB0aGUgdmVyeSBlbmQsIGFsbCB0aGUgc2VuZHMgc3RpbGwgZml0LCBzbyBubyB3b3JrZXIgZXZlciBibG9ja3MuCgpFaXRoZXIgbmV0IGFsb25lIGlzIGVub3VnaC4gUmVhbGx5OgoKLSBLZWVwIHRoZSB3cmFwcGVyLCBzaHJpbmsgdGhlIGJ1ZmZlciB0byAyPyBGaW5lLiBgbWFpbmAgaXMgZHJhaW5pbmcgY29uY3VycmVudGx5LCBzbyBhIDItc2xvdCBidWZmZXIgbmV2ZXIgb3ZlcmZsb3dzLgotIFJlbW92ZSB0aGUgd3JhcHBlciwga2VlcCB0aGUgYnVmZmVyIGF0IDM/IEZpbmUuIEFsbCAzIHNlbmRzIGZpdCwgbm9ib2R5IGJsb2NrcywgdGhlbiBgbWFpbmAgZHJhaW5zLgoKU28gdG8gYWN0dWFsbHkgYnJlYWsgaXQgeW91IGhhdmUgdG8gY3V0ICpib3RoKi4gVW53cmFwIHRoZSBsaW5lcyAobmV0IG9uZSBnb25lKSBhbmQgc2hyaW5rIHRoZSBidWZmZXIgKG5ldCB0d28gZ29uZSk6CgpgYGBnbwpyZXN1bHQgOj0gbWFrZShjaGFuIGludCwgMikgLy8gbmV0IHR3byBnb25lOiB0b28gc21hbGwgZm9yIDMgc2VuZGVycwovLyAuLi4Kd2cuV2FpdCgpICAgICAgICAgICAgICAgICAgICAgLy8gbmV0IG9uZSBnb25lOiBtYWluIGJsb2NrcyBoZXJlIGluc3RlYWQgb2YgZHJhaW5pbmcKY2xvc2UocmVzdWx0KQpmb3IgciA6PSByYW5nZSByZXN1bHQgeyAuLi4gfQpgYGAKCmBgYApmYXRhbCBlcnJvcjogYWxsIGdvcm91dGluZXMgYXJlIGFzbGVlcCAtIGRlYWRsb2NrIQpgYGAKCk5vdyB3YWxrIHRoZSBjaXJjbGU6CgoxLiBCdWZmZXIgaG9sZHMgMiwgdGhyZWUgd29ya2VycyB3YW50IHRvIHNlbmQuIFdvcmtlciB0aHJlZSBjYW4ndCBmaXQsIHNvIGl0IGJsb2NrcyBvbiBgcmVzdWx0IDwtIC4uLmAsIHdhaXRpbmcgZm9yIHJvb20uCjIuIEEgYmxvY2tlZCB3b3JrZXIgbmV2ZXIgcmVhY2hlcyBgZGVmZXIgd2cuRG9uZSgpYC4gVGhlIGNvdW50ZXIgbmV2ZXIgcmVhY2hlcyAwLgozLiBTbyBgd2cuV2FpdCgpYCB3YWl0cyBmb3JldmVyLCBzdGFuZGluZyBpbiBgbWFpbmAncyB3YXkuCjQuIGBtYWluYCBpcyB0aGUgb25seSBvbmUgd2hvIGRyYWlucyB0aGUgY2hhbm5lbCwgZG93biBpbiB0aGUgYGZvciByYW5nZWAuIEJ1dCBpdCBuZXZlciBnZXRzIHRoZXJlLCBzdHVjayB1cCB0b3Agb24gYHdnLldhaXQoKWAuCjUuIE5vYm9keSBkcmFpbnMsIHNvIG5vIHJvb20gZXZlciBmcmVlcyB1cCwgc28gd29ya2VyIHRocmVlIHN0YXlzIGJsb2NrZWQuIEJhY2sgdG8gc3RlcCAxLgoKRXZlcnlvbmUgaXMgd2FpdGluZyBmb3IgZXZlcnlvbmUuIFRoZSBydW50aW1lIHNlZXMgdGhlIHdob2xlIHByb2dyYW0gYXNsZWVwLCB0aHJvd3MgYGFsbCBnb3JvdXRpbmVzIGFyZSBhc2xlZXAgLSBkZWFkbG9jayFgLCBhbmQgcHVsbHMgdGhlIHBsdWcuCgpUaGUgZml4IGlzIHRvIGtlZXAgbmV0IG9uZS4gUHV0IHRoZSB0d28gbGluZXMgYmFjayBpbiB0aGVpciBnb3JvdXRpbmU6CgpgYGBnbwpnbyBmdW5jKCkgewoJd2cuV2FpdCgpCgljbG9zZShyZXN1bHQpCn0oKQpmb3IgciA6PSByYW5nZSByZXN1bHQgeyAuLi4gfQpgYGAKCk5vdyBgbWFpbmAgZHJhaW5zIHJpZ2h0IGF3YXkgd2hpbGUgdGhlIHdhaXRlciB3YWl0cyBpbiB0aGUgYmFja2dyb3VuZCwgYW5kIHRoZSBidWZmZXIgc2l6ZSBzdG9wcyBtYXR0ZXJpbmcuIFRoYXQncyB3aHkgbmV0IG9uZSBpcyB0aGUgb25lIHRvIGxlYW4gb246IHlvdSBjYW4ndCBhbHdheXMgc2l6ZSBhIGJ1ZmZlciB0byB0aGUgd29ya2xvYWQsIGJ1dCB5b3UgY2FuIGFsd2F5cyBkcmFpbiBjb25jdXJyZW50bHkuCgpOb3cgaGVyZSBpcyB0aGUgcGFydCBJIGFjdHVhbGx5IHdhbnQgeW91IHRvIHJlbWVtYmVyLiAqKlRoYXQgY3Jhc2ggd2FzIGEgZ2lmdC4qKiBUaGUgcnVudGltZSBjYXVnaHQgaXQsIG5hbWVkIGl0LCBhbmQgc3RvcHBlZCBldmVyeXRoaW5nIGJlZm9yZSBpdCBjb3VsZCBkbyBkYW1hZ2UuIFlvdSBoZWFyIGFib3V0IGl0IHRoZSBpbnN0YW50IHlvdSBoaXQgcnVuLgoKSG9sZCB0aGF0IHRob3VnaHQuIEJlY2F1c2UgaXRzIGV2aWwgdHdpbiBtYWtlcyBubyBzb3VuZCBhdCBhbGwuCgojIyBBY3QgMjogd2hlbiBjb25jdXJyZW5jeSBicmVha3MKCkdvcm91dGluZSBjb2RlIGRpZXMgdHdvIHdheXMuCgoqKlBhbmljKiogaXMgbG91ZCBhbmQgaW1tZWRpYXRlLiBPbmUgZ29yb3V0aW5lIGJsb3dzIHVwLCBwcmludHMgYSBzdGFjaywgYW5kIHVubGVzcyBpdCByZWNvdmVycyBpdHNlbGYsIHRha2VzIHRoZSB3aG9sZSBwcm9jZXNzIGRvd24gd2l0aCBpdC4KCioqRGVhZGxvY2sqKiBpcyB0aGUgb3Bwb3NpdGUuIEl0IGNhbiBiZSBxdWlldCwgaXQgY2FuIHdhaXQsIGFuZCBpdCBjYW4gdGFrZSBkb3duIHRoZSB3aG9sZSBzeXN0ZW0gd2l0aG91dCBhIHNpbmdsZSBsaW5lIG9mIG91dHB1dC4KCiMjIyBQYW5pYywgdGhlIGxvdWQgb25lCgpQYW5pYyB0ZWxscyB5b3UgZXZlcnl0aGluZzogdGhlIGVycm9yLCB0aGUgdHlwZSwgdGhlIGV4YWN0IGxpbmUuIFRoYXQgZG9lc24ndCBtYWtlIGl0IGhhcm1sZXNzLiBJdCBtYWtlcyBpdCAqZmluZGFibGUqLgoKYGBgZ28KY2ggOj0gbWFrZShjaGFuIGludCkKY2xvc2UoY2gpCmNoIDwtIDEgLy8gcGFuaWM6IHNlbmQgb24gY2xvc2VkIGNoYW5uZWwKCnZhciBwICpQZXJzb24KZm10LlByaW50bG4ocC5OYW1lKSAvLyBwYW5pYzogbmlsIHBvaW50ZXIgZGVyZWZlcmVuY2UKCmEgOj0gW11pbnR7MSwgMiwgM30KXyA9IGFbNV0gLy8gcGFuaWM6IGluZGV4IG91dCBvZiByYW5nZSBbNV0gd2l0aCBsZW5ndGggMwoKdmFyIGkgaW50ZXJmYWNle30gPSAiaGVsbG8iCl8gPSBpLihpbnQpIC8vIHBhbmljOiBpbnRlcmZhY2UgY29udmVyc2lvbjogc3RyaW5nLCBub3QgaW50CmBgYAoKSXQgc3RvcHMgdGhlIGdvcm91dGluZSwgcnVucyB0aGF0IGdvcm91dGluZSdzIGBkZWZlcmBzIG9uIHRoZSB3YXkgdXAsIGFuZCBidWJibGVzLiBBIGBkZWZlcmAgd2l0aCBgcmVjb3ZlcigpYCBjYXRjaGVzIGl0OyBvdGhlcndpc2UgeW91IGdldCBhIHN0YWNrIHRyYWNlIHBvaW50aW5nIGF0IHRoZSBjcmltZSBzY2VuZS4KClRoZSBwYXJ0IHRoYXQgYml0ZXMgaW4gcHJvZHVjdGlvbjogYW4gdW5yZWNvdmVyZWQgcGFuaWMgdGFrZXMgZG93biB0aGUgKip3aG9sZSBwcm9jZXNzKiosIG5vdCBqdXN0IHRoZSBvbmUgZ29yb3V0aW5lLiBBbmQgYHJlY292ZXIoKWAgb25seSB3b3JrcyBpbnNpZGUgdGhlICpzYW1lKiBnb3JvdXRpbmUgdGhhdCBwYW5pY2tlZCwgc28gYG1haW5gIGNhbid0IGNhdGNoIGEgd29ya2VyJ3MgcGFuaWMuIGBuZXQvaHR0cGAgYWxyZWFkeSB3cmFwcyBlYWNoIHJlcXVlc3QgaGFuZGxlciwgYnV0IGEgZ29yb3V0aW5lICp5b3UqIHNwYXduIGlzIGJhcmUsIGFuZCBvbmUgc3RyYXkgcGFuaWMgaW4gaXQgc2lua3MgdGhlIHdob2xlIHNlcnZpY2UuIFNvIHdyYXAgdGhlIG9uZXMgeW91IHN0YXJ0OgoKYGBgZ28KZnVuYyBnb1NhZmUoZm4gZnVuYygpKSB7CglnbyBmdW5jKCkgewoJCWRlZmVyIGZ1bmMoKSB7CgkJCWlmIHIgOj0gcmVjb3ZlcigpOyByICE9IG5pbCB7CgkJCQlsb2cuUHJpbnRmKCJnb3JvdXRpbmUgcGFuaWM6ICV2XG4lcyIsIHIsIGRlYnVnLlN0YWNrKCkpCgkJCX0KCQl9KCkKCQlmbigpCgl9KCkKfQpgYGAKClN0aWxsLCBwYW5pYyBpcyB0aGUgZ2VudGxlciBwcm9ibGVtOiB3aGVuIGl0IGJsb3dzIGl0IGxlYXZlcyBhIGJvZHkgYW5kIGEgbm90ZSwgYSBzdGFjayB0cmFjZSB0aGF0IHNheXMgd2hhdCBhbmQgd2hlcmUuIFRoZSBkZWFkbG9jayB3ZSdyZSBhYm91dCB0byBtZWV0IGtlZXBzIHRoZSBsaWdodHMgb24gYW5kIHNheXMgbm90aGluZy4KCiMjIyBEZWFkbG9jaywgdGhlIGJvc3MgZmlnaHQKCkRlYWRsb2NrIGNvbWVzIGluIHR3byBmbGF2b3JzLCBhbmQgdGhlIGRpZmZlcmVuY2UgYmV0d2VlbiB0aGVtIGlzIHRoZSB3aG9sZSBwb2ludCBvZiB0aGlzIGFydGljbGUuCgoqKkNoYW5uZWwgZGVhZGxvY2suKiogWW91IGFscmVhZHkgbWV0IGl0IGluIEFjdCAxLiBUaGUgbWluaW1hbCB2ZXJzaW9uOgoKYGBgZ28KY2ggOj0gbWFrZShjaGFuIGludCkgLy8gb3BlbiwgdW5idWZmZXJlZApjaCA8LSAxICAgICAgICAgICAgICAvLyBub2JvZHkgaXMgcmVjZWl2aW5nLCBzbyB0aGlzIGJsb2NrcyBmb3JldmVyCi8vIGZhdGFsIGVycm9yOiBhbGwgZ29yb3V0aW5lcyBhcmUgYXNsZWVwIC0gZGVhZGxvY2shCmBgYAoKVGhlIHJ1bnRpbWUgY2F0Y2hlcyB0aGlzLiBMb3VkLCBpbnN0YW50LCBmYXRhbC4KCldvcnRoIHBhdXNpbmcgb24sIGJlY2F1c2UgdGhlIGNoYW5uZWwncyAqc3RhdGUqIGRlY2lkZXMgeW91ciBmYXRlIGhlcmUuIFNlbmQgdG8gYSAqKmNsb3NlZCoqIGNoYW5uZWwgYW5kIHlvdSBnZXQgYSBwYW5pYyAoYHNlbmQgb24gY2xvc2VkIGNoYW5uZWxgKS4gU2VuZCB0byBhbiAqKm9wZW4qKiBvbmUgd2l0aCBubyByZWNlaXZlciwgbGlrZSBhYm92ZSwgYW5kIHlvdSBkZWFkbG9jay4gU2FtZSBgY2ggPC0gMWAsIHR3byBjb21wbGV0ZWx5IGRpZmZlcmVudCBkZWF0aHMuCgoqKk11dGV4IGRlYWRsb2NrLioqIFR3byBnb3JvdXRpbmVzLCB0d28gbG9ja3MsIGdyYWJiZWQgaW4gb3Bwb3NpdGUgb3JkZXI6CgpgYGBnbwpmdW5jIG11dGV4RGVhZGxvY2soKSB7Cgl2YXIgbTEsIG0yIHN5bmMuTXV0ZXgKCglnbyBmdW5jKCkgewoJCW0xLkxvY2soKQoJCXRpbWUuU2xlZXAoMTAwICogdGltZS5NaWxsaXNlY29uZCkKCQltMi5Mb2NrKCkgLy8gd2FpdGluZyBmb3IgdGhlIG90aGVyIG9uZSB0byBsZXQgZ28gb2YgbTIKCQltMi5VbmxvY2soKQoJCW0xLlVubG9jaygpCgl9KCkKCglnbyBmdW5jKCkgewoJCW0yLkxvY2soKQoJCXRpbWUuU2xlZXAoMTAwICogdGltZS5NaWxsaXNlY29uZCkKCQltMS5Mb2NrKCkgLy8gd2FpdGluZyBmb3IgdGhlIG90aGVyIG9uZSB0byBsZXQgZ28gb2YgbTEKCQltMS5VbmxvY2soKQoJCW0yLlVubG9jaygpCgl9KCkKCgl0aW1lLlNsZWVwKHRpbWUuU2Vjb25kKQp9CmBgYAoKR29yb3V0aW5lIDEgaG9sZHMgYG0xYCwgd2FudHMgYG0yYC4gR29yb3V0aW5lIDIgaG9sZHMgYG0yYCwgd2FudHMgYG0xYC4gTmVpdGhlciB3aWxsIGV2ZXIgbGV0IGdvLiBUaGV5IGFyZSBzdHVjayB1bnRpbCB0aGUgaGVhdCBkZWF0aCBvZiB0aGUgdW5pdmVyc2UuCgpBbmQgdGhlIHJ1bnRpbWUgc2F5cy4uLiBub3RoaW5nLgoKIyMjIFdoeSBvbmUgc2NyZWFtcyBhbmQgdGhlIG90aGVyIHN0YXlzIHF1aWV0CgpHbyBkb2VzIGhhdmUgYSBidWlsdC1pbiBkZWFkbG9jayBhbGFybS4gQnV0IGl0IGZpcmVzIHVuZGVyIGV4YWN0bHkgb25lIGNvbmRpdGlvbjogKipldmVyeSBnb3JvdXRpbmUgaXMgYmxvY2tlZCBhdCB0aGUgc2FtZSB0aW1lLioqIE5vIGdvcm91dGluZSBsZWZ0IHRoYXQgY291bGQgcG9zc2libHkgcnVuLCBzbyB0aGUgcnVudGltZSBnaXZlcyB1cCBhbmQgc2hvdXRzIGBhbGwgZ29yb3V0aW5lcyBhcmUgYXNsZWVwYC4KCkEgdG95IGNoYW5uZWwgZGVhZGxvY2sgdHJpcHMgaXQgaW5zdGFudGx5LiBUaGVyZSdzIG9ubHkgYG1haW5gLCBgbWFpbmAgaXMgc3R1Y2ssIHNvICpldmVyeW9uZSogaXMgc3R1Y2suIEFsYXJtLgoKQSBtdXRleCBkZWFkbG9jayBpbiBhIHJlYWwgc2VydmVyIG5ldmVyIHRyaXBzIGl0LiBUaGUgc2VydmVyIHN0aWxsIGhhcyBnb3JvdXRpbmVzIGFjY2VwdGluZyByZXF1ZXN0cywgdGltZXJzIGZpcmluZywgdGhlIEdDIHJ1bm5pbmcuIFNvIGV2ZW4gd2l0aCB0d28gZ29yb3V0aW5lcyBsb2NrZWQgYWdhaW5zdCBlYWNoIG90aGVyLCB0aGUgcnVudGltZSBsb29rcyBhcm91bmQsIHNlZXMgcGxlbnR5IHN0aWxsIGF3YWtlLCBhbmQgc3RheXMgcXVpZXQuIFRoZSBhbGFybSBvbmx5IGtub3dzIGhvdyB0byBzcG90ICp0b3RhbCogZ3JpZGxvY2ssIG5vdCB0d28gc3R1Y2sgZ29yb3V0aW5lcyBpbiBhbiBvdGhlcndpc2UgYnVzeSBwcm9ncmFtLgoKVGhhdCdzIHRoZSB3aG9sZSBhc3ltbWV0cnk6IHRoZSBsb3VkIGZhaWx1cmUgdHJpcHMgdGhlIGFsYXJtLCB0aGUgcXVpZXQgb25lIHdhbGtzIHJpZ2h0IHVuZGVyIGl0LiBTbyBmb3IgdGhlIHF1aWV0IG9uZSB5b3UncmUgb24geW91ciBvd24uIFlvdSBuZWVkIGhhYml0cyB0byBrZWVwIGl0IGZyb20gZm9ybWluZywgYW5kIHRvb2xzIHRvIGZpbmQgaXQgd2hlbiBpdCBkb2VzLiBCb3RoIGFyZSBjb21pbmcgdXAuCgojIyMgVGhlIGZpeCBsYWRkZXIKClRoZXJlIGFyZSBmb3VyIHdheXMgb3V0LCBhbmQgdGhleSBjbGltYiBmcm9tICJzaW1wbGUgYnV0IGZyYWdpbGUiIHRvICJHbyBpZGlvbWF0aWMiLiBQaWNrIHRoZSBsb3dlc3QgcnVuZyB0aGF0IGhvbGRzIHlvdXIgd2VpZ2h0LgoKKipSdW5nIDE6IGxvY2sgaW4gdGhlIHNhbWUgb3JkZXIsIGFsd2F5cy4qKiBUaGUgZGVhZGxvY2sgb25seSBoYXBwZW5zIGJlY2F1c2Ugb25lIGdvcm91dGluZSBncmFicyBgbTFgIHRoZW4gYG0yYCBhbmQgdGhlIG90aGVyIGdyYWJzIGBtMmAgdGhlbiBgbTFgLiBGb3JjZSBldmVyeW9uZSB0byBncmFiIHRoZW0gaW4gdGhlIHNhbWUgb3JkZXIgYW5kIHRoZSBjeWNsZSBjYW4ndCBmb3JtLgoKYGBgZ28KLy8gdGhlIHJ1bGUgaXMgdGhlIExPQ0sgb3JkZXI6IGV2ZXJ5b25lIHRha2VzIG0xLCB0aGVuIG0yCm0xLkxvY2soKQptMi5Mb2NrKCkKLy8gd29yawptMi5VbmxvY2soKSAvLyB1bmxvY2sgb3JkZXIgaXMgZnJlZSwgcmV2ZXJzZSBpcyBqdXN0IGhhYml0Cm0xLlVubG9jaygpCmBgYAoKT25seSB0aGUgbG9jayBvcmRlciBtYXR0ZXJzLiBVbmxvY2tpbmcgbmV2ZXIgYmxvY2tzLCBzbyB5b3UgY2FuIHJlbGVhc2UgaW4gYW55IG9yZGVyIHlvdSBsaWtlLiBUaGUgcmV2ZXJzZS1vcmRlciB1bmxvY2sgYWJvdmUgaXMganVzdCB0aGUgdGlkeSBjb252ZW50aW9uLCBhbmQgaXQncyBleGFjdGx5IHdoYXQgeW91IGdldCBmb3IgZnJlZSBpZiB5b3UgdXNlIGBkZWZlciBtMS5VbmxvY2soKWAgcmlnaHQgYWZ0ZXIgZWFjaCBgTG9jaygpYCwgc2luY2UgZGVmZXJzIHJ1biBsYXN0LWluLWZpcnN0LW91dC4gRG9uJ3QgbWlzdGFrZSB0aGF0IGhhYml0IGZvciBhIHJ1bGUuCgpTaW1wbGUsIGNvcnJlY3QuIEZhbGxzIGFwYXJ0IHRoZSBtb21lbnQgeW91IGhhdmUgYSBkb3plbiBsb2NrcyBhbmQgY2FuJ3Qga2VlcCB0aGUgZ2xvYmFsIG9yZGVyIHN0cmFpZ2h0IGluIHlvdXIgaGVhZC4KCioqUnVuZyAyOiBvbmUgbG9jayB0byBydWxlIHRoZW0gYWxsLioqIFdyYXAgdGhlIHdob2xlIHNldCBiZWhpbmQgYSBzaW5nbGUgbG9jay1ldmVyeXRoaW5nIC8gdW5sb2NrLWV2ZXJ5dGhpbmcgcGFpci4KCmBgYGdvCnR5cGUgT3JkZXJlZExvY2tzIHN0cnVjdHsgbTEsIG0yIHN5bmMuTXV0ZXggfQoKZnVuYyAobCAqT3JkZXJlZExvY2tzKSBMb2NrQm90aCgpICAgeyBsLm0xLkxvY2soKTsgbC5tMi5Mb2NrKCkgfQpmdW5jIChsICpPcmRlcmVkTG9ja3MpIFVubG9ja0JvdGgoKSB7IGwubTIuVW5sb2NrKCk7IGwubTEuVW5sb2NrKCkgfQpgYGAKCkJhcmJhcmljLCBidXQgaXQgd29ya3MuIFlvdSBhbHNvIGp1c3QgdGhyZXcgYXdheSBtb3N0IG9mIHlvdXIgY29uY3VycmVuY3ksIGJlY2F1c2Ugbm9ib2R5IGNhbiBob2xkIG9uZSBsb2NrIHdoaWxlIGFub3RoZXIgaG9sZHMgdGhlIG90aGVyLiBTb21ldGltZXMgdGhhdCdzIHRoZSByaWdodCBjYWxsLiBVc3VhbGx5IGl0J3MgYSBzaWduIHlvdSBuZWVkIHJ1bmcgMy4KCioqUnVuZyAzOiBUcnlMb2NrIHdpdGggYSB0aW1lb3V0LioqIEluc3RlYWQgb2YgYmxvY2tpbmcgZm9yZXZlciB3YWl0aW5nIGZvciBhIGxvY2ssIHRyeSwgYW5kIGdpdmUgdXAgaWYgaXQgZG9lc24ndCBjb21lLgoKYGBgZ28KZnVuYyB0cnlMb2NrKG0gKnN5bmMuTXV0ZXgsIHRpbWVvdXQgdGltZS5EdXJhdGlvbikgYm9vbCB7CgljdHgsIGNhbmNlbCA6PSBjb250ZXh0LldpdGhUaW1lb3V0KGNvbnRleHQuQmFja2dyb3VuZCgpLCB0aW1lb3V0KQoJZGVmZXIgY2FuY2VsKCkKCWZvciB7CgkJc2VsZWN0IHsKCQljYXNlIDwtY3R4LkRvbmUoKToKCQkJcmV0dXJuIGZhbHNlIC8vIGdhdmUgdXAsIG5vIGRlYWRsb2NrCgkJZGVmYXVsdDoKCQkJaWYgbS5UcnlMb2NrKCkgewoJCQkJcmV0dXJuIHRydWUKCQkJfQoJCQl0aW1lLlNsZWVwKHRpbWUuTWlsbGlzZWNvbmQpCgkJfQoJfQp9CmBgYAoKYFRyeUxvY2tgIGxhbmRlZCBpbiBHbyAxLjE4LiBUaGUgYGNvbnRleHRgIGhlcmUgaXMganVzdCBhIHN0b3B3YXRjaCwgZG9uJ3Qgb3ZlcnRoaW5rIGl0LiBUaGUgcG9pbnQgaXMgYSBnb3JvdXRpbmUgdGhhdCBjYW4ndCBnZXQgaXRzIHNlY29uZCBsb2NrIGJhY2tzIG9mZiBpbnN0ZWFkIG9mIGhhbmdpbmcuIE5vIHBlcm1hbmVudCB3YWl0IG1lYW5zIG5vIGRlYWRsb2NrLiBUaGlzIGlzIHRoZSBydW5nIG1vc3QgcmVhbCBzZXJ2aWNlcyBsaXZlIG9uLgoKKipSdW5nIDQ6IGRvbid0IHNoYXJlIG1lbW9yeSwgcGFzcyBtZXNzYWdlcy4qKiBUaGlzIG9uZSBpcyBhIEdvIHByb3ZlcmIsIGFsbW9zdCB3b3JkIGZvciB3b3JkIGZyb20gW0VmZmVjdGl2ZSBHb10oaHR0cHM6Ly9nby5kZXYvZG9jL2VmZmVjdGl2ZV9nbyNTaGFyZV9ieV9jb21tdW5pY2F0aW5nKTogKiJEbyBub3QgY29tbXVuaWNhdGUgYnkgc2hhcmluZyBtZW1vcnk7IGluc3RlYWQsIHNoYXJlIG1lbW9yeSBieSBjb21tdW5pY2F0aW5nLiIqIE1vZGVsIGVhY2ggcmVzb3VyY2UgYXMgYSBidWZmZXJlZCBjaGFubmVsIGhvbGRpbmcgb25lIHRva2VuLiBIb2xkaW5nIHRoZSByZXNvdXJjZSBtZWFucyBob2xkaW5nIHRoZSB0b2tlbi4gYHNlbGVjdGAgd2l0aCBhIGBkZWZhdWx0YCBtZWFucyAiZ3JhYiBpdCBpZiB5b3UgY2FuLCBvdGhlcndpc2UgbW92ZSBvbiIuCgpgYGBnbwpyZXNvdXJjZTEgOj0gbWFrZShjaGFuIHN0cnVjdHt9LCAxKQpyZXNvdXJjZTEgPC0gc3RydWN0e317fSAvLyB0aGUgdG9rZW4KCnNlbGVjdCB7CmNhc2UgPC1yZXNvdXJjZTE6CgkvLyBnb3QgaXQsIGRvIHdvcmssIHRoZW4gcHV0IGl0IGJhY2sKCXJlc291cmNlMSA8LSBzdHJ1Y3R7fXt9CmRlZmF1bHQ6CgkvLyBzb21lb25lIGVsc2UgaGFzIGl0LCBkb24ndCBibG9jawp9CmBgYAoKTm8gbXV0ZXhlcywgbm8gbG9jayBvcmRlcmluZyB0byBiYWJ5c2l0LiBZb3UndmUgdHVybmVkICJ3YWl0IG9uIGEgbG9jayIgaW50byAiYXNrIGEgY2hhbm5lbCwgdGFrZSBubyBmb3IgYW4gYW5zd2VyIi4gV2hldGhlciB0aGlzIGlzIGNsZWFuZXIgdGhhbiBydW5nIDMgZGVwZW5kcyBvbiB0aGUgcHJvYmxlbSwgYnV0IGl0J3MgdGhlIG9uZSB0aGF0IGZlZWxzIG1vc3QgbGlrZSBHby4KCiMjIERlYnVnZ2luZyBjaGVhdCBzaGVldAoKVGhlIHN0aWNreSBsaXR0bGUgZmFjdHMsIGluIG9uZSBwbGFjZS4KClJlYWQgdGhlIHN5bXB0b20gZmlyc3Q6Cgp8IFdoYXQgeW91IHNlZSB8IFdoYXQgaXQgdXN1YWxseSBpcyB8IEZpcnN0IG1vdmUgfAp8LS0tfC0tLXwtLS18Cnwgc3RhY2sgdHJhY2UsIHByb2Nlc3MgZXhpdHMgfCB1bnJlY292ZXJlZCBwYW5pYyB8IHJlYWQgdGhlIHRyYWNlLCBpdCBuYW1lcyB0aGUgbGluZSB8CnwgcHJvY2VzcyBkaWVzLCB0cmFjZSBwb2ludHMgaW50byBhIGdvcm91dGluZSB5b3Ugc3Bhd25lZCB8IHBhbmljIHdpdGggbm8gYHJlY292ZXIoKWAgaW4gdGhhdCBnb3JvdXRpbmUgfCB3cmFwIHRoZSBnb3JvdXRpbmUgKGJlbG93KSB8CnwgYGZhdGFsIGVycm9yOiBhbGwgZ29yb3V0aW5lcyBhcmUgYXNsZWVwYCB8IHRvdGFsIGRlYWRsb2NrIHwgdGhlIHRyYWNlIHNob3dzIHdoZXJlIGV2ZXJ5b25lIGlzIHBhcmtlZCB8Cnwgc2VydmljZSBoYW5ncywgbm8gZXJyb3IsIGdvcm91dGluZSBjb3VudCBjbGltYnMgfCBwYXJ0aWFsIC8gbXV0ZXggZGVhZGxvY2sgfCBgcnVudGltZS5OdW1Hb3JvdXRpbmUoKWAgdHJlbmQsIHRoZW4gcHByb2YgfAp8IGZsYWt5LCBvY2Nhc2lvbmFsIGdhcmJhZ2UgZGF0YSB8IGRhdGEgcmFjZSB8IGBnbyB0ZXN0IC1yYWNlYCB8CgpUaGVuIHRoZSBmYWN0cyB0aGF0IGJpdGU6CgotICoqVGhlcmUgaXMgbm8gYHdnLkNvdW50KClgLioqIFRvIHdhdGNoIG91dHN0YW5kaW5nIHdvcmssIGtlZXAgeW91ciBvd24gYGF0b21pYy5JbnQ2NGAgbmV4dCB0byB0aGUgYFdhaXRHcm91cGAsIG9yIHdhdGNoIGBydW50aW1lLk51bUdvcm91dGluZSgpYCBmb3IgdGhlIHRyZW5kIChpdCBjb3VudHMgZXZlcnkgZ29yb3V0aW5lLCBzbyByZWFkIHRoZSBkaXJlY3Rpb24sIG5vdCB0aGUgYWJzb2x1dGUgbnVtYmVyKS4KLSAqKmByZWNvdmVyKClgIG9ubHkgc2F2ZXMgaXRzIG93biBnb3JvdXRpbmUsIGFuZCBvbmx5IGluc2lkZSBhIGBkZWZlcmAuKiogRXZlcnkgZ29yb3V0aW5lIHlvdSBzcGF3biBuZWVkcyBpdHMgb3duLiBgbmV0L2h0dHBgIGFscmVhZHkgd3JhcHMgZWFjaCByZXF1ZXN0IGhhbmRsZXIgZm9yIHlvdTsgeW91ciBiYXJlIGBnb2Agc3RhdGVtZW50cyBnZXQgbm90aGluZy4KLSAqKnBwcm9mIGZvciBzdHVjayBsb2NrczoqKiBgaW1wb3J0IF8gIm5ldC9odHRwL3Bwcm9mImAsIHJ1biBhIHNlcnZlciAoYGdvIGh0dHAuTGlzdGVuQW5kU2VydmUoImxvY2FsaG9zdDo2MDYwIiwgbmlsKWApLCB0aGVuIG9wZW4gYC9kZWJ1Zy9wcHJvZi9nb3JvdXRpbmU/ZGVidWc9MWAuIEEgcGlsZSBvZiBnb3JvdXRpbmVzIHBhcmtlZCBsaWtlIHRoaXMgaXMgeW91ciBkZWFkbG9jazoKCiAgYGBgCiAgc3luYy5ydW50aW1lX1NlbWFjcXVpcmVNdXRleCsweDI3ICBydW50aW1lL3NlbWEuZ286NzcKICBzeW5jLigqTXV0ZXgpLkxvY2srMHgxNmYgICAgICAgICAgIHN5bmMvbXV0ZXguZ286OTAKICBtYWluLm11dGV4RGVhZGxvY2suZnVuYzErMHgxMWMgICAgIG1haW4uZ286MzUKICBgYGAKCiAgYHN5bmMucnVudGltZV9TZW1hY3F1aXJlTXV0ZXhgIGlzIHRoZSBpbnRlcm5hbCBuYW1lIGZvciAic3R1Y2sgaW4gYE11dGV4LkxvY2tgIjsgdGhlIGxpbmUgbnVtYmVycyB0ZWxsIHlvdSB3aGljaCBsb2Nrcy4KLSAqKlN0YXRpYyB0b29scyBhcmUgdGhpbi4qKiBgZ28gdmV0YCBjYXRjaGVzIGEgY29waWVkIGBNdXRleGAgLyBgV2FpdEdyb3VwYC4gYHN0YXRpY2NoZWNrYCBjYXRjaGVzIHNvbWUgcHJvdmFibGUgbmlsIGRlcmVmcyBhbmQgaW1wb3NzaWJsZSB0eXBlIGFzc2VydGlvbnMuIE5laXRoZXIgY2F0Y2hlcyBhIGRlYWRsb2NrLiBUaGUgY29tcGlsZXIgb25seSBmbGFncyBhIGNvbnN0YW50IGluZGV4IG91dCBvZiByYW5nZSBvbiBhbiAqKmFycmF5KiosIG5ldmVyIGEgc2xpY2UuCi0gKipMb2NrLW9yZGVyIGRlYWRsb2NrIGluIGRldjoqKiBzd2FwIGBzeW5jLk11dGV4YCBmb3IgYHNhc2hhLXMvZ28tZGVhZGxvY2tgLCBhIGRyb3AtaW4gdGhhdCBwcmludHMgYSByZXBvcnQgYXQgcnVudGltZSB3aGVuIHRoZSBsb2NrIG9yZGVyIGludmVydHMuIFRha2UgaXQgYmFjayBvdXQgZm9yIHByb2QuCgojIyBUaGUgb25lIHRhYmxlIHRvIHJlbWVtYmVyCgp8IHwgUGFuaWMgfCBEZWFkbG9jayB8CnwtLS18LS0tfC0tLXwKfCBXaGVuIHwgaW1tZWRpYXRlbHkgfCBtYXliZSBuZXZlciwgbWF5YmUgd2hlbmV2ZXIgfAp8IE91dHB1dCB8IHN0YWNrIHRyYWNlLCBlcnJvciBtZXNzYWdlIHwgb2Z0ZW4gbm90aGluZyB8CnwgUmVjb3ZlciB8IHllcywgYHJlY292ZXIoKWAsIHNhbWUgZ29yb3V0aW5lIG9ubHkgfCBubywgeW91IHJlc3RhcnQgfAp8IEJsYXN0IHJhZGl1cyB8IHdob2xlIHByb2Nlc3MsIHVubGVzcyB0aGF0IGdvcm91dGluZSByZWNvdmVycyBpdHNlbGYgfCBwb3RlbnRpYWxseSB0aGUgd2hvbGUgc3lzdGVtIHwKfCBGaW5kaW5nIGl0IHwgcmVhZCB0aGUgZXJyb3IgfCBgTnVtR29yb3V0aW5lYCwgcHByb2YsIHN1c3BpY2lvbiB8CgpQYW5pYyBpcyB0aGUgY293b3JrZXIgd2hvIHRlbGxzIHlvdSB0byB5b3VyIGZhY2UuIERlYWRsb2NrIGlzIHRoZSBvbmUgd2hvIHF1aWV0bHkgc3RvcHMgZG9pbmcgdGhlaXIgam9iIGFuZCBsZXRzIHlvdSBmaW5kIG91dCBpbiB0aGUgc3RhbmR1cCB0aHJlZSBkYXlzIGxhdGVyLgoKVGhlIGxlc3NvbiBmcm9tIHRoZSB3aG9sZSBhcmM6IHRoZSBmYWlsdXJlcyB0aGF0IGNyYXNoIGFyZSBkb2luZyB5b3UgYSBmYXZvci4gVGhlIG9uZSB0aGF0IHdvcnJpZXMgbWUsIHRoZSBvbmUgd29ydGggYnVpbGRpbmcgaGFiaXRzIGFyb3VuZCwgaXMgdGhlIG11dGV4IGRlYWRsb2NrIHRoYXQga2VlcHMgdGhlIGxpZ2h0cyBvbiB3aGlsZSBoYWxmIHlvdXIgcmVxdWVzdHMgcXVpZXRseSBkaWUgaW4gdGhlIGRhcmsuIExvY2sgaW4gb25lIG9yZGVyLCBvciBzdG9wIHNoYXJpbmcgbWVtb3J5IGFuZCBwYXNzIGEgbWVzc2FnZSBpbnN0ZWFkLgoKIyMgUmVmZXJlbmNlcwoKLSBFZmZlY3RpdmUgR28sICJTaGFyZSBieSBjb21tdW5pY2F0aW5nIiDigJQgW2dvLmRldi9kb2MvZWZmZWN0aXZlX2dvI1NoYXJlX2J5X2NvbW11bmljYXRpbmddKGh0dHBzOi8vZ28uZGV2L2RvYy9lZmZlY3RpdmVfZ28jU2hhcmVfYnlfY29tbXVuaWNhdGluZykKLSBSb2IgUGlrZSwgIkdvIFByb3ZlcmJzIiDigJQgW2dvLXByb3ZlcmJzLmdpdGh1Yi5pb10oaHR0cHM6Ly9nby1wcm92ZXJicy5naXRodWIuaW8vKQo=9:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L14",null,{"htmlContent":"$15","rawContent":"$16","base64Content":"$17","title":"Goroutines: from \"it works\" to \"why is prod silently hanging\"","createdAt":"2024-10-06T23:57:00.000Z","updatedAt":"$undefined","tags":["golang","concurrency","goroutines","deadlock","mutex"],"altHtmlContent":"$undefined","currentLang":"$undefined","altLang":"$undefined"}]}]}]
+d:{"metadata":[["$","title","0",{"children":"Goroutines: from \"it works\" to \"why is prod silently hanging\"  | jialinhuang"}],["$","meta","1",{"name":"description","content":"A walk from naive goroutines up to the deadlock that does not crash. The loud failures are easy. The quiet one is the boss fight."}]],"error":null,"digest":"$undefined"}
+12:"$d:metadata"

