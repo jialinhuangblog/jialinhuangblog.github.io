@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <style>
+        .logo { font: bold 49px 'Arial'; letter-spacing: -2px; fill:#FF1493}
+        @media (prefers-color-scheme: dark) {
+        .logo { fill:#e0ef03}
+        }
+
+    </style>
+    <text x="-2" y="60" class="logo">0://</text>
+</svg>

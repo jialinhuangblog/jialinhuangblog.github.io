@@ -1,0 +1,833 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-d71161f4b52714e4.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-d71161f4b52714e4.js"],"default"]
+4:I[47843,["7177","static/chunks/app/layout-d71161f4b52714e4.js"],"default"]
+5:I[48350,[],""]
+6:I[11412,[],""]
+7:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+8:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-6e2326ce7d294bfd.js"],"default"]
+a:I[96727,[],"OutletBoundary"]
+c:I[14038,[],"AsyncMetadataOutlet"]
+e:I[96727,[],"ViewportBoundary"]
+10:I[96727,[],"MetadataBoundary"]
+11:"$Sreact.suspense"
+13:I[92950,[],""]
+:HL["/_next/static/media/4c9affa5bc8f420e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/8feafdfc51f7196d.css","style"]
+:HL["/_next/static/css/27451c99e2657f58.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/0dff27001301522e.css","style"]
+0:{"P":null,"b":"GufBoBqfyMhQxSI4RHjKk","p":"","c":["","v2","translators-lite.zh"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","translators-lite.zh","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8feafdfc51f7196d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/27451c99e2657f58.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href=\"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap\";document.head.appendChild(l)})()"}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L8",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","translators-lite.zh","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/0dff27001301522e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$La",null,{"children":["$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L10",null,{"children":["$","div",null,{"hidden":true,"children":["$","$11",null,{"fallback":null,"children":"$L12"}]}]}]]}],false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+b:null
+d:{"metadata":[["$","title","0",{"children":"Translators Everywhere All at Once  | jialinhuang"}],["$","meta","1",{"name":"description","content":"compiler、assembler、interpreter 各做哪一段，bytecode 跟 assembly 差在誰讀，JIT 跟 AOT 差在什麼時候編譯，managed、AOT/JIT、有沒有 VM 是三件獨立的事。"}],["$","link","2",{"rel":"canonical","href":"/v2/translators-lite"}]],"error":null,"digest":"$undefined"}
+12:"$d:metadata"
+14:I[25885,["7654","static/chunks/7654-83ccbd1e1704d338.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+15:T4ae9,<p>CIL 算不算 assembly？.NET 用 AOT 編譯之後還算 managed 嗎？translator、compiler、interpreter、assembler、transpiler、JIT、AOT、managed 這幾個詞常被混在一起用，各自指的是什麼？</p>
+<h2>從 source code 到 machine code，中間有哪些形式</h2>
+<p>high-level language、assembly language、machine language 之間，還有幾種形式。拿 <code>x = a + b</code> 一路往下走：</p>
+<iframe src="/embeds/translators-spectrum" width="100%" height="520" loading="lazy" style="border:0;overflow:hidden;max-width:700px;display:block;margin:1.5rem auto" title="Every form from source code to machine code"></iframe>
+<ul>
+<li>source code，也叫 high-level code、原始碼：人寫的文字，<code>x = a + b</code></li>
+<li>compiler IR，LLVM IR、rustc 的 MIR、GCC 的 GIMPLE 都是：編譯器自己用的中間形式，<code>%x = add nsw i32 %a, %b</code>，優化在這一層做</li>
+<li>assembly，也叫 asm、組合語言，副檔名 .s：一行一條 CPU 指令，<code>add eax, ebx</code>，只對一種 CPU 家族有效</li>
+<li>object code，副檔名 .o 或 .obj：assembler 的產出，已經是 machine code，但外部符號的位址還是佔位符</li>
+<li>machine code，也叫 native code：linker 填好位址的 bytes，<code>01 d8</code>，CPU 直接跑</li>
+</ul>
+<p>bytecode 不在上面那排。source 編譯成 bytecode 之後就交給 VM，不會經過 assembly、object code。存成 .pyc、.class、.dll；.NET 的 bytecode 叫 CIL，也叫 IL、MSIL。CPython 的 <code>BINARY_OP +</code>、JVM 的 <code>iadd</code>、CIL 的 <code>add</code>，都是給 VM 讀的，不針對任何一種 CPU。直譯器一條一條執行它，JIT 把跑最多次的那幾段編譯成 machine code，這時候才回到上面那排的最後一種形式。</p>
+<p>有 linker 這一步的工具鏈才有 object code。C、C++、Rust、Go 都是每個檔案或 package 先產一個 .o，再交給 linker。Java 的 .class、C# 的 .dll 是 bytecode，沒有 linker，符號在 class loader 或 CLR 載入時才解析；Python、JavaScript 沒有這一層；JIT 產出的 machine code 直接放記憶體，不存成 .o。</p>
+<h3>哪些東西算 IR</h3>
+<p>翻譯到一半停下來的形式都叫 IR（intermediate representation，中間表示）：</p>
+<pre><code>IR（類別）
+├─ MIR            rustc 自己的一層，在 LLVM IR 之前，borrow checker 在這裡跑
+├─ LLVM IR        clang、rustc 的中間產物。有型別，不綁 CPU，通常不存檔
+├─ GIMPLE         gcc 的中間產物
+├─ Java bytecode  javac 產的 .class，給 JVM 讀
+├─ CIL            Roslyn 產的，放在 .dll，給 CLR 讀。也叫 IL、MSIL
+└─ assembly       給 CPU 的文字，assembler 的輸入。也在中間，很少人叫它 IR
+</code></pre>
+<ul>
+<li>只有 assembly 綁定 CPU，x86 的 assembly 到 ARM 上沒用，其他幾種哪顆 CPU 都能用</li>
+<li>讀的對象不同。assembly 是給人跟 assembler 讀的，bytecode 跟 CIL 給 VM，LLVM IR 給編譯器自己的優化 pass</li>
+<li>LLVM IR 還留著型別，也留著 <code>nsw</code> 這種語意（標記這個有號加法不會溢位）。JVM bytecode 跟 CIL 也有型別（CPython 的沒有），但沒有 <code>nsw</code> 這種給優化器用的標記。assembly 連型別都沒有，只剩暫存器跟指令。所以 LLVM IR 最高階，assembly 最低階</li>
+</ul>
+<p>CIL 不綁 CPU、給 VM 讀，所以它跟 Java bytecode 是同一類，不算 assembly（<a href="https://stackoverflow.com/questions/11701063/is-cil-an-assembly-language-and-jit-an-assembler">SO 上有人這樣問過</a>）。</p>
+<h2>哪些工具算 translator</h2>
+<p>source code 變成 assembly，assembly 變成 machine code，做這種轉換的工具統稱 translator。</p>
+<ul>
+<li>preprocessor：文字換文字，C 的 <code>#include</code>、<code>#define</code></li>
+<li>compiler：轉換成另一種語言，通常是高階轉低階
+<ul>
+<li>AOT compiler：gcc、rustc，執行之前編譯完</li>
+<li>JIT compiler：V8 的 TurboFan、HotSpot 的 C2、CLR 的 RyuJIT，執行時才編譯，輸入是 bytecode，不是 source</li>
+<li>transpiler：Babel、tsc，高階換另一種高階，輸出還是給人看的文字</li>
+</ul>
+</li>
+<li>assembler：assembly 換 machine code</li>
+<li>interpreter：不產出新形式，直接執行。早期的 BASIC 跟現在的 bash 讀 source 文字，一行做一行；CPython、JVM 讀的是先編譯好的 bytecode</li>
+<li>linker：不轉換形式，只把多個 .o 接起來。所以四種 translator 裡沒有它，但工具鏈裡有</li>
+</ul>
+<p>C 的工具鏈是 preprocessor → compiler → assembler → linker。其他語言各用到哪幾個：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>語言</th><th>preprocessor</th><th>compiler</th><th>assembler</th><th>linker</th><th>執行時</th></tr></thead><tbody><tr><td>C、C++</td><td>有</td><td>gcc、clang、MSVC</td><td>有，gcc 交給 as，clang 用 LLVM 內建的</td><td>有</td><td>直接跑 machine code</td></tr><tr><td>Rust</td><td>-，macro 展開在 rustc 內</td><td>rustc，走 LLVM</td><td>LLVM 內建</td><td>有</td><td>直接跑</td></tr><tr><td>assembly</td><td>-</td><td>-</td><td>有</td><td>有</td><td>直接跑</td></tr><tr><td>Java</td><td>-</td><td>javac → .class</td><td>-</td><td>-</td><td>HotSpot，直譯加 JIT</td></tr><tr><td>C#</td><td>-</td><td>Roslyn → IL</td><td>-</td><td>-</td><td>CLR 的 JIT，或 Native AOT</td></tr><tr><td>Python</td><td>-</td><td>內建，source → .pyc</td><td>-</td><td>-</td><td>CPython 直譯，3.13 起可開 JIT</td></tr><tr><td>JavaScript</td><td>-</td><td>引擎內建，source → bytecode</td><td>-</td><td>-</td><td>V8 直譯加 JIT</td></tr></tbody></table>
+<h2>直譯、JIT、AOT 差在什麼時候編譯</h2>
+<p>AOT 是 ahead of time，執行前就把 machine code 產好，C、Rust、Go 都是。JIT 是 just in time，執行中才產 machine code。foo.py 長這樣，一個加法函式被呼叫一萬次：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="python" data-theme="github-dark github-light"><code data-language="python" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">def</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> add</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(a, b):</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> a </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">+</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> b</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">total </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 0</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">for</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">in</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> range</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">10_000</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">):</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    total </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> add(total, i)</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">print</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(total)</span></span></code></pre></figure>
+<p><code>python foo.py</code> 這一次執行的時間軸，直譯跟 JIT 分別是哪一步：</p>
+<pre><code>啟動
+ → compiler 把整個 foo.py 編成 bytecode（一次做完；直接執行的 foo.py 不存 .pyc，被 import 的模組才存）
+ → 直譯器開始一條一條讀 bytecode 執行         ← 「直譯」指這裡
+ → （有開 JIT 的話）某段 bytecode 跑得夠多次，先轉成 micro-op
+ → 再把 micro-op 編成 machine code             ← 「JIT」指這裡
+ → 之後再跑到那段，直接執行 machine code，其他段照舊直譯
+結束
+</code></pre>
+<ul>
+<li>compile（source 到 bytecode）：翻譯，產物是 bytecode，執行前做，整個檔案一次編譯完</li>
+<li>直譯：不翻譯成別的形式，而是讀一條就做一條，所以產物不是檔案，是動作。直譯器本身是一個已經編譯好的 C 大迴圈，讀到 <code>BINARY_OP +</code> 就跳去執行「兩個 Python 物件相加」那段 C，再讀下一條</li>
+<li>JIT：翻譯，產物是 machine code，執行中做，只編譯跑很多次的。發現 <code>a + b</code> 跑了幾千次、a、b 每次都是 int，就照這個型別產生一小塊專用的 machine code</li>
+</ul>
+<p>第一步照字面也是「執行時才編譯」，但它產出的 bytecode CPU 不能跑，跟 javac 把 .java 編成 .class 是同一種動作，沒人說 javac 是 JIT。業界說 JIT，指的是編成 machine code 那個。</p>
+<p>JIT 是 runtime 的功能，跟語言無關。V8、HotSpot 預設開，CPython 3.13 起可以開，到 3.15 還不是預設；iOS 不准執行時產生 machine code 再執行，所以 .NET for iOS 只能 AOT。JIT 也要跑夠多次才有差。同一支 Node 程式開 JIT 跟 <code>--jitless</code> 各量一次，只跑一次兩邊一樣快，跑 300 次 JIT 快 1.23 倍。</p>
+<p>有些語言主流實作只有一種，有些兩種都有：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th></th><th>語言</th><th>為什麼</th></tr></thead><tbody><tr><td>只有 AOT</td><td>C、C++、Rust、Go、Swift</td><td>型別在編譯時全部確定，沒有執行期才知道的資訊給 JIT 用</td></tr><tr><td>只有 JIT 或直譯</td><td>瀏覽器裡的 JavaScript</td><td>程式碼是執行時才從網路下載的，沒有「執行前」可以編譯</td></tr><tr><td>兩種都有</td><td>Java、C#、Python、Dart</td><td>HotSpot 是 JIT、GraalVM Native Image 是 AOT；CLR 是 JIT、Native AOT 是 AOT；CPython 直譯、Nuitka 是 AOT；Dart 開發時 JIT、發布時 AOT</td></tr></tbody></table>
+<h2>誰管記憶體？managed 對 unmanaged</h2>
+<p>這跟上面講的形式無關，分的是記憶體由誰回收：</p>
+<ul>
+<li>runtime 回收：有 GC（garbage collector），程式只管 new，不用管 free。Java、C#、Go、Python 都是</li>
+<li>人自己回收：C 的 <code>malloc</code> 跟 <code>free</code>。忘了 free 是 leak，free 兩次或太早是 crash</li>
+<li>編譯器算好什麼時候回收：Rust 的 ownership，變數離開 scope 編譯器就插一句釋放，沒有 GC 也不用自己寫 free</li>
+</ul>
+<p>managed code 是 .NET 的用語，指<a href="https://learn.microsoft.com/en-us/dotnet/standard/managed-code">程式的執行由 runtime 管</a>：runtime 把它編成 machine code 執行，也負責回收記憶體、檢查型別安全，例如 null 跟陣列越界。C、C++、Rust 是 unmanaged。Python 嚴格說也符合 managed 的定義，只是沒人這樣叫。</p>
+<iframe src="/embeds/translators-nests/managed" width="100%" height="300" loading="lazy" style="border:0;overflow:hidden;max-width:700px;display:block;margin:1rem auto" title="managed vs. unmanaged"></iframe>
+<p>.NET 跟 Java 的 managed code 剛好同時有 GC、跑在 VM 上、執行時 JIT，所以常被當成同一件事，看到 AOT 編譯成 machine code，就容易以為它變 unmanaged。三件事各自獨立：</p>
+<ul>
+<li>managed 看的是有沒有 runtime 在管程式的執行，GC 是其中一項</li>
+<li>AOT 或 JIT 看的是 machine code 什麼時候產出</li>
+<li>有沒有 VM 是另一回事：Java 有，Go 沒有</li>
+</ul>
+<p>Go 有 GC、沒 VM、AOT 編譯。Native AOT 的 C# 也是有 GC、沒 VM、AOT 編譯，編譯出來是 machine code，也還是 managed。</p>
+<h2>副檔名對照</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>副檔名</th><th>內容</th><th>誰產出</th><th>執行時</th><th>managed</th></tr></thead><tbody><tr><td>.c .cc .rs .go .java .cs .py .js</td><td>source code</td><td>人</td><td>看下面</td><td>看下面</td></tr><tr><td>.s .asm</td><td>assembly</td><td><code>gcc -S</code>，或人手寫</td><td>不執行，要先組譯</td><td></td></tr><tr><td>.o .obj</td><td>object code</td><td>assembler</td><td>不執行，要先 link</td><td>unmanaged</td></tr><tr><td>.so .dylib、C++ 的 .dll</td><td>machine code，動態連結</td><td>linker</td><td>執行時載入，AOT</td><td>unmanaged</td></tr><tr><td>ELF、Mach-O、C 的 .exe</td><td>machine code</td><td>linker</td><td>直接跑，AOT</td><td>unmanaged</td></tr><tr><td>.pyc</td><td>Python bytecode</td><td>CPython 自動</td><td>CPython 直譯；3.13 起可以開 JIT</td><td>有 GC，沒人叫它 managed</td></tr><tr><td>.class .jar</td><td>Java bytecode</td><td>javac，jar 是 zip 起來</td><td>JVM 直譯加 JIT</td><td>managed</td></tr><tr><td>.dex</td><td>Android 的 bytecode</td><td>d8</td><td>ART 直譯加 JIT</td><td>managed</td></tr><tr><td>.NET 的 .dll .exe</td><td>CIL 加 metadata</td><td>Roslyn</td><td>CLR JIT；Native AOT 出來的 .exe 是純 machine code</td><td>managed</td></tr><tr><td>.wasm</td><td>WebAssembly 的 bytecode</td><td>emcc、rustc、Go</td><td>瀏覽器或 wasmtime 的 JIT</td><td>看語言，Rust 編譯的沒 GC</td></tr></tbody></table>
+<p>同樣叫 .dll 或 .exe，C++ 編譯出來的裡面是 machine code，C# 用 Roslyn 編譯出來的裡面是 CIL。要分辨用 <code>file</code> 指令，它不看副檔名，讀檔案開頭幾個 bytes 去對格式表：</p>
+<pre><code>$ file translators-lite.md
+translators-lite.md: Unicode text, UTF-8 text
+$ file /bin/ls
+/bin/ls: Mach-O universal binary with 2 architectures: [x86_64:Mach-O 64-bit executable x86_64] [arm64e:Mach-O 64-bit executable arm64e]
+$ file UnityPlayer.dll
+UnityPlayer.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+</code></pre>
+<p>兩種 .dll 都是 PE 格式，開頭都是 <code>MZ</code> 兩個 bytes。.NET 的那種多一個 CLR header，<code>file</code> 會在後面多標一段 <code>Mono/.Net assembly</code>；C++ 的沒有這個 header，就像上面 UnityPlayer.dll 那行，只印到 x86-64。</p>
+<h2>哪些詞有兩種意思</h2>
+<ul>
+<li><strong>assembly</strong>：組合語言，或者 .NET 的 .dll、.exe 那個檔案。後者內容是 CIL 加 metadata，跟組合語言無關，純粹撞名</li>
+<li><strong>binary</strong>：這篇只指不是純粹文字檔的檔案。machine code 是 binary，.pyc、.class 也是 binary，但不是 machine code。Java 規格裡 .class 就叫那支程式的 binary</li>
+<li><strong>IL、CIL、MSIL</strong>：三個名字同一個東西，.NET 的 bytecode。IR 是類別，LLVM IR、bytecode、CIL 都是成員</li>
+<li><strong>前端框架的 AOT、JIT</strong>：Vue、Angular 講的是模板什麼時候編成 render function，build 時叫 AOT，瀏覽器裡叫 JIT。兩種輸出都還是 JavaScript，之後都交給 V8，V8 自己那層直譯加 JIT 跟框架選哪一種無關。<code>npm run build</code> 一般做的是 transpile、bundle、minify；Angular 專案例外，<code>ng build</code> 從 Angular 9 起預設就會做模板的 AOT</li>
+<li><strong>native code</strong>：有時候是 machine code 的同義詞，有時候指 unmanaged code。要區分 managed 跟 unmanaged 的時候，unmanaged 那邊才會被叫成 native</li>
+</ul>
+<p>SO 上<a href="https://stackoverflow.com/questions/3434202/what-is-the-difference-between-native-code-machine-code-and-assembly-code">這題</a>的最高票答案貼了一段 Visual Studio 的 Disassembly 視窗，是 C# hello world 被 JIT 編譯之後的樣子，每一行三欄：</p>
+<pre><code>00000003  E8 30 BE 03 6F     call  6F03BE38          ; Console.Out getter
+0000000a  8B 15 88 20 BD 02  mov   edx, [02BD2088h]
+</code></pre>
+<p>第一欄是位址。第二欄的 hex 是 machine code，CPU 直接執行的 bytes，<code>8B</code> 就是 MOV。第三欄是 assembly，同一段指令的人讀版本，一對一。這段是 CLR 的 JIT 從 CIL 編譯出來的，所以它是 machine code，符合 native 的第一個意思；GC 還在管它，所以是 managed，不符合第二個。</p>
+<h2>誰等於誰</h2>
+<ul>
+<li>IL = CIL = MSIL，.NET 的中間形式</li>
+<li>LLVM IR、bytecode、assembly 都是 IR 的一種，但 bytecode ≠ assembly，差在綁不綁 CPU、給誰讀</li>
+<li>CIL 跟 Java bytecode 是同一類，各自的 VM 是 CLR 跟 JVM</li>
+<li>.NET 的 assembly ≠ assembly language</li>
+<li>assembly ≠ assembler 的產物，assembly 給 assembler 之後變出 object code</li>
+<li>machine code 是 binary 的一種，bytecode 檔也是。所以看到「編成 binary」不能推它是 machine code，Java 規格就叫 .class 是 binary，那是 bytecode</li>
+<li>machine code = native code 的第一個意思，native 的第二個意思是 unmanaged</li>
+<li>managed ≠ JIT。Go、Native AOT 的 C# 有 GC 沒 JIT</li>
+<li>JVM 跟 CLR 的角色一樣，都是 runtime：把 bytecode 檔載進來、編成 machine code 執行、記憶體交給 GC。差別在 JVM 先直譯，跑很多次的 method 才交給 JIT；CLR 沒有直譯這一步，method 第一次被呼叫就用 quick JIT 編譯，跑很多次再用 optimizing JIT 重新編譯。讀的檔也不同：JVM 讀 .class 裡的 Java bytecode，CLR 讀 .dll 裡的 CIL</li>
+</ul>
+<h2>延伸閱讀</h2>
+<ul>
+<li><a href="https://www.spreered.com/blog/compiler_for_dummies">一點都不深入的了解 Compiler、Interpreter 和 VM</a></li>
+<li><a href="https://stackoverflow.com/questions/3434202/what-is-the-difference-between-native-code-machine-code-and-assembly-code">What is the difference between native code, machine code and assembly code?</a></li>
+<li><a href="https://niraj-vishwakarma.medium.com/how-unity-supports-cross-platform-feature-ae722321cfa">How Unity Supports Cross-Platform Feature</a></li>
+<li><a href="https://medium.com/starbugs/see-what-compiler-optimization-do-from-llvm-ir-dfd3774292cb">See What Compiler Optimization Do From LLVM IR</a></li>
+<li><a href="https://levelup.gitconnected.com/just-in-time-jit-and-ahead-of-time-aot-compilation-in-angular-8529f1d6fa9d">Just-in-Time (JIT) and Ahead-of-Time (AOT) Compilation in Angular</a></li>
+<li><a href="https://medium.com/@Sujithnath/angular-aot-vs-jit-comparison-ce1d96ede491">Angular AOT vs JIT Comparison</a></li>
+<li><a href="https://stackify.com/net-ecosystem-runtime-tools-languages/">The .NET Ecosystem: Dive Into Runtime Tools and Languages</a></li>
+<li><a href="https://blog.csdn.net/yinfourever/article/details/108258319">Mono,CLR,.net,Net Framework之间的关系</a></li>
+</ul>16:T3b22,
+CIL 算不算 assembly？.NET 用 AOT 編譯之後還算 managed 嗎？translator、compiler、interpreter、assembler、transpiler、JIT、AOT、managed 這幾個詞常被混在一起用，各自指的是什麼？
+
+## 從 source code 到 machine code，中間有哪些形式
+
+high-level language、assembly language、machine language 之間，還有幾種形式。拿 `x = a + b` 一路往下走：
+
+<iframe src="/embeds/translators-spectrum" width="100%" height="520" loading="lazy" style="border:0;overflow:hidden;max-width:700px;display:block;margin:1.5rem auto" title="Every form from source code to machine code"></iframe>
+
+- source code，也叫 high-level code、原始碼：人寫的文字，`x = a + b`
+- compiler IR，LLVM IR、rustc 的 MIR、GCC 的 GIMPLE 都是：編譯器自己用的中間形式，`%x = add nsw i32 %a, %b`，優化在這一層做
+- assembly，也叫 asm、組合語言，副檔名 .s：一行一條 CPU 指令，`add eax, ebx`，只對一種 CPU 家族有效
+- object code，副檔名 .o 或 .obj：assembler 的產出，已經是 machine code，但外部符號的位址還是佔位符
+- machine code，也叫 native code：linker 填好位址的 bytes，`01 d8`，CPU 直接跑
+
+bytecode 不在上面那排。source 編譯成 bytecode 之後就交給 VM，不會經過 assembly、object code。存成 .pyc、.class、.dll；.NET 的 bytecode 叫 CIL，也叫 IL、MSIL。CPython 的 `BINARY_OP +`、JVM 的 `iadd`、CIL 的 `add`，都是給 VM 讀的，不針對任何一種 CPU。直譯器一條一條執行它，JIT 把跑最多次的那幾段編譯成 machine code，這時候才回到上面那排的最後一種形式。
+
+有 linker 這一步的工具鏈才有 object code。C、C++、Rust、Go 都是每個檔案或 package 先產一個 .o，再交給 linker。Java 的 .class、C# 的 .dll 是 bytecode，沒有 linker，符號在 class loader 或 CLR 載入時才解析；Python、JavaScript 沒有這一層；JIT 產出的 machine code 直接放記憶體，不存成 .o。
+
+### 哪些東西算 IR
+
+翻譯到一半停下來的形式都叫 IR（intermediate representation，中間表示）：
+
+```
+IR（類別）
+├─ MIR            rustc 自己的一層，在 LLVM IR 之前，borrow checker 在這裡跑
+├─ LLVM IR        clang、rustc 的中間產物。有型別，不綁 CPU，通常不存檔
+├─ GIMPLE         gcc 的中間產物
+├─ Java bytecode  javac 產的 .class，給 JVM 讀
+├─ CIL            Roslyn 產的，放在 .dll，給 CLR 讀。也叫 IL、MSIL
+└─ assembly       給 CPU 的文字，assembler 的輸入。也在中間，很少人叫它 IR
+```
+
+- 只有 assembly 綁定 CPU，x86 的 assembly 到 ARM 上沒用，其他幾種哪顆 CPU 都能用
+- 讀的對象不同。assembly 是給人跟 assembler 讀的，bytecode 跟 CIL 給 VM，LLVM IR 給編譯器自己的優化 pass
+- LLVM IR 還留著型別，也留著 `nsw` 這種語意（標記這個有號加法不會溢位）。JVM bytecode 跟 CIL 也有型別（CPython 的沒有），但沒有 `nsw` 這種給優化器用的標記。assembly 連型別都沒有，只剩暫存器跟指令。所以 LLVM IR 最高階，assembly 最低階
+
+CIL 不綁 CPU、給 VM 讀，所以它跟 Java bytecode 是同一類，不算 assembly（[SO 上有人這樣問過](https://stackoverflow.com/questions/11701063/is-cil-an-assembly-language-and-jit-an-assembler)）。
+
+## 哪些工具算 translator
+
+source code 變成 assembly，assembly 變成 machine code，做這種轉換的工具統稱 translator。
+
+- preprocessor：文字換文字，C 的 `#include`、`#define`
+- compiler：轉換成另一種語言，通常是高階轉低階
+  - AOT compiler：gcc、rustc，執行之前編譯完
+  - JIT compiler：V8 的 TurboFan、HotSpot 的 C2、CLR 的 RyuJIT，執行時才編譯，輸入是 bytecode，不是 source
+  - transpiler：Babel、tsc，高階換另一種高階，輸出還是給人看的文字
+- assembler：assembly 換 machine code
+- interpreter：不產出新形式，直接執行。早期的 BASIC 跟現在的 bash 讀 source 文字，一行做一行；CPython、JVM 讀的是先編譯好的 bytecode
+- linker：不轉換形式，只把多個 .o 接起來。所以四種 translator 裡沒有它，但工具鏈裡有
+
+C 的工具鏈是 preprocessor → compiler → assembler → linker。其他語言各用到哪幾個：
+
+| 語言 | preprocessor | compiler | assembler | linker | 執行時 |
+|---|---|---|---|---|---|
+| C、C++ | 有 | gcc、clang、MSVC | 有，gcc 交給 as，clang 用 LLVM 內建的 | 有 | 直接跑 machine code |
+| Rust | -，macro 展開在 rustc 內 | rustc，走 LLVM | LLVM 內建 | 有 | 直接跑 |
+| assembly | - | - | 有 | 有 | 直接跑 |
+| Java | - | javac → .class | - | - | HotSpot，直譯加 JIT |
+| C# | - | Roslyn → IL | - | - | CLR 的 JIT，或 Native AOT |
+| Python | - | 內建，source → .pyc | - | - | CPython 直譯，3.13 起可開 JIT |
+| JavaScript | - | 引擎內建，source → bytecode | - | - | V8 直譯加 JIT |
+
+## 直譯、JIT、AOT 差在什麼時候編譯
+
+AOT 是 ahead of time，執行前就把 machine code 產好，C、Rust、Go 都是。JIT 是 just in time，執行中才產 machine code。foo.py 長這樣，一個加法函式被呼叫一萬次：
+
+```python
+def add(a, b):
+    return a + b
+
+total = 0
+for i in range(10_000):
+    total = add(total, i)
+print(total)
+```
+
+`python foo.py` 這一次執行的時間軸，直譯跟 JIT 分別是哪一步：
+
+```
+啟動
+ → compiler 把整個 foo.py 編成 bytecode（一次做完；直接執行的 foo.py 不存 .pyc，被 import 的模組才存）
+ → 直譯器開始一條一條讀 bytecode 執行         ← 「直譯」指這裡
+ → （有開 JIT 的話）某段 bytecode 跑得夠多次，先轉成 micro-op
+ → 再把 micro-op 編成 machine code             ← 「JIT」指這裡
+ → 之後再跑到那段，直接執行 machine code，其他段照舊直譯
+結束
+```
+
+- compile（source 到 bytecode）：翻譯，產物是 bytecode，執行前做，整個檔案一次編譯完
+- 直譯：不翻譯成別的形式，而是讀一條就做一條，所以產物不是檔案，是動作。直譯器本身是一個已經編譯好的 C 大迴圈，讀到 `BINARY_OP +` 就跳去執行「兩個 Python 物件相加」那段 C，再讀下一條
+- JIT：翻譯，產物是 machine code，執行中做，只編譯跑很多次的。發現 `a + b` 跑了幾千次、a、b 每次都是 int，就照這個型別產生一小塊專用的 machine code
+
+第一步照字面也是「執行時才編譯」，但它產出的 bytecode CPU 不能跑，跟 javac 把 .java 編成 .class 是同一種動作，沒人說 javac 是 JIT。業界說 JIT，指的是編成 machine code 那個。
+
+JIT 是 runtime 的功能，跟語言無關。V8、HotSpot 預設開，CPython 3.13 起可以開，到 3.15 還不是預設；iOS 不准執行時產生 machine code 再執行，所以 .NET for iOS 只能 AOT。JIT 也要跑夠多次才有差。同一支 Node 程式開 JIT 跟 `--jitless` 各量一次，只跑一次兩邊一樣快，跑 300 次 JIT 快 1.23 倍。
+
+有些語言主流實作只有一種，有些兩種都有：
+
+| | 語言 | 為什麼 |
+|---|---|---|
+| 只有 AOT | C、C++、Rust、Go、Swift | 型別在編譯時全部確定，沒有執行期才知道的資訊給 JIT 用 |
+| 只有 JIT 或直譯 | 瀏覽器裡的 JavaScript | 程式碼是執行時才從網路下載的，沒有「執行前」可以編譯 |
+| 兩種都有 | Java、C#、Python、Dart | HotSpot 是 JIT、GraalVM Native Image 是 AOT；CLR 是 JIT、Native AOT 是 AOT；CPython 直譯、Nuitka 是 AOT；Dart 開發時 JIT、發布時 AOT |
+
+## 誰管記憶體？managed 對 unmanaged
+
+這跟上面講的形式無關，分的是記憶體由誰回收：
+
+- runtime 回收：有 GC（garbage collector），程式只管 new，不用管 free。Java、C#、Go、Python 都是
+- 人自己回收：C 的 `malloc` 跟 `free`。忘了 free 是 leak，free 兩次或太早是 crash
+- 編譯器算好什麼時候回收：Rust 的 ownership，變數離開 scope 編譯器就插一句釋放，沒有 GC 也不用自己寫 free
+
+managed code 是 .NET 的用語，指[程式的執行由 runtime 管](https://learn.microsoft.com/en-us/dotnet/standard/managed-code)：runtime 把它編成 machine code 執行，也負責回收記憶體、檢查型別安全，例如 null 跟陣列越界。C、C++、Rust 是 unmanaged。Python 嚴格說也符合 managed 的定義，只是沒人這樣叫。
+
+<iframe src="/embeds/translators-nests/managed" width="100%" height="300" loading="lazy" style="border:0;overflow:hidden;max-width:700px;display:block;margin:1rem auto" title="managed vs. unmanaged"></iframe>
+
+.NET 跟 Java 的 managed code 剛好同時有 GC、跑在 VM 上、執行時 JIT，所以常被當成同一件事，看到 AOT 編譯成 machine code，就容易以為它變 unmanaged。三件事各自獨立：
+
+- managed 看的是有沒有 runtime 在管程式的執行，GC 是其中一項
+- AOT 或 JIT 看的是 machine code 什麼時候產出
+- 有沒有 VM 是另一回事：Java 有，Go 沒有
+
+Go 有 GC、沒 VM、AOT 編譯。Native AOT 的 C# 也是有 GC、沒 VM、AOT 編譯，編譯出來是 machine code，也還是 managed。
+
+## 副檔名對照
+
+| 副檔名 | 內容 | 誰產出 | 執行時 | managed |
+|---|---|---|---|---|
+| .c .cc .rs .go .java .cs .py .js | source code | 人 | 看下面 | 看下面 |
+| .s .asm | assembly | `gcc -S`，或人手寫 | 不執行，要先組譯 | |
+| .o .obj | object code | assembler | 不執行，要先 link | unmanaged |
+| .so .dylib、C++ 的 .dll | machine code，動態連結 | linker | 執行時載入，AOT | unmanaged |
+| ELF、Mach-O、C 的 .exe | machine code | linker | 直接跑，AOT | unmanaged |
+| .pyc | Python bytecode | CPython 自動 | CPython 直譯；3.13 起可以開 JIT | 有 GC，沒人叫它 managed |
+| .class .jar | Java bytecode | javac，jar 是 zip 起來 | JVM 直譯加 JIT | managed |
+| .dex | Android 的 bytecode | d8 | ART 直譯加 JIT | managed |
+| .NET 的 .dll .exe | CIL 加 metadata | Roslyn | CLR JIT；Native AOT 出來的 .exe 是純 machine code | managed |
+| .wasm | WebAssembly 的 bytecode | emcc、rustc、Go | 瀏覽器或 wasmtime 的 JIT | 看語言，Rust 編譯的沒 GC |
+
+同樣叫 .dll 或 .exe，C++ 編譯出來的裡面是 machine code，C# 用 Roslyn 編譯出來的裡面是 CIL。要分辨用 `file` 指令，它不看副檔名，讀檔案開頭幾個 bytes 去對格式表：
+
+```
+$ file translators-lite.md
+translators-lite.md: Unicode text, UTF-8 text
+$ file /bin/ls
+/bin/ls: Mach-O universal binary with 2 architectures: [x86_64:Mach-O 64-bit executable x86_64] [arm64e:Mach-O 64-bit executable arm64e]
+$ file UnityPlayer.dll
+UnityPlayer.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+```
+
+兩種 .dll 都是 PE 格式，開頭都是 `MZ` 兩個 bytes。.NET 的那種多一個 CLR header，`file` 會在後面多標一段 `Mono/.Net assembly`；C++ 的沒有這個 header，就像上面 UnityPlayer.dll 那行，只印到 x86-64。
+
+## 哪些詞有兩種意思
+
+- **assembly**：組合語言，或者 .NET 的 .dll、.exe 那個檔案。後者內容是 CIL 加 metadata，跟組合語言無關，純粹撞名
+- **binary**：這篇只指不是純粹文字檔的檔案。machine code 是 binary，.pyc、.class 也是 binary，但不是 machine code。Java 規格裡 .class 就叫那支程式的 binary
+- **IL、CIL、MSIL**：三個名字同一個東西，.NET 的 bytecode。IR 是類別，LLVM IR、bytecode、CIL 都是成員
+- **前端框架的 AOT、JIT**：Vue、Angular 講的是模板什麼時候編成 render function，build 時叫 AOT，瀏覽器裡叫 JIT。兩種輸出都還是 JavaScript，之後都交給 V8，V8 自己那層直譯加 JIT 跟框架選哪一種無關。`npm run build` 一般做的是 transpile、bundle、minify；Angular 專案例外，`ng build` 從 Angular 9 起預設就會做模板的 AOT
+- **native code**：有時候是 machine code 的同義詞，有時候指 unmanaged code。要區分 managed 跟 unmanaged 的時候，unmanaged 那邊才會被叫成 native
+
+SO 上[這題](https://stackoverflow.com/questions/3434202/what-is-the-difference-between-native-code-machine-code-and-assembly-code)的最高票答案貼了一段 Visual Studio 的 Disassembly 視窗，是 C# hello world 被 JIT 編譯之後的樣子，每一行三欄：
+
+```
+00000003  E8 30 BE 03 6F     call  6F03BE38          ; Console.Out getter
+0000000a  8B 15 88 20 BD 02  mov   edx, [02BD2088h]
+```
+
+第一欄是位址。第二欄的 hex 是 machine code，CPU 直接執行的 bytes，`8B` 就是 MOV。第三欄是 assembly，同一段指令的人讀版本，一對一。這段是 CLR 的 JIT 從 CIL 編譯出來的，所以它是 machine code，符合 native 的第一個意思；GC 還在管它，所以是 managed，不符合第二個。
+
+## 誰等於誰
+
+- IL = CIL = MSIL，.NET 的中間形式
+- LLVM IR、bytecode、assembly 都是 IR 的一種，但 bytecode ≠ assembly，差在綁不綁 CPU、給誰讀
+- CIL 跟 Java bytecode 是同一類，各自的 VM 是 CLR 跟 JVM
+- .NET 的 assembly ≠ assembly language
+- assembly ≠ assembler 的產物，assembly 給 assembler 之後變出 object code
+- machine code 是 binary 的一種，bytecode 檔也是。所以看到「編成 binary」不能推它是 machine code，Java 規格就叫 .class 是 binary，那是 bytecode
+- machine code = native code 的第一個意思，native 的第二個意思是 unmanaged
+- managed ≠ JIT。Go、Native AOT 的 C# 有 GC 沒 JIT
+- JVM 跟 CLR 的角色一樣，都是 runtime：把 bytecode 檔載進來、編成 machine code 執行、記憶體交給 GC。差別在 JVM 先直譯，跑很多次的 method 才交給 JIT；CLR 沒有直譯這一步，method 第一次被呼叫就用 quick JIT 編譯，跑很多次再用 optimizing JIT 重新編譯。讀的檔也不同：JVM 讀 .class 裡的 Java bytecode，CLR 讀 .dll 裡的 CIL
+
+## 延伸閱讀
+
+- [一點都不深入的了解 Compiler、Interpreter 和 VM](https://www.spreered.com/blog/compiler_for_dummies)
+- [What is the difference between native code, machine code and assembly code?](https://stackoverflow.com/questions/3434202/what-is-the-difference-between-native-code-machine-code-and-assembly-code)
+- [How Unity Supports Cross-Platform Feature](https://niraj-vishwakarma.medium.com/how-unity-supports-cross-platform-feature-ae722321cfa)
+- [See What Compiler Optimization Do From LLVM IR](https://medium.com/starbugs/see-what-compiler-optimization-do-from-llvm-ir-dfd3774292cb)
+- [Just-in-Time (JIT) and Ahead-of-Time (AOT) Compilation in Angular](https://levelup.gitconnected.com/just-in-time-jit-and-ahead-of-time-aot-compilation-in-angular-8529f1d6fa9d)
+- [Angular AOT vs JIT Comparison](https://medium.com/@Sujithnath/angular-aot-vs-jit-comparison-ce1d96ede491)
+- [The .NET Ecosystem: Dive Into Runtime Tools and Languages](https://stackify.com/net-ecosystem-runtime-tools-languages/)
+- [Mono,CLR,.net,Net Framework之间的关系](https://blog.csdn.net/yinfourever/article/details/108258319)
+17:T5080,LS0tCnRpdGxlOiAiVHJhbnNsYXRvcnMgRXZlcnl3aGVyZSBBbGwgYXQgT25jZSIKZGF0ZTogMjAyNi0wOS0yNFQxNzowMDozOQp0YWdzOiBbY29tcGlsZXIsIGppdCwgcHl0aG9uLCBkb3RuZXRdCmRlc2NyaXB0aW9uOiAiY29tcGlsZXLjgIFhc3NlbWJsZXLjgIFpbnRlcnByZXRlciDlkITlgZrlk6rkuIDmrrXvvIxieXRlY29kZSDot58gYXNzZW1ibHkg5beu5Zyo6Kqw6K6A77yMSklUIOi3nyBBT1Qg5beu5Zyo5LuA6bq85pmC5YCZ57eo6K2v77yMbWFuYWdlZOOAgUFPVC9KSVTjgIHmnInmspLmnIkgVk0g5piv5LiJ5Lu2542o56uL55qE5LqL44CCIgotLS0KCkNJTCDnrpfkuI3nrpcgYXNzZW1ibHnvvJ8uTkVUIOeUqCBBT1Qg57eo6K2v5LmL5b6M6YKE566XIG1hbmFnZWQg5ZeO77yfdHJhbnNsYXRvcuOAgWNvbXBpbGVy44CBaW50ZXJwcmV0ZXLjgIFhc3NlbWJsZXLjgIF0cmFuc3BpbGVy44CBSklU44CBQU9U44CBbWFuYWdlZCDpgJnlub7lgIvoqZ7luLjooqvmt7flnKjkuIDotbfnlKjvvIzlkIToh6rmjIfnmoTmmK/ku4DpurzvvJ8KCiMjIOW+niBzb3VyY2UgY29kZSDliLAgbWFjaGluZSBjb2Rl77yM5Lit6ZaT5pyJ5ZOq5Lqb5b2i5byPCgpoaWdoLWxldmVsIGxhbmd1YWdl44CBYXNzZW1ibHkgbGFuZ3VhZ2XjgIFtYWNoaW5lIGxhbmd1YWdlIOS5i+mWk++8jOmChOacieW5vueoruW9ouW8j+OAguaLvyBgeCA9IGEgKyBiYCDkuIDot6/lvoDkuIvotbDvvJoKCjxpZnJhbWUgc3JjPSIvZW1iZWRzL3RyYW5zbGF0b3JzLXNwZWN0cnVtIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI1MjAiIGxvYWRpbmc9ImxhenkiIHN0eWxlPSJib3JkZXI6MDtvdmVyZmxvdzpoaWRkZW47bWF4LXdpZHRoOjcwMHB4O2Rpc3BsYXk6YmxvY2s7bWFyZ2luOjEuNXJlbSBhdXRvIiB0aXRsZT0iRXZlcnkgZm9ybSBmcm9tIHNvdXJjZSBjb2RlIHRvIG1hY2hpbmUgY29kZSI+PC9pZnJhbWU+CgotIHNvdXJjZSBjb2Rl77yM5Lmf5Y+rIGhpZ2gtbGV2ZWwgY29kZeOAgeWOn+Wni+eivO+8muS6uuWvq+eahOaWh+Wtl++8jGB4ID0gYSArIGJgCi0gY29tcGlsZXIgSVLvvIxMTFZNIElS44CBcnVzdGMg55qEIE1JUuOAgUdDQyDnmoQgR0lNUExFIOmDveaYr++8mue3qOitr+WZqOiHquW3seeUqOeahOS4remWk+W9ouW8j++8jGAleCA9IGFkZCBuc3cgaTMyICVhLCAlYmDvvIzlhKrljJblnKjpgJnkuIDlsaTlgZoKLSBhc3NlbWJsee+8jOS5n+WPqyBhc23jgIHntYTlkIjoqp7oqIDvvIzlia/mqpTlkI0gLnPvvJrkuIDooYzkuIDmop0gQ1BVIOaMh+S7pO+8jGBhZGQgZWF4LCBlYnhg77yM5Y+q5bCN5LiA56iuIENQVSDlrrbml4/mnInmlYgKLSBvYmplY3QgY29kZe+8jOWJr+aqlOWQjSAubyDmiJYgLm9iau+8mmFzc2VtYmxlciDnmoTnlKLlh7rvvIzlt7LntpPmmK8gbWFjaGluZSBjb2Rl77yM5L2G5aSW6YOo56ym6Jmf55qE5L2N5Z2A6YKE5piv5L2U5L2N56ymCi0gbWFjaGluZSBjb2Rl77yM5Lmf5Y+rIG5hdGl2ZSBjb2Rl77yabGlua2VyIOWhq+WlveS9jeWdgOeahCBieXRlc++8jGAwMSBkOGDvvIxDUFUg55u05o6l6LeRCgpieXRlY29kZSDkuI3lnKjkuIrpnaLpgqPmjpLjgIJzb3VyY2Ug57eo6K2v5oiQIGJ5dGVjb2RlIOS5i+W+jOWwseS6pOe1piBWTe+8jOS4jeacg+e2k+mBjiBhc3NlbWJseeOAgW9iamVjdCBjb2Rl44CC5a2Y5oiQIC5weWPjgIEuY2xhc3PjgIEuZGxs77ybLk5FVCDnmoQgYnl0ZWNvZGUg5Y+rIENJTO+8jOS5n+WPqyBJTOOAgU1TSUzjgIJDUHl0aG9uIOeahCBgQklOQVJZX09QICtg44CBSlZNIOeahCBgaWFkZGDjgIFDSUwg55qEIGBhZGRg77yM6YO95piv57WmIFZNIOiugOeahO+8jOS4jemHneWwjeS7u+S9leS4gOeoriBDUFXjgILnm7Tora/lmajkuIDmop3kuIDmop3ln7fooYzlroPvvIxKSVQg5oqK6LeR5pyA5aSa5qyh55qE6YKj5bm+5q6157eo6K2v5oiQIG1hY2hpbmUgY29kZe+8jOmAmeaZguWAmeaJjeWbnuWIsOS4iumdoumCo+aOkueahOacgOW+jOS4gOeoruW9ouW8j+OAggoK5pyJIGxpbmtlciDpgJnkuIDmraXnmoTlt6Xlhbfpj4jmiY3mnIkgb2JqZWN0IGNvZGXjgIJD44CBQysr44CBUnVzdOOAgUdvIOmDveaYr+avj+WAi+aqlOahiOaIliBwYWNrYWdlIOWFiOeUouS4gOWAiyAub++8jOWGjeS6pOe1piBsaW5rZXLjgIJKYXZhIOeahCAuY2xhc3PjgIFDIyDnmoQgLmRsbCDmmK8gYnl0ZWNvZGXvvIzmspLmnIkgbGlua2Vy77yM56ym6Jmf5ZyoIGNsYXNzIGxvYWRlciDmiJYgQ0xSIOi8ieWFpeaZguaJjeino+aekO+8m1B5dGhvbuOAgUphdmFTY3JpcHQg5rKS5pyJ6YCZ5LiA5bGk77ybSklUIOeUouWHuueahCBtYWNoaW5lIGNvZGUg55u05o6l5pS+6KiY5oa26auU77yM5LiN5a2Y5oiQIC5v44CCCgojIyMg5ZOq5Lqb5p2x6KW/566XIElSCgrnv7vora/liLDkuIDljYrlgZzkuIvkvobnmoTlvaLlvI/pg73lj6sgSVLvvIhpbnRlcm1lZGlhdGUgcmVwcmVzZW50YXRpb27vvIzkuK3plpPooajnpLrvvInvvJoKCmBgYApJUu+8iOmhnuWIpe+8iQrilJzilIAgTUlSICAgICAgICAgICAgcnVzdGMg6Ieq5bex55qE5LiA5bGk77yM5ZyoIExMVk0gSVIg5LmL5YmN77yMYm9ycm93IGNoZWNrZXIg5Zyo6YCZ6KOh6LeRCuKUnOKUgCBMTFZNIElSICAgICAgICBjbGFuZ+OAgXJ1c3RjIOeahOS4remWk+eUoueJqeOAguacieWei+WIpe+8jOS4jee2gSBDUFXvvIzpgJrluLjkuI3lrZjmqpQK4pSc4pSAIEdJTVBMRSAgICAgICAgIGdjYyDnmoTkuK3plpPnlKLniakK4pSc4pSAIEphdmEgYnl0ZWNvZGUgIGphdmFjIOeUoueahCAuY2xhc3PvvIzntaYgSlZNIOiugArilJzilIAgQ0lMICAgICAgICAgICAgUm9zbHluIOeUoueahO+8jOaUvuWcqCAuZGxs77yM57WmIENMUiDoroDjgILkuZ/lj6sgSUzjgIFNU0lMCuKUlOKUgCBhc3NlbWJseSAgICAgICDntaYgQ1BVIOeahOaWh+Wtl++8jGFzc2VtYmxlciDnmoTovLjlhaXjgILkuZ/lnKjkuK3plpPvvIzlvojlsJHkurrlj6vlroMgSVIKYGBgCgotIOWPquaciSBhc3NlbWJseSDntoHlrpogQ1BV77yMeDg2IOeahCBhc3NlbWJseSDliLAgQVJNIOS4iuaykueUqO+8jOWFtuS7luW5vueoruWTqumhhiBDUFUg6YO96IO955SoCi0g6K6A55qE5bCN6LGh5LiN5ZCM44CCYXNzZW1ibHkg5piv57Wm5Lq66LefIGFzc2VtYmxlciDoroDnmoTvvIxieXRlY29kZSDot58gQ0lMIOe1piBWTe+8jExMVk0gSVIg57Wm57eo6K2v5Zmo6Ieq5bex55qE5YSq5YyWIHBhc3MKLSBMTFZNIElSIOmChOeVmeiRl+Wei+WIpe+8jOS5n+eVmeiRlyBgbnN3YCDpgJnnqK7oqp7mhI/vvIjmqJnoqJjpgJnlgIvmnInomZ/liqDms5XkuI3mnIPmuqLkvY3vvInjgIJKVk0gYnl0ZWNvZGUg6LefIENJTCDkuZ/mnInlnovliKXvvIhDUHl0aG9uIOeahOaykuacie+8ie+8jOS9huaykuaciSBgbnN3YCDpgJnnqK7ntablhKrljJblmajnlKjnmoTmqJnoqJjjgIJhc3NlbWJseSDpgKPlnovliKXpg73mspLmnInvvIzlj6rlianmmqvlrZjlmajot5/mjIfku6TjgILmiYDku6UgTExWTSBJUiDmnIDpq5jpmo7vvIxhc3NlbWJseSDmnIDkvY7pmo4KCkNJTCDkuI3ntoEgQ1BV44CB57WmIFZNIOiugO+8jOaJgOS7peWug+i3nyBKYXZhIGJ5dGVjb2RlIOaYr+WQjOS4gOmhnu+8jOS4jeeulyBhc3NlbWJsee+8iFtTTyDkuIrmnInkurrpgJnmqKPllY/pgY5dKGh0dHBzOi8vc3RhY2tvdmVyZmxvdy5jb20vcXVlc3Rpb25zLzExNzAxMDYzL2lzLWNpbC1hbi1hc3NlbWJseS1sYW5ndWFnZS1hbmQtaml0LWFuLWFzc2VtYmxlcinvvInjgIIKCiMjIOWTquS6m+W3peWFt+eulyB0cmFuc2xhdG9yCgpzb3VyY2UgY29kZSDorormiJAgYXNzZW1ibHnvvIxhc3NlbWJseSDorormiJAgbWFjaGluZSBjb2Rl77yM5YGa6YCZ56iu6L2J5o+b55qE5bel5YW357Wx56ixIHRyYW5zbGF0b3LjgIIKCi0gcHJlcHJvY2Vzc29y77ya5paH5a2X5o+b5paH5a2X77yMQyDnmoQgYCNpbmNsdWRlYOOAgWAjZGVmaW5lYAotIGNvbXBpbGVy77ya6L2J5o+b5oiQ5Y+m5LiA56iu6Kqe6KiA77yM6YCa5bi45piv6auY6ZqO6L2J5L2O6ZqOCiAgLSBBT1QgY29tcGlsZXLvvJpnY2PjgIFydXN0Y++8jOWft+ihjOS5i+WJjee3qOitr+WujAogIC0gSklUIGNvbXBpbGVy77yaVjgg55qEIFR1cmJvRmFu44CBSG90U3BvdCDnmoQgQzLjgIFDTFIg55qEIFJ5dUpJVO+8jOWft+ihjOaZguaJjee3qOitr++8jOi8uOWFpeaYryBieXRlY29kZe+8jOS4jeaYryBzb3VyY2UKICAtIHRyYW5zcGlsZXLvvJpCYWJlbOOAgXRzY++8jOmrmOmajuaPm+WPpuS4gOeorumrmOmaju+8jOi8uOWHuumChOaYr+e1puS6uueci+eahOaWh+WtlwotIGFzc2VtYmxlcu+8mmFzc2VtYmx5IOaPmyBtYWNoaW5lIGNvZGUKLSBpbnRlcnByZXRlcu+8muS4jeeUouWHuuaWsOW9ouW8j++8jOebtOaOpeWft+ihjOOAguaXqeacn+eahCBCQVNJQyDot5/nj77lnKjnmoQgYmFzaCDoroAgc291cmNlIOaWh+Wtl++8jOS4gOihjOWBmuS4gOihjO+8m0NQeXRob27jgIFKVk0g6K6A55qE5piv5YWI57eo6K2v5aW955qEIGJ5dGVjb2RlCi0gbGlua2Vy77ya5LiN6L2J5o+b5b2i5byP77yM5Y+q5oqK5aSa5YCLIC5vIOaOpei1t+S+huOAguaJgOS7peWbm+eoriB0cmFuc2xhdG9yIOijoeaykuacieWug++8jOS9huW3peWFt+mPiOijoeaciQoKQyDnmoTlt6Xlhbfpj4jmmK8gcHJlcHJvY2Vzc29yIOKGkiBjb21waWxlciDihpIgYXNzZW1ibGVyIOKGkiBsaW5rZXLjgILlhbbku5boqp7oqIDlkITnlKjliLDlk6rlub7lgIvvvJoKCnwg6Kqe6KiAIHwgcHJlcHJvY2Vzc29yIHwgY29tcGlsZXIgfCBhc3NlbWJsZXIgfCBsaW5rZXIgfCDln7fooYzmmYIgfAp8LS0tfC0tLXwtLS18LS0tfC0tLXwtLS18CnwgQ+OAgUMrKyB8IOaciSB8IGdjY+OAgWNsYW5n44CBTVNWQyB8IOacie+8jGdjYyDkuqTntaYgYXPvvIxjbGFuZyDnlKggTExWTSDlhaflu7rnmoQgfCDmnIkgfCDnm7TmjqXot5EgbWFjaGluZSBjb2RlIHwKfCBSdXN0IHwgLe+8jG1hY3JvIOWxlemWi+WcqCBydXN0YyDlhacgfCBydXN0Y++8jOi1sCBMTFZNIHwgTExWTSDlhaflu7ogfCDmnIkgfCDnm7TmjqXot5EgfAp8IGFzc2VtYmx5IHwgLSB8IC0gfCDmnIkgfCDmnIkgfCDnm7TmjqXot5EgfAp8IEphdmEgfCAtIHwgamF2YWMg4oaSIC5jbGFzcyB8IC0gfCAtIHwgSG90U3BvdO+8jOebtOitr+WKoCBKSVQgfAp8IEMjIHwgLSB8IFJvc2x5biDihpIgSUwgfCAtIHwgLSB8IENMUiDnmoQgSklU77yM5oiWIE5hdGl2ZSBBT1QgfAp8IFB5dGhvbiB8IC0gfCDlhaflu7rvvIxzb3VyY2Ug4oaSIC5weWMgfCAtIHwgLSB8IENQeXRob24g55u06K2v77yMMy4xMyDotbflj6/plosgSklUIHwKfCBKYXZhU2NyaXB0IHwgLSB8IOW8leaTjuWFp+W7uu+8jHNvdXJjZSDihpIgYnl0ZWNvZGUgfCAtIHwgLSB8IFY4IOebtOitr+WKoCBKSVQgfAoKIyMg55u06K2v44CBSklU44CBQU9UIOW3ruWcqOS7gOm6vOaZguWAmee3qOitrwoKQU9UIOaYryBhaGVhZCBvZiB0aW1l77yM5Z+36KGM5YmN5bCx5oqKIG1hY2hpbmUgY29kZSDnlKLlpb3vvIxD44CBUnVzdOOAgUdvIOmDveaYr+OAgkpJVCDmmK8ganVzdCBpbiB0aW1l77yM5Z+36KGM5Lit5omN55SiIG1hY2hpbmUgY29kZeOAgmZvby5weSDplbfpgJnmqKPvvIzkuIDlgIvliqDms5Xlh73lvI/ooqvlkbzlj6vkuIDokKzmrKHvvJoKCmBgYHB5dGhvbgpkZWYgYWRkKGEsIGIpOgogICAgcmV0dXJuIGEgKyBiCgp0b3RhbCA9IDAKZm9yIGkgaW4gcmFuZ2UoMTBfMDAwKToKICAgIHRvdGFsID0gYWRkKHRvdGFsLCBpKQpwcmludCh0b3RhbCkKYGBgCgpgcHl0aG9uIGZvby5weWAg6YCZ5LiA5qyh5Z+36KGM55qE5pmC6ZaT6Lu477yM55u06K2v6LefIEpJVCDliIbliKXmmK/lk6rkuIDmraXvvJoKCmBgYArllZ/li5UKIOKGkiBjb21waWxlciDmiormlbTlgIsgZm9vLnB5IOe3qOaIkCBieXRlY29kZe+8iOS4gOasoeWBmuWujO+8m+ebtOaOpeWft+ihjOeahCBmb28ucHkg5LiN5a2YIC5weWPvvIzooqsgaW1wb3J0IOeahOaooee1hOaJjeWtmO+8iQog4oaSIOebtOitr+WZqOmWi+Wni+S4gOaineS4gOaineiugCBieXRlY29kZSDln7fooYwgICAgICAgICDihpAg44CM55u06K2v44CN5oyH6YCZ6KOhCiDihpIg77yI5pyJ6ZaLIEpJVCDnmoToqbHvvInmn5DmrrUgYnl0ZWNvZGUg6LeR5b6X5aSg5aSa5qyh77yM5YWI6L2J5oiQIG1pY3JvLW9wCiDihpIg5YaN5oqKIG1pY3JvLW9wIOe3qOaIkCBtYWNoaW5lIGNvZGUgICAgICAgICAgICAg4oaQIOOAjEpJVOOAjeaMh+mAmeijoQog4oaSIOS5i+W+jOWGjei3keWIsOmCo+aute+8jOebtOaOpeWft+ihjCBtYWNoaW5lIGNvZGXvvIzlhbbku5bmrrXnhafoiIrnm7Tora8K57WQ5p2fCmBgYAoKLSBjb21waWxl77yIc291cmNlIOWIsCBieXRlY29kZe+8ie+8mue/u+itr++8jOeUoueJqeaYryBieXRlY29kZe+8jOWft+ihjOWJjeWBmu+8jOaVtOWAi+aqlOahiOS4gOasoee3qOitr+WujAotIOebtOitr++8muS4jee/u+itr+aIkOWIpeeahOW9ouW8j++8jOiAjOaYr+iugOS4gOaineWwseWBmuS4gOaine+8jOaJgOS7peeUoueJqeS4jeaYr+aqlOahiO+8jOaYr+WLleS9nOOAguebtOitr+WZqOacrOi6q+aYr+S4gOWAi+W3sue2k+e3qOitr+WlveeahCBDIOWkp+i/tOWciO+8jOiugOWIsCBgQklOQVJZX09QICtgIOWwsei3s+WOu+Wft+ihjOOAjOWFqeWAiyBQeXRob24g54mp5Lu255u45Yqg44CN6YKj5q61IEPvvIzlho3oroDkuIvkuIDmop0KLSBKSVTvvJrnv7vora/vvIznlKLnianmmK8gbWFjaGluZSBjb2Rl77yM5Z+36KGM5Lit5YGa77yM5Y+q57eo6K2v6LeR5b6I5aSa5qyh55qE44CC55m854++IGBhICsgYmAg6LeR5LqG5bm+5Y2D5qyh44CBYeOAgWIg5q+P5qyh6YO95pivIGludO+8jOWwseeFp+mAmeWAi+Wei+WIpeeUoueUn+S4gOWwj+WhiuWwiOeUqOeahCBtYWNoaW5lIGNvZGUKCuesrOS4gOatpeeFp+Wtl+mdouS5n+aYr+OAjOWft+ihjOaZguaJjee3qOitr+OAje+8jOS9huWug+eUouWHuueahCBieXRlY29kZSBDUFUg5LiN6IO96LeR77yM6LefIGphdmFjIOaKiiAuamF2YSDnt6jmiJAgLmNsYXNzIOaYr+WQjOS4gOeoruWLleS9nO+8jOaykuS6uuiqqiBqYXZhYyDmmK8gSklU44CC5qWt55WM6KqqIEpJVO+8jOaMh+eahOaYr+e3qOaIkCBtYWNoaW5lIGNvZGUg6YKj5YCL44CCCgpKSVQg5pivIHJ1bnRpbWUg55qE5Yqf6IO977yM6Lef6Kqe6KiA54Sh6Zec44CCVjjjgIFIb3RTcG90IOmgkOioremWi++8jENQeXRob24gMy4xMyDotbflj6/ku6XplovvvIzliLAgMy4xNSDpgoTkuI3mmK/poJDoqK3vvJtpT1Mg5LiN5YeG5Z+36KGM5pmC55Si55SfIG1hY2hpbmUgY29kZSDlho3ln7fooYzvvIzmiYDku6UgLk5FVCBmb3IgaU9TIOWPquiDvSBBT1TjgIJKSVQg5Lmf6KaB6LeR5aSg5aSa5qyh5omN5pyJ5beu44CC5ZCM5LiA5pSvIE5vZGUg56iL5byP6ZaLIEpJVCDot58gYC0taml0bGVzc2Ag5ZCE6YeP5LiA5qyh77yM5Y+q6LeR5LiA5qyh5YWp6YKK5LiA5qij5b+r77yM6LeRIDMwMCDmrKEgSklUIOW/qyAxLjIzIOWAjeOAggoK5pyJ5Lqb6Kqe6KiA5Li75rWB5a+m5L2c5Y+q5pyJ5LiA56iu77yM5pyJ5Lqb5YWp56iu6YO95pyJ77yaCgp8IHwg6Kqe6KiAIHwg54K65LuA6bq8IHwKfC0tLXwtLS18LS0tfAp8IOWPquaciSBBT1QgfCBD44CBQysr44CBUnVzdOOAgUdv44CBU3dpZnQgfCDlnovliKXlnKjnt6jora/mmYLlhajpg6jnorrlrprvvIzmspLmnInln7fooYzmnJ/miY3nn6XpgZPnmoTos4foqIrntaYgSklUIOeUqCB8Cnwg5Y+q5pyJIEpJVCDmiJbnm7Tora8gfCDngI/opr3lmajoo6HnmoQgSmF2YVNjcmlwdCB8IOeoi+W8j+eivOaYr+Wft+ihjOaZguaJjeW+nue2sui3r+S4i+i8ieeahO+8jOaykuacieOAjOWft+ihjOWJjeOAjeWPr+S7pee3qOitryB8Cnwg5YWp56iu6YO95pyJIHwgSmF2YeOAgUMj44CBUHl0aG9u44CBRGFydCB8IEhvdFNwb3Qg5pivIEpJVOOAgUdyYWFsVk0gTmF0aXZlIEltYWdlIOaYryBBT1TvvJtDTFIg5pivIEpJVOOAgU5hdGl2ZSBBT1Qg5pivIEFPVO+8m0NQeXRob24g55u06K2v44CBTnVpdGthIOaYryBBT1TvvJtEYXJ0IOmWi+eZvOaZgiBKSVTjgIHnmbzluIPmmYIgQU9UIHwKCiMjIOiqsOeuoeiomOaGtumrlO+8n21hbmFnZWQg5bCNIHVubWFuYWdlZAoK6YCZ6Lef5LiK6Z2i6Kyb55qE5b2i5byP54Sh6Zec77yM5YiG55qE5piv6KiY5oa26auU55Sx6Kqw5Zue5pS277yaCgotIHJ1bnRpbWUg5Zue5pS277ya5pyJIEdD77yIZ2FyYmFnZSBjb2xsZWN0b3LvvInvvIznqIvlvI/lj6rnrqEgbmV377yM5LiN55So566hIGZyZWXjgIJKYXZh44CBQyPjgIFHb+OAgVB5dGhvbiDpg73mmK8KLSDkurroh6rlt7Hlm57mlLbvvJpDIOeahCBgbWFsbG9jYCDot58gYGZyZWVg44CC5b+Y5LqGIGZyZWUg5pivIGxlYWvvvIxmcmVlIOWFqeasoeaIluWkquaXqeaYryBjcmFzaAotIOe3qOitr+WZqOeul+WlveS7gOm6vOaZguWAmeWbnuaUtu+8mlJ1c3Qg55qEIG93bmVyc2hpcO+8jOiuiuaVuOmboumWiyBzY29wZSDnt6jora/lmajlsLHmj5LkuIDlj6Xph4vmlL7vvIzmspLmnIkgR0Mg5Lmf5LiN55So6Ieq5bex5a+rIGZyZWUKCm1hbmFnZWQgY29kZSDmmK8gLk5FVCDnmoTnlKjoqp7vvIzmjIdb56iL5byP55qE5Z+36KGM55SxIHJ1bnRpbWUg566hXShodHRwczovL2xlYXJuLm1pY3Jvc29mdC5jb20vZW4tdXMvZG90bmV0L3N0YW5kYXJkL21hbmFnZWQtY29kZSnvvJpydW50aW1lIOaKiuWug+e3qOaIkCBtYWNoaW5lIGNvZGUg5Z+36KGM77yM5Lmf6LKg6LKs5Zue5pS26KiY5oa26auU44CB5qqi5p+l5Z6L5Yil5a6J5YWo77yM5L6L5aaCIG51bGwg6Lef6Zmj5YiX6LaK55WM44CCQ+OAgUMrK+OAgVJ1c3Qg5pivIHVubWFuYWdlZOOAglB5dGhvbiDlmrTmoLzoqqrkuZ/nrKblkIggbWFuYWdlZCDnmoTlrprnvqnvvIzlj6rmmK/mspLkurrpgJnmqKPlj6vjgIIKCjxpZnJhbWUgc3JjPSIvZW1iZWRzL3RyYW5zbGF0b3JzLW5lc3RzL21hbmFnZWQiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjMwMCIgbG9hZGluZz0ibGF6eSIgc3R5bGU9ImJvcmRlcjowO292ZXJmbG93OmhpZGRlbjttYXgtd2lkdGg6NzAwcHg7ZGlzcGxheTpibG9jazttYXJnaW46MXJlbSBhdXRvIiB0aXRsZT0ibWFuYWdlZCB2cy4gdW5tYW5hZ2VkIj48L2lmcmFtZT4KCi5ORVQg6LefIEphdmEg55qEIG1hbmFnZWQgY29kZSDliZvlpb3lkIzmmYLmnIkgR0PjgIHot5HlnKggVk0g5LiK44CB5Z+36KGM5pmCIEpJVO+8jOaJgOS7peW4uOiiq+eVtuaIkOWQjOS4gOS7tuS6i++8jOeci+WIsCBBT1Qg57eo6K2v5oiQIG1hY2hpbmUgY29kZe+8jOWwseWuueaYk+S7peeCuuWug+iuiiB1bm1hbmFnZWTjgILkuInku7bkuovlkIToh6rnjajnq4vvvJoKCi0gbWFuYWdlZCDnnIvnmoTmmK/mnInmspLmnIkgcnVudGltZSDlnKjnrqHnqIvlvI/nmoTln7fooYzvvIxHQyDmmK/lhbbkuK3kuIDpoIUKLSBBT1Qg5oiWIEpJVCDnnIvnmoTmmK8gbWFjaGluZSBjb2RlIOS7gOm6vOaZguWAmeeUouWHugotIOacieaykuaciSBWTSDmmK/lj6bkuIDlm57kuovvvJpKYXZhIOacie+8jEdvIOaykuaciQoKR28g5pyJIEdD44CB5rKSIFZN44CBQU9UIOe3qOitr+OAgk5hdGl2ZSBBT1Qg55qEIEMjIOS5n+aYr+aciSBHQ+OAgeaykiBWTeOAgUFPVCDnt6jora/vvIznt6jora/lh7rkvobmmK8gbWFjaGluZSBjb2Rl77yM5Lmf6YKE5pivIG1hbmFnZWTjgIIKCiMjIOWJr+aqlOWQjeWwjeeFpwoKfCDlia/mqpTlkI0gfCDlhaflrrkgfCDoqrDnlKLlh7ogfCDln7fooYzmmYIgfCBtYW5hZ2VkIHwKfC0tLXwtLS18LS0tfC0tLXwtLS18CnwgLmMgLmNjIC5ycyAuZ28gLmphdmEgLmNzIC5weSAuanMgfCBzb3VyY2UgY29kZSB8IOS6uiB8IOeci+S4i+mdoiB8IOeci+S4i+mdoiB8CnwgLnMgLmFzbSB8IGFzc2VtYmx5IHwgYGdjYyAtU2DvvIzmiJbkurrmiYvlr6sgfCDkuI3ln7fooYzvvIzopoHlhYjntYTora8gfCB8CnwgLm8gLm9iaiB8IG9iamVjdCBjb2RlIHwgYXNzZW1ibGVyIHwg5LiN5Z+36KGM77yM6KaB5YWIIGxpbmsgfCB1bm1hbmFnZWQgfAp8IC5zbyAuZHlsaWLjgIFDKysg55qEIC5kbGwgfCBtYWNoaW5lIGNvZGXvvIzli5XmhYvpgKPntZAgfCBsaW5rZXIgfCDln7fooYzmmYLovInlhaXvvIxBT1QgfCB1bm1hbmFnZWQgfAp8IEVMRuOAgU1hY2gtT+OAgUMg55qEIC5leGUgfCBtYWNoaW5lIGNvZGUgfCBsaW5rZXIgfCDnm7TmjqXot5HvvIxBT1QgfCB1bm1hbmFnZWQgfAp8IC5weWMgfCBQeXRob24gYnl0ZWNvZGUgfCBDUHl0aG9uIOiHquWLlSB8IENQeXRob24g55u06K2v77ybMy4xMyDotbflj6/ku6XplosgSklUIHwg5pyJIEdD77yM5rKS5Lq65Y+r5a6DIG1hbmFnZWQgfAp8IC5jbGFzcyAuamFyIHwgSmF2YSBieXRlY29kZSB8IGphdmFj77yMamFyIOaYryB6aXAg6LW35L6GIHwgSlZNIOebtOitr+WKoCBKSVQgfCBtYW5hZ2VkIHwKfCAuZGV4IHwgQW5kcm9pZCDnmoQgYnl0ZWNvZGUgfCBkOCB8IEFSVCDnm7Tora/liqAgSklUIHwgbWFuYWdlZCB8CnwgLk5FVCDnmoQgLmRsbCAuZXhlIHwgQ0lMIOWKoCBtZXRhZGF0YSB8IFJvc2x5biB8IENMUiBKSVTvvJtOYXRpdmUgQU9UIOWHuuS+hueahCAuZXhlIOaYr+e0lCBtYWNoaW5lIGNvZGUgfCBtYW5hZ2VkIHwKfCAud2FzbSB8IFdlYkFzc2VtYmx5IOeahCBieXRlY29kZSB8IGVtY2PjgIFydXN0Y+OAgUdvIHwg54CP6Ka95Zmo5oiWIHdhc210aW1lIOeahCBKSVQgfCDnnIvoqp7oqIDvvIxSdXN0IOe3qOitr+eahOaykiBHQyB8CgrlkIzmqKPlj6sgLmRsbCDmiJYgLmV4Ze+8jEMrKyDnt6jora/lh7rkvobnmoToo6HpnaLmmK8gbWFjaGluZSBjb2Rl77yMQyMg55SoIFJvc2x5biDnt6jora/lh7rkvobnmoToo6HpnaLmmK8gQ0lM44CC6KaB5YiG6L6o55SoIGBmaWxlYCDmjIfku6TvvIzlroPkuI3nnIvlia/mqpTlkI3vvIzoroDmqpTmoYjplovpoK3lub7lgIsgYnl0ZXMg5Y675bCN5qC85byP6KGo77yaCgpgYGAKJCBmaWxlIHRyYW5zbGF0b3JzLWxpdGUubWQKdHJhbnNsYXRvcnMtbGl0ZS5tZDogVW5pY29kZSB0ZXh0LCBVVEYtOCB0ZXh0CiQgZmlsZSAvYmluL2xzCi9iaW4vbHM6IE1hY2gtTyB1bml2ZXJzYWwgYmluYXJ5IHdpdGggMiBhcmNoaXRlY3R1cmVzOiBbeDg2XzY0Ok1hY2gtTyA2NC1iaXQgZXhlY3V0YWJsZSB4ODZfNjRdIFthcm02NGU6TWFjaC1PIDY0LWJpdCBleGVjdXRhYmxlIGFybTY0ZV0KJCBmaWxlIFVuaXR5UGxheWVyLmRsbApVbml0eVBsYXllci5kbGw6IFBFMzIrIGV4ZWN1dGFibGUgKERMTCkgKGNvbnNvbGUpIHg4Ni02NCwgZm9yIE1TIFdpbmRvd3MKYGBgCgrlhannqK4gLmRsbCDpg73mmK8gUEUg5qC85byP77yM6ZaL6aCt6YO95pivIGBNWmAg5YWp5YCLIGJ5dGVz44CCLk5FVCDnmoTpgqPnqK7lpJrkuIDlgIsgQ0xSIGhlYWRlcu+8jGBmaWxlYCDmnIPlnKjlvozpnaLlpJrmqJnkuIDmrrUgYE1vbm8vLk5ldCBhc3NlbWJseWDvvJtDKysg55qE5rKS5pyJ6YCZ5YCLIGhlYWRlcu+8jOWwseWDj+S4iumdoiBVbml0eVBsYXllci5kbGwg6YKj6KGM77yM5Y+q5Y2w5YiwIHg4Ni02NOOAggoKIyMg5ZOq5Lqb6Kme5pyJ5YWp56iu5oSP5oCdCgotICoqYXNzZW1ibHkqKu+8mue1hOWQiOiqnuiogO+8jOaIluiAhSAuTkVUIOeahCAuZGxs44CBLmV4ZSDpgqPlgIvmqpTmoYjjgILlvozogIXlhaflrrnmmK8gQ0lMIOWKoCBtZXRhZGF0Ye+8jOi3n+e1hOWQiOiqnuiogOeEoemXnO+8jOe0lOeyueaSnuWQjQotICoqYmluYXJ5KirvvJrpgJnnr4flj6rmjIfkuI3mmK/ntJTnsrnmloflrZfmqpTnmoTmqpTmoYjjgIJtYWNoaW5lIGNvZGUg5pivIGJpbmFyee+8jC5weWPjgIEuY2xhc3Mg5Lmf5pivIGJpbmFyee+8jOS9huS4jeaYryBtYWNoaW5lIGNvZGXjgIJKYXZhIOimj+agvOijoSAuY2xhc3Mg5bCx5Y+r6YKj5pSv56iL5byP55qEIGJpbmFyeQotICoqSUzjgIFDSUzjgIFNU0lMKirvvJrkuInlgIvlkI3lrZflkIzkuIDlgIvmnbHopb/vvIwuTkVUIOeahCBieXRlY29kZeOAgklSIOaYr+mhnuWIpe+8jExMVk0gSVLjgIFieXRlY29kZeOAgUNJTCDpg73mmK/miJDlk6EKLSAqKuWJjeerr+ahhuaetueahCBBT1TjgIFKSVQqKu+8mlZ1ZeOAgUFuZ3VsYXIg6Kyb55qE5piv5qih5p2/5LuA6bq85pmC5YCZ57eo5oiQIHJlbmRlciBmdW5jdGlvbu+8jGJ1aWxkIOaZguWPqyBBT1TvvIzngI/opr3lmajoo6Hlj6sgSklU44CC5YWp56iu6Ly45Ye66YO96YKE5pivIEphdmFTY3JpcHTvvIzkuYvlvozpg73kuqTntaYgVjjvvIxWOCDoh6rlt7HpgqPlsaTnm7Tora/liqAgSklUIOi3n+ahhuaetumBuOWTquS4gOeorueEoemXnOOAgmBucG0gcnVuIGJ1aWxkYCDkuIDoiKzlgZrnmoTmmK8gdHJhbnNwaWxl44CBYnVuZGxl44CBbWluaWZ577ybQW5ndWxhciDlsIjmoYjkvovlpJbvvIxgbmcgYnVpbGRgIOW+niBBbmd1bGFyIDkg6LW36aCQ6Kit5bCx5pyD5YGa5qih5p2/55qEIEFPVAotICoqbmF0aXZlIGNvZGUqKu+8muacieaZguWAmeaYryBtYWNoaW5lIGNvZGUg55qE5ZCM576p6Kme77yM5pyJ5pmC5YCZ5oyHIHVubWFuYWdlZCBjb2Rl44CC6KaB5Y2A5YiGIG1hbmFnZWQg6LefIHVubWFuYWdlZCDnmoTmmYLlgJnvvIx1bm1hbmFnZWQg6YKj6YKK5omN5pyD6KKr5Y+r5oiQIG5hdGl2ZQoKU08g5LiKW+mAmemhjF0oaHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvMzQzNDIwMi93aGF0LWlzLXRoZS1kaWZmZXJlbmNlLWJldHdlZW4tbmF0aXZlLWNvZGUtbWFjaGluZS1jb2RlLWFuZC1hc3NlbWJseS1jb2RlKeeahOacgOmrmOelqOetlOahiOiyvOS6huS4gOautSBWaXN1YWwgU3R1ZGlvIOeahCBEaXNhc3NlbWJseSDoppbnqpfvvIzmmK8gQyMgaGVsbG8gd29ybGQg6KKrIEpJVCDnt6jora/kuYvlvoznmoTmqKPlrZDvvIzmr4/kuIDooYzkuInmrITvvJoKCmBgYAowMDAwMDAwMyAgRTggMzAgQkUgMDMgNkYgICAgIGNhbGwgIDZGMDNCRTM4ICAgICAgICAgIDsgQ29uc29sZS5PdXQgZ2V0dGVyCjAwMDAwMDBhICA4QiAxNSA4OCAyMCBCRCAwMiAgbW92ICAgZWR4LCBbMDJCRDIwODhoXQpgYGAKCuesrOS4gOashOaYr+S9jeWdgOOAguesrOS6jOashOeahCBoZXgg5pivIG1hY2hpbmUgY29kZe+8jENQVSDnm7TmjqXln7fooYznmoQgYnl0ZXPvvIxgOEJgIOWwseaYryBNT1bjgILnrKzkuInmrITmmK8gYXNzZW1ibHnvvIzlkIzkuIDmrrXmjIfku6TnmoTkurroroDniYjmnKzvvIzkuIDlsI3kuIDjgILpgJnmrrXmmK8gQ0xSIOeahCBKSVQg5b6eIENJTCDnt6jora/lh7rkvobnmoTvvIzmiYDku6XlroPmmK8gbWFjaGluZSBjb2Rl77yM56ym5ZCIIG5hdGl2ZSDnmoTnrKzkuIDlgIvmhI/mgJ3vvJtHQyDpgoTlnKjnrqHlroPvvIzmiYDku6XmmK8gbWFuYWdlZO+8jOS4jeespuWQiOesrOS6jOWAi+OAggoKIyMg6Kqw562J5pa86KqwCgotIElMID0gQ0lMID0gTVNJTO+8jC5ORVQg55qE5Lit6ZaT5b2i5byPCi0gTExWTSBJUuOAgWJ5dGVjb2Rl44CBYXNzZW1ibHkg6YO95pivIElSIOeahOS4gOeoru+8jOS9hiBieXRlY29kZSDiiaAgYXNzZW1ibHnvvIzlt67lnKjntoHkuI3ntoEgQ1BV44CB57Wm6Kqw6K6ACi0gQ0lMIOi3nyBKYXZhIGJ5dGVjb2RlIOaYr+WQjOS4gOmhnu+8jOWQhOiHqueahCBWTSDmmK8gQ0xSIOi3nyBKVk0KLSAuTkVUIOeahCBhc3NlbWJseSDiiaAgYXNzZW1ibHkgbGFuZ3VhZ2UKLSBhc3NlbWJseSDiiaAgYXNzZW1ibGVyIOeahOeUoueJqe+8jGFzc2VtYmx5IOe1piBhc3NlbWJsZXIg5LmL5b6M6K6K5Ye6IG9iamVjdCBjb2RlCi0gbWFjaGluZSBjb2RlIOaYryBiaW5hcnkg55qE5LiA56iu77yMYnl0ZWNvZGUg5qqU5Lmf5piv44CC5omA5Lul55yL5Yiw44CM57eo5oiQIGJpbmFyeeOAjeS4jeiDveaOqOWug+aYryBtYWNoaW5lIGNvZGXvvIxKYXZhIOimj+agvOWwseWPqyAuY2xhc3Mg5pivIGJpbmFyee+8jOmCo+aYryBieXRlY29kZQotIG1hY2hpbmUgY29kZSA9IG5hdGl2ZSBjb2RlIOeahOesrOS4gOWAi+aEj+aAne+8jG5hdGl2ZSDnmoTnrKzkuozlgIvmhI/mgJ3mmK8gdW5tYW5hZ2VkCi0gbWFuYWdlZCDiiaAgSklU44CCR2/jgIFOYXRpdmUgQU9UIOeahCBDIyDmnIkgR0Mg5rKSIEpJVAotIEpWTSDot58gQ0xSIOeahOinkuiJsuS4gOaoo++8jOmDveaYryBydW50aW1l77ya5oqKIGJ5dGVjb2RlIOaqlOi8iemAsuS+huOAgee3qOaIkCBtYWNoaW5lIGNvZGUg5Z+36KGM44CB6KiY5oa26auU5Lqk57WmIEdD44CC5beu5Yil5ZyoIEpWTSDlhYjnm7Tora/vvIzot5HlvojlpJrmrKHnmoQgbWV0aG9kIOaJjeS6pOe1piBKSVTvvJtDTFIg5rKS5pyJ55u06K2v6YCZ5LiA5q2l77yMbWV0aG9kIOesrOS4gOasoeiiq+WRvOWPq+WwseeUqCBxdWljayBKSVQg57eo6K2v77yM6LeR5b6I5aSa5qyh5YaN55SoIG9wdGltaXppbmcgSklUIOmHjeaWsOe3qOitr+OAguiugOeahOaqlOS5n+S4jeWQjO+8mkpWTSDoroAgLmNsYXNzIOijoeeahCBKYXZhIGJ5dGVjb2Rl77yMQ0xSIOiugCAuZGxsIOijoeeahCBDSUwKCiMjIOW7tuS8uOmWseiugAoKLSBb5LiA6bue6YO95LiN5rex5YWl55qE5LqG6KejIENvbXBpbGVy44CBSW50ZXJwcmV0ZXIg5ZKMIFZNXShodHRwczovL3d3dy5zcHJlZXJlZC5jb20vYmxvZy9jb21waWxlcl9mb3JfZHVtbWllcykKLSBbV2hhdCBpcyB0aGUgZGlmZmVyZW5jZSBiZXR3ZWVuIG5hdGl2ZSBjb2RlLCBtYWNoaW5lIGNvZGUgYW5kIGFzc2VtYmx5IGNvZGU/XShodHRwczovL3N0YWNrb3ZlcmZsb3cuY29tL3F1ZXN0aW9ucy8zNDM0MjAyL3doYXQtaXMtdGhlLWRpZmZlcmVuY2UtYmV0d2Vlbi1uYXRpdmUtY29kZS1tYWNoaW5lLWNvZGUtYW5kLWFzc2VtYmx5LWNvZGUpCi0gW0hvdyBVbml0eSBTdXBwb3J0cyBDcm9zcy1QbGF0Zm9ybSBGZWF0dXJlXShodHRwczovL25pcmFqLXZpc2h3YWthcm1hLm1lZGl1bS5jb20vaG93LXVuaXR5LXN1cHBvcnRzLWNyb3NzLXBsYXRmb3JtLWZlYXR1cmUtYWU3MjIzMjFjZmEpCi0gW1NlZSBXaGF0IENvbXBpbGVyIE9wdGltaXphdGlvbiBEbyBGcm9tIExMVk0gSVJdKGh0dHBzOi8vbWVkaXVtLmNvbS9zdGFyYnVncy9zZWUtd2hhdC1jb21waWxlci1vcHRpbWl6YXRpb24tZG8tZnJvbS1sbHZtLWlyLWRmZDM3NzQyOTJjYikKLSBbSnVzdC1pbi1UaW1lIChKSVQpIGFuZCBBaGVhZC1vZi1UaW1lIChBT1QpIENvbXBpbGF0aW9uIGluIEFuZ3VsYXJdKGh0dHBzOi8vbGV2ZWx1cC5naXRjb25uZWN0ZWQuY29tL2p1c3QtaW4tdGltZS1qaXQtYW5kLWFoZWFkLW9mLXRpbWUtYW90LWNvbXBpbGF0aW9uLWluLWFuZ3VsYXItODUyOWYxZDZmYTlkKQotIFtBbmd1bGFyIEFPVCB2cyBKSVQgQ29tcGFyaXNvbl0oaHR0cHM6Ly9tZWRpdW0uY29tL0BTdWppdGhuYXRoL2FuZ3VsYXItYW90LXZzLWppdC1jb21wYXJpc29uLWNlMWQ5NmVkZTQ5MSkKLSBbVGhlIC5ORVQgRWNvc3lzdGVtOiBEaXZlIEludG8gUnVudGltZSBUb29scyBhbmQgTGFuZ3VhZ2VzXShodHRwczovL3N0YWNraWZ5LmNvbS9uZXQtZWNvc3lzdGVtLXJ1bnRpbWUtdG9vbHMtbGFuZ3VhZ2VzLykKLSBbTW9ubyxDTFIsLm5ldCxOZXQgRnJhbWV3b3Jr5LmL6Ze055qE5YWz57O7XShodHRwczovL2Jsb2cuY3Nkbi5uZXQveWluZm91cmV2ZXIvYXJ0aWNsZS9kZXRhaWxzLzEwODI1ODMxOSkK18:T502e,<p>Is CIL an assembly language? Is .NET code still managed after AOT compilation? Translator, compiler, interpreter, assembler, transpiler, JIT, AOT and managed often get mixed up. What does each one actually mean?</p>
+<h2>The forms between source code and machine code</h2>
+<p>Between high-level language, assembly language and machine language there are more forms. Follow <code>x = a + b</code> down the chain:</p>
+<iframe src="/embeds/translators-spectrum" width="100%" height="520" loading="lazy" style="border:0;overflow:hidden;max-width:700px;display:block;margin:1.5rem auto" title="Every form from source code to machine code"></iframe>
+<ul>
+<li><strong>source code</strong> (also high-level code): the text a person writes, <code>x = a + b</code></li>
+<li><strong>compiler IR</strong>, such as LLVM IR, rustc's MIR or GCC's GIMPLE: the compiler's own internal form, <code>%x = add nsw i32 %a, %b</code>. Most optimization happens here</li>
+<li><strong>assembly</strong> (asm, file extension .s): one CPU instruction per line, <code>add eax, ebx</code>. It only works for one CPU family</li>
+<li><strong>object code</strong> (.o or .obj): what the assembler produces. It is already machine code, but addresses of functions in other files are still placeholders</li>
+<li><strong>machine code</strong> (also native code): the bytes after the linker fills in those addresses, <code>01 d8</code>. The CPU runs these directly</li>
+</ul>
+<p>Bytecode is not on that line. Once source is compiled to bytecode, it goes to a virtual machine and never passes through assembly or object code. CPython's <code>BINARY_OP +</code>, the JVM's <code>iadd</code> and CIL's <code>add</code> are all instructions for a VM, not for any CPU. They are stored as .pyc, .class and .dll files; .NET's bytecode is called CIL, also IL or MSIL. An interpreter executes them one at a time, and a JIT compiles the most frequently run parts into machine code. Only at that point does the code rejoin the line above, at its last stop.</p>
+<p>Object code only exists in toolchains that have a linker. C, C++, Rust and Go produce one .o per file or package and hand them to the linker. Java's .class and C#'s .dll hold bytecode and have no linker step; the class loader or the CLR resolves names when it loads them. Python and JavaScript have no such layer at all. Machine code from a JIT goes straight into memory and is never written out as a .o.</p>
+<h3>What counts as IR</h3>
+<p>IR (intermediate representation) is any form that sits between what a person writes and what the CPU runs:</p>
+<pre><code>IR (the category)
+├─ MIR            rustc's own layer, before LLVM IR. The borrow checker runs here
+├─ LLVM IR        produced by clang and rustc. Typed, not tied to a CPU, usually never saved to disk
+├─ GIMPLE         gcc's internal form
+├─ Java bytecode  .class files from javac, read by the JVM
+├─ CIL            produced by Roslyn, stored in .dll files, read by the CLR. Also called IL or MSIL
+└─ assembly       text for the CPU, input to the assembler. Technically IR too, though rarely called that
+</code></pre>
+<p>Only assembly is tied to a CPU: x86 assembly is useless on ARM, while the others run anywhere. Each has a different reader: people and assemblers read assembly, VMs read bytecode and CIL, and LLVM IR exists for the compiler's optimization passes. LLVM IR still has types, and flags like <code>nsw</code>, which marks a signed addition that cannot overflow. JVM bytecode and CIL have types too (CPython's does not), but no flags like <code>nsw</code> for the optimizer. Assembly has no types at all, only registers and instructions. So LLVM IR is the highest level and assembly the lowest.</p>
+<p>CIL is not tied to a CPU and is read by a VM, so it belongs with Java bytecode, not with assembly (<a href="https://stackoverflow.com/questions/11701063/is-cil-an-assembly-language-and-jit-an-assembler">someone asked this on Stack Overflow</a>).</p>
+<h2>Which tools count as translators</h2>
+<p>A translator is any tool that converts code from one of those forms into another:</p>
+<ul>
+<li><strong>preprocessor</strong>: text to text, such as C's <code>#include</code> and <code>#define</code></li>
+<li><strong>compiler</strong>: one language into another, usually higher level into lower
+<ul>
+<li><strong>AOT compiler</strong>: gcc, rustc. Finishes before the program runs</li>
+<li><strong>JIT compiler</strong>: V8's TurboFan, HotSpot's C2, the CLR's RyuJIT. Compiles while the program runs, and its input is bytecode rather than source</li>
+<li><strong>transpiler</strong>: Babel, tsc. One high-level language into another, so the output is still text for people to read</li>
+</ul>
+</li>
+<li><strong>assembler</strong>: assembly into machine code</li>
+<li><strong>interpreter</strong>: produces no new form and executes the code directly. Early BASIC and today's bash read source text line by line. CPython and the JVM read bytecode that was compiled beforehand</li>
+<li><strong>linker</strong>: joins several .o files into one program without converting anything, so it is not counted among the translators even though every native toolchain has one</li>
+</ul>
+<p>C's toolchain is preprocessor, compiler, assembler, linker. Other languages use fewer:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Language</th><th>preprocessor</th><th>compiler</th><th>assembler</th><th>linker</th><th>At run time</th></tr></thead><tbody><tr><td>C, C++</td><td>yes</td><td>gcc, clang, MSVC</td><td>gcc calls <code>as</code>; clang uses LLVM's built-in one</td><td>yes</td><td>machine code runs directly</td></tr><tr><td>Rust</td><td>none; macros expand inside rustc</td><td>rustc, via LLVM</td><td>built into LLVM</td><td>yes</td><td>runs directly</td></tr><tr><td>assembly</td><td>-</td><td>-</td><td>yes</td><td>yes</td><td>runs directly</td></tr><tr><td>Java</td><td>-</td><td>javac → .class</td><td>-</td><td>-</td><td>HotSpot interprets, then JITs</td></tr><tr><td>C#</td><td>-</td><td>Roslyn → IL</td><td>-</td><td>-</td><td>CLR JIT, or Native AOT</td></tr><tr><td>Python</td><td>-</td><td>built in, source → .pyc</td><td>-</td><td>-</td><td>CPython interprets; JIT optional from 3.13</td></tr><tr><td>JavaScript</td><td>-</td><td>built into the engine, source → bytecode</td><td>-</td><td>-</td><td>V8 interprets, then JITs</td></tr></tbody></table>
+<h2>Interpreting, JIT and AOT: when does compilation happen</h2>
+<p>AOT (ahead of time) means machine code is ready before the program starts. C, Rust and Go work this way. JIT (just in time) means machine code is produced while the program runs. Take this foo.py, which calls a small function ten thousand times:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="python" data-theme="github-dark github-light"><code data-language="python" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">def</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> add</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(a, b):</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> a </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">+</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> b</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">total </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 0</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">for</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">in</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> range</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">10_000</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">):</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    total </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> add(total, i)</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">print</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(total)</span></span></code></pre></figure>
+<p>Running <code>python foo.py</code> goes like this:</p>
+<pre><code>start
+ → compile all of foo.py into bytecode (done once; the script run directly is not saved as .pyc, imported modules are)
+ → interpreter reads and executes bytecode one instruction at a time   ← "interpreting"
+ → (if JIT is on) once a piece of bytecode has run enough times, turn it into micro-ops
+ → compile those micro-ops into machine code                            ← "JIT"
+ → from then on, that piece runs the machine code; everything else is still interpreted
+end
+</code></pre>
+<p>The first step compiles to bytecode. It happens before execution and covers the whole file at once. Interpreting translates nothing: CPython's interpreter is a large loop written in C and already compiled, and when it reads <code>BINARY_OP +</code> it jumps to the C code that adds two Python objects, then reads the next instruction. The JIT step does translate, into machine code, and only for code that has run many times. Once it sees <code>a + b</code> run thousands of times with integers on both sides every time, it generates a small block of machine code specialised for that type.</p>
+<p>That first step also happens "at run time" in a literal sense. Nobody calls it JIT, though, because its output is bytecode the CPU cannot run. It is the same kind of step as javac turning .java into .class. In common usage, JIT always means compiling to machine code.</p>
+<p>JIT is a feature of a runtime, not of a language. V8 and HotSpot turn it on by default. CPython has offered it since 3.13, still off by default in 3.15. iOS forbids generating executable code at run time, so .NET on iOS can only use AOT. A JIT also needs repetition before it pays off. The same Node program, measured with JIT on and with <code>--jitless</code>, runs equally fast when run once, and 1.23 times faster with JIT when run 300 times.</p>
+<p>Some languages have one mainstream approach, others have both:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th></th><th>Language</th><th>Why</th></tr></thead><tbody><tr><td>AOT only</td><td>C, C++, Rust, Go, Swift</td><td>Every type is known at compile time, so a JIT would learn nothing new at run time</td></tr><tr><td>JIT or interpreter only</td><td>JavaScript in the browser</td><td>The code arrives over the network while the page runs, so there is no "before" to compile in</td></tr><tr><td>Both</td><td>Java, C#, Python, Dart</td><td>HotSpot is JIT, GraalVM Native Image is AOT. The CLR is JIT, Native AOT is AOT. CPython interprets, Nuitka compiles AOT. Dart uses JIT during development and AOT for release</td></tr></tbody></table>
+<h2>Who frees memory: managed and unmanaged</h2>
+<p>This has nothing to do with the forms above; it is about who frees memory:</p>
+<ul>
+<li><strong>the runtime</strong>, using a GC (garbage collector). The program allocates and never frees. Java, C#, Go and Python work this way</li>
+<li><strong>the programmer</strong>, with C's <code>malloc</code> and <code>free</code>. Forget to free and memory leaks; free twice or too early and the program crashes</li>
+<li><strong>the compiler</strong>, as in Rust's ownership model. When a variable goes out of scope, the compiler inserts the code that frees it. There is no GC, and the programmer never writes <code>free</code></li>
+</ul>
+<p>"Managed code" is a .NET term for <a href="https://learn.microsoft.com/en-us/dotnet/standard/managed-code">code whose execution is managed by a runtime</a>: the runtime compiles it to machine code and runs it, and also frees memory and enforces type safety, such as null and bounds checks. C, C++ and Rust are unmanaged. Python meets the definition too, but nobody calls it managed.</p>
+<iframe src="/embeds/translators-nests/managed" width="100%" height="300" loading="lazy" style="border:0;overflow:hidden;max-width:700px;display:block;margin:1rem auto" title="managed vs. unmanaged"></iframe>
+<p>Managed code in .NET and Java happens to have a GC, run on a VM and be JIT compiled, all at once. So the three often get treated as one property, and to assume that compiling C# ahead of time to machine code makes it unmanaged. They are independent:</p>
+<ul>
+<li>managed or not depends on whether a runtime manages execution; GC is one of its services</li>
+<li>AOT or JIT is about when machine code is produced</li>
+<li>whether there is a VM is another matter: Java has one, Go does not</li>
+</ul>
+<p>Go has a GC, no VM, and is compiled AOT. Native AOT C# is the same: it becomes machine code and is still managed.</p>
+<h2>File extensions</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Extension</th><th>Contents</th><th>Produced by</th><th>At run time</th><th>Managed</th></tr></thead><tbody><tr><td>.c .cc .rs .go .java .cs .py .js</td><td>source code</td><td>a person</td><td>see below</td><td>see below</td></tr><tr><td>.s .asm</td><td>assembly</td><td><code>gcc -S</code>, or written by hand</td><td>not run; assembled first</td><td></td></tr><tr><td>.o .obj</td><td>object code</td><td>assembler</td><td>not run; linked first</td><td>unmanaged</td></tr><tr><td>.so .dylib, C++ .dll</td><td>machine code, dynamically linked</td><td>linker</td><td>loaded at run time, AOT</td><td>unmanaged</td></tr><tr><td>ELF, Mach-O, C .exe</td><td>machine code</td><td>linker</td><td>runs directly, AOT</td><td>unmanaged</td></tr><tr><td>.pyc</td><td>Python bytecode</td><td>CPython, automatically</td><td>interpreted; JIT available since 3.13</td><td>has a GC, not called managed</td></tr><tr><td>.class .jar</td><td>Java bytecode</td><td>javac; a .jar is a zip of them</td><td>JVM interprets, then JITs</td><td>managed</td></tr><tr><td>.dex</td><td>Android bytecode</td><td>d8</td><td>ART interprets, then JITs</td><td>managed</td></tr><tr><td>.NET .dll .exe</td><td>CIL plus metadata</td><td>Roslyn</td><td>CLR JIT; a Native AOT .exe is pure machine code</td><td>managed</td></tr><tr><td>.wasm</td><td>WebAssembly bytecode</td><td>emcc, rustc, Go</td><td>JIT in the browser or wasmtime</td><td>depends on the language; Rust output has no GC</td></tr></tbody></table>
+<p>A .dll or .exe built by a C++ compiler holds machine code; one built from C# by Roslyn holds CIL. The <code>file</code> command tells them apart. It ignores the extension and reads the first few bytes of the file, then looks them up in a table of known formats:</p>
+<pre><code>$ file translators-lite.en.md
+translators-lite.en.md: Unicode text, UTF-8 text
+$ file /bin/ls
+/bin/ls: Mach-O universal binary with 2 architectures: [x86_64:Mach-O 64-bit executable x86_64] [arm64e:Mach-O 64-bit executable arm64e]
+$ file UnityPlayer.dll
+UnityPlayer.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+</code></pre>
+<p>Both kinds of .dll use the PE format and start with the two bytes <code>MZ</code>. A .NET one also carries a CLR header, and <code>file</code> adds <code>Mono/.Net assembly</code> to its output. A C++ one has no such header, so its line ends at x86-64, like UnityPlayer.dll above.</p>
+<h2>Terms with two meanings</h2>
+<ul>
+<li><strong>assembly</strong>: assembly language, or the .dll/.exe file in .NET. The .NET kind holds CIL and metadata and has nothing to do with assembly language. The shared name is a coincidence</li>
+<li><strong>binary</strong>: in this post, any file that is not plain text. Machine code is binary, and so are .pyc and .class files, which are not machine code. The Java specification calls a .class file the program's binary</li>
+<li><strong>IL, CIL, MSIL</strong>: three names for .NET's bytecode. IR is the category; LLVM IR, bytecode and CIL are members of it</li>
+<li><strong>AOT and JIT in frontend frameworks</strong>: in Vue and Angular these refer to when templates are compiled into render functions. At build time is AOT, in the browser is JIT. Either way the output is JavaScript, which V8 then interprets and JITs on its own terms. <code>npm run build</code> usually transpiles, bundles and minifies; Angular is the exception, where <code>ng build</code> has compiled templates AOT by default since Angular 9</li>
+<li><strong>native code</strong>: sometimes a synonym for machine code, sometimes a synonym for unmanaged code. The second meaning only comes up when contrasting managed and unmanaged, where C and C++ are the "native" side</li>
+</ul>
+<p>The top answer to <a href="https://stackoverflow.com/questions/3434202/what-is-the-difference-between-native-code-machine-code-and-assembly-code">this Stack Overflow question</a> shows a Visual Studio Disassembly window: a C# hello world after the JIT has compiled it. Each line has three columns:</p>
+<pre><code>00000003  E8 30 BE 03 6F     call  6F03BE38          ; Console.Out getter
+0000000a  8B 15 88 20 BD 02  mov   edx, [02BD2088h]
+</code></pre>
+<p>The first column is the address. The second is machine code, the bytes the CPU executes; <code>8B</code> is MOV. The third is the same instruction as assembly, one line per instruction. The CLR's JIT compiled this from CIL. That makes it machine code, which is native in the first sense. The GC still manages it, which makes it managed and not native in the second sense.</p>
+<h2>What equals what</h2>
+<ul>
+<li>IL = CIL = MSIL, .NET's intermediate form</li>
+<li>LLVM IR, bytecode and assembly are all kinds of IR, but bytecode ≠ assembly. Assembly is tied to a CPU and read by an assembler; bytecode runs on any CPU and is read by a VM</li>
+<li>CIL and Java bytecode belong to the same group; the CLR reads one, the JVM the other</li>
+<li>.NET assembly ≠ assembly language</li>
+<li>assembly ≠ what the assembler produces; the assembler turns assembly into object code</li>
+<li>machine code is binary, and so are bytecode files. Calling something "compiled to a binary" does not mean it is machine code: the Java specification calls a .class file a binary, and it holds bytecode</li>
+<li>machine code = native code in its first sense; the second sense means unmanaged</li>
+<li>managed ≠ JIT. Go and Native AOT C# have a GC and no JIT</li>
+<li>the JVM and the CLR do the same job. Each loads bytecode files, compiles them to machine code and runs them, and leaves memory to a GC. The difference is that the JVM interprets first and sends frequently called methods to a JIT, while the CLR has no interpreter: a method is compiled by the quick JIT on its first call and recompiled by the optimizing JIT once it runs often. The JVM reads Java bytecode from .class files, and the CLR reads CIL from .dll files</li>
+</ul>
+<h2>Further reading</h2>
+<ul>
+<li><a href="https://www.spreered.com/blog/compiler_for_dummies">一點都不深入的了解 Compiler、Interpreter 和 VM</a> (in Chinese)</li>
+<li><a href="https://stackoverflow.com/questions/3434202/what-is-the-difference-between-native-code-machine-code-and-assembly-code">What is the difference between native code, machine code and assembly code?</a></li>
+<li><a href="https://niraj-vishwakarma.medium.com/how-unity-supports-cross-platform-feature-ae722321cfa">How Unity Supports Cross-Platform Feature</a></li>
+<li><a href="https://medium.com/starbugs/see-what-compiler-optimization-do-from-llvm-ir-dfd3774292cb">See What Compiler Optimization Do From LLVM IR</a></li>
+<li><a href="https://levelup.gitconnected.com/just-in-time-jit-and-ahead-of-time-aot-compilation-in-angular-8529f1d6fa9d">Just-in-Time (JIT) and Ahead-of-Time (AOT) Compilation in Angular</a></li>
+<li><a href="https://medium.com/@Sujithnath/angular-aot-vs-jit-comparison-ce1d96ede491">Angular AOT vs JIT Comparison</a></li>
+<li><a href="https://stackify.com/net-ecosystem-runtime-tools-languages/">The .NET Ecosystem: Dive Into Runtime Tools and Languages</a></li>
+<li><a href="https://blog.csdn.net/yinfourever/article/details/108258319">Mono,CLR,.net,Net Framework之间的关系</a> (in Chinese)</li>
+</ul>9:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L14",null,{"htmlContent":"$15","rawContent":"$16","base64Content":"$17","title":"Translators Everywhere All at Once","createdAt":"2026-09-24T17:00:39.000Z","updatedAt":"$undefined","tags":["compiler","jit","python","dotnet"],"altHtmlContent":"$18","altTitle":"Translators Everywhere All at Once","currentLang":"zh","altLang":"en","canonicalPath":"/v2/translators-lite"}]}]}]

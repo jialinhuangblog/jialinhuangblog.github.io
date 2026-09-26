@@ -1,0 +1,730 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-d71161f4b52714e4.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-d71161f4b52714e4.js"],"default"]
+4:I[47843,["7177","static/chunks/app/layout-d71161f4b52714e4.js"],"default"]
+5:I[48350,[],""]
+6:I[11412,[],""]
+7:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+8:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-6e2326ce7d294bfd.js"],"default"]
+a:I[96727,[],"OutletBoundary"]
+c:I[14038,[],"AsyncMetadataOutlet"]
+e:I[96727,[],"ViewportBoundary"]
+10:I[96727,[],"MetadataBoundary"]
+11:"$Sreact.suspense"
+13:I[92950,[],""]
+:HL["/_next/static/media/4c9affa5bc8f420e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/8feafdfc51f7196d.css","style"]
+:HL["/_next/static/css/27451c99e2657f58.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/0dff27001301522e.css","style"]
+0:{"P":null,"b":"GufBoBqfyMhQxSI4RHjKk","p":"","c":["","v2","page-load-eight-subtractions.en"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","page-load-eight-subtractions.en","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8feafdfc51f7196d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/27451c99e2657f58.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href=\"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap\";document.head.appendChild(l)})()"}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L8",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","page-load-eight-subtractions.en","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/0dff27001301522e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$La",null,{"children":["$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L10",null,{"children":["$","div",null,{"hidden":true,"children":["$","$11",null,{"fallback":null,"children":"$L12"}]}]}]]}],false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+b:null
+d:{"metadata":[["$","title","0",{"children":"1128 ms to load 14 KB of HTML. Where did it go?  | jialinhuang"}],["$","meta","1",{"name":"description","content":"The browser keeps a timestamp for every stage of a page load. Read them as subtractions and the slow stage stands out."}],["$","link","2",{"rel":"canonical","href":"/v2/page-load-eight-subtractions"}]],"error":null,"digest":"$undefined"}
+12:"$d:metadata"
+14:I[25885,["7654","static/chunks/7654-83ccbd1e1704d338.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+15:Tb673,<p>The home page of this site is 14 KB of HTML. With its scripts, styles and fonts it is about 300 KB on the wire. A cold start took 1128 ms. Which stage took the time?</p>
+<p>The browser already knows. Paste this into the console of any page:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">performance.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">getEntriesByType</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'navigation'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)[</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">]</span></span></code></pre></figure>
+<p>It returns one object. Here is the one from that cold start, trimmed to the timestamps, all in milliseconds from the moment the navigation started:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  fetchStart</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:                   </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">0.6</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  domainLookupStart</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:            </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">0.9</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  domainLookupEnd</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:             </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">74.2</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  connectStart</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:                </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">74.2</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  secureConnectionStart</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:      </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">226.2</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  connectEnd</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:                 </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">287.9</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  requestStart</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:               </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">288.0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  responseStart</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:              </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">522.7</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  responseEnd</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:                </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">523.0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  domInteractive</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:             </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">889.9</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  domContentLoadedEventStart</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">889.9</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  domContentLoadedEventEnd</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:   </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">890.6</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  domComplete</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:               </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">1127.6</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  loadEventStart</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:            </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">1127.7</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  loadEventEnd</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:              </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">1127.8</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  duration</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:                  </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">1127.8</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  transferSize</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:                </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">4076</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  decodedBodySize</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:            </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">14187</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  nextHopProtocol</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:             </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"h2"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>This object follows the W3C spec <a href="https://www.w3.org/TR/navigation-timing-2/">Navigation Timing Level 2</a> (Working Draft, this revision dated 2026-09-01); the API is <a href="https://developer.mozilla.org/en-US/docs/Web/API/PerformanceNavigationTiming"><code>PerformanceNavigationTiming</code></a>. The Navigation Timing diagram redrawn in the iframe below comes from the first version, <a href="https://www.w3.org/TR/navigation-timing/">Level 1</a> (W3C Recommendation, 2012-12-17), in its <a href="https://www.w3.org/TR/navigation-timing/#processing-model">Processing Model</a> section; its API is <a href="https://developer.mozilla.org/en-US/docs/Web/API/Performance/timing"><code>performance.timing</code></a>, now marked deprecated on MDN. Most field names are the same in both. The differences are where the clock starts and a few fields Level 2 dropped, listed at the end.</p>
+<p><code>domainLookupEnd − domainLookupStart</code> = 74.2 − 0.9 = 73 ms, the time DNS took. Every other stage is the same kind of subtraction between its two ends. Every box of the original diagram is below, including the ones that were 0 this time:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Stage</th><th>Subtraction</th><th>This load</th><th>What the browser is waiting for</th></tr></thead><tbody><tr><td>Prompt for unload</td><td>no Level 2 timestamp</td><td></td><td>the previous page's <a href="https://developer.mozilla.org/en-US/docs/Web/API/Window/beforeunload_event"><code>beforeunload</code></a> dialog</td></tr><tr><td>unload</td><td>unloadEventEnd − unloadEventStart</td><td>0 ms</td><td>the previous page's unload handlers</td></tr><tr><td>redirect</td><td>redirectEnd − redirectStart</td><td>0 ms</td><td>HTTP redirects before the final URL</td></tr><tr><td>App cache</td><td>domainLookupStart − fetchStart</td><td>0.3 ms</td><td>the original diagram's App cache is the application cache check, since removed from browsers; <a href="https://www.w3.org/TR/navigation-timing/#dom-performancetiming-fetchstart">Level 1 defines <code>fetchStart</code></a> as the moment before that check. <a href="https://www.w3.org/TR/resource-timing-2/#dom-performanceresourcetiming-fetchstart">Level 2's <code>fetchStart</code></a> is the post-redirect start of the fetch; these 0.3 ms have no name in Level 2</td></tr><tr><td>DNS</td><td>domainLookupEnd − domainLookupStart</td><td>73 ms</td><td>the domain name to become an IP address</td></tr><tr><td>TCP</td><td>secureConnectionStart − connectStart</td><td>152 ms</td><td>the TCP handshake, one round trip when nothing goes wrong. This load's 152 is not handshake time, see the next section</td></tr><tr><td>TLS</td><td>connectEnd − secureConnectionStart</td><td>62 ms</td><td>the certificate exchange. <a href="https://developer.mozilla.org/en-US/docs/Web/API/PerformanceResourceTiming/secureConnectionStart"><code>secureConnectionStart</code> is taken just before the TLS handshake, 0 on plain http</a></td></tr><tr><td>Request</td><td>responseStart − requestStart</td><td>235 ms</td><td>the server to send the first byte (TTFB). <a href="https://developer.mozilla.org/en-US/docs/Web/API/PerformanceResourceTiming/responseStart"><code>responseStart</code> is taken right after the first byte arrives</a></td></tr><tr><td>Response</td><td>responseEnd − responseStart</td><td>0.3 ms</td><td>the rest of the bytes</td></tr><tr><td>Parse</td><td>domInteractive − responseEnd</td><td>367 ms</td><td>the HTML parser, plus whatever the parser stops to wait for. <a href="https://developer.mozilla.org/en-US/docs/Web/API/PerformanceNavigationTiming/domInteractive"><code>domInteractive</code> is taken just before readyState becomes interactive</a></td></tr><tr><td>Deferred scripts</td><td>domContentLoadedEventStart − domInteractive</td><td>0 ms</td><td><code>&#x3C;script defer></code> to run</td></tr><tr><td>DOMContentLoaded</td><td>domContentLoadedEventEnd − domContentLoadedEventStart</td><td>0.7 ms</td><td>the page's DOMContentLoaded handlers</td></tr><tr><td>Subresources</td><td>domComplete − domContentLoadedEventEnd</td><td>237 ms</td><td>images, fonts, iframes, async scripts</td></tr><tr><td>onload</td><td>loadEventEnd − loadEventStart</td><td>0.1 ms</td><td>the page's load handlers</td></tr></tbody></table>
+<p>The thirteen rows with a value do not overlap, and together they cover almost the whole load: 522 ms from redirect through Response, 605 ms from Parse through onload, plus 0.6 ms between startTime and fetchStart, 1128 ms in total. The only time no row covers is two gaps of 0.1 ms each, connectEnd to requestStart and domComplete to loadEventStart. Most of Parse's 367 ms is spent waiting for stylesheets to come back over the network, with numbers in the next section. The 14 KB of HTML itself took only 0.3 ms to arrive (the Response row).</p>
+<p>That was one load on my machine. Below is the Navigation Timing diagram itself, all ten boxes and all twenty one timestamps, with the numbers replaced by the load you are looking at right now, read from this page's own entry. This iframe is itself one of the page's subresources, so Processing and Subresources both include the time it took to load the iframe:</p>
+<iframe src="/embeds/nav-timing" width="100%" height="1500" style="border:none;" scrolling="no" title="Navigation Timing: the load of this page"></iframe>
+<h2>Each stage's blocking issue</h2>
+<ul>
+<li><strong>unload, redirect, App cache</strong>: always 0 on this site. unload is set only when the previous page was on the same origin, <a href="https://developer.mozilla.org/en-US/docs/Web/API/PerformanceNavigationTiming/unloadEventStart">0 otherwise</a>. redirect is 0 because <a href="https://groups.google.com/a/chromium.org/g/blink-dev/c/cAS525en8XE">since Chrome 115</a> the browser upgrades <code>http://</code> to <code>https://</code> before sending the request, so the server's 301 for <code>http://</code> is never followed.</li>
+<li><strong>DNS</strong>: the first lookup took 73 ms. After that the answer stays in the operating system's resolver cache, which a fresh browser profile does not clear, so only the first of five cold starts was not 0.</li>
+<li><strong>TCP</strong>: a handshake needs at least one round trip, and ping from this machine to the server is 42 to 54 ms. No code removes that; only a CDN moves the endpoint closer. The 152 ms in the table is an exception: halfway through TLS on that load, Chrome swapped its certificate verifier and reopened the connection, so it measured two connections. In a Chrome netlog recorded separately (a log of the connection steps), each single handshake took 46 to 68 ms. Only starting a new Chrome for every measurement runs into this.</li>
+<li><strong>TLS</strong>: a TLS 1.2 handshake takes two round trips and TLS 1.3 takes one; a connection that is not reused is also slow. <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Connection_management_in_HTTP_1.x">HTTP/1.1 keeps connections open by default</a> and HTTP/2 and HTTP/3 multiplex one connection, so TLS usually happens once per origin.</li>
+<li><strong>Request</strong>: the server handling the request. For a static file, a long TTFB usually means the CDN had no cached copy; for server rendering, the time mostly goes to the render function. <a href="/v2/spa-is-not-csr-rendering-strategies">Rendering strategy</a> mainly affects this stage.</li>
+<li><strong>Response</strong>: the HTML is large, or not compressed. Compare <code>encodedBodySize</code> with <code>decodedBodySize</code> (<code>transferSize</code> includes headers, so it does not work for this). Here <code>encodedBodySize</code> is 3772 and it decodes to 14187, so compression is on.</li>
+<li><strong>Parse</strong>: the same HTML takes 5 to 10 ms on reload and 198 to 424 ms on a cold start; the difference is all waiting for stylesheets. <code>&#x3C;body></code> has inline <code>&#x3C;script></code> elements, and <a href="https://html.spec.whatwg.org/multipage/scripting.html#script-processing-model">the HTML spec makes them wait for stylesheets in <code>&#x3C;head></code> that are still loading</a>, so the parser stops too. Five more cold starts with a script that also records each resource's timing put <code>domInteractive</code> 1 to 29 ms after the last stylesheet finished, every time. One of the three stylesheets is cross-site, <code>fonts.googleapis.com</code>, and it alone costs an extra DNS lookup plus a new connection, 57 to 138 ms. So a faster Parse on this site means inlining the stylesheets, preloading them, or dropping the cross-site origin.</li>
+<li><strong>Deferred scripts</strong>: <code>&#x3C;script defer></code> runs after parsing and before <code>DOMContentLoaded</code>, and <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/script#defer"><code>DOMContentLoaded</code> waits for it</a>. This site loads its chunks with <code>async</code>, which does not delay <code>DOMContentLoaded</code>, so this is 0 here. If a page loads <code>&#x3C;script defer src="app.js"></code> and <code>app.js</code> takes 300 ms to run, those 300 ms show up in Deferred scripts.</li>
+<li><strong>Subresources</strong>: <a href="https://developer.mozilla.org/en-US/docs/Web/API/Window/load_event"><code>load</code> waits for images, scripts and iframes</a>. MDN does not list fonts, but they count: on a test page whose only slow resource is a 2 s font, <code>load</code> came 2 s later. The article page <a href="/v2/from-setstate-to-pixels">from-setstate-to-pixels</a> embeds a cross-site iframe. Across five runs of the script that records resource timing this stage took 487 to 596 ms, nearly all of it waiting for that iframe: <code>domComplete</code> came 0.2 to 1.7 ms after the iframe finished.</li>
+</ul>
+<h2>Five cold starts, and one reload</h2>
+<p>Each cold start is a fresh headless Chrome 153, fresh profile, fresh disk cache, one navigation, between noon and 3 pm Taipei time. The reload is the same browser loading the home page and then loading it again through the DevTools protocol's <code>Page.reload</code>; the entry's <code>type</code> is <code>reload</code>. The article page is <code>/v2/from-setstate-to-pixels</code>.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Stage</th><th>Home page, cold start ×5</th><th>Article page, cold start ×5</th><th>Home page, reload ×3</th></tr></thead><tbody><tr><td>DNS</td><td>0 to 73 ms</td><td>0 to 1 ms</td><td>0</td></tr><tr><td>TCP + TLS</td><td>127 to 214 ms</td><td>115 to 167 ms</td><td>0</td></tr><tr><td>Request (TTFB)</td><td>49 to 235 ms</td><td>50 to 244 ms</td><td>49 to 51 ms</td></tr><tr><td>Response</td><td>0.3 ms</td><td>14 to 19 ms</td><td>0.5 to 1.1 ms</td></tr><tr><td>Parse</td><td>198 to 424 ms</td><td>221 to 356 ms</td><td>5 to 10 ms</td></tr><tr><td>Subresources</td><td>125 to 237 ms</td><td>496 to 909 ms</td><td>10 to 17 ms</td></tr><tr><td>Total</td><td>555 to 1128 ms</td><td>939 to 1677 ms</td><td>66 to 81 ms</td></tr><tr><td>HTML transferred (transferSize)</td><td>4076 B</td><td>28585 B</td><td>300 B</td></tr></tbody></table>
+<p>On reload the HTML moved only 300 bytes while <code>decodedBodySize</code> stayed at 14187: 300 bytes is room for headers, and <a href="https://developer.mozilla.org/en-US/docs/Web/API/PerformanceResourceTiming/transferSize">the body came from the browser cache</a>. DNS and TCP are 0 because the connection was reused; Request is still 49 to 51 ms, the same as a ping, one round trip asking the server whether the copy is still fresh. The spread inside one column is as wide as the difference between columns: TTFB on the home page went from 49 to 235 ms with nothing changed.</p>
+<details>
+<summary>The measurement script</summary>
+<p>Node 22, macOS, Chrome installed at the default path. The script reads the entry after <code>load</code>. The reload column uses the same script plus one step: after the first <code>load</code>, send <code>Page.reload</code> and read the entry again. The stylesheet timings come from a sibling script that also dumps <code>performance.getEntriesByType('resource')</code>. The font test is a local page whose only slow resource is a font file delayed by 2 s.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// node cold.mjs &#x3C;url> &#x3C;runs></span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">import</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> { spawn } </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">from</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'node:child_process'</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">import</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> { mkdtempSync } </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">from</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'node:fs'</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">import</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> { tmpdir } </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">from</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'node:os'</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">import</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> { join } </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">from</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'node:path'</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> [</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">url</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">runsArg</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">] </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> process.argv.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">slice</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">2</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> sleep</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209"> ms</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =></span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> new</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> Promise</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">r</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =></span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> setTimeout</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(r, ms))</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">async</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> once</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">port</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> profile</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> mkdtempSync</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">join</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">tmpdir</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(), </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'chrome-prof-'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">))</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> cache</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> mkdtempSync</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">join</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">tmpdir</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(), </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'chrome-cache-'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">))</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> chrome</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> spawn</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, [</span></span>
+<span data-line=""><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">    '--headless=new'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">`--remote-debugging-port=${</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">port</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">}`</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">    `--user-data-dir=${</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">profile</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">}`</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">`--disk-cache-dir=${</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">cache</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">}`</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">    '--no-first-run'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'about:blank'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  ], { stdio: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'ignore'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> })</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  let</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> targets</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  for</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">let</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">; i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">&#x3C;</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 40</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">; i</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">++</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> sleep</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">250</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    try</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> { targets </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> await</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> fetch</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">`http://127.0.0.1:${</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">port</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">}/json`</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)).</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">json</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(); </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">break</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> } </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">catch</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {}</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  }</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> ws</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> new</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> WebSocket</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(targets.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">find</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">t</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> t.type </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">===</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'page'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">).webSocketDebuggerUrl)</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  await</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> new</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> Promise</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">r</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> ws.onopen </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> r)</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  let</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> id </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 0</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> pending</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> new</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> Map</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  ws.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">onmessage</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209"> e</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> { </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> m</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> JSON</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">parse</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(e.data); </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (pending.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">has</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(m.id)) { pending.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">get</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(m.id)(m); pending.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">delete</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(m.id) } }</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  const</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> send</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">method</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">params</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {}) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> new</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> Promise</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">r</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> { pending.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">set</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">++</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">id, r); ws.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">send</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">JSON</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">stringify</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">({ id, method, params })) })</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> send</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'Page.enable'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> send</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'Page.navigate'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, { url })</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  let</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> entry</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  for</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">let</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">; i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">&#x3C;</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 120</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">; i</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">++</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> sleep</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">250</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> r</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> send</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'Runtime.evaluate'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, { returnByValue: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">true</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">      expression: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">`JSON.stringify(performance.getEntriesByType('navigation')[0]?.toJSON() ?? null)`</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> })</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    entry </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> JSON</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">parse</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(r.result.result.value)</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (entry </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">&#x26;&#x26;</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> entry.loadEventEnd </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">></span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">break</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  ws.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">close</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  chrome.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">kill</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> entry</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> all</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> []</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">for</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">let</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">; i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">&#x3C;</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> Number</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(runsArg </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">||</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 5</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">); i</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">++</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) all.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">push</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> once</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">9400</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> +</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> i))</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">JSON</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">stringify</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(all))</span></span></code></pre></figure>
+</details>
+<h2>Which Level 1 timestamps did Level 2 drop</h2>
+<ul>
+<li><strong>navigationStart</strong>: Level 2 changed clocks. Level 1's values are absolute milliseconds since 1970; Level 2 uses <code>DOMHighResTimeStamp</code> counted from the time origin, so <a href="https://www.w3.org/TR/navigation-timing-2/#dom-performancetiming-navigationstart">the start is always 0</a>. The reasons are that <a href="https://www.w3.org/TR/hr-time-3/">an absolute clock can go backwards when the system clock is adjusted and only resolves to a millisecond</a>. navigationStart became the 0 of <code>startTime</code>.</li>
+<li><strong>domLoading</strong>: browsers create the Document at different moments, Chrome before the response begins, IE when it starts, Firefox after buffering some of it, so the value measured an implementation detail. <a href="https://github.com/w3c/navigation-timing/issues/13">Issue #13</a> proposed removing it in 2015 and <a href="https://www.w3.org/TR/navigation-timing-2/#obsolete-heading">the spec added a deprecation note</a>. The closest value is <code>responseEnd</code>.</li>
+<li><strong>Prompt for unload</strong>: happens before <code>navigationStart</code>, since <a href="https://www.w3.org/TR/navigation-timing/#sec-navigation-timing-interface">Level 1 defines the start as the moment right after prompting to unload the previous document</a>, so neither version has a timestamp for it; the diagram draws the box only to show what precedes the start.</li>
+</ul>
+<p>The gap between <code>startTime</code> and <code>fetchStart</code> has no name. unload and redirect would fall in that span if they happened, and both were 0 here; a <code>redirectStart</code> of 0 means there was no redirect, not that a redirect took 0 ms.</p>
+<h2>References</h2>
+<ul>
+<li><a href="https://www.w3.org/TR/navigation-timing/">Navigation Timing</a>, W3C Recommendation, 2012-12-17. Level 1, where the original diagram comes from; the image is <a href="https://www.w3.org/TR/navigation-timing/timing-overview.png">timing-overview.png</a>.</li>
+<li><a href="https://www.w3.org/TR/navigation-timing-2/">Navigation Timing Level 2</a>, W3C Working Draft. The current spec; its processing model defines when each timestamp is taken.</li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/PerformanceNavigationTiming">PerformanceNavigationTiming</a> on MDN. Every property, with a diagram of the order they fire in.</li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Performance/timing">Performance.timing</a> on MDN. The deprecated Level 1 interface, kept here for reading old diagrams.</li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/script">The script element</a> on MDN. When a plain, <code>async</code>, or <code>defer</code> script runs.</li>
+<li><a href="https://blog.chromium.org/2023/08/towards-https-by-default.html">Towards HTTPS by default</a>, Chromium Blog, 2023-08-16. The announcement of Chrome upgrading http to https on its own.</li>
+<li><a href="https://web.dev/articles/critical-rendering-path/measure-crp">Measure the Critical Rendering Path</a> on web.dev. The same subtractions, applied to the first render.</li>
+</ul>16:T3fb4,
+The home page of this site is 14 KB of HTML. With its scripts, styles and fonts it is about 300 KB on the wire. A cold start took 1128 ms. Which stage took the time?
+
+The browser already knows. Paste this into the console of any page:
+
+```js
+performance.getEntriesByType('navigation')[0]
+```
+
+It returns one object. Here is the one from that cold start, trimmed to the timestamps, all in milliseconds from the moment the navigation started:
+
+```js
+{
+  fetchStart:                   0.6,
+  domainLookupStart:            0.9,
+  domainLookupEnd:             74.2,
+  connectStart:                74.2,
+  secureConnectionStart:      226.2,
+  connectEnd:                 287.9,
+  requestStart:               288.0,
+  responseStart:              522.7,
+  responseEnd:                523.0,
+  domInteractive:             889.9,
+  domContentLoadedEventStart: 889.9,
+  domContentLoadedEventEnd:   890.6,
+  domComplete:               1127.6,
+  loadEventStart:            1127.7,
+  loadEventEnd:              1127.8,
+  duration:                  1127.8,
+  transferSize:                4076,
+  decodedBodySize:            14187,
+  nextHopProtocol:             "h2",
+}
+```
+
+This object follows the W3C spec [Navigation Timing Level 2](https://www.w3.org/TR/navigation-timing-2/) (Working Draft, this revision dated 2026-09-01); the API is [`PerformanceNavigationTiming`](https://developer.mozilla.org/en-US/docs/Web/API/PerformanceNavigationTiming). The Navigation Timing diagram redrawn in the iframe below comes from the first version, [Level 1](https://www.w3.org/TR/navigation-timing/) (W3C Recommendation, 2012-12-17), in its [Processing Model](https://www.w3.org/TR/navigation-timing/#processing-model) section; its API is [`performance.timing`](https://developer.mozilla.org/en-US/docs/Web/API/Performance/timing), now marked deprecated on MDN. Most field names are the same in both. The differences are where the clock starts and a few fields Level 2 dropped, listed at the end.
+
+`domainLookupEnd − domainLookupStart` = 74.2 − 0.9 = 73 ms, the time DNS took. Every other stage is the same kind of subtraction between its two ends. Every box of the original diagram is below, including the ones that were 0 this time:
+
+| Stage | Subtraction | This load | What the browser is waiting for |
+|---|---|---|---|
+| Prompt for unload | no Level 2 timestamp | | the previous page's [`beforeunload`](https://developer.mozilla.org/en-US/docs/Web/API/Window/beforeunload_event) dialog |
+| unload | unloadEventEnd − unloadEventStart | 0 ms | the previous page's unload handlers |
+| redirect | redirectEnd − redirectStart | 0 ms | HTTP redirects before the final URL |
+| App cache | domainLookupStart − fetchStart | 0.3 ms | the original diagram's App cache is the application cache check, since removed from browsers; [Level 1 defines `fetchStart`](https://www.w3.org/TR/navigation-timing/#dom-performancetiming-fetchstart) as the moment before that check. [Level 2's `fetchStart`](https://www.w3.org/TR/resource-timing-2/#dom-performanceresourcetiming-fetchstart) is the post-redirect start of the fetch; these 0.3 ms have no name in Level 2 |
+| DNS | domainLookupEnd − domainLookupStart | 73 ms | the domain name to become an IP address |
+| TCP | secureConnectionStart − connectStart | 152 ms | the TCP handshake, one round trip when nothing goes wrong. This load's 152 is not handshake time, see the next section |
+| TLS | connectEnd − secureConnectionStart | 62 ms | the certificate exchange. [`secureConnectionStart` is taken just before the TLS handshake, 0 on plain http](https://developer.mozilla.org/en-US/docs/Web/API/PerformanceResourceTiming/secureConnectionStart) |
+| Request | responseStart − requestStart | 235 ms | the server to send the first byte (TTFB). [`responseStart` is taken right after the first byte arrives](https://developer.mozilla.org/en-US/docs/Web/API/PerformanceResourceTiming/responseStart) |
+| Response | responseEnd − responseStart | 0.3 ms | the rest of the bytes |
+| Parse | domInteractive − responseEnd | 367 ms | the HTML parser, plus whatever the parser stops to wait for. [`domInteractive` is taken just before readyState becomes interactive](https://developer.mozilla.org/en-US/docs/Web/API/PerformanceNavigationTiming/domInteractive) |
+| Deferred scripts | domContentLoadedEventStart − domInteractive | 0 ms | `<script defer>` to run |
+| DOMContentLoaded | domContentLoadedEventEnd − domContentLoadedEventStart | 0.7 ms | the page's DOMContentLoaded handlers |
+| Subresources | domComplete − domContentLoadedEventEnd | 237 ms | images, fonts, iframes, async scripts |
+| onload | loadEventEnd − loadEventStart | 0.1 ms | the page's load handlers |
+
+The thirteen rows with a value do not overlap, and together they cover almost the whole load: 522 ms from redirect through Response, 605 ms from Parse through onload, plus 0.6 ms between startTime and fetchStart, 1128 ms in total. The only time no row covers is two gaps of 0.1 ms each, connectEnd to requestStart and domComplete to loadEventStart. Most of Parse's 367 ms is spent waiting for stylesheets to come back over the network, with numbers in the next section. The 14 KB of HTML itself took only 0.3 ms to arrive (the Response row).
+
+That was one load on my machine. Below is the Navigation Timing diagram itself, all ten boxes and all twenty one timestamps, with the numbers replaced by the load you are looking at right now, read from this page's own entry. This iframe is itself one of the page's subresources, so Processing and Subresources both include the time it took to load the iframe:
+
+<iframe src="/embeds/nav-timing" width="100%" height="1500" style="border:none;" scrolling="no" title="Navigation Timing: the load of this page"></iframe>
+
+## Each stage's blocking issue
+
+- **unload, redirect, App cache**: always 0 on this site. unload is set only when the previous page was on the same origin, [0 otherwise](https://developer.mozilla.org/en-US/docs/Web/API/PerformanceNavigationTiming/unloadEventStart). redirect is 0 because [since Chrome 115](https://groups.google.com/a/chromium.org/g/blink-dev/c/cAS525en8XE) the browser upgrades `http://` to `https://` before sending the request, so the server's 301 for `http://` is never followed.
+- **DNS**: the first lookup took 73 ms. After that the answer stays in the operating system's resolver cache, which a fresh browser profile does not clear, so only the first of five cold starts was not 0.
+- **TCP**: a handshake needs at least one round trip, and ping from this machine to the server is 42 to 54 ms. No code removes that; only a CDN moves the endpoint closer. The 152 ms in the table is an exception: halfway through TLS on that load, Chrome swapped its certificate verifier and reopened the connection, so it measured two connections. In a Chrome netlog recorded separately (a log of the connection steps), each single handshake took 46 to 68 ms. Only starting a new Chrome for every measurement runs into this.
+- **TLS**: a TLS 1.2 handshake takes two round trips and TLS 1.3 takes one; a connection that is not reused is also slow. [HTTP/1.1 keeps connections open by default](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Connection_management_in_HTTP_1.x) and HTTP/2 and HTTP/3 multiplex one connection, so TLS usually happens once per origin.
+- **Request**: the server handling the request. For a static file, a long TTFB usually means the CDN had no cached copy; for server rendering, the time mostly goes to the render function. [Rendering strategy](/v2/spa-is-not-csr-rendering-strategies) mainly affects this stage.
+- **Response**: the HTML is large, or not compressed. Compare `encodedBodySize` with `decodedBodySize` (`transferSize` includes headers, so it does not work for this). Here `encodedBodySize` is 3772 and it decodes to 14187, so compression is on.
+- **Parse**: the same HTML takes 5 to 10 ms on reload and 198 to 424 ms on a cold start; the difference is all waiting for stylesheets. `<body>` has inline `<script>` elements, and [the HTML spec makes them wait for stylesheets in `<head>` that are still loading](https://html.spec.whatwg.org/multipage/scripting.html#script-processing-model), so the parser stops too. Five more cold starts with a script that also records each resource's timing put `domInteractive` 1 to 29 ms after the last stylesheet finished, every time. One of the three stylesheets is cross-site, `fonts.googleapis.com`, and it alone costs an extra DNS lookup plus a new connection, 57 to 138 ms. So a faster Parse on this site means inlining the stylesheets, preloading them, or dropping the cross-site origin.
+- **Deferred scripts**: `<script defer>` runs after parsing and before `DOMContentLoaded`, and [`DOMContentLoaded` waits for it](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/script#defer). This site loads its chunks with `async`, which does not delay `DOMContentLoaded`, so this is 0 here. If a page loads `<script defer src="app.js">` and `app.js` takes 300 ms to run, those 300 ms show up in Deferred scripts.
+- **Subresources**: [`load` waits for images, scripts and iframes](https://developer.mozilla.org/en-US/docs/Web/API/Window/load_event). MDN does not list fonts, but they count: on a test page whose only slow resource is a 2 s font, `load` came 2 s later. The article page [from-setstate-to-pixels](/v2/from-setstate-to-pixels) embeds a cross-site iframe. Across five runs of the script that records resource timing this stage took 487 to 596 ms, nearly all of it waiting for that iframe: `domComplete` came 0.2 to 1.7 ms after the iframe finished.
+
+## Five cold starts, and one reload
+
+Each cold start is a fresh headless Chrome 153, fresh profile, fresh disk cache, one navigation, between noon and 3 pm Taipei time. The reload is the same browser loading the home page and then loading it again through the DevTools protocol's `Page.reload`; the entry's `type` is `reload`. The article page is `/v2/from-setstate-to-pixels`.
+
+| Stage | Home page, cold start ×5 | Article page, cold start ×5 | Home page, reload ×3 |
+|---|---|---|---|
+| DNS | 0 to 73 ms | 0 to 1 ms | 0 |
+| TCP + TLS | 127 to 214 ms | 115 to 167 ms | 0 |
+| Request (TTFB) | 49 to 235 ms | 50 to 244 ms | 49 to 51 ms |
+| Response | 0.3 ms | 14 to 19 ms | 0.5 to 1.1 ms |
+| Parse | 198 to 424 ms | 221 to 356 ms | 5 to 10 ms |
+| Subresources | 125 to 237 ms | 496 to 909 ms | 10 to 17 ms |
+| Total | 555 to 1128 ms | 939 to 1677 ms | 66 to 81 ms |
+| HTML transferred (transferSize) | 4076 B | 28585 B | 300 B |
+
+On reload the HTML moved only 300 bytes while `decodedBodySize` stayed at 14187: 300 bytes is room for headers, and [the body came from the browser cache](https://developer.mozilla.org/en-US/docs/Web/API/PerformanceResourceTiming/transferSize). DNS and TCP are 0 because the connection was reused; Request is still 49 to 51 ms, the same as a ping, one round trip asking the server whether the copy is still fresh. The spread inside one column is as wide as the difference between columns: TTFB on the home page went from 49 to 235 ms with nothing changed.
+
+<details>
+<summary>The measurement script</summary>
+
+Node 22, macOS, Chrome installed at the default path. The script reads the entry after `load`. The reload column uses the same script plus one step: after the first `load`, send `Page.reload` and read the entry again. The stylesheet timings come from a sibling script that also dumps `performance.getEntriesByType('resource')`. The font test is a local page whose only slow resource is a font file delayed by 2 s.
+
+```js
+// node cold.mjs <url> <runs>
+import { spawn } from 'node:child_process'
+import { mkdtempSync } from 'node:fs'
+import { tmpdir } from 'node:os'
+import { join } from 'node:path'
+
+const [url, runsArg] = process.argv.slice(2)
+const sleep = ms => new Promise(r => setTimeout(r, ms))
+
+async function once(port) {
+  const profile = mkdtempSync(join(tmpdir(), 'chrome-prof-'))
+  const cache = mkdtempSync(join(tmpdir(), 'chrome-cache-'))
+  const chrome = spawn('/Applications/Google Chrome.app/Contents/MacOS/Google Chrome', [
+    '--headless=new', `--remote-debugging-port=${port}`,
+    `--user-data-dir=${profile}`, `--disk-cache-dir=${cache}`,
+    '--no-first-run', 'about:blank',
+  ], { stdio: 'ignore' })
+
+  let targets
+  for (let i = 0; i < 40; i++) {
+    await sleep(250)
+    try { targets = await (await fetch(`http://127.0.0.1:${port}/json`)).json(); break } catch {}
+  }
+  const ws = new WebSocket(targets.find(t => t.type === 'page').webSocketDebuggerUrl)
+  await new Promise(r => ws.onopen = r)
+  let id = 0
+  const pending = new Map()
+  ws.onmessage = e => { const m = JSON.parse(e.data); if (pending.has(m.id)) { pending.get(m.id)(m); pending.delete(m.id) } }
+  const send = (method, params = {}) => new Promise(r => { pending.set(++id, r); ws.send(JSON.stringify({ id, method, params })) })
+
+  await send('Page.enable')
+  await send('Page.navigate', { url })
+  let entry
+  for (let i = 0; i < 120; i++) {
+    await sleep(250)
+    const r = await send('Runtime.evaluate', { returnByValue: true,
+      expression: `JSON.stringify(performance.getEntriesByType('navigation')[0]?.toJSON() ?? null)` })
+    entry = JSON.parse(r.result.result.value)
+    if (entry && entry.loadEventEnd > 0) break
+  }
+  ws.close()
+  chrome.kill()
+  return entry
+}
+
+const all = []
+for (let i = 0; i < Number(runsArg || 5); i++) all.push(await once(9400 + i))
+console.log(JSON.stringify(all))
+```
+
+</details>
+
+## Which Level 1 timestamps did Level 2 drop
+
+- **navigationStart**: Level 2 changed clocks. Level 1's values are absolute milliseconds since 1970; Level 2 uses `DOMHighResTimeStamp` counted from the time origin, so [the start is always 0](https://www.w3.org/TR/navigation-timing-2/#dom-performancetiming-navigationstart). The reasons are that [an absolute clock can go backwards when the system clock is adjusted and only resolves to a millisecond](https://www.w3.org/TR/hr-time-3/). navigationStart became the 0 of `startTime`.
+- **domLoading**: browsers create the Document at different moments, Chrome before the response begins, IE when it starts, Firefox after buffering some of it, so the value measured an implementation detail. [Issue #13](https://github.com/w3c/navigation-timing/issues/13) proposed removing it in 2015 and [the spec added a deprecation note](https://www.w3.org/TR/navigation-timing-2/#obsolete-heading). The closest value is `responseEnd`.
+- **Prompt for unload**: happens before `navigationStart`, since [Level 1 defines the start as the moment right after prompting to unload the previous document](https://www.w3.org/TR/navigation-timing/#sec-navigation-timing-interface), so neither version has a timestamp for it; the diagram draws the box only to show what precedes the start.
+
+The gap between `startTime` and `fetchStart` has no name. unload and redirect would fall in that span if they happened, and both were 0 here; a `redirectStart` of 0 means there was no redirect, not that a redirect took 0 ms.
+
+## References
+
+- [Navigation Timing](https://www.w3.org/TR/navigation-timing/), W3C Recommendation, 2012-12-17. Level 1, where the original diagram comes from; the image is [timing-overview.png](https://www.w3.org/TR/navigation-timing/timing-overview.png).
+- [Navigation Timing Level 2](https://www.w3.org/TR/navigation-timing-2/), W3C Working Draft. The current spec; its processing model defines when each timestamp is taken.
+- [PerformanceNavigationTiming](https://developer.mozilla.org/en-US/docs/Web/API/PerformanceNavigationTiming) on MDN. Every property, with a diagram of the order they fire in.
+- [Performance.timing](https://developer.mozilla.org/en-US/docs/Web/API/Performance/timing) on MDN. The deprecated Level 1 interface, kept here for reading old diagrams.
+- [The script element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/script) on MDN. When a plain, `async`, or `defer` script runs.
+- [Towards HTTPS by default](https://blog.chromium.org/2023/08/towards-https-by-default.html), Chromium Blog, 2023-08-16. The announcement of Chrome upgrading http to https on its own.
+- [Measure the Critical Rendering Path](https://web.dev/articles/critical-rendering-path/measure-crp) on web.dev. The same subtractions, applied to the first render.
+17:T5658,LS0tCnRpdGxlOiAiMTEyOCBtcyB0byBsb2FkIDE0IEtCIG9mIEhUTUwuIFdoZXJlIGRpZCBpdCBnbz8iCmNyZWF0ZWRBdDogMjAyNi0wOS0xOVQxMjozOTowOQp0YWdzOiBbYnJvd3NlciwgcGVyZm9ybWFuY2UsIGZyb250ZW5kXQpkZXNjcmlwdGlvbjogIlRoZSBicm93c2VyIGtlZXBzIGEgdGltZXN0YW1wIGZvciBldmVyeSBzdGFnZSBvZiBhIHBhZ2UgbG9hZC4gUmVhZCB0aGVtIGFzIHN1YnRyYWN0aW9ucyBhbmQgdGhlIHNsb3cgc3RhZ2Ugc3RhbmRzIG91dC4iCi0tLQoKVGhlIGhvbWUgcGFnZSBvZiB0aGlzIHNpdGUgaXMgMTQgS0Igb2YgSFRNTC4gV2l0aCBpdHMgc2NyaXB0cywgc3R5bGVzIGFuZCBmb250cyBpdCBpcyBhYm91dCAzMDAgS0Igb24gdGhlIHdpcmUuIEEgY29sZCBzdGFydCB0b29rIDExMjggbXMuIFdoaWNoIHN0YWdlIHRvb2sgdGhlIHRpbWU/CgpUaGUgYnJvd3NlciBhbHJlYWR5IGtub3dzLiBQYXN0ZSB0aGlzIGludG8gdGhlIGNvbnNvbGUgb2YgYW55IHBhZ2U6CgpgYGBqcwpwZXJmb3JtYW5jZS5nZXRFbnRyaWVzQnlUeXBlKCduYXZpZ2F0aW9uJylbMF0KYGBgCgpJdCByZXR1cm5zIG9uZSBvYmplY3QuIEhlcmUgaXMgdGhlIG9uZSBmcm9tIHRoYXQgY29sZCBzdGFydCwgdHJpbW1lZCB0byB0aGUgdGltZXN0YW1wcywgYWxsIGluIG1pbGxpc2Vjb25kcyBmcm9tIHRoZSBtb21lbnQgdGhlIG5hdmlnYXRpb24gc3RhcnRlZDoKCmBgYGpzCnsKICBmZXRjaFN0YXJ0OiAgICAgICAgICAgICAgICAgICAwLjYsCiAgZG9tYWluTG9va3VwU3RhcnQ6ICAgICAgICAgICAgMC45LAogIGRvbWFpbkxvb2t1cEVuZDogICAgICAgICAgICAgNzQuMiwKICBjb25uZWN0U3RhcnQ6ICAgICAgICAgICAgICAgIDc0LjIsCiAgc2VjdXJlQ29ubmVjdGlvblN0YXJ0OiAgICAgIDIyNi4yLAogIGNvbm5lY3RFbmQ6ICAgICAgICAgICAgICAgICAyODcuOSwKICByZXF1ZXN0U3RhcnQ6ICAgICAgICAgICAgICAgMjg4LjAsCiAgcmVzcG9uc2VTdGFydDogICAgICAgICAgICAgIDUyMi43LAogIHJlc3BvbnNlRW5kOiAgICAgICAgICAgICAgICA1MjMuMCwKICBkb21JbnRlcmFjdGl2ZTogICAgICAgICAgICAgODg5LjksCiAgZG9tQ29udGVudExvYWRlZEV2ZW50U3RhcnQ6IDg4OS45LAogIGRvbUNvbnRlbnRMb2FkZWRFdmVudEVuZDogICA4OTAuNiwKICBkb21Db21wbGV0ZTogICAgICAgICAgICAgICAxMTI3LjYsCiAgbG9hZEV2ZW50U3RhcnQ6ICAgICAgICAgICAgMTEyNy43LAogIGxvYWRFdmVudEVuZDogICAgICAgICAgICAgIDExMjcuOCwKICBkdXJhdGlvbjogICAgICAgICAgICAgICAgICAxMTI3LjgsCiAgdHJhbnNmZXJTaXplOiAgICAgICAgICAgICAgICA0MDc2LAogIGRlY29kZWRCb2R5U2l6ZTogICAgICAgICAgICAxNDE4NywKICBuZXh0SG9wUHJvdG9jb2w6ICAgICAgICAgICAgICJoMiIsCn0KYGBgCgpUaGlzIG9iamVjdCBmb2xsb3dzIHRoZSBXM0Mgc3BlYyBbTmF2aWdhdGlvbiBUaW1pbmcgTGV2ZWwgMl0oaHR0cHM6Ly93d3cudzMub3JnL1RSL25hdmlnYXRpb24tdGltaW5nLTIvKSAoV29ya2luZyBEcmFmdCwgdGhpcyByZXZpc2lvbiBkYXRlZCAyMDI2LTA5LTAxKTsgdGhlIEFQSSBpcyBbYFBlcmZvcm1hbmNlTmF2aWdhdGlvblRpbWluZ2BdKGh0dHBzOi8vZGV2ZWxvcGVyLm1vemlsbGEub3JnL2VuLVVTL2RvY3MvV2ViL0FQSS9QZXJmb3JtYW5jZU5hdmlnYXRpb25UaW1pbmcpLiBUaGUgTmF2aWdhdGlvbiBUaW1pbmcgZGlhZ3JhbSByZWRyYXduIGluIHRoZSBpZnJhbWUgYmVsb3cgY29tZXMgZnJvbSB0aGUgZmlyc3QgdmVyc2lvbiwgW0xldmVsIDFdKGh0dHBzOi8vd3d3LnczLm9yZy9UUi9uYXZpZ2F0aW9uLXRpbWluZy8pIChXM0MgUmVjb21tZW5kYXRpb24sIDIwMTItMTItMTcpLCBpbiBpdHMgW1Byb2Nlc3NpbmcgTW9kZWxdKGh0dHBzOi8vd3d3LnczLm9yZy9UUi9uYXZpZ2F0aW9uLXRpbWluZy8jcHJvY2Vzc2luZy1tb2RlbCkgc2VjdGlvbjsgaXRzIEFQSSBpcyBbYHBlcmZvcm1hbmNlLnRpbWluZ2BdKGh0dHBzOi8vZGV2ZWxvcGVyLm1vemlsbGEub3JnL2VuLVVTL2RvY3MvV2ViL0FQSS9QZXJmb3JtYW5jZS90aW1pbmcpLCBub3cgbWFya2VkIGRlcHJlY2F0ZWQgb24gTUROLiBNb3N0IGZpZWxkIG5hbWVzIGFyZSB0aGUgc2FtZSBpbiBib3RoLiBUaGUgZGlmZmVyZW5jZXMgYXJlIHdoZXJlIHRoZSBjbG9jayBzdGFydHMgYW5kIGEgZmV3IGZpZWxkcyBMZXZlbCAyIGRyb3BwZWQsIGxpc3RlZCBhdCB0aGUgZW5kLgoKYGRvbWFpbkxvb2t1cEVuZCDiiJIgZG9tYWluTG9va3VwU3RhcnRgID0gNzQuMiDiiJIgMC45ID0gNzMgbXMsIHRoZSB0aW1lIEROUyB0b29rLiBFdmVyeSBvdGhlciBzdGFnZSBpcyB0aGUgc2FtZSBraW5kIG9mIHN1YnRyYWN0aW9uIGJldHdlZW4gaXRzIHR3byBlbmRzLiBFdmVyeSBib3ggb2YgdGhlIG9yaWdpbmFsIGRpYWdyYW0gaXMgYmVsb3csIGluY2x1ZGluZyB0aGUgb25lcyB0aGF0IHdlcmUgMCB0aGlzIHRpbWU6Cgp8IFN0YWdlIHwgU3VidHJhY3Rpb24gfCBUaGlzIGxvYWQgfCBXaGF0IHRoZSBicm93c2VyIGlzIHdhaXRpbmcgZm9yIHwKfC0tLXwtLS18LS0tfC0tLXwKfCBQcm9tcHQgZm9yIHVubG9hZCB8IG5vIExldmVsIDIgdGltZXN0YW1wIHwgfCB0aGUgcHJldmlvdXMgcGFnZSdzIFtgYmVmb3JldW5sb2FkYF0oaHR0cHM6Ly9kZXZlbG9wZXIubW96aWxsYS5vcmcvZW4tVVMvZG9jcy9XZWIvQVBJL1dpbmRvdy9iZWZvcmV1bmxvYWRfZXZlbnQpIGRpYWxvZyB8CnwgdW5sb2FkIHwgdW5sb2FkRXZlbnRFbmQg4oiSIHVubG9hZEV2ZW50U3RhcnQgfCAwIG1zIHwgdGhlIHByZXZpb3VzIHBhZ2UncyB1bmxvYWQgaGFuZGxlcnMgfAp8IHJlZGlyZWN0IHwgcmVkaXJlY3RFbmQg4oiSIHJlZGlyZWN0U3RhcnQgfCAwIG1zIHwgSFRUUCByZWRpcmVjdHMgYmVmb3JlIHRoZSBmaW5hbCBVUkwgfAp8IEFwcCBjYWNoZSB8IGRvbWFpbkxvb2t1cFN0YXJ0IOKIkiBmZXRjaFN0YXJ0IHwgMC4zIG1zIHwgdGhlIG9yaWdpbmFsIGRpYWdyYW0ncyBBcHAgY2FjaGUgaXMgdGhlIGFwcGxpY2F0aW9uIGNhY2hlIGNoZWNrLCBzaW5jZSByZW1vdmVkIGZyb20gYnJvd3NlcnM7IFtMZXZlbCAxIGRlZmluZXMgYGZldGNoU3RhcnRgXShodHRwczovL3d3dy53My5vcmcvVFIvbmF2aWdhdGlvbi10aW1pbmcvI2RvbS1wZXJmb3JtYW5jZXRpbWluZy1mZXRjaHN0YXJ0KSBhcyB0aGUgbW9tZW50IGJlZm9yZSB0aGF0IGNoZWNrLiBbTGV2ZWwgMidzIGBmZXRjaFN0YXJ0YF0oaHR0cHM6Ly93d3cudzMub3JnL1RSL3Jlc291cmNlLXRpbWluZy0yLyNkb20tcGVyZm9ybWFuY2VyZXNvdXJjZXRpbWluZy1mZXRjaHN0YXJ0KSBpcyB0aGUgcG9zdC1yZWRpcmVjdCBzdGFydCBvZiB0aGUgZmV0Y2g7IHRoZXNlIDAuMyBtcyBoYXZlIG5vIG5hbWUgaW4gTGV2ZWwgMiB8CnwgRE5TIHwgZG9tYWluTG9va3VwRW5kIOKIkiBkb21haW5Mb29rdXBTdGFydCB8IDczIG1zIHwgdGhlIGRvbWFpbiBuYW1lIHRvIGJlY29tZSBhbiBJUCBhZGRyZXNzIHwKfCBUQ1AgfCBzZWN1cmVDb25uZWN0aW9uU3RhcnQg4oiSIGNvbm5lY3RTdGFydCB8IDE1MiBtcyB8IHRoZSBUQ1AgaGFuZHNoYWtlLCBvbmUgcm91bmQgdHJpcCB3aGVuIG5vdGhpbmcgZ29lcyB3cm9uZy4gVGhpcyBsb2FkJ3MgMTUyIGlzIG5vdCBoYW5kc2hha2UgdGltZSwgc2VlIHRoZSBuZXh0IHNlY3Rpb24gfAp8IFRMUyB8IGNvbm5lY3RFbmQg4oiSIHNlY3VyZUNvbm5lY3Rpb25TdGFydCB8IDYyIG1zIHwgdGhlIGNlcnRpZmljYXRlIGV4Y2hhbmdlLiBbYHNlY3VyZUNvbm5lY3Rpb25TdGFydGAgaXMgdGFrZW4ganVzdCBiZWZvcmUgdGhlIFRMUyBoYW5kc2hha2UsIDAgb24gcGxhaW4gaHR0cF0oaHR0cHM6Ly9kZXZlbG9wZXIubW96aWxsYS5vcmcvZW4tVVMvZG9jcy9XZWIvQVBJL1BlcmZvcm1hbmNlUmVzb3VyY2VUaW1pbmcvc2VjdXJlQ29ubmVjdGlvblN0YXJ0KSB8CnwgUmVxdWVzdCB8IHJlc3BvbnNlU3RhcnQg4oiSIHJlcXVlc3RTdGFydCB8IDIzNSBtcyB8IHRoZSBzZXJ2ZXIgdG8gc2VuZCB0aGUgZmlyc3QgYnl0ZSAoVFRGQikuIFtgcmVzcG9uc2VTdGFydGAgaXMgdGFrZW4gcmlnaHQgYWZ0ZXIgdGhlIGZpcnN0IGJ5dGUgYXJyaXZlc10oaHR0cHM6Ly9kZXZlbG9wZXIubW96aWxsYS5vcmcvZW4tVVMvZG9jcy9XZWIvQVBJL1BlcmZvcm1hbmNlUmVzb3VyY2VUaW1pbmcvcmVzcG9uc2VTdGFydCkgfAp8IFJlc3BvbnNlIHwgcmVzcG9uc2VFbmQg4oiSIHJlc3BvbnNlU3RhcnQgfCAwLjMgbXMgfCB0aGUgcmVzdCBvZiB0aGUgYnl0ZXMgfAp8IFBhcnNlIHwgZG9tSW50ZXJhY3RpdmUg4oiSIHJlc3BvbnNlRW5kIHwgMzY3IG1zIHwgdGhlIEhUTUwgcGFyc2VyLCBwbHVzIHdoYXRldmVyIHRoZSBwYXJzZXIgc3RvcHMgdG8gd2FpdCBmb3IuIFtgZG9tSW50ZXJhY3RpdmVgIGlzIHRha2VuIGp1c3QgYmVmb3JlIHJlYWR5U3RhdGUgYmVjb21lcyBpbnRlcmFjdGl2ZV0oaHR0cHM6Ly9kZXZlbG9wZXIubW96aWxsYS5vcmcvZW4tVVMvZG9jcy9XZWIvQVBJL1BlcmZvcm1hbmNlTmF2aWdhdGlvblRpbWluZy9kb21JbnRlcmFjdGl2ZSkgfAp8IERlZmVycmVkIHNjcmlwdHMgfCBkb21Db250ZW50TG9hZGVkRXZlbnRTdGFydCDiiJIgZG9tSW50ZXJhY3RpdmUgfCAwIG1zIHwgYDxzY3JpcHQgZGVmZXI+YCB0byBydW4gfAp8IERPTUNvbnRlbnRMb2FkZWQgfCBkb21Db250ZW50TG9hZGVkRXZlbnRFbmQg4oiSIGRvbUNvbnRlbnRMb2FkZWRFdmVudFN0YXJ0IHwgMC43IG1zIHwgdGhlIHBhZ2UncyBET01Db250ZW50TG9hZGVkIGhhbmRsZXJzIHwKfCBTdWJyZXNvdXJjZXMgfCBkb21Db21wbGV0ZSDiiJIgZG9tQ29udGVudExvYWRlZEV2ZW50RW5kIHwgMjM3IG1zIHwgaW1hZ2VzLCBmb250cywgaWZyYW1lcywgYXN5bmMgc2NyaXB0cyB8Cnwgb25sb2FkIHwgbG9hZEV2ZW50RW5kIOKIkiBsb2FkRXZlbnRTdGFydCB8IDAuMSBtcyB8IHRoZSBwYWdlJ3MgbG9hZCBoYW5kbGVycyB8CgpUaGUgdGhpcnRlZW4gcm93cyB3aXRoIGEgdmFsdWUgZG8gbm90IG92ZXJsYXAsIGFuZCB0b2dldGhlciB0aGV5IGNvdmVyIGFsbW9zdCB0aGUgd2hvbGUgbG9hZDogNTIyIG1zIGZyb20gcmVkaXJlY3QgdGhyb3VnaCBSZXNwb25zZSwgNjA1IG1zIGZyb20gUGFyc2UgdGhyb3VnaCBvbmxvYWQsIHBsdXMgMC42IG1zIGJldHdlZW4gc3RhcnRUaW1lIGFuZCBmZXRjaFN0YXJ0LCAxMTI4IG1zIGluIHRvdGFsLiBUaGUgb25seSB0aW1lIG5vIHJvdyBjb3ZlcnMgaXMgdHdvIGdhcHMgb2YgMC4xIG1zIGVhY2gsIGNvbm5lY3RFbmQgdG8gcmVxdWVzdFN0YXJ0IGFuZCBkb21Db21wbGV0ZSB0byBsb2FkRXZlbnRTdGFydC4gTW9zdCBvZiBQYXJzZSdzIDM2NyBtcyBpcyBzcGVudCB3YWl0aW5nIGZvciBzdHlsZXNoZWV0cyB0byBjb21lIGJhY2sgb3ZlciB0aGUgbmV0d29yaywgd2l0aCBudW1iZXJzIGluIHRoZSBuZXh0IHNlY3Rpb24uIFRoZSAxNCBLQiBvZiBIVE1MIGl0c2VsZiB0b29rIG9ubHkgMC4zIG1zIHRvIGFycml2ZSAodGhlIFJlc3BvbnNlIHJvdykuCgpUaGF0IHdhcyBvbmUgbG9hZCBvbiBteSBtYWNoaW5lLiBCZWxvdyBpcyB0aGUgTmF2aWdhdGlvbiBUaW1pbmcgZGlhZ3JhbSBpdHNlbGYsIGFsbCB0ZW4gYm94ZXMgYW5kIGFsbCB0d2VudHkgb25lIHRpbWVzdGFtcHMsIHdpdGggdGhlIG51bWJlcnMgcmVwbGFjZWQgYnkgdGhlIGxvYWQgeW91IGFyZSBsb29raW5nIGF0IHJpZ2h0IG5vdywgcmVhZCBmcm9tIHRoaXMgcGFnZSdzIG93biBlbnRyeS4gVGhpcyBpZnJhbWUgaXMgaXRzZWxmIG9uZSBvZiB0aGUgcGFnZSdzIHN1YnJlc291cmNlcywgc28gUHJvY2Vzc2luZyBhbmQgU3VicmVzb3VyY2VzIGJvdGggaW5jbHVkZSB0aGUgdGltZSBpdCB0b29rIHRvIGxvYWQgdGhlIGlmcmFtZToKCjxpZnJhbWUgc3JjPSIvZW1iZWRzL25hdi10aW1pbmciIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjE1MDAiIHN0eWxlPSJib3JkZXI6bm9uZTsiIHNjcm9sbGluZz0ibm8iIHRpdGxlPSJOYXZpZ2F0aW9uIFRpbWluZzogdGhlIGxvYWQgb2YgdGhpcyBwYWdlIj48L2lmcmFtZT4KCiMjIEVhY2ggc3RhZ2UncyBibG9ja2luZyBpc3N1ZQoKLSAqKnVubG9hZCwgcmVkaXJlY3QsIEFwcCBjYWNoZSoqOiBhbHdheXMgMCBvbiB0aGlzIHNpdGUuIHVubG9hZCBpcyBzZXQgb25seSB3aGVuIHRoZSBwcmV2aW91cyBwYWdlIHdhcyBvbiB0aGUgc2FtZSBvcmlnaW4sIFswIG90aGVyd2lzZV0oaHR0cHM6Ly9kZXZlbG9wZXIubW96aWxsYS5vcmcvZW4tVVMvZG9jcy9XZWIvQVBJL1BlcmZvcm1hbmNlTmF2aWdhdGlvblRpbWluZy91bmxvYWRFdmVudFN0YXJ0KS4gcmVkaXJlY3QgaXMgMCBiZWNhdXNlIFtzaW5jZSBDaHJvbWUgMTE1XShodHRwczovL2dyb3Vwcy5nb29nbGUuY29tL2EvY2hyb21pdW0ub3JnL2cvYmxpbmstZGV2L2MvY0FTNTI1ZW44WEUpIHRoZSBicm93c2VyIHVwZ3JhZGVzIGBodHRwOi8vYCB0byBgaHR0cHM6Ly9gIGJlZm9yZSBzZW5kaW5nIHRoZSByZXF1ZXN0LCBzbyB0aGUgc2VydmVyJ3MgMzAxIGZvciBgaHR0cDovL2AgaXMgbmV2ZXIgZm9sbG93ZWQuCi0gKipETlMqKjogdGhlIGZpcnN0IGxvb2t1cCB0b29rIDczIG1zLiBBZnRlciB0aGF0IHRoZSBhbnN3ZXIgc3RheXMgaW4gdGhlIG9wZXJhdGluZyBzeXN0ZW0ncyByZXNvbHZlciBjYWNoZSwgd2hpY2ggYSBmcmVzaCBicm93c2VyIHByb2ZpbGUgZG9lcyBub3QgY2xlYXIsIHNvIG9ubHkgdGhlIGZpcnN0IG9mIGZpdmUgY29sZCBzdGFydHMgd2FzIG5vdCAwLgotICoqVENQKio6IGEgaGFuZHNoYWtlIG5lZWRzIGF0IGxlYXN0IG9uZSByb3VuZCB0cmlwLCBhbmQgcGluZyBmcm9tIHRoaXMgbWFjaGluZSB0byB0aGUgc2VydmVyIGlzIDQyIHRvIDU0IG1zLiBObyBjb2RlIHJlbW92ZXMgdGhhdDsgb25seSBhIENETiBtb3ZlcyB0aGUgZW5kcG9pbnQgY2xvc2VyLiBUaGUgMTUyIG1zIGluIHRoZSB0YWJsZSBpcyBhbiBleGNlcHRpb246IGhhbGZ3YXkgdGhyb3VnaCBUTFMgb24gdGhhdCBsb2FkLCBDaHJvbWUgc3dhcHBlZCBpdHMgY2VydGlmaWNhdGUgdmVyaWZpZXIgYW5kIHJlb3BlbmVkIHRoZSBjb25uZWN0aW9uLCBzbyBpdCBtZWFzdXJlZCB0d28gY29ubmVjdGlvbnMuIEluIGEgQ2hyb21lIG5ldGxvZyByZWNvcmRlZCBzZXBhcmF0ZWx5IChhIGxvZyBvZiB0aGUgY29ubmVjdGlvbiBzdGVwcyksIGVhY2ggc2luZ2xlIGhhbmRzaGFrZSB0b29rIDQ2IHRvIDY4IG1zLiBPbmx5IHN0YXJ0aW5nIGEgbmV3IENocm9tZSBmb3IgZXZlcnkgbWVhc3VyZW1lbnQgcnVucyBpbnRvIHRoaXMuCi0gKipUTFMqKjogYSBUTFMgMS4yIGhhbmRzaGFrZSB0YWtlcyB0d28gcm91bmQgdHJpcHMgYW5kIFRMUyAxLjMgdGFrZXMgb25lOyBhIGNvbm5lY3Rpb24gdGhhdCBpcyBub3QgcmV1c2VkIGlzIGFsc28gc2xvdy4gW0hUVFAvMS4xIGtlZXBzIGNvbm5lY3Rpb25zIG9wZW4gYnkgZGVmYXVsdF0oaHR0cHM6Ly9kZXZlbG9wZXIubW96aWxsYS5vcmcvZW4tVVMvZG9jcy9XZWIvSFRUUC9HdWlkZXMvQ29ubmVjdGlvbl9tYW5hZ2VtZW50X2luX0hUVFBfMS54KSBhbmQgSFRUUC8yIGFuZCBIVFRQLzMgbXVsdGlwbGV4IG9uZSBjb25uZWN0aW9uLCBzbyBUTFMgdXN1YWxseSBoYXBwZW5zIG9uY2UgcGVyIG9yaWdpbi4KLSAqKlJlcXVlc3QqKjogdGhlIHNlcnZlciBoYW5kbGluZyB0aGUgcmVxdWVzdC4gRm9yIGEgc3RhdGljIGZpbGUsIGEgbG9uZyBUVEZCIHVzdWFsbHkgbWVhbnMgdGhlIENETiBoYWQgbm8gY2FjaGVkIGNvcHk7IGZvciBzZXJ2ZXIgcmVuZGVyaW5nLCB0aGUgdGltZSBtb3N0bHkgZ29lcyB0byB0aGUgcmVuZGVyIGZ1bmN0aW9uLiBbUmVuZGVyaW5nIHN0cmF0ZWd5XSgvdjIvc3BhLWlzLW5vdC1jc3ItcmVuZGVyaW5nLXN0cmF0ZWdpZXMpIG1haW5seSBhZmZlY3RzIHRoaXMgc3RhZ2UuCi0gKipSZXNwb25zZSoqOiB0aGUgSFRNTCBpcyBsYXJnZSwgb3Igbm90IGNvbXByZXNzZWQuIENvbXBhcmUgYGVuY29kZWRCb2R5U2l6ZWAgd2l0aCBgZGVjb2RlZEJvZHlTaXplYCAoYHRyYW5zZmVyU2l6ZWAgaW5jbHVkZXMgaGVhZGVycywgc28gaXQgZG9lcyBub3Qgd29yayBmb3IgdGhpcykuIEhlcmUgYGVuY29kZWRCb2R5U2l6ZWAgaXMgMzc3MiBhbmQgaXQgZGVjb2RlcyB0byAxNDE4Nywgc28gY29tcHJlc3Npb24gaXMgb24uCi0gKipQYXJzZSoqOiB0aGUgc2FtZSBIVE1MIHRha2VzIDUgdG8gMTAgbXMgb24gcmVsb2FkIGFuZCAxOTggdG8gNDI0IG1zIG9uIGEgY29sZCBzdGFydDsgdGhlIGRpZmZlcmVuY2UgaXMgYWxsIHdhaXRpbmcgZm9yIHN0eWxlc2hlZXRzLiBgPGJvZHk+YCBoYXMgaW5saW5lIGA8c2NyaXB0PmAgZWxlbWVudHMsIGFuZCBbdGhlIEhUTUwgc3BlYyBtYWtlcyB0aGVtIHdhaXQgZm9yIHN0eWxlc2hlZXRzIGluIGA8aGVhZD5gIHRoYXQgYXJlIHN0aWxsIGxvYWRpbmddKGh0dHBzOi8vaHRtbC5zcGVjLndoYXR3Zy5vcmcvbXVsdGlwYWdlL3NjcmlwdGluZy5odG1sI3NjcmlwdC1wcm9jZXNzaW5nLW1vZGVsKSwgc28gdGhlIHBhcnNlciBzdG9wcyB0b28uIEZpdmUgbW9yZSBjb2xkIHN0YXJ0cyB3aXRoIGEgc2NyaXB0IHRoYXQgYWxzbyByZWNvcmRzIGVhY2ggcmVzb3VyY2UncyB0aW1pbmcgcHV0IGBkb21JbnRlcmFjdGl2ZWAgMSB0byAyOSBtcyBhZnRlciB0aGUgbGFzdCBzdHlsZXNoZWV0IGZpbmlzaGVkLCBldmVyeSB0aW1lLiBPbmUgb2YgdGhlIHRocmVlIHN0eWxlc2hlZXRzIGlzIGNyb3NzLXNpdGUsIGBmb250cy5nb29nbGVhcGlzLmNvbWAsIGFuZCBpdCBhbG9uZSBjb3N0cyBhbiBleHRyYSBETlMgbG9va3VwIHBsdXMgYSBuZXcgY29ubmVjdGlvbiwgNTcgdG8gMTM4IG1zLiBTbyBhIGZhc3RlciBQYXJzZSBvbiB0aGlzIHNpdGUgbWVhbnMgaW5saW5pbmcgdGhlIHN0eWxlc2hlZXRzLCBwcmVsb2FkaW5nIHRoZW0sIG9yIGRyb3BwaW5nIHRoZSBjcm9zcy1zaXRlIG9yaWdpbi4KLSAqKkRlZmVycmVkIHNjcmlwdHMqKjogYDxzY3JpcHQgZGVmZXI+YCBydW5zIGFmdGVyIHBhcnNpbmcgYW5kIGJlZm9yZSBgRE9NQ29udGVudExvYWRlZGAsIGFuZCBbYERPTUNvbnRlbnRMb2FkZWRgIHdhaXRzIGZvciBpdF0oaHR0cHM6Ly9kZXZlbG9wZXIubW96aWxsYS5vcmcvZW4tVVMvZG9jcy9XZWIvSFRNTC9SZWZlcmVuY2UvRWxlbWVudHMvc2NyaXB0I2RlZmVyKS4gVGhpcyBzaXRlIGxvYWRzIGl0cyBjaHVua3Mgd2l0aCBgYXN5bmNgLCB3aGljaCBkb2VzIG5vdCBkZWxheSBgRE9NQ29udGVudExvYWRlZGAsIHNvIHRoaXMgaXMgMCBoZXJlLiBJZiBhIHBhZ2UgbG9hZHMgYDxzY3JpcHQgZGVmZXIgc3JjPSJhcHAuanMiPmAgYW5kIGBhcHAuanNgIHRha2VzIDMwMCBtcyB0byBydW4sIHRob3NlIDMwMCBtcyBzaG93IHVwIGluIERlZmVycmVkIHNjcmlwdHMuCi0gKipTdWJyZXNvdXJjZXMqKjogW2Bsb2FkYCB3YWl0cyBmb3IgaW1hZ2VzLCBzY3JpcHRzIGFuZCBpZnJhbWVzXShodHRwczovL2RldmVsb3Blci5tb3ppbGxhLm9yZy9lbi1VUy9kb2NzL1dlYi9BUEkvV2luZG93L2xvYWRfZXZlbnQpLiBNRE4gZG9lcyBub3QgbGlzdCBmb250cywgYnV0IHRoZXkgY291bnQ6IG9uIGEgdGVzdCBwYWdlIHdob3NlIG9ubHkgc2xvdyByZXNvdXJjZSBpcyBhIDIgcyBmb250LCBgbG9hZGAgY2FtZSAyIHMgbGF0ZXIuIFRoZSBhcnRpY2xlIHBhZ2UgW2Zyb20tc2V0c3RhdGUtdG8tcGl4ZWxzXSgvdjIvZnJvbS1zZXRzdGF0ZS10by1waXhlbHMpIGVtYmVkcyBhIGNyb3NzLXNpdGUgaWZyYW1lLiBBY3Jvc3MgZml2ZSBydW5zIG9mIHRoZSBzY3JpcHQgdGhhdCByZWNvcmRzIHJlc291cmNlIHRpbWluZyB0aGlzIHN0YWdlIHRvb2sgNDg3IHRvIDU5NiBtcywgbmVhcmx5IGFsbCBvZiBpdCB3YWl0aW5nIGZvciB0aGF0IGlmcmFtZTogYGRvbUNvbXBsZXRlYCBjYW1lIDAuMiB0byAxLjcgbXMgYWZ0ZXIgdGhlIGlmcmFtZSBmaW5pc2hlZC4KCiMjIEZpdmUgY29sZCBzdGFydHMsIGFuZCBvbmUgcmVsb2FkCgpFYWNoIGNvbGQgc3RhcnQgaXMgYSBmcmVzaCBoZWFkbGVzcyBDaHJvbWUgMTUzLCBmcmVzaCBwcm9maWxlLCBmcmVzaCBkaXNrIGNhY2hlLCBvbmUgbmF2aWdhdGlvbiwgYmV0d2VlbiBub29uIGFuZCAzIHBtIFRhaXBlaSB0aW1lLiBUaGUgcmVsb2FkIGlzIHRoZSBzYW1lIGJyb3dzZXIgbG9hZGluZyB0aGUgaG9tZSBwYWdlIGFuZCB0aGVuIGxvYWRpbmcgaXQgYWdhaW4gdGhyb3VnaCB0aGUgRGV2VG9vbHMgcHJvdG9jb2wncyBgUGFnZS5yZWxvYWRgOyB0aGUgZW50cnkncyBgdHlwZWAgaXMgYHJlbG9hZGAuIFRoZSBhcnRpY2xlIHBhZ2UgaXMgYC92Mi9mcm9tLXNldHN0YXRlLXRvLXBpeGVsc2AuCgp8IFN0YWdlIHwgSG9tZSBwYWdlLCBjb2xkIHN0YXJ0IMOXNSB8IEFydGljbGUgcGFnZSwgY29sZCBzdGFydCDDlzUgfCBIb21lIHBhZ2UsIHJlbG9hZCDDlzMgfAp8LS0tfC0tLXwtLS18LS0tfAp8IEROUyB8IDAgdG8gNzMgbXMgfCAwIHRvIDEgbXMgfCAwIHwKfCBUQ1AgKyBUTFMgfCAxMjcgdG8gMjE0IG1zIHwgMTE1IHRvIDE2NyBtcyB8IDAgfAp8IFJlcXVlc3QgKFRURkIpIHwgNDkgdG8gMjM1IG1zIHwgNTAgdG8gMjQ0IG1zIHwgNDkgdG8gNTEgbXMgfAp8IFJlc3BvbnNlIHwgMC4zIG1zIHwgMTQgdG8gMTkgbXMgfCAwLjUgdG8gMS4xIG1zIHwKfCBQYXJzZSB8IDE5OCB0byA0MjQgbXMgfCAyMjEgdG8gMzU2IG1zIHwgNSB0byAxMCBtcyB8CnwgU3VicmVzb3VyY2VzIHwgMTI1IHRvIDIzNyBtcyB8IDQ5NiB0byA5MDkgbXMgfCAxMCB0byAxNyBtcyB8CnwgVG90YWwgfCA1NTUgdG8gMTEyOCBtcyB8IDkzOSB0byAxNjc3IG1zIHwgNjYgdG8gODEgbXMgfAp8IEhUTUwgdHJhbnNmZXJyZWQgKHRyYW5zZmVyU2l6ZSkgfCA0MDc2IEIgfCAyODU4NSBCIHwgMzAwIEIgfAoKT24gcmVsb2FkIHRoZSBIVE1MIG1vdmVkIG9ubHkgMzAwIGJ5dGVzIHdoaWxlIGBkZWNvZGVkQm9keVNpemVgIHN0YXllZCBhdCAxNDE4NzogMzAwIGJ5dGVzIGlzIHJvb20gZm9yIGhlYWRlcnMsIGFuZCBbdGhlIGJvZHkgY2FtZSBmcm9tIHRoZSBicm93c2VyIGNhY2hlXShodHRwczovL2RldmVsb3Blci5tb3ppbGxhLm9yZy9lbi1VUy9kb2NzL1dlYi9BUEkvUGVyZm9ybWFuY2VSZXNvdXJjZVRpbWluZy90cmFuc2ZlclNpemUpLiBETlMgYW5kIFRDUCBhcmUgMCBiZWNhdXNlIHRoZSBjb25uZWN0aW9uIHdhcyByZXVzZWQ7IFJlcXVlc3QgaXMgc3RpbGwgNDkgdG8gNTEgbXMsIHRoZSBzYW1lIGFzIGEgcGluZywgb25lIHJvdW5kIHRyaXAgYXNraW5nIHRoZSBzZXJ2ZXIgd2hldGhlciB0aGUgY29weSBpcyBzdGlsbCBmcmVzaC4gVGhlIHNwcmVhZCBpbnNpZGUgb25lIGNvbHVtbiBpcyBhcyB3aWRlIGFzIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gY29sdW1uczogVFRGQiBvbiB0aGUgaG9tZSBwYWdlIHdlbnQgZnJvbSA0OSB0byAyMzUgbXMgd2l0aCBub3RoaW5nIGNoYW5nZWQuCgo8ZGV0YWlscz4KPHN1bW1hcnk+VGhlIG1lYXN1cmVtZW50IHNjcmlwdDwvc3VtbWFyeT4KCk5vZGUgMjIsIG1hY09TLCBDaHJvbWUgaW5zdGFsbGVkIGF0IHRoZSBkZWZhdWx0IHBhdGguIFRoZSBzY3JpcHQgcmVhZHMgdGhlIGVudHJ5IGFmdGVyIGBsb2FkYC4gVGhlIHJlbG9hZCBjb2x1bW4gdXNlcyB0aGUgc2FtZSBzY3JpcHQgcGx1cyBvbmUgc3RlcDogYWZ0ZXIgdGhlIGZpcnN0IGBsb2FkYCwgc2VuZCBgUGFnZS5yZWxvYWRgIGFuZCByZWFkIHRoZSBlbnRyeSBhZ2Fpbi4gVGhlIHN0eWxlc2hlZXQgdGltaW5ncyBjb21lIGZyb20gYSBzaWJsaW5nIHNjcmlwdCB0aGF0IGFsc28gZHVtcHMgYHBlcmZvcm1hbmNlLmdldEVudHJpZXNCeVR5cGUoJ3Jlc291cmNlJylgLiBUaGUgZm9udCB0ZXN0IGlzIGEgbG9jYWwgcGFnZSB3aG9zZSBvbmx5IHNsb3cgcmVzb3VyY2UgaXMgYSBmb250IGZpbGUgZGVsYXllZCBieSAyIHMuCgpgYGBqcwovLyBub2RlIGNvbGQubWpzIDx1cmw+IDxydW5zPgppbXBvcnQgeyBzcGF3biB9IGZyb20gJ25vZGU6Y2hpbGRfcHJvY2VzcycKaW1wb3J0IHsgbWtkdGVtcFN5bmMgfSBmcm9tICdub2RlOmZzJwppbXBvcnQgeyB0bXBkaXIgfSBmcm9tICdub2RlOm9zJwppbXBvcnQgeyBqb2luIH0gZnJvbSAnbm9kZTpwYXRoJwoKY29uc3QgW3VybCwgcnVuc0FyZ10gPSBwcm9jZXNzLmFyZ3Yuc2xpY2UoMikKY29uc3Qgc2xlZXAgPSBtcyA9PiBuZXcgUHJvbWlzZShyID0+IHNldFRpbWVvdXQociwgbXMpKQoKYXN5bmMgZnVuY3Rpb24gb25jZShwb3J0KSB7CiAgY29uc3QgcHJvZmlsZSA9IG1rZHRlbXBTeW5jKGpvaW4odG1wZGlyKCksICdjaHJvbWUtcHJvZi0nKSkKICBjb25zdCBjYWNoZSA9IG1rZHRlbXBTeW5jKGpvaW4odG1wZGlyKCksICdjaHJvbWUtY2FjaGUtJykpCiAgY29uc3QgY2hyb21lID0gc3Bhd24oJy9BcHBsaWNhdGlvbnMvR29vZ2xlIENocm9tZS5hcHAvQ29udGVudHMvTWFjT1MvR29vZ2xlIENocm9tZScsIFsKICAgICctLWhlYWRsZXNzPW5ldycsIGAtLXJlbW90ZS1kZWJ1Z2dpbmctcG9ydD0ke3BvcnR9YCwKICAgIGAtLXVzZXItZGF0YS1kaXI9JHtwcm9maWxlfWAsIGAtLWRpc2stY2FjaGUtZGlyPSR7Y2FjaGV9YCwKICAgICctLW5vLWZpcnN0LXJ1bicsICdhYm91dDpibGFuaycsCiAgXSwgeyBzdGRpbzogJ2lnbm9yZScgfSkKCiAgbGV0IHRhcmdldHMKICBmb3IgKGxldCBpID0gMDsgaSA8IDQwOyBpKyspIHsKICAgIGF3YWl0IHNsZWVwKDI1MCkKICAgIHRyeSB7IHRhcmdldHMgPSBhd2FpdCAoYXdhaXQgZmV0Y2goYGh0dHA6Ly8xMjcuMC4wLjE6JHtwb3J0fS9qc29uYCkpLmpzb24oKTsgYnJlYWsgfSBjYXRjaCB7fQogIH0KICBjb25zdCB3cyA9IG5ldyBXZWJTb2NrZXQodGFyZ2V0cy5maW5kKHQgPT4gdC50eXBlID09PSAncGFnZScpLndlYlNvY2tldERlYnVnZ2VyVXJsKQogIGF3YWl0IG5ldyBQcm9taXNlKHIgPT4gd3Mub25vcGVuID0gcikKICBsZXQgaWQgPSAwCiAgY29uc3QgcGVuZGluZyA9IG5ldyBNYXAoKQogIHdzLm9ubWVzc2FnZSA9IGUgPT4geyBjb25zdCBtID0gSlNPTi5wYXJzZShlLmRhdGEpOyBpZiAocGVuZGluZy5oYXMobS5pZCkpIHsgcGVuZGluZy5nZXQobS5pZCkobSk7IHBlbmRpbmcuZGVsZXRlKG0uaWQpIH0gfQogIGNvbnN0IHNlbmQgPSAobWV0aG9kLCBwYXJhbXMgPSB7fSkgPT4gbmV3IFByb21pc2UociA9PiB7IHBlbmRpbmcuc2V0KCsraWQsIHIpOyB3cy5zZW5kKEpTT04uc3RyaW5naWZ5KHsgaWQsIG1ldGhvZCwgcGFyYW1zIH0pKSB9KQoKICBhd2FpdCBzZW5kKCdQYWdlLmVuYWJsZScpCiAgYXdhaXQgc2VuZCgnUGFnZS5uYXZpZ2F0ZScsIHsgdXJsIH0pCiAgbGV0IGVudHJ5CiAgZm9yIChsZXQgaSA9IDA7IGkgPCAxMjA7IGkrKykgewogICAgYXdhaXQgc2xlZXAoMjUwKQogICAgY29uc3QgciA9IGF3YWl0IHNlbmQoJ1J1bnRpbWUuZXZhbHVhdGUnLCB7IHJldHVybkJ5VmFsdWU6IHRydWUsCiAgICAgIGV4cHJlc3Npb246IGBKU09OLnN0cmluZ2lmeShwZXJmb3JtYW5jZS5nZXRFbnRyaWVzQnlUeXBlKCduYXZpZ2F0aW9uJylbMF0/LnRvSlNPTigpID8/IG51bGwpYCB9KQogICAgZW50cnkgPSBKU09OLnBhcnNlKHIucmVzdWx0LnJlc3VsdC52YWx1ZSkKICAgIGlmIChlbnRyeSAmJiBlbnRyeS5sb2FkRXZlbnRFbmQgPiAwKSBicmVhawogIH0KICB3cy5jbG9zZSgpCiAgY2hyb21lLmtpbGwoKQogIHJldHVybiBlbnRyeQp9Cgpjb25zdCBhbGwgPSBbXQpmb3IgKGxldCBpID0gMDsgaSA8IE51bWJlcihydW5zQXJnIHx8IDUpOyBpKyspIGFsbC5wdXNoKGF3YWl0IG9uY2UoOTQwMCArIGkpKQpjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShhbGwpKQpgYGAKCjwvZGV0YWlscz4KCiMjIFdoaWNoIExldmVsIDEgdGltZXN0YW1wcyBkaWQgTGV2ZWwgMiBkcm9wCgotICoqbmF2aWdhdGlvblN0YXJ0Kio6IExldmVsIDIgY2hhbmdlZCBjbG9ja3MuIExldmVsIDEncyB2YWx1ZXMgYXJlIGFic29sdXRlIG1pbGxpc2Vjb25kcyBzaW5jZSAxOTcwOyBMZXZlbCAyIHVzZXMgYERPTUhpZ2hSZXNUaW1lU3RhbXBgIGNvdW50ZWQgZnJvbSB0aGUgdGltZSBvcmlnaW4sIHNvIFt0aGUgc3RhcnQgaXMgYWx3YXlzIDBdKGh0dHBzOi8vd3d3LnczLm9yZy9UUi9uYXZpZ2F0aW9uLXRpbWluZy0yLyNkb20tcGVyZm9ybWFuY2V0aW1pbmctbmF2aWdhdGlvbnN0YXJ0KS4gVGhlIHJlYXNvbnMgYXJlIHRoYXQgW2FuIGFic29sdXRlIGNsb2NrIGNhbiBnbyBiYWNrd2FyZHMgd2hlbiB0aGUgc3lzdGVtIGNsb2NrIGlzIGFkanVzdGVkIGFuZCBvbmx5IHJlc29sdmVzIHRvIGEgbWlsbGlzZWNvbmRdKGh0dHBzOi8vd3d3LnczLm9yZy9UUi9oci10aW1lLTMvKS4gbmF2aWdhdGlvblN0YXJ0IGJlY2FtZSB0aGUgMCBvZiBgc3RhcnRUaW1lYC4KLSAqKmRvbUxvYWRpbmcqKjogYnJvd3NlcnMgY3JlYXRlIHRoZSBEb2N1bWVudCBhdCBkaWZmZXJlbnQgbW9tZW50cywgQ2hyb21lIGJlZm9yZSB0aGUgcmVzcG9uc2UgYmVnaW5zLCBJRSB3aGVuIGl0IHN0YXJ0cywgRmlyZWZveCBhZnRlciBidWZmZXJpbmcgc29tZSBvZiBpdCwgc28gdGhlIHZhbHVlIG1lYXN1cmVkIGFuIGltcGxlbWVudGF0aW9uIGRldGFpbC4gW0lzc3VlICMxM10oaHR0cHM6Ly9naXRodWIuY29tL3czYy9uYXZpZ2F0aW9uLXRpbWluZy9pc3N1ZXMvMTMpIHByb3Bvc2VkIHJlbW92aW5nIGl0IGluIDIwMTUgYW5kIFt0aGUgc3BlYyBhZGRlZCBhIGRlcHJlY2F0aW9uIG5vdGVdKGh0dHBzOi8vd3d3LnczLm9yZy9UUi9uYXZpZ2F0aW9uLXRpbWluZy0yLyNvYnNvbGV0ZS1oZWFkaW5nKS4gVGhlIGNsb3Nlc3QgdmFsdWUgaXMgYHJlc3BvbnNlRW5kYC4KLSAqKlByb21wdCBmb3IgdW5sb2FkKio6IGhhcHBlbnMgYmVmb3JlIGBuYXZpZ2F0aW9uU3RhcnRgLCBzaW5jZSBbTGV2ZWwgMSBkZWZpbmVzIHRoZSBzdGFydCBhcyB0aGUgbW9tZW50IHJpZ2h0IGFmdGVyIHByb21wdGluZyB0byB1bmxvYWQgdGhlIHByZXZpb3VzIGRvY3VtZW50XShodHRwczovL3d3dy53My5vcmcvVFIvbmF2aWdhdGlvbi10aW1pbmcvI3NlYy1uYXZpZ2F0aW9uLXRpbWluZy1pbnRlcmZhY2UpLCBzbyBuZWl0aGVyIHZlcnNpb24gaGFzIGEgdGltZXN0YW1wIGZvciBpdDsgdGhlIGRpYWdyYW0gZHJhd3MgdGhlIGJveCBvbmx5IHRvIHNob3cgd2hhdCBwcmVjZWRlcyB0aGUgc3RhcnQuCgpUaGUgZ2FwIGJldHdlZW4gYHN0YXJ0VGltZWAgYW5kIGBmZXRjaFN0YXJ0YCBoYXMgbm8gbmFtZS4gdW5sb2FkIGFuZCByZWRpcmVjdCB3b3VsZCBmYWxsIGluIHRoYXQgc3BhbiBpZiB0aGV5IGhhcHBlbmVkLCBhbmQgYm90aCB3ZXJlIDAgaGVyZTsgYSBgcmVkaXJlY3RTdGFydGAgb2YgMCBtZWFucyB0aGVyZSB3YXMgbm8gcmVkaXJlY3QsIG5vdCB0aGF0IGEgcmVkaXJlY3QgdG9vayAwIG1zLgoKIyMgUmVmZXJlbmNlcwoKLSBbTmF2aWdhdGlvbiBUaW1pbmddKGh0dHBzOi8vd3d3LnczLm9yZy9UUi9uYXZpZ2F0aW9uLXRpbWluZy8pLCBXM0MgUmVjb21tZW5kYXRpb24sIDIwMTItMTItMTcuIExldmVsIDEsIHdoZXJlIHRoZSBvcmlnaW5hbCBkaWFncmFtIGNvbWVzIGZyb207IHRoZSBpbWFnZSBpcyBbdGltaW5nLW92ZXJ2aWV3LnBuZ10oaHR0cHM6Ly93d3cudzMub3JnL1RSL25hdmlnYXRpb24tdGltaW5nL3RpbWluZy1vdmVydmlldy5wbmcpLgotIFtOYXZpZ2F0aW9uIFRpbWluZyBMZXZlbCAyXShodHRwczovL3d3dy53My5vcmcvVFIvbmF2aWdhdGlvbi10aW1pbmctMi8pLCBXM0MgV29ya2luZyBEcmFmdC4gVGhlIGN1cnJlbnQgc3BlYzsgaXRzIHByb2Nlc3NpbmcgbW9kZWwgZGVmaW5lcyB3aGVuIGVhY2ggdGltZXN0YW1wIGlzIHRha2VuLgotIFtQZXJmb3JtYW5jZU5hdmlnYXRpb25UaW1pbmddKGh0dHBzOi8vZGV2ZWxvcGVyLm1vemlsbGEub3JnL2VuLVVTL2RvY3MvV2ViL0FQSS9QZXJmb3JtYW5jZU5hdmlnYXRpb25UaW1pbmcpIG9uIE1ETi4gRXZlcnkgcHJvcGVydHksIHdpdGggYSBkaWFncmFtIG9mIHRoZSBvcmRlciB0aGV5IGZpcmUgaW4uCi0gW1BlcmZvcm1hbmNlLnRpbWluZ10oaHR0cHM6Ly9kZXZlbG9wZXIubW96aWxsYS5vcmcvZW4tVVMvZG9jcy9XZWIvQVBJL1BlcmZvcm1hbmNlL3RpbWluZykgb24gTUROLiBUaGUgZGVwcmVjYXRlZCBMZXZlbCAxIGludGVyZmFjZSwga2VwdCBoZXJlIGZvciByZWFkaW5nIG9sZCBkaWFncmFtcy4KLSBbVGhlIHNjcmlwdCBlbGVtZW50XShodHRwczovL2RldmVsb3Blci5tb3ppbGxhLm9yZy9lbi1VUy9kb2NzL1dlYi9IVE1ML1JlZmVyZW5jZS9FbGVtZW50cy9zY3JpcHQpIG9uIE1ETi4gV2hlbiBhIHBsYWluLCBgYXN5bmNgLCBvciBgZGVmZXJgIHNjcmlwdCBydW5zLgotIFtUb3dhcmRzIEhUVFBTIGJ5IGRlZmF1bHRdKGh0dHBzOi8vYmxvZy5jaHJvbWl1bS5vcmcvMjAyMy8wOC90b3dhcmRzLWh0dHBzLWJ5LWRlZmF1bHQuaHRtbCksIENocm9taXVtIEJsb2csIDIwMjMtMDgtMTYuIFRoZSBhbm5vdW5jZW1lbnQgb2YgQ2hyb21lIHVwZ3JhZGluZyBodHRwIHRvIGh0dHBzIG9uIGl0cyBvd24uCi0gW01lYXN1cmUgdGhlIENyaXRpY2FsIFJlbmRlcmluZyBQYXRoXShodHRwczovL3dlYi5kZXYvYXJ0aWNsZXMvY3JpdGljYWwtcmVuZGVyaW5nLXBhdGgvbWVhc3VyZS1jcnApIG9uIHdlYi5kZXYuIFRoZSBzYW1lIHN1YnRyYWN0aW9ucywgYXBwbGllZCB0byB0aGUgZmlyc3QgcmVuZGVyLgo=18:Tb374,<p>這個站的首頁是 14 KB 的 HTML。連 script、CSS、字型一起算，線上傳輸大約 300 KB。cold start 載入一次花了 1128 ms。哪一段花掉的？</p>
+<p>瀏覽器有記錄。隨便開一個頁面，在 console 貼這行：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">performance.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">getEntriesByType</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'navigation'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)[</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">]</span></span></code></pre></figure>
+<p>回來的是一個物件。下面是那次 cold start 的結果，只留時間戳，單位是毫秒，從導航開始算起：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  fetchStart</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:                   </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">0.6</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  domainLookupStart</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:            </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">0.9</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  domainLookupEnd</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:             </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">74.2</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  connectStart</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:                </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">74.2</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  secureConnectionStart</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:      </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">226.2</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  connectEnd</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:                 </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">287.9</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  requestStart</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:               </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">288.0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  responseStart</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:              </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">522.7</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  responseEnd</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:                </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">523.0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  domInteractive</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:             </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">889.9</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  domContentLoadedEventStart</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">889.9</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  domContentLoadedEventEnd</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:   </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">890.6</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  domComplete</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:               </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">1127.6</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  loadEventStart</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:            </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">1127.7</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  loadEventEnd</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:              </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">1127.8</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  duration</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:                  </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">1127.8</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  transferSize</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:                </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">4076</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  decodedBodySize</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:            </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">14187</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  nextHopProtocol</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:             </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"h2"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>這個物件的格式來自 W3C 的 <a href="https://www.w3.org/TR/navigation-timing-2/">Navigation Timing Level 2</a>（Working Draft，2026-09-01 這版），API 名字是 <a href="https://developer.mozilla.org/en-US/docs/Web/API/PerformanceNavigationTiming"><code>PerformanceNavigationTiming</code></a>。下面 iframe 重畫的那張 Navigation Timing 原圖來自第一版 <a href="https://www.w3.org/TR/navigation-timing/">Level 1</a>（W3C Recommendation，2012-12-17），圖檔在 spec 的 <a href="https://www.w3.org/TR/navigation-timing/#processing-model">Processing Model</a> 那節，API 是 <a href="https://developer.mozilla.org/en-US/docs/Web/API/Performance/timing"><code>performance.timing</code></a>，MDN 已經標 deprecated。兩版的欄位名字大多一樣，差在起點怎麼算，還有 Level 2 少了幾個欄位，文末有對照。</p>
+<p><code>domainLookupEnd − domainLookupStart</code> = 74.2 − 0.9 = 73 ms，這是 DNS 花的時間。其他欄位也是這樣兩兩相減，每一對是一個階段的頭和尾。原圖的每個格子都在下面，包括這次是 0 的：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>階段</th><th>減法</th><th>這次</th><th>瀏覽器在等什麼</th></tr></thead><tbody><tr><td>Prompt for unload</td><td>Level 2 沒有時間戳</td><td></td><td>上一頁的 <a href="https://developer.mozilla.org/en-US/docs/Web/API/Window/beforeunload_event"><code>beforeunload</code></a> 對話框</td></tr><tr><td>unload</td><td>unloadEventEnd − unloadEventStart</td><td>0 ms</td><td>上一頁的 unload handler</td></tr><tr><td>redirect</td><td>redirectEnd − redirectStart</td><td>0 ms</td><td>到最終網址之前的 HTTP redirect</td></tr><tr><td>App cache</td><td>domainLookupStart − fetchStart</td><td>0.3 ms</td><td>原圖叫它 App cache，指的是已經從瀏覽器拿掉的 application cache 檢查，<a href="https://www.w3.org/TR/navigation-timing/#dom-performancetiming-fetchstart">Level 1 的 <code>fetchStart</code></a> 定義在那個檢查之前。<a href="https://www.w3.org/TR/resource-timing-2/#dom-performanceresourcetiming-fetchstart">Level 2 的 <code>fetchStart</code></a> 是 redirect 之後開始 fetch 的時間，這 0.3 ms 在 Level 2 沒有名字</td></tr><tr><td>DNS</td><td>domainLookupEnd − domainLookupStart</td><td>73 ms</td><td>網域名稱換成 IP</td></tr><tr><td>TCP</td><td>secureConnectionStart − connectStart</td><td>152 ms</td><td>TCP 握手，順利的話是一個 round trip。這一次的 152 不是握手的時間，原因見下一節</td></tr><tr><td>TLS</td><td>connectEnd − secureConnectionStart</td><td>62 ms</td><td>交換憑證。<code>secureConnectionStart</code> 取在 TLS 握手開始之前，<a href="https://developer.mozilla.org/en-US/docs/Web/API/PerformanceResourceTiming/secureConnectionStart">純 http 是 0</a></td></tr><tr><td>Request</td><td>responseStart − requestStart</td><td>235 ms</td><td>伺服器送出第一個 byte（TTFB）。<a href="https://developer.mozilla.org/en-US/docs/Web/API/PerformanceResourceTiming/responseStart"><code>responseStart</code> 取在收到第一個 byte 之後</a></td></tr><tr><td>Response</td><td>responseEnd − responseStart</td><td>0.3 ms</td><td>剩下的 byte 傳完</td></tr><tr><td>Parse</td><td>domInteractive − responseEnd</td><td>367 ms</td><td>HTML parser，加上 parser 停下來等的資源。<a href="https://developer.mozilla.org/en-US/docs/Web/API/PerformanceNavigationTiming/domInteractive"><code>domInteractive</code> 取在 readyState 變成 interactive 之前</a></td></tr><tr><td>Deferred scripts</td><td>domContentLoadedEventStart − domInteractive</td><td>0 ms</td><td><code>&#x3C;script defer></code> 跑完</td></tr><tr><td>DOMContentLoaded</td><td>domContentLoadedEventEnd − domContentLoadedEventStart</td><td>0.7 ms</td><td>頁面註冊的 DOMContentLoaded handler</td></tr><tr><td>Subresources</td><td>domComplete − domContentLoadedEventEnd</td><td>237 ms</td><td>圖片、字型、iframe、async script</td></tr><tr><td>onload</td><td>loadEventEnd − loadEventStart</td><td>0.1 ms</td><td>頁面的 load handler</td></tr></tbody></table>
+<p>有值的十三列互不重疊，加起來幾乎等於總時間。redirect 到 Response 加起來 522 ms，Parse 到 onload 605 ms，再加 startTime 到 fetchStart 之間的 0.6 ms，合計 1128 ms。剩下沒被任何一列涵蓋的是兩個 0.1 ms 的空隙，connectEnd 到 requestStart，還有 domComplete 到 loadEventStart。Parse 那 367 ms 大半在等 stylesheet 從網路回來，下一節有數字。14 KB 的 HTML 本身傳完只花 0.3 ms（Response 那列）。</p>
+<p>上面的數字是我的電腦載入一次的結果。下面這張是 Navigation Timing 的原圖，十個格子跟二十一個時間戳都在，只是數字換成你現在看的這一頁自己的載入，從這一頁自己的 entry 讀出來。這個 iframe 本身也是這一頁的 subresource，所以 Processing 跟 Subresources 都把載入 iframe 的時間算進去了：</p>
+<iframe src="/embeds/nav-timing?lang=zh" width="100%" height="1500" style="border:none;" scrolling="no" title="Navigation Timing：這一頁的載入"></iframe>
+<h2>每個階段的 blocking issue</h2>
+<ul>
+<li><strong>unload、redirect、App cache</strong>：這個站上一直是 0。unload 只有上一頁同源才有值，<a href="https://developer.mozilla.org/en-US/docs/Web/API/PerformanceNavigationTiming/unloadEventStart">不同源是 0</a>。redirect 是 0，因為 <a href="https://groups.google.com/a/chromium.org/g/blink-dev/c/cAS525en8XE">Chrome 115 起</a>會在送出請求之前自己把 <code>http://</code> 升成 <code>https://</code>，伺服器對 <code>http://</code> 回的 301 沒被走到。</li>
+<li><strong>DNS</strong>：第一次查詢要 73 ms，之後答案留在作業系統的 resolver cache，換瀏覽器 profile 也清不掉，所以五次 cold start 只有第一次不是 0。</li>
+<li><strong>TCP</strong>：握手至少要一個 round trip，這台機器到伺服器 ping 是 42 到 54 ms，程式碼省不掉，只能用 CDN 讓端點近一點。表格裡的 152 ms 是例外：那次 TLS 做到一半，Chrome 換了憑證驗證器，把連線關掉重開，所以量到的是兩條連線。另外記下的 Chrome netlog（連線過程的紀錄）裡，單次握手是 46 到 68 ms。只有每次都開一個新的 Chrome 來量，才會遇到。</li>
+<li><strong>TLS</strong>：TLS 1.2 握手要兩個 round trip，1.3 只要一個；連線沒被重用也會慢。<a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Connection_management_in_HTTP_1.x">HTTP/1.1 預設會把連線留著</a>，HTTP/2 和 HTTP/3 一條連線多工，所以 TLS 通常每個 origin 只做一次。</li>
+<li><strong>Request</strong>：伺服器在處理請求。靜態檔的話，TTFB 長通常是 CDN 沒有 cache；server render 的話，時間多半花在 render function。<a href="/v2/spa-is-not-csr-rendering-strategies">rendering strategy</a> 影響的主要是這一段。</li>
+<li><strong>Response</strong>：HTML 太大，或沒壓縮。拿 <code>encodedBodySize</code> 跟 <code>decodedBodySize</code> 比就知道（<code>transferSize</code> 含 header，不能拿來比）。這裡 <code>encodedBodySize</code> 是 3772，解開是 14187，壓縮有開。</li>
+<li><strong>Parse</strong>：同一份 HTML，reload 只要 5 到 10 ms，cold start 卻要 198 到 424 ms，差的時間都在等 stylesheet。<code>&#x3C;body></code> 裡有 inline <code>&#x3C;script></code>，<a href="https://html.spec.whatwg.org/multipage/scripting.html#script-processing-model">HTML spec 規定它要等 <code>&#x3C;head></code> 裡還沒載完的 stylesheet</a>，parser 也跟著停。另外用一支會記下每個資源載入時間的腳本再跑五次 cold start，五次的 <code>domInteractive</code> 都在最後一個 stylesheet 載完之後 1 到 29 ms 出現。三個 stylesheet 裡有一個是跨站的 <code>fonts.googleapis.com</code>，光它就要多一次 DNS 加一條新連線，57 到 138 ms。所以這個站的 Parse 要變快，得把 stylesheet inline、preload，或拿掉跨站那個來源。</li>
+<li><strong>Deferred scripts</strong>：<code>&#x3C;script defer></code> 在 parse 完、<code>DOMContentLoaded</code> 之前執行，<a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/script#defer"><code>DOMContentLoaded</code> 會等它</a>。這個站的 chunk 用 <code>async</code>，不會讓 <code>DOMContentLoaded</code> 延後，所以這裡是 0。要是頁面寫的是 <code>&#x3C;script defer src="app.js"></code>，而 <code>app.js</code> 執行要 300 ms，這 300 ms 就會出現在 Deferred scripts。</li>
+<li><strong>Subresources</strong>：<a href="https://developer.mozilla.org/en-US/docs/Web/API/Window/load_event"><code>load</code> 要等圖片、script、iframe 到齊</a>。字型 MDN 沒列，但也算：一個只有字型慢 2 秒的測試頁，<code>load</code> 晚了 2 秒。文章頁 <a href="/v2/from-setstate-to-pixels">from-setstate-to-pixels</a> 嵌了一個跨站 iframe，用記錄 resource timing 的那支腳本跑五次，這一段是 487 到 596 ms，幾乎都在等那個 iframe：它載完之後 0.2 到 1.7 ms，<code>domComplete</code> 就到了。</li>
+</ul>
+<h2>五次 cold start，加一次 reload</h2>
+<p>每次 cold start 都是新開的 headless Chrome 153，新 profile、新 disk cache，導航一次，台北時間下午 12 點到 3 點。reload 是同一個瀏覽器載完首頁後用 DevTools protocol 的 <code>Page.reload</code> 再載一次，entry 的 <code>type</code> 是 <code>reload</code>。文章頁是 <code>/v2/from-setstate-to-pixels</code>。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>階段</th><th>首頁，cold start ×5</th><th>文章頁，cold start ×5</th><th>首頁，reload ×3</th></tr></thead><tbody><tr><td>DNS</td><td>0 到 73 ms</td><td>0 到 1 ms</td><td>0</td></tr><tr><td>TCP + TLS</td><td>127 到 214 ms</td><td>115 到 167 ms</td><td>0</td></tr><tr><td>Request（TTFB）</td><td>49 到 235 ms</td><td>50 到 244 ms</td><td>49 到 51 ms</td></tr><tr><td>Response</td><td>0.3 ms</td><td>14 到 19 ms</td><td>0.5 到 1.1 ms</td></tr><tr><td>Parse</td><td>198 到 424 ms</td><td>221 到 356 ms</td><td>5 到 10 ms</td></tr><tr><td>Subresources</td><td>125 到 237 ms</td><td>496 到 909 ms</td><td>10 到 17 ms</td></tr><tr><td>合計</td><td>555 到 1128 ms</td><td>939 到 1677 ms</td><td>66 到 81 ms</td></tr><tr><td>HTML 傳輸量（transferSize）</td><td>4076 B</td><td>28585 B</td><td>300 B</td></tr></tbody></table>
+<p>reload 欄的 HTML 只傳了 300 bytes，<code>decodedBodySize</code> 還是 14187：300 bytes 只夠放 header，<a href="https://developer.mozilla.org/en-US/docs/Web/API/PerformanceResourceTiming/transferSize">body 從瀏覽器 cache 來</a>。DNS 跟 TCP 是 0，因為連線重用了；Request 還是 49 到 51 ms，跟 ping 一樣長，是問伺服器一次「這份還新鮮嗎」的來回。同一欄裡的差距跟欄與欄之間一樣大，首頁的 TTFB 從 49 到 235 ms，中間什麼都沒改。</p>
+<details>
+<summary>量測腳本</summary>
+<p>Node 22、macOS、Chrome 裝在預設路徑。腳本在 <code>load</code> 之後把 entry 讀出來。reload 那欄用的是同一支腳本加一段：第一次 <code>load</code> 之後送 <code>Page.reload</code>，再讀一次 entry。stylesheet 的時間是另一支同型的腳本，多 dump 一份 <code>performance.getEntriesByType('resource')</code>。字型的測試是一個本機頁面，唯一慢的資源是一個延遲 2 秒的字型檔。</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// node cold.mjs &#x3C;url> &#x3C;runs></span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">import</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> { spawn } </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">from</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'node:child_process'</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">import</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> { mkdtempSync } </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">from</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'node:fs'</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">import</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> { tmpdir } </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">from</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'node:os'</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">import</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> { join } </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">from</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'node:path'</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> [</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">url</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">runsArg</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">] </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> process.argv.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">slice</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">2</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> sleep</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209"> ms</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =></span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> new</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> Promise</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">r</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =></span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> setTimeout</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(r, ms))</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">async</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> once</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">port</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> profile</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> mkdtempSync</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">join</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">tmpdir</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(), </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'chrome-prof-'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">))</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> cache</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> mkdtempSync</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">join</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">tmpdir</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(), </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'chrome-cache-'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">))</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> chrome</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> spawn</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, [</span></span>
+<span data-line=""><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">    '--headless=new'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">`--remote-debugging-port=${</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">port</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">}`</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">    `--user-data-dir=${</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">profile</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">}`</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">`--disk-cache-dir=${</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">cache</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">}`</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">    '--no-first-run'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'about:blank'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  ], { stdio: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'ignore'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> })</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  let</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> targets</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  for</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">let</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">; i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">&#x3C;</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 40</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">; i</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">++</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> sleep</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">250</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    try</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> { targets </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> await</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> fetch</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">`http://127.0.0.1:${</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">port</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">}/json`</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)).</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">json</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(); </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">break</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> } </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">catch</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {}</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  }</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> ws</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> new</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> WebSocket</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(targets.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">find</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">t</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> t.type </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">===</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'page'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">).webSocketDebuggerUrl)</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  await</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> new</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> Promise</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">r</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> ws.onopen </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> r)</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  let</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> id </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 0</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> pending</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> new</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> Map</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  ws.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">onmessage</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209"> e</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> { </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> m</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> JSON</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">parse</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(e.data); </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (pending.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">has</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(m.id)) { pending.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">get</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(m.id)(m); pending.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">delete</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(m.id) } }</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  const</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> send</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">method</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">params</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {}) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> new</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> Promise</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">r</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> { pending.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">set</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">++</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">id, r); ws.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">send</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">JSON</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">stringify</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">({ id, method, params })) })</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> send</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'Page.enable'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> send</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'Page.navigate'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, { url })</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  let</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> entry</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  for</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">let</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">; i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">&#x3C;</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 120</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">; i</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">++</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> sleep</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">250</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> r</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> send</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'Runtime.evaluate'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, { returnByValue: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">true</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">      expression: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">`JSON.stringify(performance.getEntriesByType('navigation')[0]?.toJSON() ?? null)`</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> })</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    entry </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> JSON</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">parse</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(r.result.result.value)</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (entry </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">&#x26;&#x26;</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> entry.loadEventEnd </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">></span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">break</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  ws.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">close</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  chrome.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">kill</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> entry</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> all</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> []</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">for</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">let</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">; i </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">&#x3C;</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> Number</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(runsArg </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">||</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 5</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">); i</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">++</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) all.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">push</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> once</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">9400</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> +</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> i))</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">JSON</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">stringify</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(all))</span></span></code></pre></figure>
+</details>
+<h2>Level 2 拿掉了哪些 Level 1 的時間戳</h2>
+<ul>
+<li><strong>navigationStart</strong>：Level 2 換了時鐘。Level 1 的值是從 1970 年起算的絕對毫秒，Level 2 改用從 time origin 起算的 <code>DOMHighResTimeStamp</code>，<a href="https://www.w3.org/TR/navigation-timing-2/#dom-performancetiming-navigationstart">起點恆為 0</a>，理由是<a href="https://www.w3.org/TR/hr-time-3/">絕對時鐘會被系統調整倒退、精度只到毫秒</a>。navigationStart 變成 <code>startTime</code> 的 0。</li>
+<li><strong>domLoading</strong>：各家瀏覽器建立 Document 的時間點不同，Chrome 在 response 開始前，IE 在 response 開始時，Firefox 要先 buffer 一段，量到的是實作細節。2015 年 <a href="https://github.com/w3c/navigation-timing/issues/13">issue #13</a> 提出移除，<a href="https://www.w3.org/TR/navigation-timing-2/#obsolete-heading">spec 加了 deprecation note</a>。最接近的值是 <code>responseEnd</code>。</li>
+<li><strong>Prompt for unload</strong>：發生在 <code>navigationStart</code> 之前，<a href="https://www.w3.org/TR/navigation-timing/#sec-navigation-timing-interface">Level 1 把起點定義在「問完要不要離開上一頁之後」</a>，兩版都沒有它的時間戳，圖上畫它只是標出起點前面的動作。</li>
+</ul>
+<p><code>startTime</code> 到 <code>fetchStart</code> 那段空檔沒有名字。unload 跟 redirect 有發生的話會落在這段，這次都是 0；<code>redirectStart</code> 是 0 表示沒有 redirect，不是 redirect 花了 0 ms。</p>
+<h2>參考</h2>
+<ul>
+<li><a href="https://www.w3.org/TR/navigation-timing/">Navigation Timing</a>，W3C Recommendation，2012-12-17。Level 1，原圖的出處，圖檔是 <a href="https://www.w3.org/TR/navigation-timing/timing-overview.png">timing-overview.png</a>。</li>
+<li><a href="https://www.w3.org/TR/navigation-timing-2/">Navigation Timing Level 2</a>，W3C Working Draft。現在的 spec，processing model 那節定義每個時間戳在哪一刻取。</li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/PerformanceNavigationTiming">PerformanceNavigationTiming</a>，MDN。每個屬性，附一張它們發生順序的圖。</li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Performance/timing">Performance.timing</a>，MDN。已經 deprecated 的 Level 1 介面，讀舊圖的時候對照用。</li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/script">The script element</a>，MDN。沒有屬性、<code>async</code>、<code>defer</code> 三種 script 各在哪一刻執行。</li>
+<li><a href="https://blog.chromium.org/2023/08/towards-https-by-default.html">Towards HTTPS by default</a>，Chromium Blog，2023-08-16。Chrome 自動把 http 升級成 https 的公告。</li>
+<li><a href="https://web.dev/articles/critical-rendering-path/measure-crp">Measure the Critical Rendering Path</a>，web.dev。同一組減法，用在第一次 render 上。</li>
+</ul>9:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L14",null,{"htmlContent":"$15","rawContent":"$16","base64Content":"$17","title":"1128 ms to load 14 KB of HTML. Where did it go?","createdAt":"$undefined","updatedAt":"$undefined","tags":["browser","performance","frontend"],"altHtmlContent":"$18","altTitle":"載入 14 KB 的 HTML 花了 1128 ms，時間去了哪裡","currentLang":"en","altLang":"zh","canonicalPath":"/v2/page-load-eight-subtractions"}]}]}]

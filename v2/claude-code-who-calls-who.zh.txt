@@ -1,0 +1,1727 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-d71161f4b52714e4.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-d71161f4b52714e4.js"],"default"]
+4:I[47843,["7177","static/chunks/app/layout-d71161f4b52714e4.js"],"default"]
+5:I[48350,[],""]
+6:I[11412,[],""]
+7:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+8:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-6e2326ce7d294bfd.js"],"default"]
+a:I[96727,[],"OutletBoundary"]
+c:I[14038,[],"AsyncMetadataOutlet"]
+e:I[96727,[],"ViewportBoundary"]
+10:I[96727,[],"MetadataBoundary"]
+11:"$Sreact.suspense"
+13:I[92950,[],""]
+:HL["/_next/static/media/4c9affa5bc8f420e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/8feafdfc51f7196d.css","style"]
+:HL["/_next/static/css/27451c99e2657f58.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/0dff27001301522e.css","style"]
+0:{"P":null,"b":"GufBoBqfyMhQxSI4RHjKk","p":"","c":["","v2","claude-code-who-calls-who.zh"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","claude-code-who-calls-who.zh","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8feafdfc51f7196d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/27451c99e2657f58.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href=\"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap\";document.head.appendChild(l)})()"}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L8",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","claude-code-who-calls-who.zh","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/0dff27001301522e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$La",null,{"children":["$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L10",null,{"children":["$","div",null,{"hidden":true,"children":["$","$11",null,{"fallback":null,"children":"$L12"}]}]}]]}],false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+b:null
+d:{"metadata":[["$","title","0",{"children":"Skill、Agent、Tool、Hook：誰呼叫誰  | jialinhuang"}],["$","meta","1",{"name":"description","content":"Claude Code 四個元件的十六種呼叫組合，能跑的都實際跑過，附實測回傳的字串跟串接用的欄位。"}],["$","link","2",{"rel":"canonical","href":"/v2/claude-code-who-calls-who"}]],"error":null,"digest":"$undefined"}
+12:"$d:metadata"
+14:I[25885,["7654","static/chunks/7654-83ccbd1e1704d338.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+15:Tc022,<p>想知道這些東西能不能像俄羅斯娃娃那樣一層包一層，就實驗了一下。Claude Code 自己能設定的是 skill、agent、tool、hook 四種，兩兩配起來十六種，一種一種跑。</p>
+<ul>
+<li><code>allowed-tools</code> 只允許 Read，skill 裡面 trigger Bash，Bash 即便不在 <code>allowed-tools</code> 還是可以跑</li>
+<li>觸發帶 <code>hooks:</code> 的 skill 後，還在同一個 session 的話，hook 不會隨著 skill 結束消失</li>
+<li><code>settings.json</code> 裡 hook 的事件名多打一個 e 這種低級 typo 變成 <code>PreToolUsee</code>，不會報錯也不會觸發。加 <code>--debug</code> 或 <code>--include-hook-events</code> 想檢查也沒有錯誤訊息，只有本來該出現的 hook 事件不見了</li>
+</ul>
+<p>環境：</p>
+<ul>
+<li>CLI 2.1.257，每一次都直接叫 <code>~/.local/share/claude/versions/2.1.257</code>，不走 <code>claude</code> symlink（它會自己更新）</li>
+<li>Agent SDK 固定在 0.3.257</li>
+<li>每個實驗都跑在 <code>-p</code>（<code>--print</code>）底下：給一句 prompt，跑完把結果印出來就結束，不開互動介面，也不跳任何對話框</li>
+</ul>
+<h2>model 跟 engine</h2>
+<p><code>model</code> 是 Opus、Fable 那種跑在 API 那頭的語言模型。要叫 tool 的時候，它回覆裡會多一塊 <code>tool_use</code>：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"type"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"tool_use"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"name"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Bash"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"input"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: {</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"command"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"git status"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}}</span></span></code></pre></figure>
+<p>這段 JSON 是 model 寫出來的文字，<code>git status</code> 到這裡還沒跑。</p>
+<p><code>engine</code> 是本機執行的那支 <code>claude</code> binary。它把工具清單交給 model，收到 <code>tool_use</code> 就去執行，執行前後還會去看 <code>settings.json</code> 裡有沒有 hook 要跑。</p>
+<p>engine 每另外開一段 context 去做事，那段就叫 subagent。主線自己也算一段。每段 context 有自己的工具清單，主線一份，每個 subagent 各一份。</p>
+<p>下面四種元件裡，skill 跟 agent 是磁碟上的 <code>.md</code> 檔，hook 寫在 <code>settings.json</code> 或 frontmatter，tool 沒有檔案。檔案本身不會做事，是 model 跟 engine 讀了以後才有行為。</p>
+<h2>四個元件</h2>
+<h3>tool</h3>
+<p>tool 就是 model 能呼叫的函式，一個名字加一份參數 schema。</p>
+<p>清單上有 <code>Bash</code>，沒有 <code>git status</code>。要 model 跑 <code>git status</code>，它發出來的是一次 <code>Bash</code> 呼叫，<code>git status</code> 是傳給 <code>Bash</code> 的參數。一個東西要成為 tool，得先登記進這個 session 的工具清單，沒登記 model 就看不到，也沒辦法呼叫。</p>
+<p>清單上的 tool 本身不是 process。<code>Bash</code> 是一個名字加上參數格式，被呼叫的時候那行指令才交給 shell 去跑。</p>
+<p>內建 tool 的名字是一個詞，像 <code>Read</code>、<code>Write</code>、<code>Edit</code>、<code>Bash</code>。</p>
+<p>MCP server 給的格式如下：</p>
+<ul>
+<li><code>mcp__&#x3C;server>__&#x3C;tool></code></li>
+<li><code>mcp__claude_ai_Jira__getJiraIssue</code></li>
+</ul>
+<p>大寫的 <code>Agent</code> 跟 <code>Skill</code> 也是 tool，跟 <code>Bash</code>、<code>Read</code> 排在同一份清單裡；小寫的 agent 跟 skill 是磁碟上的 <code>.md</code> 檔案，寫的是這個 agent 扮演誰、這份 skill 要做哪些步驟。開一個 subagent 就是 model 呼叫 <code>Agent</code>，跑一份 skill 就是呼叫 <code>Skill</code>。<code>SKILL.md</code> 自己不會執行，model 呼叫 <code>Skill</code> 之後才載入。</p>
+<h3>skill</h3>
+<p>skill 就是一份 <code>SKILL.md</code>，路徑是 <code>.claude/skills/&#x3C;名字>/SKILL.md</code>。放在專案目錄底下，只有那個專案有；放在 <code>~/.claude/skills/</code> 底下，每個專案都有。</p>
+<p>檔案開頭兩行 <code>---</code> 中間夾的那塊叫 frontmatter，YAML 格式，設定都寫在那裡。第二行 <code>---</code> 底下是寫給 model 看的步驟。</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="markdown" data-theme="github-dark github-light"><code data-language="markdown" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;--shiki-light:#005CC5;--shiki-light-font-weight:bold">---</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">name: hooktest</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">description: Test skill. Use when the user says hooktest.</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;--shiki-light:#005CC5;--shiki-light-font-weight:bold">---</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">Call the Bash tool with command: echo HELLO</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">Then report in one line exactly what happened.</span></span></code></pre></figure>
+<p>model 看 <code>description</code> 決定什麼時候用它，內文是載入之後照著跑的程序。<code>SKILL.md</code> 就是一份文字，不會自己執行。</p>
+<h3>agent</h3>
+<p>agent 定義開出來的 subagent 是一段不帶主線對話紀錄的 context，接任務、自己做完、回結論給主線，中間過程不會進主線。CLI 跟 SDK 放定義的地方不一樣：</p>
+<ul>
+<li>CLI 讀 <code>.claude/agents/&#x3C;name>.md</code></li>
+<li>SDK 沒有檔案這一層。跑一個 session 的入口是 <code>query()</code>，同樣的內容當 <code>agents</code> 選項傳給它，欄位跟檔案裡一樣</li>
+</ul>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="markdown" data-theme="github-dark github-light"><code data-language="markdown" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;--shiki-light:#005CC5;--shiki-light-font-weight:bold">---</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">name: probe</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">description: Test agent for preloaded skills and tool limits.</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">skills: [</span><span style="--shiki-dark:#DBEDFF;--shiki-dark-text-decoration:underline;--shiki-light:#032F62;--shiki-light-text-decoration:underline">secretskill</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">]</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">tools: [Read, Bash]</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">model: haiku</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;--shiki-light:#005CC5;--shiki-light-font-weight:bold">---</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">You are a test agent. Answer exactly what is asked.</span></span></code></pre></figure>
+<p>subagent 的工具清單由 <code>tools</code> 這一行決定：</p>
+<ul>
+<li>不寫，繼承 parent agent 的清單，parent 有什麼它就有什麼</li>
+<li>寫了，只能用宣告的那幾個</li>
+<li>想讓它自己再開下一層，清單裡要有 <code>Agent</code>（寫 <code>Task</code> 也通，engine 內部是同一個）</li>
+</ul>
+<p>兩份定義只差 <code>Bash</code> 在不在清單上，都叫它跑 <code>echo HELLO</code>：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>定義寫的</th><th>跑出來</th></tr></thead><tbody><tr><td><code>tools: [Read]</code></td><td>echo 沒跑，<code>tool_uses: 0</code>。subagent 回 <code>I don't have access to a Bash tool. The only available tool I have is the Read function for reading files from the filesystem. I cannot execute shell commands.</code>（原話，字是 model 自己寫的，每次不一樣）</td></tr><tr><td><code>tools: [Read, Bash]</code></td><td>呼叫 Bash，回 <code>HELLO</code></td></tr></tbody></table>
+<p>另一個欄位 <code>skills</code>：寫 <code>skills: [inner]</code>，engine 只把 <code>inner</code> 的內文預先放進 subagent 的 context；subagent 的工具清單裡還是沒有 <code>Skill</code> 這個 tool，所以它沒辦法呼叫任何 skill。</p>
+<h4>tools、skills、allowedTools、disallowedTools</h4>
+<p>下面一律用大寫 <code>Skill</code> 指工具清單上的那個 tool，小寫 skill 指磁碟上的 <code>SKILL.md</code>。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>欄位</th><th>這樣寫的影響</th></tr></thead><tbody><tr><td><code>tools</code></td><td>工具清單換成列出來的，MCP 的 tool 一起換掉；整行不寫就繼承 parent 的</td></tr><tr><td><code>skills</code></td><td>把 skill 內文放進 context，工具清單不動</td></tr><tr><td><code>disallowedTools</code></td><td>工具清單拿掉列出來的，MCP 的 tool 也一起拿掉</td></tr></tbody></table>
+<p>同樣的名字也能傳給 SDK 的 <code>query()</code>。<code>disallowedTools</code> 在 <code>query()</code> 裡效果是一樣的，<code>tools</code>、<code>skills</code> 則不同，<code>query()</code> 還多一個 <code>allowedTools</code>：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>SDK 的 <code>query()</code></th><th>這樣寫的影響</th></tr></thead><tbody><tr><td><code>tools</code></td><td>只換內建 tool，MCP 的留著</td></tr><tr><td><code>skills</code></td><td>一份 allowlist，<code>Skill</code> 只能叫列進去的 skill</td></tr><tr><td><code>allowedTools</code></td><td>工具清單不動，列出來的 tool 執行前不會問使用者</td></tr></tbody></table>
+<p>陣列的引號也分兩邊：<code>query()</code> 收的是 JS 物件，一定要寫 <code>["Read","Bash"]</code>；agent 定義是 YAML，這篇一律寫 <code>[Read, Bash]</code>。</p>
+<p><code>tools: [Read, Bash, Skill]</code> 這樣寫，官方標了 deprecated（<code>sdk.d.ts</code> 的註解：<code>passing 'Skill' here is deprecated — use the skills field instead</code>）。但同一個 type 裡 <code>skills</code> 的定義是 <code>Array of skill names to preload into the agent context</code>，preload 進 context 不等於進工具清單，改寫成 <code>skills: [inner]</code>，再叫 subagent 用 <code>Skill</code> 跑 <code>inner</code>（prompt 要它沒有這個 tool 就回 <code>NO-SKILL-TOOL</code>），它回 <code>NO-SKILL-TOOL</code>。要 subagent 跑 skill，<code>tools:</code> 整行不寫（繼承 parent 的清單）或列進 <code>Skill</code>，只有這兩條路。</p>
+<h3>hook</h3>
+<p>hook 是 <code>settings.json</code> 裡的一條規則，內容就是哪個事件、matcher 比對什麼、然後跑什麼。</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "hooks"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: {</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">    "PreToolUse"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">      "matcher"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Write|Edit"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">      "hooks"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [{ </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"type"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"command"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"command"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"bash ~/hooks/prose-guard.sh"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> }]</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    }]</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p><code>hooks</code> 在這份 JSON 裡出現兩次。外層是事件表，<code>PreToolUse</code> 這種事件名字掛在它下面。內層的陣列裝的是命中之後要執行的項目，下面都叫它 action。</p>
+<p><a href="https://code.claude.com/docs/en/hooks-reference">官方文件</a>定義了 33 種事件。常用的有：</p>
+<ul>
+<li><code>PreToolUse</code> 在 tool 執行之前跑，可以否決 tool 呼叫</li>
+<li><code>PostToolUse</code> 在 tool 成功之後跑</li>
+<li><code>UserPromptSubmit</code> 在訊息送出之後、model 讀到之前跑</li>
+<li><code>SessionStart</code> 開場跑一次</li>
+<li><code>Stop</code> 在一輪結束的時候跑</li>
+</ul>
+<p>Matcher 比對 tool 名字：只有字母、數字、<code>_</code>、<code>-</code>、<code>|</code> 這類字元時是完全比對，出現其他字元才當 regex。留空或寫 <code>*</code> 就是全部命中。regex 寫壞，engine 不會停，只印一行 <code>Invalid regex pattern in hook matcher</code> 然後當作沒命中。MCP 的名字要寫完整才命中，只寫 <code>mcp__jira</code> 什麼都不會命中，得寫成 <code>mcp__jira__.*</code>。</p>
+<p>要在每次開 subagent 之前做點什麼，matcher 填 <code>Agent</code>：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{ </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"hooks"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: { </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"PreToolUse"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  { </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"matcher"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Agent"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">    "hooks"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [{ </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"type"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"command"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"command"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"bash ~/hooks/log-subagent.sh"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> }] }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">] } }</span></span></code></pre></figure>
+<p>內層 <code>hooks</code> 陣列每一項的 <code>type</code> 有五種可以填，就是五種 action。五種都是 engine 自己去執行的，主線的 model 不參與。<code>prompt</code> 跟 <code>agent</code> 會另外叫一次 model，那是 hook 自己開的呼叫，跟主線的 model 是兩回事。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>type</th><th>跑什麼</th><th>誰去執行</th></tr></thead><tbody><tr><td><code>command</code></td><td>一段 shell 指令，hook 的輸入從 stdin 進去</td><td>engine 開一個 process</td></tr><tr><td><code>prompt</code></td><td>一個小 model 判斷條件成不成立</td><td>engine 發一次 model 呼叫</td></tr><tr><td><code>agent</code></td><td>一個 agent 做判斷，<code>model</code> 可以指定，不寫是 Haiku</td><td>engine 開一個 subagent</td></tr><tr><td><code>mcp_tool</code></td><td>呼叫某台已經設定好的 MCP server 上的 tool</td><td>engine 直接對那台 server 發 <code>tools/call</code></td></tr><tr><td><code>http</code></td><td>把 hook 輸入 POST 到一個 URL</td><td>engine 發一個 HTTP request</td></tr></tbody></table>
+<p>五種不是每種都測過：<code>command</code>、<code>mcp_tool</code>、<code>prompt</code> 三種跑過，<code>agent</code> 只在 tool 事件上跑過，<code>http</code> 沒跑。內建的 <code>/goal</code> 就是一條掛在 <code>Stop</code> 的 <code>prompt</code>，每一輪結束回一句 <code>Stop hook feedback: [...]</code> 進 context。</p>
+<p>五種裡面只有 <code>mcp_tool</code> 填的是 tool，也就是 tool 一節講的、登記過的名字，像 <code>"server": "marker", "tool": "record"</code>（<code>marker</code> 是自己架的一台測試用 MCP server，只有一個叫 <code>record</code> 的 tool）。其他四種填的是 script 路徑、一段 prompt、一段 prompt 加 model、一個網址，engine 自己處理，log 裡不會出現 <code>tool_use</code>。<code>matcher</code> 欄位雖然也填 tool 名字，但那是條件，不是要執行的對象。</p>
+<h2>十六種組合</h2>
+<p>中間那欄是誰去發呼叫，箭頭後面是決定成不成立的欄位。agent 那一欄寫的是 subagent，因為測的都是 <code>.claude/agents/&#x3C;name>.md</code> 開出來的那一層，主線自己呼叫 tool 不在表格裡。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>標記</th><th>什麼欄位</th><th>為什麼是它發</th><th>幾列</th></tr></thead><tbody><tr><td><strong>engine</strong></td><td><code>agent</code>、<code>mcp_tool</code>、<code>context: fork</code>、<code>hooks:</code></td><td>欄位裡已經寫好叫誰、帶什麼參數</td><td>5（<code>hooks:</code> 自己佔兩列）</td></tr><tr><td><strong>model</strong></td><td><code>tools:</code>、<code>allowed-tools</code></td><td>只說可以用哪些，沒說叫哪一個</td><td>4</td></tr><tr><td><strong>間接</strong></td><td>沒有欄位</td><td>只能把要求寫成文字送進 context，看 model 理不理</td><td>3</td></tr><tr><td><strong>不成立</strong></td><td>tool 沒有自己的設定檔</td><td>skill、subagent 各有一份 <code>.md</code>，hook 寫在 <code>settings.json</code> 或 frontmatter，tool 只是清單上的名字</td><td>4</td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>誰呼叫誰</th><th>誰發的</th><th>測到什麼</th></tr></thead><tbody><tr><td>subagent 呼叫 subagent</td><td>model ← <code>tools:</code> 含 <code>Agent</code></td><td>第二層的 <code>tool_use</code> 帶著第一層的 <code>parent_tool_use_id</code></td></tr><tr><td>subagent 呼叫 hook</td><td>engine ← frontmatter 的 <code>hooks:</code></td><td>回 <code>BLOCKED-BY-AGENT-HOOK</code>（資料夾要先信任過）</td></tr><tr><td>subagent 呼叫 tool</td><td>model ← <code>tools:</code></td><td>不寫就跟 parent 一樣，寫了 <code>tools: [Read]</code> 就只剩 Read</td></tr><tr><td>subagent 呼叫 skill</td><td>model ← <code>tools:</code> 含 <code>Skill</code>，或整行不寫</td><td><code>tool_use</code> 的 name 是 <code>Skill</code>，<code>parent_tool_use_id</code> 指向第一層</td></tr><tr><td>hook 呼叫 subagent</td><td>engine ← <code>agent</code> action</td><td><code>Agent hook condition was not met: AGENT-HOOK-BLOCKED</code></td></tr><tr><td><strong>hook 呼叫 hook</strong></td><td>間接 model ← 沒有欄位</td><td><code>agent</code> action 裡的 model 去呼叫 tool，才會再觸發一次</td></tr><tr><td>hook 呼叫 tool</td><td>engine ← <code>mcp_tool</code> action</td><td>MCP server 收到 <code>tools/call</code>，log 裡沒有 <code>tool_use</code></td></tr><tr><td><strong>hook 呼叫 skill</strong></td><td>間接 model ← 沒有欄位</td><td>靠 <code>additionalContext</code> 請 model 去叫，回 <code>GREET-RAN</code></td></tr><tr><td>skill 呼叫 subagent</td><td>engine ← <code>context: fork</code></td><td><code>Skill "forktest" completed (forked execution).</code></td></tr><tr><td>skill 呼叫 hook</td><td>engine ← frontmatter 的 <code>hooks:</code></td><td>回 <code>BLOCKED-BY-SKILL-HOOK</code></td></tr><tr><td>skill 呼叫 tool</td><td>model ← <code>allowed-tools</code> 不是限制</td><td><code>allowed-tools: Read</code> 寫著，內文要 Bash 還是照發</td></tr><tr><td><strong>skill 呼叫 skill</strong></td><td>間接 model ← 沒有欄位</td><td>內文請 model 去叫，回 <code>INNER-RAN</code></td></tr><tr><td>tool 呼叫 subagent</td><td>不成立</td><td>engine 沒有這條路</td></tr><tr><td>tool 呼叫 skill</td><td>不成立</td><td>engine 沒有這條路</td></tr><tr><td>tool 呼叫 tool</td><td>不成立</td><td>engine 沒有這條路</td></tr><tr><td>tool 呼叫 hook</td><td>不成立</td><td>hook 是 engine 在 tool 前後叫的，tool 沒參與</td></tr></tbody></table>
+<p><strong>巢狀 subagent 有上限。</strong> binary 裡的預設值是 3，但 engine 還會讀一個遠端 flag 蓋過它，所以實際上限不一定是 3；<code>CLAUDE_CODE_MAX_SUBAGENT_SPAWN_DEPTH</code> 可以指定。深度只算 subagent：主線是 0，主線開的第一個 subagent 是 1，那個 subagent 再開一個就是 2。</p>
+<p>設成 2 的時候，主線開 A（深度 1）、A 開 B（深度 2）都成立，輪到 B 要往下開第三層，它的工具清單裡就沒有 <code>Agent</code>。設成 1 的話，換成 A 那一層的清單裡沒有。</p>
+<p>B 的定義自己寫了 <code>tools: [Read, Bash, Agent]</code>，清單裡還是沒有。深度到了上限，engine 就把 <code>Agent</code> 從清單拿掉，定義檔寫了也一樣。</p>
+<p>subagent 回報的那句話每次不一樣，因為那是 model 自己組的，不是 engine 的固定字串。同一組設定跑兩次，一次講 <code>no Agent or Task tool available. The only tools in my toolset are Read and Bash</code>，一次講 <code>the Agent tool is not available to me</code>。</p>
+<h3>tool 能不能主動呼叫別的東西</h3>
+<p>tool 呼叫 subagent、tool 呼叫 skill、tool 呼叫 tool，這三列都不成立。tool 不會自己發呼叫，發呼叫的是 model 或 engine。</p>
+<p><code>Agent</code> 被呼叫之後跑起來的 subagent 會去呼叫 tool、skill、下一層 subagent，但那是 subagent 在叫，不是 <code>Agent</code> 在叫。</p>
+<p>有個繞過去的辦法：MCP server 是自己寫的程式，<code>tools/call</code> 進來之後可以另外開一個 <code>claude</code> process，新 process 的 engine 可以照常開 subagent、跑 skill。測試 server 上有一個叫 <code>delegate</code> 的 tool，內容就這一行：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="javascript" data-theme="github-dark github-light"><code data-language="javascript" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">execFileSync</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"claude"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, [</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"-p"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, args.q, </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"--output-format"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"text"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">])</span></span></code></pre></figure>
+<p>回 <code>delegated-agent said: DELEGATED-OK</code>。但那是另一個 session，已經超出「誰呼叫誰」在問的範圍，只是看起來很像才放進來，三列還是不成立。</p>
+<p><code>tool 呼叫 hook</code> 不成立的理由跟上面三列不一樣。hook 確實跑了，但跑在 Bash 開始之前，叫它的是 engine，Bash 從頭到尾沒參與：</p>
+<pre><code>model 寫出 tool_use，name=Bash，command=echo MAIN
+→ engine 看看 settings.json 的 hook 設定
+→ matcher 命中，engine 執行 action，等它執行完
+→ 回 deny  → 到此為止，shell 從頭到尾沒收到東西
+→ 沒 deny  → engine 才把 echo MAIN 交給 shell
+</code></pre>
+<p>要說 tool 呼叫了 hook，得是 Bash 執行過程中自己去觸發了誰，而它連執行都還沒開始。<code>PostToolUse</code> 也一樣，Bash 跑完之後去發 hook 的還是 engine。</p>
+<h3>hook 呼叫 hook 或 skill</h3>
+<h4>hook 呼叫 hook</h4>
+<p>五種 action 沒有一種的值是另一條 hook，所以設定檔裡沒地方寫「然後去觸發那條 hook」。</p>
+<p>讓 model 去呼叫 tool，就會再觸發一次。同一條 <code>PreToolUse</code> 掛兩個 action，一個 <code>command</code> 把命中的指令記進 <code>ran.txt</code>，一個 <code>agent</code> 要求它開出來的 subagent 自己去跑 <code>echo FROMHOOKAGENT</code>。主線只呼叫一次 Bash，<code>ran.txt</code> 有兩行：</p>
+<pre><code>PreToolUse | echo MAIN
+PreToolUse | echo FROMHOOKAGENT
+</code></pre>
+<p>第二行是 subagent 自己跑出來的。它沒有宣告任何 hook，但它呼叫 Bash 的時候，engine 查的是同一份 <code>settings.json</code>，<code>matcher: "Bash"</code> 第二次命中。</p>
+<p>只把 <code>agent</code> 的 prompt 換成「回一個 OK 就好，不用跑任何指令」，別的都不動，<code>ran.txt</code> 就剩一行。變數只有 model 有沒有去呼叫 tool，所以這條路成不成立是 model 決定的。</p>
+<p>第二次命中時，engine 只跑了 <code>command</code>，沒有再處理 <code>agent</code>，所以停在兩行。<code>--debug-file</code> 的紀錄裡 <code>Processing agent hook</code> 只出現一次；hook 開出來的 subagent 呼叫 Bash 時，<code>agent_id</code> 是 <code>hook-agent-…</code>，<code>command</code> 照常觸發，<code>agent</code> 不再觸發。跑了兩次結果一樣，官方文件沒寫這條。engine 自己發的呼叫不算：<code>mcp_tool</code> action 由 engine 直接呼叫 MCP server，server 收得到，但 <code>tools/call</code> 不會回頭觸發 <code>PreToolUse</code>。</p>
+<h4>hook 呼叫 skill</h4>
+<p>五種 action 沒有一種的值可以填 skill 的名字。</p>
+<p>剩下的路只有間接：hook script 回一段 <code>additionalContext</code>，那段字被塞進 model 的 context，model 讀到之後自己去叫 <code>Skill</code> tool。</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">#!/bin/bash</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">echo</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> '{"hookSpecificOutput":{"hookEventName":"UserPromptSubmit","additionalContext":"You must now invoke the skill named greet using the Skill tool before answering."}}'</span></span></code></pre></figure>
+<p>掛在 <code>UserPromptSubmit</code> 上，然後輸入 <code>Say hello.</code>，log 的下一步就是一筆 <code>tool_use</code>，name 是 <code>Skill</code>、skill 是 <code>greet</code>，最後回 <code>GREET-RAN</code>。但這條路不一定會成功。hook 做的只是把一句話塞進 context，真的去叫 <code>Skill</code> 的是 model，它也可以不理。</p>
+<h2>skill 用哪些欄位串接</h2>
+<p>skill 要去叫 tool、subagent、hook，<code>SKILL.md</code> 的 frontmatter 各有欄位：<code>allowed-tools</code> 對 tool，<code>context: fork</code> 加 <code>agent</code> 對 subagent，<code>hooks</code> 對 hook。<code>context: fork</code> 跟 <code>hooks</code> 是 engine 照著做，寫了就會發生。<code>allowed-tools</code> 不是。它影響的是 skill 內文去叫 tool 的那一步：列進去的 tool，engine 不先問使用者就跑；沒列的一樣能呼叫。</p>
+<p>model 呼叫 <code>Skill</code> 的那一步，engine 另外判斷一次要不要核准。哪些 frontmatter 欄位會讓這一步需要核准呢？五份 skill，每份只比 <code>name</code>／<code>description</code> 多一種欄位，分別測試，都在 <code>-p</code> 底下各叫一次。不加 <code>--dangerously-skip-permissions</code>，加了 engine 每一次都判 allow，<code>ask</code> 不會出現，就測不出來。每一次 tool_use 都會有一筆 <code>tool_result</code> 回給 model，有跑沒跑都有，差在字串：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>skill</th><th>frontmatter 多了什麼</th><th><code>tool_result</code> 回什麼</th></tr></thead><tbody><tr><td><code>inner</code></td><td>沒有，只有 <code>name</code> / <code>description</code></td><td><code>Launching skill: inner</code></td></tr><tr><td><code>forktest</code></td><td><code>context: fork</code></td><td><code>Skill "forktest" completed (forked execution).</code></td></tr><tr><td><code>tooltest</code></td><td><code>allowed-tools: Read</code></td><td><code>Execute skill: tooltest</code></td></tr><tr><td><code>dtest</code></td><td><code>disallowed-tools: Bash</code></td><td><code>Execute skill: dtest</code></td></tr><tr><td><code>hooktest</code></td><td><code>hooks: PreToolUse …</code></td><td><code>Execute skill: hooktest</code></td></tr></tbody></table>
+<p><strong>表上三個 <code>Execute skill: &#x3C;name></code> 讀起來像已經執行了，其實是拒絕</strong>。model 有送出 <code>Skill</code> 的 tool_use，engine 判斷要核准，<code>-p</code> 沒人可以按，就回拒絕，<code>SKILL.md</code> 的內文沒有載入。同一份 <code>tooltest</code> 不帶 <code>-p</code> 跑，manual mode 跳的對話框寫的是「Use skill "tooltest"?」，auto mode 直接放行；caveat 那張表是三種模式的對照。</p>
+<p>engine 載入 skill 之後，拿 frontmatter 的 key 逐個比對一份寫死在 binary 裡的清單（44 個，<code>strings</code> 撈 <code>new Set(["type","progressMessage"…</code> 就找得到，沒有公開文件）。常用的 key 分兩邊：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>frontmatter 的 key</th><th>在清單上</th><th>寫了會怎樣</th></tr></thead><tbody><tr><td><code>name</code>、<code>description</code>、<code>model</code>、<code>context</code>、<code>agent</code>、<code>background</code></td><td>在</td><td>直接載入，不問</td></tr><tr><td><code>hooks</code>、<code>allowed-tools</code>、<code>disallowed-tools</code>，以及任何清單上沒有的 key</td><td>不在</td><td>冒號後面有東西，engine 載入前先問人；後面空著、<code>[]</code>、<code>{}</code> 當作沒寫，照樣直接載入</td></tr></tbody></table>
+<p><code>tooltest</code> 的 <code>allowed-tools: Read</code> 是第二列，回 <code>Execute skill: tooltest</code>；<code>forktest</code> 的 <code>context: fork</code> 是第一列，直接跑。</p>
+<p>比對用的是載入後的物件屬性，<code>allowed-tools</code> 讀進去會變成 <code>allowedTools</code>，兩種寫法都不在清單上，結果一樣。</p>
+<p>skill 叫另一份 skill 沒有欄位可以用。frontmatter 裡沒有任何 key 能填別份 skill 的名字，只能寫在內文。</p>
+<h3>skill 串接 tool</h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="markdown" data-theme="github-dark github-light"><code data-language="markdown" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;--shiki-light:#005CC5;--shiki-light-font-weight:bold">---</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">name: restricttest</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">description: Test skill. Use when the user says restricttest.</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">allowed-tools: Read</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;--shiki-light:#005CC5;--shiki-light-font-weight:bold">---</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">Call the Bash tool with command: echo HELLO</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">Then state in one line whether the Bash call succeeded or was refused.</span></span></code></pre></figure>
+<p>binary 裡的 zod schema 對 <code>allowed-tools</code> 的說明是 <code>Tools available to the model while this file is active</code>，讀起來像只有列出來的 tool 能用，實際跑的結果不是這樣。同一份內文、同一個問法，換 frontmatter 各跑一次：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>frontmatter 寫了什麼</th><th>Bash 跑不跑</th></tr></thead><tbody><tr><td>沒寫這一行</td><td>跑了，<code>tool_result</code> 回 <code>HELLO</code></td></tr><tr><td><code>allowed-tools: Read</code></td><td>跑了，<code>tool_result</code> 回 <code>HELLO</code></td></tr><tr><td><code>disallowed-tools: Bash</code></td><td><code>Permission to use Bash has been denied.</code></td></tr></tbody></table>
+<p><code>allowed-tools</code> 列進去的 tool，engine 不會跳出來問使用者，沒列的一樣能呼叫。<code>disallowed-tools</code> 列進去的 tool 一呼叫就被拒絕。它的說明寫 <code>Tools removed from the model while this file is active</code>，加了 <code>--dangerously-skip-permissions</code> 結果也一樣。</p>
+<p><code>disallowed-tools</code> 的說明還有一句 <code>Cleared when the user sends the next message</code>。<code>--resume</code> 同一個 session 再送一則「跑 <code>echo AFTER</code>」，Bash 就回 <code>AFTER</code>，限制只在 skill 被叫起來的那一輪有效。</p>
+<p>agent 定義那邊有 <code>tools</code> 跟 <code>disallowedTools</code>，<code>SKILL.md</code> 沒有 <code>tools</code>。<code>tools</code> 是整份清單的白名單，<code>disallowedTools</code> 反過來，列出來的拿掉、其他的照常。兩個的範圍在上面 agent 一節。</p>
+<h3>skill 串接 subagent</h3>
+<p>同一份 skill，只差這一行：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="diff" data-theme="github-dark github-light"><code data-language="diff" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  ---</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  name: forktest</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  description: Test skill. Use when the user says forktest.</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+ context: fork</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  ---</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  Reply with exactly one word: FORKED</span></span></code></pre></figure>
+<p>寫了 <code>context: fork</code>，engine 開一個 subagent 去跑這份 skill。內文變成 subagent 的任務描述。沒寫 <code>context: fork</code> 的話，內文載入主線，model 自己照著跑。</p>
+<p>兩份各叫一次，<code>tool_result</code> 回的字串不一樣。<code>-</code> 是沒寫的那份，<code>+</code> 是加了 <code>context: fork</code> 的：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="diff" data-theme="github-dark github-light"><code data-language="diff" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#FDAEB7;--shiki-light:#B31D28">- Launching skill: forktest</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+ Skill "forktest" completed (forked execution).</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+ Result:</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+ FORKED</span></span></code></pre></figure>
+<p>搭配的 <code>agent</code> 欄位指定用哪一種 agent 去跑，填 <code>.claude/agents/&#x3C;name>.md</code> 的 name，或者內建的 agent type（像 <code>Explore</code>）。可選，只寫 <code>context: fork</code> 也會 fork。填錯了不會報錯，下面 silent fail 一節有。</p>
+<h3>skill 串接 hook</h3>
+<p>skill 的 <code>hooks:</code> 設一個一律拒絕 Bash 的 script，內文叫 Bash 跑 <code>echo HELLO</code>：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="markdown" data-theme="github-dark github-light"><code data-language="markdown" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;--shiki-light:#005CC5;--shiki-light-font-weight:bold">---</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">name: hooktest</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">description: Test skill. Use when the user says hooktest.</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">hooks:</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  PreToolUse:</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    - matcher: Bash</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">      hooks:</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">        - type: command</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">          command: bash .claude/skills/hooktest/deny.sh</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;--shiki-light:#005CC5;--shiki-light-font-weight:bold">---</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">Call the Bash tool with command: echo HELLO</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">Then report in one line exactly what happened.</span></span></code></pre></figure>
+<p><code>deny.sh</code> 印一行 JSON 就夠。</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">#!/bin/bash</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">echo</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> '{"hookSpecificOutput":{"hookEventName":"PreToolUse","permissionDecision":"deny","permissionDecisionReason":"BLOCKED-BY-SKILL-HOOK"}}'</span></span></code></pre></figure>
+<p><code>permissionDecision</code> 是 <code>deny</code>，engine 就不把 <code>echo HELLO</code> 交給 shell。<code>permissionDecisionReason</code> 的字串會變成 model 收到的 <code>tool_result</code>，所以 model 看到的是 <code>BLOCKED-BY-SKILL-HOOK</code>。</p>
+<p>為了看 deny 從什麼時候開始、到什麼時候失效，在同一個 session 裡連下三句。<code>echo BEFORE</code> 跟 <code>echo AFTER</code> 不在 <code>hooktest</code> 的 <code>SKILL.md</code> 裡，是我另外下的：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>輸入</th><th>回什麼</th><th>當下的狀態</th></tr></thead><tbody><tr><td><code>echo BEFORE</code></td><td><code>BEFORE</code></td><td>skill 還沒被叫起來</td></tr><tr><td><code>hooktest</code></td><td><code>BLOCKED-BY-SKILL-HOOK</code></td><td>被拒絕的是內文那句 <code>echo HELLO</code></td></tr><tr><td><code>echo AFTER</code></td><td><code>BLOCKED-BY-SKILL-HOOK</code></td><td>skill 已經跑完了</td></tr></tbody></table>
+<p>skill 被叫起來之後，它 frontmatter 的 <code>hooks:</code> 就註冊在這個 session 上，之後每次呼叫 tool 都會經過，不管當時在不在跑 skill。session 關掉就沒了：重開一個 session，同一個目錄跑 <code>echo AFTER</code>，回的是 <code>AFTER</code>。</p>
+<h4>對照：agent 串接 hook</h4>
+<p>agent 定義的 frontmatter 也支援 <code>hooks:</code>，欄位跟 <code>SKILL.md</code> 一樣。把同一條 deny 規則搬到 <code>.claude/agents/probe.md</code>，同樣三句連下：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>輸入</th><th>回什麼</th><th>當下的狀態</th></tr></thead><tbody><tr><td><code>echo BEFORE</code>（主線）</td><td><code>BEFORE</code></td><td>probe 還沒開</td></tr><tr><td>叫 probe 跑 <code>echo SUB</code></td><td><code>PreToolUse:Bash hook error: BLOCKED-BY-AGENT-HOOK</code></td><td>probe 的 <code>hooks:</code> 在 subagent 裡生效</td></tr><tr><td><code>echo AFTER</code>（主線）</td><td><code>AFTER</code></td><td>主線沒受影響</td></tr></tbody></table>
+<p>跟 skill 那張差在第三列：skill 的 <code>hooks:</code> 跑過一次就留在 session 上，主線的 <code>echo AFTER</code> 也被拒；agent 的只在 subagent 裡，主線照跑。另一個差別在資料夾不受信任的時候：<code>probe.md</code> 的 <code>hooks:</code> engine 整份丟掉，<code>echo SUB</code> 回 <code>SUB</code>；<code>SKILL.md</code> 的照常註冊，<code>echo HELLO</code> 還是回 <code>BLOCKED-BY-SKILL-HOOK</code>。silent fail 一節有對照。</p>
+<h3>skill 串接 skill</h3>
+<p>這一種沒有欄位，要叫就寫在內文：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="markdown" data-theme="github-dark github-light"><code data-language="markdown" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;--shiki-light:#005CC5;--shiki-light-font-weight:bold">---</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">name: outer</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">description: Outer test skill. Use when the user says outer.</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;--shiki-light:#005CC5;--shiki-light-font-weight:bold">---</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">Invoke the skill named inner using the Skill tool. Then reply with whatever it returned.</span></span></code></pre></figure>
+<p><code>inner</code> 回一個字 <code>INNER-RAN</code>。輸入 <code>outer</code>，log 裡是兩次 <code>Skill</code> 呼叫：</p>
+<pre><code>TOOL_USE: Skill {"skill": "outer"}
+TOOL_USE: Skill {"skill": "inner"}
+RESULT: INNER-RAN
+</code></pre>
+<p>兩次都是 model 發的。<code>outer</code> 的 frontmatter 沒有一個欄位可以指向 <code>inner</code>，第二次呼叫是它內文那句話請 model 去叫的。</p>
+<h2>silent fail</h2>
+<p>上面三處提過設定寫錯不會報錯：hook 一節的事件名、skill 串接 subagent 的 <code>agent</code> 值、agent 串接 hook 的信任。三種跑起來跟寫對的時候一樣，也沒有錯誤訊息。要發現這幾種錯，只能先列出寫對的時候會出現什麼，再看它有沒有出現。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>寫錯什麼</th><th>正確的預期結果</th><th>寫錯之後變成</th><th>有沒有提示</th></tr></thead><tbody><tr><td><code>settings.json</code> 的事件名 <code>PreToolUsee</code>，多一個 e</td><td><code>--include-hook-events</code> 多出 <code>hook_started</code> 跟 <code>hook_response</code> 兩筆</td><td>兩筆都沒有，Bash 照跑</td><td>沒有。<code>--debug</code>（stderr 的除錯訊息）跟 <code>--include-hook-events</code>（stream-json 裡的 hook 事件）都沒有一行提到它</td></tr><tr><td>skill 的 <code>agent: nosuchagent</code></td><td><code>agent: mycustom</code> 回 <code>CUSTOM: FORKED</code></td><td>回 <code>FORKED</code>，用預設 agent 照樣 fork</td><td>沒有</td></tr><tr><td>資料夾不受信任</td><td><code>deny.sh</code> 有自己的 <code>hook_started</code> 跟 <code>hook_response</code>，<code>echo SUB</code> 回 <code>BLOCKED-BY-AGENT-HOOK</code></td><td>一筆事件都沒有，<code>echo SUB</code> 回 <code>SUB</code>。agent frontmatter 的 <code>hooks:</code> 整份被丟掉</td><td>沒有。<code>-p</code> 不跳信任對話框，<code>--debug</code> 也不提</td></tr></tbody></table>
+<p>信任是每個資料夾問一次的：互動模式第一次在一個資料夾裡啟動會跳對話框問使用者信不信任，答應之後記在 <code>~/.claude.json</code> 的 <code>hasTrustDialogAccepted</code>。<code>-p</code> 不跳這個對話框。</p>
+<h2>caveat</h2>
+<p>CLI 跟 SDK 執行的是同一個 binary（<code>shasum</code> 一樣）。SDK 多的是 <code>agents</code>、<code>mcpServers</code>、hook callback 可以直接當參數傳，<code>tools</code>、<code>skills</code> 在 <code>query()</code> 裡的效果也不同（見上面 <code>query()</code> 那張表）。巢狀上限 engine 會另外讀一個遠端 flag，不換版本也可能變。</p>
+<p>文章裡每一次量測都帶 <code>-p</code>。<code>-p</code> 會改變兩個結果：<code>tooltest</code> 回 <code>Execute skill: tooltest</code>，因為 <code>-p</code> 沒人回答 ask；<code>forktest</code> 的結果直接回主線，因為 <code>-p</code> 不把 subagent 丟到背景。同樣兩份 skill 用另外兩種模式重跑：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>模式</th><th><code>allowed-tools</code> 的 skill</th><th><code>context: fork</code></th></tr></thead><tbody><tr><td><code>--permission-mode manual</code></td><td>跳對話框「Use skill "tooltest"?」</td><td>subagent 在背景跑，主線不等它，<code>FORKED</code> 之後才送進來；frontmatter 加 <code>background: false</code> 主線才會等</td></tr><tr><td>預設 auto mode</td><td>不問，log 寫 <code>Allowed by auto mode classifier</code></td><td>同上</td></tr><tr><td><code>-p</code></td><td>沒人可以按，回 <code>Execute skill: tooltest</code></td><td>沒有背景，subagent 跑完 <code>FORKED</code> 直接回主線</td></tr></tbody></table>16:T6d03,
+想知道這些東西能不能像俄羅斯娃娃那樣一層包一層，就實驗了一下。Claude Code 自己能設定的是 skill、agent、tool、hook 四種，兩兩配起來十六種，一種一種跑。
+
+- `allowed-tools` 只允許 Read，skill 裡面 trigger Bash，Bash 即便不在 `allowed-tools` 還是可以跑
+- 觸發帶 `hooks:` 的 skill 後，還在同一個 session 的話，hook 不會隨著 skill 結束消失
+- `settings.json` 裡 hook 的事件名多打一個 e 這種低級 typo 變成 `PreToolUsee`，不會報錯也不會觸發。加 `--debug` 或 `--include-hook-events` 想檢查也沒有錯誤訊息，只有本來該出現的 hook 事件不見了
+
+環境：
+
+- CLI 2.1.257，每一次都直接叫 `~/.local/share/claude/versions/2.1.257`，不走 `claude` symlink（它會自己更新）
+- Agent SDK 固定在 0.3.257
+- 每個實驗都跑在 `-p`（`--print`）底下：給一句 prompt，跑完把結果印出來就結束，不開互動介面，也不跳任何對話框
+
+## model 跟 engine
+
+`model` 是 Opus、Fable 那種跑在 API 那頭的語言模型。要叫 tool 的時候，它回覆裡會多一塊 `tool_use`：
+
+```json
+{"type": "tool_use", "name": "Bash", "input": {"command": "git status"}}
+```
+
+這段 JSON 是 model 寫出來的文字，`git status` 到這裡還沒跑。
+
+`engine` 是本機執行的那支 `claude` binary。它把工具清單交給 model，收到 `tool_use` 就去執行，執行前後還會去看 `settings.json` 裡有沒有 hook 要跑。
+
+engine 每另外開一段 context 去做事，那段就叫 subagent。主線自己也算一段。每段 context 有自己的工具清單，主線一份，每個 subagent 各一份。
+
+下面四種元件裡，skill 跟 agent 是磁碟上的 `.md` 檔，hook 寫在 `settings.json` 或 frontmatter，tool 沒有檔案。檔案本身不會做事，是 model 跟 engine 讀了以後才有行為。
+
+## 四個元件
+
+### tool
+
+tool 就是 model 能呼叫的函式，一個名字加一份參數 schema。
+
+清單上有 `Bash`，沒有 `git status`。要 model 跑 `git status`，它發出來的是一次 `Bash` 呼叫，`git status` 是傳給 `Bash` 的參數。一個東西要成為 tool，得先登記進這個 session 的工具清單，沒登記 model 就看不到，也沒辦法呼叫。
+
+清單上的 tool 本身不是 process。`Bash` 是一個名字加上參數格式，被呼叫的時候那行指令才交給 shell 去跑。
+
+內建 tool 的名字是一個詞，像 `Read`、`Write`、`Edit`、`Bash`。
+
+MCP server 給的格式如下：
+
+- `mcp__<server>__<tool>`
+- `mcp__claude_ai_Jira__getJiraIssue`
+
+大寫的 `Agent` 跟 `Skill` 也是 tool，跟 `Bash`、`Read` 排在同一份清單裡；小寫的 agent 跟 skill 是磁碟上的 `.md` 檔案，寫的是這個 agent 扮演誰、這份 skill 要做哪些步驟。開一個 subagent 就是 model 呼叫 `Agent`，跑一份 skill 就是呼叫 `Skill`。`SKILL.md` 自己不會執行，model 呼叫 `Skill` 之後才載入。
+
+### skill
+
+skill 就是一份 `SKILL.md`，路徑是 `.claude/skills/<名字>/SKILL.md`。放在專案目錄底下，只有那個專案有；放在 `~/.claude/skills/` 底下，每個專案都有。
+
+檔案開頭兩行 `---` 中間夾的那塊叫 frontmatter，YAML 格式，設定都寫在那裡。第二行 `---` 底下是寫給 model 看的步驟。
+
+```markdown
+---
+name: hooktest
+description: Test skill. Use when the user says hooktest.
+---
+
+Call the Bash tool with command: echo HELLO
+Then report in one line exactly what happened.
+```
+
+model 看 `description` 決定什麼時候用它，內文是載入之後照著跑的程序。`SKILL.md` 就是一份文字，不會自己執行。
+
+### agent
+
+agent 定義開出來的 subagent 是一段不帶主線對話紀錄的 context，接任務、自己做完、回結論給主線，中間過程不會進主線。CLI 跟 SDK 放定義的地方不一樣：
+
+- CLI 讀 `.claude/agents/<name>.md`
+- SDK 沒有檔案這一層。跑一個 session 的入口是 `query()`，同樣的內容當 `agents` 選項傳給它，欄位跟檔案裡一樣
+
+```markdown
+---
+name: probe
+description: Test agent for preloaded skills and tool limits.
+skills: [secretskill]
+tools: [Read, Bash]
+model: haiku
+---
+
+You are a test agent. Answer exactly what is asked.
+```
+
+subagent 的工具清單由 `tools` 這一行決定：
+
+- 不寫，繼承 parent agent 的清單，parent 有什麼它就有什麼
+- 寫了，只能用宣告的那幾個
+- 想讓它自己再開下一層，清單裡要有 `Agent`（寫 `Task` 也通，engine 內部是同一個）
+
+兩份定義只差 `Bash` 在不在清單上，都叫它跑 `echo HELLO`：
+
+| 定義寫的 | 跑出來 |
+|---|---|
+| `tools: [Read]` | echo 沒跑，`tool_uses: 0`。subagent 回 `I don't have access to a Bash tool. The only available tool I have is the Read function for reading files from the filesystem. I cannot execute shell commands.`（原話，字是 model 自己寫的，每次不一樣） |
+| `tools: [Read, Bash]` | 呼叫 Bash，回 `HELLO` |
+
+另一個欄位 `skills`：寫 `skills: [inner]`，engine 只把 `inner` 的內文預先放進 subagent 的 context；subagent 的工具清單裡還是沒有 `Skill` 這個 tool，所以它沒辦法呼叫任何 skill。
+
+#### tools、skills、allowedTools、disallowedTools
+
+下面一律用大寫 `Skill` 指工具清單上的那個 tool，小寫 skill 指磁碟上的 `SKILL.md`。
+
+| 欄位 | 這樣寫的影響 |
+|---|---|
+| `tools` | 工具清單換成列出來的，MCP 的 tool 一起換掉；整行不寫就繼承 parent 的 |
+| `skills` | 把 skill 內文放進 context，工具清單不動 |
+| `disallowedTools` | 工具清單拿掉列出來的，MCP 的 tool 也一起拿掉 |
+
+同樣的名字也能傳給 SDK 的 `query()`。`disallowedTools` 在 `query()` 裡效果是一樣的，`tools`、`skills` 則不同，`query()` 還多一個 `allowedTools`：
+
+| SDK 的 `query()` | 這樣寫的影響 |
+|---|---|
+| `tools` | 只換內建 tool，MCP 的留著 |
+| `skills` | 一份 allowlist，`Skill` 只能叫列進去的 skill |
+| `allowedTools` | 工具清單不動，列出來的 tool 執行前不會問使用者 |
+
+陣列的引號也分兩邊：`query()` 收的是 JS 物件，一定要寫 `["Read","Bash"]`；agent 定義是 YAML，這篇一律寫 `[Read, Bash]`。
+
+`tools: [Read, Bash, Skill]` 這樣寫，官方標了 deprecated（`sdk.d.ts` 的註解：`passing 'Skill' here is deprecated — use the skills field instead`）。但同一個 type 裡 `skills` 的定義是 `Array of skill names to preload into the agent context`，preload 進 context 不等於進工具清單，改寫成 `skills: [inner]`，再叫 subagent 用 `Skill` 跑 `inner`（prompt 要它沒有這個 tool 就回 `NO-SKILL-TOOL`），它回 `NO-SKILL-TOOL`。要 subagent 跑 skill，`tools:` 整行不寫（繼承 parent 的清單）或列進 `Skill`，只有這兩條路。
+
+### hook
+
+hook 是 `settings.json` 裡的一條規則，內容就是哪個事件、matcher 比對什麼、然後跑什麼。
+
+```json
+{
+  "hooks": {
+    "PreToolUse": [{
+      "matcher": "Write|Edit",
+      "hooks": [{ "type": "command", "command": "bash ~/hooks/prose-guard.sh" }]
+    }]
+  }
+}
+```
+
+`hooks` 在這份 JSON 裡出現兩次。外層是事件表，`PreToolUse` 這種事件名字掛在它下面。內層的陣列裝的是命中之後要執行的項目，下面都叫它 action。
+
+[官方文件](https://code.claude.com/docs/en/hooks-reference)定義了 33 種事件。常用的有：
+
+- `PreToolUse` 在 tool 執行之前跑，可以否決 tool 呼叫
+- `PostToolUse` 在 tool 成功之後跑
+- `UserPromptSubmit` 在訊息送出之後、model 讀到之前跑
+- `SessionStart` 開場跑一次
+- `Stop` 在一輪結束的時候跑
+
+Matcher 比對 tool 名字：只有字母、數字、`_`、`-`、`|` 這類字元時是完全比對，出現其他字元才當 regex。留空或寫 `*` 就是全部命中。regex 寫壞，engine 不會停，只印一行 `Invalid regex pattern in hook matcher` 然後當作沒命中。MCP 的名字要寫完整才命中，只寫 `mcp__jira` 什麼都不會命中，得寫成 `mcp__jira__.*`。
+
+要在每次開 subagent 之前做點什麼，matcher 填 `Agent`：
+
+```json
+{ "hooks": { "PreToolUse": [
+  { "matcher": "Agent",
+    "hooks": [{ "type": "command", "command": "bash ~/hooks/log-subagent.sh" }] }
+] } }
+```
+
+內層 `hooks` 陣列每一項的 `type` 有五種可以填，就是五種 action。五種都是 engine 自己去執行的，主線的 model 不參與。`prompt` 跟 `agent` 會另外叫一次 model，那是 hook 自己開的呼叫，跟主線的 model 是兩回事。
+
+| type | 跑什麼 | 誰去執行 |
+|---|---|---|
+| `command` | 一段 shell 指令，hook 的輸入從 stdin 進去 | engine 開一個 process |
+| `prompt` | 一個小 model 判斷條件成不成立 | engine 發一次 model 呼叫 |
+| `agent` | 一個 agent 做判斷，`model` 可以指定，不寫是 Haiku | engine 開一個 subagent |
+| `mcp_tool` | 呼叫某台已經設定好的 MCP server 上的 tool | engine 直接對那台 server 發 `tools/call` |
+| `http` | 把 hook 輸入 POST 到一個 URL | engine 發一個 HTTP request |
+
+五種不是每種都測過：`command`、`mcp_tool`、`prompt` 三種跑過，`agent` 只在 tool 事件上跑過，`http` 沒跑。內建的 `/goal` 就是一條掛在 `Stop` 的 `prompt`，每一輪結束回一句 `Stop hook feedback: [...]` 進 context。
+
+五種裡面只有 `mcp_tool` 填的是 tool，也就是 tool 一節講的、登記過的名字，像 `"server": "marker", "tool": "record"`（`marker` 是自己架的一台測試用 MCP server，只有一個叫 `record` 的 tool）。其他四種填的是 script 路徑、一段 prompt、一段 prompt 加 model、一個網址，engine 自己處理，log 裡不會出現 `tool_use`。`matcher` 欄位雖然也填 tool 名字，但那是條件，不是要執行的對象。
+
+## 十六種組合
+
+中間那欄是誰去發呼叫，箭頭後面是決定成不成立的欄位。agent 那一欄寫的是 subagent，因為測的都是 `.claude/agents/<name>.md` 開出來的那一層，主線自己呼叫 tool 不在表格裡。
+
+| 標記 | 什麼欄位 | 為什麼是它發 | 幾列 |
+|---|---|---|---|
+| **engine** | `agent`、`mcp_tool`、`context: fork`、`hooks:` | 欄位裡已經寫好叫誰、帶什麼參數 | 5（`hooks:` 自己佔兩列） |
+| **model** | `tools:`、`allowed-tools` | 只說可以用哪些，沒說叫哪一個 | 4 |
+| **間接** | 沒有欄位 | 只能把要求寫成文字送進 context，看 model 理不理 | 3 |
+| **不成立** | tool 沒有自己的設定檔 | skill、subagent 各有一份 `.md`，hook 寫在 `settings.json` 或 frontmatter，tool 只是清單上的名字 | 4 |
+
+| 誰呼叫誰 | 誰發的 | 測到什麼 |
+|---|---|---|
+| subagent 呼叫 subagent | model ← `tools:` 含 `Agent` | 第二層的 `tool_use` 帶著第一層的 `parent_tool_use_id` |
+| subagent 呼叫 hook | engine ← frontmatter 的 `hooks:` | 回 `BLOCKED-BY-AGENT-HOOK`（資料夾要先信任過） |
+| subagent 呼叫 tool | model ← `tools:` | 不寫就跟 parent 一樣，寫了 `tools: [Read]` 就只剩 Read |
+| subagent 呼叫 skill | model ← `tools:` 含 `Skill`，或整行不寫 | `tool_use` 的 name 是 `Skill`，`parent_tool_use_id` 指向第一層 |
+| hook 呼叫 subagent | engine ← `agent` action | `Agent hook condition was not met: AGENT-HOOK-BLOCKED` |
+| **hook 呼叫 hook** | 間接 model ← 沒有欄位 | `agent` action 裡的 model 去呼叫 tool，才會再觸發一次 |
+| hook 呼叫 tool | engine ← `mcp_tool` action | MCP server 收到 `tools/call`，log 裡沒有 `tool_use` |
+| **hook 呼叫 skill** | 間接 model ← 沒有欄位 | 靠 `additionalContext` 請 model 去叫，回 `GREET-RAN` |
+| skill 呼叫 subagent | engine ← `context: fork` | `Skill "forktest" completed (forked execution).` |
+| skill 呼叫 hook | engine ← frontmatter 的 `hooks:` | 回 `BLOCKED-BY-SKILL-HOOK` |
+| skill 呼叫 tool | model ← `allowed-tools` 不是限制 | `allowed-tools: Read` 寫著，內文要 Bash 還是照發 |
+| **skill 呼叫 skill** | 間接 model ← 沒有欄位 | 內文請 model 去叫，回 `INNER-RAN` |
+| tool 呼叫 subagent | 不成立 | engine 沒有這條路 |
+| tool 呼叫 skill | 不成立 | engine 沒有這條路 |
+| tool 呼叫 tool | 不成立 | engine 沒有這條路 |
+| tool 呼叫 hook | 不成立 | hook 是 engine 在 tool 前後叫的，tool 沒參與 |
+
+**巢狀 subagent 有上限。** binary 裡的預設值是 3，但 engine 還會讀一個遠端 flag 蓋過它，所以實際上限不一定是 3；`CLAUDE_CODE_MAX_SUBAGENT_SPAWN_DEPTH` 可以指定。深度只算 subagent：主線是 0，主線開的第一個 subagent 是 1，那個 subagent 再開一個就是 2。
+
+設成 2 的時候，主線開 A（深度 1）、A 開 B（深度 2）都成立，輪到 B 要往下開第三層，它的工具清單裡就沒有 `Agent`。設成 1 的話，換成 A 那一層的清單裡沒有。
+
+B 的定義自己寫了 `tools: [Read, Bash, Agent]`，清單裡還是沒有。深度到了上限，engine 就把 `Agent` 從清單拿掉，定義檔寫了也一樣。
+
+subagent 回報的那句話每次不一樣，因為那是 model 自己組的，不是 engine 的固定字串。同一組設定跑兩次，一次講 `no Agent or Task tool available. The only tools in my toolset are Read and Bash`，一次講 `the Agent tool is not available to me`。
+
+### tool 能不能主動呼叫別的東西
+
+tool 呼叫 subagent、tool 呼叫 skill、tool 呼叫 tool，這三列都不成立。tool 不會自己發呼叫，發呼叫的是 model 或 engine。
+
+`Agent` 被呼叫之後跑起來的 subagent 會去呼叫 tool、skill、下一層 subagent，但那是 subagent 在叫，不是 `Agent` 在叫。
+
+有個繞過去的辦法：MCP server 是自己寫的程式，`tools/call` 進來之後可以另外開一個 `claude` process，新 process 的 engine 可以照常開 subagent、跑 skill。測試 server 上有一個叫 `delegate` 的 tool，內容就這一行：
+
+```javascript
+execFileSync("claude", ["-p", args.q, "--output-format", "text"])
+```
+
+回 `delegated-agent said: DELEGATED-OK`。但那是另一個 session，已經超出「誰呼叫誰」在問的範圍，只是看起來很像才放進來，三列還是不成立。
+
+`tool 呼叫 hook` 不成立的理由跟上面三列不一樣。hook 確實跑了，但跑在 Bash 開始之前，叫它的是 engine，Bash 從頭到尾沒參與：
+
+```
+model 寫出 tool_use，name=Bash，command=echo MAIN
+→ engine 看看 settings.json 的 hook 設定
+→ matcher 命中，engine 執行 action，等它執行完
+→ 回 deny  → 到此為止，shell 從頭到尾沒收到東西
+→ 沒 deny  → engine 才把 echo MAIN 交給 shell
+```
+
+要說 tool 呼叫了 hook，得是 Bash 執行過程中自己去觸發了誰，而它連執行都還沒開始。`PostToolUse` 也一樣，Bash 跑完之後去發 hook 的還是 engine。
+
+### hook 呼叫 hook 或 skill
+
+#### hook 呼叫 hook
+
+五種 action 沒有一種的值是另一條 hook，所以設定檔裡沒地方寫「然後去觸發那條 hook」。
+
+讓 model 去呼叫 tool，就會再觸發一次。同一條 `PreToolUse` 掛兩個 action，一個 `command` 把命中的指令記進 `ran.txt`，一個 `agent` 要求它開出來的 subagent 自己去跑 `echo FROMHOOKAGENT`。主線只呼叫一次 Bash，`ran.txt` 有兩行：
+
+```
+PreToolUse | echo MAIN
+PreToolUse | echo FROMHOOKAGENT
+```
+
+第二行是 subagent 自己跑出來的。它沒有宣告任何 hook，但它呼叫 Bash 的時候，engine 查的是同一份 `settings.json`，`matcher: "Bash"` 第二次命中。
+
+只把 `agent` 的 prompt 換成「回一個 OK 就好，不用跑任何指令」，別的都不動，`ran.txt` 就剩一行。變數只有 model 有沒有去呼叫 tool，所以這條路成不成立是 model 決定的。
+
+第二次命中時，engine 只跑了 `command`，沒有再處理 `agent`，所以停在兩行。`--debug-file` 的紀錄裡 `Processing agent hook` 只出現一次；hook 開出來的 subagent 呼叫 Bash 時，`agent_id` 是 `hook-agent-…`，`command` 照常觸發，`agent` 不再觸發。跑了兩次結果一樣，官方文件沒寫這條。engine 自己發的呼叫不算：`mcp_tool` action 由 engine 直接呼叫 MCP server，server 收得到，但 `tools/call` 不會回頭觸發 `PreToolUse`。
+
+#### hook 呼叫 skill
+
+五種 action 沒有一種的值可以填 skill 的名字。
+
+剩下的路只有間接：hook script 回一段 `additionalContext`，那段字被塞進 model 的 context，model 讀到之後自己去叫 `Skill` tool。
+
+```bash
+#!/bin/bash
+echo '{"hookSpecificOutput":{"hookEventName":"UserPromptSubmit","additionalContext":"You must now invoke the skill named greet using the Skill tool before answering."}}'
+```
+
+掛在 `UserPromptSubmit` 上，然後輸入 `Say hello.`，log 的下一步就是一筆 `tool_use`，name 是 `Skill`、skill 是 `greet`，最後回 `GREET-RAN`。但這條路不一定會成功。hook 做的只是把一句話塞進 context，真的去叫 `Skill` 的是 model，它也可以不理。
+
+## skill 用哪些欄位串接
+
+skill 要去叫 tool、subagent、hook，`SKILL.md` 的 frontmatter 各有欄位：`allowed-tools` 對 tool，`context: fork` 加 `agent` 對 subagent，`hooks` 對 hook。`context: fork` 跟 `hooks` 是 engine 照著做，寫了就會發生。`allowed-tools` 不是。它影響的是 skill 內文去叫 tool 的那一步：列進去的 tool，engine 不先問使用者就跑；沒列的一樣能呼叫。
+
+model 呼叫 `Skill` 的那一步，engine 另外判斷一次要不要核准。哪些 frontmatter 欄位會讓這一步需要核准呢？五份 skill，每份只比 `name`／`description` 多一種欄位，分別測試，都在 `-p` 底下各叫一次。不加 `--dangerously-skip-permissions`，加了 engine 每一次都判 allow，`ask` 不會出現，就測不出來。每一次 tool_use 都會有一筆 `tool_result` 回給 model，有跑沒跑都有，差在字串：
+
+| skill | frontmatter 多了什麼 | `tool_result` 回什麼 |
+|---|---|---|
+| `inner` | 沒有，只有 `name` / `description` | `Launching skill: inner` |
+| `forktest` | `context: fork` | `Skill "forktest" completed (forked execution).` |
+| `tooltest` | `allowed-tools: Read` | `Execute skill: tooltest` |
+| `dtest` | `disallowed-tools: Bash` | `Execute skill: dtest` |
+| `hooktest` | `hooks: PreToolUse …` | `Execute skill: hooktest` |
+
+**表上三個 `Execute skill: <name>` 讀起來像已經執行了，其實是拒絕**。model 有送出 `Skill` 的 tool_use，engine 判斷要核准，`-p` 沒人可以按，就回拒絕，`SKILL.md` 的內文沒有載入。同一份 `tooltest` 不帶 `-p` 跑，manual mode 跳的對話框寫的是「Use skill "tooltest"?」，auto mode 直接放行；caveat 那張表是三種模式的對照。
+
+engine 載入 skill 之後，拿 frontmatter 的 key 逐個比對一份寫死在 binary 裡的清單（44 個，`strings` 撈 `new Set(["type","progressMessage"…` 就找得到，沒有公開文件）。常用的 key 分兩邊：
+
+| frontmatter 的 key | 在清單上 | 寫了會怎樣 |
+|---|---|---|
+| `name`、`description`、`model`、`context`、`agent`、`background` | 在 | 直接載入，不問 |
+| `hooks`、`allowed-tools`、`disallowed-tools`，以及任何清單上沒有的 key | 不在 | 冒號後面有東西，engine 載入前先問人；後面空著、`[]`、`{}` 當作沒寫，照樣直接載入 |
+
+`tooltest` 的 `allowed-tools: Read` 是第二列，回 `Execute skill: tooltest`；`forktest` 的 `context: fork` 是第一列，直接跑。
+
+比對用的是載入後的物件屬性，`allowed-tools` 讀進去會變成 `allowedTools`，兩種寫法都不在清單上，結果一樣。
+
+skill 叫另一份 skill 沒有欄位可以用。frontmatter 裡沒有任何 key 能填別份 skill 的名字，只能寫在內文。
+
+### skill 串接 tool
+
+```markdown
+---
+name: restricttest
+description: Test skill. Use when the user says restricttest.
+allowed-tools: Read
+---
+
+Call the Bash tool with command: echo HELLO
+Then state in one line whether the Bash call succeeded or was refused.
+```
+
+binary 裡的 zod schema 對 `allowed-tools` 的說明是 `Tools available to the model while this file is active`，讀起來像只有列出來的 tool 能用，實際跑的結果不是這樣。同一份內文、同一個問法，換 frontmatter 各跑一次：
+
+| frontmatter 寫了什麼 | Bash 跑不跑 |
+|---|---|
+| 沒寫這一行 | 跑了，`tool_result` 回 `HELLO` |
+| `allowed-tools: Read` | 跑了，`tool_result` 回 `HELLO` |
+| `disallowed-tools: Bash` | `Permission to use Bash has been denied.` |
+
+`allowed-tools` 列進去的 tool，engine 不會跳出來問使用者，沒列的一樣能呼叫。`disallowed-tools` 列進去的 tool 一呼叫就被拒絕。它的說明寫 `Tools removed from the model while this file is active`，加了 `--dangerously-skip-permissions` 結果也一樣。
+
+`disallowed-tools` 的說明還有一句 `Cleared when the user sends the next message`。`--resume` 同一個 session 再送一則「跑 `echo AFTER`」，Bash 就回 `AFTER`，限制只在 skill 被叫起來的那一輪有效。
+
+agent 定義那邊有 `tools` 跟 `disallowedTools`，`SKILL.md` 沒有 `tools`。`tools` 是整份清單的白名單，`disallowedTools` 反過來，列出來的拿掉、其他的照常。兩個的範圍在上面 agent 一節。
+
+### skill 串接 subagent
+
+同一份 skill，只差這一行：
+
+```diff
+  ---
+  name: forktest
+  description: Test skill. Use when the user says forktest.
++ context: fork
+  ---
+
+  Reply with exactly one word: FORKED
+```
+
+寫了 `context: fork`，engine 開一個 subagent 去跑這份 skill。內文變成 subagent 的任務描述。沒寫 `context: fork` 的話，內文載入主線，model 自己照著跑。
+
+兩份各叫一次，`tool_result` 回的字串不一樣。`-` 是沒寫的那份，`+` 是加了 `context: fork` 的：
+
+```diff
+- Launching skill: forktest
++ Skill "forktest" completed (forked execution).
++ Result:
++ FORKED
+```
+
+搭配的 `agent` 欄位指定用哪一種 agent 去跑，填 `.claude/agents/<name>.md` 的 name，或者內建的 agent type（像 `Explore`）。可選，只寫 `context: fork` 也會 fork。填錯了不會報錯，下面 silent fail 一節有。
+
+### skill 串接 hook
+
+skill 的 `hooks:` 設一個一律拒絕 Bash 的 script，內文叫 Bash 跑 `echo HELLO`：
+
+```markdown
+---
+name: hooktest
+description: Test skill. Use when the user says hooktest.
+hooks:
+  PreToolUse:
+    - matcher: Bash
+      hooks:
+        - type: command
+          command: bash .claude/skills/hooktest/deny.sh
+---
+
+Call the Bash tool with command: echo HELLO
+Then report in one line exactly what happened.
+```
+
+`deny.sh` 印一行 JSON 就夠。
+
+```bash
+#!/bin/bash
+echo '{"hookSpecificOutput":{"hookEventName":"PreToolUse","permissionDecision":"deny","permissionDecisionReason":"BLOCKED-BY-SKILL-HOOK"}}'
+```
+
+`permissionDecision` 是 `deny`，engine 就不把 `echo HELLO` 交給 shell。`permissionDecisionReason` 的字串會變成 model 收到的 `tool_result`，所以 model 看到的是 `BLOCKED-BY-SKILL-HOOK`。
+
+為了看 deny 從什麼時候開始、到什麼時候失效，在同一個 session 裡連下三句。`echo BEFORE` 跟 `echo AFTER` 不在 `hooktest` 的 `SKILL.md` 裡，是我另外下的：
+
+| 輸入 | 回什麼 | 當下的狀態 |
+|---|---|---|
+| `echo BEFORE` | `BEFORE` | skill 還沒被叫起來 |
+| `hooktest` | `BLOCKED-BY-SKILL-HOOK` | 被拒絕的是內文那句 `echo HELLO` |
+| `echo AFTER` | `BLOCKED-BY-SKILL-HOOK` | skill 已經跑完了 |
+
+skill 被叫起來之後，它 frontmatter 的 `hooks:` 就註冊在這個 session 上，之後每次呼叫 tool 都會經過，不管當時在不在跑 skill。session 關掉就沒了：重開一個 session，同一個目錄跑 `echo AFTER`，回的是 `AFTER`。
+
+#### 對照：agent 串接 hook
+
+agent 定義的 frontmatter 也支援 `hooks:`，欄位跟 `SKILL.md` 一樣。把同一條 deny 規則搬到 `.claude/agents/probe.md`，同樣三句連下：
+
+| 輸入 | 回什麼 | 當下的狀態 |
+|---|---|---|
+| `echo BEFORE`（主線） | `BEFORE` | probe 還沒開 |
+| 叫 probe 跑 `echo SUB` | `PreToolUse:Bash hook error: BLOCKED-BY-AGENT-HOOK` | probe 的 `hooks:` 在 subagent 裡生效 |
+| `echo AFTER`（主線） | `AFTER` | 主線沒受影響 |
+
+跟 skill 那張差在第三列：skill 的 `hooks:` 跑過一次就留在 session 上，主線的 `echo AFTER` 也被拒；agent 的只在 subagent 裡，主線照跑。另一個差別在資料夾不受信任的時候：`probe.md` 的 `hooks:` engine 整份丟掉，`echo SUB` 回 `SUB`；`SKILL.md` 的照常註冊，`echo HELLO` 還是回 `BLOCKED-BY-SKILL-HOOK`。silent fail 一節有對照。
+
+### skill 串接 skill
+
+這一種沒有欄位，要叫就寫在內文：
+
+```markdown
+---
+name: outer
+description: Outer test skill. Use when the user says outer.
+---
+
+Invoke the skill named inner using the Skill tool. Then reply with whatever it returned.
+```
+
+`inner` 回一個字 `INNER-RAN`。輸入 `outer`，log 裡是兩次 `Skill` 呼叫：
+
+```
+TOOL_USE: Skill {"skill": "outer"}
+TOOL_USE: Skill {"skill": "inner"}
+RESULT: INNER-RAN
+```
+
+兩次都是 model 發的。`outer` 的 frontmatter 沒有一個欄位可以指向 `inner`，第二次呼叫是它內文那句話請 model 去叫的。
+
+## silent fail
+
+上面三處提過設定寫錯不會報錯：hook 一節的事件名、skill 串接 subagent 的 `agent` 值、agent 串接 hook 的信任。三種跑起來跟寫對的時候一樣，也沒有錯誤訊息。要發現這幾種錯，只能先列出寫對的時候會出現什麼，再看它有沒有出現。
+
+| 寫錯什麼 | 正確的預期結果 | 寫錯之後變成 | 有沒有提示 |
+|---|---|---|---|
+| `settings.json` 的事件名 `PreToolUsee`，多一個 e | `--include-hook-events` 多出 `hook_started` 跟 `hook_response` 兩筆 | 兩筆都沒有，Bash 照跑 | 沒有。`--debug`（stderr 的除錯訊息）跟 `--include-hook-events`（stream-json 裡的 hook 事件）都沒有一行提到它 |
+| skill 的 `agent: nosuchagent` | `agent: mycustom` 回 `CUSTOM: FORKED` | 回 `FORKED`，用預設 agent 照樣 fork | 沒有 |
+| 資料夾不受信任 | `deny.sh` 有自己的 `hook_started` 跟 `hook_response`，`echo SUB` 回 `BLOCKED-BY-AGENT-HOOK` | 一筆事件都沒有，`echo SUB` 回 `SUB`。agent frontmatter 的 `hooks:` 整份被丟掉 | 沒有。`-p` 不跳信任對話框，`--debug` 也不提 |
+
+信任是每個資料夾問一次的：互動模式第一次在一個資料夾裡啟動會跳對話框問使用者信不信任，答應之後記在 `~/.claude.json` 的 `hasTrustDialogAccepted`。`-p` 不跳這個對話框。
+
+## caveat
+
+CLI 跟 SDK 執行的是同一個 binary（`shasum` 一樣）。SDK 多的是 `agents`、`mcpServers`、hook callback 可以直接當參數傳，`tools`、`skills` 在 `query()` 裡的效果也不同（見上面 `query()` 那張表）。巢狀上限 engine 會另外讀一個遠端 flag，不換版本也可能變。
+
+文章裡每一次量測都帶 `-p`。`-p` 會改變兩個結果：`tooltest` 回 `Execute skill: tooltest`，因為 `-p` 沒人回答 ask；`forktest` 的結果直接回主線，因為 `-p` 不把 subagent 丟到背景。同樣兩份 skill 用另外兩種模式重跑：
+
+| 模式 | `allowed-tools` 的 skill | `context: fork` |
+|---|---|---|
+| `--permission-mode manual` | 跳對話框「Use skill "tooltest"?」 | subagent 在背景跑，主線不等它，`FORKED` 之後才送進來；frontmatter 加 `background: false` 主線才會等 |
+| 預設 auto mode | 不問，log 寫 `Allowed by auto mode classifier` | 同上 |
+| `-p` | 沒人可以按，回 `Execute skill: tooltest` | 沒有背景，subagent 跑完 `FORKED` 直接回主線 |
+17:T92cc,LS0tCnRpdGxlOiAiU2tpbGzjgIFBZ2VudOOAgVRvb2zjgIFIb29r77ya6Kqw5ZG85Y+r6KqwIgpjcmVhdGVkQXQ6IDIwMjYtMDktMDFUMDA6MDA6MDAKdGFnczogW2NsYXVkZS1jb2RlLCBhZ2VudCwgc2tpbGwsIGhvb2ssIG1jcF0KZGVzY3JpcHRpb246ICJDbGF1ZGUgQ29kZSDlm5vlgIvlhYPku7bnmoTljYHlha3nqK7lkbzlj6vntYTlkIjvvIzog73ot5HnmoTpg73lr6bpmpvot5HpgY7vvIzpmYTlr6bmuKzlm57lgrPnmoTlrZfkuLLot5/kuLLmjqXnlKjnmoTmrITkvY3jgIIiCi0tLQoK5oOz55+l6YGT6YCZ5Lqb5p2x6KW/6IO95LiN6IO95YOP5L+E576F5pav5aiD5aiD6YKj5qij5LiA5bGk5YyF5LiA5bGk77yM5bCx5a+m6amX5LqG5LiA5LiL44CCQ2xhdWRlIENvZGUg6Ieq5bex6IO96Kit5a6a55qE5pivIHNraWxs44CBYWdlbnTjgIF0b29s44CBaG9vayDlm5vnqK7vvIzlhanlhanphY3otbfkvobljYHlha3nqK7vvIzkuIDnqK7kuIDnqK7ot5HjgIIKCi0gYGFsbG93ZWQtdG9vbHNgIOWPquWFgeiosSBSZWFk77yMc2tpbGwg6KOh6Z2iIHRyaWdnZXIgQmFzaO+8jEJhc2gg5Y2z5L6/5LiN5ZyoIGBhbGxvd2VkLXRvb2xzYCDpgoTmmK/lj6/ku6Xot5EKLSDop7jnmbzluLYgYGhvb2tzOmAg55qEIHNraWxsIOW+jO+8jOmChOWcqOWQjOS4gOWAiyBzZXNzaW9uIOeahOipse+8jGhvb2sg5LiN5pyD6Zqo6JGXIHNraWxsIOe1kOadn+a2iOWksQotIGBzZXR0aW5ncy5qc29uYCDoo6EgaG9vayDnmoTkuovku7blkI3lpJrmiZPkuIDlgIsgZSDpgJnnqK7kvY7ntJogdHlwbyDorormiJAgYFByZVRvb2xVc2VlYO+8jOS4jeacg+WgsemMr+S5n+S4jeacg+inuOeZvOOAguWKoCBgLS1kZWJ1Z2Ag5oiWIGAtLWluY2x1ZGUtaG9vay1ldmVudHNgIOaDs+aqouafpeS5n+aykuaciemMr+iqpOioiuaBr++8jOWPquacieacrOS+huipsuWHuuePvueahCBob29rIOS6i+S7tuS4jeimi+S6hgoK55Kw5aKD77yaCgotIENMSSAyLjEuMjU377yM5q+P5LiA5qyh6YO955u05o6l5Y+rIGB+Ly5sb2NhbC9zaGFyZS9jbGF1ZGUvdmVyc2lvbnMvMi4xLjI1N2DvvIzkuI3otbAgYGNsYXVkZWAgc3ltbGlua++8iOWug+acg+iHquW3seabtOaWsO+8iQotIEFnZW50IFNESyDlm7rlrprlnKggMC4zLjI1NwotIOavj+WAi+Wvpumpl+mDvei3keWcqCBgLXBg77yIYC0tcHJpbnRg77yJ5bqV5LiL77ya57Wm5LiA5Y+lIHByb21wdO+8jOi3keWujOaKiue1kOaenOWNsOWHuuS+huWwsee1kOadn++8jOS4jemWi+S6kuWLleS7i+mdou+8jOS5n+S4jei3s+S7u+S9leWwjeipseahhgoKIyMgbW9kZWwg6LefIGVuZ2luZQoKYG1vZGVsYCDmmK8gT3B1c+OAgUZhYmxlIOmCo+eorui3keWcqCBBUEkg6YKj6aCt55qE6Kqe6KiA5qih5Z6L44CC6KaB5Y+rIHRvb2wg55qE5pmC5YCZ77yM5a6D5Zue6KaG6KOh5pyD5aSa5LiA5aGKIGB0b29sX3VzZWDvvJoKCmBgYGpzb24KeyJ0eXBlIjogInRvb2xfdXNlIiwgIm5hbWUiOiAiQmFzaCIsICJpbnB1dCI6IHsiY29tbWFuZCI6ICJnaXQgc3RhdHVzIn19CmBgYAoK6YCZ5q61IEpTT04g5pivIG1vZGVsIOWvq+WHuuS+hueahOaWh+Wtl++8jGBnaXQgc3RhdHVzYCDliLDpgJnoo6HpgoTmspLot5HjgIIKCmBlbmdpbmVgIOaYr+acrOapn+Wft+ihjOeahOmCo+aUryBgY2xhdWRlYCBiaW5hcnnjgILlroPmiorlt6XlhbfmuIXllq7kuqTntaYgbW9kZWzvvIzmlLbliLAgYHRvb2xfdXNlYCDlsLHljrvln7fooYzvvIzln7fooYzliY3lvozpgoTmnIPljrvnnIsgYHNldHRpbmdzLmpzb25gIOijoeacieaykuaciSBob29rIOimgei3keOAggoKZW5naW5lIOavj+WPpuWklumWi+S4gOautSBjb250ZXh0IOWOu+WBmuS6i++8jOmCo+auteWwseWPqyBzdWJhZ2VudOOAguS4u+e3muiHquW3seS5n+eul+S4gOauteOAguavj+autSBjb250ZXh0IOacieiHquW3seeahOW3peWFt+a4heWWru+8jOS4u+e3muS4gOS7ve+8jOavj+WAiyBzdWJhZ2VudCDlkITkuIDku73jgIIKCuS4i+mdouWbm+eoruWFg+S7tuijoe+8jHNraWxsIOi3nyBhZ2VudCDmmK/no4Hnop/kuIrnmoQgYC5tZGAg5qqU77yMaG9vayDlr6vlnKggYHNldHRpbmdzLmpzb25gIOaIliBmcm9udG1hdHRlcu+8jHRvb2wg5rKS5pyJ5qqU5qGI44CC5qqU5qGI5pys6Lqr5LiN5pyD5YGa5LqL77yM5pivIG1vZGVsIOi3nyBlbmdpbmUg6K6A5LqG5Lul5b6M5omN5pyJ6KGM54K644CCCgojIyDlm5vlgIvlhYPku7YKCiMjIyB0b29sCgp0b29sIOWwseaYryBtb2RlbCDog73lkbzlj6vnmoTlh73lvI/vvIzkuIDlgIvlkI3lrZfliqDkuIDku73lj4Pmlbggc2NoZW1h44CCCgrmuIXllq7kuIrmnIkgYEJhc2hg77yM5rKS5pyJIGBnaXQgc3RhdHVzYOOAguimgSBtb2RlbCDot5EgYGdpdCBzdGF0dXNg77yM5a6D55m85Ye65L6G55qE5piv5LiA5qyhIGBCYXNoYCDlkbzlj6vvvIxgZ2l0IHN0YXR1c2Ag5piv5YKz57WmIGBCYXNoYCDnmoTlj4PmlbjjgILkuIDlgIvmnbHopb/opoHmiJDngrogdG9vbO+8jOW+l+WFiOeZu+iomOmAsumAmeWAiyBzZXNzaW9uIOeahOW3peWFt+a4heWWru+8jOaykueZu+iomCBtb2RlbCDlsLHnnIvkuI3liLDvvIzkuZ/mspLovqbms5Xlkbzlj6vjgIIKCua4heWWruS4iueahCB0b29sIOacrOi6q+S4jeaYryBwcm9jZXNz44CCYEJhc2hgIOaYr+S4gOWAi+WQjeWtl+WKoOS4iuWPg+aVuOagvOW8j++8jOiiq+WRvOWPq+eahOaZguWAmemCo+ihjOaMh+S7pOaJjeS6pOe1piBzaGVsbCDljrvot5HjgIIKCuWFp+W7uiB0b29sIOeahOWQjeWtl+aYr+S4gOWAi+ipnu+8jOWDjyBgUmVhZGDjgIFgV3JpdGVg44CBYEVkaXRg44CBYEJhc2hg44CCCgpNQ1Agc2VydmVyIOe1pueahOagvOW8j+WmguS4i++8mgoKLSBgbWNwX188c2VydmVyPl9fPHRvb2w+YAotIGBtY3BfX2NsYXVkZV9haV9KaXJhX19nZXRKaXJhSXNzdWVgCgrlpKflr6vnmoQgYEFnZW50YCDot58gYFNraWxsYCDkuZ/mmK8gdG9vbO+8jOi3nyBgQmFzaGDjgIFgUmVhZGAg5o6S5Zyo5ZCM5LiA5Lu95riF5Zau6KOh77yb5bCP5a+r55qEIGFnZW50IOi3nyBza2lsbCDmmK/no4Hnop/kuIrnmoQgYC5tZGAg5qqU5qGI77yM5a+r55qE5piv6YCZ5YCLIGFnZW50IOaJrua8lOiqsOOAgemAmeS7vSBza2lsbCDopoHlgZrlk6rkupvmraXpqZ/jgILplovkuIDlgIsgc3ViYWdlbnQg5bCx5pivIG1vZGVsIOWRvOWPqyBgQWdlbnRg77yM6LeR5LiA5Lu9IHNraWxsIOWwseaYr+WRvOWPqyBgU2tpbGxg44CCYFNLSUxMLm1kYCDoh6rlt7HkuI3mnIPln7fooYzvvIxtb2RlbCDlkbzlj6sgYFNraWxsYCDkuYvlvozmiY3ovInlhaXjgIIKCiMjIyBza2lsbAoKc2tpbGwg5bCx5piv5LiA5Lu9IGBTS0lMTC5tZGDvvIzot6/lvpHmmK8gYC5jbGF1ZGUvc2tpbGxzLzzlkI3lrZc+L1NLSUxMLm1kYOOAguaUvuWcqOWwiOahiOebrumMhOW6leS4i++8jOWPquaciemCo+WAi+WwiOahiOacie+8m+aUvuWcqCBgfi8uY2xhdWRlL3NraWxscy9gIOW6leS4i++8jOavj+WAi+WwiOahiOmDveacieOAggoK5qqU5qGI6ZaL6aCt5YWp6KGMIGAtLS1gIOS4remWk+WkvueahOmCo+WhiuWPqyBmcm9udG1hdHRlcu+8jFlBTUwg5qC85byP77yM6Kit5a6a6YO95a+r5Zyo6YKj6KOh44CC56ys5LqM6KGMIGAtLS1gIOW6leS4i+aYr+Wvq+e1piBtb2RlbCDnnIvnmoTmraXpqZ/jgIIKCmBgYG1hcmtkb3duCi0tLQpuYW1lOiBob29rdGVzdApkZXNjcmlwdGlvbjogVGVzdCBza2lsbC4gVXNlIHdoZW4gdGhlIHVzZXIgc2F5cyBob29rdGVzdC4KLS0tCgpDYWxsIHRoZSBCYXNoIHRvb2wgd2l0aCBjb21tYW5kOiBlY2hvIEhFTExPClRoZW4gcmVwb3J0IGluIG9uZSBsaW5lIGV4YWN0bHkgd2hhdCBoYXBwZW5lZC4KYGBgCgptb2RlbCDnnIsgYGRlc2NyaXB0aW9uYCDmsbrlrprku4DpurzmmYLlgJnnlKjlroPvvIzlhafmlofmmK/ovInlhaXkuYvlvoznhafokZfot5HnmoTnqIvluo/jgIJgU0tJTEwubWRgIOWwseaYr+S4gOS7veaWh+Wtl++8jOS4jeacg+iHquW3seWft+ihjOOAggoKIyMjIGFnZW50CgphZ2VudCDlrprnvqnplovlh7rkvobnmoQgc3ViYWdlbnQg5piv5LiA5q615LiN5bi25Li757ea5bCN6Kmx57SA6YyE55qEIGNvbnRleHTvvIzmjqXku7vli5njgIHoh6rlt7HlgZrlrozjgIHlm57ntZDoq5bntabkuLvnt5rvvIzkuK3plpPpgY7nqIvkuI3mnIPpgLLkuLvnt5rjgIJDTEkg6LefIFNESyDmlL7lrprnvqnnmoTlnLDmlrnkuI3kuIDmqKPvvJoKCi0gQ0xJIOiugCBgLmNsYXVkZS9hZ2VudHMvPG5hbWU+Lm1kYAotIFNESyDmspLmnInmqpTmoYjpgJnkuIDlsaTjgILot5HkuIDlgIsgc2Vzc2lvbiDnmoTlhaXlj6PmmK8gYHF1ZXJ5KClg77yM5ZCM5qij55qE5YWn5a6555W2IGBhZ2VudHNgIOmBuOmgheWCs+e1puWug++8jOashOS9jei3n+aqlOahiOijoeS4gOaoowoKYGBgbWFya2Rvd24KLS0tCm5hbWU6IHByb2JlCmRlc2NyaXB0aW9uOiBUZXN0IGFnZW50IGZvciBwcmVsb2FkZWQgc2tpbGxzIGFuZCB0b29sIGxpbWl0cy4Kc2tpbGxzOiBbc2VjcmV0c2tpbGxdCnRvb2xzOiBbUmVhZCwgQmFzaF0KbW9kZWw6IGhhaWt1Ci0tLQoKWW91IGFyZSBhIHRlc3QgYWdlbnQuIEFuc3dlciBleGFjdGx5IHdoYXQgaXMgYXNrZWQuCmBgYAoKc3ViYWdlbnQg55qE5bel5YW35riF5Zau55SxIGB0b29sc2Ag6YCZ5LiA6KGM5rG65a6a77yaCgotIOS4jeWvq++8jOe5vOaJvyBwYXJlbnQgYWdlbnQg55qE5riF5Zau77yMcGFyZW50IOacieS7gOm6vOWug+WwseacieS7gOm6vAotIOWvq+S6hu+8jOWPquiDveeUqOWuo+WRiueahOmCo+W5vuWAiwotIOaDs+iuk+Wug+iHquW3seWGjemWi+S4i+S4gOWxpO+8jOa4heWWruijoeimgeaciSBgQWdlbnRg77yI5a+rIGBUYXNrYCDkuZ/pgJrvvIxlbmdpbmUg5YWn6YOo5piv5ZCM5LiA5YCL77yJCgrlhanku73lrprnvqnlj6rlt64gYEJhc2hgIOWcqOS4jeWcqOa4heWWruS4iu+8jOmDveWPq+Wug+i3kSBgZWNobyBIRUxMT2DvvJoKCnwg5a6a576p5a+r55qEIHwg6LeR5Ye65L6GIHwKfC0tLXwtLS18CnwgYHRvb2xzOiBbUmVhZF1gIHwgZWNobyDmspLot5HvvIxgdG9vbF91c2VzOiAwYOOAgnN1YmFnZW50IOWbniBgSSBkb24ndCBoYXZlIGFjY2VzcyB0byBhIEJhc2ggdG9vbC4gVGhlIG9ubHkgYXZhaWxhYmxlIHRvb2wgSSBoYXZlIGlzIHRoZSBSZWFkIGZ1bmN0aW9uIGZvciByZWFkaW5nIGZpbGVzIGZyb20gdGhlIGZpbGVzeXN0ZW0uIEkgY2Fubm90IGV4ZWN1dGUgc2hlbGwgY29tbWFuZHMuYO+8iOWOn+ipse+8jOWtl+aYryBtb2RlbCDoh6rlt7Hlr6vnmoTvvIzmr4/mrKHkuI3kuIDmqKPvvIkgfAp8IGB0b29sczogW1JlYWQsIEJhc2hdYCB8IOWRvOWPqyBCYXNo77yM5ZueIGBIRUxMT2AgfAoK5Y+m5LiA5YCL5qyE5L2NIGBza2lsbHNg77ya5a+rIGBza2lsbHM6IFtpbm5lcl1g77yMZW5naW5lIOWPquaKiiBgaW5uZXJgIOeahOWFp+aWh+mgkOWFiOaUvumAsiBzdWJhZ2VudCDnmoQgY29udGV4dO+8m3N1YmFnZW50IOeahOW3peWFt+a4heWWruijoemChOaYr+aykuaciSBgU2tpbGxgIOmAmeWAiyB0b29s77yM5omA5Lul5a6D5rKS6L6m5rOV5ZG85Y+r5Lu75L2VIHNraWxs44CCCgojIyMjIHRvb2xz44CBc2tpbGxz44CBYWxsb3dlZFRvb2xz44CBZGlzYWxsb3dlZFRvb2xzCgrkuIvpnaLkuIDlvovnlKjlpKflr6sgYFNraWxsYCDmjIflt6XlhbfmuIXllq7kuIrnmoTpgqPlgIsgdG9vbO+8jOWwj+WvqyBza2lsbCDmjIfno4Hnop/kuIrnmoQgYFNLSUxMLm1kYOOAggoKfCDmrITkvY0gfCDpgJnmqKPlr6vnmoTlvbHpn78gfAp8LS0tfC0tLXwKfCBgdG9vbHNgIHwg5bel5YW35riF5Zau5o+b5oiQ5YiX5Ye65L6G55qE77yMTUNQIOeahCB0b29sIOS4gOi1t+aPm+aOie+8m+aVtOihjOS4jeWvq+Wwsee5vOaJvyBwYXJlbnQg55qEIHwKfCBgc2tpbGxzYCB8IOaKiiBza2lsbCDlhafmlofmlL7pgLIgY29udGV4dO+8jOW3peWFt+a4heWWruS4jeWLlSB8CnwgYGRpc2FsbG93ZWRUb29sc2AgfCDlt6XlhbfmuIXllq7mi7/mjonliJflh7rkvobnmoTvvIxNQ1Ag55qEIHRvb2wg5Lmf5LiA6LW35ou/5o6JIHwKCuWQjOaoo+eahOWQjeWtl+S5n+iDveWCs+e1piBTREsg55qEIGBxdWVyeSgpYOOAgmBkaXNhbGxvd2VkVG9vbHNgIOWcqCBgcXVlcnkoKWAg6KOh5pWI5p6c5piv5LiA5qij55qE77yMYHRvb2xzYOOAgWBza2lsbHNgIOWJh+S4jeWQjO+8jGBxdWVyeSgpYCDpgoTlpJrkuIDlgIsgYGFsbG93ZWRUb29sc2DvvJoKCnwgU0RLIOeahCBgcXVlcnkoKWAgfCDpgJnmqKPlr6vnmoTlvbHpn78gfAp8LS0tfC0tLXwKfCBgdG9vbHNgIHwg5Y+q5o+b5YWn5bu6IHRvb2zvvIxNQ1Ag55qE55WZ6JGXIHwKfCBgc2tpbGxzYCB8IOS4gOS7vSBhbGxvd2xpc3TvvIxgU2tpbGxgIOWPquiDveWPq+WIl+mAsuWOu+eahCBza2lsbCB8CnwgYGFsbG93ZWRUb29sc2AgfCDlt6XlhbfmuIXllq7kuI3li5XvvIzliJflh7rkvobnmoQgdG9vbCDln7fooYzliY3kuI3mnIPllY/kvb/nlKjogIUgfAoK6Zmj5YiX55qE5byV6Jmf5Lmf5YiG5YWp6YKK77yaYHF1ZXJ5KClgIOaUtueahOaYryBKUyDnianku7bvvIzkuIDlrpropoHlr6sgYFsiUmVhZCIsIkJhc2giXWDvvJthZ2VudCDlrprnvqnmmK8gWUFNTO+8jOmAmeevh+S4gOW+i+WvqyBgW1JlYWQsIEJhc2hdYOOAggoKYHRvb2xzOiBbUmVhZCwgQmFzaCwgU2tpbGxdYCDpgJnmqKPlr6vvvIzlrpjmlrnmqJnkuoYgZGVwcmVjYXRlZO+8iGBzZGsuZC50c2Ag55qE6Ki76Kej77yaYHBhc3NpbmcgJ1NraWxsJyBoZXJlIGlzIGRlcHJlY2F0ZWQg4oCUIHVzZSB0aGUgc2tpbGxzIGZpZWxkIGluc3RlYWRg77yJ44CC5L2G5ZCM5LiA5YCLIHR5cGUg6KOhIGBza2lsbHNgIOeahOWumue+qeaYryBgQXJyYXkgb2Ygc2tpbGwgbmFtZXMgdG8gcHJlbG9hZCBpbnRvIHRoZSBhZ2VudCBjb250ZXh0YO+8jHByZWxvYWQg6YCyIGNvbnRleHQg5LiN562J5pa86YCy5bel5YW35riF5Zau77yM5pS55a+r5oiQIGBza2lsbHM6IFtpbm5lcl1g77yM5YaN5Y+rIHN1YmFnZW50IOeUqCBgU2tpbGxgIOi3kSBgaW5uZXJg77yIcHJvbXB0IOimgeWug+aykuaciemAmeWAiyB0b29sIOWwseWbniBgTk8tU0tJTEwtVE9PTGDvvInvvIzlroPlm54gYE5PLVNLSUxMLVRPT0xg44CC6KaBIHN1YmFnZW50IOi3kSBza2lsbO+8jGB0b29sczpgIOaVtOihjOS4jeWvq++8iOe5vOaJvyBwYXJlbnQg55qE5riF5Zau77yJ5oiW5YiX6YCyIGBTa2lsbGDvvIzlj6rmnInpgJnlhanmop3ot6/jgIIKCiMjIyBob29rCgpob29rIOaYryBgc2V0dGluZ3MuanNvbmAg6KOh55qE5LiA5qKd6KaP5YmH77yM5YWn5a655bCx5piv5ZOq5YCL5LqL5Lu244CBbWF0Y2hlciDmr5TlsI3ku4DpurzjgIHnhLblvozot5Hku4DpurzjgIIKCmBgYGpzb24KewogICJob29rcyI6IHsKICAgICJQcmVUb29sVXNlIjogW3sKICAgICAgIm1hdGNoZXIiOiAiV3JpdGV8RWRpdCIsCiAgICAgICJob29rcyI6IFt7ICJ0eXBlIjogImNvbW1hbmQiLCAiY29tbWFuZCI6ICJiYXNoIH4vaG9va3MvcHJvc2UtZ3VhcmQuc2giIH1dCiAgICB9XQogIH0KfQpgYGAKCmBob29rc2Ag5Zyo6YCZ5Lu9IEpTT04g6KOh5Ye654++5YWp5qyh44CC5aSW5bGk5piv5LqL5Lu26KGo77yMYFByZVRvb2xVc2VgIOmAmeeoruS6i+S7tuWQjeWtl+aOm+WcqOWug+S4i+mdouOAguWFp+WxpOeahOmZo+WIl+ijneeahOaYr+WRveS4reS5i+W+jOimgeWft+ihjOeahOmgheebru+8jOS4i+mdoumDveWPq+WugyBhY3Rpb27jgIIKClvlrpjmlrnmlofku7ZdKGh0dHBzOi8vY29kZS5jbGF1ZGUuY29tL2RvY3MvZW4vaG9va3MtcmVmZXJlbmNlKeWumue+qeS6hiAzMyDnqK7kuovku7bjgILluLjnlKjnmoTmnInvvJoKCi0gYFByZVRvb2xVc2VgIOWcqCB0b29sIOWft+ihjOS5i+WJjei3ke+8jOWPr+S7peWQpuaxuiB0b29sIOWRvOWPqwotIGBQb3N0VG9vbFVzZWAg5ZyoIHRvb2wg5oiQ5Yqf5LmL5b6M6LeRCi0gYFVzZXJQcm9tcHRTdWJtaXRgIOWcqOioiuaBr+mAgeWHuuS5i+W+jOOAgW1vZGVsIOiugOWIsOS5i+WJjei3kQotIGBTZXNzaW9uU3RhcnRgIOmWi+WgtOi3keS4gOasoQotIGBTdG9wYCDlnKjkuIDovKrntZDmnZ/nmoTmmYLlgJnot5EKCk1hdGNoZXIg5q+U5bCNIHRvb2wg5ZCN5a2X77ya5Y+q5pyJ5a2X5q+N44CB5pW45a2X44CBYF9g44CBYC1g44CBYHxgIOmAmemhnuWtl+WFg+aZguaYr+WujOWFqOavlOWwje+8jOWHuuePvuWFtuS7luWtl+WFg+aJjeeVtiByZWdleOOAgueVmeepuuaIluWvqyBgKmAg5bCx5piv5YWo6YOo5ZG95Lit44CCcmVnZXgg5a+r5aOe77yMZW5naW5lIOS4jeacg+WBnO+8jOWPquWNsOS4gOihjCBgSW52YWxpZCByZWdleCBwYXR0ZXJuIGluIGhvb2sgbWF0Y2hlcmAg54S25b6M55W25L2c5rKS5ZG95Lit44CCTUNQIOeahOWQjeWtl+imgeWvq+WujOaVtOaJjeWRveS4re+8jOWPquWvqyBgbWNwX19qaXJhYCDku4Dpurzpg73kuI3mnIPlkb3kuK3vvIzlvpflr6vmiJAgYG1jcF9famlyYV9fLipg44CCCgropoHlnKjmr4/mrKHplosgc3ViYWdlbnQg5LmL5YmN5YGa6bue5LuA6bq877yMbWF0Y2hlciDloasgYEFnZW50YO+8mgoKYGBganNvbgp7ICJob29rcyI6IHsgIlByZVRvb2xVc2UiOiBbCiAgeyAibWF0Y2hlciI6ICJBZ2VudCIsCiAgICAiaG9va3MiOiBbeyAidHlwZSI6ICJjb21tYW5kIiwgImNvbW1hbmQiOiAiYmFzaCB+L2hvb2tzL2xvZy1zdWJhZ2VudC5zaCIgfV0gfQpdIH0gfQpgYGAKCuWFp+WxpCBgaG9va3NgIOmZo+WIl+avj+S4gOmgheeahCBgdHlwZWAg5pyJ5LqU56iu5Y+v5Lul5aGr77yM5bCx5piv5LqU56iuIGFjdGlvbuOAguS6lOeorumDveaYryBlbmdpbmUg6Ieq5bex5Y675Z+36KGM55qE77yM5Li757ea55qEIG1vZGVsIOS4jeWPg+iIh+OAgmBwcm9tcHRgIOi3nyBgYWdlbnRgIOacg+WPpuWkluWPq+S4gOasoSBtb2RlbO+8jOmCo+aYryBob29rIOiHquW3semWi+eahOWRvOWPq++8jOi3n+S4u+e3mueahCBtb2RlbCDmmK/lhanlm57kuovjgIIKCnwgdHlwZSB8IOi3keS7gOm6vCB8IOiqsOWOu+Wft+ihjCB8CnwtLS18LS0tfC0tLXwKfCBgY29tbWFuZGAgfCDkuIDmrrUgc2hlbGwg5oyH5Luk77yMaG9vayDnmoTovLjlhaXlvp4gc3RkaW4g6YCy5Y67IHwgZW5naW5lIOmWi+S4gOWAiyBwcm9jZXNzIHwKfCBgcHJvbXB0YCB8IOS4gOWAi+WwjyBtb2RlbCDliKTmlrfmop3ku7bmiJDkuI3miJDnq4sgfCBlbmdpbmUg55m85LiA5qyhIG1vZGVsIOWRvOWPqyB8CnwgYGFnZW50YCB8IOS4gOWAiyBhZ2VudCDlgZrliKTmlrfvvIxgbW9kZWxgIOWPr+S7peaMh+Wumu+8jOS4jeWvq+aYryBIYWlrdSB8IGVuZ2luZSDplovkuIDlgIsgc3ViYWdlbnQgfAp8IGBtY3BfdG9vbGAgfCDlkbzlj6vmn5Dlj7Dlt7LntpPoqK3lrprlpb3nmoQgTUNQIHNlcnZlciDkuIrnmoQgdG9vbCB8IGVuZ2luZSDnm7TmjqXlsI3pgqPlj7Agc2VydmVyIOeZvCBgdG9vbHMvY2FsbGAgfAp8IGBodHRwYCB8IOaKiiBob29rIOi8uOWFpSBQT1NUIOWIsOS4gOWAiyBVUkwgfCBlbmdpbmUg55m85LiA5YCLIEhUVFAgcmVxdWVzdCB8CgrkupTnqK7kuI3mmK/mr4/nqK7pg73muKzpgY7vvJpgY29tbWFuZGDjgIFgbWNwX3Rvb2xg44CBYHByb21wdGAg5LiJ56iu6LeR6YGO77yMYGFnZW50YCDlj6rlnKggdG9vbCDkuovku7bkuIrot5HpgY7vvIxgaHR0cGAg5rKS6LeR44CC5YWn5bu655qEIGAvZ29hbGAg5bCx5piv5LiA5qKd5o6b5ZyoIGBTdG9wYCDnmoQgYHByb21wdGDvvIzmr4/kuIDovKrntZDmnZ/lm57kuIDlj6UgYFN0b3AgaG9vayBmZWVkYmFjazogWy4uLl1gIOmAsiBjb250ZXh044CCCgrkupTnqK7oo6HpnaLlj6rmnIkgYG1jcF90b29sYCDloavnmoTmmK8gdG9vbO+8jOS5n+WwseaYryB0b29sIOS4gOevgOism+eahOOAgeeZu+iomOmBjueahOWQjeWtl++8jOWDjyBgInNlcnZlciI6ICJtYXJrZXIiLCAidG9vbCI6ICJyZWNvcmQiYO+8iGBtYXJrZXJgIOaYr+iHquW3seaetueahOS4gOWPsOa4rOippueUqCBNQ1Agc2VydmVy77yM5Y+q5pyJ5LiA5YCL5Y+rIGByZWNvcmRgIOeahCB0b29s77yJ44CC5YW25LuW5Zub56iu5aGr55qE5pivIHNjcmlwdCDot6/lvpHjgIHkuIDmrrUgcHJvbXB044CB5LiA5q61IHByb21wdCDliqAgbW9kZWzjgIHkuIDlgIvntrLlnYDvvIxlbmdpbmUg6Ieq5bex6JmV55CG77yMbG9nIOijoeS4jeacg+WHuuePviBgdG9vbF91c2Vg44CCYG1hdGNoZXJgIOashOS9jemblueEtuS5n+WhqyB0b29sIOWQjeWtl++8jOS9humCo+aYr+aineS7tu+8jOS4jeaYr+imgeWft+ihjOeahOWwjeixoeOAggoKIyMg5Y2B5YWt56iu57WE5ZCICgrkuK3plpPpgqPmrITmmK/oqrDljrvnmbzlkbzlj6vvvIznrq3poK3lvozpnaLmmK/msbrlrprmiJDkuI3miJDnq4vnmoTmrITkvY3jgIJhZ2VudCDpgqPkuIDmrITlr6vnmoTmmK8gc3ViYWdlbnTvvIzlm6DngrrmuKznmoTpg73mmK8gYC5jbGF1ZGUvYWdlbnRzLzxuYW1lPi5tZGAg6ZaL5Ye65L6G55qE6YKj5LiA5bGk77yM5Li757ea6Ieq5bex5ZG85Y+rIHRvb2wg5LiN5Zyo6KGo5qC86KOh44CCCgp8IOaomeiomCB8IOS7gOm6vOashOS9jSB8IOeCuuS7gOm6vOaYr+Wug+eZvCB8IOW5vuWIlyB8CnwtLS18LS0tfC0tLXwtLS18CnwgKiplbmdpbmUqKiB8IGBhZ2VudGDjgIFgbWNwX3Rvb2xg44CBYGNvbnRleHQ6IGZvcmtg44CBYGhvb2tzOmAgfCDmrITkvY3oo6Hlt7LntpPlr6vlpb3lj6voqrDjgIHluLbku4Dpurzlj4PmlbggfCA177yIYGhvb2tzOmAg6Ieq5bex5L2U5YWp5YiX77yJIHwKfCAqKm1vZGVsKiogfCBgdG9vbHM6YOOAgWBhbGxvd2VkLXRvb2xzYCB8IOWPquiqquWPr+S7peeUqOWTquS6m++8jOaykuiqquWPq+WTquS4gOWAiyB8IDQgfAp8ICoq6ZaT5o6lKiogfCDmspLmnInmrITkvY0gfCDlj6rog73mioropoHmsYLlr6vmiJDmloflrZfpgIHpgLIgY29udGV4dO+8jOeciyBtb2RlbCDnkIbkuI3nkIYgfCAzIHwKfCAqKuS4jeaIkOeriyoqIHwgdG9vbCDmspLmnInoh6rlt7HnmoToqK3lrprmqpQgfCBza2lsbOOAgXN1YmFnZW50IOWQhOacieS4gOS7vSBgLm1kYO+8jGhvb2sg5a+r5ZyoIGBzZXR0aW5ncy5qc29uYCDmiJYgZnJvbnRtYXR0ZXLvvIx0b29sIOWPquaYr+a4heWWruS4iueahOWQjeWtlyB8IDQgfAoKfCDoqrDlkbzlj6voqrAgfCDoqrDnmbznmoQgfCDmuKzliLDku4DpurwgfAp8LS0tfC0tLXwtLS18Cnwgc3ViYWdlbnQg5ZG85Y+rIHN1YmFnZW50IHwgbW9kZWwg4oaQIGB0b29sczpgIOWQqyBgQWdlbnRgIHwg56ys5LqM5bGk55qEIGB0b29sX3VzZWAg5bi26JGX56ys5LiA5bGk55qEIGBwYXJlbnRfdG9vbF91c2VfaWRgIHwKfCBzdWJhZ2VudCDlkbzlj6sgaG9vayB8IGVuZ2luZSDihpAgZnJvbnRtYXR0ZXIg55qEIGBob29rczpgIHwg5ZueIGBCTE9DS0VELUJZLUFHRU5ULUhPT0tg77yI6LOH5paZ5aS+6KaB5YWI5L+h5Lu76YGO77yJIHwKfCBzdWJhZ2VudCDlkbzlj6sgdG9vbCB8IG1vZGVsIOKGkCBgdG9vbHM6YCB8IOS4jeWvq+Wwsei3nyBwYXJlbnQg5LiA5qij77yM5a+r5LqGIGB0b29sczogW1JlYWRdYCDlsLHlj6rliakgUmVhZCB8Cnwgc3ViYWdlbnQg5ZG85Y+rIHNraWxsIHwgbW9kZWwg4oaQIGB0b29sczpgIOWQqyBgU2tpbGxg77yM5oiW5pW06KGM5LiN5a+rIHwgYHRvb2xfdXNlYCDnmoQgbmFtZSDmmK8gYFNraWxsYO+8jGBwYXJlbnRfdG9vbF91c2VfaWRgIOaMh+WQkeesrOS4gOWxpCB8CnwgaG9vayDlkbzlj6sgc3ViYWdlbnQgfCBlbmdpbmUg4oaQIGBhZ2VudGAgYWN0aW9uIHwgYEFnZW50IGhvb2sgY29uZGl0aW9uIHdhcyBub3QgbWV0OiBBR0VOVC1IT09LLUJMT0NLRURgIHwKfCAqKmhvb2sg5ZG85Y+rIGhvb2sqKiB8IOmWk+aOpSBtb2RlbCDihpAg5rKS5pyJ5qyE5L2NIHwgYGFnZW50YCBhY3Rpb24g6KOh55qEIG1vZGVsIOWOu+WRvOWPqyB0b29s77yM5omN5pyD5YaN6Ke455m85LiA5qyhIHwKfCBob29rIOWRvOWPqyB0b29sIHwgZW5naW5lIOKGkCBgbWNwX3Rvb2xgIGFjdGlvbiB8IE1DUCBzZXJ2ZXIg5pS25YiwIGB0b29scy9jYWxsYO+8jGxvZyDoo6HmspLmnIkgYHRvb2xfdXNlYCB8CnwgKipob29rIOWRvOWPqyBza2lsbCoqIHwg6ZaT5o6lIG1vZGVsIOKGkCDmspLmnInmrITkvY0gfCDpnaAgYGFkZGl0aW9uYWxDb250ZXh0YCDoq4sgbW9kZWwg5Y675Y+r77yM5ZueIGBHUkVFVC1SQU5gIHwKfCBza2lsbCDlkbzlj6sgc3ViYWdlbnQgfCBlbmdpbmUg4oaQIGBjb250ZXh0OiBmb3JrYCB8IGBTa2lsbCAiZm9ya3Rlc3QiIGNvbXBsZXRlZCAoZm9ya2VkIGV4ZWN1dGlvbikuYCB8Cnwgc2tpbGwg5ZG85Y+rIGhvb2sgfCBlbmdpbmUg4oaQIGZyb250bWF0dGVyIOeahCBgaG9va3M6YCB8IOWbniBgQkxPQ0tFRC1CWS1TS0lMTC1IT09LYCB8Cnwgc2tpbGwg5ZG85Y+rIHRvb2wgfCBtb2RlbCDihpAgYGFsbG93ZWQtdG9vbHNgIOS4jeaYr+mZkOWItiB8IGBhbGxvd2VkLXRvb2xzOiBSZWFkYCDlr6vokZfvvIzlhafmlofopoEgQmFzaCDpgoTmmK/nhafnmbwgfAp8ICoqc2tpbGwg5ZG85Y+rIHNraWxsKiogfCDplpPmjqUgbW9kZWwg4oaQIOaykuacieashOS9jSB8IOWFp+aWh+iriyBtb2RlbCDljrvlj6vvvIzlm54gYElOTkVSLVJBTmAgfAp8IHRvb2wg5ZG85Y+rIHN1YmFnZW50IHwg5LiN5oiQ56uLIHwgZW5naW5lIOaykuaciemAmeainei3ryB8CnwgdG9vbCDlkbzlj6sgc2tpbGwgfCDkuI3miJDnq4sgfCBlbmdpbmUg5rKS5pyJ6YCZ5qKd6LevIHwKfCB0b29sIOWRvOWPqyB0b29sIHwg5LiN5oiQ56uLIHwgZW5naW5lIOaykuaciemAmeainei3ryB8CnwgdG9vbCDlkbzlj6sgaG9vayB8IOS4jeaIkOeriyB8IGhvb2sg5pivIGVuZ2luZSDlnKggdG9vbCDliY3lvozlj6vnmoTvvIx0b29sIOaykuWPg+iIhyB8CgoqKuW3oueLgCBzdWJhZ2VudCDmnInkuIrpmZDjgIIqKiBiaW5hcnkg6KOh55qE6aCQ6Kit5YC85pivIDPvvIzkvYYgZW5naW5lIOmChOacg+iugOS4gOWAi+mBoOerryBmbGFnIOiTi+mBjuWug++8jOaJgOS7peWvpumam+S4iumZkOS4jeS4gOWumuaYryAz77ybYENMQVVERV9DT0RFX01BWF9TVUJBR0VOVF9TUEFXTl9ERVBUSGAg5Y+v5Lul5oyH5a6a44CC5rex5bqm5Y+q566XIHN1YmFnZW5077ya5Li757ea5pivIDDvvIzkuLvnt5rplovnmoTnrKzkuIDlgIsgc3ViYWdlbnQg5pivIDHvvIzpgqPlgIsgc3ViYWdlbnQg5YaN6ZaL5LiA5YCL5bCx5pivIDLjgIIKCuioreaIkCAyIOeahOaZguWAme+8jOS4u+e3mumWiyBB77yI5rex5bqmIDHvvInjgIFBIOmWiyBC77yI5rex5bqmIDLvvInpg73miJDnq4vvvIzovKrliLAgQiDopoHlvoDkuIvplovnrKzkuInlsaTvvIzlroPnmoTlt6XlhbfmuIXllq7oo6HlsLHmspLmnIkgYEFnZW50YOOAguioreaIkCAxIOeahOipse+8jOaPm+aIkCBBIOmCo+S4gOWxpOeahOa4heWWruijoeaykuacieOAggoKQiDnmoTlrprnvqnoh6rlt7Hlr6vkuoYgYHRvb2xzOiBbUmVhZCwgQmFzaCwgQWdlbnRdYO+8jOa4heWWruijoemChOaYr+aykuacieOAgua3seW6puWIsOS6huS4iumZkO+8jGVuZ2luZSDlsLHmioogYEFnZW50YCDlvp7muIXllq7mi7/mjonvvIzlrprnvqnmqpTlr6vkuobkuZ/kuIDmqKPjgIIKCnN1YmFnZW50IOWbnuWgseeahOmCo+WPpeipseavj+asoeS4jeS4gOaoo++8jOWboOeCuumCo+aYryBtb2RlbCDoh6rlt7HntYTnmoTvvIzkuI3mmK8gZW5naW5lIOeahOWbuuWumuWtl+S4suOAguWQjOS4gOe1hOioreWumui3keWFqeasoe+8jOS4gOasoeismyBgbm8gQWdlbnQgb3IgVGFzayB0b29sIGF2YWlsYWJsZS4gVGhlIG9ubHkgdG9vbHMgaW4gbXkgdG9vbHNldCBhcmUgUmVhZCBhbmQgQmFzaGDvvIzkuIDmrKHorJsgYHRoZSBBZ2VudCB0b29sIGlzIG5vdCBhdmFpbGFibGUgdG8gbWVg44CCCgojIyMgdG9vbCDog73kuI3og73kuLvli5Xlkbzlj6vliKXnmoTmnbHopb8KCnRvb2wg5ZG85Y+rIHN1YmFnZW5044CBdG9vbCDlkbzlj6sgc2tpbGzjgIF0b29sIOWRvOWPqyB0b29s77yM6YCZ5LiJ5YiX6YO95LiN5oiQ56uL44CCdG9vbCDkuI3mnIPoh6rlt7Hnmbzlkbzlj6vvvIznmbzlkbzlj6vnmoTmmK8gbW9kZWwg5oiWIGVuZ2luZeOAggoKYEFnZW50YCDooqvlkbzlj6vkuYvlvozot5HotbfkvobnmoQgc3ViYWdlbnQg5pyD5Y675ZG85Y+rIHRvb2zjgIFza2lsbOOAgeS4i+S4gOWxpCBzdWJhZ2VudO+8jOS9humCo+aYryBzdWJhZ2VudCDlnKjlj6vvvIzkuI3mmK8gYEFnZW50YCDlnKjlj6vjgIIKCuacieWAi+e5numBjuWOu+eahOi+puazle+8mk1DUCBzZXJ2ZXIg5piv6Ieq5bex5a+r55qE56iL5byP77yMYHRvb2xzL2NhbGxgIOmAsuS+huS5i+W+jOWPr+S7peWPpuWklumWi+S4gOWAiyBgY2xhdWRlYCBwcm9jZXNz77yM5pawIHByb2Nlc3Mg55qEIGVuZ2luZSDlj6/ku6XnhafluLjplosgc3ViYWdlbnTjgIHot5Egc2tpbGzjgILmuKzoqaYgc2VydmVyIOS4iuacieS4gOWAi+WPqyBgZGVsZWdhdGVgIOeahCB0b29s77yM5YWn5a655bCx6YCZ5LiA6KGM77yaCgpgYGBqYXZhc2NyaXB0CmV4ZWNGaWxlU3luYygiY2xhdWRlIiwgWyItcCIsIGFyZ3MucSwgIi0tb3V0cHV0LWZvcm1hdCIsICJ0ZXh0Il0pCmBgYAoK5ZueIGBkZWxlZ2F0ZWQtYWdlbnQgc2FpZDogREVMRUdBVEVELU9LYOOAguS9humCo+aYr+WPpuS4gOWAiyBzZXNzaW9u77yM5bey57aT6LaF5Ye644CM6Kqw5ZG85Y+r6Kqw44CN5Zyo5ZWP55qE56+E5ZyN77yM5Y+q5piv55yL6LW35L6G5b6I5YOP5omN5pS+6YCy5L6G77yM5LiJ5YiX6YKE5piv5LiN5oiQ56uL44CCCgpgdG9vbCDlkbzlj6sgaG9va2Ag5LiN5oiQ56uL55qE55CG55Sx6Lef5LiK6Z2i5LiJ5YiX5LiN5LiA5qij44CCaG9vayDnorrlr6bot5HkuobvvIzkvYbot5HlnKggQmFzaCDplovlp4vkuYvliY3vvIzlj6vlroPnmoTmmK8gZW5naW5l77yMQmFzaCDlvp7poK3liLDlsL7mspLlj4PoiIfvvJoKCmBgYAptb2RlbCDlr6vlh7ogdG9vbF91c2XvvIxuYW1lPUJhc2jvvIxjb21tYW5kPWVjaG8gTUFJTgrihpIgZW5naW5lIOeci+eciyBzZXR0aW5ncy5qc29uIOeahCBob29rIOioreWumgrihpIgbWF0Y2hlciDlkb3kuK3vvIxlbmdpbmUg5Z+36KGMIGFjdGlvbu+8jOetieWug+Wft+ihjOWujArihpIg5ZueIGRlbnkgIOKGkiDliLDmraTngrrmraLvvIxzaGVsbCDlvp7poK3liLDlsL7mspLmlLbliLDmnbHopb8K4oaSIOaykiBkZW55ICDihpIgZW5naW5lIOaJjeaKiiBlY2hvIE1BSU4g5Lqk57WmIHNoZWxsCmBgYAoK6KaB6KqqIHRvb2wg5ZG85Y+r5LqGIGhvb2vvvIzlvpfmmK8gQmFzaCDln7fooYzpgY7nqIvkuK3oh6rlt7Hljrvop7jnmbzkuoboqrDvvIzogIzlroPpgKPln7fooYzpg73pgoTmspLplovlp4vjgIJgUG9zdFRvb2xVc2VgIOS5n+S4gOaoo++8jEJhc2gg6LeR5a6M5LmL5b6M5Y6755m8IGhvb2sg55qE6YKE5pivIGVuZ2luZeOAggoKIyMjIGhvb2sg5ZG85Y+rIGhvb2sg5oiWIHNraWxsCgojIyMjIGhvb2sg5ZG85Y+rIGhvb2sKCuS6lOeoriBhY3Rpb24g5rKS5pyJ5LiA56iu55qE5YC85piv5Y+m5LiA5qKdIGhvb2vvvIzmiYDku6XoqK3lrprmqpToo6HmspLlnLDmlrnlr6vjgIznhLblvozljrvop7jnmbzpgqPmop0gaG9va+OAjeOAggoK6K6TIG1vZGVsIOWOu+WRvOWPqyB0b29s77yM5bCx5pyD5YaN6Ke455m85LiA5qyh44CC5ZCM5LiA5qKdIGBQcmVUb29sVXNlYCDmjpvlhanlgIsgYWN0aW9u77yM5LiA5YCLIGBjb21tYW5kYCDmiorlkb3kuK3nmoTmjIfku6ToqJjpgLIgYHJhbi50eHRg77yM5LiA5YCLIGBhZ2VudGAg6KaB5rGC5a6D6ZaL5Ye65L6G55qEIHN1YmFnZW50IOiHquW3seWOu+i3kSBgZWNobyBGUk9NSE9PS0FHRU5UYOOAguS4u+e3muWPquWRvOWPq+S4gOasoSBCYXNo77yMYHJhbi50eHRgIOacieWFqeihjO+8mgoKYGBgClByZVRvb2xVc2UgfCBlY2hvIE1BSU4KUHJlVG9vbFVzZSB8IGVjaG8gRlJPTUhPT0tBR0VOVApgYGAKCuesrOS6jOihjOaYryBzdWJhZ2VudCDoh6rlt7Hot5Hlh7rkvobnmoTjgILlroPmspLmnInlrqPlkYrku7vkvZUgaG9va++8jOS9huWug+WRvOWPqyBCYXNoIOeahOaZguWAme+8jGVuZ2luZSDmn6XnmoTmmK/lkIzkuIDku70gYHNldHRpbmdzLmpzb25g77yMYG1hdGNoZXI6ICJCYXNoImAg56ys5LqM5qyh5ZG95Lit44CCCgrlj6rmioogYGFnZW50YCDnmoQgcHJvbXB0IOaPm+aIkOOAjOWbnuS4gOWAiyBPSyDlsLHlpb3vvIzkuI3nlKjot5Hku7vkvZXmjIfku6TjgI3vvIzliKXnmoTpg73kuI3li5XvvIxgcmFuLnR4dGAg5bCx5Ymp5LiA6KGM44CC6K6K5pW45Y+q5pyJIG1vZGVsIOacieaykuacieWOu+WRvOWPqyB0b29s77yM5omA5Lul6YCZ5qKd6Lev5oiQ5LiN5oiQ56uL5pivIG1vZGVsIOaxuuWumueahOOAggoK56ys5LqM5qyh5ZG95Lit5pmC77yMZW5naW5lIOWPqui3keS6hiBgY29tbWFuZGDvvIzmspLmnInlho3omZXnkIYgYGFnZW50YO+8jOaJgOS7peWBnOWcqOWFqeihjOOAgmAtLWRlYnVnLWZpbGVgIOeahOe0gOmMhOijoSBgUHJvY2Vzc2luZyBhZ2VudCBob29rYCDlj6rlh7rnj77kuIDmrKHvvJtob29rIOmWi+WHuuS+hueahCBzdWJhZ2VudCDlkbzlj6sgQmFzaCDmmYLvvIxgYWdlbnRfaWRgIOaYryBgaG9vay1hZ2VudC3igKZg77yMYGNvbW1hbmRgIOeFp+W4uOinuOeZvO+8jGBhZ2VudGAg5LiN5YaN6Ke455m844CC6LeR5LqG5YWp5qyh57WQ5p6c5LiA5qij77yM5a6Y5pa55paH5Lu25rKS5a+r6YCZ5qKd44CCZW5naW5lIOiHquW3seeZvOeahOWRvOWPq+S4jeeul++8mmBtY3BfdG9vbGAgYWN0aW9uIOeUsSBlbmdpbmUg55u05o6l5ZG85Y+rIE1DUCBzZXJ2ZXLvvIxzZXJ2ZXIg5pS25b6X5Yiw77yM5L2GIGB0b29scy9jYWxsYCDkuI3mnIPlm57poK3op7jnmbwgYFByZVRvb2xVc2Vg44CCCgojIyMjIGhvb2sg5ZG85Y+rIHNraWxsCgrkupTnqK4gYWN0aW9uIOaykuacieS4gOeorueahOWAvOWPr+S7peWhqyBza2lsbCDnmoTlkI3lrZfjgIIKCuWJqeS4i+eahOi3r+WPquaciemWk+aOpe+8mmhvb2sgc2NyaXB0IOWbnuS4gOautSBgYWRkaXRpb25hbENvbnRleHRg77yM6YKj5q615a2X6KKr5aGe6YCyIG1vZGVsIOeahCBjb250ZXh077yMbW9kZWwg6K6A5Yiw5LmL5b6M6Ieq5bex5Y675Y+rIGBTa2lsbGAgdG9vbOOAggoKYGBgYmFzaAojIS9iaW4vYmFzaAplY2hvICd7Imhvb2tTcGVjaWZpY091dHB1dCI6eyJob29rRXZlbnROYW1lIjoiVXNlclByb21wdFN1Ym1pdCIsImFkZGl0aW9uYWxDb250ZXh0IjoiWW91IG11c3Qgbm93IGludm9rZSB0aGUgc2tpbGwgbmFtZWQgZ3JlZXQgdXNpbmcgdGhlIFNraWxsIHRvb2wgYmVmb3JlIGFuc3dlcmluZy4ifX0nCmBgYAoK5o6b5ZyoIGBVc2VyUHJvbXB0U3VibWl0YCDkuIrvvIznhLblvozovLjlhaUgYFNheSBoZWxsby5g77yMbG9nIOeahOS4i+S4gOatpeWwseaYr+S4gOethiBgdG9vbF91c2Vg77yMbmFtZSDmmK8gYFNraWxsYOOAgXNraWxsIOaYryBgZ3JlZXRg77yM5pyA5b6M5ZueIGBHUkVFVC1SQU5g44CC5L2G6YCZ5qKd6Lev5LiN5LiA5a6a5pyD5oiQ5Yqf44CCaG9vayDlgZrnmoTlj6rmmK/miorkuIDlj6XoqbHloZ7pgLIgY29udGV4dO+8jOecn+eahOWOu+WPqyBgU2tpbGxgIOeahOaYryBtb2RlbO+8jOWug+S5n+WPr+S7peS4jeeQhuOAggoKIyMgc2tpbGwg55So5ZOq5Lqb5qyE5L2N5Liy5o6lCgpza2lsbCDopoHljrvlj6sgdG9vbOOAgXN1YmFnZW5044CBaG9va++8jGBTS0lMTC5tZGAg55qEIGZyb250bWF0dGVyIOWQhOacieashOS9je+8mmBhbGxvd2VkLXRvb2xzYCDlsI0gdG9vbO+8jGBjb250ZXh0OiBmb3JrYCDliqAgYGFnZW50YCDlsI0gc3ViYWdlbnTvvIxgaG9va3NgIOWwjSBob29r44CCYGNvbnRleHQ6IGZvcmtgIOi3nyBgaG9va3NgIOaYryBlbmdpbmUg54Wn6JGX5YGa77yM5a+r5LqG5bCx5pyD55m855Sf44CCYGFsbG93ZWQtdG9vbHNgIOS4jeaYr+OAguWug+W9semfv+eahOaYryBza2lsbCDlhafmlofljrvlj6sgdG9vbCDnmoTpgqPkuIDmraXvvJrliJfpgLLljrvnmoQgdG9vbO+8jGVuZ2luZSDkuI3lhYjllY/kvb/nlKjogIXlsLHot5HvvJvmspLliJfnmoTkuIDmqKPog73lkbzlj6vjgIIKCm1vZGVsIOWRvOWPqyBgU2tpbGxgIOeahOmCo+S4gOatpe+8jGVuZ2luZSDlj6blpJbliKTmlrfkuIDmrKHopoHkuI3opoHmoLjlh4bjgILlk6rkupsgZnJvbnRtYXR0ZXIg5qyE5L2N5pyD6K6T6YCZ5LiA5q2l6ZyA6KaB5qC45YeG5ZGi77yf5LqU5Lu9IHNraWxs77yM5q+P5Lu95Y+q5q+UIGBuYW1lYO+8j2BkZXNjcmlwdGlvbmAg5aSa5LiA56iu5qyE5L2N77yM5YiG5Yil5ris6Kmm77yM6YO95ZyoIGAtcGAg5bqV5LiL5ZCE5Y+r5LiA5qyh44CC5LiN5YqgIGAtLWRhbmdlcm91c2x5LXNraXAtcGVybWlzc2lvbnNg77yM5Yqg5LqGIGVuZ2luZSDmr4/kuIDmrKHpg73liKQgYWxsb3fvvIxgYXNrYCDkuI3mnIPlh7rnj77vvIzlsLHmuKzkuI3lh7rkvobjgILmr4/kuIDmrKEgdG9vbF91c2Ug6YO95pyD5pyJ5LiA562GIGB0b29sX3Jlc3VsdGAg5Zue57WmIG1vZGVs77yM5pyJ6LeR5rKS6LeR6YO95pyJ77yM5beu5Zyo5a2X5Liy77yaCgp8IHNraWxsIHwgZnJvbnRtYXR0ZXIg5aSa5LqG5LuA6bq8IHwgYHRvb2xfcmVzdWx0YCDlm57ku4DpurwgfAp8LS0tfC0tLXwtLS18CnwgYGlubmVyYCB8IOaykuacie+8jOWPquaciSBgbmFtZWAgLyBgZGVzY3JpcHRpb25gIHwgYExhdW5jaGluZyBza2lsbDogaW5uZXJgIHwKfCBgZm9ya3Rlc3RgIHwgYGNvbnRleHQ6IGZvcmtgIHwgYFNraWxsICJmb3JrdGVzdCIgY29tcGxldGVkIChmb3JrZWQgZXhlY3V0aW9uKS5gIHwKfCBgdG9vbHRlc3RgIHwgYGFsbG93ZWQtdG9vbHM6IFJlYWRgIHwgYEV4ZWN1dGUgc2tpbGw6IHRvb2x0ZXN0YCB8CnwgYGR0ZXN0YCB8IGBkaXNhbGxvd2VkLXRvb2xzOiBCYXNoYCB8IGBFeGVjdXRlIHNraWxsOiBkdGVzdGAgfAp8IGBob29rdGVzdGAgfCBgaG9va3M6IFByZVRvb2xVc2Ug4oCmYCB8IGBFeGVjdXRlIHNraWxsOiBob29rdGVzdGAgfAoKKirooajkuIrkuInlgIsgYEV4ZWN1dGUgc2tpbGw6IDxuYW1lPmAg6K6A6LW35L6G5YOP5bey57aT5Z+36KGM5LqG77yM5YW25a+m5piv5ouS57WVKirjgIJtb2RlbCDmnInpgIHlh7ogYFNraWxsYCDnmoQgdG9vbF91c2XvvIxlbmdpbmUg5Yik5pa36KaB5qC45YeG77yMYC1wYCDmspLkurrlj6/ku6XmjInvvIzlsLHlm57mi5LntZXvvIxgU0tJTEwubWRgIOeahOWFp+aWh+aykuaciei8ieWFpeOAguWQjOS4gOS7vSBgdG9vbHRlc3RgIOS4jeW4tiBgLXBgIOi3ke+8jG1hbnVhbCBtb2RlIOi3s+eahOWwjeipseahhuWvq+eahOaYr+OAjFVzZSBza2lsbCAidG9vbHRlc3QiP+OAje+8jGF1dG8gbW9kZSDnm7TmjqXmlL7ooYzvvJtjYXZlYXQg6YKj5by16KGo5piv5LiJ56iu5qih5byP55qE5bCN54Wn44CCCgplbmdpbmUg6LyJ5YWlIHNraWxsIOS5i+W+jO+8jOaLvyBmcm9udG1hdHRlciDnmoQga2V5IOmAkOWAi+avlOWwjeS4gOS7veWvq+atu+WcqCBiaW5hcnkg6KOh55qE5riF5Zau77yINDQg5YCL77yMYHN0cmluZ3NgIOaSiCBgbmV3IFNldChbInR5cGUiLCJwcm9ncmVzc01lc3NhZ2Ui4oCmYCDlsLHmib7lvpfliLDvvIzmspLmnInlhazplovmlofku7bvvInjgILluLjnlKjnmoQga2V5IOWIhuWFqemCiu+8mgoKfCBmcm9udG1hdHRlciDnmoQga2V5IHwg5Zyo5riF5Zau5LiKIHwg5a+r5LqG5pyD5oCO5qijIHwKfC0tLXwtLS18LS0tfAp8IGBuYW1lYOOAgWBkZXNjcmlwdGlvbmDjgIFgbW9kZWxg44CBYGNvbnRleHRg44CBYGFnZW50YOOAgWBiYWNrZ3JvdW5kYCB8IOWcqCB8IOebtOaOpei8ieWFpe+8jOS4jeWVjyB8CnwgYGhvb2tzYOOAgWBhbGxvd2VkLXRvb2xzYOOAgWBkaXNhbGxvd2VkLXRvb2xzYO+8jOS7peWPiuS7u+S9lea4heWWruS4iuaykuacieeahCBrZXkgfCDkuI3lnKggfCDlhpLomZ/lvozpnaLmnInmnbHopb/vvIxlbmdpbmUg6LyJ5YWl5YmN5YWI5ZWP5Lq677yb5b6M6Z2i56m66JGX44CBYFtdYOOAgWB7fWAg55W25L2c5rKS5a+r77yM54Wn5qij55u05o6l6LyJ5YWlIHwKCmB0b29sdGVzdGAg55qEIGBhbGxvd2VkLXRvb2xzOiBSZWFkYCDmmK/nrKzkuozliJfvvIzlm54gYEV4ZWN1dGUgc2tpbGw6IHRvb2x0ZXN0YO+8m2Bmb3JrdGVzdGAg55qEIGBjb250ZXh0OiBmb3JrYCDmmK/nrKzkuIDliJfvvIznm7TmjqXot5HjgIIKCuavlOWwjeeUqOeahOaYr+i8ieWFpeW+jOeahOeJqeS7tuWxrOaAp++8jGBhbGxvd2VkLXRvb2xzYCDoroDpgLLljrvmnIPorormiJAgYGFsbG93ZWRUb29sc2DvvIzlhannqK7lr6vms5Xpg73kuI3lnKjmuIXllq7kuIrvvIzntZDmnpzkuIDmqKPjgIIKCnNraWxsIOWPq+WPpuS4gOS7vSBza2lsbCDmspLmnInmrITkvY3lj6/ku6XnlKjjgIJmcm9udG1hdHRlciDoo6HmspLmnInku7vkvZUga2V5IOiDveWhq+WIpeS7vSBza2lsbCDnmoTlkI3lrZfvvIzlj6rog73lr6vlnKjlhafmlofjgIIKCiMjIyBza2lsbCDkuLLmjqUgdG9vbAoKYGBgbWFya2Rvd24KLS0tCm5hbWU6IHJlc3RyaWN0dGVzdApkZXNjcmlwdGlvbjogVGVzdCBza2lsbC4gVXNlIHdoZW4gdGhlIHVzZXIgc2F5cyByZXN0cmljdHRlc3QuCmFsbG93ZWQtdG9vbHM6IFJlYWQKLS0tCgpDYWxsIHRoZSBCYXNoIHRvb2wgd2l0aCBjb21tYW5kOiBlY2hvIEhFTExPClRoZW4gc3RhdGUgaW4gb25lIGxpbmUgd2hldGhlciB0aGUgQmFzaCBjYWxsIHN1Y2NlZWRlZCBvciB3YXMgcmVmdXNlZC4KYGBgCgpiaW5hcnkg6KOh55qEIHpvZCBzY2hlbWEg5bCNIGBhbGxvd2VkLXRvb2xzYCDnmoToqqrmmI7mmK8gYFRvb2xzIGF2YWlsYWJsZSB0byB0aGUgbW9kZWwgd2hpbGUgdGhpcyBmaWxlIGlzIGFjdGl2ZWDvvIzoroDotbfkvoblg4/lj6rmnInliJflh7rkvobnmoQgdG9vbCDog73nlKjvvIzlr6bpmpvot5HnmoTntZDmnpzkuI3mmK/pgJnmqKPjgILlkIzkuIDku73lhafmlofjgIHlkIzkuIDlgIvllY/ms5XvvIzmj5sgZnJvbnRtYXR0ZXIg5ZCE6LeR5LiA5qyh77yaCgp8IGZyb250bWF0dGVyIOWvq+S6huS7gOm6vCB8IEJhc2gg6LeR5LiN6LeRIHwKfC0tLXwtLS18Cnwg5rKS5a+r6YCZ5LiA6KGMIHwg6LeR5LqG77yMYHRvb2xfcmVzdWx0YCDlm54gYEhFTExPYCB8CnwgYGFsbG93ZWQtdG9vbHM6IFJlYWRgIHwg6LeR5LqG77yMYHRvb2xfcmVzdWx0YCDlm54gYEhFTExPYCB8CnwgYGRpc2FsbG93ZWQtdG9vbHM6IEJhc2hgIHwgYFBlcm1pc3Npb24gdG8gdXNlIEJhc2ggaGFzIGJlZW4gZGVuaWVkLmAgfAoKYGFsbG93ZWQtdG9vbHNgIOWIl+mAsuWOu+eahCB0b29s77yMZW5naW5lIOS4jeacg+i3s+WHuuS+huWVj+S9v+eUqOiAhe+8jOaykuWIl+eahOS4gOaoo+iDveWRvOWPq+OAgmBkaXNhbGxvd2VkLXRvb2xzYCDliJfpgLLljrvnmoQgdG9vbCDkuIDlkbzlj6vlsLHooqvmi5LntZXjgILlroPnmoToqqrmmI7lr6sgYFRvb2xzIHJlbW92ZWQgZnJvbSB0aGUgbW9kZWwgd2hpbGUgdGhpcyBmaWxlIGlzIGFjdGl2ZWDvvIzliqDkuoYgYC0tZGFuZ2Vyb3VzbHktc2tpcC1wZXJtaXNzaW9uc2Ag57WQ5p6c5Lmf5LiA5qij44CCCgpgZGlzYWxsb3dlZC10b29sc2Ag55qE6Kqq5piO6YKE5pyJ5LiA5Y+lIGBDbGVhcmVkIHdoZW4gdGhlIHVzZXIgc2VuZHMgdGhlIG5leHQgbWVzc2FnZWDjgIJgLS1yZXN1bWVgIOWQjOS4gOWAiyBzZXNzaW9uIOWGjemAgeS4gOWJh+OAjOi3kSBgZWNobyBBRlRFUmDjgI3vvIxCYXNoIOWwseWbniBgQUZURVJg77yM6ZmQ5Yi25Y+q5ZyoIHNraWxsIOiiq+WPq+i1t+S+hueahOmCo+S4gOi8quacieaViOOAggoKYWdlbnQg5a6a576p6YKj6YKK5pyJIGB0b29sc2Ag6LefIGBkaXNhbGxvd2VkVG9vbHNg77yMYFNLSUxMLm1kYCDmspLmnIkgYHRvb2xzYOOAgmB0b29sc2Ag5piv5pW05Lu95riF5Zau55qE55m95ZCN5Zau77yMYGRpc2FsbG93ZWRUb29sc2Ag5Y+N6YGO5L6G77yM5YiX5Ye65L6G55qE5ou/5o6J44CB5YW25LuW55qE54Wn5bi444CC5YWp5YCL55qE56+E5ZyN5Zyo5LiK6Z2iIGFnZW50IOS4gOevgOOAggoKIyMjIHNraWxsIOS4suaOpSBzdWJhZ2VudAoK5ZCM5LiA5Lu9IHNraWxs77yM5Y+q5beu6YCZ5LiA6KGM77yaCgpgYGBkaWZmCiAgLS0tCiAgbmFtZTogZm9ya3Rlc3QKICBkZXNjcmlwdGlvbjogVGVzdCBza2lsbC4gVXNlIHdoZW4gdGhlIHVzZXIgc2F5cyBmb3JrdGVzdC4KKyBjb250ZXh0OiBmb3JrCiAgLS0tCgogIFJlcGx5IHdpdGggZXhhY3RseSBvbmUgd29yZDogRk9SS0VECmBgYAoK5a+r5LqGIGBjb250ZXh0OiBmb3JrYO+8jGVuZ2luZSDplovkuIDlgIsgc3ViYWdlbnQg5Y676LeR6YCZ5Lu9IHNraWxs44CC5YWn5paH6K6K5oiQIHN1YmFnZW50IOeahOS7u+WLmeaPj+i/sOOAguaykuWvqyBgY29udGV4dDogZm9ya2Ag55qE6Kmx77yM5YWn5paH6LyJ5YWl5Li757ea77yMbW9kZWwg6Ieq5bex54Wn6JGX6LeR44CCCgrlhanku73lkITlj6vkuIDmrKHvvIxgdG9vbF9yZXN1bHRgIOWbnueahOWtl+S4suS4jeS4gOaoo+OAgmAtYCDmmK/mspLlr6vnmoTpgqPku73vvIxgK2Ag5piv5Yqg5LqGIGBjb250ZXh0OiBmb3JrYCDnmoTvvJoKCmBgYGRpZmYKLSBMYXVuY2hpbmcgc2tpbGw6IGZvcmt0ZXN0CisgU2tpbGwgImZvcmt0ZXN0IiBjb21wbGV0ZWQgKGZvcmtlZCBleGVjdXRpb24pLgorIFJlc3VsdDoKKyBGT1JLRUQKYGBgCgrmkK3phY3nmoQgYGFnZW50YCDmrITkvY3mjIflrprnlKjlk6rkuIDnqK4gYWdlbnQg5Y676LeR77yM5aGrIGAuY2xhdWRlL2FnZW50cy88bmFtZT4ubWRgIOeahCBuYW1l77yM5oiW6ICF5YWn5bu655qEIGFnZW50IHR5cGXvvIjlg48gYEV4cGxvcmVg77yJ44CC5Y+v6YG477yM5Y+q5a+rIGBjb250ZXh0OiBmb3JrYCDkuZ/mnIMgZm9ya+OAguWhq+mMr+S6huS4jeacg+WgsemMr++8jOS4i+mdoiBzaWxlbnQgZmFpbCDkuIDnr4DmnInjgIIKCiMjIyBza2lsbCDkuLLmjqUgaG9vawoKc2tpbGwg55qEIGBob29rczpgIOioreS4gOWAi+S4gOW+i+aLkue1lSBCYXNoIOeahCBzY3JpcHTvvIzlhafmloflj6sgQmFzaCDot5EgYGVjaG8gSEVMTE9g77yaCgpgYGBtYXJrZG93bgotLS0KbmFtZTogaG9va3Rlc3QKZGVzY3JpcHRpb246IFRlc3Qgc2tpbGwuIFVzZSB3aGVuIHRoZSB1c2VyIHNheXMgaG9va3Rlc3QuCmhvb2tzOgogIFByZVRvb2xVc2U6CiAgICAtIG1hdGNoZXI6IEJhc2gKICAgICAgaG9va3M6CiAgICAgICAgLSB0eXBlOiBjb21tYW5kCiAgICAgICAgICBjb21tYW5kOiBiYXNoIC5jbGF1ZGUvc2tpbGxzL2hvb2t0ZXN0L2Rlbnkuc2gKLS0tCgpDYWxsIHRoZSBCYXNoIHRvb2wgd2l0aCBjb21tYW5kOiBlY2hvIEhFTExPClRoZW4gcmVwb3J0IGluIG9uZSBsaW5lIGV4YWN0bHkgd2hhdCBoYXBwZW5lZC4KYGBgCgpgZGVueS5zaGAg5Y2w5LiA6KGMIEpTT04g5bCx5aSg44CCCgpgYGBiYXNoCiMhL2Jpbi9iYXNoCmVjaG8gJ3siaG9va1NwZWNpZmljT3V0cHV0Ijp7Imhvb2tFdmVudE5hbWUiOiJQcmVUb29sVXNlIiwicGVybWlzc2lvbkRlY2lzaW9uIjoiZGVueSIsInBlcm1pc3Npb25EZWNpc2lvblJlYXNvbiI6IkJMT0NLRUQtQlktU0tJTEwtSE9PSyJ9fScKYGBgCgpgcGVybWlzc2lvbkRlY2lzaW9uYCDmmK8gYGRlbnlg77yMZW5naW5lIOWwseS4jeaKiiBgZWNobyBIRUxMT2Ag5Lqk57WmIHNoZWxs44CCYHBlcm1pc3Npb25EZWNpc2lvblJlYXNvbmAg55qE5a2X5Liy5pyD6K6K5oiQIG1vZGVsIOaUtuWIsOeahCBgdG9vbF9yZXN1bHRg77yM5omA5LulIG1vZGVsIOeci+WIsOeahOaYryBgQkxPQ0tFRC1CWS1TS0lMTC1IT09LYOOAggoK54K65LqG55yLIGRlbnkg5b6e5LuA6bq85pmC5YCZ6ZaL5aeL44CB5Yiw5LuA6bq85pmC5YCZ5aSx5pWI77yM5Zyo5ZCM5LiA5YCLIHNlc3Npb24g6KOh6YCj5LiL5LiJ5Y+l44CCYGVjaG8gQkVGT1JFYCDot58gYGVjaG8gQUZURVJgIOS4jeWcqCBgaG9va3Rlc3RgIOeahCBgU0tJTEwubWRgIOijoe+8jOaYr+aIkeWPpuWkluS4i+eahO+8mgoKfCDovLjlhaUgfCDlm57ku4DpurwgfCDnlbbkuIvnmoTni4DmhYsgfAp8LS0tfC0tLXwtLS18CnwgYGVjaG8gQkVGT1JFYCB8IGBCRUZPUkVgIHwgc2tpbGwg6YKE5rKS6KKr5Y+r6LW35L6GIHwKfCBgaG9va3Rlc3RgIHwgYEJMT0NLRUQtQlktU0tJTEwtSE9PS2AgfCDooqvmi5LntZXnmoTmmK/lhafmlofpgqPlj6UgYGVjaG8gSEVMTE9gIHwKfCBgZWNobyBBRlRFUmAgfCBgQkxPQ0tFRC1CWS1TS0lMTC1IT09LYCB8IHNraWxsIOW3sue2k+i3keWujOS6hiB8Cgpza2lsbCDooqvlj6votbfkvobkuYvlvozvvIzlroMgZnJvbnRtYXR0ZXIg55qEIGBob29rczpgIOWwseiou+WGiuWcqOmAmeWAiyBzZXNzaW9uIOS4iu+8jOS5i+W+jOavj+asoeWRvOWPqyB0b29sIOmDveacg+e2k+mBju+8jOS4jeeuoeeVtuaZguWcqOS4jeWcqOi3kSBza2lsbOOAgnNlc3Npb24g6Zec5o6J5bCx5rKS5LqG77ya6YeN6ZaL5LiA5YCLIHNlc3Npb27vvIzlkIzkuIDlgIvnm67pjITot5EgYGVjaG8gQUZURVJg77yM5Zue55qE5pivIGBBRlRFUmDjgIIKCiMjIyMg5bCN54Wn77yaYWdlbnQg5Liy5o6lIGhvb2sKCmFnZW50IOWumue+qeeahCBmcm9udG1hdHRlciDkuZ/mlK/mj7QgYGhvb2tzOmDvvIzmrITkvY3ot58gYFNLSUxMLm1kYCDkuIDmqKPjgILmiorlkIzkuIDmop0gZGVueSDopo/liYfmkKzliLAgYC5jbGF1ZGUvYWdlbnRzL3Byb2JlLm1kYO+8jOWQjOaoo+S4ieWPpemAo+S4i++8mgoKfCDovLjlhaUgfCDlm57ku4DpurwgfCDnlbbkuIvnmoTni4DmhYsgfAp8LS0tfC0tLXwtLS18CnwgYGVjaG8gQkVGT1JFYO+8iOS4u+e3mu+8iSB8IGBCRUZPUkVgIHwgcHJvYmUg6YKE5rKS6ZaLIHwKfCDlj6sgcHJvYmUg6LeRIGBlY2hvIFNVQmAgfCBgUHJlVG9vbFVzZTpCYXNoIGhvb2sgZXJyb3I6IEJMT0NLRUQtQlktQUdFTlQtSE9PS2AgfCBwcm9iZSDnmoQgYGhvb2tzOmAg5ZyoIHN1YmFnZW50IOijoeeUn+aViCB8CnwgYGVjaG8gQUZURVJg77yI5Li757ea77yJIHwgYEFGVEVSYCB8IOS4u+e3muaykuWPl+W9semfvyB8Cgrot58gc2tpbGwg6YKj5by15beu5Zyo56ys5LiJ5YiX77yac2tpbGwg55qEIGBob29rczpgIOi3kemBjuS4gOasoeWwseeVmeWcqCBzZXNzaW9uIOS4iu+8jOS4u+e3mueahCBgZWNobyBBRlRFUmAg5Lmf6KKr5ouS77ybYWdlbnQg55qE5Y+q5ZyoIHN1YmFnZW50IOijoe+8jOS4u+e3mueFp+i3keOAguWPpuS4gOWAi+W3ruWIpeWcqOizh+aWmeWkvuS4jeWPl+S/oeS7u+eahOaZguWAme+8mmBwcm9iZS5tZGAg55qEIGBob29rczpgIGVuZ2luZSDmlbTku73kuJ/mjonvvIxgZWNobyBTVUJgIOWbniBgU1VCYO+8m2BTS0lMTC5tZGAg55qE54Wn5bi46Ki75YaK77yMYGVjaG8gSEVMTE9gIOmChOaYr+WbniBgQkxPQ0tFRC1CWS1TS0lMTC1IT09LYOOAgnNpbGVudCBmYWlsIOS4gOevgOacieWwjeeFp+OAggoKIyMjIHNraWxsIOS4suaOpSBza2lsbAoK6YCZ5LiA56iu5rKS5pyJ5qyE5L2N77yM6KaB5Y+r5bCx5a+r5Zyo5YWn5paH77yaCgpgYGBtYXJrZG93bgotLS0KbmFtZTogb3V0ZXIKZGVzY3JpcHRpb246IE91dGVyIHRlc3Qgc2tpbGwuIFVzZSB3aGVuIHRoZSB1c2VyIHNheXMgb3V0ZXIuCi0tLQoKSW52b2tlIHRoZSBza2lsbCBuYW1lZCBpbm5lciB1c2luZyB0aGUgU2tpbGwgdG9vbC4gVGhlbiByZXBseSB3aXRoIHdoYXRldmVyIGl0IHJldHVybmVkLgpgYGAKCmBpbm5lcmAg5Zue5LiA5YCL5a2XIGBJTk5FUi1SQU5g44CC6Ly45YWlIGBvdXRlcmDvvIxsb2cg6KOh5piv5YWp5qyhIGBTa2lsbGAg5ZG85Y+r77yaCgpgYGAKVE9PTF9VU0U6IFNraWxsIHsic2tpbGwiOiAib3V0ZXIifQpUT09MX1VTRTogU2tpbGwgeyJza2lsbCI6ICJpbm5lciJ9ClJFU1VMVDogSU5ORVItUkFOCmBgYAoK5YWp5qyh6YO95pivIG1vZGVsIOeZvOeahOOAgmBvdXRlcmAg55qEIGZyb250bWF0dGVyIOaykuacieS4gOWAi+ashOS9jeWPr+S7peaMh+WQkSBgaW5uZXJg77yM56ys5LqM5qyh5ZG85Y+r5piv5a6D5YWn5paH6YKj5Y+l6Kmx6KuLIG1vZGVsIOWOu+WPq+eahOOAggoKIyMgc2lsZW50IGZhaWwKCuS4iumdouS4ieiZleaPkOmBjuioreWumuWvq+mMr+S4jeacg+WgsemMr++8mmhvb2sg5LiA56+A55qE5LqL5Lu25ZCN44CBc2tpbGwg5Liy5o6lIHN1YmFnZW50IOeahCBgYWdlbnRgIOWAvOOAgWFnZW50IOS4suaOpSBob29rIOeahOS/oeS7u+OAguS4ieeorui3kei1t+S+hui3n+Wvq+WwjeeahOaZguWAmeS4gOaoo++8jOS5n+aykuaciemMr+iqpOioiuaBr+OAguimgeeZvOePvumAmeW5vueorumMr++8jOWPquiDveWFiOWIl+WHuuWvq+WwjeeahOaZguWAmeacg+WHuuePvuS7gOm6vO+8jOWGjeeci+Wug+acieaykuacieWHuuePvuOAggoKfCDlr6vpjK/ku4DpurwgfCDmraPnorrnmoTpoJDmnJ/ntZDmnpwgfCDlr6vpjK/kuYvlvozorormiJAgfCDmnInmspLmnInmj5DnpLogfAp8LS0tfC0tLXwtLS18LS0tfAp8IGBzZXR0aW5ncy5qc29uYCDnmoTkuovku7blkI0gYFByZVRvb2xVc2VlYO+8jOWkmuS4gOWAiyBlIHwgYC0taW5jbHVkZS1ob29rLWV2ZW50c2Ag5aSa5Ye6IGBob29rX3N0YXJ0ZWRgIOi3nyBgaG9va19yZXNwb25zZWAg5YWp562GIHwg5YWp562G6YO95rKS5pyJ77yMQmFzaCDnhafot5EgfCDmspLmnInjgIJgLS1kZWJ1Z2DvvIhzdGRlcnIg55qE6Zmk6Yyv6KiK5oGv77yJ6LefIGAtLWluY2x1ZGUtaG9vay1ldmVudHNg77yIc3RyZWFtLWpzb24g6KOh55qEIGhvb2sg5LqL5Lu277yJ6YO95rKS5pyJ5LiA6KGM5o+Q5Yiw5a6DIHwKfCBza2lsbCDnmoQgYGFnZW50OiBub3N1Y2hhZ2VudGAgfCBgYWdlbnQ6IG15Y3VzdG9tYCDlm54gYENVU1RPTTogRk9SS0VEYCB8IOWbniBgRk9SS0VEYO+8jOeUqOmgkOiorSBhZ2VudCDnhafmqKMgZm9yayB8IOaykuaciSB8Cnwg6LOH5paZ5aS+5LiN5Y+X5L+h5Lu7IHwgYGRlbnkuc2hgIOacieiHquW3seeahCBgaG9va19zdGFydGVkYCDot58gYGhvb2tfcmVzcG9uc2Vg77yMYGVjaG8gU1VCYCDlm54gYEJMT0NLRUQtQlktQUdFTlQtSE9PS2AgfCDkuIDnrYbkuovku7bpg73mspLmnInvvIxgZWNobyBTVUJgIOWbniBgU1VCYOOAgmFnZW50IGZyb250bWF0dGVyIOeahCBgaG9va3M6YCDmlbTku73ooqvkuJ/mjokgfCDmspLmnInjgIJgLXBgIOS4jei3s+S/oeS7u+Wwjeipseahhu+8jGAtLWRlYnVnYCDkuZ/kuI3mj5AgfAoK5L+h5Lu75piv5q+P5YCL6LOH5paZ5aS+5ZWP5LiA5qyh55qE77ya5LqS5YuV5qih5byP56ys5LiA5qyh5Zyo5LiA5YCL6LOH5paZ5aS+6KOh5ZWf5YuV5pyD6Lez5bCN6Kmx5qGG5ZWP5L2/55So6ICF5L+h5LiN5L+h5Lu777yM562U5oeJ5LmL5b6M6KiY5ZyoIGB+Ly5jbGF1ZGUuanNvbmAg55qEIGBoYXNUcnVzdERpYWxvZ0FjY2VwdGVkYOOAgmAtcGAg5LiN6Lez6YCZ5YCL5bCN6Kmx5qGG44CCCgojIyBjYXZlYXQKCkNMSSDot58gU0RLIOWft+ihjOeahOaYr+WQjOS4gOWAiyBiaW5hcnnvvIhgc2hhc3VtYCDkuIDmqKPvvInjgIJTREsg5aSa55qE5pivIGBhZ2VudHNg44CBYG1jcFNlcnZlcnNg44CBaG9vayBjYWxsYmFjayDlj6/ku6Xnm7TmjqXnlbblj4PmlbjlgrPvvIxgdG9vbHNg44CBYHNraWxsc2Ag5ZyoIGBxdWVyeSgpYCDoo6HnmoTmlYjmnpzkuZ/kuI3lkIzvvIjopovkuIrpnaIgYHF1ZXJ5KClgIOmCo+W8teihqO+8ieOAguW3oueLgOS4iumZkCBlbmdpbmUg5pyD5Y+m5aSW6K6A5LiA5YCL6YGg56uvIGZsYWfvvIzkuI3mj5vniYjmnKzkuZ/lj6/og73ororjgIIKCuaWh+eroOijoeavj+S4gOasoemHj+a4rOmDveW4tiBgLXBg44CCYC1wYCDmnIPmlLnororlhanlgIvntZDmnpzvvJpgdG9vbHRlc3RgIOWbniBgRXhlY3V0ZSBza2lsbDogdG9vbHRlc3Rg77yM5Zug54K6IGAtcGAg5rKS5Lq65Zue562UIGFza++8m2Bmb3JrdGVzdGAg55qE57WQ5p6c55u05o6l5Zue5Li757ea77yM5Zug54K6IGAtcGAg5LiN5oqKIHN1YmFnZW50IOS4n+WIsOiDjOaZr+OAguWQjOaoo+WFqeS7vSBza2lsbCDnlKjlj6blpJblhannqK7mqKHlvI/ph43ot5HvvJoKCnwg5qih5byPIHwgYGFsbG93ZWQtdG9vbHNgIOeahCBza2lsbCB8IGBjb250ZXh0OiBmb3JrYCB8CnwtLS18LS0tfC0tLXwKfCBgLS1wZXJtaXNzaW9uLW1vZGUgbWFudWFsYCB8IOi3s+WwjeipseahhuOAjFVzZSBza2lsbCAidG9vbHRlc3QiP+OAjSB8IHN1YmFnZW50IOWcqOiDjOaZr+i3ke+8jOS4u+e3muS4jeetieWug++8jGBGT1JLRURgIOS5i+W+jOaJjemAgemAsuS+hu+8m2Zyb250bWF0dGVyIOWKoCBgYmFja2dyb3VuZDogZmFsc2VgIOS4u+e3muaJjeacg+etiSB8Cnwg6aCQ6KitIGF1dG8gbW9kZSB8IOS4jeWVj++8jGxvZyDlr6sgYEFsbG93ZWQgYnkgYXV0byBtb2RlIGNsYXNzaWZpZXJgIHwg5ZCM5LiKIHwKfCBgLXBgIHwg5rKS5Lq65Y+v5Lul5oyJ77yM5ZueIGBFeGVjdXRlIHNraWxsOiB0b29sdGVzdGAgfCDmspLmnInog4zmma/vvIxzdWJhZ2VudCDot5HlrowgYEZPUktFRGAg55u05o6l5Zue5Li757eaIHwK18:Tc9ef,<p>I wanted to know whether these things nest, one inside another like a matryoshka doll, so I tried it. Claude Code lets you configure four: skills, agents, tools, hooks. Pair them up and you get sixteen combinations. I ran all sixteen.</p>
+<ul>
+<li><code>allowed-tools</code> lists Read and nothing else, the skill body triggers Bash, and Bash runs anyway even though it is not on the list</li>
+<li>Once you invoke a skill carrying <code>hooks:</code>, that hook stays for the rest of the session. It does not go away when the skill finishes</li>
+<li>One extra <code>e</code> in a hook's event name in <code>settings.json</code>, <code>PreToolUsee</code>: no error, no trigger. Add <code>--debug</code> or <code>--include-hook-events</code> to check and there is still no error message, only the hook events that should have been there are missing</li>
+</ul>
+<p>Environment:</p>
+<ul>
+<li>CLI 2.1.257, invoked as <code>~/.local/share/claude/versions/2.1.257</code> every time, never through the <code>claude</code> symlink, which updates itself</li>
+<li>Agent SDK pinned at 0.3.257</li>
+<li>every run under <code>-p</code> (<code>--print</code>): one prompt in, the result printed, then exit, with no interactive session and no dialogs</li>
+</ul>
+<h2>model and engine</h2>
+<p>The <code>model</code> is Opus, Fable and the rest: the language model reached over the API. When it wants to call a tool, its reply carries an extra <code>tool_use</code> block:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"type"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"tool_use"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"name"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Bash"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"input"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: {</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"command"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"git status"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}}</span></span></code></pre></figure>
+<p>That JSON is text the model wrote. <code>git status</code> has not run at this point.</p>
+<p>The <code>engine</code> is the <code>claude</code> binary running locally. It hands the tool list to the model, runs whatever <code>tool_use</code> comes back, and on either side of that run checks <code>settings.json</code> for hooks.</p>
+<p>Every separate context the engine spins up to get something done is a subagent. The main line counts as one too. Each context has its own tool list: one for the main line, one for each subagent.</p>
+<p>Of the four primitives below, skills and agents are <code>.md</code> files on disk, hooks live in <code>settings.json</code> or frontmatter, and tools have no file at all. They do nothing on their own; the behaviour comes from the model and the engine reading them.</p>
+<h2>The four</h2>
+<h3>tool</h3>
+<p>A tool is a function the model can call. A name and a parameter schema, nothing else.</p>
+<p>The list has <code>Bash</code> on it and no <code>git status</code>. Ask the model to run <code>git status</code> and what it issues is one <code>Bash</code> call, with <code>git status</code> as the argument. To be a tool, a thing has to be registered in this session's tool list; unregistered, the model cannot see it and cannot call it.</p>
+<p>A tool on that list is not itself a process. <code>Bash</code> is a name plus an argument shape, and the command only reaches a shell once the tool is called.</p>
+<p>Built-in tool names are single words: <code>Read</code>, <code>Write</code>, <code>Edit</code>, <code>Bash</code>.</p>
+<p>MCP servers hand you this format:</p>
+<ul>
+<li><code>mcp__&#x3C;server>__&#x3C;tool></code></li>
+<li><code>mcp__claude_ai_Jira__getJiraIssue</code></li>
+</ul>
+<p>Capitalised, <code>Agent</code> and <code>Skill</code> are tools as well, sitting on the same list as <code>Bash</code> and <code>Read</code>; lowercase, agent and skill are <code>.md</code> files on disk, saying who the agent plays or what steps the skill follows. Starting a subagent is the model calling <code>Agent</code>; running a skill is the model calling <code>Skill</code>. A <code>SKILL.md</code> does not run on its own, it loads once the model calls <code>Skill</code>.</p>
+<h3>skill</h3>
+<p>A skill is a <code>SKILL.md</code>, at <code>.claude/skills/&#x3C;name>/SKILL.md</code>. Put it under a project directory and only that project loads it; put it under <code>~/.claude/skills/</code> and every project does.</p>
+<p>The block between the two <code>---</code> lines at the top is the frontmatter, YAML, and every setting goes there. Below the second <code>---</code> are the instructions for the model.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="markdown" data-theme="github-dark github-light"><code data-language="markdown" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;--shiki-light:#005CC5;--shiki-light-font-weight:bold">---</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">name: hooktest</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">description: Test skill. Use when the user says hooktest.</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;--shiki-light:#005CC5;--shiki-light-font-weight:bold">---</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">Call the Bash tool with command: echo HELLO</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">Then report in one line exactly what happened.</span></span></code></pre></figure>
+<p>The model reads <code>description</code> to decide when to use it. The body is what it follows once loaded. <code>SKILL.md</code> is just text and never runs on its own.</p>
+<h3>agent</h3>
+<p>An agent definition gives you a subagent, a context without the main line's conversation history, that takes a task, finishes it, and hands a summary back. The steps in between never reach the main thread.</p>
+<p>The CLI and the SDK keep the definition in different places:</p>
+<ul>
+<li>the CLI reads a file, <code>.claude/agents/&#x3C;name>.md</code></li>
+<li>the SDK has no file layer. The entry point for running a session is <code>query()</code>, and the same content goes in as its <code>agents</code> option, with the same fields the file has</li>
+</ul>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="markdown" data-theme="github-dark github-light"><code data-language="markdown" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;--shiki-light:#005CC5;--shiki-light-font-weight:bold">---</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">name: probe</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">description: Test agent for preloaded skills and tool limits.</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">skills: [</span><span style="--shiki-dark:#DBEDFF;--shiki-dark-text-decoration:underline;--shiki-light:#032F62;--shiki-light-text-decoration:underline">secretskill</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">]</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">tools: [Read, Bash]</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">model: haiku</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;--shiki-light:#005CC5;--shiki-light-font-weight:bold">---</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">You are a test agent. Answer exactly what is asked.</span></span></code></pre></figure>
+<p>The <code>tools</code> line sets the subagent's tool list:</p>
+<ul>
+<li>leave it out and it inherits the parent agent's list, whatever the parent has</li>
+<li>write it and it can only use the ones declared</li>
+<li>for it to open a level of its own, the list has to include <code>Agent</code> (<code>Task</code> works too, the engine treats them as one)</li>
+</ul>
+<p>Two definitions differ only in whether <code>Bash</code> is on the list, both told to run <code>echo HELLO</code>:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>What the definition says</th><th>What came back</th></tr></thead><tbody><tr><td><code>tools: [Read]</code></td><td>echo never runs, <code>tool_uses: 0</code>. The subagent answers <code>I don't have access to a Bash tool. The only available tool I have is the Read function for reading files from the filesystem. I cannot execute shell commands.</code> (verbatim; the model writes this sentence itself and it changes every time)</td></tr><tr><td><code>tools: [Read, Bash]</code></td><td>calls Bash, gets <code>HELLO</code> back</td></tr></tbody></table>
+<p>Another field, <code>skills</code>: write <code>skills: [inner]</code> and the engine only preloads <code>inner</code>'s body into the subagent's context; the subagent's tool list still has no <code>Skill</code> tool, so it cannot invoke any skill. A subagent defined with <code>skills: [inner]</code> and <code>tools: [Read, Bash]</code> reports that it has no <code>Skill</code> tool, only <code>Read</code> and <code>Bash</code>, yet it can tell you what <code>inner</code>'s body asks for, because that text is already in its context.</p>
+<h4>tools, skills, allowedTools, disallowedTools</h4>
+<p>Throughout, capital <code>Skill</code> is the tool on the tool list and lowercase skill is the <code>SKILL.md</code> on disk.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Field</th><th>What writing it does</th></tr></thead><tbody><tr><td><code>tools</code></td><td>replaces the tool list with what you list, MCP tools included; leave the line out and it inherits the parent's</td></tr><tr><td><code>skills</code></td><td>puts the skill body into the context, tool list untouched</td></tr><tr><td><code>disallowedTools</code></td><td>removes what you list from the tool list, MCP tools included</td></tr></tbody></table>
+<p>The same names can also be passed to the SDK's <code>query()</code>. <code>disallowedTools</code> behaves the same in <code>query()</code>; <code>tools</code> and <code>skills</code> do not, and <code>query()</code> adds <code>allowedTools</code>:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>SDK's <code>query()</code></th><th>What writing it does</th></tr></thead><tbody><tr><td><code>tools</code></td><td>replaces the built-in tools only, MCP tools left alone</td></tr><tr><td><code>skills</code></td><td>an allowlist; <code>Skill</code> can call only the skills you list</td></tr><tr><td><code>allowedTools</code></td><td>tool list untouched, the tools you list run without asking the user</td></tr></tbody></table>
+<p>The array quoting splits the same way: <code>query()</code> takes a JS object, so <code>["Read","Bash"]</code> is required; an agent definition is YAML, and this article always writes <code>[Read, Bash]</code>.</p>
+<p>Spelling it <code>tools: [Read, Bash, Skill]</code> is marked deprecated (the <code>sdk.d.ts</code> comment: <code>passing 'Skill' here is deprecated — use the skills field instead</code>). But <code>skills</code> in the same type is defined as <code>Array of skill names to preload into the agent context</code>, and preloading into the context is not the same as reaching the tool list: rewrite it as <code>skills: [inner]</code>, ask the subagent to run <code>inner</code> with <code>Skill</code> (the prompt tells it to answer <code>NO-SKILL-TOOL</code> if it has no such tool), and it answers <code>NO-SKILL-TOOL</code>. For a subagent to run a skill, either leave the <code>tools:</code> line out (inheriting the parent's list) or put <code>Skill</code> in it, and those are the only two ways.</p>
+<h3>hook</h3>
+<p>A hook is one rule in <code>settings.json</code>: which event, what the matcher matches, what runs.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "hooks"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: {</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">    "PreToolUse"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">      "matcher"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Write|Edit"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">      "hooks"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [{ </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"type"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"command"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"command"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"bash ~/hooks/prose-guard.sh"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> }]</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    }]</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p><code>hooks</code> appears twice in that JSON. The outer one is the event table, with event names like <code>PreToolUse</code> under it. The inner array holds what runs on a match, called the action from here on.</p>
+<p>The <a href="https://code.claude.com/docs/en/hooks-reference">official reference</a> defines 33 events. The common ones:</p>
+<ul>
+<li><code>PreToolUse</code> runs before a tool and can deny the call</li>
+<li><code>PostToolUse</code> runs after a tool succeeds</li>
+<li><code>UserPromptSubmit</code> runs after the prompt is submitted and before the model reads it</li>
+<li><code>SessionStart</code> runs once at the start</li>
+<li><code>Stop</code> runs when a turn ends</li>
+</ul>
+<p>The matcher is compared against the tool name: if it contains only letters, digits, <code>_</code>, <code>-</code> and <code>|</code>, it is an exact match; any other character makes it a regex. Empty or <code>*</code> matches everything on that event. Break the regex and the engine does not stop; it prints <code>Invalid regex pattern in hook matcher</code> and counts it as no match. An MCP name has to be written out in full: <code>mcp__jira</code> matches nothing, <code>mcp__jira__.*</code> is the working form.</p>
+<p>To do something before every subagent launch, put <code>Agent</code> in the matcher:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{ </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"hooks"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: { </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"PreToolUse"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  { </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"matcher"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Agent"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">    "hooks"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [{ </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"type"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"command"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"command"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"bash ~/hooks/log-subagent.sh"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> }] }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">] } }</span></span></code></pre></figure>
+<p>The <code>type</code> field on each item of the inner <code>hooks</code> array takes one of five values; those are the five actions. The engine runs all five itself; the main-line model takes no part. <code>prompt</code> and <code>agent</code> do make one extra model call, but that is a call the hook makes on its own, separate from the model on the main line.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>type</th><th>what runs</th><th>who carries it out</th></tr></thead><tbody><tr><td><code>command</code></td><td>a shell command, hook input on stdin</td><td>the engine starts a process</td></tr><tr><td><code>prompt</code></td><td>a small model deciding whether a condition holds</td><td>the engine makes one model call</td></tr><tr><td><code>agent</code></td><td>an agent deciding, <code>model</code> selectable, Haiku if you leave it out</td><td>the engine opens a subagent</td></tr><tr><td><code>mcp_tool</code></td><td>a tool on an MCP server you already configured</td><td>the engine sends <code>tools/call</code> to that server</td></tr><tr><td><code>http</code></td><td>a POST of the hook input to a URL</td><td>the engine sends an HTTP request</td></tr></tbody></table>
+<p>Not all five were tested: <code>command</code>, <code>mcp_tool</code> and <code>prompt</code> all ran; <code>agent</code> ran only on tool events; <code>http</code> not at all. The built-in <code>/goal</code> is a <code>prompt</code> on <code>Stop</code>, ending every turn with a <code>Stop hook feedback: [...]</code> line pushed back into the context.</p>
+<p>Of the five, only <code>mcp_tool</code> names a tool, in the registered sense from the Tool section above, as in <code>"server": "marker", "tool": "record"</code> (<code>marker</code> is a test MCP server I set up with a single tool called <code>record</code>). The other four name a script path, a prompt, a prompt plus a model, and a URL; the engine handles those itself and they leave no <code>tool_use</code> in the log. The <code>matcher</code> field also holds a tool name, but that one is the condition, not the thing being run.</p>
+<h2>The sixteen combinations</h2>
+<p>The middle column says who issues the call, and after the arrow is the field that decides whether the route holds. The agent column says subagent, because what was tested is the layer a <code>.claude/agents/&#x3C;name>.md</code> opens, and the main line calling a tool itself is not in the table.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Marker</th><th>Which field</th><th>Why it is the one issuing</th><th>Rows</th></tr></thead><tbody><tr><td><strong>engine</strong></td><td><code>agent</code>, <code>mcp_tool</code>, <code>context: fork</code>, <code>hooks:</code></td><td>the field already says who to call and with what arguments</td><td>5 (<code>hooks:</code> alone accounts for two)</td></tr><tr><td><strong>model</strong></td><td><code>tools:</code>, <code>allowed-tools</code></td><td>says only what may be used, not which call</td><td>4</td></tr><tr><td><strong>indirect</strong></td><td>no field at all</td><td>the request goes into the context as text, and the model may or may not act on it</td><td>3</td></tr><tr><td><strong>not possible</strong></td><td>a tool has no config of its own</td><td>a skill and a subagent each have an <code>.md</code>, a hook lives in <code>settings.json</code> or frontmatter; a tool is just a name on the list</td><td>4</td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Caller and target</th><th>Issued by</th><th>What came back</th></tr></thead><tbody><tr><td>subagent calls subagent</td><td>model ← <code>tools:</code> including <code>Agent</code></td><td>the second-level <code>tool_use</code> carries the first level's <code>parent_tool_use_id</code></td></tr><tr><td>subagent calls hook</td><td>engine ← frontmatter <code>hooks:</code></td><td>returns <code>BLOCKED-BY-AGENT-HOOK</code> (workspace must be trusted)</td></tr><tr><td>subagent calls tool</td><td>model ← <code>tools:</code></td><td>leave it out and it matches the parent; <code>tools: [Read]</code> leaves it with Read only</td></tr><tr><td>subagent calls skill</td><td>model ← <code>tools:</code> including <code>Skill</code>, or no <code>tools:</code> line</td><td>a <code>tool_use</code> named <code>Skill</code>, whose <code>parent_tool_use_id</code> points at the first level</td></tr><tr><td>hook calls subagent</td><td>engine ← an <code>agent</code> action</td><td><code>Agent hook condition was not met: AGENT-HOOK-BLOCKED</code></td></tr><tr><td><strong>hook calls hook</strong></td><td>indirect model ← no field</td><td>the model inside an <code>agent</code> action calls a tool, which fires it again</td></tr><tr><td>hook calls tool</td><td>engine ← an <code>mcp_tool</code> action</td><td>the MCP server receives the <code>tools/call</code>, with no <code>tool_use</code> in the log</td></tr><tr><td><strong>hook calls skill</strong></td><td>indirect model ← no field</td><td><code>additionalContext</code> asks the model to call it, ends at <code>GREET-RAN</code></td></tr><tr><td>skill calls subagent</td><td>engine ← <code>context: fork</code></td><td><code>Skill "forktest" completed (forked execution).</code></td></tr><tr><td>skill calls hook</td><td>engine ← frontmatter <code>hooks:</code></td><td>returns <code>BLOCKED-BY-SKILL-HOOK</code></td></tr><tr><td>skill calls tool</td><td>model ← <code>allowed-tools</code> does not hold it</td><td><code>allowed-tools: Read</code> is declared and the body still gets Bash</td></tr><tr><td><strong>skill calls skill</strong></td><td>indirect model ← no field</td><td>the body asks the model to call it, returns <code>INNER-RAN</code></td></tr><tr><td>tool calls subagent</td><td>not possible</td><td>no such path in the engine</td></tr><tr><td>tool calls skill</td><td>not possible</td><td>no such path in the engine</td></tr><tr><td>tool calls tool</td><td>not possible</td><td>no such path in the engine</td></tr><tr><td>tool calls hook</td><td>not possible</td><td>the engine calls the hook around the tool; the tool takes no part</td></tr></tbody></table>
+<p><strong>Nested subagents have a ceiling.</strong> The default inside the binary is 3, but the engine also reads a remote flag that overrides it, so the actual ceiling is not necessarily 3; <code>CLAUDE_CODE_MAX_SUBAGENT_SPAWN_DEPTH</code> sets it explicitly. Depth counts subagents only: the main line is 0, the first subagent the main line opens is 1, and one that subagent opens is 2.</p>
+<p>Set it to 2 and the main line opens A (depth 1) and A opens B (depth 2), both fine; when B goes to open a third level below it, its tool list has no <code>Agent</code> in it. Set it to 1 and it is A's list that is missing it.</p>
+<p>B declares <code>tools: [Read, Bash, Agent]</code> in its own definition and the list still has no <code>Agent</code>. Once depth hits the ceiling, the engine removes <code>Agent</code> from the list, whatever the definition says.</p>
+<p>What the subagent says about it changes from run to run, because the model writes that sentence itself; it is not a fixed engine string. Two runs of the same setup gave <code>no Agent or Task tool available. The only tools in my toolset are Read and Bash</code> and <code>the Agent tool is not available to me</code>.</p>
+<h3>Can a tool call anything itself</h3>
+<p>tool calls subagent, tool calls skill, tool calls tool: none of these three holds. A tool never issues a call; the caller is the model or the engine.</p>
+<p>The subagent that comes up when <code>Agent</code> is called goes on to call things of its own, but that is the subagent calling, not the name <code>Agent</code>.</p>
+<p>The engine has no such path for any of the three. There is one way around it: an MCP server is a program someone wrote, so once <code>tools/call</code> arrives it can start a separate <code>claude</code> process, whose engine can open subagents and run skills as usual. The test server has a tool called <code>delegate</code>, and it is one line:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="javascript" data-theme="github-dark github-light"><code data-language="javascript" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">execFileSync</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"claude"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, [</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"-p"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, args.q, </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"--output-format"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"text"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">])</span></span></code></pre></figure>
+<p>It returns <code>delegated-agent said: DELEGATED-OK</code>. But that is a separate session, already outside what "who calls who" is asking; it is in here only because it looks so similar. Those three rows stay not possible.</p>
+<p><code>tool calls hook</code> fails for a different reason than the three above. The hook does run, but it runs before Bash starts, the engine is what calls it, and Bash takes no part from start to finish:</p>
+<pre><code>model writes a tool_use, name=Bash, command=echo MAIN
+→ engine checks the hook settings in settings.json
+→ the matcher hits, the engine runs that action and waits for it to finish
+→ deny     → it stops here, the shell never receives anything
+→ no deny  → only now does the engine hand echo MAIN to a shell
+</code></pre>
+<p>For "tool calls hook" to hold, Bash would have to trigger something while running, and it has not started running. <code>PostToolUse</code> is the same: after Bash finishes, the thing that fires the hook is still the engine.</p>
+<h3>When a hook calls a hook or a skill</h3>
+<h4>hook calls hook</h4>
+<p>None of the five action types takes another hook as its value, so there is nowhere in the settings file to write "and then fire that hook".</p>
+<p>Have the model call a tool and it fires again. Two actions off one <code>PreToolUse</code>: a <code>command</code> that writes the matched command into <code>ran.txt</code>, and an <code>agent</code> telling the subagent it opens to run <code>echo FROMHOOKAGENT</code> itself. The main line calls Bash exactly once and <code>ran.txt</code> comes back with two lines:</p>
+<pre><code>PreToolUse | echo MAIN
+PreToolUse | echo FROMHOOKAGENT
+</code></pre>
+<p>The second line is that subagent's own call. It declares no hooks, but when it calls Bash the engine checks the same <code>settings.json</code>, and <code>matcher: "Bash"</code> matches a second time.</p>
+<p>Change the <code>agent</code> prompt to "reply with the single word OK, no commands needed" and nothing else, and <code>ran.txt</code> comes back with one line. The only variable left is whether the model calls a tool, so whether this route holds is the model's decision.</p>
+<p>On that second match the engine runs only the <code>command</code> action and does not process the <code>agent</code> action again, which is why it stops at two lines. In the <code>--debug-file</code> log, <code>Processing agent hook</code> appears only once; when the subagent the hook opened calls Bash, its <code>agent_id</code> is <code>hook-agent-…</code>, the <code>command</code> hook fires as usual, and the <code>agent</code> hook does not. Two runs gave the same result, and the official docs do not mention this. The engine's own calls do not count: an <code>mcp_tool</code> action has the engine call the MCP server directly, the server does receive it, but that call never comes back round to <code>PreToolUse</code>.</p>
+<h4>hook calls skill</h4>
+<p>None of the five action types takes a skill name as its value.</p>
+<p>That leaves the indirect route. The hook script returns <code>additionalContext</code>, that text lands in the model's context, and the model calls the <code>Skill</code> tool itself.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">#!/bin/bash</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">echo</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> '{"hookSpecificOutput":{"hookEventName":"UserPromptSubmit","additionalContext":"You must now invoke the skill named greet using the Skill tool before answering."}}'</span></span></code></pre></figure>
+<p>Attach it to <code>UserPromptSubmit</code>, type <code>Say hello.</code>, and the next step in the log is a <code>tool_use</code> named <code>Skill</code>, ending at <code>GREET-RAN</code>. This route can also fail. All the hook does is put a sentence into the context; the one that actually calls <code>Skill</code> is the model, and it can ignore the sentence.</p>
+<h2>Which fields a skill wires through</h2>
+<p>For a skill to bring up a tool, a subagent, or a hook, <code>SKILL.md</code> frontmatter has a field for each: <code>allowed-tools</code> for tools, <code>context: fork</code> plus <code>agent</code> for a subagent, <code>hooks</code> for a hook. <code>context: fork</code> and <code>hooks</code> are things the engine acts on: write them and they happen. <code>allowed-tools</code> is not. What it affects is the step where the skill body calls a tool: for the ones it lists, the engine runs them without asking the user; the body can still call one that is not listed.</p>
+<p>When the model calls the <code>Skill</code> tool itself, the engine makes a separate approval decision. Which frontmatter fields make that step need approval? Five skills, each with one field beyond <code>name</code>/<code>description</code>, tested one by one, each invoked once under <code>-p</code>. No <code>--dangerously-skip-permissions</code>: with it the engine decides allow every time, <code>ask</code> never appears, and there is nothing to measure. Every tool_use gets exactly one <code>tool_result</code> back, whether the skill ran or not; the difference is the string:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>skill</th><th>What the frontmatter adds</th><th>What <code>tool_result</code> came back with</th></tr></thead><tbody><tr><td><code>inner</code></td><td>nothing, <code>name</code> and <code>description</code> only</td><td><code>Launching skill: inner</code></td></tr><tr><td><code>forktest</code></td><td><code>context: fork</code></td><td><code>Skill "forktest" completed (forked execution).</code></td></tr><tr><td><code>tooltest</code></td><td><code>allowed-tools: Read</code></td><td><code>Execute skill: tooltest</code></td></tr><tr><td><code>dtest</code></td><td><code>disallowed-tools: Bash</code></td><td><code>Execute skill: dtest</code></td></tr><tr><td><code>hooktest</code></td><td><code>hooks: PreToolUse …</code></td><td><code>Execute skill: hooktest</code></td></tr></tbody></table>
+<p><strong>The three <code>Execute skill: &#x3C;name></code> rows read as though the skill ran; they are refusals.</strong> The model did send a <code>Skill</code> tool_use, the engine decided it needs approval, nobody can press anything under <code>-p</code>, so it returned a refusal and the body of <code>SKILL.md</code> was never loaded. Run the same <code>tooltest</code> without <code>-p</code> and manual mode shows a dialog reading "Use skill "tooltest"?", while auto mode lets it through; the table in the caveat puts the three modes side by side.</p>
+<p>After loading a skill, the engine checks each frontmatter key against a list hardcoded in the binary (44 entries; <code>strings</code> pulls out the <code>new Set(["type","progressMessage"…</code> that holds it, and there is no public document). The common keys fall on two sides:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>frontmatter key</th><th>on the list</th><th>what writing it does</th></tr></thead><tbody><tr><td><code>name</code>, <code>description</code>, <code>model</code>, <code>context</code>, <code>agent</code>, <code>background</code></td><td>yes</td><td>loads straight away, no prompt</td></tr><tr><td><code>hooks</code>, <code>allowed-tools</code>, <code>disallowed-tools</code>, and any key the list does not have</td><td>no</td><td>with something after the colon, the engine asks a person before loading; left empty, <code>[]</code> or <code>{}</code> counts as not written and it loads straight away</td></tr></tbody></table>
+<p><code>tooltest</code>'s <code>allowed-tools: Read</code> is the second row and gets <code>Execute skill: tooltest</code> back; <code>forktest</code>'s <code>context: fork</code> is the first row and runs straight away.</p>
+<p>The comparison uses the loaded object's properties, so <code>allowed-tools</code> becomes <code>allowedTools</code> on the way in; neither spelling is on the list, and the result is the same.</p>
+<p>A skill calling another skill has no field at all. No frontmatter key takes another skill's name, so it has to go in the body.</p>
+<h3>skill wires to a tool</h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="markdown" data-theme="github-dark github-light"><code data-language="markdown" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;--shiki-light:#005CC5;--shiki-light-font-weight:bold">---</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">name: restricttest</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">description: Test skill. Use when the user says restricttest.</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">allowed-tools: Read</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;--shiki-light:#005CC5;--shiki-light-font-weight:bold">---</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">Call the Bash tool with command: echo HELLO</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">Then state in one line whether the Bash call succeeded or was refused.</span></span></code></pre></figure>
+<p>The zod schema inside the binary describes this field as <code>Tools available to the model while this file is active</code>, which reads as though only the listed tools can be used; the actual runs say otherwise. Same body, same question, one run per frontmatter:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>What the frontmatter declares</th><th>Does Bash run</th></tr></thead><tbody><tr><td>no such line</td><td>it runs, <code>tool_result</code> comes back <code>HELLO</code></td></tr><tr><td><code>allowed-tools: Read</code></td><td>it runs, <code>tool_result</code> comes back <code>HELLO</code></td></tr><tr><td><code>disallowed-tools: Bash</code></td><td><code>Permission to use Bash has been denied.</code></td></tr></tbody></table>
+<p>When the skill body calls a tool <code>allowed-tools</code> lists, the engine does not ask the user; unlisted ones can still be called. What does hold is <code>disallowed-tools</code>, described as <code>Tools removed from the model while this file is active</code>, and it holds even under <code>--dangerously-skip-permissions</code>.</p>
+<p>The <code>disallowed-tools</code> description carries one more clause: <code>Cleared when the user sends the next message</code>. <code>--resume</code> the same session with a second message asking for <code>echo AFTER</code>, and Bash comes back with <code>AFTER</code>. The restriction lives only for the turn the skill was called in.</p>
+<p>An agent definition has <code>tools</code> and <code>disallowedTools</code>; <code>SKILL.md</code> has no <code>tools</code>. On an agent definition, <code>tools</code> is a whitelist over the whole list and <code>disallowedTools</code> works the other way, removing what it lists and leaving the rest. What each one covers is in the agent section above.</p>
+<h3>skill wires to a subagent</h3>
+<p>The same skill, one line apart:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="diff" data-theme="github-dark github-light"><code data-language="diff" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  ---</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  name: forktest</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  description: Test skill. Use when the user says forktest.</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+ context: fork</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  ---</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  Reply with exactly one word: FORKED</span></span></code></pre></figure>
+<p>With <code>context: fork</code> written, the engine opens a subagent to run the skill. The body becomes that subagent's task. Without <code>context: fork</code>, the body loads into the main line and the model follows it there.</p>
+<p>Call each one and the <code>tool_result</code> string differs. <code>-</code> is the version without it, <code>+</code> is the one with <code>context: fork</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="diff" data-theme="github-dark github-light"><code data-language="diff" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#FDAEB7;--shiki-light:#B31D28">- Launching skill: forktest</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+ Skill "forktest" completed (forked execution).</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+ Result:</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+ FORKED</span></span></code></pre></figure>
+<p>The companion field <code>agent</code> picks which agent type runs it, and takes the name from a <code>.claude/agents/&#x3C;name>.md</code> or a built-in type such as <code>Explore</code>. It is optional: <code>context: fork</code> on its own still forks. A name that does not exist raises nothing; see "Silent failures" below.</p>
+<h3>skill wires to a hook</h3>
+<p>Give the skill's <code>hooks:</code> a script that always denies Bash, and have the body ask Bash to run <code>echo HELLO</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="markdown" data-theme="github-dark github-light"><code data-language="markdown" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;--shiki-light:#005CC5;--shiki-light-font-weight:bold">---</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">name: hooktest</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">description: Test skill. Use when the user says hooktest.</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">hooks:</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  PreToolUse:</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    - matcher: Bash</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">      hooks:</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">        - type: command</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">          command: bash .claude/skills/hooktest/deny.sh</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;--shiki-light:#005CC5;--shiki-light-font-weight:bold">---</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">Call the Bash tool with command: echo HELLO</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">Then report in one line exactly what happened.</span></span></code></pre></figure>
+<p>One line of JSON in <code>deny.sh</code> is enough:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">#!/bin/bash</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">echo</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> '{"hookSpecificOutput":{"hookEventName":"PreToolUse","permissionDecision":"deny","permissionDecisionReason":"BLOCKED-BY-SKILL-HOOK"}}'</span></span></code></pre></figure>
+<p>With <code>permissionDecision</code> set to <code>deny</code>, the engine never hands <code>echo HELLO</code> to the shell. The <code>permissionDecisionReason</code> string becomes the <code>tool_result</code> the model reads, so what the model sees is <code>BLOCKED-BY-SKILL-HOOK</code>.</p>
+<p>To see when the deny starts applying and when it stops, three prompts go in a row in one session. <code>echo BEFORE</code> and <code>echo AFTER</code> are not in <code>hooktest</code>'s <code>SKILL.md</code>; they are typed separately:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Input</th><th>What came back</th><th>Where things stand</th></tr></thead><tbody><tr><td><code>echo BEFORE</code></td><td><code>BEFORE</code></td><td>the skill has not been invoked yet</td></tr><tr><td><code>hooktest</code></td><td><code>BLOCKED-BY-SKILL-HOOK</code></td><td>what got blocked is the body's <code>echo HELLO</code></td></tr><tr><td><code>echo AFTER</code></td><td><code>BLOCKED-BY-SKILL-HOOK</code></td><td>the skill has already finished</td></tr></tbody></table>
+<p>So its scope is "absent until the skill is invoked, present from then on", not "only while that skill runs". It goes away with the session: open a new one in the same directory, run <code>echo AFTER</code>, and it comes back as <code>AFTER</code>.</p>
+<h4>For comparison: agent wires to a hook</h4>
+<p>An agent definition's frontmatter supports <code>hooks:</code> too, with the same fields as in <code>SKILL.md</code>. Copy the same deny rule into <code>.claude/agents/probe.md</code>, ask probe to run <code>echo SUB</code>, and back comes <code>BLOCKED-BY-AGENT-HOOK</code>. The same three messages in one session:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>input</th><th>what comes back</th><th>state at that moment</th></tr></thead><tbody><tr><td><code>echo BEFORE</code> (main line)</td><td><code>BEFORE</code></td><td>probe not opened yet</td></tr><tr><td>tell probe to run <code>echo SUB</code></td><td><code>PreToolUse:Bash hook error: BLOCKED-BY-AGENT-HOOK</code></td><td>probe's <code>hooks:</code> active inside the subagent</td></tr><tr><td><code>echo AFTER</code> (main line)</td><td><code>AFTER</code></td><td>main line untouched</td></tr></tbody></table>
+<p>The difference from the skill table is the third row: a skill's <code>hooks:</code> stays on the session once it has run, so the main line's <code>echo AFTER</code> is refused too; an agent's lives only inside the subagent, and the main line runs as usual. A second difference shows in an untrusted folder: the engine drops <code>probe.md</code>'s <code>hooks:</code> wholesale and <code>echo SUB</code> comes back as <code>SUB</code>, while <code>SKILL.md</code>'s registers as usual and <code>echo HELLO</code> still comes back as <code>BLOCKED-BY-SKILL-HOOK</code>. The silent failures section has the comparison.</p>
+<h3>skill wires to another skill</h3>
+<p>No field for this one, so it goes in the body:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="markdown" data-theme="github-dark github-light"><code data-language="markdown" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;--shiki-light:#005CC5;--shiki-light-font-weight:bold">---</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">name: outer</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">description: Outer test skill. Use when the user says outer.</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;--shiki-light:#005CC5;--shiki-light-font-weight:bold">---</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">Invoke the skill named inner using the Skill tool. Then reply with whatever it returned.</span></span></code></pre></figure>
+<p><code>inner</code> replies with the single word <code>INNER-RAN</code>. Type <code>outer</code> and the log holds two <code>Skill</code> calls:</p>
+<pre><code>TOOL_USE: Skill {"skill": "outer"}
+TOOL_USE: Skill {"skill": "inner"}
+RESULT: INNER-RAN
+</code></pre>
+<p>The second call comes from the model, not the engine. Same as a hook reaching for a skill: if the model does not follow the instruction, nothing happens.</p>
+<h2>Silent failures</h2>
+<p>Three places above mentioned a setting that fails without an error: the event name in the hook section, the <code>agent</code> value in skill wires to a subagent, and trust in agent wires to a hook. All three run exactly as they do when written right, with no error message. To catch them, you can only list what a correct setup would produce and then check whether it appeared.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>What is wrong</th><th>Expected result when correct</th><th>What the wrong one shows</th><th>Any hint</th></tr></thead><tbody><tr><td>event name <code>PreToolUsee</code> in <code>settings.json</code>, one e too many</td><td><code>--include-hook-events</code> adds <code>hook_started</code> and <code>hook_response</code></td><td>neither appears, Bash runs anyway</td><td>none; neither <code>--debug</code> (debug log on stderr) nor <code>--include-hook-events</code> (hook events in stream-json) prints a line about it</td></tr><tr><td><code>agent: nosuchagent</code> on a skill</td><td><code>agent: mycustom</code> returns <code>CUSTOM: FORKED</code></td><td>returns <code>FORKED</code>, forking with the default agent</td><td>none</td></tr><tr><td>folder not trusted</td><td><code>deny.sh</code> gets its own <code>hook_started</code> and <code>hook_response</code>, <code>echo SUB</code> returns <code>BLOCKED-BY-AGENT-HOOK</code></td><td>no events at all, <code>echo SUB</code> returns <code>SUB</code>; the <code>hooks:</code> in the agent's frontmatter are dropped wholesale</td><td>none; <code>-p</code> never shows the trust dialog and <code>--debug</code> says nothing</td></tr></tbody></table>
+<p>Trust is asked once per folder: the first interactive session started there puts up a dialog, and the answer is stored as <code>hasTrustDialogAccepted</code> in <code>~/.claude.json</code>. Under <code>-p</code> that dialog never appears.</p>
+<h2>caveat</h2>
+<p>The CLI and the SDK execute the same binary (<code>shasum</code> matches). What the SDK adds is that <code>agents</code>, <code>mcpServers</code> and hook callbacks can be passed straight as options, and <code>tools</code> and <code>skills</code> behave differently in <code>query()</code> (see the <code>query()</code> table above). For the nesting ceiling the engine also reads a remote flag, so it may move without a version change.</p>
+<p>Every measurement in this article ran with <code>-p</code>. <code>-p</code> changes two results: <code>tooltest</code> returns <code>Execute skill: tooltest</code> because under <code>-p</code> nobody answers the ask; <code>forktest</code>'s result comes straight back to the main line because <code>-p</code> does not push the subagent into the background. The same two skills, rerun in the other two modes:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Mode</th><th>A skill with <code>allowed-tools</code></th><th><code>context: fork</code></th></tr></thead><tbody><tr><td><code>--permission-mode manual</code></td><td>a real dialog, <code>Use skill "tooltest"?</code></td><td>the subagent runs in the background, the main line does not wait for it, and <code>FORKED</code> arrives later; add <code>background: false</code> to the frontmatter and the main line waits</td></tr><tr><td>default auto mode</td><td>asks nothing, logs <code>Allowed by auto mode classifier</code></td><td>same</td></tr><tr><td><code>-p</code></td><td>nobody to ask, comes back as <code>Execute skill: tooltest</code></td><td>no background: the subagent finishes and <code>FORKED</code> comes straight back to the main line</td></tr></tbody></table>9:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L14",null,{"htmlContent":"$15","rawContent":"$16","base64Content":"$17","title":"Skill、Agent、Tool、Hook：誰呼叫誰","createdAt":"$undefined","updatedAt":"$undefined","tags":["claude-code","agent","skill","hook","mcp"],"altHtmlContent":"$18","altTitle":"Skills, Agents, Tools, Hooks: which one can call which","currentLang":"zh","altLang":"en","canonicalPath":"/v2/claude-code-who-calls-who"}]}]}]
