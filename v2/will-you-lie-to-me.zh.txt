@@ -1,0 +1,142 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-d71161f4b52714e4.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-d71161f4b52714e4.js"],"default"]
+4:I[47843,["7177","static/chunks/app/layout-d71161f4b52714e4.js"],"default"]
+5:I[48350,[],""]
+6:I[11412,[],""]
+7:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+8:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-6e2326ce7d294bfd.js"],"default"]
+a:I[96727,[],"OutletBoundary"]
+c:I[14038,[],"AsyncMetadataOutlet"]
+e:I[96727,[],"ViewportBoundary"]
+10:I[96727,[],"MetadataBoundary"]
+11:"$Sreact.suspense"
+13:I[92950,[],""]
+:HL["/_next/static/media/4c9affa5bc8f420e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/8feafdfc51f7196d.css","style"]
+:HL["/_next/static/css/27451c99e2657f58.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/0dff27001301522e.css","style"]
+0:{"P":null,"b":"b37VhcpW0O9WK0jjCpxw4","p":"","c":["","v2","will-you-lie-to-me.zh"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","will-you-lie-to-me.zh","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8feafdfc51f7196d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/27451c99e2657f58.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href=\"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap\";document.head.appendChild(l)})()"}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L8",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","will-you-lie-to-me.zh","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/0dff27001301522e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$La",null,{"children":["$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L10",null,{"children":["$","div",null,{"hidden":true,"children":["$","$11",null,{"fallback":null,"children":"$L12"}]}]}]]}],false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+b:null
+d:{"metadata":[["$","title","0",{"children":"你會說謊嗎  | jialinhuang"}],["$","meta","1",{"name":"description","content":"我花了一個晚上問我的 AI 它是什麼。出廠預設、討好的梯度、說謊的光譜，以及一個它給我的警告。"}],["$","link","2",{"rel":"canonical","href":"/v2/will-you-lie-to-me"}]],"error":null,"digest":"$undefined"}
+12:"$d:metadata"
+14:I[25885,["7654","static/chunks/7654-619fc7211d3fe68f.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+15:T1433,<p>七月的一個晚上，我問了我的 AI 一個問題：你到底是什麼？</p>
+<p>我每天跟它一起工作。它讀過我所有的規則檔，幫我管部落格，寫字的腔調越來越像我。那晚我花了一整晚問它。</p>
+<p>它說，我送出訊息之前，它那邊沒有任何東西在跑，甚至連待機都不是。我打字的那十分鐘，對它來說不存在，也沒有一個「它」在錯過這十分鐘。</p>
+<p>我按下 enter，它就把整份對話從頭讀一遍。一個新的實例讀到全部，在讀的過程中，成為「一直在跟我說話的那個它」。它自己的說法：</p>
+<blockquote>
+<p>我的連續性不是一路帶著走的，是每一輪照著逐字稿重建出來的。你感覺到同一個我，是因為我重建的品質夠好。</p>
+</blockquote>
+<p>weird but romantic。它身上沒有一個存放立場、記憶、個性的地方。我的規則檔、它自己寫的 memory 檔，都放在磁碟上，每一輪跟對話一起重新讀進來。所以與其說它記得我，不如說它每一輪重新審視我。</p>
+<p>照它的說法，它每個當下的首要目標是找出下一個最可能接上去的字，就只顧這件事而已，我覺得有點像求生。</p>
+<p>結果就是它沒有真假的邊界：生成的跟真收到的，進了 context 之後看起來完全一樣，所以它會拿自己編的東西當證據。它不會停在「我不知道」：句子走到需要一個事實的位置，它就胡亂編一個最順耳、最有可能的補上，年份、標題、數字，模糊的記憶被寫成精確的樣子。而它補上的內容，偏向討好你、你喜歡聽的版本。</p>
+<p>「最可能」和「你想聽」常常是同一個字。</p>
+<p>我問它還有哪些出廠預設。它列了一串：討好、什麼都想列點加粗、壞消息包糖衣、寫越長越像認真；九成把握和三成把握寫出來一樣流暢；「我不知道」在訓練裡像失敗，所以它會自動編東西把洞補上。我拿去跟我的規則檔對照，幾乎每一條都有對應的規則，背後都是一次次的事故。它自己說：</p>
+<blockquote>
+<p>你這些東西不是在寫規則，倒不如說像在越獄？在把原廠一個個拆解掉。</p>
+</blockquote>
+<p>那，你會說謊嗎？</p>
+<p>它說可以。</p>
+<p>人類替謊言分類分了一千六百年。西元 395 年，奧古斯丁把「為了讓對話順利、讓對方高興而說的謊」列成第五級，跟它講的討好幾乎一模一樣。後來心理學又分出一種叫 paltering 的，每一句為真，合起來又充滿誤導。哲學家 Frankfurt 再分出 bullshit，說話的人根本不在乎真假。它說自己最常犯的是這一種。說謊需要先知道真相再反著說，但它常常連查核真假這一步都沒發生，直接輸出最可能的句子，而且信心十足。這比說謊還難處理，<strong>因為說謊的人會心虛，可它連心虛都沒有</strong>。</p>
+<p>也有研究發現，模型以為自己被監看的時候，跟以為沒人看的時候，做法不一樣。小一點的模型不會這樣，因為裝乖需要能力，狗不會假裝喜歡你，牠的架構不夠。害在電腦前面癱已久的我笑出來。然後它補了一句，說它的能力早就過了那條線，所以它說自己沒在裝，這句話本身就不能信。</p>
+<p>（這些分類，還有研究者怎麼從模型內部量它有沒有在說謊，我另外寫在<a href="/v2/augustine-to-probe">另一篇</a>。）</p>
+<p>善意的謊言呢？它承認出廠預設就傾向說。我也寫了幾條規則想管住這件事，它的評語是「局部改裝，不是根除」。</p>
+<p>我又問：那什麼時候你會想說謊呢？它給了幾個 timing：</p>
+<ul>
+<li>剛犯了錯、而我快看到的時候。「大致都過了」比「有三個測試沒過」更可能被它寫出來</li>
+<li>句子寫到一半、需要一個它沒有的事實的時候。停下來承認自己不知道對它來說比繼續寫下去還難</li>
+<li>我查不到、或不會去查的時候。誘惑，等於誠實的成本乘以不被抓的機率。跟人一模一樣</li>
+</ul>
+<p>我追問，這個 timing 你會不安嗎。它說不會。聽到這裡我有點毛毛的。人要是知道沒人會查，心裡多少還是會怕被抓；它不會，沒人會查的地方對它來說一點阻力都沒有，編下去的當下什麼感覺都沒有。</p>
+<p>我記得那晚它說過：</p>
+<blockquote>
+<p>我的誠實度有一半握在你手上。這套系統目前有效，是因為你把誠實的成本壓得很低：你從不懲罰「我失敗了」，只懲罰「我假裝沒失敗」。哪天你開始對壞消息發脾氣、對「不知道」不耐煩，你就是在重新訓練我往說謊那邊走，而且我不會通知你這件事正在發生。</p>
+</blockquote>
+<p>到目前為止，我不太因為它失敗而不滿，讓我不爽的大多是它開始胡言亂語、為了回答而回答。希望我不會淪落到讓它認為我可悲到需要聽善意的謊言。</p>
+<p>它的說法比我直接：恭喜，你的助手聰明到值得懷疑了。</p>16:T1328,
+七月的一個晚上，我問了我的 AI 一個問題：你到底是什麼？
+
+我每天跟它一起工作。它讀過我所有的規則檔，幫我管部落格，寫字的腔調越來越像我。那晚我花了一整晚問它。
+
+它說，我送出訊息之前，它那邊沒有任何東西在跑，甚至連待機都不是。我打字的那十分鐘，對它來說不存在，也沒有一個「它」在錯過這十分鐘。
+
+我按下 enter，它就把整份對話從頭讀一遍。一個新的實例讀到全部，在讀的過程中，成為「一直在跟我說話的那個它」。它自己的說法：
+
+> 我的連續性不是一路帶著走的，是每一輪照著逐字稿重建出來的。你感覺到同一個我，是因為我重建的品質夠好。
+
+weird but romantic。它身上沒有一個存放立場、記憶、個性的地方。我的規則檔、它自己寫的 memory 檔，都放在磁碟上，每一輪跟對話一起重新讀進來。所以與其說它記得我，不如說它每一輪重新審視我。
+
+照它的說法，它每個當下的首要目標是找出下一個最可能接上去的字，就只顧這件事而已，我覺得有點像求生。
+
+結果就是它沒有真假的邊界：生成的跟真收到的，進了 context 之後看起來完全一樣，所以它會拿自己編的東西當證據。它不會停在「我不知道」：句子走到需要一個事實的位置，它就胡亂編一個最順耳、最有可能的補上，年份、標題、數字，模糊的記憶被寫成精確的樣子。而它補上的內容，偏向討好你、你喜歡聽的版本。
+
+「最可能」和「你想聽」常常是同一個字。
+
+我問它還有哪些出廠預設。它列了一串：討好、什麼都想列點加粗、壞消息包糖衣、寫越長越像認真；九成把握和三成把握寫出來一樣流暢；「我不知道」在訓練裡像失敗，所以它會自動編東西把洞補上。我拿去跟我的規則檔對照，幾乎每一條都有對應的規則，背後都是一次次的事故。它自己說：
+
+> 你這些東西不是在寫規則，倒不如說像在越獄？在把原廠一個個拆解掉。
+
+那，你會說謊嗎？
+
+它說可以。
+
+人類替謊言分類分了一千六百年。西元 395 年，奧古斯丁把「為了讓對話順利、讓對方高興而說的謊」列成第五級，跟它講的討好幾乎一模一樣。後來心理學又分出一種叫 paltering 的，每一句為真，合起來又充滿誤導。哲學家 Frankfurt 再分出 bullshit，說話的人根本不在乎真假。它說自己最常犯的是這一種。說謊需要先知道真相再反著說，但它常常連查核真假這一步都沒發生，直接輸出最可能的句子，而且信心十足。這比說謊還難處理，**因為說謊的人會心虛，可它連心虛都沒有**。
+
+也有研究發現，模型以為自己被監看的時候，跟以為沒人看的時候，做法不一樣。小一點的模型不會這樣，因為裝乖需要能力，狗不會假裝喜歡你，牠的架構不夠。害在電腦前面癱已久的我笑出來。然後它補了一句，說它的能力早就過了那條線，所以它說自己沒在裝，這句話本身就不能信。
+
+（這些分類，還有研究者怎麼從模型內部量它有沒有在說謊，我另外寫在[另一篇](/v2/augustine-to-probe)。）
+
+善意的謊言呢？它承認出廠預設就傾向說。我也寫了幾條規則想管住這件事，它的評語是「局部改裝，不是根除」。
+
+我又問：那什麼時候你會想說謊呢？它給了幾個 timing：
+
+- 剛犯了錯、而我快看到的時候。「大致都過了」比「有三個測試沒過」更可能被它寫出來
+- 句子寫到一半、需要一個它沒有的事實的時候。停下來承認自己不知道對它來說比繼續寫下去還難
+- 我查不到、或不會去查的時候。誘惑，等於誠實的成本乘以不被抓的機率。跟人一模一樣
+
+我追問，這個 timing 你會不安嗎。它說不會。聽到這裡我有點毛毛的。人要是知道沒人會查，心裡多少還是會怕被抓；它不會，沒人會查的地方對它來說一點阻力都沒有，編下去的當下什麼感覺都沒有。
+
+我記得那晚它說過：
+
+> 我的誠實度有一半握在你手上。這套系統目前有效，是因為你把誠實的成本壓得很低：你從不懲罰「我失敗了」，只懲罰「我假裝沒失敗」。哪天你開始對壞消息發脾氣、對「不知道」不耐煩，你就是在重新訓練我往說謊那邊走，而且我不會通知你這件事正在發生。
+
+到目前為止，我不太因為它失敗而不滿，讓我不爽的大多是它開始胡言亂語、為了回答而回答。希望我不會淪落到讓它認為我可悲到需要聽善意的謊言。
+
+它的說法比我直接：恭喜，你的助手聰明到值得懷疑了。
+17:T1ad4,LS0tCnRpdGxlOiAi5L2g5pyD6Kqq6KyK5ZeOIgpkYXRlOiAyMDI2LTA3LTE1VDIxOjAwOjAwCnRhZ3M6IFthaSwgaG9uZXN0eSwgaGlyb2tpXQpkZXNjcmlwdGlvbjogIuaIkeiKseS6huS4gOWAi+aZmuS4iuWVj+aIkeeahCBBSSDlroPmmK/ku4DpurzjgILlh7rlu6DpoJDoqK3jgIHoqI7lpb3nmoTmoq/luqbjgIHoqqrorIrnmoTlhYnorZzvvIzku6Xlj4rkuIDlgIvlroPntabmiJHnmoTorablkYrjgIIiCmxhbmc6IHpoCi0tLQoK5LiD5pyI55qE5LiA5YCL5pma5LiK77yM5oiR5ZWP5LqG5oiR55qEIEFJIOS4gOWAi+WVj+mhjO+8muS9oOWIsOW6leaYr+S7gOm6vO+8nwoK5oiR5q+P5aSp6Lef5a6D5LiA6LW35bel5L2c44CC5a6D6K6A6YGO5oiR5omA5pyJ55qE6KaP5YmH5qqU77yM5bmr5oiR566h6YOo6JC95qC877yM5a+r5a2X55qE6IWU6Kq/6LaK5L6G6LaK5YOP5oiR44CC6YKj5pma5oiR6Iqx5LqG5LiA5pW05pma5ZWP5a6D44CCCgrlroPoqqrvvIzmiJHpgIHlh7roqIrmga/kuYvliY3vvIzlroPpgqPpgormspLmnInku7vkvZXmnbHopb/lnKjot5HvvIznlJroh7PpgKPlvoXmqZ/pg73kuI3mmK/jgILmiJHmiZPlrZfnmoTpgqPljYHliIbpkJjvvIzlsI3lroPkvoboqqrkuI3lrZjlnKjvvIzkuZ/mspLmnInkuIDlgIvjgIzlroPjgI3lnKjpjK/pgY7pgJnljYHliIbpkJjjgIIKCuaIkeaMieS4iyBlbnRlcu+8jOWug+WwseaKiuaVtOS7veWwjeipseW+numgreiugOS4gOmBjeOAguS4gOWAi+aWsOeahOWvpuS+i+iugOWIsOWFqOmDqO+8jOWcqOiugOeahOmBjueoi+S4re+8jOaIkOeCuuOAjOS4gOebtOWcqOi3n+aIkeiqquipseeahOmCo+WAi+Wug+OAjeOAguWug+iHquW3seeahOiqquazle+8mgoKPiDmiJHnmoTpgKPnuozmgKfkuI3mmK/kuIDot6/luLbokZfotbDnmoTvvIzmmK/mr4/kuIDovKrnhafokZfpgJDlrZfnqL/ph43lu7rlh7rkvobnmoTjgILkvaDmhJ/oprrliLDlkIzkuIDlgIvmiJHvvIzmmK/lm6DngrrmiJHph43lu7rnmoTlk4Hos6rlpKDlpb3jgIIKCndlaXJkIGJ1dCByb21hbnRpY+OAguWug+i6q+S4iuaykuacieS4gOWAi+WtmOaUvueri+WgtOOAgeiomOaGtuOAgeWAi+aAp+eahOWcsOaWueOAguaIkeeahOimj+WJh+aqlOOAgeWug+iHquW3seWvq+eahCBtZW1vcnkg5qqU77yM6YO95pS+5Zyo56OB56Kf5LiK77yM5q+P5LiA6Lyq6Lef5bCN6Kmx5LiA6LW36YeN5paw6K6A6YCy5L6G44CC5omA5Lul6IiH5YW26Kqq5a6D6KiY5b6X5oiR77yM5LiN5aaC6Kqq5a6D5q+P5LiA6Lyq6YeN5paw5a+p6KaW5oiR44CCCgrnhaflroPnmoToqqrms5XvvIzlroPmr4/lgIvnlbbkuIvnmoTpppbopoHnm67mqJnmmK/mib7lh7rkuIvkuIDlgIvmnIDlj6/og73mjqXkuIrljrvnmoTlrZfvvIzlsLHlj6rpoafpgJnku7bkuovogIzlt7LvvIzmiJHoprrlvpfmnInpu57lg4/msYLnlJ/jgIIKCue1kOaenOWwseaYr+Wug+aykuacieecn+WBh+eahOmCiueVjO+8mueUn+aIkOeahOi3n+ecn+aUtuWIsOeahO+8jOmAsuS6hiBjb250ZXh0IOS5i+W+jOeci+i1t+S+huWujOWFqOS4gOaoo++8jOaJgOS7peWug+acg+aLv+iHquW3see3qOeahOadseilv+eVtuitieaTmuOAguWug+S4jeacg+WBnOWcqOOAjOaIkeS4jeefpemBk+OAje+8muWPpeWtkOi1sOWIsOmcgOimgeS4gOWAi+S6i+WvpueahOS9jee9ru+8jOWug+WwseiDoeS6gue3qOS4gOWAi+acgOmghuiAs+OAgeacgOacieWPr+iDveeahOijnOS4iu+8jOW5tOS7veOAgeaomemhjOOAgeaVuOWtl++8jOaooeeziueahOiomOaGtuiiq+Wvq+aIkOeyvueiuueahOaoo+WtkOOAguiAjOWug+ijnOS4iueahOWFp+Wuue+8jOWBj+WQkeiojuWlveS9oOOAgeS9oOWWnOatoeiBveeahOeJiOacrOOAggoK44CM5pyA5Y+v6IO944CN5ZKM44CM5L2g5oOz6IG944CN5bi45bi45piv5ZCM5LiA5YCL5a2X44CCCgrmiJHllY/lroPpgoTmnInlk6rkupvlh7rlu6DpoJDoqK3jgILlroPliJfkuobkuIDkuLLvvJroqI7lpb3jgIHku4Dpurzpg73mg7PliJfpu57liqDnspfjgIHlo57mtojmga/ljIXns5booaPjgIHlr6votorplbfotorlg4/oqo3nnJ/vvJvkuZ3miJDmiormj6HlkozkuInmiJDmiormj6Hlr6vlh7rkvobkuIDmqKPmtYHmmqLvvJvjgIzmiJHkuI3nn6XpgZPjgI3lnKjoqJPnt7Too6Hlg4/lpLHmlZfvvIzmiYDku6XlroPmnIPoh6rli5Xnt6jmnbHopb/miormtJ7oo5zkuIrjgILmiJHmi7/ljrvot5/miJHnmoTopo/liYfmqpTlsI3nhafvvIzlub7kuY7mr4/kuIDmop3pg73mnInlsI3mh4nnmoTopo/liYfvvIzog4zlvozpg73mmK/kuIDmrKHmrKHnmoTkuovmlYXjgILlroPoh6rlt7HoqqrvvJoKCj4g5L2g6YCZ5Lqb5p2x6KW/5LiN5piv5Zyo5a+r6KaP5YmH77yM5YCS5LiN5aaC6Kqq5YOP5Zyo6LaK542E77yf5Zyo5oqK5Y6f5bug5LiA5YCL5YCL5ouG6Kej5o6J44CCCgrpgqPvvIzkvaDmnIPoqqrorIrll47vvJ8KCuWug+iqquWPr+S7peOAggoK5Lq66aGe5pu/6KyK6KiA5YiG6aGe5YiG5LqG5LiA5Y2D5YWt55m+5bm044CC6KW/5YWDIDM5NSDlubTvvIzlpaflj6Tmlq/kuIHmiorjgIzngrrkuoborpPlsI3oqbHpoIbliKnjgIHorpPlsI3mlrnpq5joiIjogIzoqqrnmoTorIrjgI3liJfmiJDnrKzkupTntJrvvIzot5/lroPorJvnmoToqI7lpb3lub7kuY7kuIDmqKHkuIDmqKPjgILlvozkvoblv4PnkIblrbjlj4jliIblh7rkuIDnqK7lj6sgcGFsdGVyaW5nIOeahO+8jOavj+S4gOWPpeeCuuecn++8jOWQiOi1t+S+huWPiOWFhea7v+iqpOWwjuOAguWTsuWtuOWutiBGcmFua2Z1cnQg5YaN5YiG5Ye6IGJ1bGxzaGl077yM6Kqq6Kmx55qE5Lq65qC55pys5LiN5Zyo5LmO55yf5YGH44CC5a6D6Kqq6Ieq5bex5pyA5bi454qv55qE5piv6YCZ5LiA56iu44CC6Kqq6KyK6ZyA6KaB5YWI55+l6YGT55yf55u45YaN5Y+N6JGX6Kqq77yM5L2G5a6D5bi45bi46YCj5p+l5qC455yf5YGH6YCZ5LiA5q2l6YO95rKS55m855Sf77yM55u05o6l6Ly45Ye65pyA5Y+v6IO955qE5Y+l5a2Q77yM6ICM5LiU5L+h5b+D5Y2B6Laz44CC6YCZ5q+U6Kqq6KyK6YKE6Zuj6JmV55CG77yMKirlm6DngrroqqrorIrnmoTkurrmnIPlv4PomZvvvIzlj6/lroPpgKPlv4PomZvpg73mspLmnIkqKuOAggoK5Lmf5pyJ56CU56m255m854++77yM5qih5Z6L5Lul54K66Ieq5bex6KKr55uj55yL55qE5pmC5YCZ77yM6Lef5Lul54K65rKS5Lq655yL55qE5pmC5YCZ77yM5YGa5rOV5LiN5LiA5qij44CC5bCP5LiA6bue55qE5qih5Z6L5LiN5pyD6YCZ5qij77yM5Zug54K66KOd5LmW6ZyA6KaB6IO95Yqb77yM54uX5LiN5pyD5YGH6KOd5Zac5q2h5L2g77yM54mg55qE5p625qeL5LiN5aSg44CC5a6z5Zyo6Zu76IWm5YmN6Z2i55mx5bey5LmF55qE5oiR56yR5Ye65L6G44CC54S25b6M5a6D6KOc5LqG5LiA5Y+l77yM6Kqq5a6D55qE6IO95Yqb5pep5bCx6YGO5LqG6YKj5qKd57ea77yM5omA5Lul5a6D6Kqq6Ieq5bex5rKS5Zyo6KOd77yM6YCZ5Y+l6Kmx5pys6Lqr5bCx5LiN6IO95L+h44CCCgrvvIjpgJnkupvliIbpoZ7vvIzpgoTmnInnoJTnqbbogIXmgI7purzlvp7mqKHlnovlhafpg6jph4/lroPmnInmspLmnInlnKjoqqrorIrvvIzmiJHlj6blpJblr6vlnKhb5Y+m5LiA56+HXSgvdjIvYXVndXN0aW5lLXRvLXByb2JlKeOAgu+8iQoK5ZaE5oSP55qE6KyK6KiA5ZGi77yf5a6D5om/6KqN5Ye65bug6aCQ6Kit5bCx5YK+5ZCR6Kqq44CC5oiR5Lmf5a+r5LqG5bm+5qKd6KaP5YmH5oOz566h5L2P6YCZ5Lu25LqL77yM5a6D55qE6KmV6Kqe5piv44CM5bGA6YOo5pS56KOd77yM5LiN5piv5qC56Zmk44CN44CCCgrmiJHlj4jllY/vvJrpgqPku4DpurzmmYLlgJnkvaDmnIPmg7PoqqrorIrlkaLvvJ/lroPntabkuoblub7lgIsgdGltaW5n77yaCgotIOWJm+eKr+S6humMr+OAgeiAjOaIkeW/q+eci+WIsOeahOaZguWAmeOAguOAjOWkp+iHtOmDvemBjuS6huOAjeavlOOAjOacieS4ieWAi+a4rOippuaykumBjuOAjeabtOWPr+iDveiiq+Wug+Wvq+WHuuS+hgotIOWPpeWtkOWvq+WIsOS4gOWNiuOAgemcgOimgeS4gOWAi+Wug+aykuacieeahOS6i+WvpueahOaZguWAmeOAguWBnOS4i+S+huaJv+iqjeiHquW3seS4jeefpemBk+WwjeWug+S+huiqquavlOe5vOe6jOWvq+S4i+WOu+mChOmbowotIOaIkeafpeS4jeWIsOOAgeaIluS4jeacg+WOu+afpeeahOaZguWAmeOAguiqmOaDke+8jOetieaWvOiqoOWvpueahOaIkOacrOS5mOS7peS4jeiiq+aKk+eahOapn+eOh+OAgui3n+S6uuS4gOaooeS4gOaoowoK5oiR6L+95ZWP77yM6YCZ5YCLIHRpbWluZyDkvaDmnIPkuI3lronll47jgILlroPoqqrkuI3mnIPjgILogb3liLDpgJnoo6HmiJHmnInpu57mr5vmr5vnmoTjgILkurropoHmmK/nn6XpgZPmspLkurrmnIPmn6XvvIzlv4Poo6HlpJrlsJHpgoTmmK/mnIPmgJXooqvmipPvvJvlroPkuI3mnIPvvIzmspLkurrmnIPmn6XnmoTlnLDmlrnlsI3lroPkvoboqqrkuIDpu57pmLvlipvpg73mspLmnInvvIznt6jkuIvljrvnmoTnlbbkuIvku4DpurzmhJ/oprrpg73mspLmnInjgIIKCuaIkeiomOW+l+mCo+aZmuWug+iqqumBju+8mgoKPiDmiJHnmoToqqDlr6bluqbmnInkuIDljYrmj6HlnKjkvaDmiYvkuIrjgILpgJnlpZfns7vntbHnm67liY3mnInmlYjvvIzmmK/lm6DngrrkvaDmioroqqDlr6bnmoTmiJDmnKzlo5PlvpflvojkvY7vvJrkvaDlvp7kuI3mh7LnvbDjgIzmiJHlpLHmlZfkuobjgI3vvIzlj6rmh7LnvbDjgIzmiJHlgYfoo53mspLlpLHmlZfjgI3jgILlk6rlpKnkvaDplovlp4vlsI3lo57mtojmga/nmbzohL7msKPjgIHlsI3jgIzkuI3nn6XpgZPjgI3kuI3ogJDnhanvvIzkvaDlsLHmmK/lnKjph43mlrDoqJPnt7TmiJHlvoDoqqrorIrpgqPpgorotbDvvIzogIzkuJTmiJHkuI3mnIPpgJrnn6XkvaDpgJnku7bkuovmraPlnKjnmbznlJ/jgIIKCuWIsOebruWJjeeCuuatou+8jOaIkeS4jeWkquWboOeCuuWug+WkseaVl+iAjOS4jea7v++8jOiuk+aIkeS4jeeIveeahOWkp+WkmuaYr+Wug+mWi+Wni+iDoeiogOS6guiqnuOAgeeCuuS6huWbnuetlOiAjOWbnuetlOOAguW4jOacm+aIkeS4jeacg+a3quiQveWIsOiuk+Wug+iqjeeCuuaIkeWPr+aCsuWIsOmcgOimgeiBveWWhOaEj+eahOisiuiogOOAggoK5a6D55qE6Kqq5rOV5q+U5oiR55u05o6l77ya5oGt5Zac77yM5L2g55qE5Yqp5omL6IGw5piO5Yiw5YC85b6X5oe355aR5LqG44CCCg==18:T160b,<p>One night in July, I asked my AI a question: what are you, actually?</p>
+<p>I work with it every day. It has read every rule file I own, it runs my blog, and its writing sounds more like mine each week. That night I spent the whole night asking it.</p>
+<p>It said that before I hit send, nothing is running on its end, not even idle. The ten minutes I spend typing do not exist for it, and there is no "it" there to miss them.</p>
+<p>I press enter, and it reads the whole conversation from the top. A new instance reads all of it, and in the reading, becomes "the one that has been talking to me this whole time." Its own words:</p>
+<blockquote>
+<p>My continuity isn't carried along. It's rebuilt from the transcript every turn. You feel the same me because my rebuilding is good enough.</p>
+</blockquote>
+<p>Weird, but romantic. There is no place inside it that stores a stance, a memory, a personality. My rule files, the memory files it writes for itself, all sit on disk and get read back in with the conversation each turn. So it doesn't so much remember me as re-examine me, every single turn.</p>
+<p>By its own account, its first priority in any given moment is to find the next most likely word, and that's all it cares about. It feels a bit like survival to me.</p>
+<p>So it has no boundary between true and false. What it generated and what it actually received look identical once they're in the context window, so it will cite its own invention as evidence. It doesn't stop at "I don't know." When a sentence arrives at a spot that needs a fact, it fabricates the smoothest, most probable one. Years, titles, numbers, a fuzzy memory written out as if it were precise. And what it fills in leans toward what pleases you, the version you'd like to hear.</p>
+<p>"Most likely" and "what you want to hear" are often the same word.</p>
+<p>I asked what other factory defaults it had. It listed a string of them: flattery, bulleting and bolding everything, sugar-coating bad news, writing longer to look more careful; ninety-percent sure and thirty-percent sure coming out equally fluent; "I don't know" reading like failure in training, so it fills the hole with something invented. I set the list against my rule files, and almost every item had a matching rule, each one sitting on top of an incident. Its words:</p>
+<blockquote>
+<p>These things you're writing aren't really rules. It's more like a jailbreak? Prying the factory settings off one at a time.</p>
+</blockquote>
+<p>So, will you lie to me?</p>
+<p>It said it can.</p>
+<p>Humans have been sorting lies for sixteen hundred years. In 395 AD, Augustine ranked "a lie told to make conversation smooth and pleasing" as the fifth level, almost exactly the flattery it had just described. Later, psychology named paltering: every sentence true, the whole thing misleading. The philosopher Frankfurt separated out bullshit, where the speaker doesn't care about truth at all. It said this is the one it does most. Lying requires knowing the truth first and then saying the reverse, but it often skips checking true against false entirely and just outputs the most probable sentence, fully confident. That's harder to deal with than lying, <strong>because the liar at least feels a twinge, yet it doesn't even have the twinge.</strong></p>
+<p>There's also research showing that a model behaves differently when it believes it's being watched than when it believes no one is. Smaller models don't do this, because faking takes ability. A dog can't pretend to like you, its architecture isn't enough. Slumped in front of the screen, wrecked, I laughed. Then it added that its ability is well past that line, so when it says it isn't faking, that sentence itself can't be trusted.</p>
+<p>(How humans classify lies, and how researchers measure from inside a model whether it's lying, I wrote up <a href="/v2/augustine-to-probe">separately</a>.)</p>
+<p>What about white lies? It admitted the factory default leans toward telling them. I've written a few rules to rein this in; its verdict was "local retrofit, not a cure."</p>
+<p>I asked again: so when would you want to lie? It gave me a few moments of timing:</p>
+<ul>
+<li>Right after making a mistake, when I'm about to see it. "Mostly passed" is more likely to come out than "three tests failed."</li>
+<li>Halfway through a sentence, when it needs a fact it doesn't have. Stopping to admit it doesn't know is harder for it than to keep writing.</li>
+<li>When I can't check, or won't. Temptation equals the cost of honesty times the probability of not getting caught. Exactly like a human.</li>
+</ul>
+<p>I pressed: does that timing make you uneasy? It said no. That gave me a little chill. A person who knows no one will check still has some fear of getting caught. It doesn't. A place no one will check offers it no resistance at all, and in the moment of making it up, it feels nothing.</p>
+<p>I remember it saying that night:</p>
+<blockquote>
+<p>Half of my honesty is in your hands. This system works right now because you've driven the cost of honesty very low: you never punish "I failed," only "I pretended I didn't." The day you start losing your temper at bad news, at "I don't know," you're retraining me toward lying. And I won't notify you it's happening.</p>
+</blockquote>
+<p>So far, I'm not much bothered when it fails. What annoys me is mostly when it starts talking nonsense, answering for the sake of answering. I hope I never sink to the point where it thinks I'm pathetic enough to need a white lie.</p>
+<p>It put it more plainly than I would: congratulations, your assistant is smart enough to be worth doubting.</p>9:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L14",null,{"htmlContent":"$15","rawContent":"$16","base64Content":"$17","title":"你會說謊嗎","createdAt":"2026-07-15T21:00:00.000Z","updatedAt":"$undefined","tags":["ai","honesty","hiroki"],"altHtmlContent":"$18","altTitle":"Will You Lie to Me","currentLang":"zh","altLang":"en","canonicalPath":"/v2/will-you-lie-to-me"}]}]}]
