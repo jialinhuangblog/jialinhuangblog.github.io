@@ -1,0 +1,693 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-6c0daacec0ca08fe.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-6c0daacec0ca08fe.js"],"default"]
+4:I[48350,[],""]
+5:I[11412,[],""]
+6:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+7:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-6e2326ce7d294bfd.js"],"default"]
+9:I[96727,[],"OutletBoundary"]
+b:I[14038,[],"AsyncMetadataOutlet"]
+d:I[96727,[],"ViewportBoundary"]
+f:I[96727,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[92950,[],""]
+:HL["/_next/static/media/4c9affa5bc8f420e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/7d3e9728da4054e1.css","style"]
+:HL["/_next/static/css/7c2cac02228a73f1.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/0dff27001301522e.css","style"]
+0:{"P":null,"b":"4xdCEVV9ptlCbJW5VU8BN","p":"","c":["","v2","rust-ate-javascript-build-toolchain.zh"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","rust-ate-javascript-build-toolchain.zh","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7d3e9728da4054e1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/7c2cac02228a73f1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href=\"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap\";document.head.appendChild(l)})()"}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L7",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","rust-ate-javascript-build-toolchain.zh","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/0dff27001301522e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+a:null
+c:{"metadata":[["$","title","0",{"children":"Rust ate.  | jialinhuang"}],["$","meta","1",{"name":"description","content":"我 2018 學前端，被 webpack 跟 babel 設定折磨過，然後 Next.js 把這層藏起來。我沒在看的那幾年，整層被人用 Rust 重寫了。一篇血淚史，加一張 2026 誰用什麼的地圖。"}],["$","link","2",{"rel":"canonical","href":"/v2/rust-ate-javascript-build-toolchain"}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"
+13:I[86734,["7654","static/chunks/7654-60627040eb92f27f.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+14:T42bb,<p>我學前端是 2018 那年。那時候還在吵 React、Vue、Angular，各有各的擁護者。</p>
+<p>框架本身其實還好，因為怎麼寫怎麼組裝 HTML，官方文件裡都有；麻煩的是它們底下那一坨 build 設定：webpack 的 config、一個接一個的 loader、babel 要配哪些 preset。那時候學前端真的是狂看官方文件，而且特殊 loader 一來又整個重來，超煩的。對，還有 plugin，看情況裝。</p>
+<p>然後 Next.js 出現了。它把那一整層包起來。我不用再寫 webpack config，不用再排 loader 順序，<code>create-next-app</code> 完直接就會動。好爽啊。從那之後 build 對我來說就是個黑盒子，能不碰就不碰。</p>
+<p>直到 Next.js 生態系的技術文章開始冒出 SWC、Turbopack，我才想說好像應該把整個進化過程梳理一下。總不能 Next.js 讓你無後顧之憂，你還真的無後顧之憂地生存下去。</p>
+<h2>build（不管是 next build 還是別的 build）分成三個角色</h2>
+<p>而且剛好就是我當年手動在配的那三個：</p>
+<ul>
+<li><strong>parse + transform</strong>：把我寫的 TS、JSX 轉成瀏覽器能執行的 JS。當年是 Babel。</li>
+<li><strong>bundle</strong>：把一堆 import 拼成幾個檔。當年是 Webpack。</li>
+<li><strong>minify</strong>：把輸出壓小。當年是 Terser。</li>
+</ul>
+<p>沒在關注黑盒子這幾年，這三個都變成 Rust 了 LOL。</p>
+<h2>從 Button.tsx 到 app.382f3f.js</h2>
+<p><code>Button.tsx</code> 到上線的檔案，中間會經過：</p>
+<pre><code>Button.tsx
+  │  parse + transform     (SWC / esbuild / Oxc / Babel)
+  │  TS → JS、JSX → JS、降新語法
+  ▼
+Button.js   (純 JS，沒有型別)
+  │  bundle                (Turbopack / Vite / Rolldown)
+  │  跟著 import 走依賴圖，拼在一起
+  ▼
+一大張 module graph
+  │  minify                (SWC / esbuild / oxc / terser)
+  │  砍空白、改短變數名、丟掉沒用到的 code
+  ▼
+app.382f3f.js    ← 382f3f 是內容 hash，拿來破快取
+
+（在旁邊，不在這條線上）
+tsc --noEmit  →  檢查型別，什麼都不輸出
+</code></pre>
+<p>382f3f 是用檔案內容算出來的 hash。code 一改，hash 就變，檔名跟著變，瀏覽器就會重新下載，不會用到舊的快取。</p>
+<h2>parse + transform：SWC</h2>
+<p>SWC 的作者是韓國人 <a href="https://github.com/kdy1">DongYoon Kang</a>，網路上叫 kdy1，大家喊他 Donny。他早在 2017 年就開始用 Rust 寫這個 Babel 的替代品，一樣做 parse + transform，只是預設會開多執行緒。官方的說法是<a href="https://swc.rs/">單執行緒比 Babel 快 20 倍，四個核心快 70 倍</a>，20 倍跟 70 倍的不同來自核心數。</p>
+<p>2021 年 8 月，<a href="https://nextjs.org/blog/next-11-1">Next.js 11.1</a> 的公告裡提到 Kang 加入了 Vercel；才過兩個月，<a href="https://nextjs.org/blog/next-12">Next.js 12</a> 就把預設的 Babel 換成 SWC 了。</p>
+<h2>bundle：Turbopack</h2>
+<p>Turbopack 是 <a href="https://vercel.com/blog/turbopack">Webpack 的作者 Tobias Koppers 寫的，他現在也在 Vercel</a>。等於是原作者自己用 Rust 寫了 webpack 的後繼者，而且底層直接用 SWC。<a href="https://nextjs.org/blog/next-15">Turbopack 的 <code>next dev</code> 在 Next.js 15</a>（2024 年 10 月）正式穩定，到 <a href="https://nextjs.org/blog/next-16">Next.js 16</a>（2025 年 10 月）連 <code>next build</code> 都變預設了。要繼續用 webpack，就加 <code>--webpack</code>。</p>
+<h2>minify：也是 SWC</h2>
+<p>Next.js 從 <a href="https://nextjs.org/docs/architecture/nextjs-compiler">v13</a> 起連壓縮都預設走 SWC。我以前為了省幾 KB 在調的那些 minify 設定，現在框架自己決定了。</p>
+<h2>還有 Vite 好像滿紅的</h2>
+<p>Vite 2020 年出來，開發時用 <a href="https://esbuild.github.io/">esbuild</a>（Go 寫的，作者是 Figma 的 Evan Wallace），<a href="https://vite.dev/guide/why">正式打包時用 Rollup</a>。後來 Rollup 也被 Rust 重寫成 <a href="https://voidzero.dev/posts/announcing-rolldown-1-0">Rolldown</a>，2026 年 3 月 <a href="https://vite.dev/blog/announcing-vite8">Vite 8</a> 直接拿它當預設，連開發時用的 esbuild 也<a href="https://vite.dev/guide/migration">一起換掉了</a>：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Vite 內部的工作</th><th>Vite 8 以前</th><th>Vite 8（2026-03）起</th></tr></thead><tbody><tr><td>轉換 TS、JSX</td><td>esbuild</td><td>Oxc</td></tr><tr><td>dev server 啟動時，先把 node_modules 打包好</td><td>esbuild</td><td>Rolldown</td></tr><tr><td>正式打包</td><td>Rollup</td><td>Rolldown</td></tr></tbody></table>
+<h2>各框架預設用什麼：除了 Next.js，幾乎都是 Vite</h2>
+<p>幾乎每個框架預設都用 Vite，只有 Next.js 自己用 Turbopack。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>框架</th><th>預設 build 工具</th></tr></thead><tbody><tr><td><strong>Next.js</strong></td><td>Turbopack（v16 起 dev 跟 build 都預設，要用 webpack 加 <code>--webpack</code>）</td></tr><tr><td>Remix</td><td>Vite（<a href="https://remix.run/blog/remix-vite-stable">v2.7.0, 2024</a>）</td></tr><tr><td>React Router v7</td><td>Vite（<a href="https://reactrouter.com/start/modes">framework mode</a>；Remix 併進來了）</td></tr><tr><td>Vue（create-vue）</td><td>Vite（<a href="https://github.com/vuejs/create-vue">Evan You 兩個都做的</a>）</td></tr><tr><td>Nuxt</td><td><a href="https://nuxt.com/docs/getting-started/introduction">Vite</a>（webpack / rspack 可選）</td></tr><tr><td>SvelteKit</td><td><a href="https://svelte.dev/docs/kit/introduction">Vite</a></td></tr><tr><td>Astro</td><td><a href="https://astro.build/blog/astro-6/">Vite</a></td></tr><tr><td>Angular（v17+）</td><td><a href="https://angular.dev/tools/cli/build-system-migration">esbuild 打包 + Vite 當 dev server</a></td></tr><tr><td>SolidStart</td><td><a href="https://docs.solidjs.com/solid-start/getting-started">Vite（透過 Vinxi）</a></td></tr><tr><td>Qwik</td><td><a href="https://qwik.dev/docs/advanced/vite/">Vite</a></td></tr><tr><td>Create React App</td><td>webpack + Babel，<a href="https://react.dev/blog/2025/02/14/sunsetting-create-react-app">2025 退役</a>，改推 Vite / Parcel / Rsbuild</td></tr></tbody></table>
+<p>Angular 比較特別，打包用 esbuild，dev server 用 Vite。前面說 Vite 8 以前開發時用 esbuild，那是 esbuild 包在 Vite 裡面；Angular 只拿 Vite 的 dev server，打包直接呼叫 esbuild，不走 Vite 的 Rollup。所以在 Angular 裡，Vite 只管 dev server，打包是 esbuild 自己來。Next.js + Vite 從來不是一回事，Next 只出自己的 bundler。Turbopack 跟 Parcel 也從沒兜過，兩個不相干的專案。</p>
+<p>大家都接 Vite，大概是因為它不綁特定框架。</p>
+<h2>Benchmark 呢</h2>
+<p>到 2026 年，這些工具都夠快了，速度已經不是選工具的主要考量，比較看生態、相容性跟維護狀況。而且這些 benchmark 大多是某個工具的團隊自己出的，看數字前先看是誰出的。想自己查數字，可以看：</p>
+<ul>
+<li><a href="https://github.com/rstackjs/build-tools-performance">rstackjs/build-tools-performance</a>：最全、還在持續更新的比較（Rspack、Vite、Rolldown、esbuild、webpack、Rollup、Parcel、Farm）。由 Rspack 團隊維護。</li>
+<li><a href="https://esbuild.github.io/faq/">esbuild 自己的 benchmark</a>：esbuild vs webpack / Rollup / Parcel。立場偏 esbuild，測試方式寫在 FAQ 裡，可以對照（three.js ×10：esbuild 0.39s、Parcel 14.9s、Rollup+Terser 34.1s、webpack 41.2s）。</li>
+</ul>
+<p>Vite 本身很少被單獨拿來測，因為轉換跟打包都交給前面表格裡那些工具做。</p>
+<h2>Babel 會處理 TypeScript，為什麼還要跑 tsc</h2>
+<p>當年看專案設定總覺得哪裡怪怪的，又說不上來：Babel 都會處理 TypeScript 了，旁邊怎麼還掛著一個 tsc？</p>
+<p>說穿了，轉換型別跟檢查型別是兩件事：</p>
+<ul>
+<li><strong>轉換型別</strong>（TS→JS）：把 TS 轉成能跑的 JS，型別直接拿掉。Babel、SWC、esbuild、Oxc 都會。</li>
+<li><strong>檢查型別</strong>：確認型別有沒有寫錯。很長一段時間<a href="https://esbuild.github.io/content-types/">只有 tsc 會</a>，直到 2026 年 10 月 Bun 也內建了型別檢查器 <code>bun check</code>，不過預設不會自動跑。</li>
+</ul>
+<p>所以只要設定沒把型別檢查包進去，就得另外手動跑 tsc：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>設定</th><th>轉換型別（TS→JS）</th><th>型別檢查</th><th>你要跑</th></tr></thead><tbody><tr><td><strong>Next.js</strong></td><td>SWC，內建</td><td><code>next build</code> 幫你跑 tsc</td><td>不用</td></tr><tr><td><strong>Vite</strong></td><td>內建；原本是 esbuild，<a href="https://vite.dev/guide/migration">Vite 8</a>（2026-03）起換成 Oxc</td><td>沒包</td><td><code>tsc --noEmit</code>（Vue 專案常見 <code>vue-tsc -b &#x26;&#x26; vite build</code>）</td></tr><tr><td><strong>Bun</strong></td><td>內建</td><td>原本沒包；<a href="https://bun.com/blog/bun-v1.4.3">v1.4.3</a>（2026-10）起有 <code>bun check</code>，run、build、test 也可以加 <code>--check</code>，但預設不跑</td><td>原本是 <code>tsc --noEmit</code>，現在可以改用 <code>bun check</code></td></tr><tr><td><strong>Babel + Webpack</strong>（當年的我）</td><td><code>@babel/preset-typescript</code></td><td>沒包</td><td>另外跑 <code>tsc --noEmit</code></td></tr><tr><td><strong>只用 tsc</strong>（小 lib）</td><td>tsc</td><td>tsc，同一次</td><td><code>tsc</code>，兩件一起，但不打包</td></tr></tbody></table>
+<p><code>tsc</code> 單獨跑會做<strong>兩件事</strong>，檢查型別<strong>加</strong>吐出 <code>.js</code>。<code>tsc --noEmit</code> 是同一個檢查，只是把輸出關掉。現代設定用 <code>--noEmit</code>，是因為 <code>.js</code> 已經有更快的工具生好了，只需要 tsc 的檢查，不需要它比較慢的輸出。</p>
+<p>Next.js 就是最寵你的那個：它把全部包起來，你只看到 <code>next build</code> :)</p>
+<h2>then Bun</h2>
+<p>Bun 是另一個跟 Node 打對台的 runtime，一開始用一個叫 Zig 的語言寫，<a href="https://bun.com/blog/bun-v1.0">2023 年就 1.0 了</a>。而它自己現在也在從 Zig 換成 Rust，<a href="https://www.theregister.com/devops/2026/05/14/anthropics-bun-rust-rewrite-merged-at-speed-of-ai/">2026 年 5 月剛把核心重寫進 main</a>。</p>
+<h2>then</h2>
+<p>有個叫 <a href="https://oxc.rs/">Oxc</a> 的專案，Boshen 在做，想法更進一步：與其每個工具各自 parse 一遍，不如 parse 一次、大家共用同一棵 AST。目前 parser、linter（oxlint）、transformer 都出來了，Rolldown 底層的 parser 也已經用 Oxc。要是成了，現在 SWC、Oxc 各有一套 parser 的狀況，可能哪天又可以面臨大一統。</p>
+<h2>編年史</h2>
+<pre><code>~2015    Babel + Webpack + Terser 成形（JS 處理 JS）
+2017     SWC 開工（DongYoon Kang），還沒人用
+2018     Terser 取代 UglifyJS 當預設 minifier
+2020     esbuild（Go）出現；Vite 出現（dev=esbuild、prod=Rollup）
+2021-08  Kang 進 Vercel（Next 11.1）
+2021-10  Next.js 12：SWC 換掉 Babel
+2022     SWC minify 進 Next（v13 預設）
+2023-09  Bun 1.0（那時還是 Zig）
+2023-10  Rolldown 宣布（Rust port of Rollup）
+2024-02  Remix 改用 Vite
+2024-10  Next.js 15：Turbopack 的 next dev 穩定
+2025-02  Create React App 退役
+2025-10  Next.js 16：Turbopack 連 build 也變預設
+2026-03  Vite 8：Rolldown 當預設，esbuild 換成 Oxc + Rolldown
+2026-05  Bun 核心 Zig→Rust
+2026-10  Bun 1.4.3：內建型別檢查 bun check
+</code></pre>
+<h2>所以呢</h2>
+<p>那個黑盒子裡到底發生了什麼？整層工具從 JavaScript 換成原生執行檔、架構重新設計，也開始用多核心，所以快很多。</p>
+<p>至於『Rust 比較快』到底是不是真的，我跑了 benchmark 量量看。結果有時打平，也有兩次 Node 反而比較快，不過多數時候是 Rust 快三倍上下。<a href="https://swc.rs/">SWC 官網</a>說的 20 到 70 倍，量下來大半來自四核心跟兩個程式的架構差，不是 Rust 這個語言。完整的過程跟每一張圖，我寫成另一篇了：<a href="/v2/why-rust-is-faster-i-benchmarked-it">Rust 比 Node 快多少？我量了七種情境</a>。每個原因單獨的數字在這：<a href="https://scotch.jialin00.com/benchmark/rust-vs-v8">Rust vs V8</a>。</p>
+<h2>References</h2>
+<ul>
+<li>SWC 作者 DongYoon Kang（kdy1）：<a href="https://github.com/kdy1">https://github.com/kdy1</a></li>
+<li>SWC 比 Babel 快 20–70x：<a href="https://swc.rs/">https://swc.rs/</a></li>
+<li>Next.js 12 預設 SWC（2021-10）：<a href="https://nextjs.org/blog/next-12">https://nextjs.org/blog/next-12</a></li>
+<li>DongYoon Kang 加入 Vercel（Next 11.1, 2021-08）：<a href="https://nextjs.org/blog/next-11-1">https://nextjs.org/blog/next-11-1</a></li>
+<li>Turbopack（Tobias Koppers / Vercel / Rust / SWC）：<a href="https://vercel.com/blog/turbopack">https://vercel.com/blog/turbopack</a></li>
+<li>Turbopack <code>next dev</code> 穩定（Next 15, 2024-10）：<a href="https://nextjs.org/blog/next-15">https://nextjs.org/blog/next-15</a></li>
+<li>Turbopack 連 build 也變預設（Next 16, 2025-10）：<a href="https://nextjs.org/blog/next-16">https://nextjs.org/blog/next-16</a></li>
+<li>esbuild（Go, Evan Wallace）：<a href="https://esbuild.github.io/">https://esbuild.github.io/</a></li>
+<li>Vite（dev=esbuild, prod=Rollup）：<a href="https://vite.dev/guide/why">https://vite.dev/guide/why</a></li>
+<li>Rolldown（Rust port of Rollup）：<a href="https://voidzero.dev/posts/announcing-rolldown-1-0">https://voidzero.dev/posts/announcing-rolldown-1-0</a></li>
+<li>Vite 8 預設 Rolldown（2026-03）：<a href="https://vite.dev/blog/announcing-vite8">https://vite.dev/blog/announcing-vite8</a></li>
+<li>Vite 8 以 Oxc、Rolldown 取代 esbuild：<a href="https://vite.dev/guide/migration">https://vite.dev/guide/migration</a></li>
+<li>Bun 1.4.3 <code>bun check</code>（2026-10）：<a href="https://bun.com/blog/bun-v1.4.3">https://bun.com/blog/bun-v1.4.3</a></li>
+<li>SWC minify 為 Next.js 預設（v13 起）：<a href="https://nextjs.org/docs/architecture/nextjs-compiler">https://nextjs.org/docs/architecture/nextjs-compiler</a></li>
+<li>快工具不做型別檢查、需要 tsc：<a href="https://esbuild.github.io/content-types/">https://esbuild.github.io/content-types/</a></li>
+<li>Bun 1.0（2023-09）：<a href="https://bun.com/blog/bun-v1.0">https://bun.com/blog/bun-v1.0</a></li>
+<li>Bun 核心 Zig → Rust（PR #30412, 2026-05）：<a href="https://www.theregister.com/devops/2026/05/14/anthropics-bun-rust-rewrite-merged-at-speed-of-ai/">https://www.theregister.com/devops/2026/05/14/anthropics-bun-rust-rewrite-merged-at-speed-of-ai/</a> （核心語言現況以 GitHub 語言統計確認：<a href="https://api.github.com/repos/oven-sh/bun/languages%EF%BC%89">https://api.github.com/repos/oven-sh/bun/languages）</a></li>
+<li>Oxc：<a href="https://oxc.rs/">https://oxc.rs/</a></li>
+<li>build 工具 benchmark（多工具、Rspack 團隊維護）：<a href="https://github.com/rstackjs/build-tools-performance">https://github.com/rstackjs/build-tools-performance</a></li>
+<li>Remix 改用 Vite（v2.7.0）：<a href="https://remix.run/blog/remix-vite-stable">https://remix.run/blog/remix-vite-stable</a></li>
+<li>React Router v7 modes（framework mode = Vite）：<a href="https://reactrouter.com/start/modes">https://reactrouter.com/start/modes</a></li>
+<li>Vue create-vue（Vite）：<a href="https://github.com/vuejs/create-vue">https://github.com/vuejs/create-vue</a></li>
+<li>Nuxt 預設 builder（Vite）：<a href="https://nuxt.com/docs/getting-started/introduction">https://nuxt.com/docs/getting-started/introduction</a></li>
+<li>SvelteKit on Vite：<a href="https://svelte.dev/docs/kit/introduction">https://svelte.dev/docs/kit/introduction</a></li>
+<li>Astro on Vite（Astro 6）：<a href="https://astro.build/blog/astro-6/">https://astro.build/blog/astro-6/</a></li>
+<li>Angular build system（esbuild + Vite）：<a href="https://angular.dev/tools/cli/build-system-migration">https://angular.dev/tools/cli/build-system-migration</a></li>
+<li>SolidStart（Vite via Vinxi）：<a href="https://docs.solidjs.com/solid-start/getting-started">https://docs.solidjs.com/solid-start/getting-started</a></li>
+<li>Qwik on Vite：<a href="https://qwik.dev/docs/advanced/vite/">https://qwik.dev/docs/advanced/vite/</a></li>
+<li>Create React App 退役（2025-02）：<a href="https://react.dev/blog/2025/02/14/sunsetting-create-react-app">https://react.dev/blog/2025/02/14/sunsetting-create-react-app</a></li>
+</ul>15:T3424,
+我學前端是 2018 那年。那時候還在吵 React、Vue、Angular，各有各的擁護者。
+
+框架本身其實還好，因為怎麼寫怎麼組裝 HTML，官方文件裡都有；麻煩的是它們底下那一坨 build 設定：webpack 的 config、一個接一個的 loader、babel 要配哪些 preset。那時候學前端真的是狂看官方文件，而且特殊 loader 一來又整個重來，超煩的。對，還有 plugin，看情況裝。
+
+然後 Next.js 出現了。它把那一整層包起來。我不用再寫 webpack config，不用再排 loader 順序，`create-next-app` 完直接就會動。好爽啊。從那之後 build 對我來說就是個黑盒子，能不碰就不碰。
+
+直到 Next.js 生態系的技術文章開始冒出 SWC、Turbopack，我才想說好像應該把整個進化過程梳理一下。總不能 Next.js 讓你無後顧之憂，你還真的無後顧之憂地生存下去。
+
+## build（不管是 next build 還是別的 build）分成三個角色
+
+而且剛好就是我當年手動在配的那三個：
+
+- **parse + transform**：把我寫的 TS、JSX 轉成瀏覽器能執行的 JS。當年是 Babel。
+- **bundle**：把一堆 import 拼成幾個檔。當年是 Webpack。
+- **minify**：把輸出壓小。當年是 Terser。
+
+沒在關注黑盒子這幾年，這三個都變成 Rust 了 LOL。
+
+## 從 Button.tsx 到 app.382f3f.js
+
+`Button.tsx` 到上線的檔案，中間會經過：
+
+```
+Button.tsx
+  │  parse + transform     (SWC / esbuild / Oxc / Babel)
+  │  TS → JS、JSX → JS、降新語法
+  ▼
+Button.js   (純 JS，沒有型別)
+  │  bundle                (Turbopack / Vite / Rolldown)
+  │  跟著 import 走依賴圖，拼在一起
+  ▼
+一大張 module graph
+  │  minify                (SWC / esbuild / oxc / terser)
+  │  砍空白、改短變數名、丟掉沒用到的 code
+  ▼
+app.382f3f.js    ← 382f3f 是內容 hash，拿來破快取
+
+（在旁邊，不在這條線上）
+tsc --noEmit  →  檢查型別，什麼都不輸出
+```
+
+382f3f 是用檔案內容算出來的 hash。code 一改，hash 就變，檔名跟著變，瀏覽器就會重新下載，不會用到舊的快取。
+
+## parse + transform：SWC
+
+SWC 的作者是韓國人 [DongYoon Kang](https://github.com/kdy1)，網路上叫 kdy1，大家喊他 Donny。他早在 2017 年就開始用 Rust 寫這個 Babel 的替代品，一樣做 parse + transform，只是預設會開多執行緒。官方的說法是[單執行緒比 Babel 快 20 倍，四個核心快 70 倍](https://swc.rs/)，20 倍跟 70 倍的不同來自核心數。
+
+2021 年 8 月，[Next.js 11.1](https://nextjs.org/blog/next-11-1) 的公告裡提到 Kang 加入了 Vercel；才過兩個月，[Next.js 12](https://nextjs.org/blog/next-12) 就把預設的 Babel 換成 SWC 了。
+
+## bundle：Turbopack
+
+Turbopack 是 [Webpack 的作者 Tobias Koppers 寫的，他現在也在 Vercel](https://vercel.com/blog/turbopack)。等於是原作者自己用 Rust 寫了 webpack 的後繼者，而且底層直接用 SWC。[Turbopack 的 `next dev` 在 Next.js 15](https://nextjs.org/blog/next-15)（2024 年 10 月）正式穩定，到 [Next.js 16](https://nextjs.org/blog/next-16)（2025 年 10 月）連 `next build` 都變預設了。要繼續用 webpack，就加 `--webpack`。
+
+## minify：也是 SWC
+
+Next.js 從 [v13](https://nextjs.org/docs/architecture/nextjs-compiler) 起連壓縮都預設走 SWC。我以前為了省幾 KB 在調的那些 minify 設定，現在框架自己決定了。
+
+## 還有 Vite 好像滿紅的
+
+Vite 2020 年出來，開發時用 [esbuild](https://esbuild.github.io/)（Go 寫的，作者是 Figma 的 Evan Wallace），[正式打包時用 Rollup](https://vite.dev/guide/why)。後來 Rollup 也被 Rust 重寫成 [Rolldown](https://voidzero.dev/posts/announcing-rolldown-1-0)，2026 年 3 月 [Vite 8](https://vite.dev/blog/announcing-vite8) 直接拿它當預設，連開發時用的 esbuild 也[一起換掉了](https://vite.dev/guide/migration)：
+
+| Vite 內部的工作 | Vite 8 以前 | Vite 8（2026-03）起 |
+|---|---|---|
+| 轉換 TS、JSX | esbuild | Oxc |
+| dev server 啟動時，先把 node_modules 打包好 | esbuild | Rolldown |
+| 正式打包 | Rollup | Rolldown |
+
+## 各框架預設用什麼：除了 Next.js，幾乎都是 Vite
+
+幾乎每個框架預設都用 Vite，只有 Next.js 自己用 Turbopack。
+
+| 框架 | 預設 build 工具 |
+|---|---|
+| **Next.js** | Turbopack（v16 起 dev 跟 build 都預設，要用 webpack 加 `--webpack`） |
+| Remix | Vite（[v2.7.0, 2024](https://remix.run/blog/remix-vite-stable)） |
+| React Router v7 | Vite（[framework mode](https://reactrouter.com/start/modes)；Remix 併進來了） |
+| Vue（create-vue） | Vite（[Evan You 兩個都做的](https://github.com/vuejs/create-vue)） |
+| Nuxt | [Vite](https://nuxt.com/docs/getting-started/introduction)（webpack / rspack 可選） |
+| SvelteKit | [Vite](https://svelte.dev/docs/kit/introduction) |
+| Astro | [Vite](https://astro.build/blog/astro-6/) |
+| Angular（v17+） | [esbuild 打包 + Vite 當 dev server](https://angular.dev/tools/cli/build-system-migration) |
+| SolidStart | [Vite（透過 Vinxi）](https://docs.solidjs.com/solid-start/getting-started) |
+| Qwik | [Vite](https://qwik.dev/docs/advanced/vite/) |
+| Create React App | webpack + Babel，[2025 退役](https://react.dev/blog/2025/02/14/sunsetting-create-react-app)，改推 Vite / Parcel / Rsbuild |
+
+Angular 比較特別，打包用 esbuild，dev server 用 Vite。前面說 Vite 8 以前開發時用 esbuild，那是 esbuild 包在 Vite 裡面；Angular 只拿 Vite 的 dev server，打包直接呼叫 esbuild，不走 Vite 的 Rollup。所以在 Angular 裡，Vite 只管 dev server，打包是 esbuild 自己來。Next.js + Vite 從來不是一回事，Next 只出自己的 bundler。Turbopack 跟 Parcel 也從沒兜過，兩個不相干的專案。
+
+大家都接 Vite，大概是因為它不綁特定框架。
+
+## Benchmark 呢
+
+到 2026 年，這些工具都夠快了，速度已經不是選工具的主要考量，比較看生態、相容性跟維護狀況。而且這些 benchmark 大多是某個工具的團隊自己出的，看數字前先看是誰出的。想自己查數字，可以看：
+
+- [rstackjs/build-tools-performance](https://github.com/rstackjs/build-tools-performance)：最全、還在持續更新的比較（Rspack、Vite、Rolldown、esbuild、webpack、Rollup、Parcel、Farm）。由 Rspack 團隊維護。
+- [esbuild 自己的 benchmark](https://esbuild.github.io/faq/)：esbuild vs webpack / Rollup / Parcel。立場偏 esbuild，測試方式寫在 FAQ 裡，可以對照（three.js ×10：esbuild 0.39s、Parcel 14.9s、Rollup+Terser 34.1s、webpack 41.2s）。
+
+Vite 本身很少被單獨拿來測，因為轉換跟打包都交給前面表格裡那些工具做。
+
+## Babel 會處理 TypeScript，為什麼還要跑 tsc
+
+當年看專案設定總覺得哪裡怪怪的，又說不上來：Babel 都會處理 TypeScript 了，旁邊怎麼還掛著一個 tsc？
+
+說穿了，轉換型別跟檢查型別是兩件事：
+
+- **轉換型別**（TS→JS）：把 TS 轉成能跑的 JS，型別直接拿掉。Babel、SWC、esbuild、Oxc 都會。
+- **檢查型別**：確認型別有沒有寫錯。很長一段時間[只有 tsc 會](https://esbuild.github.io/content-types/)，直到 2026 年 10 月 Bun 也內建了型別檢查器 `bun check`，不過預設不會自動跑。
+
+所以只要設定沒把型別檢查包進去，就得另外手動跑 tsc：
+
+| 設定 | 轉換型別（TS→JS） | 型別檢查 | 你要跑 |
+|---|---|---|---|
+| **Next.js** | SWC，內建 | `next build` 幫你跑 tsc | 不用 |
+| **Vite** | 內建；原本是 esbuild，[Vite 8](https://vite.dev/guide/migration)（2026-03）起換成 Oxc | 沒包 | `tsc --noEmit`（Vue 專案常見 `vue-tsc -b && vite build`） |
+| **Bun** | 內建 | 原本沒包；[v1.4.3](https://bun.com/blog/bun-v1.4.3)（2026-10）起有 `bun check`，run、build、test 也可以加 `--check`，但預設不跑 | 原本是 `tsc --noEmit`，現在可以改用 `bun check` |
+| **Babel + Webpack**（當年的我） | `@babel/preset-typescript` | 沒包 | 另外跑 `tsc --noEmit` |
+| **只用 tsc**（小 lib） | tsc | tsc，同一次 | `tsc`，兩件一起，但不打包 |
+
+`tsc` 單獨跑會做**兩件事**，檢查型別**加**吐出 `.js`。`tsc --noEmit` 是同一個檢查，只是把輸出關掉。現代設定用 `--noEmit`，是因為 `.js` 已經有更快的工具生好了，只需要 tsc 的檢查，不需要它比較慢的輸出。
+
+Next.js 就是最寵你的那個：它把全部包起來，你只看到 `next build` :)
+
+## then Bun
+
+Bun 是另一個跟 Node 打對台的 runtime，一開始用一個叫 Zig 的語言寫，[2023 年就 1.0 了](https://bun.com/blog/bun-v1.0)。而它自己現在也在從 Zig 換成 Rust，[2026 年 5 月剛把核心重寫進 main](https://www.theregister.com/devops/2026/05/14/anthropics-bun-rust-rewrite-merged-at-speed-of-ai/)。
+
+## then
+
+有個叫 [Oxc](https://oxc.rs/) 的專案，Boshen 在做，想法更進一步：與其每個工具各自 parse 一遍，不如 parse 一次、大家共用同一棵 AST。目前 parser、linter（oxlint）、transformer 都出來了，Rolldown 底層的 parser 也已經用 Oxc。要是成了，現在 SWC、Oxc 各有一套 parser 的狀況，可能哪天又可以面臨大一統。
+
+## 編年史
+
+```
+~2015    Babel + Webpack + Terser 成形（JS 處理 JS）
+2017     SWC 開工（DongYoon Kang），還沒人用
+2018     Terser 取代 UglifyJS 當預設 minifier
+2020     esbuild（Go）出現；Vite 出現（dev=esbuild、prod=Rollup）
+2021-08  Kang 進 Vercel（Next 11.1）
+2021-10  Next.js 12：SWC 換掉 Babel
+2022     SWC minify 進 Next（v13 預設）
+2023-09  Bun 1.0（那時還是 Zig）
+2023-10  Rolldown 宣布（Rust port of Rollup）
+2024-02  Remix 改用 Vite
+2024-10  Next.js 15：Turbopack 的 next dev 穩定
+2025-02  Create React App 退役
+2025-10  Next.js 16：Turbopack 連 build 也變預設
+2026-03  Vite 8：Rolldown 當預設，esbuild 換成 Oxc + Rolldown
+2026-05  Bun 核心 Zig→Rust
+2026-10  Bun 1.4.3：內建型別檢查 bun check
+```
+
+## 所以呢
+
+那個黑盒子裡到底發生了什麼？整層工具從 JavaScript 換成原生執行檔、架構重新設計，也開始用多核心，所以快很多。
+
+至於『Rust 比較快』到底是不是真的，我跑了 benchmark 量量看。結果有時打平，也有兩次 Node 反而比較快，不過多數時候是 Rust 快三倍上下。[SWC 官網](https://swc.rs/)說的 20 到 70 倍，量下來大半來自四核心跟兩個程式的架構差，不是 Rust 這個語言。完整的過程跟每一張圖，我寫成另一篇了：[Rust 比 Node 快多少？我量了七種情境](/v2/why-rust-is-faster-i-benchmarked-it)。每個原因單獨的數字在這：[Rust vs V8](https://scotch.jialin00.com/benchmark/rust-vs-v8)。
+
+## References
+
+- SWC 作者 DongYoon Kang（kdy1）：https://github.com/kdy1
+- SWC 比 Babel 快 20–70x：https://swc.rs/
+- Next.js 12 預設 SWC（2021-10）：https://nextjs.org/blog/next-12
+- DongYoon Kang 加入 Vercel（Next 11.1, 2021-08）：https://nextjs.org/blog/next-11-1
+- Turbopack（Tobias Koppers / Vercel / Rust / SWC）：https://vercel.com/blog/turbopack
+- Turbopack `next dev` 穩定（Next 15, 2024-10）：https://nextjs.org/blog/next-15
+- Turbopack 連 build 也變預設（Next 16, 2025-10）：https://nextjs.org/blog/next-16
+- esbuild（Go, Evan Wallace）：https://esbuild.github.io/
+- Vite（dev=esbuild, prod=Rollup）：https://vite.dev/guide/why
+- Rolldown（Rust port of Rollup）：https://voidzero.dev/posts/announcing-rolldown-1-0
+- Vite 8 預設 Rolldown（2026-03）：https://vite.dev/blog/announcing-vite8
+- Vite 8 以 Oxc、Rolldown 取代 esbuild：https://vite.dev/guide/migration
+- Bun 1.4.3 `bun check`（2026-10）：https://bun.com/blog/bun-v1.4.3
+- SWC minify 為 Next.js 預設（v13 起）：https://nextjs.org/docs/architecture/nextjs-compiler
+- 快工具不做型別檢查、需要 tsc：https://esbuild.github.io/content-types/
+- Bun 1.0（2023-09）：https://bun.com/blog/bun-v1.0
+- Bun 核心 Zig → Rust（PR #30412, 2026-05）：https://www.theregister.com/devops/2026/05/14/anthropics-bun-rust-rewrite-merged-at-speed-of-ai/ （核心語言現況以 GitHub 語言統計確認：https://api.github.com/repos/oven-sh/bun/languages）
+- Oxc：https://oxc.rs/
+- build 工具 benchmark（多工具、Rspack 團隊維護）：https://github.com/rstackjs/build-tools-performance
+- Remix 改用 Vite（v2.7.0）：https://remix.run/blog/remix-vite-stable
+- React Router v7 modes（framework mode = Vite）：https://reactrouter.com/start/modes
+- Vue create-vue（Vite）：https://github.com/vuejs/create-vue
+- Nuxt 預設 builder（Vite）：https://nuxt.com/docs/getting-started/introduction
+- SvelteKit on Vite：https://svelte.dev/docs/kit/introduction
+- Astro on Vite（Astro 6）：https://astro.build/blog/astro-6/
+- Angular build system（esbuild + Vite）：https://angular.dev/tools/cli/build-system-migration
+- SolidStart（Vite via Vinxi）：https://docs.solidjs.com/solid-start/getting-started
+- Qwik on Vite：https://qwik.dev/docs/advanced/vite/
+- Create React App 退役（2025-02）：https://react.dev/blog/2025/02/14/sunsetting-create-react-app
+16:T4768,LS0tCnRpdGxlOiAiUnVzdCBhdGUuIgpjcmVhdGVkQXQ6IDIwMjYtMDUtMTRUMDA6MDA6MDAKdGFnczogW2Zyb250ZW5kLCBidWlsZC10b29scywgYnVuZGxlciwgdHJhbnNmb3JtZXIsIHJ1c3QsIHZpdGUsIG5leHRqc10KZGVzY3JpcHRpb246ICLmiJEgMjAxOCDlrbjliY3nq6/vvIzooqsgd2VicGFjayDot58gYmFiZWwg6Kit5a6a5oqY56Oo6YGO77yM54S25b6MIE5leHQuanMg5oqK6YCZ5bGk6JeP6LW35L6G44CC5oiR5rKS5Zyo55yL55qE6YKj5bm+5bm077yM5pW05bGk6KKr5Lq655SoIFJ1c3Qg6YeN5a+r5LqG44CC5LiA56+H6KGA5rea5Y+y77yM5Yqg5LiA5by1IDIwMjYg6Kqw55So5LuA6bq855qE5Zyw5ZyW44CCIgotLS0KCuaIkeWtuOWJjeerr+aYryAyMDE4IOmCo+W5tOOAgumCo+aZguWAmemChOWcqOWQtSBSZWFjdOOAgVZ1ZeOAgUFuZ3VsYXLvvIzlkITmnInlkITnmoTmk4HorbfogIXjgIIKCuahhuaetuacrOi6q+WFtuWvpumChOWlve+8jOWboOeCuuaAjum6vOWvq+aAjum6vOe1hOijnSBIVE1M77yM5a6Y5pa55paH5Lu26KOh6YO95pyJ77yb6bq754Wp55qE5piv5a6D5YCR5bqV5LiL6YKj5LiA5Z2oIGJ1aWxkIOioreWumu+8mndlYnBhY2sg55qEIGNvbmZpZ+OAgeS4gOWAi+aOpeS4gOWAi+eahCBsb2FkZXLjgIFiYWJlbCDopoHphY3lk6rkupsgcHJlc2V044CC6YKj5pmC5YCZ5a245YmN56uv55yf55qE5piv54uC55yL5a6Y5pa55paH5Lu277yM6ICM5LiU54m55q6KIGxvYWRlciDkuIDkvoblj4jmlbTlgIvph43kvobvvIzotoXnhannmoTjgILlsI3vvIzpgoTmnIkgcGx1Z2lu77yM55yL5oOF5rOB6KOd44CCCgrnhLblvowgTmV4dC5qcyDlh7rnj77kuobjgILlroPmiorpgqPkuIDmlbTlsaTljIXotbfkvobjgILmiJHkuI3nlKjlho3lr6sgd2VicGFjayBjb25maWfvvIzkuI3nlKjlho3mjpIgbG9hZGVyIOmghuW6j++8jGBjcmVhdGUtbmV4dC1hcHBgIOWujOebtOaOpeWwseacg+WLleOAguWlveeIveWViuOAguW+numCo+S5i+W+jCBidWlsZCDlsI3miJHkvoboqqrlsLHmmK/lgIvpu5Hnm5LlrZDvvIzog73kuI3norDlsLHkuI3norDjgIIKCuebtOWIsCBOZXh0LmpzIOeUn+aFi+ezu+eahOaKgOihk+aWh+eroOmWi+Wni+WGkuWHuiBTV0PjgIFUdXJib3BhY2vvvIzmiJHmiY3mg7Poqqrlpb3lg4/mh4noqbLmiormlbTlgIvpgLLljJbpgY7nqIvmorPnkIbkuIDkuIvjgILnuL3kuI3og70gTmV4dC5qcyDorpPkvaDnhKHlvozpoafkuYvmhoLvvIzkvaDpgoTnnJ/nmoTnhKHlvozpoafkuYvmhoLlnLDnlJ/lrZjkuIvljrvjgIIKCiMjIGJ1aWxk77yI5LiN566h5pivIG5leHQgYnVpbGQg6YKE5piv5Yil55qEIGJ1aWxk77yJ5YiG5oiQ5LiJ5YCL6KeS6ImyCgrogIzkuJTliZvlpb3lsLHmmK/miJHnlbblubTmiYvli5XlnKjphY3nmoTpgqPkuInlgIvvvJoKCi0gKipwYXJzZSArIHRyYW5zZm9ybSoq77ya5oqK5oiR5a+r55qEIFRT44CBSlNYIOi9ieaIkOeAj+imveWZqOiDveWft+ihjOeahCBKU+OAgueVtuW5tOaYryBCYWJlbOOAggotICoqYnVuZGxlKirvvJrmiorkuIDloIYgaW1wb3J0IOaLvOaIkOW5vuWAi+aqlOOAgueVtuW5tOaYryBXZWJwYWNr44CCCi0gKiptaW5pZnkqKu+8muaKiui8uOWHuuWjk+Wwj+OAgueVtuW5tOaYryBUZXJzZXLjgIIKCuaykuWcqOmXnOazqOm7keebkuWtkOmAmeW5vuW5tO+8jOmAmeS4ieWAi+mDveiuiuaIkCBSdXN0IOS6hiBMT0zjgIIKCiMjIOW+niBCdXR0b24udHN4IOWIsCBhcHAuMzgyZjNmLmpzCgpgQnV0dG9uLnRzeGAg5Yiw5LiK57ea55qE5qqU5qGI77yM5Lit6ZaT5pyD57aT6YGO77yaCgpgYGAKQnV0dG9uLnRzeAogIOKUgiAgcGFyc2UgKyB0cmFuc2Zvcm0gICAgIChTV0MgLyBlc2J1aWxkIC8gT3hjIC8gQmFiZWwpCiAg4pSCICBUUyDihpIgSlPjgIFKU1gg4oaSIEpT44CB6ZmN5paw6Kqe5rOVCiAg4pa8CkJ1dHRvbi5qcyAgICjntJQgSlPvvIzmspLmnInlnovliKUpCiAg4pSCICBidW5kbGUgICAgICAgICAgICAgICAgKFR1cmJvcGFjayAvIFZpdGUgLyBSb2xsZG93bikKICDilIIgIOi3n+iRlyBpbXBvcnQg6LWw5L6d6LO05ZyW77yM5ou85Zyo5LiA6LW3CiAg4pa8CuS4gOWkp+W8tSBtb2R1bGUgZ3JhcGgKICDilIIgIG1pbmlmeSAgICAgICAgICAgICAgICAoU1dDIC8gZXNidWlsZCAvIG94YyAvIHRlcnNlcikKICDilIIgIOegjeepuueZveOAgeaUueefreiuiuaVuOWQjeOAgeS4n+aOieaykueUqOWIsOeahCBjb2RlCiAg4pa8CmFwcC4zODJmM2YuanMgICAg4oaQIDM4MmYzZiDmmK/lhaflrrkgaGFzaO+8jOaLv+S+huegtOW/q+WPlgoK77yI5Zyo5peB6YKK77yM5LiN5Zyo6YCZ5qKd57ea5LiK77yJCnRzYyAtLW5vRW1pdCAg4oaSICDmqqLmn6XlnovliKXvvIzku4Dpurzpg73kuI3ovLjlh7oKYGBgCgozODJmM2Yg5piv55So5qqU5qGI5YWn5a65566X5Ye65L6G55qEIGhhc2jjgIJjb2RlIOS4gOaUue+8jGhhc2gg5bCx6K6K77yM5qqU5ZCN6Lef6JGX6K6K77yM54CP6Ka95Zmo5bCx5pyD6YeN5paw5LiL6LyJ77yM5LiN5pyD55So5Yiw6IiK55qE5b+r5Y+W44CCCgojIyBwYXJzZSArIHRyYW5zZm9ybe+8mlNXQwoKU1dDIOeahOS9nOiAheaYr+mfk+Wci+S6uiBbRG9uZ1lvb24gS2FuZ10oaHR0cHM6Ly9naXRodWIuY29tL2tkeTEp77yM57ay6Lev5LiK5Y+rIGtkeTHvvIzlpKflrrbllorku5YgRG9ubnnjgILku5bml6nlnKggMjAxNyDlubTlsLHplovlp4vnlKggUnVzdCDlr6vpgJnlgIsgQmFiZWwg55qE5pu/5Luj5ZOB77yM5LiA5qij5YGaIHBhcnNlICsgdHJhbnNmb3Jt77yM5Y+q5piv6aCQ6Kit5pyD6ZaL5aSa5Z+36KGM57eS44CC5a6Y5pa555qE6Kqq5rOV5pivW+WWruWft+ihjOe3kuavlCBCYWJlbCDlv6sgMjAg5YCN77yM5Zub5YCL5qC45b+D5b+rIDcwIOWAjV0oaHR0cHM6Ly9zd2MucnMvKe+8jDIwIOWAjei3nyA3MCDlgI3nmoTkuI3lkIzkvoboh6rmoLjlv4PmlbjjgIIKCjIwMjEg5bm0IDgg5pyI77yMW05leHQuanMgMTEuMV0oaHR0cHM6Ly9uZXh0anMub3JnL2Jsb2cvbmV4dC0xMS0xKSDnmoTlhazlkYroo6Hmj5DliLAgS2FuZyDliqDlhaXkuoYgVmVyY2Vs77yb5omN6YGO5YWp5YCL5pyI77yMW05leHQuanMgMTJdKGh0dHBzOi8vbmV4dGpzLm9yZy9ibG9nL25leHQtMTIpIOWwseaKiumgkOioreeahCBCYWJlbCDmj5vmiJAgU1dDIOS6huOAggoKIyMgYnVuZGxl77yaVHVyYm9wYWNrCgpUdXJib3BhY2sg5pivIFtXZWJwYWNrIOeahOS9nOiAhSBUb2JpYXMgS29wcGVycyDlr6vnmoTvvIzku5bnj77lnKjkuZ/lnKggVmVyY2VsXShodHRwczovL3ZlcmNlbC5jb20vYmxvZy90dXJib3BhY2sp44CC562J5pa85piv5Y6f5L2c6ICF6Ieq5bex55SoIFJ1c3Qg5a+r5LqGIHdlYnBhY2sg55qE5b6M57m86ICF77yM6ICM5LiU5bqV5bGk55u05o6l55SoIFNXQ+OAgltUdXJib3BhY2sg55qEIGBuZXh0IGRldmAg5ZyoIE5leHQuanMgMTVdKGh0dHBzOi8vbmV4dGpzLm9yZy9ibG9nL25leHQtMTUp77yIMjAyNCDlubQgMTAg5pyI77yJ5q2j5byP56mp5a6a77yM5YiwIFtOZXh0LmpzIDE2XShodHRwczovL25leHRqcy5vcmcvYmxvZy9uZXh0LTE2Ke+8iDIwMjUg5bm0IDEwIOaciO+8iemAoyBgbmV4dCBidWlsZGAg6YO96K6K6aCQ6Kit5LqG44CC6KaB57m857qM55SoIHdlYnBhY2vvvIzlsLHliqAgYC0td2VicGFja2DjgIIKCiMjIG1pbmlmee+8muS5n+aYryBTV0MKCk5leHQuanMg5b6eIFt2MTNdKGh0dHBzOi8vbmV4dGpzLm9yZy9kb2NzL2FyY2hpdGVjdHVyZS9uZXh0anMtY29tcGlsZXIpIOi1t+mAo+Wjk+e4rumDvemgkOiorei1sCBTV0PjgILmiJHku6XliY3ngrrkuobnnIHlub4gS0Ig5Zyo6Kq/55qE6YKj5LqbIG1pbmlmeSDoqK3lrprvvIznj77lnKjmoYbmnrboh6rlt7HmsbrlrprkuobjgIIKCiMjIOmChOaciSBWaXRlIOWlveWDj+a7v+e0heeahAoKVml0ZSAyMDIwIOW5tOWHuuS+hu+8jOmWi+eZvOaZgueUqCBbZXNidWlsZF0oaHR0cHM6Ly9lc2J1aWxkLmdpdGh1Yi5pby8p77yIR28g5a+r55qE77yM5L2c6ICF5pivIEZpZ21hIOeahCBFdmFuIFdhbGxhY2XvvInvvIxb5q2j5byP5omT5YyF5pmC55SoIFJvbGx1cF0oaHR0cHM6Ly92aXRlLmRldi9ndWlkZS93aHkp44CC5b6M5L6GIFJvbGx1cCDkuZ/ooqsgUnVzdCDph43lr6vmiJAgW1JvbGxkb3duXShodHRwczovL3ZvaWR6ZXJvLmRldi9wb3N0cy9hbm5vdW5jaW5nLXJvbGxkb3duLTEtMCnvvIwyMDI2IOW5tCAzIOaciCBbVml0ZSA4XShodHRwczovL3ZpdGUuZGV2L2Jsb2cvYW5ub3VuY2luZy12aXRlOCkg55u05o6l5ou/5a6D55W26aCQ6Kit77yM6YCj6ZaL55m85pmC55So55qEIGVzYnVpbGQg5LmfW+S4gOi1t+aPm+aOieS6hl0oaHR0cHM6Ly92aXRlLmRldi9ndWlkZS9taWdyYXRpb24p77yaCgp8IFZpdGUg5YWn6YOo55qE5bel5L2cIHwgVml0ZSA4IOS7peWJjSB8IFZpdGUgOO+8iDIwMjYtMDPvvInotbcgfAp8LS0tfC0tLXwtLS18Cnwg6L2J5o+bIFRT44CBSlNYIHwgZXNidWlsZCB8IE94YyB8CnwgZGV2IHNlcnZlciDllZ/li5XmmYLvvIzlhYjmioogbm9kZV9tb2R1bGVzIOaJk+WMheWlvSB8IGVzYnVpbGQgfCBSb2xsZG93biB8Cnwg5q2j5byP5omT5YyFIHwgUm9sbHVwIHwgUm9sbGRvd24gfAoKIyMg5ZCE5qGG5p626aCQ6Kit55So5LuA6bq877ya6Zmk5LqGIE5leHQuanPvvIzlub7kuY7pg73mmK8gVml0ZQoK5bm+5LmO5q+P5YCL5qGG5p626aCQ6Kit6YO955SoIFZpdGXvvIzlj6rmnIkgTmV4dC5qcyDoh6rlt7HnlKggVHVyYm9wYWNr44CCCgp8IOahhuaetiB8IOmgkOiorSBidWlsZCDlt6XlhbcgfAp8LS0tfC0tLXwKfCAqKk5leHQuanMqKiB8IFR1cmJvcGFja++8iHYxNiDotbcgZGV2IOi3nyBidWlsZCDpg73poJDoqK3vvIzopoHnlKggd2VicGFjayDliqAgYC0td2VicGFja2DvvIkgfAp8IFJlbWl4IHwgVml0Ze+8iFt2Mi43LjAsIDIwMjRdKGh0dHBzOi8vcmVtaXgucnVuL2Jsb2cvcmVtaXgtdml0ZS1zdGFibGUp77yJIHwKfCBSZWFjdCBSb3V0ZXIgdjcgfCBWaXRl77yIW2ZyYW1ld29yayBtb2RlXShodHRwczovL3JlYWN0cm91dGVyLmNvbS9zdGFydC9tb2RlcynvvJtSZW1peCDkvbXpgLLkvobkuobvvIkgfAp8IFZ1Ze+8iGNyZWF0ZS12dWXvvIkgfCBWaXRl77yIW0V2YW4gWW91IOWFqeWAi+mDveWBmueahF0oaHR0cHM6Ly9naXRodWIuY29tL3Z1ZWpzL2NyZWF0ZS12dWUp77yJIHwKfCBOdXh0IHwgW1ZpdGVdKGh0dHBzOi8vbnV4dC5jb20vZG9jcy9nZXR0aW5nLXN0YXJ0ZWQvaW50cm9kdWN0aW9uKe+8iHdlYnBhY2sgLyByc3BhY2sg5Y+v6YG477yJIHwKfCBTdmVsdGVLaXQgfCBbVml0ZV0oaHR0cHM6Ly9zdmVsdGUuZGV2L2RvY3Mva2l0L2ludHJvZHVjdGlvbikgfAp8IEFzdHJvIHwgW1ZpdGVdKGh0dHBzOi8vYXN0cm8uYnVpbGQvYmxvZy9hc3Ryby02LykgfAp8IEFuZ3VsYXLvvIh2MTcr77yJIHwgW2VzYnVpbGQg5omT5YyFICsgVml0ZSDnlbYgZGV2IHNlcnZlcl0oaHR0cHM6Ly9hbmd1bGFyLmRldi90b29scy9jbGkvYnVpbGQtc3lzdGVtLW1pZ3JhdGlvbikgfAp8IFNvbGlkU3RhcnQgfCBbVml0Ze+8iOmAj+mBjiBWaW54ae+8iV0oaHR0cHM6Ly9kb2NzLnNvbGlkanMuY29tL3NvbGlkLXN0YXJ0L2dldHRpbmctc3RhcnRlZCkgfAp8IFF3aWsgfCBbVml0ZV0oaHR0cHM6Ly9xd2lrLmRldi9kb2NzL2FkdmFuY2VkL3ZpdGUvKSB8CnwgQ3JlYXRlIFJlYWN0IEFwcCB8IHdlYnBhY2sgKyBCYWJlbO+8jFsyMDI1IOmAgOW9uV0oaHR0cHM6Ly9yZWFjdC5kZXYvYmxvZy8yMDI1LzAyLzE0L3N1bnNldHRpbmctY3JlYXRlLXJlYWN0LWFwcCnvvIzmlLnmjqggVml0ZSAvIFBhcmNlbCAvIFJzYnVpbGQgfAoKQW5ndWxhciDmr5TovIPnibnliKXvvIzmiZPljIXnlKggZXNidWlsZO+8jGRldiBzZXJ2ZXIg55SoIFZpdGXjgILliY3pnaLoqqogVml0ZSA4IOS7peWJjemWi+eZvOaZgueUqCBlc2J1aWxk77yM6YKj5pivIGVzYnVpbGQg5YyF5ZyoIFZpdGUg6KOh6Z2i77ybQW5ndWxhciDlj6rmi78gVml0ZSDnmoQgZGV2IHNlcnZlcu+8jOaJk+WMheebtOaOpeWRvOWPqyBlc2J1aWxk77yM5LiN6LWwIFZpdGUg55qEIFJvbGx1cOOAguaJgOS7peWcqCBBbmd1bGFyIOijoe+8jFZpdGUg5Y+q566hIGRldiBzZXJ2ZXLvvIzmiZPljIXmmK8gZXNidWlsZCDoh6rlt7HkvobjgIJOZXh0LmpzICsgVml0ZSDlvp7kvobkuI3mmK/kuIDlm57kuovvvIxOZXh0IOWPquWHuuiHquW3seeahCBidW5kbGVy44CCVHVyYm9wYWNrIOi3nyBQYXJjZWwg5Lmf5b6e5rKS5YWc6YGO77yM5YWp5YCL5LiN55u45bmy55qE5bCI5qGI44CCCgrlpKflrrbpg73mjqUgVml0Ze+8jOWkp+amguaYr+WboOeCuuWug+S4jee2geeJueWumuahhuaetuOAggoKIyMgQmVuY2htYXJrIOWRogoK5YiwIDIwMjYg5bm077yM6YCZ5Lqb5bel5YW36YO95aSg5b+r5LqG77yM6YCf5bqm5bey57aT5LiN5piv6YG45bel5YW355qE5Li76KaB6ICD6YeP77yM5q+U6LyD55yL55Sf5oWL44CB55u45a655oCn6Lef57at6K2354uA5rOB44CC6ICM5LiU6YCZ5LqbIGJlbmNobWFyayDlpKflpJrmmK/mn5DlgIvlt6XlhbfnmoTlnJjpmoroh6rlt7Hlh7rnmoTvvIznnIvmlbjlrZfliY3lhYjnnIvmmK/oqrDlh7rnmoTjgILmg7Poh6rlt7Hmn6XmlbjlrZfvvIzlj6/ku6XnnIvvvJoKCi0gW3JzdGFja2pzL2J1aWxkLXRvb2xzLXBlcmZvcm1hbmNlXShodHRwczovL2dpdGh1Yi5jb20vcnN0YWNranMvYnVpbGQtdG9vbHMtcGVyZm9ybWFuY2Up77ya5pyA5YWo44CB6YKE5Zyo5oyB57qM5pu05paw55qE5q+U6LyD77yIUnNwYWNr44CBVml0ZeOAgVJvbGxkb3du44CBZXNidWlsZOOAgXdlYnBhY2vjgIFSb2xsdXDjgIFQYXJjZWzjgIFGYXJt77yJ44CC55SxIFJzcGFjayDlnJjpmorntq3orbfjgIIKLSBbZXNidWlsZCDoh6rlt7HnmoQgYmVuY2htYXJrXShodHRwczovL2VzYnVpbGQuZ2l0aHViLmlvL2ZhcS8p77yaZXNidWlsZCB2cyB3ZWJwYWNrIC8gUm9sbHVwIC8gUGFyY2Vs44CC56uL5aC05YGPIGVzYnVpbGTvvIzmuKzoqabmlrnlvI/lr6vlnKggRkFRIOijoe+8jOWPr+S7peWwjeeFp++8iHRocmVlLmpzIMOXMTDvvJplc2J1aWxkIDAuMzlz44CBUGFyY2VsIDE0Ljlz44CBUm9sbHVwK1RlcnNlciAzNC4xc+OAgXdlYnBhY2sgNDEuMnPvvInjgIIKClZpdGUg5pys6Lqr5b6I5bCR6KKr5Zau542o5ou/5L6G5ris77yM5Zug54K66L2J5o+b6Lef5omT5YyF6YO95Lqk57Wm5YmN6Z2i6KGo5qC86KOh6YKj5Lqb5bel5YW35YGa44CCCgojIyBCYWJlbCDmnIPomZXnkIYgVHlwZVNjcmlwdO+8jOeCuuS7gOm6vOmChOimgei3kSB0c2MKCueVtuW5tOeci+WwiOahiOioreWumue4veimuuW+l+WTquijoeaAquaAqueahO+8jOWPiOiqquS4jeS4iuS+hu+8mkJhYmVsIOmDveacg+iZleeQhiBUeXBlU2NyaXB0IOS6hu+8jOaXgemCiuaAjum6vOmChOaOm+iRl+S4gOWAiyB0c2PvvJ8KCuiqquepv+S6hu+8jOi9ieaPm+Wei+WIpei3n+aqouafpeWei+WIpeaYr+WFqeS7tuS6i++8mgoKLSAqKui9ieaPm+Wei+WIpSoq77yIVFPihpJKU++8ie+8muaKiiBUUyDovYnmiJDog73ot5HnmoQgSlPvvIzlnovliKXnm7TmjqXmi7/mjonjgIJCYWJlbOOAgVNXQ+OAgWVzYnVpbGTjgIFPeGMg6YO95pyD44CCCi0gKirmqqLmn6XlnovliKUqKu+8mueiuuiqjeWei+WIpeacieaykuacieWvq+mMr+OAguW+iOmVt+S4gOauteaZgumWk1vlj6rmnIkgdHNjIOacg10oaHR0cHM6Ly9lc2J1aWxkLmdpdGh1Yi5pby9jb250ZW50LXR5cGVzLynvvIznm7TliLAgMjAyNiDlubQgMTAg5pyIIEJ1biDkuZ/lhaflu7rkuoblnovliKXmqqLmn6XlmaggYGJ1biBjaGVja2DvvIzkuI3pgY7poJDoqK3kuI3mnIPoh6rli5Xot5HjgIIKCuaJgOS7peWPquimgeioreWumuaykuaKiuWei+WIpeaqouafpeWMhemAsuWOu++8jOWwseW+l+WPpuWkluaJi+WLlei3kSB0c2PvvJoKCnwg6Kit5a6aIHwg6L2J5o+b5Z6L5Yil77yIVFPihpJKU++8iSB8IOWei+WIpeaqouafpSB8IOS9oOimgei3kSB8CnwtLS18LS0tfC0tLXwtLS18CnwgKipOZXh0LmpzKiogfCBTV0PvvIzlhaflu7ogfCBgbmV4dCBidWlsZGAg5bmr5L2g6LeRIHRzYyB8IOS4jeeUqCB8CnwgKipWaXRlKiogfCDlhaflu7rvvJvljp/mnKzmmK8gZXNidWlsZO+8jFtWaXRlIDhdKGh0dHBzOi8vdml0ZS5kZXYvZ3VpZGUvbWlncmF0aW9uKe+8iDIwMjYtMDPvvInotbfmj5vmiJAgT3hjIHwg5rKS5YyFIHwgYHRzYyAtLW5vRW1pdGDvvIhWdWUg5bCI5qGI5bi46KaLIGB2dWUtdHNjIC1iICYmIHZpdGUgYnVpbGRg77yJIHwKfCAqKkJ1bioqIHwg5YWn5bu6IHwg5Y6f5pys5rKS5YyF77ybW3YxLjQuM10oaHR0cHM6Ly9idW4uY29tL2Jsb2cvYnVuLXYxLjQuMynvvIgyMDI2LTEw77yJ6LW35pyJIGBidW4gY2hlY2tg77yMcnVu44CBYnVpbGTjgIF0ZXN0IOS5n+WPr+S7peWKoCBgLS1jaGVja2DvvIzkvYbpoJDoqK3kuI3ot5EgfCDljp/mnKzmmK8gYHRzYyAtLW5vRW1pdGDvvIznj77lnKjlj6/ku6XmlLnnlKggYGJ1biBjaGVja2AgfAp8ICoqQmFiZWwgKyBXZWJwYWNrKirvvIjnlbblubTnmoTmiJHvvIkgfCBgQGJhYmVsL3ByZXNldC10eXBlc2NyaXB0YCB8IOaykuWMhSB8IOWPpuWklui3kSBgdHNjIC0tbm9FbWl0YCB8CnwgKirlj6rnlKggdHNjKirvvIjlsI8gbGli77yJIHwgdHNjIHwgdHNj77yM5ZCM5LiA5qyhIHwgYHRzY2DvvIzlhanku7bkuIDotbfvvIzkvYbkuI3miZPljIUgfAoKYHRzY2Ag5Zau542o6LeR5pyD5YGaKirlhanku7bkuosqKu+8jOaqouafpeWei+WIpSoq5YqgKirlkJDlh7ogYC5qc2DjgIJgdHNjIC0tbm9FbWl0YCDmmK/lkIzkuIDlgIvmqqLmn6XvvIzlj6rmmK/miorovLjlh7rpl5zmjonjgILnj77ku6PoqK3lrprnlKggYC0tbm9FbWl0YO+8jOaYr+WboOeCuiBgLmpzYCDlt7LntpPmnInmm7Tlv6vnmoTlt6XlhbfnlJ/lpb3kuobvvIzlj6rpnIDopoEgdHNjIOeahOaqouafpe+8jOS4jemcgOimgeWug+avlOi8g+aFoueahOi8uOWHuuOAggoKTmV4dC5qcyDlsLHmmK/mnIDlr7XkvaDnmoTpgqPlgIvvvJrlroPmiorlhajpg6jljIXotbfkvobvvIzkvaDlj6rnnIvliLAgYG5leHQgYnVpbGRgIDopCgojIyB0aGVuIEJ1bgoKQnVuIOaYr+WPpuS4gOWAi+i3nyBOb2RlIOaJk+WwjeWPsOeahCBydW50aW1l77yM5LiA6ZaL5aeL55So5LiA5YCL5Y+rIFppZyDnmoToqp7oqIDlr6vvvIxbMjAyMyDlubTlsLEgMS4wIOS6hl0oaHR0cHM6Ly9idW4uY29tL2Jsb2cvYnVuLXYxLjAp44CC6ICM5a6D6Ieq5bex54++5Zyo5Lmf5Zyo5b6eIFppZyDmj5vmiJAgUnVzdO+8jFsyMDI2IOW5tCA1IOaciOWJm+aKiuaguOW/g+mHjeWvq+mAsiBtYWluXShodHRwczovL3d3dy50aGVyZWdpc3Rlci5jb20vZGV2b3BzLzIwMjYvMDUvMTQvYW50aHJvcGljcy1idW4tcnVzdC1yZXdyaXRlLW1lcmdlZC1hdC1zcGVlZC1vZi1haS8p44CCCgojIyB0aGVuCgrmnInlgIvlj6sgW094Y10oaHR0cHM6Ly9veGMucnMvKSDnmoTlsIjmoYjvvIxCb3NoZW4g5Zyo5YGa77yM5oOz5rOV5pu06YCy5LiA5q2l77ya6IiH5YW25q+P5YCL5bel5YW35ZCE6IeqIHBhcnNlIOS4gOmBje+8jOS4jeWmgiBwYXJzZSDkuIDmrKHjgIHlpKflrrblhbHnlKjlkIzkuIDmo7UgQVNU44CC55uu5YmNIHBhcnNlcuOAgWxpbnRlcu+8iG94bGludO+8ieOAgXRyYW5zZm9ybWVyIOmDveWHuuS+huS6hu+8jFJvbGxkb3duIOW6leWxpOeahCBwYXJzZXIg5Lmf5bey57aT55SoIE94Y+OAguimgeaYr+aIkOS6hu+8jOePvuWcqCBTV0PjgIFPeGMg5ZCE5pyJ5LiA5aWXIHBhcnNlciDnmoTni4Dms4HvvIzlj6/og73lk6rlpKnlj4jlj6/ku6XpnaLoh6jlpKfkuIDntbHjgIIKCiMjIOe3qOW5tOWPsgoKYGBgCn4yMDE1ICAgIEJhYmVsICsgV2VicGFjayArIFRlcnNlciDmiJDlvaLvvIhKUyDomZXnkIYgSlPvvIkKMjAxNyAgICAgU1dDIOmWi+W3pe+8iERvbmdZb29uIEthbmfvvInvvIzpgoTmspLkurrnlKgKMjAxOCAgICAgVGVyc2VyIOWPluS7oyBVZ2xpZnlKUyDnlbbpoJDoqK0gbWluaWZpZXIKMjAyMCAgICAgZXNidWlsZO+8iEdv77yJ5Ye654++77ybVml0ZSDlh7rnj77vvIhkZXY9ZXNidWlsZOOAgXByb2Q9Um9sbHVw77yJCjIwMjEtMDggIEthbmcg6YCyIFZlcmNlbO+8iE5leHQgMTEuMe+8iQoyMDIxLTEwICBOZXh0LmpzIDEy77yaU1dDIOaPm+aOiSBCYWJlbAoyMDIyICAgICBTV0MgbWluaWZ5IOmAsiBOZXh077yIdjEzIOmgkOiore+8iQoyMDIzLTA5ICBCdW4gMS4w77yI6YKj5pmC6YKE5pivIFppZ++8iQoyMDIzLTEwICBSb2xsZG93biDlrqPluIPvvIhSdXN0IHBvcnQgb2YgUm9sbHVw77yJCjIwMjQtMDIgIFJlbWl4IOaUueeUqCBWaXRlCjIwMjQtMTAgIE5leHQuanMgMTXvvJpUdXJib3BhY2sg55qEIG5leHQgZGV2IOepqeWumgoyMDI1LTAyICBDcmVhdGUgUmVhY3QgQXBwIOmAgOW9uQoyMDI1LTEwICBOZXh0LmpzIDE277yaVHVyYm9wYWNrIOmAoyBidWlsZCDkuZ/ororpoJDoqK0KMjAyNi0wMyAgVml0ZSA477yaUm9sbGRvd24g55W26aCQ6Kit77yMZXNidWlsZCDmj5vmiJAgT3hjICsgUm9sbGRvd24KMjAyNi0wNSAgQnVuIOaguOW/gyBaaWfihpJSdXN0CjIwMjYtMTAgIEJ1biAxLjQuM++8muWFp+W7uuWei+WIpeaqouafpSBidW4gY2hlY2sKYGBgCgojIyDmiYDku6XlkaIKCumCo+WAi+m7keebkuWtkOijoeWIsOW6leeZvOeUn+S6huS7gOm6vO+8n+aVtOWxpOW3peWFt+W+niBKYXZhU2NyaXB0IOaPm+aIkOWOn+eUn+Wft+ihjOaqlOOAgeaetuani+mHjeaWsOioreioiO+8jOS5n+mWi+Wni+eUqOWkmuaguOW/g++8jOaJgOS7peW/q+W+iOWkmuOAggoK6Iez5pa844COUnVzdCDmr5TovIPlv6vjgI/liLDlupXmmK/kuI3mmK/nnJ/nmoTvvIzmiJHot5HkuoYgYmVuY2htYXJrIOmHj+mHj+eci+OAgue1kOaenOacieaZguaJk+W5s++8jOS5n+acieWFqeasoSBOb2RlIOWPjeiAjOavlOi8g+W/q++8jOS4jemBjuWkmuaVuOaZguWAmeaYryBSdXN0IOW/q+S4ieWAjeS4iuS4i+OAgltTV0Mg5a6Y57ayXShodHRwczovL3N3Yy5ycy8p6Kqq55qEIDIwIOWIsCA3MCDlgI3vvIzph4/kuIvkvoblpKfljYrkvoboh6rlm5vmoLjlv4Pot5/lhanlgIvnqIvlvI/nmoTmnrbmp4vlt67vvIzkuI3mmK8gUnVzdCDpgJnlgIvoqp7oqIDjgILlrozmlbTnmoTpgY7nqIvot5/mr4/kuIDlvLXlnJbvvIzmiJHlr6vmiJDlj6bkuIDnr4fkuobvvJpbUnVzdCDmr5QgTm9kZSDlv6vlpJrlsJHvvJ/miJHph4/kuobkuIPnqK7mg4XlooNdKC92Mi93aHktcnVzdC1pcy1mYXN0ZXItaS1iZW5jaG1hcmtlZC1pdCnjgILmr4/lgIvljp/lm6Dllq7njajnmoTmlbjlrZflnKjpgJnvvJpbUnVzdCB2cyBWOF0oaHR0cHM6Ly9zY290Y2guamlhbGluMDAuY29tL2JlbmNobWFyay9ydXN0LXZzLXY4KeOAggoKIyMgUmVmZXJlbmNlcwoKLSBTV0Mg5L2c6ICFIERvbmdZb29uIEthbmfvvIhrZHkx77yJ77yaaHR0cHM6Ly9naXRodWIuY29tL2tkeTEKLSBTV0Mg5q+UIEJhYmVsIOW/qyAyMOKAkzcweO+8mmh0dHBzOi8vc3djLnJzLwotIE5leHQuanMgMTIg6aCQ6KitIFNXQ++8iDIwMjEtMTDvvInvvJpodHRwczovL25leHRqcy5vcmcvYmxvZy9uZXh0LTEyCi0gRG9uZ1lvb24gS2FuZyDliqDlhaUgVmVyY2Vs77yITmV4dCAxMS4xLCAyMDIxLTA477yJ77yaaHR0cHM6Ly9uZXh0anMub3JnL2Jsb2cvbmV4dC0xMS0xCi0gVHVyYm9wYWNr77yIVG9iaWFzIEtvcHBlcnMgLyBWZXJjZWwgLyBSdXN0IC8gU1dD77yJ77yaaHR0cHM6Ly92ZXJjZWwuY29tL2Jsb2cvdHVyYm9wYWNrCi0gVHVyYm9wYWNrIGBuZXh0IGRldmAg56mp5a6a77yITmV4dCAxNSwgMjAyNC0xMO+8ie+8mmh0dHBzOi8vbmV4dGpzLm9yZy9ibG9nL25leHQtMTUKLSBUdXJib3BhY2sg6YCjIGJ1aWxkIOS5n+iuiumgkOiore+8iE5leHQgMTYsIDIwMjUtMTDvvInvvJpodHRwczovL25leHRqcy5vcmcvYmxvZy9uZXh0LTE2Ci0gZXNidWlsZO+8iEdvLCBFdmFuIFdhbGxhY2XvvInvvJpodHRwczovL2VzYnVpbGQuZ2l0aHViLmlvLwotIFZpdGXvvIhkZXY9ZXNidWlsZCwgcHJvZD1Sb2xsdXDvvInvvJpodHRwczovL3ZpdGUuZGV2L2d1aWRlL3doeQotIFJvbGxkb3du77yIUnVzdCBwb3J0IG9mIFJvbGx1cO+8ie+8mmh0dHBzOi8vdm9pZHplcm8uZGV2L3Bvc3RzL2Fubm91bmNpbmctcm9sbGRvd24tMS0wCi0gVml0ZSA4IOmgkOiorSBSb2xsZG93bu+8iDIwMjYtMDPvvInvvJpodHRwczovL3ZpdGUuZGV2L2Jsb2cvYW5ub3VuY2luZy12aXRlOAotIFZpdGUgOCDku6UgT3hj44CBUm9sbGRvd24g5Y+W5LujIGVzYnVpbGTvvJpodHRwczovL3ZpdGUuZGV2L2d1aWRlL21pZ3JhdGlvbgotIEJ1biAxLjQuMyBgYnVuIGNoZWNrYO+8iDIwMjYtMTDvvInvvJpodHRwczovL2J1bi5jb20vYmxvZy9idW4tdjEuNC4zCi0gU1dDIG1pbmlmeSDngrogTmV4dC5qcyDpoJDoqK3vvIh2MTMg6LW377yJ77yaaHR0cHM6Ly9uZXh0anMub3JnL2RvY3MvYXJjaGl0ZWN0dXJlL25leHRqcy1jb21waWxlcgotIOW/q+W3peWFt+S4jeWBmuWei+WIpeaqouafpeOAgemcgOimgSB0c2PvvJpodHRwczovL2VzYnVpbGQuZ2l0aHViLmlvL2NvbnRlbnQtdHlwZXMvCi0gQnVuIDEuMO+8iDIwMjMtMDnvvInvvJpodHRwczovL2J1bi5jb20vYmxvZy9idW4tdjEuMAotIEJ1biDmoLjlv4MgWmlnIOKGkiBSdXN077yIUFIgIzMwNDEyLCAyMDI2LTA177yJ77yaaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL2Rldm9wcy8yMDI2LzA1LzE0L2FudGhyb3BpY3MtYnVuLXJ1c3QtcmV3cml0ZS1tZXJnZWQtYXQtc3BlZWQtb2YtYWkvIO+8iOaguOW/g+iqnuiogOePvuazgeS7pSBHaXRIdWIg6Kqe6KiA57Wx6KiI56K66KqN77yaaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS9yZXBvcy9vdmVuLXNoL2J1bi9sYW5ndWFnZXPvvIkKLSBPeGPvvJpodHRwczovL294Yy5ycy8KLSBidWlsZCDlt6XlhbcgYmVuY2htYXJr77yI5aSa5bel5YW344CBUnNwYWNrIOWcmOmaiue2reitt++8ie+8mmh0dHBzOi8vZ2l0aHViLmNvbS9yc3RhY2tqcy9idWlsZC10b29scy1wZXJmb3JtYW5jZQotIFJlbWl4IOaUueeUqCBWaXRl77yIdjIuNy4w77yJ77yaaHR0cHM6Ly9yZW1peC5ydW4vYmxvZy9yZW1peC12aXRlLXN0YWJsZQotIFJlYWN0IFJvdXRlciB2NyBtb2Rlc++8iGZyYW1ld29yayBtb2RlID0gVml0Ze+8ie+8mmh0dHBzOi8vcmVhY3Ryb3V0ZXIuY29tL3N0YXJ0L21vZGVzCi0gVnVlIGNyZWF0ZS12dWXvvIhWaXRl77yJ77yaaHR0cHM6Ly9naXRodWIuY29tL3Z1ZWpzL2NyZWF0ZS12dWUKLSBOdXh0IOmgkOiorSBidWlsZGVy77yIVml0Ze+8ie+8mmh0dHBzOi8vbnV4dC5jb20vZG9jcy9nZXR0aW5nLXN0YXJ0ZWQvaW50cm9kdWN0aW9uCi0gU3ZlbHRlS2l0IG9uIFZpdGXvvJpodHRwczovL3N2ZWx0ZS5kZXYvZG9jcy9raXQvaW50cm9kdWN0aW9uCi0gQXN0cm8gb24gVml0Ze+8iEFzdHJvIDbvvInvvJpodHRwczovL2FzdHJvLmJ1aWxkL2Jsb2cvYXN0cm8tNi8KLSBBbmd1bGFyIGJ1aWxkIHN5c3Rlbe+8iGVzYnVpbGQgKyBWaXRl77yJ77yaaHR0cHM6Ly9hbmd1bGFyLmRldi90b29scy9jbGkvYnVpbGQtc3lzdGVtLW1pZ3JhdGlvbgotIFNvbGlkU3RhcnTvvIhWaXRlIHZpYSBWaW54ae+8ie+8mmh0dHBzOi8vZG9jcy5zb2xpZGpzLmNvbS9zb2xpZC1zdGFydC9nZXR0aW5nLXN0YXJ0ZWQKLSBRd2lrIG9uIFZpdGXvvJpodHRwczovL3F3aWsuZGV2L2RvY3MvYWR2YW5jZWQvdml0ZS8KLSBDcmVhdGUgUmVhY3QgQXBwIOmAgOW9ue+8iDIwMjUtMDLvvInvvJpodHRwczovL3JlYWN0LmRldi9ibG9nLzIwMjUvMDIvMTQvc3Vuc2V0dGluZy1jcmVhdGUtcmVhY3QtYXBwCg==17:T4516,<p>I started learning frontend in 2018. Back then people were still fighting over React vs Vue vs Angular, each with its own fans.</p>
+<p>The framework itself was fine, since the official docs cover how to write and assemble your HTML. The annoying part was the pile of build config underneath: the webpack config, one loader after another, figuring out which babel presets to add. Learning frontend back then was mostly reading official docs, and the moment some special loader showed up you'd start over. So annoying. Oh, and plugins, install as needed.</p>
+<p>Then Next.js showed up. It wrapped that whole layer. No more webpack config, no more ordering loaders, <code>create-next-app</code> and it just runs. So good. From then on build was a black box to me, and I avoided touching it whenever I could.</p>
+<p>Until SWC and Turbopack started showing up all over Next.js ecosystem articles, and I figured maybe I should actually sort out how this whole thing evolved. You can't let Next.js hand you a worry-free life and then just... live worry-free forever.</p>
+<h2>build (next build, or whatever build) has three roles</h2>
+<p>And they're exactly the three things I used to configure by hand:</p>
+<ul>
+<li><strong>parse + transform</strong>: turn my TS / JSX into JS the browser can run. Used to be Babel.</li>
+<li><strong>bundle</strong>: resolve all the imports, walk the graph, stitch it into a few files. Used to be Webpack.</li>
+<li><strong>minify</strong>: shrink the output. Used to be Terser.</li>
+</ul>
+<p>The few years I wasn't watching the black box, all three became Rust LOL.</p>
+<h2>From Button.tsx to app.382f3f.js</h2>
+<p>From <code>Button.tsx</code> to the shipped file, it goes through:</p>
+<pre><code>Button.tsx
+  │  parse + transform     (SWC / esbuild / Oxc / Babel)
+  │  strip TS types, JSX → JS, lower new syntax
+  ▼
+Button.js   (plain JS, no types)
+  │  bundle                (Turbopack / Vite / Rolldown)
+  │  follow imports, walk the dep graph, merge
+  ▼
+one big module graph
+  │  minify                (SWC / esbuild / oxc / terser)
+  │  strip whitespace, rename vars, drop dead code
+  ▼
+app.382f3f.js    ← 382f3f is a content hash, for cache-busting
+
+(off to the side, NOT in this pipeline)
+tsc --noEmit  →  checks types, emits nothing
+</code></pre>
+<p>The <code>382f3f</code> is a hash computed from the file's contents. Change the code and the hash changes, so the filename changes, so the browser downloads the new file instead of using the old cached one.</p>
+<h2>parse + transform: SWC</h2>
+<p>SWC's author is a Korean developer, <a href="https://github.com/kdy1">DongYoon Kang</a>, known online as kdy1, nicknamed Donny. He started writing this Babel alternative in Rust as early as 2017. It does the same parse + transform, only multi-threaded by default. The gap between 20x and 70x is core count: their own claim is <a href="https://swc.rs/">20x faster than Babel on a single thread, 70x on four cores</a>.</p>
+<p>In August 2021 the <a href="https://nextjs.org/blog/next-11-1">Next.js 11.1</a> announcement mentioned that Kang had joined Vercel; just two months later, <a href="https://nextjs.org/blog/next-12">Next.js 12</a> swapped the default Babel for SWC.</p>
+<h2>bundle: Turbopack</h2>
+<p>Turbopack was written by <a href="https://vercel.com/blog/turbopack">Webpack's author, Tobias Koppers, who's also at Vercel now</a>. So the original author wrote webpack's successor himself, in Rust, and built it directly on SWC. <a href="https://nextjs.org/blog/next-15">Turbopack for <code>next dev</code> went stable in Next.js 15</a> (October 2024), and since <a href="https://nextjs.org/blog/next-16">Next.js 16</a> (October 2025) it's the default for <code>next build</code> too. To keep using webpack, add <code>--webpack</code>.</p>
+<h2>minify: SWC again</h2>
+<p>Since <a href="https://nextjs.org/docs/architecture/nextjs-compiler">v13</a>, Next.js even does minification with SWC by default. Those minify settings I used to tweak to save a few KB, the framework just decides for me now.</p>
+<h2>Oh, and Vite's everywhere now</h2>
+<p>Vite (2020) uses <a href="https://esbuild.github.io/">esbuild</a> for dev (that one's written in Go, by Figma's Evan Wallace) and <a href="https://vite.dev/guide/why">Rollup for the production build</a>. Rollup later got rewritten in Rust as <a href="https://voidzero.dev/posts/announcing-rolldown-1-0">Rolldown</a>, and <a href="https://vite.dev/blog/announcing-vite8">Vite 8</a> (March 2026) ships it as the default. The esbuild it used during development was <a href="https://vite.dev/guide/migration">replaced too</a>:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Job inside Vite</th><th>Before Vite 8</th><th>Vite 8 (2026-03) on</th></tr></thead><tbody><tr><td>Transform TS, JSX</td><td>esbuild</td><td>Oxc</td></tr><tr><td>Pre-bundle node_modules when the dev server starts</td><td>esbuild</td><td>Rolldown</td></tr><tr><td>Production build</td><td>Rollup</td><td>Rolldown</td></tr></tbody></table>
+<h2>What each framework uses by default: Vite, except Next.js</h2>
+<p>Almost every framework defaults to Vite, and only Next.js uses its own Turbopack.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Framework</th><th>Default build tool</th></tr></thead><tbody><tr><td><strong>Next.js</strong></td><td>Turbopack (default for dev and build since v16; add <code>--webpack</code> to use webpack)</td></tr><tr><td>Remix</td><td>Vite (stable since <a href="https://remix.run/blog/remix-vite-stable">v2.7.0, 2024</a>)</td></tr><tr><td>React Router v7</td><td>Vite (<a href="https://reactrouter.com/start/modes">framework mode</a>; Remix merged into it)</td></tr><tr><td>Vue (create-vue)</td><td>Vite (<a href="https://github.com/vuejs/create-vue">Evan You made both</a>)</td></tr><tr><td>Nuxt</td><td><a href="https://nuxt.com/docs/getting-started/introduction">Vite</a> (webpack / rspack optional)</td></tr><tr><td>SvelteKit</td><td><a href="https://svelte.dev/docs/kit/introduction">Vite</a></td></tr><tr><td>Astro</td><td><a href="https://astro.build/blog/astro-6/">Vite</a></td></tr><tr><td>Angular (v17+)</td><td><a href="https://angular.dev/tools/cli/build-system-migration">esbuild for the build, Vite for the dev server</a></td></tr><tr><td>SolidStart</td><td><a href="https://docs.solidjs.com/solid-start/getting-started">Vite (via Vinxi)</a></td></tr><tr><td>Qwik</td><td><a href="https://qwik.dev/docs/advanced/vite/">Vite</a></td></tr><tr><td>Create React App</td><td>webpack + Babel, <a href="https://react.dev/blog/2025/02/14/sunsetting-create-react-app">deprecated in 2025</a>, now points you at Vite / Parcel / Rsbuild</td></tr></tbody></table>
+<p>Angular is different: it builds with esbuild and serves with Vite. Earlier I said Vite used esbuild for dev before Vite 8; that's esbuild inside Vite. Angular takes only Vite's dev server and calls esbuild directly for the build instead of Vite's Rollup, so here the two are separate pieces side by side. And no, Next.js + Vite was never a thing, Next ships its own bundlers only. Turbopack and Parcel were never combined either; separate projects that don't touch.</p>
+<p>Everyone plugs into Vite, probably because it isn't tied to any particular framework.</p>
+<h2>What about benchmarks?</h2>
+<p>By 2026 these tools are all fast enough that speed isn't the main reason to pick one; ecosystem, compatibility and maintenance matter more. And most of these benchmarks are published by one tool's own team, so check who made them before reading the numbers. To look at the numbers yourself:</p>
+<ul>
+<li><a href="https://github.com/rstackjs/build-tools-performance">rstackjs/build-tools-performance</a>: the most comprehensive, regularly updated comparison (Rspack, Vite, Rolldown, esbuild, webpack, Rollup, Parcel, Farm). Maintained by the Rspack team.</li>
+<li><a href="https://esbuild.github.io/faq/">esbuild's own benchmark</a>: esbuild vs webpack / Rollup / Parcel. Esbuild-favorable; the test setup is described in the FAQ, so you can check it (three.js ×10: esbuild 0.39s, Parcel 14.9s, Rollup+Terser 34.1s, webpack 41.2s).</li>
+</ul>
+<p>Vite itself is rarely measured on its own, because it hands transforming and bundling to the tools in the table above.</p>
+<h2>Babel handles TypeScript, so why run tsc too?</h2>
+<p>Looking at project setups back then, something always felt off, and I couldn't say what: Babel already handles TypeScript, so why is there a <code>tsc</code> hanging around next to it?</p>
+<p>Put simply, stripping types and checking types are two different jobs:</p>
+<ul>
+<li><strong>Strip types</strong> (TS → JS): turn TS into JS that runs, dropping the types. Babel, SWC, esbuild and Oxc all do this.</li>
+<li><strong>Check types</strong>: verify the types are correct. For a long time <a href="https://esbuild.github.io/content-types/">only tsc did this</a>, until Bun shipped its own type checker, <code>bun check</code>, in October 2026. It doesn't run by default, though.</li>
+</ul>
+<p>So if your setup doesn't include type checking, you have to run tsc separately yourself:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Setup</th><th>Strip types (TS→JS)</th><th>Type check</th><th>You run</th></tr></thead><tbody><tr><td><strong>Next.js</strong></td><td>SWC, built in</td><td><code>next build</code> runs tsc for you</td><td>nothing</td></tr><tr><td><strong>Vite</strong></td><td>built in; esbuild originally, Oxc since <a href="https://vite.dev/guide/migration">Vite 8</a> (2026-03)</td><td>not included</td><td><code>tsc --noEmit</code> (Vue projects often use <code>vue-tsc -b &#x26;&#x26; vite build</code>)</td></tr><tr><td><strong>Bun</strong></td><td>built in</td><td>not included at first; since <a href="https://bun.com/blog/bun-v1.4.3">v1.4.3</a> (2026-10) there's <code>bun check</code>, and run, build and test take <code>--check</code>, but it's off by default</td><td><code>tsc --noEmit</code> originally, now <code>bun check</code> works too</td></tr><tr><td><strong>Babel + Webpack</strong> (old me)</td><td><code>@babel/preset-typescript</code></td><td>not included</td><td><code>tsc --noEmit</code> separately</td></tr><tr><td><strong>Just tsc</strong> (small lib)</td><td>tsc</td><td>tsc, same run</td><td><code>tsc</code>, does both, but no bundling</td></tr></tbody></table>
+<p><code>tsc</code> on its own does <em>two</em> jobs, it type-checks <strong>and</strong> emits <code>.js</code>. <code>tsc --noEmit</code> is the same check with the output turned off. Modern setups use <code>--noEmit</code> because a faster tool already produced the <code>.js</code>; only tsc's check is needed, not its slower output.</p>
+<p>Next.js is the one that spoils you: it wraps all of it, so you just see <code>next build</code> :)</p>
+<h2>then Bun</h2>
+<p>Bun is another runtime going head to head with Node. It started out written in a language called Zig, and <a href="https://bun.com/blog/bun-v1.0">hit 1.0 in 2023</a>. And it's now migrating from Zig to Rust itself, with the <a href="https://www.theregister.com/devops/2026/05/14/anthropics-bun-rust-rewrite-merged-at-speed-of-ai/">rewritten core merged into main in May 2026</a>.</p>
+<h2>then</h2>
+<p>There's a project called <a href="https://oxc.rs/">Oxc</a>, by Boshen, taking it a step further: instead of every tool parsing the source over again, parse once and share a single AST. Parser, linter (oxlint), and transformer are already out, and Rolldown already uses Oxc's parser underneath. If it works, today's situation of SWC and Oxc each having their own parser might someday get unified again.</p>
+<h2>The chronicle</h2>
+<pre><code>~2015    Babel + Webpack + Terser era (JS processing JS)
+2017     SWC started (DongYoon Kang), nobody using it yet
+2018     Terser replaces UglifyJS as default minifier
+2020     esbuild (Go) appears; Vite appears (dev=esbuild, prod=Rollup)
+2021-08  Kang joins Vercel (Next 11.1)
+2021-10  Next.js 12: SWC replaces Babel
+2022     SWC minify lands in Next (default in v13)
+2023-09  Bun 1.0 (still Zig back then)
+2023-10  Rolldown announced (Rust port of Rollup)
+2024-02  Remix goes Vite
+2024-10  Next.js 15: Turbopack stable for next dev
+2025-02  Create React App deprecated
+2025-10  Next.js 16: Turbopack the default for builds too
+2026-03  Vite 8: Rolldown as default, esbuild replaced by Oxc + Rolldown
+2026-05  Bun's core goes Zig → Rust
+2026-10  Bun 1.4.3: built-in type checker, bun check
+</code></pre>
+<h2>So</h2>
+<p>What actually happened inside that black box? The whole layer moved from JavaScript to native binaries, got redesigned, and started using multiple cores, so it got a lot faster. Where the speed comes from, and how much each part contributes, is measured in <a href="/v2/why-rust-is-faster-i-benchmarked-it">another post</a>.</p>
+<p>As for whether "Rust is faster" is actually true, I ran a benchmark to see. Sometimes it was a tie, twice Node actually won, but mostly Rust was around three times faster. The 20-70x figures on <a href="https://swc.rs/">SWC's site</a> turned out, when measured, to come mostly from four cores and two differently-built programs, not the Rust language. The whole thing, with every chart, is its own post: <a href="/v2/why-rust-is-faster-i-benchmarked-it">How much faster is Rust than Node? I measured seven scenarios</a>. Each reason measured on its own is here: <a href="https://scotch.jialin00.com/benchmark/rust-vs-v8">Rust vs V8</a>.</p>
+<h2>References</h2>
+<ul>
+<li>SWC author DongYoon Kang (kdy1): <a href="https://github.com/kdy1">https://github.com/kdy1</a></li>
+<li>SWC 20–70x faster than Babel: <a href="https://swc.rs/">https://swc.rs/</a></li>
+<li>Next.js 12 defaults to SWC (2021-10): <a href="https://nextjs.org/blog/next-12">https://nextjs.org/blog/next-12</a></li>
+<li>DongYoon Kang joins Vercel (Next 11.1, 2021-08): <a href="https://nextjs.org/blog/next-11-1">https://nextjs.org/blog/next-11-1</a></li>
+<li>Turbopack (Tobias Koppers / Vercel / Rust / SWC): <a href="https://vercel.com/blog/turbopack">https://vercel.com/blog/turbopack</a></li>
+<li>Turbopack stable for <code>next dev</code> (Next 15, 2024-10): <a href="https://nextjs.org/blog/next-15">https://nextjs.org/blog/next-15</a></li>
+<li>Turbopack default for builds (Next 16, 2025-10): <a href="https://nextjs.org/blog/next-16">https://nextjs.org/blog/next-16</a></li>
+<li>esbuild (Go, Evan Wallace): <a href="https://esbuild.github.io/">https://esbuild.github.io/</a></li>
+<li>Vite (dev=esbuild, prod=Rollup): <a href="https://vite.dev/guide/why">https://vite.dev/guide/why</a></li>
+<li>Rolldown (Rust port of Rollup): <a href="https://voidzero.dev/posts/announcing-rolldown-1-0">https://voidzero.dev/posts/announcing-rolldown-1-0</a></li>
+<li>Vite 8 defaults to Rolldown (2026-03): <a href="https://vite.dev/blog/announcing-vite8">https://vite.dev/blog/announcing-vite8</a></li>
+<li>Vite 8 replaces esbuild with Oxc and Rolldown: <a href="https://vite.dev/guide/migration">https://vite.dev/guide/migration</a></li>
+<li>Bun 1.4.3 <code>bun check</code> (2026-10): <a href="https://bun.com/blog/bun-v1.4.3">https://bun.com/blog/bun-v1.4.3</a></li>
+<li>SWC minify default in Next.js (since v13): <a href="https://nextjs.org/docs/architecture/nextjs-compiler">https://nextjs.org/docs/architecture/nextjs-compiler</a></li>
+<li>Fast tools don't type-check, you need tsc: <a href="https://esbuild.github.io/content-types/">https://esbuild.github.io/content-types/</a></li>
+<li>Bun 1.0 (2023-09): <a href="https://bun.com/blog/bun-v1.0">https://bun.com/blog/bun-v1.0</a></li>
+<li>Bun core Zig → Rust (PR #30412, 2026-05): <a href="https://www.theregister.com/devops/2026/05/14/anthropics-bun-rust-rewrite-merged-at-speed-of-ai/">https://www.theregister.com/devops/2026/05/14/anthropics-bun-rust-rewrite-merged-at-speed-of-ai/</a> (current language breakdown confirmed via GitHub's language stats: <a href="https://api.github.com/repos/oven-sh/bun/languages">https://api.github.com/repos/oven-sh/bun/languages</a>)</li>
+<li>Oxc: <a href="https://oxc.rs/">https://oxc.rs/</a></li>
+<li>Build tool benchmarks (many tools, maintained by the Rspack team): <a href="https://github.com/rstackjs/build-tools-performance">https://github.com/rstackjs/build-tools-performance</a></li>
+<li>Remix goes Vite (v2.7.0): <a href="https://remix.run/blog/remix-vite-stable">https://remix.run/blog/remix-vite-stable</a></li>
+<li>React Router v7 modes (framework mode = Vite): <a href="https://reactrouter.com/start/modes">https://reactrouter.com/start/modes</a></li>
+<li>Vue create-vue (Vite): <a href="https://github.com/vuejs/create-vue">https://github.com/vuejs/create-vue</a></li>
+<li>Nuxt default builder (Vite): <a href="https://nuxt.com/docs/getting-started/introduction">https://nuxt.com/docs/getting-started/introduction</a></li>
+<li>SvelteKit on Vite: <a href="https://svelte.dev/docs/kit/introduction">https://svelte.dev/docs/kit/introduction</a></li>
+<li>Astro on Vite (Astro 6): <a href="https://astro.build/blog/astro-6/">https://astro.build/blog/astro-6/</a></li>
+<li>Angular build system (esbuild + Vite): <a href="https://angular.dev/tools/cli/build-system-migration">https://angular.dev/tools/cli/build-system-migration</a></li>
+<li>SolidStart (Vite via Vinxi): <a href="https://docs.solidjs.com/solid-start/getting-started">https://docs.solidjs.com/solid-start/getting-started</a></li>
+<li>Qwik on Vite: <a href="https://qwik.dev/docs/advanced/vite/">https://qwik.dev/docs/advanced/vite/</a></li>
+<li>Create React App deprecated (2025-02): <a href="https://react.dev/blog/2025/02/14/sunsetting-create-react-app">https://react.dev/blog/2025/02/14/sunsetting-create-react-app</a></li>
+</ul>8:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L13",null,{"htmlContent":"$14","rawContent":"$15","base64Content":"$16","title":"Rust ate.","createdAt":"$undefined","updatedAt":"$undefined","tags":["frontend","build-tools","bundler","transformer","rust","vite","nextjs"],"altHtmlContent":"$17","altTitle":"Rust ate.","currentLang":"zh","altLang":"en","canonicalPath":"/v2/rust-ate-javascript-build-toolchain"}]}]}]
