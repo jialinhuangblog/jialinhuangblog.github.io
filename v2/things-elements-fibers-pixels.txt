@@ -1,0 +1,1320 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"default"]
+4:I[48350,[],""]
+5:I[11412,[],""]
+6:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+7:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-6e2326ce7d294bfd.js"],"default"]
+9:I[96727,[],"OutletBoundary"]
+b:I[14038,[],"AsyncMetadataOutlet"]
+d:I[96727,[],"ViewportBoundary"]
+f:I[96727,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[92950,[],""]
+:HL["/_next/static/media/8760c4774489e4ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/01cc54cdad670ab3.css","style"]
+:HL["/_next/static/css/d3281eaf3cab9132.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/2aa38e97f45426ef.css","style"]
+0:{"P":null,"b":"nTKE4IB87lEgZWUaCupOc","p":"","c":["","v2","things-elements-fibers-pixels"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","things-elements-fibers-pixels","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/01cc54cdad670ab3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/d3281eaf3cab9132.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href=\"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap\";document.head.appendChild(l)})()"}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L7",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","things-elements-fibers-pixels","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/2aa38e97f45426ef.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+a:null
+c:{"metadata":[["$","title","0",{"children":"ReactNode, ReactElement, Component, div: which live only in memory, and which becomes DOM  | jialinhuang"}],["$","meta","1",{"name":"description","content":"Four names that get used interchangeably. What is each one? Follow <Greeting /> from element to fiber to the HTMLDivElement on the page, and see why fibers come in two copies and where useState keeps its value."}],["$","link","2",{"rel":"canonical","href":"/v2/things-elements-fibers-pixels"}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"
+13:I[86734,["7654","static/chunks/7654-2fe46cddc56d2856.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+14:Tf17b,<p>Writing React means meeting four names every day: <code>ReactNode</code>, <code>ReactElement</code>, <code>Component</code>, and HTML tag names like <code>div</code>. Early on it is easy to treat them as the same thing, since they all seem to be a piece of the screen. Yet returning <code>&#x3C;Comp /></code> renders, while returning <code>Comp</code> shows nothing; assigning a string to a variable typed <code>ReactElement</code> is a TypeScript error, while assigning it to <code>ReactNode</code> is fine.</p>
+<p>So what is each of these names? Which ones exist only in JavaScript memory, and which one ends up as a DOM node in the browser?</p>
+<h2>render and commit</h2>
+<p>Every time React updates the screen, it works in two steps:</p>
+<ol>
+<li><strong>render</strong>: React calls your component functions and works out what the screen should become. This step only handles JavaScript objects; the DOM on the page does not change.</li>
+<li><strong>commit</strong>: React writes the changes that render worked out into the DOM on the page.</li>
+</ol>
+<p>After commit, the browser still has to compute styles, lay out, and paint pixels. Those steps are in <a href="/v2/from-setstate-to-pixels">from setState to pixels</a>.</p>
+<h2>What each name is</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Name</th><th>What it is</th><th>Where it exists</th></tr></thead><tbody><tr><td><strong>ReactNode</strong></td><td>A TypeScript type, the widest one: any value React can render</td><td>Only during type checking; gone once compiled to JavaScript</td></tr><tr><td><strong>ReactElement</strong></td><td>A plain object made by JSX or <code>createElement</code>; main fields are <code>type</code>, <code>props</code>, <code>key</code></td><td>JavaScript memory</td></tr><tr><td><strong>Component</strong></td><td>A function or class that takes props and returns what to render</td><td>A function in JavaScript memory</td></tr><tr><td><strong><code>div</code></strong></td><td>A string, the name of an HTML tag</td><td>The string is in JavaScript memory; React creates an <code>HTMLDivElement</code> for it during render and puts it on the page at commit</td></tr></tbody></table>
+<p>Of the four names, only <code>div</code> ends up matched to a DOM element on the page. Strings and numbers are ReactNodes too, though, and they become Text nodes. After <code>&#x3C;b>{42}&#x3C;/b></code> commits, the <code>&#x3C;b></code> on the page holds one Text node whose content is <code>"42"</code>. <code>null</code> and <code>false</code> produce no DOM.</p>
+<h2>How the four relate</h2>
+<h3>ReactNode contains ReactElement</h3>
+<p><code>ReactNode</code> is the widest type. Any value React can render counts, and ReactElement is just one kind:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="tsx" data-theme="github-dark github-light"><code data-language="tsx" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">div</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> />                          </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// ReactElement</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;>hi&#x3C;/>                          </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// also a ReactElement, type is React.Fragment</span></span>
+<span data-line=""><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'hello'</span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">                          // string</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">42</span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">                               // number</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">null</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">false</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">[&#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">a</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> key</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"a"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> />, &#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">b</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> key</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"b"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> />]   </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// array</span></span></code></pre></figure>
+<p>Checked with TypeScript 5.9.3 and <code>@types/react</code> 19.3.0, every line above is assignable to <code>ReactNode</code>. <code>&#x3C;>hi&#x3C;/></code> is also assignable to <code>ReactElement</code>, because JSX compiles it to <code>jsx(Fragment, { children: 'hi' })</code>, which produces an element whose <code>type</code> is <code>React.Fragment</code>. The <code>ReactNode</code> definition in <code>@types/react</code> also includes <code>bigint</code>, portals and Promises.</p>
+<h3>Component and <code>'div'</code> sit in the same field</h3>
+<p>A ReactElement produced by the React 19.3.1 production build looks like this:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{ </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">$$typeof</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Symbol</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(react.transitional.element), type, key, ref, props }</span></span></code></pre></figure>
+<p><code>$$typeof</code> is the marker React uses to confirm "this is an element"; <code>React.isValidElement</code> checks it.</p>
+<p>The <code>type</code> field can hold a string such as <code>'div'</code>, which makes the element a host component, or it can hold a Component, meaning a function or a class. The two kinds of value share one field and neither contains the other:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="jsx" data-theme="github-dark github-light"><code data-language="jsx" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">div</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">>hi&#x3C;/</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">div</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">>        </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// type: 'div'      string, host component</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">Button</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">>hi&#x3C;/</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">Button</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">>  </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// type: Button     function, your own component</span></span></code></pre></figure>
+<p>During render, React looks at <code>type</code> to decide what to do:</p>
+<ul>
+<li>String: create a DOM node for it, and put it on the page at commit.</li>
+<li>Function or class: call it, and keep going with whatever it returns.</li>
+</ul>
+<h3>Component produces ReactElements</h3>
+<p>When you write <code>&#x3C;Button label="OK" /></code>, <code>Button</code> has not been called yet. The line only produces an element with <code>type: Button</code>. React calls <code>Button</code> when render reaches that element. What it returns is usually a ReactElement, but it can also be a string or <code>null</code>; in any case it is a ReactNode.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="jsx" data-theme="github-dark github-light"><code data-language="jsx" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> Button</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">({ </span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">label</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> }) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> &#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">span</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">>{label}&#x3C;/</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">span</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">>   </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// returns a ReactElement</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>There is no <code>Button</code> on the page. Only the <code>&#x3C;span></code> it returns becomes a <code>&#x3C;span></code> node on the page, at commit.</p>
+<h2>From <code>&#x3C;Greeting /></code> to HTMLDivElement</h2>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="jsx" data-theme="github-dark github-light"><code data-language="jsx" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> Greeting</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">({ </span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">name</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> }) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> &#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">div</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">>Hello, {name}&#x3C;/</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">div</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> tree</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> &#x3C;</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">Greeting</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> name</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Jialin"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> /></span></span></code></pre></figure>
+<p><code>tree</code> is a ReactElement, and its <code>type</code> field holds the <code>Greeting</code> function itself:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  $$typeof</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Symbol</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(react.transitional.element),</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  type</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: Greeting,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  key</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  ref</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  props</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: { </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">name</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'Jialin'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>At this point <code>Greeting</code> has not been called.</p>
+<p>During render, React creates a <strong>fiber</strong> for each element. A fiber is React's own record object: what kind of component this is, what its props are, where its state lives, which children it has, which DOM node it maps to. No field on the fiber points at the element object; React copies only the element's <code>type</code>, <code>key</code> and <code>props</code> onto the fiber. In React 19 <code>ref</code> lives inside <code>props</code>, so it is copied too. The code is <code>createFiberFromElement</code> in <a href="https://github.com/react/react/blob/v19.3.1/packages/react-reconciler/src/ReactFiber.js"><code>ReactFiber.js</code></a>. Elements are made fresh every render, while fibers stay for the next render.</p>
+<details>
+<summary>Is the element garbage collected right after the copy?</summary>
+<p>After the copy, the element is not necessarily garbage collected right away, because a fiber may still reference it indirectly. Take <code>&#x3C;main>&#x3C;Greeting />&#x3C;/main></code>: the <code>&#x3C;Greeting /></code> element sits in the <code>main</code> element's <code>props.children</code>, and the <code>main</code> fiber stores the whole props object in <code>memoizedProps</code>. As long as some fiber's <code>memoizedProps</code> points at those props, <code>&#x3C;Greeting /></code> is not collected. The <code>&#x3C;div></code> that <code>Greeting</code> returns is different: it is not in any element's props, and the <code>Greeting</code> fiber has no field that stores the component's return value, so no fiber references it. If the <code>tree</code> above is passed straight to <code>root.render</code>, React stores it in <code>memoizedState.element</code> of the topmost fiber of the tree (the HostRoot printed below), so it stays too.</p>
+<p>In the development build the fiber has a few more fields: React copies the element's <code>_owner</code>, <code>_debugStack</code> and <code>_debugTask</code> to the fiber's <code>_debugOwner</code>, <code>_debugStack</code> and <code>_debugTask</code>. Fibers in the production build have none of these fields.</p>
+</details>
+<p>The fiber for <code>Greeting</code> is created first. React sees that <code>type</code> is a function, calls it with the props, and gets another element:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  $$typeof</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Symbol</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(react.transitional.element),</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  type</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'div'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  key</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  ref</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  props</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: { </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">children</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'Hello, '</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'Jialin'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">] }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>This time <code>type</code> is the string <code>'div'</code>, and React creates a host component fiber for it. The two strings in <code>children</code> get a fiber each as well. Rendering <code>&#x3C;Greeting name="Jialin" /></code> with React 19.3.1 in Chrome 156 and then walking every fiber down from the root prints:</p>
+<pre><code>HostRoot
+  FunctionComponent  Greeting    stateNode = null
+    HostComponent    div         stateNode = HTMLDivElement
+      HostText       "Hello, "   stateNode = Text
+      HostText       "Jialin"    stateNode = Text
+</code></pre>
+<p>When children is a single string or number, though, React creates no HostText fiber. In the earlier <code>&#x3C;b>{42}&#x3C;/b></code>, the <code>&#x3C;b></code> fiber has no child. When React creates the <code>&#x3C;b></code> DOM element and sets its props, it sees that <code>children</code> is the number 42, sets the <code>textContent</code> of <code>&#x3C;b></code> to <code>"42"</code>, and the browser creates a Text node inside <code>&#x3C;b></code> (<code>setProp</code> in <a href="https://github.com/react/react/blob/v19.3.1/packages/react-dom-bindings/src/client/ReactDOMComponent.js"><code>ReactDOMComponent.js</code></a>).</p>
+<p>The <code>div</code> fiber, with most fields removed, looks roughly like this (full definition in <a href="https://github.com/react/react/blob/v19.3.1/packages/react-reconciler/src/ReactInternalTypes.js"><code>ReactInternalTypes.js</code></a>):</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  tag</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: HostComponent,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  type</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'div'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,                    </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// same as the element's type</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  stateNode</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: HTMLDivElement,      </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// DOM node created during render</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  child</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: Fiber,                   </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// first child, here the "Hello, " fiber</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  sibling</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,                  </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// next sibling</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: Fiber,                  </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// parent, here the Greeting fiber</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  alternate</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: Fiber </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">|</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,        </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// matching fiber in the other fiber tree, next section</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  memoizedProps</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: { </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">children</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'Hello, '</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'Jialin'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">] },</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  memoizedState</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,            </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// a function component's fiber keeps its hook list here</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  lanes</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,                       </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// pending updates on this fiber, and their priorities</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  flags</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,                       </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// what commit must do: Placement, Update, ChildDeletion, etc.</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p><code>return</code> points to the parent. The source comment says the name comes from the return address a function call jumps back to when it ends: when React finishes a fiber, it goes back to that fiber's <code>return</code>.</p>
+<h3>When the DOM node is created, and when it enters the page</h3>
+<p>Wrap <code>document.createElement</code> and <code>appendChild</code> with logging, then mount an <code>App</code> with the React 19.3.1 production build. <code>App</code> has two children: <code>A</code> renders <code>&#x3C;section>&#x3C;p>a&#x3C;/p>&#x3C;/section></code>, and <code>B</code> renders <code>&#x3C;div>b&#x3C;/div></code>. The logged order is:</p>
+<ol>
+<li>render <code>App</code></li>
+<li>render <code>A</code></li>
+<li><code>document.createElement('p')</code></li>
+<li><code>document.createElement('section')</code></li>
+<li><code>&#x3C;p></code> appended under <code>&#x3C;section></code>; <code>&#x3C;section></code> is not on the page yet</li>
+<li>render <code>B</code></li>
+<li><code>document.createElement('div')</code></li>
+<li><code>&#x3C;section></code> appended under <code>#root</code>; only now is it on the page</li>
+<li><code>&#x3C;div></code> appended under <code>#root</code></li>
+<li><code>useLayoutEffect</code></li>
+</ol>
+<p><code>&#x3C;section></code> and <code>&#x3C;p></code> exist before <code>B</code> renders, which means they were created during render. As React walks the fibers, it passes each fiber twice: on the way down it calls the component, and on the way back up it finishes the fiber, a step called <code>completeWork</code>. A host component fiber creates its DOM node in <code>completeWork</code> and appends its children's DOM nodes to it; none of this is on the page yet (<a href="https://github.com/react/react/blob/v19.3.1/packages/react-reconciler/src/ReactFiberCompleteWork.js"><code>ReactFiberCompleteWork.js</code></a>, the <code>HostComponent</code> branch calls <code>createInstance</code> and <code>appendAllChildren</code>). At commit, React puts the assembled DOM into <code>#root</code>. The way down and the way back up are covered in <a href="/v2/inside-react-fiberworkloop">Inside React's work loop</a>.</p>
+<p>The whole path, in order:</p>
+<ol>
+<li><code>Greeting</code> is a function in your source code; it is always there.</li>
+<li>JSX produces the element <code>{ type: Greeting }</code>; the next render produces a new element.</li>
+<li>React creates a fiber for it. Hook values live on this fiber, which stays for the next render.</li>
+<li>React calls <code>Greeting</code> and gets the element <code>{ type: 'div' }</code>. Once React copies its <code>type</code>, <code>key</code> and <code>props</code> onto the fiber, no fiber references it.</li>
+<li>React creates a fiber for it, which also stays for the next render.</li>
+<li><code>completeWork</code> creates an <code>HTMLDivElement</code> for that fiber and stores it in <code>stateNode</code>; it is not on the page yet.</li>
+<li>Commit puts the <code>HTMLDivElement</code> on the page.</li>
+</ol>
+<h2>Why each fiber has two copies</h2>
+<p>React keeps two fiber trees at the same time: <code>current</code> is the version on screen, and <code>workInProgress</code> is the version this render is building. The fibers on both sides for the same <code>&#x3C;div></code> point their <code>stateNode</code> at the same <code>HTMLDivElement</code>: when <a href="https://github.com/react/react/blob/v19.3.1/packages/react-reconciler/src/ReactFiber.js"><code>createWorkInProgress</code></a> builds a workInProgress fiber, it copies <code>stateNode</code> from current.</p>
+<p>So when React changes things on workInProgress, does it change the DOM on screen?</p>
+<p>No. <code>stateNode</code> is only a reference to the DOM node. Changing the DOM takes calls like <code>setAttribute</code>, <code>appendChild</code>, <code>removeChild</code>, and React only makes them in commit's mutation step (<code>commitMutationEffectsOnFiber</code> in <a href="https://github.com/react/react/blob/v19.3.1/packages/react-reconciler/src/ReactFiberCommitWork.js"><code>ReactFiberCommitWork.js</code></a>). What render changes are the fiber's own fields:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">wipFiber.memoizedProps </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> { children: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'new text'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> }  </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// the fiber's own field</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">wipFiber.flags </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">|=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> Update                           </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// the fiber's own field</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">wipFiber.child </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> newChildFiber                     </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// a pointer between fibers</span></span></code></pre></figure>
+<p>The only DOM render creates is for nodes added in this update, like the <code>&#x3C;section></code> in the previous section, and those are not attached to the page when they are created.</p>
+<p>Then why not change the current fiber directly and save a copy? The React source does not give that reason. The comment in <code>createWorkInProgress</code> only says React needs at most two versions of the tree, so it keeps the other one around for reuse ("we know that we'll only ever need at most two versions of a tree").</p>
+<p>The current code reads current in two places during render, and both treat it as the version left by the last commit:</p>
+<ul>
+<li><code>beginWork</code> calls current's <code>memoizedProps</code> <code>oldProps</code> and compares it with workInProgress's <code>pendingProps</code>. If <code>oldProps</code> and <code>pendingProps</code> are not the same object, it marks the fiber as updated (<a href="https://github.com/react/react/blob/v19.3.1/packages/react-reconciler/src/ReactFiberBeginWork.js"><code>ReactFiberBeginWork.js</code></a>).</li>
+<li>An update wrapped in <code>startTransition</code> is called a transition, and its render can be dropped halfway because a more urgent update arrived. After dropping it, React calls <code>createWorkInProgress(root.current, null)</code> to copy a fresh workInProgress from current and starts over (<code>prepareFreshStack</code> in <a href="https://github.com/react/react/blob/v19.3.1/packages/react-reconciler/src/ReactFiberWorkLoop.js"><code>ReactFiberWorkLoop.js</code></a>).</li>
+</ul>
+<p>React does not prepare two copies of every fiber, though. An experiment in Chrome 156 with React 19.3.1: <code>Counter</code> updates its state each time; under it are a <code>&#x3C;b></code> showing the number and a <code>Static</code> wrapped in <code>React.memo</code> with no props, which renders an <code>&#x3C;i></code>. After every commit, walk every fiber down from <code>root.current</code> and number each fiber object:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>fiber</th><th>after mount</th><th>after update 1</th><th>after update 2</th><th>after update 3</th></tr></thead><tbody><tr><td><code>Counter</code></td><td>#1</td><td>#10</td><td>#1</td><td>#10</td></tr><tr><td><code>&#x3C;div></code></td><td>#2</td><td>#11</td><td>#2</td><td>#11</td></tr><tr><td><code>&#x3C;b></code></td><td>#4</td><td>#12</td><td>#4</td><td>#12</td></tr><tr><td><code>Static</code> (memo)</td><td>#6</td><td>#13</td><td>#6</td><td>#13</td></tr><tr><td><code>&#x3C;i></code></td><td>#7</td><td>#7</td><td>#7</td><td>#7</td></tr></tbody></table>
+<p>The first four fibers have one copy after mount. On the first update React creates a second copy of each, and from then on the two take turns as current. So "this component's fiber" is not one fixed object; it switches to the other copy every render. The DOM node behind <code>&#x3C;div></code>, on the other hand, is the same one throughout.</p>
+<p><code>&#x3C;i></code> is the single object #7 throughout, with <code>alternate</code> always <code>null</code>. <code>Static</code>'s props did not change, so React skipped its whole subtree and never reached the <code>&#x3C;i></code> fiber, and current and workInProgress share #7. The comment in <code>createWorkInProgress</code> says the same: the second fiber is created only when needed, "to avoid allocating extra objects for things that are never updated".</p>
+<p><code>createWorkInProgress</code>, with most fields removed:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> createWorkInProgress</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">current</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">pendingProps</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  let</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> workInProgress </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> current.alternate;</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (workInProgress </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">===</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) {</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">    // no second copy yet: create one, point it at the same DOM node, link alternate both ways</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    workInProgress </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> createFiber</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(current.tag, pendingProps, current.key, current.mode);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    workInProgress.stateNode </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> current.stateNode;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    workInProgress.alternate </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> current;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    current.alternate </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> workInProgress;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  } </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">else</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">    // already exists: reuse it, clear its flags</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    workInProgress.pendingProps </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> pendingProps;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    workInProgress.flags </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> NoFlags;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  workInProgress.child </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> current.child;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  workInProgress.memoizedState </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> current.memoizedState;</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> workInProgress;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>As long as the component's type and key stay the same, React keeps alternating between these two objects and never creates a third.</p>
+<h3>What commit swaps</h3>
+<p>Three things in commit, in this order, involve the two fiber trees:</p>
+<ol>
+<li><strong>mutation</strong>: change the real DOM, such as <code>setAttribute</code>, <code>appendChild</code>, <code>removeChild</code>. Every change the user will see happens here.</li>
+<li><strong>swap current</strong>: <code>root.current = finishedWork</code>; workInProgress becomes current.</li>
+<li><strong>layout</strong>: run <code>useLayoutEffect</code> and <code>componentDidMount</code>.</li>
+</ol>
+<p>There are two copies of each fiber but only one DOM, so mutation has no second DOM to prepare and swap in. It changes the nodes on the page directly, for example changing an attribute, or adding and removing a few nodes. By the time current is swapped, the DOM is already updated, so this line changes nothing on screen. What it affects is the next render: React uses the version just finished as current and compares its props with the new ones, and the old version swapped out becomes the next workInProgress.</p>
+<p>The line sits at the end of <code>flushMutationEffects</code> in <a href="https://github.com/react/react/blob/v19.3.1/packages/react-reconciler/src/ReactFiberWorkLoop.js"><code>ReactFiberWorkLoop.js</code></a>, which <code>commitRoot</code> calls:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">  // The work-in-progress tree is now the current tree. This must come after</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">  // the mutation phase, so that the previous tree is still current during</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">  // componentWillUnmount, but before the layout phase, so that the finished</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">  // work is current during componentDidMount/Update.</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  root.current </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> finishedWork;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  pendingEffectsStatus </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> PENDING_LAYOUT_PHASE</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">;</span></span></code></pre></figure>
+<p><code>finishedWork</code> is the workInProgress version. The line runs after mutation and before layout, so <code>componentWillUnmount</code> still sees the old version as current, while <code>useLayoutEffect</code> and <code>componentDidMount</code> already see the new one.</p>
+<h3>alternate on mount, update, delete</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Case</th><th>Where this fiber is</th><th><code>alternate</code></th></tr></thead><tbody><tr><td>mount</td><td>only in workInProgress</td><td><code>null</code></td></tr><tr><td>update, and this render reached it</td><td>one copy each in current and workInProgress</td><td>the two point at each other</td></tr><tr><td>update, and its whole subtree was skipped</td><td>current and workInProgress share one object</td><td>stays <code>null</code> if it was never reached</td></tr><tr><td>delete</td><td>only in current</td><td>React builds no workInProgress fiber for it</td></tr></tbody></table>
+<p>React does not mark a deletion by setting <code>alternate</code> to <code>null</code>. A node being removed gets no workInProgress fiber; React puts the old fiber into the parent's <code>deletions</code> array and adds the <code>ChildDeletion</code> flag to the parent. Commit reads that array and calls <code>removeChild</code>.</p>
+<p>The code is <code>deleteChild</code> in <a href="https://github.com/react/react/blob/v19.3.1/packages/react-reconciler/src/ReactChildFiber.js"><code>ReactChildFiber.js</code></a>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> deleteChild</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">returnFiber</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">childToDelete</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">!</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">shouldTrackSideEffects) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  }</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> deletions</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> returnFiber.deletions;</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (deletions </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">===</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    returnFiber.deletions </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> [childToDelete];  </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// parent records which children to delete</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    returnFiber.flags </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">|=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> ChildDeletion;       </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// parent gets the flag</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  } </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">else</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    deletions.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">push</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(childToDelete);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p><code>returnFiber</code> is the parent. Only the parent's <code>deletions</code> and <code>flags</code> change; nothing touches the removed child's <code>alternate</code>.</p>
+<h2>Where useState keeps its value</h2>
+<p>A function component is just a function. It runs, returns, and its local variables are gone. Write <code>let count = 0</code> inside a component and it goes back to 0 every render. So how does a <code>useState</code> value survive until the next render?</p>
+<p>It lives on the component's fiber, in the <code>memoizedState</code> field. That field points to a linked list, with one node for every call to <code>useState</code>, <code>useRef</code>, <code>useEffect</code>. For a component that calls <code>useState</code>, <code>useRef</code>, <code>useEffect</code> in that order, <code>fiber.memoizedState</code> points to the first node (the <code>useState</code> one), its <code>next</code> points to the <code>useRef</code> node, and the one after that is the <code>useEffect</code> node.</p>
+<p>As the previous section showed, a component's fiber has two copies that take turns. On each render, the workInProgress fiber copies the hook nodes from the current fiber one by one, in order (<code>updateWorkInProgressHook</code> in <a href="https://github.com/react/react/blob/v19.3.1/packages/react-reconciler/src/ReactFiberHooks.js"><code>ReactFiberHooks.js</code></a>), so the values carry over. Each time render reaches a <code>useState</code>, React moves to the next node in the list and hands back what is stored there.</p>
+<p>How does React know which node belongs to which <code>useState</code>? It does not know your variable names, so it cannot tell which <code>useState</code> is <code>name</code> and which is <code>age</code>. It can only count: the first call gets the first node, the second call gets the second, and so on.</p>
+<p>The hook node has no place for a name either. React creates hook nodes in <code>mountWorkInProgressHook</code> in <code>ReactFiberHooks.js</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> hook</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  memoizedState: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  baseState: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  baseQueue: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  queue: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  next: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">};</span></span></code></pre></figure>
+<p>No name, no key, no id; the only link from one hook to the next is <code>next</code>. Reading a component in React 19.3.1 that calls <code>useState('Ann')</code>, <code>useRef</code>, <code>useEffect</code> in order, all three nodes have exactly these five fields, and their <code>memoizedState</code> values are <code>'Ann'</code>, <code>{ current }</code>, and an effect object.</p>
+<p>So the order of hook calls has to be the same on every render. Try putting a hook inside an <code>if</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="jsx" data-theme="github-dark github-light"><code data-language="jsx" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> Profile</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">({ </span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">show</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> }) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (show) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    const</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> [</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">name</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">] </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> useState</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'Ann'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)   </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// sometimes called, sometimes skipped</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  }</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  const</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> [</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">age</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">] </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> useState</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">20</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>First render, <code>show</code> is <code>true</code>. Two calls, two nodes:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Call</th><th>Node it gets</th><th>Value</th></tr></thead><tbody><tr><td>1st (<code>name</code>)</td><td>node 1</td><td><code>'Ann'</code></td></tr><tr><td>2nd (<code>age</code>)</td><td>node 2</td><td><code>20</code></td></tr></tbody></table>
+<p>Next render, <code>show</code> is <code>false</code>, and the <code>if</code> skips the first call. One call is left, and React still counts from the top:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Call</th><th>Node it gets</th><th>Value</th></tr></thead><tbody><tr><td>1st (<code>age</code>)</td><td>node 1</td><td><code>'Ann'</code></td></tr></tbody></table>
+<p><code>age</code> gets the first node and reads <code>name</code>'s value. Every hook after the skipped one moves up a position and reads the wrong value. React expected two hooks and saw one, so it throws. Running this with the React 19.3.1 development build, <code>age</code> on the second render is indeed <code>'Ann'</code>, followed by "Rendered fewer hooks than expected. This may be caused by an accidental early return statement." That is why hooks go at the top level of a component: not inside <code>if</code> or <code>for</code>, and not after an early <code>return</code> (<a href="https://react.dev/reference/rules/rules-of-hooks">Rules of Hooks</a>).</p>
+<p>This also explains why changing <code>key</code> resets state. When a component's <code>key</code> changes, React creates a new fiber for it, with an empty <code>memoizedState</code>. Measured: a component whose <code>count</code> was raised to 2 stays at 2 when re-rendered with the same key, and goes back to 0 when the key changes from <code>a</code> to <code>b</code>.</p>
+<h2>A few more questions</h2>
+<h3>Why does <code>&#x3C;MyComponent /></code> render, but lowercase <code>&#x3C;myComponent /></code> does not?</h3>
+<p>The JSX compiler looks at the first letter to decide what goes into <code>type</code>: uppercase means a variable, lowercase means a string. Compiled with esbuild 0.25.10:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">div</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> />          →  </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">createElement</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"div"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)          </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// lowercase: a string</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">MyComponent</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> />  →  </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">createElement</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(MyComponent, </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)    </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// uppercase: a variable</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">myComponent</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> />  →  </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">createElement</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"myComponent"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)  </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// lowercase: still a string</span></span></code></pre></figure>
+<p><code>&#x3C;myComponent /></code> looks like a component, but its first letter is lowercase, so the compiler emits the string <code>"myComponent"</code>. React gets <code>type: "myComponent"</code>, treats it as an HTML tag, and creates a <code>&#x3C;mycomponent></code>. The function named <code>myComponent</code> is never called.</p>
+<p>The browser does not recognize the tag, but it does not drop it either. Rendering <code>&#x3C;myComponent>child text&#x3C;/myComponent></code> with React 19.3.1 in Chrome 156 leaves an <code>HTMLUnknownElement</code> on the page, with <code>display: inline</code>, and the text inside still shows. The development build logs two errors in the console: one says the casing is wrong, the other says the browser does not recognize the <code>&#x3C;myComponent></code> tag and that a component name must start with an uppercase letter. The production build logs nothing.</p>
+<p>Casing is the JSX compiler's rule; React only receives the <code>type</code> the compiler already decided (<a href="https://legacy.reactjs.org/docs/jsx-in-depth.html#user-defined-components-must-be-capitalized">JSX In Depth</a>).</p>
+<h3>Why can a component return <code>null</code> but not a Component?</h3>
+<p>What a component returns has to be a ReactNode. <code>null</code> is a ReactNode, meaning "render nothing here". A Component is a function, and a function is not a ReactNode. You need <code>&#x3C;Comp /></code>, not just <code>Comp</code>.</p>
+<p>In React 19.3.1, <code>return Comp</code> puts nothing on screen. The development build logs "Functions are not valid as a React child. This may happen if you return Comp instead of <comp> from render. Or maybe you meant to call this function rather than return it." The production build logs nothing. In TypeScript, assigning a function to a variable typed <code>ReactNode</code> is an error.</comp></p>
+<h3>Why does changing a list item's <code>key</code> reset its state?</h3>
+<p>During render, React matches new elements to existing fibers by <code>key</code>:</p>
+<ul>
+<li><strong>Same key and type</strong>: reuse the fiber; its <code>memoizedState</code> and DOM node stay.</li>
+<li><strong>Different key</strong>: drop the old fiber and create a new one with empty state.</li>
+</ul>
+<p>Using the array index as the key causes trouble: insert a row at the top, every index shifts by one, and React pairs the wrong fiber with the wrong row. Below, every row has a <code>useState('note for ' + label)</code>, and A is inserted in front of B and C:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Key</th><th>Before</th><th>After inserting A at the top</th></tr></thead><tbody><tr><td>index</td><td><code>B / note for B</code>, <code>C / note for C</code></td><td><code>A / note for B</code>, <code>B / note for C</code>, <code>C / note for C</code></td></tr><tr><td>each row's own id</td><td><code>B / note for B</code>, <code>C / note for C</code></td><td><code>A / note for A</code>, <code>B / note for B</code>, <code>C / note for C</code></td></tr></tbody></table>
+<p>With index keys, A got B's old state, B got C's, and C is a newly created fiber.</p>
+<h2>Summary</h2>
+<ol>
+<li>JSX produces a <strong>ReactElement</strong>, whose <code>type</code> is a string or a Component.</li>
+<li>During render, React creates a fiber for each element, or reuses the one from last time. If <code>type</code> is a Component, React calls it and gets more elements.</li>
+<li>React walks the fibers one at a time through <code>child</code>, <code>sibling</code> and <code>return</code>, without recursive calls.</li>
+<li>A fiber whose <code>type</code> is a string creates its DOM node in <code>completeWork</code> and attaches its children; it is not on the page yet.</li>
+<li>Commit puts those DOM nodes on the page, then swaps <code>root.current</code> to the new version.</li>
+</ol>
+<h2>Environment</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Item</th><th>Version</th></tr></thead><tbody><tr><td>React, react-dom</td><td>19.3.1, bundled with esbuild 0.25.10, production and development builds</td></tr><tr><td>Browser</td><td>Google Chrome 156.0.8078.79, headless, Playwright 1.64.1</td></tr><tr><td>TypeScript</td><td>5.9.3, <code>@types/react</code> 19.3.0</td></tr><tr><td>Node.js</td><td>22.22.3</td></tr><tr><td>OS</td><td>macOS (Darwin 24.6.0)</td></tr><tr><td>Source compared</td><td><a href="https://github.com/react/react">react/react</a> <code>v19.3.1</code> tag</td></tr></tbody></table>
+<hr>
+<p>Related: <a href="/v2/from-setstate-to-pixels">from setState to pixels</a> and <a href="/v2/inside-react-fiberworkloop">Inside React's work loop</a>.</p>15:T67b8,
+Writing React means meeting four names every day: `ReactNode`, `ReactElement`, `Component`, and HTML tag names like `div`. Early on it is easy to treat them as the same thing, since they all seem to be a piece of the screen. Yet returning `<Comp />` renders, while returning `Comp` shows nothing; assigning a string to a variable typed `ReactElement` is a TypeScript error, while assigning it to `ReactNode` is fine.
+
+So what is each of these names? Which ones exist only in JavaScript memory, and which one ends up as a DOM node in the browser?
+
+## render and commit
+
+Every time React updates the screen, it works in two steps:
+
+1. **render**: React calls your component functions and works out what the screen should become. This step only handles JavaScript objects; the DOM on the page does not change.
+2. **commit**: React writes the changes that render worked out into the DOM on the page.
+
+After commit, the browser still has to compute styles, lay out, and paint pixels. Those steps are in [from setState to pixels](/v2/from-setstate-to-pixels).
+
+## What each name is
+
+| Name | What it is | Where it exists |
+|---|---|---|
+| **ReactNode** | A TypeScript type, the widest one: any value React can render | Only during type checking; gone once compiled to JavaScript |
+| **ReactElement** | A plain object made by JSX or `createElement`; main fields are `type`, `props`, `key` | JavaScript memory |
+| **Component** | A function or class that takes props and returns what to render | A function in JavaScript memory |
+| **`div`** | A string, the name of an HTML tag | The string is in JavaScript memory; React creates an `HTMLDivElement` for it during render and puts it on the page at commit |
+
+Of the four names, only `div` ends up matched to a DOM element on the page. Strings and numbers are ReactNodes too, though, and they become Text nodes. After `<b>{42}</b>` commits, the `<b>` on the page holds one Text node whose content is `"42"`. `null` and `false` produce no DOM.
+
+## How the four relate
+
+### ReactNode contains ReactElement
+
+`ReactNode` is the widest type. Any value React can render counts, and ReactElement is just one kind:
+
+```tsx
+<div />                          // ReactElement
+<>hi</>                          // also a ReactElement, type is React.Fragment
+'hello'                          // string
+42                               // number
+null
+false
+[<a key="a" />, <b key="b" />]   // array
+```
+
+Checked with TypeScript 5.9.3 and `@types/react` 19.3.0, every line above is assignable to `ReactNode`. `<>hi</>` is also assignable to `ReactElement`, because JSX compiles it to `jsx(Fragment, { children: 'hi' })`, which produces an element whose `type` is `React.Fragment`. The `ReactNode` definition in `@types/react` also includes `bigint`, portals and Promises.
+
+### Component and `'div'` sit in the same field
+
+A ReactElement produced by the React 19.3.1 production build looks like this:
+
+```js
+{ $$typeof: Symbol(react.transitional.element), type, key, ref, props }
+```
+
+`$$typeof` is the marker React uses to confirm "this is an element"; `React.isValidElement` checks it.
+
+The `type` field can hold a string such as `'div'`, which makes the element a host component, or it can hold a Component, meaning a function or a class. The two kinds of value share one field and neither contains the other:
+
+```jsx
+<div>hi</div>        // type: 'div'      string, host component
+<Button>hi</Button>  // type: Button     function, your own component
+```
+
+During render, React looks at `type` to decide what to do:
+
+- String: create a DOM node for it, and put it on the page at commit.
+- Function or class: call it, and keep going with whatever it returns.
+
+### Component produces ReactElements
+
+When you write `<Button label="OK" />`, `Button` has not been called yet. The line only produces an element with `type: Button`. React calls `Button` when render reaches that element. What it returns is usually a ReactElement, but it can also be a string or `null`; in any case it is a ReactNode.
+
+```jsx
+function Button({ label }) {
+  return <span>{label}</span>   // returns a ReactElement
+}
+```
+
+There is no `Button` on the page. Only the `<span>` it returns becomes a `<span>` node on the page, at commit.
+
+## From `<Greeting />` to HTMLDivElement
+
+```jsx
+function Greeting({ name }) {
+  return <div>Hello, {name}</div>
+}
+
+const tree = <Greeting name="Jialin" />
+```
+
+`tree` is a ReactElement, and its `type` field holds the `Greeting` function itself:
+
+```js
+{
+  $$typeof: Symbol(react.transitional.element),
+  type: Greeting,
+  key: null,
+  ref: null,
+  props: { name: 'Jialin' }
+}
+```
+
+At this point `Greeting` has not been called.
+
+During render, React creates a **fiber** for each element. A fiber is React's own record object: what kind of component this is, what its props are, where its state lives, which children it has, which DOM node it maps to. No field on the fiber points at the element object; React copies only the element's `type`, `key` and `props` onto the fiber. In React 19 `ref` lives inside `props`, so it is copied too. The code is `createFiberFromElement` in [`ReactFiber.js`](https://github.com/react/react/blob/v19.3.1/packages/react-reconciler/src/ReactFiber.js). Elements are made fresh every render, while fibers stay for the next render.
+
+<details>
+<summary>Is the element garbage collected right after the copy?</summary>
+
+After the copy, the element is not necessarily garbage collected right away, because a fiber may still reference it indirectly. Take `<main><Greeting /></main>`: the `<Greeting />` element sits in the `main` element's `props.children`, and the `main` fiber stores the whole props object in `memoizedProps`. As long as some fiber's `memoizedProps` points at those props, `<Greeting />` is not collected. The `<div>` that `Greeting` returns is different: it is not in any element's props, and the `Greeting` fiber has no field that stores the component's return value, so no fiber references it. If the `tree` above is passed straight to `root.render`, React stores it in `memoizedState.element` of the topmost fiber of the tree (the HostRoot printed below), so it stays too.
+
+In the development build the fiber has a few more fields: React copies the element's `_owner`, `_debugStack` and `_debugTask` to the fiber's `_debugOwner`, `_debugStack` and `_debugTask`. Fibers in the production build have none of these fields.
+
+</details>
+
+The fiber for `Greeting` is created first. React sees that `type` is a function, calls it with the props, and gets another element:
+
+```js
+{
+  $$typeof: Symbol(react.transitional.element),
+  type: 'div',
+  key: null,
+  ref: null,
+  props: { children: ['Hello, ', 'Jialin'] }
+}
+```
+
+This time `type` is the string `'div'`, and React creates a host component fiber for it. The two strings in `children` get a fiber each as well. Rendering `<Greeting name="Jialin" />` with React 19.3.1 in Chrome 156 and then walking every fiber down from the root prints:
+
+```
+HostRoot
+  FunctionComponent  Greeting    stateNode = null
+    HostComponent    div         stateNode = HTMLDivElement
+      HostText       "Hello, "   stateNode = Text
+      HostText       "Jialin"    stateNode = Text
+```
+
+When children is a single string or number, though, React creates no HostText fiber. In the earlier `<b>{42}</b>`, the `<b>` fiber has no child. When React creates the `<b>` DOM element and sets its props, it sees that `children` is the number 42, sets the `textContent` of `<b>` to `"42"`, and the browser creates a Text node inside `<b>` (`setProp` in [`ReactDOMComponent.js`](https://github.com/react/react/blob/v19.3.1/packages/react-dom-bindings/src/client/ReactDOMComponent.js)).
+
+The `div` fiber, with most fields removed, looks roughly like this (full definition in [`ReactInternalTypes.js`](https://github.com/react/react/blob/v19.3.1/packages/react-reconciler/src/ReactInternalTypes.js)):
+
+```js
+{
+  tag: HostComponent,
+  type: 'div',                    // same as the element's type
+  stateNode: HTMLDivElement,      // DOM node created during render
+  child: Fiber,                   // first child, here the "Hello, " fiber
+  sibling: null,                  // next sibling
+  return: Fiber,                  // parent, here the Greeting fiber
+  alternate: Fiber | null,        // matching fiber in the other fiber tree, next section
+  memoizedProps: { children: ['Hello, ', 'Jialin'] },
+  memoizedState: null,            // a function component's fiber keeps its hook list here
+  lanes: 0,                       // pending updates on this fiber, and their priorities
+  flags: 0,                       // what commit must do: Placement, Update, ChildDeletion, etc.
+}
+```
+
+`return` points to the parent. The source comment says the name comes from the return address a function call jumps back to when it ends: when React finishes a fiber, it goes back to that fiber's `return`.
+
+### When the DOM node is created, and when it enters the page
+
+Wrap `document.createElement` and `appendChild` with logging, then mount an `App` with the React 19.3.1 production build. `App` has two children: `A` renders `<section><p>a</p></section>`, and `B` renders `<div>b</div>`. The logged order is:
+
+1. render `App`
+2. render `A`
+3. `document.createElement('p')`
+4. `document.createElement('section')`
+5. `<p>` appended under `<section>`; `<section>` is not on the page yet
+6. render `B`
+7. `document.createElement('div')`
+8. `<section>` appended under `#root`; only now is it on the page
+9. `<div>` appended under `#root`
+10. `useLayoutEffect`
+
+`<section>` and `<p>` exist before `B` renders, which means they were created during render. As React walks the fibers, it passes each fiber twice: on the way down it calls the component, and on the way back up it finishes the fiber, a step called `completeWork`. A host component fiber creates its DOM node in `completeWork` and appends its children's DOM nodes to it; none of this is on the page yet ([`ReactFiberCompleteWork.js`](https://github.com/react/react/blob/v19.3.1/packages/react-reconciler/src/ReactFiberCompleteWork.js), the `HostComponent` branch calls `createInstance` and `appendAllChildren`). At commit, React puts the assembled DOM into `#root`. The way down and the way back up are covered in [Inside React's work loop](/v2/inside-react-fiberworkloop).
+
+The whole path, in order:
+
+1. `Greeting` is a function in your source code; it is always there.
+2. JSX produces the element `{ type: Greeting }`; the next render produces a new element.
+3. React creates a fiber for it. Hook values live on this fiber, which stays for the next render.
+4. React calls `Greeting` and gets the element `{ type: 'div' }`. Once React copies its `type`, `key` and `props` onto the fiber, no fiber references it.
+5. React creates a fiber for it, which also stays for the next render.
+6. `completeWork` creates an `HTMLDivElement` for that fiber and stores it in `stateNode`; it is not on the page yet.
+7. Commit puts the `HTMLDivElement` on the page.
+
+## Why each fiber has two copies
+
+React keeps two fiber trees at the same time: `current` is the version on screen, and `workInProgress` is the version this render is building. The fibers on both sides for the same `<div>` point their `stateNode` at the same `HTMLDivElement`: when [`createWorkInProgress`](https://github.com/react/react/blob/v19.3.1/packages/react-reconciler/src/ReactFiber.js) builds a workInProgress fiber, it copies `stateNode` from current.
+
+So when React changes things on workInProgress, does it change the DOM on screen?
+
+No. `stateNode` is only a reference to the DOM node. Changing the DOM takes calls like `setAttribute`, `appendChild`, `removeChild`, and React only makes them in commit's mutation step (`commitMutationEffectsOnFiber` in [`ReactFiberCommitWork.js`](https://github.com/react/react/blob/v19.3.1/packages/react-reconciler/src/ReactFiberCommitWork.js)). What render changes are the fiber's own fields:
+
+```js
+wipFiber.memoizedProps = { children: 'new text' }  // the fiber's own field
+wipFiber.flags |= Update                           // the fiber's own field
+wipFiber.child = newChildFiber                     // a pointer between fibers
+```
+
+The only DOM render creates is for nodes added in this update, like the `<section>` in the previous section, and those are not attached to the page when they are created.
+
+Then why not change the current fiber directly and save a copy? The React source does not give that reason. The comment in `createWorkInProgress` only says React needs at most two versions of the tree, so it keeps the other one around for reuse ("we know that we'll only ever need at most two versions of a tree").
+
+The current code reads current in two places during render, and both treat it as the version left by the last commit:
+
+- `beginWork` calls current's `memoizedProps` `oldProps` and compares it with workInProgress's `pendingProps`. If `oldProps` and `pendingProps` are not the same object, it marks the fiber as updated ([`ReactFiberBeginWork.js`](https://github.com/react/react/blob/v19.3.1/packages/react-reconciler/src/ReactFiberBeginWork.js)).
+- An update wrapped in `startTransition` is called a transition, and its render can be dropped halfway because a more urgent update arrived. After dropping it, React calls `createWorkInProgress(root.current, null)` to copy a fresh workInProgress from current and starts over (`prepareFreshStack` in [`ReactFiberWorkLoop.js`](https://github.com/react/react/blob/v19.3.1/packages/react-reconciler/src/ReactFiberWorkLoop.js)).
+
+React does not prepare two copies of every fiber, though. An experiment in Chrome 156 with React 19.3.1: `Counter` updates its state each time; under it are a `<b>` showing the number and a `Static` wrapped in `React.memo` with no props, which renders an `<i>`. After every commit, walk every fiber down from `root.current` and number each fiber object:
+
+| fiber | after mount | after update 1 | after update 2 | after update 3 |
+|---|---|---|---|---|
+| `Counter` | #1 | #10 | #1 | #10 |
+| `<div>` | #2 | #11 | #2 | #11 |
+| `<b>` | #4 | #12 | #4 | #12 |
+| `Static` (memo) | #6 | #13 | #6 | #13 |
+| `<i>` | #7 | #7 | #7 | #7 |
+
+The first four fibers have one copy after mount. On the first update React creates a second copy of each, and from then on the two take turns as current. So "this component's fiber" is not one fixed object; it switches to the other copy every render. The DOM node behind `<div>`, on the other hand, is the same one throughout.
+
+`<i>` is the single object #7 throughout, with `alternate` always `null`. `Static`'s props did not change, so React skipped its whole subtree and never reached the `<i>` fiber, and current and workInProgress share #7. The comment in `createWorkInProgress` says the same: the second fiber is created only when needed, "to avoid allocating extra objects for things that are never updated".
+
+`createWorkInProgress`, with most fields removed:
+
+```js
+function createWorkInProgress(current, pendingProps) {
+  let workInProgress = current.alternate;
+  if (workInProgress === null) {
+    // no second copy yet: create one, point it at the same DOM node, link alternate both ways
+    workInProgress = createFiber(current.tag, pendingProps, current.key, current.mode);
+    workInProgress.stateNode = current.stateNode;
+    workInProgress.alternate = current;
+    current.alternate = workInProgress;
+  } else {
+    // already exists: reuse it, clear its flags
+    workInProgress.pendingProps = pendingProps;
+    workInProgress.flags = NoFlags;
+  }
+  workInProgress.child = current.child;
+  workInProgress.memoizedState = current.memoizedState;
+  return workInProgress;
+}
+```
+
+As long as the component's type and key stay the same, React keeps alternating between these two objects and never creates a third.
+
+### What commit swaps
+
+Three things in commit, in this order, involve the two fiber trees:
+
+1. **mutation**: change the real DOM, such as `setAttribute`, `appendChild`, `removeChild`. Every change the user will see happens here.
+2. **swap current**: `root.current = finishedWork`; workInProgress becomes current.
+3. **layout**: run `useLayoutEffect` and `componentDidMount`.
+
+There are two copies of each fiber but only one DOM, so mutation has no second DOM to prepare and swap in. It changes the nodes on the page directly, for example changing an attribute, or adding and removing a few nodes. By the time current is swapped, the DOM is already updated, so this line changes nothing on screen. What it affects is the next render: React uses the version just finished as current and compares its props with the new ones, and the old version swapped out becomes the next workInProgress.
+
+The line sits at the end of `flushMutationEffects` in [`ReactFiberWorkLoop.js`](https://github.com/react/react/blob/v19.3.1/packages/react-reconciler/src/ReactFiberWorkLoop.js), which `commitRoot` calls:
+
+```js
+  // The work-in-progress tree is now the current tree. This must come after
+  // the mutation phase, so that the previous tree is still current during
+  // componentWillUnmount, but before the layout phase, so that the finished
+  // work is current during componentDidMount/Update.
+  root.current = finishedWork;
+  pendingEffectsStatus = PENDING_LAYOUT_PHASE;
+```
+
+`finishedWork` is the workInProgress version. The line runs after mutation and before layout, so `componentWillUnmount` still sees the old version as current, while `useLayoutEffect` and `componentDidMount` already see the new one.
+
+### alternate on mount, update, delete
+
+| Case | Where this fiber is | `alternate` |
+|---|---|---|
+| mount | only in workInProgress | `null` |
+| update, and this render reached it | one copy each in current and workInProgress | the two point at each other |
+| update, and its whole subtree was skipped | current and workInProgress share one object | stays `null` if it was never reached |
+| delete | only in current | React builds no workInProgress fiber for it |
+
+React does not mark a deletion by setting `alternate` to `null`. A node being removed gets no workInProgress fiber; React puts the old fiber into the parent's `deletions` array and adds the `ChildDeletion` flag to the parent. Commit reads that array and calls `removeChild`.
+
+The code is `deleteChild` in [`ReactChildFiber.js`](https://github.com/react/react/blob/v19.3.1/packages/react-reconciler/src/ReactChildFiber.js):
+
+```js
+function deleteChild(returnFiber, childToDelete) {
+  if (!shouldTrackSideEffects) {
+    return;
+  }
+  const deletions = returnFiber.deletions;
+  if (deletions === null) {
+    returnFiber.deletions = [childToDelete];  // parent records which children to delete
+    returnFiber.flags |= ChildDeletion;       // parent gets the flag
+  } else {
+    deletions.push(childToDelete);
+  }
+}
+```
+
+`returnFiber` is the parent. Only the parent's `deletions` and `flags` change; nothing touches the removed child's `alternate`.
+
+## Where useState keeps its value
+
+A function component is just a function. It runs, returns, and its local variables are gone. Write `let count = 0` inside a component and it goes back to 0 every render. So how does a `useState` value survive until the next render?
+
+It lives on the component's fiber, in the `memoizedState` field. That field points to a linked list, with one node for every call to `useState`, `useRef`, `useEffect`. For a component that calls `useState`, `useRef`, `useEffect` in that order, `fiber.memoizedState` points to the first node (the `useState` one), its `next` points to the `useRef` node, and the one after that is the `useEffect` node.
+
+As the previous section showed, a component's fiber has two copies that take turns. On each render, the workInProgress fiber copies the hook nodes from the current fiber one by one, in order (`updateWorkInProgressHook` in [`ReactFiberHooks.js`](https://github.com/react/react/blob/v19.3.1/packages/react-reconciler/src/ReactFiberHooks.js)), so the values carry over. Each time render reaches a `useState`, React moves to the next node in the list and hands back what is stored there.
+
+How does React know which node belongs to which `useState`? It does not know your variable names, so it cannot tell which `useState` is `name` and which is `age`. It can only count: the first call gets the first node, the second call gets the second, and so on.
+
+The hook node has no place for a name either. React creates hook nodes in `mountWorkInProgressHook` in `ReactFiberHooks.js`:
+
+```js
+const hook = {
+  memoizedState: null,
+  baseState: null,
+  baseQueue: null,
+  queue: null,
+  next: null,
+};
+```
+
+No name, no key, no id; the only link from one hook to the next is `next`. Reading a component in React 19.3.1 that calls `useState('Ann')`, `useRef`, `useEffect` in order, all three nodes have exactly these five fields, and their `memoizedState` values are `'Ann'`, `{ current }`, and an effect object.
+
+So the order of hook calls has to be the same on every render. Try putting a hook inside an `if`:
+
+```jsx
+function Profile({ show }) {
+  if (show) {
+    const [name] = useState('Ann')   // sometimes called, sometimes skipped
+  }
+  const [age] = useState(20)
+}
+```
+
+First render, `show` is `true`. Two calls, two nodes:
+
+| Call | Node it gets | Value |
+|---|---|---|
+| 1st (`name`) | node 1 | `'Ann'` |
+| 2nd (`age`) | node 2 | `20` |
+
+Next render, `show` is `false`, and the `if` skips the first call. One call is left, and React still counts from the top:
+
+| Call | Node it gets | Value |
+|---|---|---|
+| 1st (`age`) | node 1 | `'Ann'` |
+
+`age` gets the first node and reads `name`'s value. Every hook after the skipped one moves up a position and reads the wrong value. React expected two hooks and saw one, so it throws. Running this with the React 19.3.1 development build, `age` on the second render is indeed `'Ann'`, followed by "Rendered fewer hooks than expected. This may be caused by an accidental early return statement." That is why hooks go at the top level of a component: not inside `if` or `for`, and not after an early `return` ([Rules of Hooks](https://react.dev/reference/rules/rules-of-hooks)).
+
+This also explains why changing `key` resets state. When a component's `key` changes, React creates a new fiber for it, with an empty `memoizedState`. Measured: a component whose `count` was raised to 2 stays at 2 when re-rendered with the same key, and goes back to 0 when the key changes from `a` to `b`.
+
+## A few more questions
+
+### Why does `<MyComponent />` render, but lowercase `<myComponent />` does not?
+
+The JSX compiler looks at the first letter to decide what goes into `type`: uppercase means a variable, lowercase means a string. Compiled with esbuild 0.25.10:
+
+```js
+<div />          →  createElement("div", null)          // lowercase: a string
+<MyComponent />  →  createElement(MyComponent, null)    // uppercase: a variable
+<myComponent />  →  createElement("myComponent", null)  // lowercase: still a string
+```
+
+`<myComponent />` looks like a component, but its first letter is lowercase, so the compiler emits the string `"myComponent"`. React gets `type: "myComponent"`, treats it as an HTML tag, and creates a `<mycomponent>`. The function named `myComponent` is never called.
+
+The browser does not recognize the tag, but it does not drop it either. Rendering `<myComponent>child text</myComponent>` with React 19.3.1 in Chrome 156 leaves an `HTMLUnknownElement` on the page, with `display: inline`, and the text inside still shows. The development build logs two errors in the console: one says the casing is wrong, the other says the browser does not recognize the `<myComponent>` tag and that a component name must start with an uppercase letter. The production build logs nothing.
+
+Casing is the JSX compiler's rule; React only receives the `type` the compiler already decided ([JSX In Depth](https://legacy.reactjs.org/docs/jsx-in-depth.html#user-defined-components-must-be-capitalized)).
+
+### Why can a component return `null` but not a Component?
+
+What a component returns has to be a ReactNode. `null` is a ReactNode, meaning "render nothing here". A Component is a function, and a function is not a ReactNode. You need `<Comp />`, not just `Comp`.
+
+In React 19.3.1, `return Comp` puts nothing on screen. The development build logs "Functions are not valid as a React child. This may happen if you return Comp instead of <Comp /> from render. Or maybe you meant to call this function rather than return it." The production build logs nothing. In TypeScript, assigning a function to a variable typed `ReactNode` is an error.
+
+### Why does changing a list item's `key` reset its state?
+
+During render, React matches new elements to existing fibers by `key`:
+
+- **Same key and type**: reuse the fiber; its `memoizedState` and DOM node stay.
+- **Different key**: drop the old fiber and create a new one with empty state.
+
+Using the array index as the key causes trouble: insert a row at the top, every index shifts by one, and React pairs the wrong fiber with the wrong row. Below, every row has a `useState('note for ' + label)`, and A is inserted in front of B and C:
+
+| Key | Before | After inserting A at the top |
+|---|---|---|
+| index | `B / note for B`, `C / note for C` | `A / note for B`, `B / note for C`, `C / note for C` |
+| each row's own id | `B / note for B`, `C / note for C` | `A / note for A`, `B / note for B`, `C / note for C` |
+
+With index keys, A got B's old state, B got C's, and C is a newly created fiber.
+
+## Summary
+
+1. JSX produces a **ReactElement**, whose `type` is a string or a Component.
+2. During render, React creates a fiber for each element, or reuses the one from last time. If `type` is a Component, React calls it and gets more elements.
+3. React walks the fibers one at a time through `child`, `sibling` and `return`, without recursive calls.
+4. A fiber whose `type` is a string creates its DOM node in `completeWork` and attaches its children; it is not on the page yet.
+5. Commit puts those DOM nodes on the page, then swaps `root.current` to the new version.
+
+## Environment
+
+| Item | Version |
+|---|---|
+| React, react-dom | 19.3.1, bundled with esbuild 0.25.10, production and development builds |
+| Browser | Google Chrome 156.0.8078.79, headless, Playwright 1.64.1 |
+| TypeScript | 5.9.3, `@types/react` 19.3.0 |
+| Node.js | 22.22.3 |
+| OS | macOS (Darwin 24.6.0) |
+| Source compared | [react/react](https://github.com/react/react) `v19.3.1` tag |
+
+---
+
+Related: [from setState to pixels](/v2/from-setstate-to-pixels) and [Inside React's work loop](/v2/inside-react-fiberworkloop).
+16:T8c54,LS0tCnRpdGxlOiAiUmVhY3ROb2RlLCBSZWFjdEVsZW1lbnQsIENvbXBvbmVudCwgZGl2OiB3aGljaCBsaXZlIG9ubHkgaW4gbWVtb3J5LCBhbmQgd2hpY2ggYmVjb21lcyBET00iCmRhdGU6IDIwMjYtMDQtMjFUMDk6MDA6MDAKdGFnczogW3JlYWN0LCBpbnRlcm5hbHMsIHR5cGVzXQpkZXNjcmlwdGlvbjogIkZvdXIgbmFtZXMgdGhhdCBnZXQgdXNlZCBpbnRlcmNoYW5nZWFibHkuIFdoYXQgaXMgZWFjaCBvbmU/IEZvbGxvdyA8R3JlZXRpbmcgLz4gZnJvbSBlbGVtZW50IHRvIGZpYmVyIHRvIHRoZSBIVE1MRGl2RWxlbWVudCBvbiB0aGUgcGFnZSwgYW5kIHNlZSB3aHkgZmliZXJzIGNvbWUgaW4gdHdvIGNvcGllcyBhbmQgd2hlcmUgdXNlU3RhdGUga2VlcHMgaXRzIHZhbHVlLiIKLS0tCgpXcml0aW5nIFJlYWN0IG1lYW5zIG1lZXRpbmcgZm91ciBuYW1lcyBldmVyeSBkYXk6IGBSZWFjdE5vZGVgLCBgUmVhY3RFbGVtZW50YCwgYENvbXBvbmVudGAsIGFuZCBIVE1MIHRhZyBuYW1lcyBsaWtlIGBkaXZgLiBFYXJseSBvbiBpdCBpcyBlYXN5IHRvIHRyZWF0IHRoZW0gYXMgdGhlIHNhbWUgdGhpbmcsIHNpbmNlIHRoZXkgYWxsIHNlZW0gdG8gYmUgYSBwaWVjZSBvZiB0aGUgc2NyZWVuLiBZZXQgcmV0dXJuaW5nIGA8Q29tcCAvPmAgcmVuZGVycywgd2hpbGUgcmV0dXJuaW5nIGBDb21wYCBzaG93cyBub3RoaW5nOyBhc3NpZ25pbmcgYSBzdHJpbmcgdG8gYSB2YXJpYWJsZSB0eXBlZCBgUmVhY3RFbGVtZW50YCBpcyBhIFR5cGVTY3JpcHQgZXJyb3IsIHdoaWxlIGFzc2lnbmluZyBpdCB0byBgUmVhY3ROb2RlYCBpcyBmaW5lLgoKU28gd2hhdCBpcyBlYWNoIG9mIHRoZXNlIG5hbWVzPyBXaGljaCBvbmVzIGV4aXN0IG9ubHkgaW4gSmF2YVNjcmlwdCBtZW1vcnksIGFuZCB3aGljaCBvbmUgZW5kcyB1cCBhcyBhIERPTSBub2RlIGluIHRoZSBicm93c2VyPwoKIyMgcmVuZGVyIGFuZCBjb21taXQKCkV2ZXJ5IHRpbWUgUmVhY3QgdXBkYXRlcyB0aGUgc2NyZWVuLCBpdCB3b3JrcyBpbiB0d28gc3RlcHM6CgoxLiAqKnJlbmRlcioqOiBSZWFjdCBjYWxscyB5b3VyIGNvbXBvbmVudCBmdW5jdGlvbnMgYW5kIHdvcmtzIG91dCB3aGF0IHRoZSBzY3JlZW4gc2hvdWxkIGJlY29tZS4gVGhpcyBzdGVwIG9ubHkgaGFuZGxlcyBKYXZhU2NyaXB0IG9iamVjdHM7IHRoZSBET00gb24gdGhlIHBhZ2UgZG9lcyBub3QgY2hhbmdlLgoyLiAqKmNvbW1pdCoqOiBSZWFjdCB3cml0ZXMgdGhlIGNoYW5nZXMgdGhhdCByZW5kZXIgd29ya2VkIG91dCBpbnRvIHRoZSBET00gb24gdGhlIHBhZ2UuCgpBZnRlciBjb21taXQsIHRoZSBicm93c2VyIHN0aWxsIGhhcyB0byBjb21wdXRlIHN0eWxlcywgbGF5IG91dCwgYW5kIHBhaW50IHBpeGVscy4gVGhvc2Ugc3RlcHMgYXJlIGluIFtmcm9tIHNldFN0YXRlIHRvIHBpeGVsc10oL3YyL2Zyb20tc2V0c3RhdGUtdG8tcGl4ZWxzKS4KCiMjIFdoYXQgZWFjaCBuYW1lIGlzCgp8IE5hbWUgfCBXaGF0IGl0IGlzIHwgV2hlcmUgaXQgZXhpc3RzIHwKfC0tLXwtLS18LS0tfAp8ICoqUmVhY3ROb2RlKiogfCBBIFR5cGVTY3JpcHQgdHlwZSwgdGhlIHdpZGVzdCBvbmU6IGFueSB2YWx1ZSBSZWFjdCBjYW4gcmVuZGVyIHwgT25seSBkdXJpbmcgdHlwZSBjaGVja2luZzsgZ29uZSBvbmNlIGNvbXBpbGVkIHRvIEphdmFTY3JpcHQgfAp8ICoqUmVhY3RFbGVtZW50KiogfCBBIHBsYWluIG9iamVjdCBtYWRlIGJ5IEpTWCBvciBgY3JlYXRlRWxlbWVudGA7IG1haW4gZmllbGRzIGFyZSBgdHlwZWAsIGBwcm9wc2AsIGBrZXlgIHwgSmF2YVNjcmlwdCBtZW1vcnkgfAp8ICoqQ29tcG9uZW50KiogfCBBIGZ1bmN0aW9uIG9yIGNsYXNzIHRoYXQgdGFrZXMgcHJvcHMgYW5kIHJldHVybnMgd2hhdCB0byByZW5kZXIgfCBBIGZ1bmN0aW9uIGluIEphdmFTY3JpcHQgbWVtb3J5IHwKfCAqKmBkaXZgKiogfCBBIHN0cmluZywgdGhlIG5hbWUgb2YgYW4gSFRNTCB0YWcgfCBUaGUgc3RyaW5nIGlzIGluIEphdmFTY3JpcHQgbWVtb3J5OyBSZWFjdCBjcmVhdGVzIGFuIGBIVE1MRGl2RWxlbWVudGAgZm9yIGl0IGR1cmluZyByZW5kZXIgYW5kIHB1dHMgaXQgb24gdGhlIHBhZ2UgYXQgY29tbWl0IHwKCk9mIHRoZSBmb3VyIG5hbWVzLCBvbmx5IGBkaXZgIGVuZHMgdXAgbWF0Y2hlZCB0byBhIERPTSBlbGVtZW50IG9uIHRoZSBwYWdlLiBTdHJpbmdzIGFuZCBudW1iZXJzIGFyZSBSZWFjdE5vZGVzIHRvbywgdGhvdWdoLCBhbmQgdGhleSBiZWNvbWUgVGV4dCBub2Rlcy4gQWZ0ZXIgYDxiPns0Mn08L2I+YCBjb21taXRzLCB0aGUgYDxiPmAgb24gdGhlIHBhZ2UgaG9sZHMgb25lIFRleHQgbm9kZSB3aG9zZSBjb250ZW50IGlzIGAiNDIiYC4gYG51bGxgIGFuZCBgZmFsc2VgIHByb2R1Y2Ugbm8gRE9NLgoKIyMgSG93IHRoZSBmb3VyIHJlbGF0ZQoKIyMjIFJlYWN0Tm9kZSBjb250YWlucyBSZWFjdEVsZW1lbnQKCmBSZWFjdE5vZGVgIGlzIHRoZSB3aWRlc3QgdHlwZS4gQW55IHZhbHVlIFJlYWN0IGNhbiByZW5kZXIgY291bnRzLCBhbmQgUmVhY3RFbGVtZW50IGlzIGp1c3Qgb25lIGtpbmQ6CgpgYGB0c3gKPGRpdiAvPiAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gUmVhY3RFbGVtZW50Cjw+aGk8Lz4gICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGFsc28gYSBSZWFjdEVsZW1lbnQsIHR5cGUgaXMgUmVhY3QuRnJhZ21lbnQKJ2hlbGxvJyAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gc3RyaW5nCjQyICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIG51bWJlcgpudWxsCmZhbHNlCls8YSBrZXk9ImEiIC8+LCA8YiBrZXk9ImIiIC8+XSAgIC8vIGFycmF5CmBgYAoKQ2hlY2tlZCB3aXRoIFR5cGVTY3JpcHQgNS45LjMgYW5kIGBAdHlwZXMvcmVhY3RgIDE5LjMuMCwgZXZlcnkgbGluZSBhYm92ZSBpcyBhc3NpZ25hYmxlIHRvIGBSZWFjdE5vZGVgLiBgPD5oaTwvPmAgaXMgYWxzbyBhc3NpZ25hYmxlIHRvIGBSZWFjdEVsZW1lbnRgLCBiZWNhdXNlIEpTWCBjb21waWxlcyBpdCB0byBganN4KEZyYWdtZW50LCB7IGNoaWxkcmVuOiAnaGknIH0pYCwgd2hpY2ggcHJvZHVjZXMgYW4gZWxlbWVudCB3aG9zZSBgdHlwZWAgaXMgYFJlYWN0LkZyYWdtZW50YC4gVGhlIGBSZWFjdE5vZGVgIGRlZmluaXRpb24gaW4gYEB0eXBlcy9yZWFjdGAgYWxzbyBpbmNsdWRlcyBgYmlnaW50YCwgcG9ydGFscyBhbmQgUHJvbWlzZXMuCgojIyMgQ29tcG9uZW50IGFuZCBgJ2RpdidgIHNpdCBpbiB0aGUgc2FtZSBmaWVsZAoKQSBSZWFjdEVsZW1lbnQgcHJvZHVjZWQgYnkgdGhlIFJlYWN0IDE5LjMuMSBwcm9kdWN0aW9uIGJ1aWxkIGxvb2tzIGxpa2UgdGhpczoKCmBgYGpzCnsgJCR0eXBlb2Y6IFN5bWJvbChyZWFjdC50cmFuc2l0aW9uYWwuZWxlbWVudCksIHR5cGUsIGtleSwgcmVmLCBwcm9wcyB9CmBgYAoKYCQkdHlwZW9mYCBpcyB0aGUgbWFya2VyIFJlYWN0IHVzZXMgdG8gY29uZmlybSAidGhpcyBpcyBhbiBlbGVtZW50IjsgYFJlYWN0LmlzVmFsaWRFbGVtZW50YCBjaGVja3MgaXQuCgpUaGUgYHR5cGVgIGZpZWxkIGNhbiBob2xkIGEgc3RyaW5nIHN1Y2ggYXMgYCdkaXYnYCwgd2hpY2ggbWFrZXMgdGhlIGVsZW1lbnQgYSBob3N0IGNvbXBvbmVudCwgb3IgaXQgY2FuIGhvbGQgYSBDb21wb25lbnQsIG1lYW5pbmcgYSBmdW5jdGlvbiBvciBhIGNsYXNzLiBUaGUgdHdvIGtpbmRzIG9mIHZhbHVlIHNoYXJlIG9uZSBmaWVsZCBhbmQgbmVpdGhlciBjb250YWlucyB0aGUgb3RoZXI6CgpgYGBqc3gKPGRpdj5oaTwvZGl2PiAgICAgICAgLy8gdHlwZTogJ2RpdicgICAgICBzdHJpbmcsIGhvc3QgY29tcG9uZW50CjxCdXR0b24+aGk8L0J1dHRvbj4gIC8vIHR5cGU6IEJ1dHRvbiAgICAgZnVuY3Rpb24sIHlvdXIgb3duIGNvbXBvbmVudApgYGAKCkR1cmluZyByZW5kZXIsIFJlYWN0IGxvb2tzIGF0IGB0eXBlYCB0byBkZWNpZGUgd2hhdCB0byBkbzoKCi0gU3RyaW5nOiBjcmVhdGUgYSBET00gbm9kZSBmb3IgaXQsIGFuZCBwdXQgaXQgb24gdGhlIHBhZ2UgYXQgY29tbWl0LgotIEZ1bmN0aW9uIG9yIGNsYXNzOiBjYWxsIGl0LCBhbmQga2VlcCBnb2luZyB3aXRoIHdoYXRldmVyIGl0IHJldHVybnMuCgojIyMgQ29tcG9uZW50IHByb2R1Y2VzIFJlYWN0RWxlbWVudHMKCldoZW4geW91IHdyaXRlIGA8QnV0dG9uIGxhYmVsPSJPSyIgLz5gLCBgQnV0dG9uYCBoYXMgbm90IGJlZW4gY2FsbGVkIHlldC4gVGhlIGxpbmUgb25seSBwcm9kdWNlcyBhbiBlbGVtZW50IHdpdGggYHR5cGU6IEJ1dHRvbmAuIFJlYWN0IGNhbGxzIGBCdXR0b25gIHdoZW4gcmVuZGVyIHJlYWNoZXMgdGhhdCBlbGVtZW50LiBXaGF0IGl0IHJldHVybnMgaXMgdXN1YWxseSBhIFJlYWN0RWxlbWVudCwgYnV0IGl0IGNhbiBhbHNvIGJlIGEgc3RyaW5nIG9yIGBudWxsYDsgaW4gYW55IGNhc2UgaXQgaXMgYSBSZWFjdE5vZGUuCgpgYGBqc3gKZnVuY3Rpb24gQnV0dG9uKHsgbGFiZWwgfSkgewogIHJldHVybiA8c3Bhbj57bGFiZWx9PC9zcGFuPiAgIC8vIHJldHVybnMgYSBSZWFjdEVsZW1lbnQKfQpgYGAKClRoZXJlIGlzIG5vIGBCdXR0b25gIG9uIHRoZSBwYWdlLiBPbmx5IHRoZSBgPHNwYW4+YCBpdCByZXR1cm5zIGJlY29tZXMgYSBgPHNwYW4+YCBub2RlIG9uIHRoZSBwYWdlLCBhdCBjb21taXQuCgojIyBGcm9tIGA8R3JlZXRpbmcgLz5gIHRvIEhUTUxEaXZFbGVtZW50CgpgYGBqc3gKZnVuY3Rpb24gR3JlZXRpbmcoeyBuYW1lIH0pIHsKICByZXR1cm4gPGRpdj5IZWxsbywge25hbWV9PC9kaXY+Cn0KCmNvbnN0IHRyZWUgPSA8R3JlZXRpbmcgbmFtZT0iSmlhbGluIiAvPgpgYGAKCmB0cmVlYCBpcyBhIFJlYWN0RWxlbWVudCwgYW5kIGl0cyBgdHlwZWAgZmllbGQgaG9sZHMgdGhlIGBHcmVldGluZ2AgZnVuY3Rpb24gaXRzZWxmOgoKYGBganMKewogICQkdHlwZW9mOiBTeW1ib2wocmVhY3QudHJhbnNpdGlvbmFsLmVsZW1lbnQpLAogIHR5cGU6IEdyZWV0aW5nLAogIGtleTogbnVsbCwKICByZWY6IG51bGwsCiAgcHJvcHM6IHsgbmFtZTogJ0ppYWxpbicgfQp9CmBgYAoKQXQgdGhpcyBwb2ludCBgR3JlZXRpbmdgIGhhcyBub3QgYmVlbiBjYWxsZWQuCgpEdXJpbmcgcmVuZGVyLCBSZWFjdCBjcmVhdGVzIGEgKipmaWJlcioqIGZvciBlYWNoIGVsZW1lbnQuIEEgZmliZXIgaXMgUmVhY3QncyBvd24gcmVjb3JkIG9iamVjdDogd2hhdCBraW5kIG9mIGNvbXBvbmVudCB0aGlzIGlzLCB3aGF0IGl0cyBwcm9wcyBhcmUsIHdoZXJlIGl0cyBzdGF0ZSBsaXZlcywgd2hpY2ggY2hpbGRyZW4gaXQgaGFzLCB3aGljaCBET00gbm9kZSBpdCBtYXBzIHRvLiBObyBmaWVsZCBvbiB0aGUgZmliZXIgcG9pbnRzIGF0IHRoZSBlbGVtZW50IG9iamVjdDsgUmVhY3QgY29waWVzIG9ubHkgdGhlIGVsZW1lbnQncyBgdHlwZWAsIGBrZXlgIGFuZCBgcHJvcHNgIG9udG8gdGhlIGZpYmVyLiBJbiBSZWFjdCAxOSBgcmVmYCBsaXZlcyBpbnNpZGUgYHByb3BzYCwgc28gaXQgaXMgY29waWVkIHRvby4gVGhlIGNvZGUgaXMgYGNyZWF0ZUZpYmVyRnJvbUVsZW1lbnRgIGluIFtgUmVhY3RGaWJlci5qc2BdKGh0dHBzOi8vZ2l0aHViLmNvbS9yZWFjdC9yZWFjdC9ibG9iL3YxOS4zLjEvcGFja2FnZXMvcmVhY3QtcmVjb25jaWxlci9zcmMvUmVhY3RGaWJlci5qcykuIEVsZW1lbnRzIGFyZSBtYWRlIGZyZXNoIGV2ZXJ5IHJlbmRlciwgd2hpbGUgZmliZXJzIHN0YXkgZm9yIHRoZSBuZXh0IHJlbmRlci4KCjxkZXRhaWxzPgo8c3VtbWFyeT5JcyB0aGUgZWxlbWVudCBnYXJiYWdlIGNvbGxlY3RlZCByaWdodCBhZnRlciB0aGUgY29weT88L3N1bW1hcnk+CgpBZnRlciB0aGUgY29weSwgdGhlIGVsZW1lbnQgaXMgbm90IG5lY2Vzc2FyaWx5IGdhcmJhZ2UgY29sbGVjdGVkIHJpZ2h0IGF3YXksIGJlY2F1c2UgYSBmaWJlciBtYXkgc3RpbGwgcmVmZXJlbmNlIGl0IGluZGlyZWN0bHkuIFRha2UgYDxtYWluPjxHcmVldGluZyAvPjwvbWFpbj5gOiB0aGUgYDxHcmVldGluZyAvPmAgZWxlbWVudCBzaXRzIGluIHRoZSBgbWFpbmAgZWxlbWVudCdzIGBwcm9wcy5jaGlsZHJlbmAsIGFuZCB0aGUgYG1haW5gIGZpYmVyIHN0b3JlcyB0aGUgd2hvbGUgcHJvcHMgb2JqZWN0IGluIGBtZW1vaXplZFByb3BzYC4gQXMgbG9uZyBhcyBzb21lIGZpYmVyJ3MgYG1lbW9pemVkUHJvcHNgIHBvaW50cyBhdCB0aG9zZSBwcm9wcywgYDxHcmVldGluZyAvPmAgaXMgbm90IGNvbGxlY3RlZC4gVGhlIGA8ZGl2PmAgdGhhdCBgR3JlZXRpbmdgIHJldHVybnMgaXMgZGlmZmVyZW50OiBpdCBpcyBub3QgaW4gYW55IGVsZW1lbnQncyBwcm9wcywgYW5kIHRoZSBgR3JlZXRpbmdgIGZpYmVyIGhhcyBubyBmaWVsZCB0aGF0IHN0b3JlcyB0aGUgY29tcG9uZW50J3MgcmV0dXJuIHZhbHVlLCBzbyBubyBmaWJlciByZWZlcmVuY2VzIGl0LiBJZiB0aGUgYHRyZWVgIGFib3ZlIGlzIHBhc3NlZCBzdHJhaWdodCB0byBgcm9vdC5yZW5kZXJgLCBSZWFjdCBzdG9yZXMgaXQgaW4gYG1lbW9pemVkU3RhdGUuZWxlbWVudGAgb2YgdGhlIHRvcG1vc3QgZmliZXIgb2YgdGhlIHRyZWUgKHRoZSBIb3N0Um9vdCBwcmludGVkIGJlbG93KSwgc28gaXQgc3RheXMgdG9vLgoKSW4gdGhlIGRldmVsb3BtZW50IGJ1aWxkIHRoZSBmaWJlciBoYXMgYSBmZXcgbW9yZSBmaWVsZHM6IFJlYWN0IGNvcGllcyB0aGUgZWxlbWVudCdzIGBfb3duZXJgLCBgX2RlYnVnU3RhY2tgIGFuZCBgX2RlYnVnVGFza2AgdG8gdGhlIGZpYmVyJ3MgYF9kZWJ1Z093bmVyYCwgYF9kZWJ1Z1N0YWNrYCBhbmQgYF9kZWJ1Z1Rhc2tgLiBGaWJlcnMgaW4gdGhlIHByb2R1Y3Rpb24gYnVpbGQgaGF2ZSBub25lIG9mIHRoZXNlIGZpZWxkcy4KCjwvZGV0YWlscz4KClRoZSBmaWJlciBmb3IgYEdyZWV0aW5nYCBpcyBjcmVhdGVkIGZpcnN0LiBSZWFjdCBzZWVzIHRoYXQgYHR5cGVgIGlzIGEgZnVuY3Rpb24sIGNhbGxzIGl0IHdpdGggdGhlIHByb3BzLCBhbmQgZ2V0cyBhbm90aGVyIGVsZW1lbnQ6CgpgYGBqcwp7CiAgJCR0eXBlb2Y6IFN5bWJvbChyZWFjdC50cmFuc2l0aW9uYWwuZWxlbWVudCksCiAgdHlwZTogJ2RpdicsCiAga2V5OiBudWxsLAogIHJlZjogbnVsbCwKICBwcm9wczogeyBjaGlsZHJlbjogWydIZWxsbywgJywgJ0ppYWxpbiddIH0KfQpgYGAKClRoaXMgdGltZSBgdHlwZWAgaXMgdGhlIHN0cmluZyBgJ2RpdidgLCBhbmQgUmVhY3QgY3JlYXRlcyBhIGhvc3QgY29tcG9uZW50IGZpYmVyIGZvciBpdC4gVGhlIHR3byBzdHJpbmdzIGluIGBjaGlsZHJlbmAgZ2V0IGEgZmliZXIgZWFjaCBhcyB3ZWxsLiBSZW5kZXJpbmcgYDxHcmVldGluZyBuYW1lPSJKaWFsaW4iIC8+YCB3aXRoIFJlYWN0IDE5LjMuMSBpbiBDaHJvbWUgMTU2IGFuZCB0aGVuIHdhbGtpbmcgZXZlcnkgZmliZXIgZG93biBmcm9tIHRoZSByb290IHByaW50czoKCmBgYApIb3N0Um9vdAogIEZ1bmN0aW9uQ29tcG9uZW50ICBHcmVldGluZyAgICBzdGF0ZU5vZGUgPSBudWxsCiAgICBIb3N0Q29tcG9uZW50ICAgIGRpdiAgICAgICAgIHN0YXRlTm9kZSA9IEhUTUxEaXZFbGVtZW50CiAgICAgIEhvc3RUZXh0ICAgICAgICJIZWxsbywgIiAgIHN0YXRlTm9kZSA9IFRleHQKICAgICAgSG9zdFRleHQgICAgICAgIkppYWxpbiIgICAgc3RhdGVOb2RlID0gVGV4dApgYGAKCldoZW4gY2hpbGRyZW4gaXMgYSBzaW5nbGUgc3RyaW5nIG9yIG51bWJlciwgdGhvdWdoLCBSZWFjdCBjcmVhdGVzIG5vIEhvc3RUZXh0IGZpYmVyLiBJbiB0aGUgZWFybGllciBgPGI+ezQyfTwvYj5gLCB0aGUgYDxiPmAgZmliZXIgaGFzIG5vIGNoaWxkLiBXaGVuIFJlYWN0IGNyZWF0ZXMgdGhlIGA8Yj5gIERPTSBlbGVtZW50IGFuZCBzZXRzIGl0cyBwcm9wcywgaXQgc2VlcyB0aGF0IGBjaGlsZHJlbmAgaXMgdGhlIG51bWJlciA0Miwgc2V0cyB0aGUgYHRleHRDb250ZW50YCBvZiBgPGI+YCB0byBgIjQyImAsIGFuZCB0aGUgYnJvd3NlciBjcmVhdGVzIGEgVGV4dCBub2RlIGluc2lkZSBgPGI+YCAoYHNldFByb3BgIGluIFtgUmVhY3RET01Db21wb25lbnQuanNgXShodHRwczovL2dpdGh1Yi5jb20vcmVhY3QvcmVhY3QvYmxvYi92MTkuMy4xL3BhY2thZ2VzL3JlYWN0LWRvbS1iaW5kaW5ncy9zcmMvY2xpZW50L1JlYWN0RE9NQ29tcG9uZW50LmpzKSkuCgpUaGUgYGRpdmAgZmliZXIsIHdpdGggbW9zdCBmaWVsZHMgcmVtb3ZlZCwgbG9va3Mgcm91Z2hseSBsaWtlIHRoaXMgKGZ1bGwgZGVmaW5pdGlvbiBpbiBbYFJlYWN0SW50ZXJuYWxUeXBlcy5qc2BdKGh0dHBzOi8vZ2l0aHViLmNvbS9yZWFjdC9yZWFjdC9ibG9iL3YxOS4zLjEvcGFja2FnZXMvcmVhY3QtcmVjb25jaWxlci9zcmMvUmVhY3RJbnRlcm5hbFR5cGVzLmpzKSk6CgpgYGBqcwp7CiAgdGFnOiBIb3N0Q29tcG9uZW50LAogIHR5cGU6ICdkaXYnLCAgICAgICAgICAgICAgICAgICAgLy8gc2FtZSBhcyB0aGUgZWxlbWVudCdzIHR5cGUKICBzdGF0ZU5vZGU6IEhUTUxEaXZFbGVtZW50LCAgICAgIC8vIERPTSBub2RlIGNyZWF0ZWQgZHVyaW5nIHJlbmRlcgogIGNoaWxkOiBGaWJlciwgICAgICAgICAgICAgICAgICAgLy8gZmlyc3QgY2hpbGQsIGhlcmUgdGhlICJIZWxsbywgIiBmaWJlcgogIHNpYmxpbmc6IG51bGwsICAgICAgICAgICAgICAgICAgLy8gbmV4dCBzaWJsaW5nCiAgcmV0dXJuOiBGaWJlciwgICAgICAgICAgICAgICAgICAvLyBwYXJlbnQsIGhlcmUgdGhlIEdyZWV0aW5nIGZpYmVyCiAgYWx0ZXJuYXRlOiBGaWJlciB8IG51bGwsICAgICAgICAvLyBtYXRjaGluZyBmaWJlciBpbiB0aGUgb3RoZXIgZmliZXIgdHJlZSwgbmV4dCBzZWN0aW9uCiAgbWVtb2l6ZWRQcm9wczogeyBjaGlsZHJlbjogWydIZWxsbywgJywgJ0ppYWxpbiddIH0sCiAgbWVtb2l6ZWRTdGF0ZTogbnVsbCwgICAgICAgICAgICAvLyBhIGZ1bmN0aW9uIGNvbXBvbmVudCdzIGZpYmVyIGtlZXBzIGl0cyBob29rIGxpc3QgaGVyZQogIGxhbmVzOiAwLCAgICAgICAgICAgICAgICAgICAgICAgLy8gcGVuZGluZyB1cGRhdGVzIG9uIHRoaXMgZmliZXIsIGFuZCB0aGVpciBwcmlvcml0aWVzCiAgZmxhZ3M6IDAsICAgICAgICAgICAgICAgICAgICAgICAvLyB3aGF0IGNvbW1pdCBtdXN0IGRvOiBQbGFjZW1lbnQsIFVwZGF0ZSwgQ2hpbGREZWxldGlvbiwgZXRjLgp9CmBgYAoKYHJldHVybmAgcG9pbnRzIHRvIHRoZSBwYXJlbnQuIFRoZSBzb3VyY2UgY29tbWVudCBzYXlzIHRoZSBuYW1lIGNvbWVzIGZyb20gdGhlIHJldHVybiBhZGRyZXNzIGEgZnVuY3Rpb24gY2FsbCBqdW1wcyBiYWNrIHRvIHdoZW4gaXQgZW5kczogd2hlbiBSZWFjdCBmaW5pc2hlcyBhIGZpYmVyLCBpdCBnb2VzIGJhY2sgdG8gdGhhdCBmaWJlcidzIGByZXR1cm5gLgoKIyMjIFdoZW4gdGhlIERPTSBub2RlIGlzIGNyZWF0ZWQsIGFuZCB3aGVuIGl0IGVudGVycyB0aGUgcGFnZQoKV3JhcCBgZG9jdW1lbnQuY3JlYXRlRWxlbWVudGAgYW5kIGBhcHBlbmRDaGlsZGAgd2l0aCBsb2dnaW5nLCB0aGVuIG1vdW50IGFuIGBBcHBgIHdpdGggdGhlIFJlYWN0IDE5LjMuMSBwcm9kdWN0aW9uIGJ1aWxkLiBgQXBwYCBoYXMgdHdvIGNoaWxkcmVuOiBgQWAgcmVuZGVycyBgPHNlY3Rpb24+PHA+YTwvcD48L3NlY3Rpb24+YCwgYW5kIGBCYCByZW5kZXJzIGA8ZGl2PmI8L2Rpdj5gLiBUaGUgbG9nZ2VkIG9yZGVyIGlzOgoKMS4gcmVuZGVyIGBBcHBgCjIuIHJlbmRlciBgQWAKMy4gYGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3AnKWAKNC4gYGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3NlY3Rpb24nKWAKNS4gYDxwPmAgYXBwZW5kZWQgdW5kZXIgYDxzZWN0aW9uPmA7IGA8c2VjdGlvbj5gIGlzIG5vdCBvbiB0aGUgcGFnZSB5ZXQKNi4gcmVuZGVyIGBCYAo3LiBgZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnZGl2JylgCjguIGA8c2VjdGlvbj5gIGFwcGVuZGVkIHVuZGVyIGAjcm9vdGA7IG9ubHkgbm93IGlzIGl0IG9uIHRoZSBwYWdlCjkuIGA8ZGl2PmAgYXBwZW5kZWQgdW5kZXIgYCNyb290YAoxMC4gYHVzZUxheW91dEVmZmVjdGAKCmA8c2VjdGlvbj5gIGFuZCBgPHA+YCBleGlzdCBiZWZvcmUgYEJgIHJlbmRlcnMsIHdoaWNoIG1lYW5zIHRoZXkgd2VyZSBjcmVhdGVkIGR1cmluZyByZW5kZXIuIEFzIFJlYWN0IHdhbGtzIHRoZSBmaWJlcnMsIGl0IHBhc3NlcyBlYWNoIGZpYmVyIHR3aWNlOiBvbiB0aGUgd2F5IGRvd24gaXQgY2FsbHMgdGhlIGNvbXBvbmVudCwgYW5kIG9uIHRoZSB3YXkgYmFjayB1cCBpdCBmaW5pc2hlcyB0aGUgZmliZXIsIGEgc3RlcCBjYWxsZWQgYGNvbXBsZXRlV29ya2AuIEEgaG9zdCBjb21wb25lbnQgZmliZXIgY3JlYXRlcyBpdHMgRE9NIG5vZGUgaW4gYGNvbXBsZXRlV29ya2AgYW5kIGFwcGVuZHMgaXRzIGNoaWxkcmVuJ3MgRE9NIG5vZGVzIHRvIGl0OyBub25lIG9mIHRoaXMgaXMgb24gdGhlIHBhZ2UgeWV0IChbYFJlYWN0RmliZXJDb21wbGV0ZVdvcmsuanNgXShodHRwczovL2dpdGh1Yi5jb20vcmVhY3QvcmVhY3QvYmxvYi92MTkuMy4xL3BhY2thZ2VzL3JlYWN0LXJlY29uY2lsZXIvc3JjL1JlYWN0RmliZXJDb21wbGV0ZVdvcmsuanMpLCB0aGUgYEhvc3RDb21wb25lbnRgIGJyYW5jaCBjYWxscyBgY3JlYXRlSW5zdGFuY2VgIGFuZCBgYXBwZW5kQWxsQ2hpbGRyZW5gKS4gQXQgY29tbWl0LCBSZWFjdCBwdXRzIHRoZSBhc3NlbWJsZWQgRE9NIGludG8gYCNyb290YC4gVGhlIHdheSBkb3duIGFuZCB0aGUgd2F5IGJhY2sgdXAgYXJlIGNvdmVyZWQgaW4gW0luc2lkZSBSZWFjdCdzIHdvcmsgbG9vcF0oL3YyL2luc2lkZS1yZWFjdC1maWJlcndvcmtsb29wKS4KClRoZSB3aG9sZSBwYXRoLCBpbiBvcmRlcjoKCjEuIGBHcmVldGluZ2AgaXMgYSBmdW5jdGlvbiBpbiB5b3VyIHNvdXJjZSBjb2RlOyBpdCBpcyBhbHdheXMgdGhlcmUuCjIuIEpTWCBwcm9kdWNlcyB0aGUgZWxlbWVudCBgeyB0eXBlOiBHcmVldGluZyB9YDsgdGhlIG5leHQgcmVuZGVyIHByb2R1Y2VzIGEgbmV3IGVsZW1lbnQuCjMuIFJlYWN0IGNyZWF0ZXMgYSBmaWJlciBmb3IgaXQuIEhvb2sgdmFsdWVzIGxpdmUgb24gdGhpcyBmaWJlciwgd2hpY2ggc3RheXMgZm9yIHRoZSBuZXh0IHJlbmRlci4KNC4gUmVhY3QgY2FsbHMgYEdyZWV0aW5nYCBhbmQgZ2V0cyB0aGUgZWxlbWVudCBgeyB0eXBlOiAnZGl2JyB9YC4gT25jZSBSZWFjdCBjb3BpZXMgaXRzIGB0eXBlYCwgYGtleWAgYW5kIGBwcm9wc2Agb250byB0aGUgZmliZXIsIG5vIGZpYmVyIHJlZmVyZW5jZXMgaXQuCjUuIFJlYWN0IGNyZWF0ZXMgYSBmaWJlciBmb3IgaXQsIHdoaWNoIGFsc28gc3RheXMgZm9yIHRoZSBuZXh0IHJlbmRlci4KNi4gYGNvbXBsZXRlV29ya2AgY3JlYXRlcyBhbiBgSFRNTERpdkVsZW1lbnRgIGZvciB0aGF0IGZpYmVyIGFuZCBzdG9yZXMgaXQgaW4gYHN0YXRlTm9kZWA7IGl0IGlzIG5vdCBvbiB0aGUgcGFnZSB5ZXQuCjcuIENvbW1pdCBwdXRzIHRoZSBgSFRNTERpdkVsZW1lbnRgIG9uIHRoZSBwYWdlLgoKIyMgV2h5IGVhY2ggZmliZXIgaGFzIHR3byBjb3BpZXMKClJlYWN0IGtlZXBzIHR3byBmaWJlciB0cmVlcyBhdCB0aGUgc2FtZSB0aW1lOiBgY3VycmVudGAgaXMgdGhlIHZlcnNpb24gb24gc2NyZWVuLCBhbmQgYHdvcmtJblByb2dyZXNzYCBpcyB0aGUgdmVyc2lvbiB0aGlzIHJlbmRlciBpcyBidWlsZGluZy4gVGhlIGZpYmVycyBvbiBib3RoIHNpZGVzIGZvciB0aGUgc2FtZSBgPGRpdj5gIHBvaW50IHRoZWlyIGBzdGF0ZU5vZGVgIGF0IHRoZSBzYW1lIGBIVE1MRGl2RWxlbWVudGA6IHdoZW4gW2BjcmVhdGVXb3JrSW5Qcm9ncmVzc2BdKGh0dHBzOi8vZ2l0aHViLmNvbS9yZWFjdC9yZWFjdC9ibG9iL3YxOS4zLjEvcGFja2FnZXMvcmVhY3QtcmVjb25jaWxlci9zcmMvUmVhY3RGaWJlci5qcykgYnVpbGRzIGEgd29ya0luUHJvZ3Jlc3MgZmliZXIsIGl0IGNvcGllcyBgc3RhdGVOb2RlYCBmcm9tIGN1cnJlbnQuCgpTbyB3aGVuIFJlYWN0IGNoYW5nZXMgdGhpbmdzIG9uIHdvcmtJblByb2dyZXNzLCBkb2VzIGl0IGNoYW5nZSB0aGUgRE9NIG9uIHNjcmVlbj8KCk5vLiBgc3RhdGVOb2RlYCBpcyBvbmx5IGEgcmVmZXJlbmNlIHRvIHRoZSBET00gbm9kZS4gQ2hhbmdpbmcgdGhlIERPTSB0YWtlcyBjYWxscyBsaWtlIGBzZXRBdHRyaWJ1dGVgLCBgYXBwZW5kQ2hpbGRgLCBgcmVtb3ZlQ2hpbGRgLCBhbmQgUmVhY3Qgb25seSBtYWtlcyB0aGVtIGluIGNvbW1pdCdzIG11dGF0aW9uIHN0ZXAgKGBjb21taXRNdXRhdGlvbkVmZmVjdHNPbkZpYmVyYCBpbiBbYFJlYWN0RmliZXJDb21taXRXb3JrLmpzYF0oaHR0cHM6Ly9naXRodWIuY29tL3JlYWN0L3JlYWN0L2Jsb2IvdjE5LjMuMS9wYWNrYWdlcy9yZWFjdC1yZWNvbmNpbGVyL3NyYy9SZWFjdEZpYmVyQ29tbWl0V29yay5qcykpLiBXaGF0IHJlbmRlciBjaGFuZ2VzIGFyZSB0aGUgZmliZXIncyBvd24gZmllbGRzOgoKYGBganMKd2lwRmliZXIubWVtb2l6ZWRQcm9wcyA9IHsgY2hpbGRyZW46ICduZXcgdGV4dCcgfSAgLy8gdGhlIGZpYmVyJ3Mgb3duIGZpZWxkCndpcEZpYmVyLmZsYWdzIHw9IFVwZGF0ZSAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIHRoZSBmaWJlcidzIG93biBmaWVsZAp3aXBGaWJlci5jaGlsZCA9IG5ld0NoaWxkRmliZXIgICAgICAgICAgICAgICAgICAgICAvLyBhIHBvaW50ZXIgYmV0d2VlbiBmaWJlcnMKYGBgCgpUaGUgb25seSBET00gcmVuZGVyIGNyZWF0ZXMgaXMgZm9yIG5vZGVzIGFkZGVkIGluIHRoaXMgdXBkYXRlLCBsaWtlIHRoZSBgPHNlY3Rpb24+YCBpbiB0aGUgcHJldmlvdXMgc2VjdGlvbiwgYW5kIHRob3NlIGFyZSBub3QgYXR0YWNoZWQgdG8gdGhlIHBhZ2Ugd2hlbiB0aGV5IGFyZSBjcmVhdGVkLgoKVGhlbiB3aHkgbm90IGNoYW5nZSB0aGUgY3VycmVudCBmaWJlciBkaXJlY3RseSBhbmQgc2F2ZSBhIGNvcHk/IFRoZSBSZWFjdCBzb3VyY2UgZG9lcyBub3QgZ2l2ZSB0aGF0IHJlYXNvbi4gVGhlIGNvbW1lbnQgaW4gYGNyZWF0ZVdvcmtJblByb2dyZXNzYCBvbmx5IHNheXMgUmVhY3QgbmVlZHMgYXQgbW9zdCB0d28gdmVyc2lvbnMgb2YgdGhlIHRyZWUsIHNvIGl0IGtlZXBzIHRoZSBvdGhlciBvbmUgYXJvdW5kIGZvciByZXVzZSAoIndlIGtub3cgdGhhdCB3ZSdsbCBvbmx5IGV2ZXIgbmVlZCBhdCBtb3N0IHR3byB2ZXJzaW9ucyBvZiBhIHRyZWUiKS4KClRoZSBjdXJyZW50IGNvZGUgcmVhZHMgY3VycmVudCBpbiB0d28gcGxhY2VzIGR1cmluZyByZW5kZXIsIGFuZCBib3RoIHRyZWF0IGl0IGFzIHRoZSB2ZXJzaW9uIGxlZnQgYnkgdGhlIGxhc3QgY29tbWl0OgoKLSBgYmVnaW5Xb3JrYCBjYWxscyBjdXJyZW50J3MgYG1lbW9pemVkUHJvcHNgIGBvbGRQcm9wc2AgYW5kIGNvbXBhcmVzIGl0IHdpdGggd29ya0luUHJvZ3Jlc3MncyBgcGVuZGluZ1Byb3BzYC4gSWYgYG9sZFByb3BzYCBhbmQgYHBlbmRpbmdQcm9wc2AgYXJlIG5vdCB0aGUgc2FtZSBvYmplY3QsIGl0IG1hcmtzIHRoZSBmaWJlciBhcyB1cGRhdGVkIChbYFJlYWN0RmliZXJCZWdpbldvcmsuanNgXShodHRwczovL2dpdGh1Yi5jb20vcmVhY3QvcmVhY3QvYmxvYi92MTkuMy4xL3BhY2thZ2VzL3JlYWN0LXJlY29uY2lsZXIvc3JjL1JlYWN0RmliZXJCZWdpbldvcmsuanMpKS4KLSBBbiB1cGRhdGUgd3JhcHBlZCBpbiBgc3RhcnRUcmFuc2l0aW9uYCBpcyBjYWxsZWQgYSB0cmFuc2l0aW9uLCBhbmQgaXRzIHJlbmRlciBjYW4gYmUgZHJvcHBlZCBoYWxmd2F5IGJlY2F1c2UgYSBtb3JlIHVyZ2VudCB1cGRhdGUgYXJyaXZlZC4gQWZ0ZXIgZHJvcHBpbmcgaXQsIFJlYWN0IGNhbGxzIGBjcmVhdGVXb3JrSW5Qcm9ncmVzcyhyb290LmN1cnJlbnQsIG51bGwpYCB0byBjb3B5IGEgZnJlc2ggd29ya0luUHJvZ3Jlc3MgZnJvbSBjdXJyZW50IGFuZCBzdGFydHMgb3ZlciAoYHByZXBhcmVGcmVzaFN0YWNrYCBpbiBbYFJlYWN0RmliZXJXb3JrTG9vcC5qc2BdKGh0dHBzOi8vZ2l0aHViLmNvbS9yZWFjdC9yZWFjdC9ibG9iL3YxOS4zLjEvcGFja2FnZXMvcmVhY3QtcmVjb25jaWxlci9zcmMvUmVhY3RGaWJlcldvcmtMb29wLmpzKSkuCgpSZWFjdCBkb2VzIG5vdCBwcmVwYXJlIHR3byBjb3BpZXMgb2YgZXZlcnkgZmliZXIsIHRob3VnaC4gQW4gZXhwZXJpbWVudCBpbiBDaHJvbWUgMTU2IHdpdGggUmVhY3QgMTkuMy4xOiBgQ291bnRlcmAgdXBkYXRlcyBpdHMgc3RhdGUgZWFjaCB0aW1lOyB1bmRlciBpdCBhcmUgYSBgPGI+YCBzaG93aW5nIHRoZSBudW1iZXIgYW5kIGEgYFN0YXRpY2Agd3JhcHBlZCBpbiBgUmVhY3QubWVtb2Agd2l0aCBubyBwcm9wcywgd2hpY2ggcmVuZGVycyBhbiBgPGk+YC4gQWZ0ZXIgZXZlcnkgY29tbWl0LCB3YWxrIGV2ZXJ5IGZpYmVyIGRvd24gZnJvbSBgcm9vdC5jdXJyZW50YCBhbmQgbnVtYmVyIGVhY2ggZmliZXIgb2JqZWN0OgoKfCBmaWJlciB8IGFmdGVyIG1vdW50IHwgYWZ0ZXIgdXBkYXRlIDEgfCBhZnRlciB1cGRhdGUgMiB8IGFmdGVyIHVwZGF0ZSAzIHwKfC0tLXwtLS18LS0tfC0tLXwtLS18CnwgYENvdW50ZXJgIHwgIzEgfCAjMTAgfCAjMSB8ICMxMCB8CnwgYDxkaXY+YCB8ICMyIHwgIzExIHwgIzIgfCAjMTEgfAp8IGA8Yj5gIHwgIzQgfCAjMTIgfCAjNCB8ICMxMiB8CnwgYFN0YXRpY2AgKG1lbW8pIHwgIzYgfCAjMTMgfCAjNiB8ICMxMyB8CnwgYDxpPmAgfCAjNyB8ICM3IHwgIzcgfCAjNyB8CgpUaGUgZmlyc3QgZm91ciBmaWJlcnMgaGF2ZSBvbmUgY29weSBhZnRlciBtb3VudC4gT24gdGhlIGZpcnN0IHVwZGF0ZSBSZWFjdCBjcmVhdGVzIGEgc2Vjb25kIGNvcHkgb2YgZWFjaCwgYW5kIGZyb20gdGhlbiBvbiB0aGUgdHdvIHRha2UgdHVybnMgYXMgY3VycmVudC4gU28gInRoaXMgY29tcG9uZW50J3MgZmliZXIiIGlzIG5vdCBvbmUgZml4ZWQgb2JqZWN0OyBpdCBzd2l0Y2hlcyB0byB0aGUgb3RoZXIgY29weSBldmVyeSByZW5kZXIuIFRoZSBET00gbm9kZSBiZWhpbmQgYDxkaXY+YCwgb24gdGhlIG90aGVyIGhhbmQsIGlzIHRoZSBzYW1lIG9uZSB0aHJvdWdob3V0LgoKYDxpPmAgaXMgdGhlIHNpbmdsZSBvYmplY3QgIzcgdGhyb3VnaG91dCwgd2l0aCBgYWx0ZXJuYXRlYCBhbHdheXMgYG51bGxgLiBgU3RhdGljYCdzIHByb3BzIGRpZCBub3QgY2hhbmdlLCBzbyBSZWFjdCBza2lwcGVkIGl0cyB3aG9sZSBzdWJ0cmVlIGFuZCBuZXZlciByZWFjaGVkIHRoZSBgPGk+YCBmaWJlciwgYW5kIGN1cnJlbnQgYW5kIHdvcmtJblByb2dyZXNzIHNoYXJlICM3LiBUaGUgY29tbWVudCBpbiBgY3JlYXRlV29ya0luUHJvZ3Jlc3NgIHNheXMgdGhlIHNhbWU6IHRoZSBzZWNvbmQgZmliZXIgaXMgY3JlYXRlZCBvbmx5IHdoZW4gbmVlZGVkLCAidG8gYXZvaWQgYWxsb2NhdGluZyBleHRyYSBvYmplY3RzIGZvciB0aGluZ3MgdGhhdCBhcmUgbmV2ZXIgdXBkYXRlZCIuCgpgY3JlYXRlV29ya0luUHJvZ3Jlc3NgLCB3aXRoIG1vc3QgZmllbGRzIHJlbW92ZWQ6CgpgYGBqcwpmdW5jdGlvbiBjcmVhdGVXb3JrSW5Qcm9ncmVzcyhjdXJyZW50LCBwZW5kaW5nUHJvcHMpIHsKICBsZXQgd29ya0luUHJvZ3Jlc3MgPSBjdXJyZW50LmFsdGVybmF0ZTsKICBpZiAod29ya0luUHJvZ3Jlc3MgPT09IG51bGwpIHsKICAgIC8vIG5vIHNlY29uZCBjb3B5IHlldDogY3JlYXRlIG9uZSwgcG9pbnQgaXQgYXQgdGhlIHNhbWUgRE9NIG5vZGUsIGxpbmsgYWx0ZXJuYXRlIGJvdGggd2F5cwogICAgd29ya0luUHJvZ3Jlc3MgPSBjcmVhdGVGaWJlcihjdXJyZW50LnRhZywgcGVuZGluZ1Byb3BzLCBjdXJyZW50LmtleSwgY3VycmVudC5tb2RlKTsKICAgIHdvcmtJblByb2dyZXNzLnN0YXRlTm9kZSA9IGN1cnJlbnQuc3RhdGVOb2RlOwogICAgd29ya0luUHJvZ3Jlc3MuYWx0ZXJuYXRlID0gY3VycmVudDsKICAgIGN1cnJlbnQuYWx0ZXJuYXRlID0gd29ya0luUHJvZ3Jlc3M7CiAgfSBlbHNlIHsKICAgIC8vIGFscmVhZHkgZXhpc3RzOiByZXVzZSBpdCwgY2xlYXIgaXRzIGZsYWdzCiAgICB3b3JrSW5Qcm9ncmVzcy5wZW5kaW5nUHJvcHMgPSBwZW5kaW5nUHJvcHM7CiAgICB3b3JrSW5Qcm9ncmVzcy5mbGFncyA9IE5vRmxhZ3M7CiAgfQogIHdvcmtJblByb2dyZXNzLmNoaWxkID0gY3VycmVudC5jaGlsZDsKICB3b3JrSW5Qcm9ncmVzcy5tZW1vaXplZFN0YXRlID0gY3VycmVudC5tZW1vaXplZFN0YXRlOwogIHJldHVybiB3b3JrSW5Qcm9ncmVzczsKfQpgYGAKCkFzIGxvbmcgYXMgdGhlIGNvbXBvbmVudCdzIHR5cGUgYW5kIGtleSBzdGF5IHRoZSBzYW1lLCBSZWFjdCBrZWVwcyBhbHRlcm5hdGluZyBiZXR3ZWVuIHRoZXNlIHR3byBvYmplY3RzIGFuZCBuZXZlciBjcmVhdGVzIGEgdGhpcmQuCgojIyMgV2hhdCBjb21taXQgc3dhcHMKClRocmVlIHRoaW5ncyBpbiBjb21taXQsIGluIHRoaXMgb3JkZXIsIGludm9sdmUgdGhlIHR3byBmaWJlciB0cmVlczoKCjEuICoqbXV0YXRpb24qKjogY2hhbmdlIHRoZSByZWFsIERPTSwgc3VjaCBhcyBgc2V0QXR0cmlidXRlYCwgYGFwcGVuZENoaWxkYCwgYHJlbW92ZUNoaWxkYC4gRXZlcnkgY2hhbmdlIHRoZSB1c2VyIHdpbGwgc2VlIGhhcHBlbnMgaGVyZS4KMi4gKipzd2FwIGN1cnJlbnQqKjogYHJvb3QuY3VycmVudCA9IGZpbmlzaGVkV29ya2A7IHdvcmtJblByb2dyZXNzIGJlY29tZXMgY3VycmVudC4KMy4gKipsYXlvdXQqKjogcnVuIGB1c2VMYXlvdXRFZmZlY3RgIGFuZCBgY29tcG9uZW50RGlkTW91bnRgLgoKVGhlcmUgYXJlIHR3byBjb3BpZXMgb2YgZWFjaCBmaWJlciBidXQgb25seSBvbmUgRE9NLCBzbyBtdXRhdGlvbiBoYXMgbm8gc2Vjb25kIERPTSB0byBwcmVwYXJlIGFuZCBzd2FwIGluLiBJdCBjaGFuZ2VzIHRoZSBub2RlcyBvbiB0aGUgcGFnZSBkaXJlY3RseSwgZm9yIGV4YW1wbGUgY2hhbmdpbmcgYW4gYXR0cmlidXRlLCBvciBhZGRpbmcgYW5kIHJlbW92aW5nIGEgZmV3IG5vZGVzLiBCeSB0aGUgdGltZSBjdXJyZW50IGlzIHN3YXBwZWQsIHRoZSBET00gaXMgYWxyZWFkeSB1cGRhdGVkLCBzbyB0aGlzIGxpbmUgY2hhbmdlcyBub3RoaW5nIG9uIHNjcmVlbi4gV2hhdCBpdCBhZmZlY3RzIGlzIHRoZSBuZXh0IHJlbmRlcjogUmVhY3QgdXNlcyB0aGUgdmVyc2lvbiBqdXN0IGZpbmlzaGVkIGFzIGN1cnJlbnQgYW5kIGNvbXBhcmVzIGl0cyBwcm9wcyB3aXRoIHRoZSBuZXcgb25lcywgYW5kIHRoZSBvbGQgdmVyc2lvbiBzd2FwcGVkIG91dCBiZWNvbWVzIHRoZSBuZXh0IHdvcmtJblByb2dyZXNzLgoKVGhlIGxpbmUgc2l0cyBhdCB0aGUgZW5kIG9mIGBmbHVzaE11dGF0aW9uRWZmZWN0c2AgaW4gW2BSZWFjdEZpYmVyV29ya0xvb3AuanNgXShodHRwczovL2dpdGh1Yi5jb20vcmVhY3QvcmVhY3QvYmxvYi92MTkuMy4xL3BhY2thZ2VzL3JlYWN0LXJlY29uY2lsZXIvc3JjL1JlYWN0RmliZXJXb3JrTG9vcC5qcyksIHdoaWNoIGBjb21taXRSb290YCBjYWxsczoKCmBgYGpzCiAgLy8gVGhlIHdvcmstaW4tcHJvZ3Jlc3MgdHJlZSBpcyBub3cgdGhlIGN1cnJlbnQgdHJlZS4gVGhpcyBtdXN0IGNvbWUgYWZ0ZXIKICAvLyB0aGUgbXV0YXRpb24gcGhhc2UsIHNvIHRoYXQgdGhlIHByZXZpb3VzIHRyZWUgaXMgc3RpbGwgY3VycmVudCBkdXJpbmcKICAvLyBjb21wb25lbnRXaWxsVW5tb3VudCwgYnV0IGJlZm9yZSB0aGUgbGF5b3V0IHBoYXNlLCBzbyB0aGF0IHRoZSBmaW5pc2hlZAogIC8vIHdvcmsgaXMgY3VycmVudCBkdXJpbmcgY29tcG9uZW50RGlkTW91bnQvVXBkYXRlLgogIHJvb3QuY3VycmVudCA9IGZpbmlzaGVkV29yazsKICBwZW5kaW5nRWZmZWN0c1N0YXR1cyA9IFBFTkRJTkdfTEFZT1VUX1BIQVNFOwpgYGAKCmBmaW5pc2hlZFdvcmtgIGlzIHRoZSB3b3JrSW5Qcm9ncmVzcyB2ZXJzaW9uLiBUaGUgbGluZSBydW5zIGFmdGVyIG11dGF0aW9uIGFuZCBiZWZvcmUgbGF5b3V0LCBzbyBgY29tcG9uZW50V2lsbFVubW91bnRgIHN0aWxsIHNlZXMgdGhlIG9sZCB2ZXJzaW9uIGFzIGN1cnJlbnQsIHdoaWxlIGB1c2VMYXlvdXRFZmZlY3RgIGFuZCBgY29tcG9uZW50RGlkTW91bnRgIGFscmVhZHkgc2VlIHRoZSBuZXcgb25lLgoKIyMjIGFsdGVybmF0ZSBvbiBtb3VudCwgdXBkYXRlLCBkZWxldGUKCnwgQ2FzZSB8IFdoZXJlIHRoaXMgZmliZXIgaXMgfCBgYWx0ZXJuYXRlYCB8CnwtLS18LS0tfC0tLXwKfCBtb3VudCB8IG9ubHkgaW4gd29ya0luUHJvZ3Jlc3MgfCBgbnVsbGAgfAp8IHVwZGF0ZSwgYW5kIHRoaXMgcmVuZGVyIHJlYWNoZWQgaXQgfCBvbmUgY29weSBlYWNoIGluIGN1cnJlbnQgYW5kIHdvcmtJblByb2dyZXNzIHwgdGhlIHR3byBwb2ludCBhdCBlYWNoIG90aGVyIHwKfCB1cGRhdGUsIGFuZCBpdHMgd2hvbGUgc3VidHJlZSB3YXMgc2tpcHBlZCB8IGN1cnJlbnQgYW5kIHdvcmtJblByb2dyZXNzIHNoYXJlIG9uZSBvYmplY3QgfCBzdGF5cyBgbnVsbGAgaWYgaXQgd2FzIG5ldmVyIHJlYWNoZWQgfAp8IGRlbGV0ZSB8IG9ubHkgaW4gY3VycmVudCB8IFJlYWN0IGJ1aWxkcyBubyB3b3JrSW5Qcm9ncmVzcyBmaWJlciBmb3IgaXQgfAoKUmVhY3QgZG9lcyBub3QgbWFyayBhIGRlbGV0aW9uIGJ5IHNldHRpbmcgYGFsdGVybmF0ZWAgdG8gYG51bGxgLiBBIG5vZGUgYmVpbmcgcmVtb3ZlZCBnZXRzIG5vIHdvcmtJblByb2dyZXNzIGZpYmVyOyBSZWFjdCBwdXRzIHRoZSBvbGQgZmliZXIgaW50byB0aGUgcGFyZW50J3MgYGRlbGV0aW9uc2AgYXJyYXkgYW5kIGFkZHMgdGhlIGBDaGlsZERlbGV0aW9uYCBmbGFnIHRvIHRoZSBwYXJlbnQuIENvbW1pdCByZWFkcyB0aGF0IGFycmF5IGFuZCBjYWxscyBgcmVtb3ZlQ2hpbGRgLgoKVGhlIGNvZGUgaXMgYGRlbGV0ZUNoaWxkYCBpbiBbYFJlYWN0Q2hpbGRGaWJlci5qc2BdKGh0dHBzOi8vZ2l0aHViLmNvbS9yZWFjdC9yZWFjdC9ibG9iL3YxOS4zLjEvcGFja2FnZXMvcmVhY3QtcmVjb25jaWxlci9zcmMvUmVhY3RDaGlsZEZpYmVyLmpzKToKCmBgYGpzCmZ1bmN0aW9uIGRlbGV0ZUNoaWxkKHJldHVybkZpYmVyLCBjaGlsZFRvRGVsZXRlKSB7CiAgaWYgKCFzaG91bGRUcmFja1NpZGVFZmZlY3RzKSB7CiAgICByZXR1cm47CiAgfQogIGNvbnN0IGRlbGV0aW9ucyA9IHJldHVybkZpYmVyLmRlbGV0aW9uczsKICBpZiAoZGVsZXRpb25zID09PSBudWxsKSB7CiAgICByZXR1cm5GaWJlci5kZWxldGlvbnMgPSBbY2hpbGRUb0RlbGV0ZV07ICAvLyBwYXJlbnQgcmVjb3JkcyB3aGljaCBjaGlsZHJlbiB0byBkZWxldGUKICAgIHJldHVybkZpYmVyLmZsYWdzIHw9IENoaWxkRGVsZXRpb247ICAgICAgIC8vIHBhcmVudCBnZXRzIHRoZSBmbGFnCiAgfSBlbHNlIHsKICAgIGRlbGV0aW9ucy5wdXNoKGNoaWxkVG9EZWxldGUpOwogIH0KfQpgYGAKCmByZXR1cm5GaWJlcmAgaXMgdGhlIHBhcmVudC4gT25seSB0aGUgcGFyZW50J3MgYGRlbGV0aW9uc2AgYW5kIGBmbGFnc2AgY2hhbmdlOyBub3RoaW5nIHRvdWNoZXMgdGhlIHJlbW92ZWQgY2hpbGQncyBgYWx0ZXJuYXRlYC4KCiMjIFdoZXJlIHVzZVN0YXRlIGtlZXBzIGl0cyB2YWx1ZQoKQSBmdW5jdGlvbiBjb21wb25lbnQgaXMganVzdCBhIGZ1bmN0aW9uLiBJdCBydW5zLCByZXR1cm5zLCBhbmQgaXRzIGxvY2FsIHZhcmlhYmxlcyBhcmUgZ29uZS4gV3JpdGUgYGxldCBjb3VudCA9IDBgIGluc2lkZSBhIGNvbXBvbmVudCBhbmQgaXQgZ29lcyBiYWNrIHRvIDAgZXZlcnkgcmVuZGVyLiBTbyBob3cgZG9lcyBhIGB1c2VTdGF0ZWAgdmFsdWUgc3Vydml2ZSB1bnRpbCB0aGUgbmV4dCByZW5kZXI/CgpJdCBsaXZlcyBvbiB0aGUgY29tcG9uZW50J3MgZmliZXIsIGluIHRoZSBgbWVtb2l6ZWRTdGF0ZWAgZmllbGQuIFRoYXQgZmllbGQgcG9pbnRzIHRvIGEgbGlua2VkIGxpc3QsIHdpdGggb25lIG5vZGUgZm9yIGV2ZXJ5IGNhbGwgdG8gYHVzZVN0YXRlYCwgYHVzZVJlZmAsIGB1c2VFZmZlY3RgLiBGb3IgYSBjb21wb25lbnQgdGhhdCBjYWxscyBgdXNlU3RhdGVgLCBgdXNlUmVmYCwgYHVzZUVmZmVjdGAgaW4gdGhhdCBvcmRlciwgYGZpYmVyLm1lbW9pemVkU3RhdGVgIHBvaW50cyB0byB0aGUgZmlyc3Qgbm9kZSAodGhlIGB1c2VTdGF0ZWAgb25lKSwgaXRzIGBuZXh0YCBwb2ludHMgdG8gdGhlIGB1c2VSZWZgIG5vZGUsIGFuZCB0aGUgb25lIGFmdGVyIHRoYXQgaXMgdGhlIGB1c2VFZmZlY3RgIG5vZGUuCgpBcyB0aGUgcHJldmlvdXMgc2VjdGlvbiBzaG93ZWQsIGEgY29tcG9uZW50J3MgZmliZXIgaGFzIHR3byBjb3BpZXMgdGhhdCB0YWtlIHR1cm5zLiBPbiBlYWNoIHJlbmRlciwgdGhlIHdvcmtJblByb2dyZXNzIGZpYmVyIGNvcGllcyB0aGUgaG9vayBub2RlcyBmcm9tIHRoZSBjdXJyZW50IGZpYmVyIG9uZSBieSBvbmUsIGluIG9yZGVyIChgdXBkYXRlV29ya0luUHJvZ3Jlc3NIb29rYCBpbiBbYFJlYWN0RmliZXJIb29rcy5qc2BdKGh0dHBzOi8vZ2l0aHViLmNvbS9yZWFjdC9yZWFjdC9ibG9iL3YxOS4zLjEvcGFja2FnZXMvcmVhY3QtcmVjb25jaWxlci9zcmMvUmVhY3RGaWJlckhvb2tzLmpzKSksIHNvIHRoZSB2YWx1ZXMgY2Fycnkgb3Zlci4gRWFjaCB0aW1lIHJlbmRlciByZWFjaGVzIGEgYHVzZVN0YXRlYCwgUmVhY3QgbW92ZXMgdG8gdGhlIG5leHQgbm9kZSBpbiB0aGUgbGlzdCBhbmQgaGFuZHMgYmFjayB3aGF0IGlzIHN0b3JlZCB0aGVyZS4KCkhvdyBkb2VzIFJlYWN0IGtub3cgd2hpY2ggbm9kZSBiZWxvbmdzIHRvIHdoaWNoIGB1c2VTdGF0ZWA/IEl0IGRvZXMgbm90IGtub3cgeW91ciB2YXJpYWJsZSBuYW1lcywgc28gaXQgY2Fubm90IHRlbGwgd2hpY2ggYHVzZVN0YXRlYCBpcyBgbmFtZWAgYW5kIHdoaWNoIGlzIGBhZ2VgLiBJdCBjYW4gb25seSBjb3VudDogdGhlIGZpcnN0IGNhbGwgZ2V0cyB0aGUgZmlyc3Qgbm9kZSwgdGhlIHNlY29uZCBjYWxsIGdldHMgdGhlIHNlY29uZCwgYW5kIHNvIG9uLgoKVGhlIGhvb2sgbm9kZSBoYXMgbm8gcGxhY2UgZm9yIGEgbmFtZSBlaXRoZXIuIFJlYWN0IGNyZWF0ZXMgaG9vayBub2RlcyBpbiBgbW91bnRXb3JrSW5Qcm9ncmVzc0hvb2tgIGluIGBSZWFjdEZpYmVySG9va3MuanNgOgoKYGBganMKY29uc3QgaG9vayA9IHsKICBtZW1vaXplZFN0YXRlOiBudWxsLAogIGJhc2VTdGF0ZTogbnVsbCwKICBiYXNlUXVldWU6IG51bGwsCiAgcXVldWU6IG51bGwsCiAgbmV4dDogbnVsbCwKfTsKYGBgCgpObyBuYW1lLCBubyBrZXksIG5vIGlkOyB0aGUgb25seSBsaW5rIGZyb20gb25lIGhvb2sgdG8gdGhlIG5leHQgaXMgYG5leHRgLiBSZWFkaW5nIGEgY29tcG9uZW50IGluIFJlYWN0IDE5LjMuMSB0aGF0IGNhbGxzIGB1c2VTdGF0ZSgnQW5uJylgLCBgdXNlUmVmYCwgYHVzZUVmZmVjdGAgaW4gb3JkZXIsIGFsbCB0aHJlZSBub2RlcyBoYXZlIGV4YWN0bHkgdGhlc2UgZml2ZSBmaWVsZHMsIGFuZCB0aGVpciBgbWVtb2l6ZWRTdGF0ZWAgdmFsdWVzIGFyZSBgJ0FubidgLCBgeyBjdXJyZW50IH1gLCBhbmQgYW4gZWZmZWN0IG9iamVjdC4KClNvIHRoZSBvcmRlciBvZiBob29rIGNhbGxzIGhhcyB0byBiZSB0aGUgc2FtZSBvbiBldmVyeSByZW5kZXIuIFRyeSBwdXR0aW5nIGEgaG9vayBpbnNpZGUgYW4gYGlmYDoKCmBgYGpzeApmdW5jdGlvbiBQcm9maWxlKHsgc2hvdyB9KSB7CiAgaWYgKHNob3cpIHsKICAgIGNvbnN0IFtuYW1lXSA9IHVzZVN0YXRlKCdBbm4nKSAgIC8vIHNvbWV0aW1lcyBjYWxsZWQsIHNvbWV0aW1lcyBza2lwcGVkCiAgfQogIGNvbnN0IFthZ2VdID0gdXNlU3RhdGUoMjApCn0KYGBgCgpGaXJzdCByZW5kZXIsIGBzaG93YCBpcyBgdHJ1ZWAuIFR3byBjYWxscywgdHdvIG5vZGVzOgoKfCBDYWxsIHwgTm9kZSBpdCBnZXRzIHwgVmFsdWUgfAp8LS0tfC0tLXwtLS18CnwgMXN0IChgbmFtZWApIHwgbm9kZSAxIHwgYCdBbm4nYCB8CnwgMm5kIChgYWdlYCkgfCBub2RlIDIgfCBgMjBgIHwKCk5leHQgcmVuZGVyLCBgc2hvd2AgaXMgYGZhbHNlYCwgYW5kIHRoZSBgaWZgIHNraXBzIHRoZSBmaXJzdCBjYWxsLiBPbmUgY2FsbCBpcyBsZWZ0LCBhbmQgUmVhY3Qgc3RpbGwgY291bnRzIGZyb20gdGhlIHRvcDoKCnwgQ2FsbCB8IE5vZGUgaXQgZ2V0cyB8IFZhbHVlIHwKfC0tLXwtLS18LS0tfAp8IDFzdCAoYGFnZWApIHwgbm9kZSAxIHwgYCdBbm4nYCB8CgpgYWdlYCBnZXRzIHRoZSBmaXJzdCBub2RlIGFuZCByZWFkcyBgbmFtZWAncyB2YWx1ZS4gRXZlcnkgaG9vayBhZnRlciB0aGUgc2tpcHBlZCBvbmUgbW92ZXMgdXAgYSBwb3NpdGlvbiBhbmQgcmVhZHMgdGhlIHdyb25nIHZhbHVlLiBSZWFjdCBleHBlY3RlZCB0d28gaG9va3MgYW5kIHNhdyBvbmUsIHNvIGl0IHRocm93cy4gUnVubmluZyB0aGlzIHdpdGggdGhlIFJlYWN0IDE5LjMuMSBkZXZlbG9wbWVudCBidWlsZCwgYGFnZWAgb24gdGhlIHNlY29uZCByZW5kZXIgaXMgaW5kZWVkIGAnQW5uJ2AsIGZvbGxvd2VkIGJ5ICJSZW5kZXJlZCBmZXdlciBob29rcyB0aGFuIGV4cGVjdGVkLiBUaGlzIG1heSBiZSBjYXVzZWQgYnkgYW4gYWNjaWRlbnRhbCBlYXJseSByZXR1cm4gc3RhdGVtZW50LiIgVGhhdCBpcyB3aHkgaG9va3MgZ28gYXQgdGhlIHRvcCBsZXZlbCBvZiBhIGNvbXBvbmVudDogbm90IGluc2lkZSBgaWZgIG9yIGBmb3JgLCBhbmQgbm90IGFmdGVyIGFuIGVhcmx5IGByZXR1cm5gIChbUnVsZXMgb2YgSG9va3NdKGh0dHBzOi8vcmVhY3QuZGV2L3JlZmVyZW5jZS9ydWxlcy9ydWxlcy1vZi1ob29rcykpLgoKVGhpcyBhbHNvIGV4cGxhaW5zIHdoeSBjaGFuZ2luZyBga2V5YCByZXNldHMgc3RhdGUuIFdoZW4gYSBjb21wb25lbnQncyBga2V5YCBjaGFuZ2VzLCBSZWFjdCBjcmVhdGVzIGEgbmV3IGZpYmVyIGZvciBpdCwgd2l0aCBhbiBlbXB0eSBgbWVtb2l6ZWRTdGF0ZWAuIE1lYXN1cmVkOiBhIGNvbXBvbmVudCB3aG9zZSBgY291bnRgIHdhcyByYWlzZWQgdG8gMiBzdGF5cyBhdCAyIHdoZW4gcmUtcmVuZGVyZWQgd2l0aCB0aGUgc2FtZSBrZXksIGFuZCBnb2VzIGJhY2sgdG8gMCB3aGVuIHRoZSBrZXkgY2hhbmdlcyBmcm9tIGBhYCB0byBgYmAuCgojIyBBIGZldyBtb3JlIHF1ZXN0aW9ucwoKIyMjIFdoeSBkb2VzIGA8TXlDb21wb25lbnQgLz5gIHJlbmRlciwgYnV0IGxvd2VyY2FzZSBgPG15Q29tcG9uZW50IC8+YCBkb2VzIG5vdD8KClRoZSBKU1ggY29tcGlsZXIgbG9va3MgYXQgdGhlIGZpcnN0IGxldHRlciB0byBkZWNpZGUgd2hhdCBnb2VzIGludG8gYHR5cGVgOiB1cHBlcmNhc2UgbWVhbnMgYSB2YXJpYWJsZSwgbG93ZXJjYXNlIG1lYW5zIGEgc3RyaW5nLiBDb21waWxlZCB3aXRoIGVzYnVpbGQgMC4yNS4xMDoKCmBgYGpzCjxkaXYgLz4gICAgICAgICAg4oaSICBjcmVhdGVFbGVtZW50KCJkaXYiLCBudWxsKSAgICAgICAgICAvLyBsb3dlcmNhc2U6IGEgc3RyaW5nCjxNeUNvbXBvbmVudCAvPiAg4oaSICBjcmVhdGVFbGVtZW50KE15Q29tcG9uZW50LCBudWxsKSAgICAvLyB1cHBlcmNhc2U6IGEgdmFyaWFibGUKPG15Q29tcG9uZW50IC8+ICDihpIgIGNyZWF0ZUVsZW1lbnQoIm15Q29tcG9uZW50IiwgbnVsbCkgIC8vIGxvd2VyY2FzZTogc3RpbGwgYSBzdHJpbmcKYGBgCgpgPG15Q29tcG9uZW50IC8+YCBsb29rcyBsaWtlIGEgY29tcG9uZW50LCBidXQgaXRzIGZpcnN0IGxldHRlciBpcyBsb3dlcmNhc2UsIHNvIHRoZSBjb21waWxlciBlbWl0cyB0aGUgc3RyaW5nIGAibXlDb21wb25lbnQiYC4gUmVhY3QgZ2V0cyBgdHlwZTogIm15Q29tcG9uZW50ImAsIHRyZWF0cyBpdCBhcyBhbiBIVE1MIHRhZywgYW5kIGNyZWF0ZXMgYSBgPG15Y29tcG9uZW50PmAuIFRoZSBmdW5jdGlvbiBuYW1lZCBgbXlDb21wb25lbnRgIGlzIG5ldmVyIGNhbGxlZC4KClRoZSBicm93c2VyIGRvZXMgbm90IHJlY29nbml6ZSB0aGUgdGFnLCBidXQgaXQgZG9lcyBub3QgZHJvcCBpdCBlaXRoZXIuIFJlbmRlcmluZyBgPG15Q29tcG9uZW50PmNoaWxkIHRleHQ8L215Q29tcG9uZW50PmAgd2l0aCBSZWFjdCAxOS4zLjEgaW4gQ2hyb21lIDE1NiBsZWF2ZXMgYW4gYEhUTUxVbmtub3duRWxlbWVudGAgb24gdGhlIHBhZ2UsIHdpdGggYGRpc3BsYXk6IGlubGluZWAsIGFuZCB0aGUgdGV4dCBpbnNpZGUgc3RpbGwgc2hvd3MuIFRoZSBkZXZlbG9wbWVudCBidWlsZCBsb2dzIHR3byBlcnJvcnMgaW4gdGhlIGNvbnNvbGU6IG9uZSBzYXlzIHRoZSBjYXNpbmcgaXMgd3JvbmcsIHRoZSBvdGhlciBzYXlzIHRoZSBicm93c2VyIGRvZXMgbm90IHJlY29nbml6ZSB0aGUgYDxteUNvbXBvbmVudD5gIHRhZyBhbmQgdGhhdCBhIGNvbXBvbmVudCBuYW1lIG11c3Qgc3RhcnQgd2l0aCBhbiB1cHBlcmNhc2UgbGV0dGVyLiBUaGUgcHJvZHVjdGlvbiBidWlsZCBsb2dzIG5vdGhpbmcuCgpDYXNpbmcgaXMgdGhlIEpTWCBjb21waWxlcidzIHJ1bGU7IFJlYWN0IG9ubHkgcmVjZWl2ZXMgdGhlIGB0eXBlYCB0aGUgY29tcGlsZXIgYWxyZWFkeSBkZWNpZGVkIChbSlNYIEluIERlcHRoXShodHRwczovL2xlZ2FjeS5yZWFjdGpzLm9yZy9kb2NzL2pzeC1pbi1kZXB0aC5odG1sI3VzZXItZGVmaW5lZC1jb21wb25lbnRzLW11c3QtYmUtY2FwaXRhbGl6ZWQpKS4KCiMjIyBXaHkgY2FuIGEgY29tcG9uZW50IHJldHVybiBgbnVsbGAgYnV0IG5vdCBhIENvbXBvbmVudD8KCldoYXQgYSBjb21wb25lbnQgcmV0dXJucyBoYXMgdG8gYmUgYSBSZWFjdE5vZGUuIGBudWxsYCBpcyBhIFJlYWN0Tm9kZSwgbWVhbmluZyAicmVuZGVyIG5vdGhpbmcgaGVyZSIuIEEgQ29tcG9uZW50IGlzIGEgZnVuY3Rpb24sIGFuZCBhIGZ1bmN0aW9uIGlzIG5vdCBhIFJlYWN0Tm9kZS4gWW91IG5lZWQgYDxDb21wIC8+YCwgbm90IGp1c3QgYENvbXBgLgoKSW4gUmVhY3QgMTkuMy4xLCBgcmV0dXJuIENvbXBgIHB1dHMgbm90aGluZyBvbiBzY3JlZW4uIFRoZSBkZXZlbG9wbWVudCBidWlsZCBsb2dzICJGdW5jdGlvbnMgYXJlIG5vdCB2YWxpZCBhcyBhIFJlYWN0IGNoaWxkLiBUaGlzIG1heSBoYXBwZW4gaWYgeW91IHJldHVybiBDb21wIGluc3RlYWQgb2YgPENvbXAgLz4gZnJvbSByZW5kZXIuIE9yIG1heWJlIHlvdSBtZWFudCB0byBjYWxsIHRoaXMgZnVuY3Rpb24gcmF0aGVyIHRoYW4gcmV0dXJuIGl0LiIgVGhlIHByb2R1Y3Rpb24gYnVpbGQgbG9ncyBub3RoaW5nLiBJbiBUeXBlU2NyaXB0LCBhc3NpZ25pbmcgYSBmdW5jdGlvbiB0byBhIHZhcmlhYmxlIHR5cGVkIGBSZWFjdE5vZGVgIGlzIGFuIGVycm9yLgoKIyMjIFdoeSBkb2VzIGNoYW5naW5nIGEgbGlzdCBpdGVtJ3MgYGtleWAgcmVzZXQgaXRzIHN0YXRlPwoKRHVyaW5nIHJlbmRlciwgUmVhY3QgbWF0Y2hlcyBuZXcgZWxlbWVudHMgdG8gZXhpc3RpbmcgZmliZXJzIGJ5IGBrZXlgOgoKLSAqKlNhbWUga2V5IGFuZCB0eXBlKio6IHJldXNlIHRoZSBmaWJlcjsgaXRzIGBtZW1vaXplZFN0YXRlYCBhbmQgRE9NIG5vZGUgc3RheS4KLSAqKkRpZmZlcmVudCBrZXkqKjogZHJvcCB0aGUgb2xkIGZpYmVyIGFuZCBjcmVhdGUgYSBuZXcgb25lIHdpdGggZW1wdHkgc3RhdGUuCgpVc2luZyB0aGUgYXJyYXkgaW5kZXggYXMgdGhlIGtleSBjYXVzZXMgdHJvdWJsZTogaW5zZXJ0IGEgcm93IGF0IHRoZSB0b3AsIGV2ZXJ5IGluZGV4IHNoaWZ0cyBieSBvbmUsIGFuZCBSZWFjdCBwYWlycyB0aGUgd3JvbmcgZmliZXIgd2l0aCB0aGUgd3Jvbmcgcm93LiBCZWxvdywgZXZlcnkgcm93IGhhcyBhIGB1c2VTdGF0ZSgnbm90ZSBmb3IgJyArIGxhYmVsKWAsIGFuZCBBIGlzIGluc2VydGVkIGluIGZyb250IG9mIEIgYW5kIEM6Cgp8IEtleSB8IEJlZm9yZSB8IEFmdGVyIGluc2VydGluZyBBIGF0IHRoZSB0b3AgfAp8LS0tfC0tLXwtLS18CnwgaW5kZXggfCBgQiAvIG5vdGUgZm9yIEJgLCBgQyAvIG5vdGUgZm9yIENgIHwgYEEgLyBub3RlIGZvciBCYCwgYEIgLyBub3RlIGZvciBDYCwgYEMgLyBub3RlIGZvciBDYCB8CnwgZWFjaCByb3cncyBvd24gaWQgfCBgQiAvIG5vdGUgZm9yIEJgLCBgQyAvIG5vdGUgZm9yIENgIHwgYEEgLyBub3RlIGZvciBBYCwgYEIgLyBub3RlIGZvciBCYCwgYEMgLyBub3RlIGZvciBDYCB8CgpXaXRoIGluZGV4IGtleXMsIEEgZ290IEIncyBvbGQgc3RhdGUsIEIgZ290IEMncywgYW5kIEMgaXMgYSBuZXdseSBjcmVhdGVkIGZpYmVyLgoKIyMgU3VtbWFyeQoKMS4gSlNYIHByb2R1Y2VzIGEgKipSZWFjdEVsZW1lbnQqKiwgd2hvc2UgYHR5cGVgIGlzIGEgc3RyaW5nIG9yIGEgQ29tcG9uZW50LgoyLiBEdXJpbmcgcmVuZGVyLCBSZWFjdCBjcmVhdGVzIGEgZmliZXIgZm9yIGVhY2ggZWxlbWVudCwgb3IgcmV1c2VzIHRoZSBvbmUgZnJvbSBsYXN0IHRpbWUuIElmIGB0eXBlYCBpcyBhIENvbXBvbmVudCwgUmVhY3QgY2FsbHMgaXQgYW5kIGdldHMgbW9yZSBlbGVtZW50cy4KMy4gUmVhY3Qgd2Fsa3MgdGhlIGZpYmVycyBvbmUgYXQgYSB0aW1lIHRocm91Z2ggYGNoaWxkYCwgYHNpYmxpbmdgIGFuZCBgcmV0dXJuYCwgd2l0aG91dCByZWN1cnNpdmUgY2FsbHMuCjQuIEEgZmliZXIgd2hvc2UgYHR5cGVgIGlzIGEgc3RyaW5nIGNyZWF0ZXMgaXRzIERPTSBub2RlIGluIGBjb21wbGV0ZVdvcmtgIGFuZCBhdHRhY2hlcyBpdHMgY2hpbGRyZW47IGl0IGlzIG5vdCBvbiB0aGUgcGFnZSB5ZXQuCjUuIENvbW1pdCBwdXRzIHRob3NlIERPTSBub2RlcyBvbiB0aGUgcGFnZSwgdGhlbiBzd2FwcyBgcm9vdC5jdXJyZW50YCB0byB0aGUgbmV3IHZlcnNpb24uCgojIyBFbnZpcm9ubWVudAoKfCBJdGVtIHwgVmVyc2lvbiB8CnwtLS18LS0tfAp8IFJlYWN0LCByZWFjdC1kb20gfCAxOS4zLjEsIGJ1bmRsZWQgd2l0aCBlc2J1aWxkIDAuMjUuMTAsIHByb2R1Y3Rpb24gYW5kIGRldmVsb3BtZW50IGJ1aWxkcyB8CnwgQnJvd3NlciB8IEdvb2dsZSBDaHJvbWUgMTU2LjAuODA3OC43OSwgaGVhZGxlc3MsIFBsYXl3cmlnaHQgMS42NC4xIHwKfCBUeXBlU2NyaXB0IHwgNS45LjMsIGBAdHlwZXMvcmVhY3RgIDE5LjMuMCB8CnwgTm9kZS5qcyB8IDIyLjIyLjMgfAp8IE9TIHwgbWFjT1MgKERhcndpbiAyNC42LjApIHwKfCBTb3VyY2UgY29tcGFyZWQgfCBbcmVhY3QvcmVhY3RdKGh0dHBzOi8vZ2l0aHViLmNvbS9yZWFjdC9yZWFjdCkgYHYxOS4zLjFgIHRhZyB8CgotLS0KClJlbGF0ZWQ6IFtmcm9tIHNldFN0YXRlIHRvIHBpeGVsc10oL3YyL2Zyb20tc2V0c3RhdGUtdG8tcGl4ZWxzKSBhbmQgW0luc2lkZSBSZWFjdCdzIHdvcmsgbG9vcF0oL3YyL2luc2lkZS1yZWFjdC1maWJlcndvcmtsb29wKS4K17:Tf1b9,<p>寫 React 天天會碰到四個名字：<code>ReactNode</code>、<code>ReactElement</code>、<code>Component</code>，還有 <code>div</code> 這種 HTML tag 的名字。剛開始寫的時候，很容易把它們當成同一種東西，反正都是畫面上的一塊。可是回傳 <code>&#x3C;Comp /></code> 會 render，回傳 <code>Comp</code> 卻什麼都不顯示；把字串指定給 <code>ReactElement</code> 型別的變數，TypeScript 會報錯，指定給 <code>ReactNode</code> 就沒事。</p>
+<p>這四個名字各是什麼呢？哪些只存在 JavaScript 的記憶體裡，哪一個最後會變成瀏覽器裡的 DOM 節點？</p>
+<h2>render 跟 commit</h2>
+<p>React 每次更新畫面，都分成兩步：</p>
+<ol>
+<li><strong>render</strong>：React 呼叫元件的 function，算出畫面應該變成什麼樣子。這一步只處理 JavaScript 物件，頁面上的 DOM 不會變。</li>
+<li><strong>commit</strong>：React 把 render 算出來的變更寫進頁面上的 DOM。</li>
+</ol>
+<p>commit 之後瀏覽器還要算 style、排版、畫出像素，那些步驟寫在<a href="/v2/from-setstate-to-pixels">從 setState 到畫面上的像素</a>。</p>
+<h2>四個名字各是什麼</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>名字</th><th>是什麼</th><th>存在哪裡</th></tr></thead><tbody><tr><td><strong>ReactNode</strong></td><td>TypeScript 的型別，範圍最大，React 能 render 的值都算</td><td>只在型別檢查時存在，編譯成 JavaScript 之後就沒了</td></tr><tr><td><strong>ReactElement</strong></td><td>JSX 或 <code>createElement</code> 產生的普通物件，主要欄位是 <code>type</code>、<code>props</code>、<code>key</code></td><td>JavaScript 記憶體</td></tr><tr><td><strong>Component</strong></td><td>一個 function 或 class，收 props，回傳要 render 的東西</td><td>JavaScript 記憶體裡的一個 function</td></tr><tr><td><strong><code>div</code></strong></td><td>一個字串，HTML tag 的名字</td><td>字串本身在 JavaScript 記憶體裡；React 在 render 時替它建一個 <code>HTMLDivElement</code>，commit 時放進頁面</td></tr></tbody></table>
+<p>這四個名字裡，只有 <code>div</code> 會在頁面上對應到一個 DOM 元素。不過字串跟數字也算 ReactNode，它們會變成 Text 節點。<code>&#x3C;b>{42}&#x3C;/b></code> commit 之後，頁面上的 <code>&#x3C;b></code> 底下有一個內容是 <code>"42"</code> 的 Text 節點。<code>null</code> 跟 <code>false</code> 不會產生 DOM。</p>
+<h2>四個名字之間是什麼關係</h2>
+<h3>ReactNode 包含 ReactElement</h3>
+<p><code>ReactNode</code> 是最寬的型別，React 能 render 的值都算，ReactElement 只是其中一種：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="tsx" data-theme="github-dark github-light"><code data-language="tsx" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">div</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> />                          </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// ReactElement</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;>hi&#x3C;/>                          </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// 也是 ReactElement，type 是 React.Fragment</span></span>
+<span data-line=""><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'hello'</span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">                          // string</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">42</span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">                               // number</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">null</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">false</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">[&#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">a</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> key</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"a"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> />, &#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">b</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> key</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"b"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> />]   </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// 陣列</span></span></code></pre></figure>
+<p>用 TypeScript 5.9.3 跟 <code>@types/react</code> 19.3.0 檢查，上面每一行都能指定給 <code>ReactNode</code>。<code>&#x3C;>hi&#x3C;/></code> 也能指定給 <code>ReactElement</code>，因為 JSX 會把它編譯成 <code>jsx(Fragment, { children: 'hi' })</code>，產生的是 <code>type</code> 為 <code>React.Fragment</code> 的 element。<code>@types/react</code> 的 <code>ReactNode</code> 定義裡另外還有 <code>bigint</code>、portal 跟 Promise。</p>
+<h3>Component 跟 <code>'div'</code> 放在同一個欄位</h3>
+<p>React 19.3.1 的 production build 產生的 ReactElement 長這樣：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{ </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">$$typeof</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Symbol</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(react.transitional.element), type, key, ref, props }</span></span></code></pre></figure>
+<p><code>$$typeof</code> 是 React 用來確認「這是一個 element」的標記，<code>React.isValidElement</code> 檢查的就是它。</p>
+<p><code>type</code> 欄位可以放字串，例如 <code>'div'</code>，這種 element 叫 host component；也可以放一個 Component，也就是一個 function 或 class。這兩種值放在同一個欄位，彼此沒有包含關係：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="jsx" data-theme="github-dark github-light"><code data-language="jsx" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">div</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">>hi&#x3C;/</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">div</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">>        </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// type: 'div'      字串，host component</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">Button</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">>hi&#x3C;/</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">Button</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">>  </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// type: Button     function，自己寫的元件</span></span></code></pre></figure>
+<p>render 的時候，React 看 <code>type</code> 決定怎麼處理：</p>
+<ul>
+<li>字串：替它建一個 DOM 節點，commit 時放進頁面。</li>
+<li>function 或 class：呼叫它，拿它回傳的東西繼續往下處理。</li>
+</ul>
+<h3>Component 產生 ReactElement</h3>
+<p>寫 <code>&#x3C;Button label="OK" /></code> 的時候，<code>Button</code> 還沒被呼叫，這一行只產生一個 <code>type: Button</code> 的 element。等 React render 到這個 element，才會呼叫 <code>Button</code>。它回傳的通常是 ReactElement，也可以是字串或 <code>null</code>，總之是一個 ReactNode。</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="jsx" data-theme="github-dark github-light"><code data-language="jsx" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> Button</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">({ </span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">label</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> }) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> &#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">span</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">>{label}&#x3C;/</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">span</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">>   </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// 回傳一個 ReactElement</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>頁面上不會有 <code>Button</code> 這個東西，只有它回傳的 <code>&#x3C;span></code> 會在 commit 時變成頁面上的 <code>&#x3C;span></code> 節點。</p>
+<h2>從 <code>&#x3C;Greeting /></code> 追到 HTMLDivElement</h2>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="jsx" data-theme="github-dark github-light"><code data-language="jsx" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> Greeting</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">({ </span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">name</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> }) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> &#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">div</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">>Hello, {name}&#x3C;/</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">div</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> tree</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> &#x3C;</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">Greeting</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> name</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Jialin"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> /></span></span></code></pre></figure>
+<p><code>tree</code> 是一個 ReactElement，<code>type</code> 欄位放的就是 <code>Greeting</code> 這個 function：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  $$typeof</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Symbol</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(react.transitional.element),</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  type</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: Greeting,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  key</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  ref</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  props</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: { </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">name</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'Jialin'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>這時候 <code>Greeting</code> 還沒被呼叫。</p>
+<p>React render 的時候，會替每個 element 建一個 <strong>fiber</strong>。fiber 是 React 自己的記錄物件，這個元件是什麼類型、props 是什麼、state 放在哪裡、底下有哪些 child、對應哪個 DOM 節點，都記在 fiber 上。fiber 上沒有任何欄位指向 element 物件，React 只把 element 的 <code>type</code>、<code>key</code>、<code>props</code> 抄到 fiber 上。React 19 的 <code>ref</code> 放在 <code>props</code> 裡，也跟著抄過去。程式碼在 <a href="https://github.com/react/react/blob/v19.3.1/packages/react-reconciler/src/ReactFiber.js"><code>ReactFiber.js</code></a> 的 <code>createFiberFromElement</code>。element 每次 render 都重新產生，fiber 則會留到下一次 render。</p>
+<details>
+<summary>element 抄完之後會馬上被回收嗎</summary>
+<p>抄完之後，element 不一定馬上被 garbage collection 回收，因為 fiber 可能間接 reference 著它。拿 <code>&#x3C;main>&#x3C;Greeting />&#x3C;/main></code> 來說，<code>&#x3C;Greeting /></code> 這個 element 放在 <code>main</code> element 的 <code>props.children</code> 裡，而 <code>main</code> 的 fiber 把整份 props 存在 <code>memoizedProps</code>。只要還有 fiber 的 <code>memoizedProps</code> 指著這份 props，<code>&#x3C;Greeting /></code> 就不會被回收。<code>Greeting</code> 回傳的 <code>&#x3C;div></code> 不一樣：它不在任何 element 的 props 裡，<code>Greeting</code> 的 fiber 也沒有欄位存元件的回傳值，所以沒有 fiber reference 著它。上面的 <code>tree</code> 要是直接傳給 <code>root.render</code>，React 會把它存在整棵 fiber 樹最上面那個 fiber（下面印出來的 HostRoot）的 <code>memoizedState.element</code>，所以也會留著。</p>
+<p>development build 的 fiber 多了幾個欄位：React 把 element 的 <code>_owner</code>、<code>_debugStack</code>、<code>_debugTask</code> 抄到 fiber 的 <code>_debugOwner</code>、<code>_debugStack</code>、<code>_debugTask</code>。production build 的 fiber 沒有這些欄位。</p>
+</details>
+<p><code>Greeting</code> 的 fiber 先建起來。React 看到 <code>type</code> 是 function，就帶著 props 呼叫它，拿到另一個 element：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  $$typeof</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">Symbol</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(react.transitional.element),</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  type</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'div'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  key</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  ref</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  props</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: { </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">children</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'Hello, '</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'Jialin'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">] }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>這次 <code>type</code> 是字串 <code>'div'</code>，React 替它建一個 host component 的 fiber。<code>children</code> 裡的兩個字串，React 也替它們分別建了 fiber。在 Chrome 156 上用 React 19.3.1 render <code>&#x3C;Greeting name="Jialin" /></code>，再從 root 往下走過所有 fiber，印出來是這樣：</p>
+<pre><code>HostRoot
+  FunctionComponent  Greeting    stateNode = null
+    HostComponent    div         stateNode = HTMLDivElement
+      HostText       "Hello, "   stateNode = Text
+      HostText       "Jialin"    stateNode = Text
+</code></pre>
+<p>不過，children 只有一個字串或數字的時候，React 不建 HostText fiber。像前面的 <code>&#x3C;b>{42}&#x3C;/b></code>，<code>&#x3C;b></code> 的 fiber 底下沒有 child。React 建 <code>&#x3C;b></code> 的 DOM 元素、設定它的 props 時，看到 <code>children</code> 是數字 42，就把 <code>&#x3C;b></code> 的 <code>textContent</code> 設成 <code>"42"</code>，瀏覽器再替 <code>&#x3C;b></code> 產生一個 Text 節點（<a href="https://github.com/react/react/blob/v19.3.1/packages/react-dom-bindings/src/client/ReactDOMComponent.js"><code>ReactDOMComponent.js</code></a> 的 <code>setProp</code>）。</p>
+<p><code>div</code> 的 fiber 拿掉大部分欄位之後，大概長這樣（完整定義在 <a href="https://github.com/react/react/blob/v19.3.1/packages/react-reconciler/src/ReactInternalTypes.js"><code>ReactInternalTypes.js</code></a>）：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  tag</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: HostComponent,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  type</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'div'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,                    </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// 跟 element 的 type 一樣</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  stateNode</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: HTMLDivElement,      </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// render 時建好的 DOM 節點</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  child</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: Fiber,                   </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// 第一個 child，這裡是 "Hello, " 的 fiber</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  sibling</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,                  </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// 下一個 sibling</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: Fiber,                  </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// parent，這裡是 Greeting 的 fiber</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  alternate</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: Fiber </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">|</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,        </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// 另一份 fiber 樹裡對應的 fiber，下一節講</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  memoizedProps</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: { </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">children</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'Hello, '</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'Jialin'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">] },</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  memoizedState</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,            </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// function component 的 fiber 在這裡放 hook 的 list</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  lanes</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,                       </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// 這個 fiber 上還沒處理的更新，各是哪個 priority</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  flags</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,                       </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// commit 時要做什麼：Placement、Update、ChildDeletion 等</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p><code>return</code> 指向 parent。原始碼的註解說，這個名字取自 function 呼叫結束時要跳回去的 return address：React 處理完一個 fiber，就回到它的 <code>return</code>。</p>
+<h3>DOM 節點什麼時候建好、什麼時候進頁面</h3>
+<p>把 <code>document.createElement</code> 跟 <code>appendChild</code> 包一層記錄，再用 React 19.3.1 的 production build mount 一個 <code>App</code>。<code>App</code> 底下有兩個元件：<code>A</code> render 出 <code>&#x3C;section>&#x3C;p>a&#x3C;/p>&#x3C;/section></code>，<code>B</code> render 出 <code>&#x3C;div>b&#x3C;/div></code>。記錄下來的順序是：</p>
+<ol>
+<li>render <code>App</code></li>
+<li>render <code>A</code></li>
+<li><code>document.createElement('p')</code></li>
+<li><code>document.createElement('section')</code></li>
+<li>把 <code>&#x3C;p></code> 接到 <code>&#x3C;section></code> 底下，<code>&#x3C;section></code> 還不在頁面上</li>
+<li>render <code>B</code></li>
+<li><code>document.createElement('div')</code></li>
+<li>把 <code>&#x3C;section></code> 接到 <code>#root</code> 底下，這時才進頁面</li>
+<li>把 <code>&#x3C;div></code> 接到 <code>#root</code> 底下</li>
+<li><code>useLayoutEffect</code></li>
+</ol>
+<p><code>&#x3C;section></code> 跟 <code>&#x3C;p></code> 在 render <code>B</code> 之前就建好了，也就是還在 render 的時候。React 走 fiber 時，每個 fiber 會經過兩次：往下走時呼叫元件，往回走時收尾，收尾那一步叫 <code>completeWork</code>。host component 的 fiber 在 <code>completeWork</code> 裡建出 DOM 節點，再把 child 的 DOM 節點接上去，這時接好的 DOM 都還不在頁面上（<a href="https://github.com/react/react/blob/v19.3.1/packages/react-reconciler/src/ReactFiberCompleteWork.js"><code>ReactFiberCompleteWork.js</code></a> 的 <code>HostComponent</code> 分支呼叫 <code>createInstance</code> 跟 <code>appendAllChildren</code>）。到了 commit，React 才把接好的 DOM 放進 <code>#root</code>。往下走、往回走的細節在 <a href="/v2/inside-react-fiberworkloop">React 的 work loop 裡發生了什麼</a>。</p>
+<p>把整條路照順序排起來：</p>
+<ol>
+<li><code>Greeting</code> 是原始碼裡的 function，一直都在。</li>
+<li>JSX 產生 <code>{ type: Greeting }</code> 這個 element，下一次 render 會產生新的 element。</li>
+<li>React 替它建 fiber，hook 的值存在這個 fiber 上，會留到下一次 render。</li>
+<li>React 呼叫 <code>Greeting</code>，拿到 <code>{ type: 'div' }</code> 這個 element。React 把它的 <code>type</code>、<code>key</code>、<code>props</code> 抄到 fiber 上之後，就沒有 fiber reference 著它。</li>
+<li>React 替它建 fiber，也會留到下一次 render。</li>
+<li><code>completeWork</code> 替這個 fiber 建出 <code>HTMLDivElement</code>，記在 <code>stateNode</code> 上，這時還不在頁面上。</li>
+<li>commit 把 <code>HTMLDivElement</code> 放進頁面。</li>
+</ol>
+<h2>為什麼 fiber 有兩份</h2>
+<p>React 同時留著兩份 fiber 樹：<code>current</code> 是現在畫面上的版本，<code>workInProgress</code> 是這次 render 正在建的版本。兩邊對應同一個 <code>&#x3C;div></code> 的 fiber，<code>stateNode</code> 都指向同一個 <code>HTMLDivElement</code>：<a href="https://github.com/react/react/blob/v19.3.1/packages/react-reconciler/src/ReactFiber.js"><code>createWorkInProgress</code></a> 建 workInProgress 的 fiber 時，會把 current 的 <code>stateNode</code> 抄過去。</p>
+<p>那 React 在 workInProgress 上改東西，會不會改到畫面上的 DOM 呢？</p>
+<p>不會。<code>stateNode</code> 只是指向 DOM 節點的參照，要改 DOM，得呼叫 <code>setAttribute</code>、<code>appendChild</code>、<code>removeChild</code> 這類 method，而 React 只在 commit 的 mutation 階段呼叫它們（<a href="https://github.com/react/react/blob/v19.3.1/packages/react-reconciler/src/ReactFiberCommitWork.js"><code>ReactFiberCommitWork.js</code></a> 裡的 <code>commitMutationEffectsOnFiber</code>）。render 時修改的都是 fiber 自己的欄位：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">wipFiber.memoizedProps </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> { children: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'new text'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> }  </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// fiber 自己的欄位</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">wipFiber.flags </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">|=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> Update                           </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// fiber 自己的欄位</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">wipFiber.child </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> newChildFiber                     </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// fiber 之間的指標</span></span></code></pre></figure>
+<p>render 時唯一會新建的 DOM，是這次新加進來的節點，像上一節的 <code>&#x3C;section></code>，而它們建好的時候還沒接到頁面上。</p>
+<p>那為什麼不直接改 current 那份 fiber，省掉一份呢？React 原始碼沒有寫這個理由。<code>createWorkInProgress</code> 的註解只說 React 最多只需要兩個版本的樹，所以把另一份留著重用（「we know that we'll only ever need at most two versions of a tree」）。</p>
+<p>現在的程式碼在 render 期間有兩個地方讀 current，兩處都把它當成上一次 commit 留下來的版本：</p>
+<ul>
+<li><code>beginWork</code> 把 current 的 <code>memoizedProps</code> 叫做 <code>oldProps</code>，拿去跟 workInProgress 的 <code>pendingProps</code> 比。如果 <code>oldProps</code> 跟 <code>pendingProps</code> 不是同一個物件，就把這個 fiber 記成有更新（<a href="https://github.com/react/react/blob/v19.3.1/packages/react-reconciler/src/ReactFiberBeginWork.js"><code>ReactFiberBeginWork.js</code></a>）。</li>
+<li>用 <code>startTransition</code> 包起來的更新叫 transition，它的 render 可能做到一半，因為來了更急的更新而被丟掉。丟掉之後，React 用 <code>createWorkInProgress(root.current, null)</code> 再從 current 複製一份 workInProgress，從頭開始（<a href="https://github.com/react/react/blob/v19.3.1/packages/react-reconciler/src/ReactFiberWorkLoop.js"><code>ReactFiberWorkLoop.js</code></a> 的 <code>prepareFreshStack</code>）。</li>
+</ul>
+<p>不過 React 也不是每個 fiber 都準備兩份。在 Chrome 156 上用 React 19.3.1 做一個實驗：<code>Counter</code> 每次更新 state，底下有一個顯示數字的 <code>&#x3C;b></code>，還有一個用 <code>React.memo</code> 包起來、沒有 props 的 <code>Static</code>，它 render 出一個 <code>&#x3C;i></code>。每次 commit 之後從 <code>root.current</code> 往下走過所有 fiber，替每個 fiber 物件編號：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>fiber</th><th>mount 後</th><th>第 1 次更新後</th><th>第 2 次更新後</th><th>第 3 次更新後</th></tr></thead><tbody><tr><td><code>Counter</code></td><td>#1</td><td>#10</td><td>#1</td><td>#10</td></tr><tr><td><code>&#x3C;div></code></td><td>#2</td><td>#11</td><td>#2</td><td>#11</td></tr><tr><td><code>&#x3C;b></code></td><td>#4</td><td>#12</td><td>#4</td><td>#12</td></tr><tr><td><code>Static</code>（memo）</td><td>#6</td><td>#13</td><td>#6</td><td>#13</td></tr><tr><td><code>&#x3C;i></code></td><td>#7</td><td>#7</td><td>#7</td><td>#7</td></tr></tbody></table>
+<p>前四個 fiber 在 mount 時只有一份，第一次更新時 React 替它們各建第二份，之後兩份輪流當 current。所以「這個元件的 fiber」不是固定一個物件，每次 render 都會換成另一份。<code>&#x3C;div></code> 對應的 DOM 節點倒是從頭到尾都是同一個。</p>
+<p><code>&#x3C;i></code> 從頭到尾只有 #7 一個物件，<code>alternate</code> 一直是 <code>null</code>。<code>Static</code> 的 props 沒變，React 跳過了它底下整個 subtree，連 <code>&#x3C;i></code> 的 fiber 都沒走到，current 跟 workInProgress 就共用 #7。<code>createWorkInProgress</code> 的註解也寫了，第二份 fiber 是等到需要才建，「to avoid allocating extra objects for things that are never updated」。</p>
+<p><code>createWorkInProgress</code> 拿掉大部分欄位之後是這樣：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> createWorkInProgress</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">current</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">pendingProps</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  let</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> workInProgress </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> current.alternate;</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (workInProgress </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">===</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) {</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">    // 還沒有第二份：建一份，指向同一個 DOM 節點，alternate 兩邊互指</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    workInProgress </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> createFiber</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(current.tag, pendingProps, current.key, current.mode);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    workInProgress.stateNode </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> current.stateNode;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    workInProgress.alternate </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> current;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    current.alternate </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> workInProgress;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  } </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">else</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">    // 已經有了：拿來重用，flags 清掉</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    workInProgress.pendingProps </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> pendingProps;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    workInProgress.flags </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> NoFlags;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  workInProgress.child </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> current.child;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  workInProgress.memoizedState </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> current.memoizedState;</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> workInProgress;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>元件的 type 跟 key 沒變的話，React 就一直拿這兩個物件輪流用，不會建第三個。</p>
+<h3>commit 時換掉的是什麼</h3>
+<p>commit 裡依序有三件事跟這兩份 fiber 樹有關：</p>
+<ol>
+<li><strong>mutation</strong>：改真的 DOM，像 <code>setAttribute</code>、<code>appendChild</code>、<code>removeChild</code>。使用者會看到的變化都在這一步。</li>
+<li><strong>換 current</strong>：<code>root.current = finishedWork</code>，workInProgress 變成 current。</li>
+<li><strong>layout</strong>：執行 <code>useLayoutEffect</code>、<code>componentDidMount</code>。</li>
+</ol>
+<p>fiber 有兩份，DOM 卻只有一份，所以 mutation 沒有另一份 DOM 可以先改好再換上去，只能直接改頁面上的節點，例如改一個屬性，或加入、移除幾個節點。換 current 的時候 DOM 已經改好了，所以這一行不會讓畫面有任何變化。它影響的是下一次 render：React 會拿這次完成的版本當 current，用它上面的 props 跟新的 props 比較，而這次被換下來的舊版本，就成了下一次的 workInProgress。</p>
+<p>這一行在 <a href="https://github.com/react/react/blob/v19.3.1/packages/react-reconciler/src/ReactFiberWorkLoop.js"><code>ReactFiberWorkLoop.js</code></a> 的 <code>flushMutationEffects</code> 最後面，<code>commitRoot</code> 會呼叫 <code>flushMutationEffects</code>：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">  // The work-in-progress tree is now the current tree. This must come after</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">  // the mutation phase, so that the previous tree is still current during</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">  // componentWillUnmount, but before the layout phase, so that the finished</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">  // work is current during componentDidMount/Update.</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  root.current </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> finishedWork;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  pendingEffectsStatus </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> PENDING_LAYOUT_PHASE</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">;</span></span></code></pre></figure>
+<p><code>finishedWork</code> 就是 workInProgress 那份。這一行排在 mutation 之後、layout 之前，所以 <code>componentWillUnmount</code> 讀到的 current 還是舊的版本，<code>useLayoutEffect</code> 跟 <code>componentDidMount</code> 讀到的 current 已經是新的版本。</p>
+<h3>mount、update、delete 時的 alternate</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>情況</th><th>這個 fiber 在哪邊</th><th><code>alternate</code></th></tr></thead><tbody><tr><td>mount</td><td>只在 workInProgress</td><td><code>null</code></td></tr><tr><td>update，這次 render 有走到它</td><td>current 跟 workInProgress 各一份</td><td>兩份互指</td></tr><tr><td>update，它所在的 subtree 整個被跳過</td><td>current 跟 workInProgress 共用同一個物件</td><td>從沒走到過的話，一直是 <code>null</code></td></tr><tr><td>delete</td><td>只在 current</td><td>React 不替它建 workInProgress 的 fiber</td></tr></tbody></table>
+<p>React 不是用把 <code>alternate</code> 設成 <code>null</code> 來表示刪除。要刪的節點不會有 workInProgress 的 fiber，React 把舊的 fiber 放進 parent 的 <code>deletions</code> 陣列，再替 parent 加上 <code>ChildDeletion</code> 這個 flag。commit 讀到這個陣列，就呼叫 <code>removeChild</code>。</p>
+<p>程式碼在 <a href="https://github.com/react/react/blob/v19.3.1/packages/react-reconciler/src/ReactChildFiber.js"><code>ReactChildFiber.js</code></a> 的 <code>deleteChild</code>：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> deleteChild</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">returnFiber</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">childToDelete</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">!</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">shouldTrackSideEffects) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  }</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> deletions</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> returnFiber.deletions;</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (deletions </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">===</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    returnFiber.deletions </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> [childToDelete];  </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// parent 記下要刪哪些 child</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    returnFiber.flags </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">|=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> ChildDeletion;       </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// parent 加上 flag</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  } </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">else</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    deletions.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">push</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(childToDelete);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p><code>returnFiber</code> 是 parent。整個過程只動了 parent 的 <code>deletions</code> 跟 <code>flags</code>，被刪的 child 的 <code>alternate</code> 沒有人碰。</p>
+<h2>useState 的值存在哪裡</h2>
+<p>function component 只是一個 function，跑完就回傳，裡面的區域變數也跟著消失。在元件裡寫 <code>let count = 0</code>，每次 render 都會重新變回 0。那 <code>useState</code> 的值是怎麼留到下一次 render 的？</p>
+<p>它存在元件的 fiber 上，也就是 <code>memoizedState</code> 欄位。這個欄位指向一個 linked list，每呼叫一次 <code>useState</code>、<code>useRef</code>、<code>useEffect</code>，list 上就有一個節點。例如一個元件依序呼叫 <code>useState</code>、<code>useRef</code>、<code>useEffect</code>，<code>fiber.memoizedState</code> 就指向第一個節點（<code>useState</code> 的），它的 <code>next</code> 指向 <code>useRef</code> 的節點，再下一個是 <code>useEffect</code> 的。</p>
+<p>上一節說過，元件的 fiber 有兩份輪流用。每次 render，workInProgress 那份 fiber 會從 current 那份照順序把 hook 節點一個一個複製過來（<a href="https://github.com/react/react/blob/v19.3.1/packages/react-reconciler/src/ReactFiberHooks.js"><code>ReactFiberHooks.js</code></a> 的 <code>updateWorkInProgressHook</code>），所以值會一直留下來。render 時每遇到一個 <code>useState</code>，React 就往 list 的下一個節點走，把裡面存的值交回來。</p>
+<p>React 怎麼知道哪個節點屬於哪個 <code>useState</code> 呢？它不知道變數名稱，也就不知道哪個 <code>useState</code> 是 <code>name</code>、哪個是 <code>age</code>，只能數：第一次呼叫拿第一個節點，第二次呼叫拿第二個，依此類推。</p>
+<p>hook 節點本身也沒有地方放名字。React 建 hook 節點的程式碼在 <code>ReactFiberHooks.js</code> 的 <code>mountWorkInProgressHook</code>：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> hook</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  memoizedState: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  baseState: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  baseQueue: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  queue: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  next: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">};</span></span></code></pre></figure>
+<p>沒有名字、沒有 key、也沒有 id，一個 hook 連到下一個只靠 <code>next</code>。實際在 React 19.3.1 裡讀一個依序呼叫 <code>useState('Ann')</code>、<code>useRef</code>、<code>useEffect</code> 的元件，三個節點都只有這五個欄位，<code>memoizedState</code> 分別是 <code>'Ann'</code>、<code>{ current }</code> 跟一個 effect 物件。</p>
+<p>所以每次 render 呼叫 hook 的順序都要一樣。把 hook 放進 <code>if</code> 裡試試看：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="jsx" data-theme="github-dark github-light"><code data-language="jsx" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> Profile</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">({ </span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">show</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> }) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (show) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    const</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> [</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">name</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">] </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> useState</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'Ann'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)   </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// 有時呼叫，有時跳過</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  }</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  const</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> [</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">age</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">] </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> useState</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">20</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>第一次 render，<code>show</code> 是 <code>true</code>，呼叫兩次，建兩個節點：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>呼叫</th><th>拿到的節點</th><th>值</th></tr></thead><tbody><tr><td>第 1 次（<code>name</code>）</td><td>節點 1</td><td><code>'Ann'</code></td></tr><tr><td>第 2 次（<code>age</code>）</td><td>節點 2</td><td><code>20</code></td></tr></tbody></table>
+<p>下一次 render，<code>show</code> 是 <code>false</code>，<code>if</code> 跳過了第一次呼叫。只剩一次呼叫，React 還是從頭開始數：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>呼叫</th><th>拿到的節點</th><th>值</th></tr></thead><tbody><tr><td>第 1 次（<code>age</code>）</td><td>節點 1</td><td><code>'Ann'</code></td></tr></tbody></table>
+<p><code>age</code> 拿到第一個節點，讀到的是 <code>name</code> 的值。被跳過的 hook 後面每一個都會往前挪一個位置，讀到錯的值。React 預期兩個 hook，卻只看到一個，於是丟出錯誤。用 React 19.3.1 的 development build 實際跑一次，第二次 render 的 <code>age</code> 確實是 <code>'Ann'</code>，接著出現「Rendered fewer hooks than expected. This may be caused by an accidental early return statement.」。所以 hook 要寫在元件的最上層，不放進 <code>if</code>、<code>for</code> 裡，也不放在提早 <code>return</code> 之後（<a href="https://react.dev/reference/rules/rules-of-hooks">Rules of Hooks</a>）。</p>
+<p>這也解釋了換 <code>key</code> 為什麼會重設 state。元件的 <code>key</code> 一換，React 就替它建一個新的 fiber，<code>memoizedState</code> 是空的。實測時，一個 <code>count</code> 加到 2 的元件，用同一個 key 重新 render，還是 2；把 key 從 <code>a</code> 換成 <code>b</code>，就變回 0。</p>
+<h2>還有幾個問題</h2>
+<h3>為什麼 <code>&#x3C;MyComponent /></code> 會 render，小寫的 <code>&#x3C;myComponent /></code> 不會？</h3>
+<p>JSX 編譯器看第一個字母決定 <code>type</code> 放什麼：大寫開頭是一個變數，小寫開頭是一個字串。用 esbuild 0.25.10 編譯：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">div</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> />          →  </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">createElement</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"div"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)          </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// 小寫：字串</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">MyComponent</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> />  →  </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">createElement</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(MyComponent, </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)    </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// 大寫：變數</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">myComponent</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> />  →  </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">createElement</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"myComponent"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">null</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)  </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// 小寫：還是字串</span></span></code></pre></figure>
+<p><code>&#x3C;myComponent /></code> 看起來像元件，可是第一個字母小寫，編譯器就輸出字串 <code>"myComponent"</code>。React 收到 <code>type: "myComponent"</code>，把它當成 HTML tag，建出一個 <code>&#x3C;mycomponent></code>。叫做 <code>myComponent</code> 的 function 完全沒被呼叫。</p>
+<p>瀏覽器不認得這個 tag，可是也不會丟掉它。在 Chrome 156 上用 React 19.3.1 render <code>&#x3C;myComponent>child text&#x3C;/myComponent></code>，頁面上是一個 <code>HTMLUnknownElement</code>，<code>display</code> 是 <code>inline</code>，裡面的文字照樣顯示。development build 會在 console 印兩則錯誤，一則說大小寫用錯了，一則說瀏覽器不認得 <code>&#x3C;myComponent></code> 這個 tag，要寫元件的話名字要大寫開頭。production build 什麼都不印。</p>
+<p>大小寫是 JSX 編譯器的規則，React 只會收到編譯器已經決定好的 <code>type</code>（<a href="https://legacy.reactjs.org/docs/jsx-in-depth.html#user-defined-components-must-be-capitalized">JSX In Depth</a>）。</p>
+<h3>為什麼可以回傳 <code>null</code>，卻不能回傳一個 Component？</h3>
+<p>元件回傳的東西要是 ReactNode。<code>null</code> 是 ReactNode，意思是這裡什麼都不 render。Component 是一個 function，function 不是 ReactNode，要寫成 <code>&#x3C;Comp /></code>，不能只寫 <code>Comp</code>。</p>
+<p>在 React 19.3.1 裡寫 <code>return Comp</code>，畫面上什麼都沒有。development build 會印出「Functions are not valid as a React child. This may happen if you return Comp instead of <comp> from render. Or maybe you meant to call this function rather than return it.」，production build 什麼都不印。在 TypeScript 裡，把 function 指定給 <code>ReactNode</code> 型別的變數會報錯。</comp></p>
+<h3>為什麼清單項目的 <code>key</code> 一換，state 就重設？</h3>
+<p>render 時，React 用 <code>key</code> 把新的 element 對到現有的 fiber：</p>
+<ul>
+<li><strong>key 跟 type 都一樣</strong>：重用這個 fiber，它的 <code>memoizedState</code> 跟 DOM 節點都留著。</li>
+<li><strong>key 不一樣</strong>：丟掉舊的 fiber，建一個 state 是空的新 fiber。</li>
+</ul>
+<p>拿陣列的 index 當 key 就會出問題：在最前面插入一列，每一列的 index 都往後移一位，React 會把錯的 fiber 配給錯的列。下面每一列都有一個 <code>useState('note for ' + label)</code>，在 B、C 前面插入 A：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>key 用什麼</th><th>插入前</th><th>在最前面插入 A 之後</th></tr></thead><tbody><tr><td>index</td><td><code>B / note for B</code>、<code>C / note for C</code></td><td><code>A / note for B</code>、<code>B / note for C</code>、<code>C / note for C</code></td></tr><tr><td>每列自己的 id</td><td><code>B / note for B</code>、<code>C / note for C</code></td><td><code>A / note for A</code>、<code>B / note for B</code>、<code>C / note for C</code></td></tr></tbody></table>
+<p>用 index 當 key，A 拿到了 B 原本的 state，B 拿到 C 的，C 是新建的 fiber。</p>
+<h2>整理</h2>
+<ol>
+<li>JSX 產生 <strong>ReactElement</strong>，它的 <code>type</code> 是字串，或是一個 Component。</li>
+<li>render 時，React 替每個 element 建一個 fiber，或重用上一次的 fiber。<code>type</code> 是 Component 的話就呼叫它，拿到更多 element。</li>
+<li>React 沿著 fiber 的 <code>child</code>、<code>sibling</code>、<code>return</code> 一個一個走，不用遞迴呼叫。</li>
+<li><code>type</code> 是字串的 fiber，在 <code>completeWork</code> 裡建出 DOM 節點，接好 child，這時還不在頁面上。</li>
+<li>commit 把這些 DOM 節點放進頁面，再把 <code>root.current</code> 換成新的版本。</li>
+</ol>
+<h2>環境</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>項目</th><th>版本</th></tr></thead><tbody><tr><td>React、react-dom</td><td>19.3.1，用 esbuild 0.25.10 打包，production 跟 development 兩種 build</td></tr><tr><td>瀏覽器</td><td>Google Chrome 156.0.8078.79，headless，Playwright 1.64.1</td></tr><tr><td>TypeScript</td><td>5.9.3，<code>@types/react</code> 19.3.0</td></tr><tr><td>Node.js</td><td>22.22.3</td></tr><tr><td>作業系統</td><td>macOS（Darwin 24.6.0）</td></tr><tr><td>對照的原始碼</td><td><a href="https://github.com/react/react">react/react</a> <code>v19.3.1</code> tag</td></tr></tbody></table>
+<hr>
+<p>相關文章：<a href="/v2/from-setstate-to-pixels">從 setState 到畫面上的像素</a>、<a href="/v2/inside-react-fiberworkloop">React 的 work loop 裡發生了什麼</a>。</p>8:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L13",null,{"htmlContent":"$14","rawContent":"$15","base64Content":"$16","title":"ReactNode, ReactElement, Component, div: which live only in memory, and which becomes DOM","createdAt":"2026-04-21T09:00:00.000Z","updatedAt":"$undefined","tags":["react","internals","types"],"altHtmlContent":"$17","altTitle":"ReactNode、ReactElement、Component、div：哪些只在記憶體裡，哪一個會變成 DOM","currentLang":"en","altLang":"zh","canonicalPath":"$undefined"}]}]}]

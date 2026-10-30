@@ -1,0 +1,515 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"default"]
+4:I[48350,[],""]
+5:I[11412,[],""]
+6:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+7:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-6e2326ce7d294bfd.js"],"default"]
+9:I[96727,[],"OutletBoundary"]
+b:I[14038,[],"AsyncMetadataOutlet"]
+d:I[96727,[],"ViewportBoundary"]
+f:I[96727,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[92950,[],""]
+:HL["/_next/static/media/8760c4774489e4ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/01cc54cdad670ab3.css","style"]
+:HL["/_next/static/css/d3281eaf3cab9132.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/2aa38e97f45426ef.css","style"]
+0:{"P":null,"b":"nTKE4IB87lEgZWUaCupOc","p":"","c":["","v2","container-kernel-isolation.zh"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","container-kernel-isolation.zh","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/01cc54cdad670ab3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/d3281eaf3cab9132.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href=\"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap\";document.head.appendChild(l)})()"}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L7",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","container-kernel-isolation.zh","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/2aa38e97f45426ef.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+a:null
+c:{"metadata":[["$","title","0",{"children":"kernel 有漏洞的時候，container 之間靠什麼隔開  | jialinhuang"}],["$","meta","1",{"name":"description","content":"同一台 node 上的 container 共用一個 kernel，kernel 一有漏洞，任何一個 container 都可能控制整台機器。seccomp 能減少 container 能呼叫的 syscall；要讓 syscall 根本進不到 host 的 kernel，得用 gVisor 或 Kata Containers。以 CVE-2022-0185 為例。"}],["$","link","2",{"rel":"canonical","href":"/v2/container-kernel-isolation"}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"
+13:I[86734,["7654","static/chunks/7654-2fe46cddc56d2856.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+14:T474b,<p>同一台 node 上的 container，用的是同一個 host kernel。kernel 有漏洞的時候，任何一個 container 都可能利用它控制整台機器，連帶碰到其他 Pod。</p>
+<p>2022 年的 CVE-2022-0185 就是這種漏洞。在 kernel 修好之前，有三種做法：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>做法</th><th>做了什麼</th><th>碰到 kernel 漏洞時</th></tr></thead><tbody><tr><td>seccomp</td><td>限制 container 能呼叫哪些 syscall</td><td>漏洞剛好在被禁止的 syscall 裡才有用</td></tr><tr><td>gVisor</td><td>container 的 syscall 交給 gVisor 自己的 kernel 處理</td><td>syscall 進不到 host 的 kernel</td></tr><tr><td>Kata Containers</td><td>每個 Pod 跑在自己的小 VM 裡</td><td>syscall 進的是 VM 自己的 kernel</td></tr></tbody></table>
+<p><strong>所以如果 node 上跑的是不完全信任的程式，例如好幾個客戶共用一台機器，光靠 seccomp 不夠。要讓 container 碰不到 host 的 kernel，就得用 gVisor 或 Kata。</strong></p>
+<p>另外，把 host 的 <code>user.max_user_namespaces</code> 設成 0，container 就開不了 user namespace，CVE-2022-0185 這種要先開 user namespace 的攻擊會在第一步失敗（下面 CVE 那節有說明）。但下一個漏洞不一定需要 user namespace，所以這個設定跟 seccomp 一樣，只對某一類攻擊有效。</p>
+<h2>程式讀一個檔案時，kernel 做了什麼</h2>
+<p>kernel 是作業系統最底層的程式。它管理硬碟、記憶體、網路，也決定每個程式能做什麼。一般程式不能直接碰硬體，要做事都得請 kernel 代勞，這個動作叫 syscall（system call）。</p>
+<p>在 CLI 下 <code>cat notes.txt</code>，kernel 分解步驟做了：</p>
+<ol>
+<li><code>openat</code>：打開 <code>notes.txt</code></li>
+<li><code>read</code>：讀出檔案內容</li>
+<li><code>write</code>：把內容印到螢幕上</li>
+</ol>
+<p>這些 syscall 由 <code>cat</code> 發出，每一個都由 kernel 執行。所以 kernel 的程式碼有 bug 的話，任何能發出對應 syscall 的程式都可能觸發它。</p>
+<h2>container 沒有自己的 kernel</h2>
+<p>VM 是用軟體模擬出一整台電腦，有自己的 kernel。container 不一樣。runc 是實際建立 container 的程式，也是 Kubernetes 最常見的預設。用 runc 跑的 container 只是 host 上的一般 process，用的就是 host 的 kernel。</p>
+<p>container 看起來像一台獨立的機器，是因為 host 的 kernel 決定了它的邊界：</p>
+<ul>
+<li><strong>namespace</strong> 決定它能看到什麼。在 container 裡跑 <code>ps</code>，只會列出這個 container 自己的 process。</li>
+<li><strong>cgroup</strong> 決定它能用多少 CPU 跟記憶體。</li>
+</ul>
+<p>邊界是 kernel 決定的，而所有 container 的 syscall 都進同一個 kernel。<strong>kernel 本身有漏洞的話，container 裡的程式就可能透過 syscall 把邊界整個繞過去。</strong></p>
+<h2>CVE-2022-0185</h2>
+<p><a href="https://nvd.nist.gov/vuln/detail/CVE-2022-0185">CVE-2022-0185</a> 是 2022 年 1 月公開的 Linux kernel 漏洞，影響 5.1 起的 kernel，5.4.173、5.10.93、5.15.16、5.16.2 這幾版修掉了。kernel 裡處理掛載參數的 <code>legacy_parse_param</code> 收到 4095 bytes 以上的參數時，會寫到記憶體裡不該寫的地方，攻擊者能靠它變成 root（<a href="https://www.crowdstrike.com/en-us/blog/cve-2022-0185-kubernetes-container-escape-using-linux-kernel-exploit/">CrowdStrike 的分析</a>）。</p>
+<p>從 container 裡攻擊分三步：</p>
+<ol>
+<li>呼叫 <code>unshare</code> 開一個新的 user namespace。kernel 會把程式當成這個 namespace 裡的 root，給它 CAP_SYS_ADMIN，也就是掛載檔案系統需要的權限。一般的 container 本來沒有這個權限。</li>
+<li>有了 CAP_SYS_ADMIN，就能呼叫 <code>fsconfig</code>，塞進 4095 bytes 以上的參數，觸發漏洞。</li>
+<li>改寫 kernel 的記憶體，取得整台 host 的 root。</li>
+</ol>
+<p>如果 Pod 套了 seccomp（Kubernetes 預設沒套）、runc 從預設的 <code>pivot_root</code> 改用 <code>chroot</code> 切換根目錄，或 host 把 <code>user.max_user_namespaces</code> 設成 0，第 1 步就會失敗。</p>
+<p>最直接的解法是升級 kernel。但下一個漏洞還會出現，修好之前要靠下面三種做法。</p>
+<h2>seccomp：限制能呼叫的 syscall</h2>
+<p>seccomp 是 kernel 的功能，替程式設一份 syscall 允許清單，清單外的一律拒絕。Kubernetes 在 node 上請 containerd 或 CRI-O 建立 container，兩者都附了預設清單，Pod 用 <code>RuntimeDefault</code> 指定：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="yaml" data-theme="github-dark github-light"><code data-language="yaml" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">spec</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">  securityContext</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">    seccompProfile</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">      type</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">RuntimeDefault</span></span></code></pre></figure>
+<p>CrowdStrike 加上這段再試一次，第 1 步的 <code>unshare</code> 直接失敗，回的是「Operation not permitted」，攻擊停在第一步。</p>
+<p>但 Kubernetes 不會自動套用這份清單。Pod 沒寫 <code>seccompProfile</code> 的話就是 <code>Unconfined</code>，什麼都不擋。要讓所有 Pod 預設套用，得在每個 node 的 kubelet（node 上負責啟動 Pod 的 Kubernetes 程式）加上 <code>--seccomp-default</code> 這個 flag，它從 Kubernetes 1.27 起是 stable（<a href="https://kubernetes.io/docs/tutorials/security/seccomp/">Kubernetes seccomp 文件</a>）。</p>
+<p>seccomp 也有極限。清單一定會放行 <code>read</code> 這類每個程式都要用的 syscall。下一個漏洞要是出在這種 syscall 裡，seccomp 就沒用，因為放行的 syscall 照樣進 host 的 kernel。</p>
+<h2>gVisor：在中間多放一個 kernel</h2>
+<p>gVisor 是 Google 的專案，它在 container 跟 host kernel 之間多放了一個 kernel，叫 Sentry。Sentry 用 Go 寫，在 host 上就是一個普通的 process。container 裡的程式發出的 syscall 會送到 Sentry，由 Sentry 自己的程式碼處理。gVisor 的文件寫的是「gVisor never passes through any system call to the host」（<a href="https://gvisor.dev/docs/architecture_guide/intro/">gVisor architecture</a>）。</p>
+<pre><code>一般 container：程式 → host kernel
+gVisor：        程式 → Sentry → host kernel（只有 Sentry 自己要用的少數呼叫）
+</code></pre>
+<p>套回 CVE-2022-0185，<code>unshare</code> 跟 <code>fsconfig</code> 都由 Sentry 處理，Sentry 沒實作的就回錯誤。兩種情況都不會進到 host 的 kernel，有漏洞的 <code>legacy_parse_param</code> 也就不會被執行。</p>
+<p>Sentry 自己也是 process，還是得請 host 的 kernel 做一些事，例如計時、處理 signal。但這些請求是 Sentry 為了自己的工作發的，container 裡的程式沒辦法決定它要呼叫哪個 syscall、帶什麼參數（<a href="https://gvisor.dev/docs/architecture_guide/security/">gVisor security</a>）。</p>
+<p>讀寫檔案原本要經過另一個叫 Gofer 的 process，Sentry 不能自己開 host 上的檔案，要請 Gofer 代開。2023 年 6 月起，gVisor 預設改用 directfs，讓 Sentry 直接開 container 裡的檔案，讀寫比較快。不過這樣 Sentry 在 host 上需要的權限也變大了，gVisor 在設定說明裡也寫著「Sentry runs with higher privileges」（<a href="https://gvisor.dev/blog/2023/06/27/directfs/">gVisor 公告</a>）。</p>
+<p>gVisor 的限制：</p>
+<ul>
+<li>Sentry 沒實作的 kernel 功能，程式就用不到。</li>
+<li>syscall 都要先經過 Sentry，所以 syscall 很頻繁、每次只做一點事的程式會明顯變慢，官方舉的例子是 Redis 的小操作。網路跟檔案 I/O 目前也偏慢，官方說主要是實作還需要改進（<a href="https://gvisor.dev/docs/architecture_guide/performance/">gVisor performance</a>）。</li>
+</ul>
+<h2>Kata Containers：每個 Pod 一台小 VM</h2>
+<p>Kata Containers 替每個 Pod 開一台輕量的 VM，Pod 裡的 container 都在裡面跑。VM 有自己的 kernel，叫 guest kernel。在 host 上負責開 VM 的程式叫 hypervisor，Kata 支援 QEMU、Cloud Hypervisor 等好幾種（<a href="https://github.com/kata-containers/kata-containers/blob/main/docs/design/architecture/README.md">Kata architecture</a>）。</p>
+<pre><code>一般 container：程式 → host kernel
+Kata：          程式 → guest kernel（這個 Pod 自己的）→ hypervisor → host kernel
+</code></pre>
+<p>套回 CVE-2022-0185，<code>unshare</code> 跟 <code>fsconfig</code> 進的是這個 Pod 自己的 guest kernel。就算 guest kernel 也有這個漏洞，攻擊者拿到的也只是這台 VM，host 跟其他 Pod 還在 VM 外面。要再往外，得另外找到 hypervisor 的漏洞。Kata 的文件把 VM 這一層稱為「second layer of defence」，也就是第二道防線。</p>
+<p>Kata 的限制是每個 Pod 都要多跑一個 kernel，node 上也得裝好 hypervisor。</p>
+<h2>三種做法比一比</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th></th><th>程式的 syscall 由誰處理</th><th>想利用 host kernel 的漏洞，攻擊者得先過哪一關</th></tr></thead><tbody><tr><td>runc（預設）</td><td>host kernel</td><td>沒有</td></tr><tr><td>runc 加 seccomp</td><td>host kernel，只放行清單裡的 syscall</td><td>漏洞得剛好在清單放行的 syscall 裡</td></tr><tr><td>gVisor</td><td>Sentry</td><td>先攻破 Sentry，再利用 Sentry 能用的那一小組 host syscall（預設開了 directfs，所以也包括開啟 container 裡的檔案）</td></tr><tr><td>Kata</td><td>這個 Pod 的 guest kernel</td><td>先控制 guest kernel，再突破 hypervisor</td></tr></tbody></table>
+<p>我沒找到在相同條件下比較這幾種做法安全性的資料，所以這張表不排名次。gVisor 的文件提到，VM 一樣有可以攻擊的地方。VM 裡的程式用到網卡、硬碟時，是 hypervisor 那一側的程式在模擬這些裝置，這段程式有漏洞的話，攻擊者一樣能從 VM 碰到 host。gVisor 的文件據此提醒，改用 VM 不代表就比 gVisor 安全。</p>
+<h2>在 Kubernetes 裡改用 gVisor 或 Kata</h2>
+<p>containerd 不會直接呼叫 runc。它先啟動一個叫 shim 的小程式，一般 container 用的是 <code>containerd-shim-runc-v2</code>，由 shim 去呼叫 runc，之後 shim 會留下來回報 container 的狀態。細節寫在<a href="/v2/containerd-shim-and-runc">〈Inside containerd: How shim and runc Actually Work〉</a>。</p>
+<p>gVisor 跟 Kata 都附了自己的 shim：</p>
+<ul>
+<li>gVisor 的是 <code>containerd-shim-runsc-v1</code>，它再去呼叫 <code>runsc</code>，也就是 gVisor 用來取代 runc、負責啟動 Sentry 的程式。</li>
+<li>Kata 的是 <code>containerd-shim-kata-v2</code>，它本身就是 Kata 的 runtime，直接叫 hypervisor 開 VM。</li>
+</ul>
+<p>所以 node 上要先裝好新的 shim，gVisor 還要另外裝 <code>runsc</code>。裝好之後，以 gVisor 為例，照它的 <a href="https://gvisor.dev/docs/user_guide/containerd/quick_start/">containerd quick start</a>，設定分三步。</p>
+<ol>
+<li>
+<p>在 containerd 的設定檔加一個 runtime handler，也就是替「用 gVisor 跑」這個選項取一個名字，這裡叫 <code>runsc</code>。底下 <code>runtime_type = "io.containerd.runsc.v1"</code> 這一行指定要用的 shim，containerd 照命名規則把它對應到 <code>containerd-shim-runsc-v1</code> 這個執行檔。</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="toml" data-theme="github-dark github-light"><code data-language="toml" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># /etc/containerd/config.toml</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">version = </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">2</span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">  # 不寫的話 containerd 1.x 會當成 version 1，底下這段不會被讀到</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">[</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">plugins</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">"io</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">containerd</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">grpc</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">v1</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">cri"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">containerd</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">runtimes</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">runsc</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">]</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  runtime_type = </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"io.containerd.runsc.v1"</span></span></code></pre></figure>
+</li>
+<li>
+<p>建一個 RuntimeClass。RuntimeClass 是 Kubernetes 的一種設定，把一個名字（這裡叫 <code>gvisor</code>）對到 node 上的 handler（<code>runsc</code>）。</p>
+</li>
+<li>
+<p>在 Pod spec 裡用 <code>runtimeClassName</code> 指定這個 RuntimeClass。</p>
+</li>
+</ol>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="yaml" data-theme="github-dark github-light"><code data-language="yaml" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">apiVersion</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">node.k8s.io/v1</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">kind</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">RuntimeClass</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">metadata</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">  name</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">gvisor</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">handler</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">runsc</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">---</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># Pod spec 裡</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">spec</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">  runtimeClassName</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">gvisor</span></span></code></pre></figure>
+<p>image 不用換，Pod spec 只多了 <code>runtimeClassName</code> 這一行。沒寫 <code>runtimeClassName</code> 的 Pod，Kubernetes 會用 node 預設的 handler，照原本的方式交給 runc 跑（<a href="https://kubernetes.io/docs/concepts/containers/runtime-class/">K8s RuntimeClass</a>）。</p>
+<h2>參考資料</h2>
+<ul>
+<li><a href="https://www.crowdstrike.com/en-us/blog/cve-2022-0185-kubernetes-container-escape-using-linux-kernel-exploit/">CrowdStrike: CVE-2022-0185 Kubernetes Container Escape Using Linux Kernel Exploit</a></li>
+<li><a href="https://kubernetes.io/docs/tutorials/security/seccomp/">K8s docs: Restrict a Container's Syscalls with seccomp</a></li>
+<li><a href="https://gvisor.dev/docs/architecture_guide/intro/">gVisor: Introduction</a></li>
+<li><a href="https://gvisor.dev/docs/architecture_guide/security/">gVisor: Security model</a></li>
+<li><a href="https://gvisor.dev/docs/architecture_guide/performance/">gVisor: Performance guide</a></li>
+<li><a href="https://gvisor.dev/blog/2023/06/27/directfs/">gVisor: Directfs (2023)</a></li>
+<li><a href="https://man7.org/linux/man-pages/man2/clone.2.html">clone(2) man page</a></li>
+<li><a href="https://gvisor.dev/docs/user_guide/containerd/quick_start/">gVisor: containerd quick start</a></li>
+<li><a href="https://github.com/kata-containers/kata-containers/blob/main/docs/design/architecture/README.md">Kata Containers: Architecture</a></li>
+<li><a href="https://kubernetes.io/docs/concepts/containers/runtime-class/">K8s docs: RuntimeClass</a></li>
+</ul>15:T2f3b,
+同一台 node 上的 container，用的是同一個 host kernel。kernel 有漏洞的時候，任何一個 container 都可能利用它控制整台機器，連帶碰到其他 Pod。
+
+2022 年的 CVE-2022-0185 就是這種漏洞。在 kernel 修好之前，有三種做法：
+
+| 做法 | 做了什麼 | 碰到 kernel 漏洞時 |
+|---|---|---|
+| seccomp | 限制 container 能呼叫哪些 syscall | 漏洞剛好在被禁止的 syscall 裡才有用 |
+| gVisor | container 的 syscall 交給 gVisor 自己的 kernel 處理 | syscall 進不到 host 的 kernel |
+| Kata Containers | 每個 Pod 跑在自己的小 VM 裡 | syscall 進的是 VM 自己的 kernel |
+
+**所以如果 node 上跑的是不完全信任的程式，例如好幾個客戶共用一台機器，光靠 seccomp 不夠。要讓 container 碰不到 host 的 kernel，就得用 gVisor 或 Kata。**
+
+另外，把 host 的 `user.max_user_namespaces` 設成 0，container 就開不了 user namespace，CVE-2022-0185 這種要先開 user namespace 的攻擊會在第一步失敗（下面 CVE 那節有說明）。但下一個漏洞不一定需要 user namespace，所以這個設定跟 seccomp 一樣，只對某一類攻擊有效。
+
+## 程式讀一個檔案時，kernel 做了什麼
+
+kernel 是作業系統最底層的程式。它管理硬碟、記憶體、網路，也決定每個程式能做什麼。一般程式不能直接碰硬體，要做事都得請 kernel 代勞，這個動作叫 syscall（system call）。
+
+在 CLI 下 `cat notes.txt`，kernel 分解步驟做了：
+
+1. `openat`：打開 `notes.txt`
+2. `read`：讀出檔案內容
+3. `write`：把內容印到螢幕上
+
+這些 syscall 由 `cat` 發出，每一個都由 kernel 執行。所以 kernel 的程式碼有 bug 的話，任何能發出對應 syscall 的程式都可能觸發它。
+
+## container 沒有自己的 kernel
+
+VM 是用軟體模擬出一整台電腦，有自己的 kernel。container 不一樣。runc 是實際建立 container 的程式，也是 Kubernetes 最常見的預設。用 runc 跑的 container 只是 host 上的一般 process，用的就是 host 的 kernel。
+
+container 看起來像一台獨立的機器，是因為 host 的 kernel 決定了它的邊界：
+
+- **namespace** 決定它能看到什麼。在 container 裡跑 `ps`，只會列出這個 container 自己的 process。
+- **cgroup** 決定它能用多少 CPU 跟記憶體。
+
+邊界是 kernel 決定的，而所有 container 的 syscall 都進同一個 kernel。**kernel 本身有漏洞的話，container 裡的程式就可能透過 syscall 把邊界整個繞過去。**
+
+## CVE-2022-0185
+
+[CVE-2022-0185](https://nvd.nist.gov/vuln/detail/CVE-2022-0185) 是 2022 年 1 月公開的 Linux kernel 漏洞，影響 5.1 起的 kernel，5.4.173、5.10.93、5.15.16、5.16.2 這幾版修掉了。kernel 裡處理掛載參數的 `legacy_parse_param` 收到 4095 bytes 以上的參數時，會寫到記憶體裡不該寫的地方，攻擊者能靠它變成 root（[CrowdStrike 的分析](https://www.crowdstrike.com/en-us/blog/cve-2022-0185-kubernetes-container-escape-using-linux-kernel-exploit/)）。
+
+從 container 裡攻擊分三步：
+
+1. 呼叫 `unshare` 開一個新的 user namespace。kernel 會把程式當成這個 namespace 裡的 root，給它 CAP_SYS_ADMIN，也就是掛載檔案系統需要的權限。一般的 container 本來沒有這個權限。
+2. 有了 CAP_SYS_ADMIN，就能呼叫 `fsconfig`，塞進 4095 bytes 以上的參數，觸發漏洞。
+3. 改寫 kernel 的記憶體，取得整台 host 的 root。
+
+如果 Pod 套了 seccomp（Kubernetes 預設沒套）、runc 從預設的 `pivot_root` 改用 `chroot` 切換根目錄，或 host 把 `user.max_user_namespaces` 設成 0，第 1 步就會失敗。
+
+最直接的解法是升級 kernel。但下一個漏洞還會出現，修好之前要靠下面三種做法。
+
+## seccomp：限制能呼叫的 syscall
+
+seccomp 是 kernel 的功能，替程式設一份 syscall 允許清單，清單外的一律拒絕。Kubernetes 在 node 上請 containerd 或 CRI-O 建立 container，兩者都附了預設清單，Pod 用 `RuntimeDefault` 指定：
+
+```yaml
+spec:
+  securityContext:
+    seccompProfile:
+      type: RuntimeDefault
+```
+
+CrowdStrike 加上這段再試一次，第 1 步的 `unshare` 直接失敗，回的是「Operation not permitted」，攻擊停在第一步。
+
+但 Kubernetes 不會自動套用這份清單。Pod 沒寫 `seccompProfile` 的話就是 `Unconfined`，什麼都不擋。要讓所有 Pod 預設套用，得在每個 node 的 kubelet（node 上負責啟動 Pod 的 Kubernetes 程式）加上 `--seccomp-default` 這個 flag，它從 Kubernetes 1.27 起是 stable（[Kubernetes seccomp 文件](https://kubernetes.io/docs/tutorials/security/seccomp/)）。
+
+seccomp 也有極限。清單一定會放行 `read` 這類每個程式都要用的 syscall。下一個漏洞要是出在這種 syscall 裡，seccomp 就沒用，因為放行的 syscall 照樣進 host 的 kernel。
+
+## gVisor：在中間多放一個 kernel
+
+gVisor 是 Google 的專案，它在 container 跟 host kernel 之間多放了一個 kernel，叫 Sentry。Sentry 用 Go 寫，在 host 上就是一個普通的 process。container 裡的程式發出的 syscall 會送到 Sentry，由 Sentry 自己的程式碼處理。gVisor 的文件寫的是「gVisor never passes through any system call to the host」（[gVisor architecture](https://gvisor.dev/docs/architecture_guide/intro/)）。
+
+```
+一般 container：程式 → host kernel
+gVisor：        程式 → Sentry → host kernel（只有 Sentry 自己要用的少數呼叫）
+```
+
+套回 CVE-2022-0185，`unshare` 跟 `fsconfig` 都由 Sentry 處理，Sentry 沒實作的就回錯誤。兩種情況都不會進到 host 的 kernel，有漏洞的 `legacy_parse_param` 也就不會被執行。
+
+Sentry 自己也是 process，還是得請 host 的 kernel 做一些事，例如計時、處理 signal。但這些請求是 Sentry 為了自己的工作發的，container 裡的程式沒辦法決定它要呼叫哪個 syscall、帶什麼參數（[gVisor security](https://gvisor.dev/docs/architecture_guide/security/)）。
+
+讀寫檔案原本要經過另一個叫 Gofer 的 process，Sentry 不能自己開 host 上的檔案，要請 Gofer 代開。2023 年 6 月起，gVisor 預設改用 directfs，讓 Sentry 直接開 container 裡的檔案，讀寫比較快。不過這樣 Sentry 在 host 上需要的權限也變大了，gVisor 在設定說明裡也寫著「Sentry runs with higher privileges」（[gVisor 公告](https://gvisor.dev/blog/2023/06/27/directfs/)）。
+
+gVisor 的限制：
+
+- Sentry 沒實作的 kernel 功能，程式就用不到。
+- syscall 都要先經過 Sentry，所以 syscall 很頻繁、每次只做一點事的程式會明顯變慢，官方舉的例子是 Redis 的小操作。網路跟檔案 I/O 目前也偏慢，官方說主要是實作還需要改進（[gVisor performance](https://gvisor.dev/docs/architecture_guide/performance/)）。
+
+## Kata Containers：每個 Pod 一台小 VM
+
+Kata Containers 替每個 Pod 開一台輕量的 VM，Pod 裡的 container 都在裡面跑。VM 有自己的 kernel，叫 guest kernel。在 host 上負責開 VM 的程式叫 hypervisor，Kata 支援 QEMU、Cloud Hypervisor 等好幾種（[Kata architecture](https://github.com/kata-containers/kata-containers/blob/main/docs/design/architecture/README.md)）。
+
+```
+一般 container：程式 → host kernel
+Kata：          程式 → guest kernel（這個 Pod 自己的）→ hypervisor → host kernel
+```
+
+套回 CVE-2022-0185，`unshare` 跟 `fsconfig` 進的是這個 Pod 自己的 guest kernel。就算 guest kernel 也有這個漏洞，攻擊者拿到的也只是這台 VM，host 跟其他 Pod 還在 VM 外面。要再往外，得另外找到 hypervisor 的漏洞。Kata 的文件把 VM 這一層稱為「second layer of defence」，也就是第二道防線。
+
+Kata 的限制是每個 Pod 都要多跑一個 kernel，node 上也得裝好 hypervisor。
+
+## 三種做法比一比
+
+| | 程式的 syscall 由誰處理 | 想利用 host kernel 的漏洞，攻擊者得先過哪一關 |
+|---|---|---|
+| runc（預設） | host kernel | 沒有 |
+| runc 加 seccomp | host kernel，只放行清單裡的 syscall | 漏洞得剛好在清單放行的 syscall 裡 |
+| gVisor | Sentry | 先攻破 Sentry，再利用 Sentry 能用的那一小組 host syscall（預設開了 directfs，所以也包括開啟 container 裡的檔案） |
+| Kata | 這個 Pod 的 guest kernel | 先控制 guest kernel，再突破 hypervisor |
+
+我沒找到在相同條件下比較這幾種做法安全性的資料，所以這張表不排名次。gVisor 的文件提到，VM 一樣有可以攻擊的地方。VM 裡的程式用到網卡、硬碟時，是 hypervisor 那一側的程式在模擬這些裝置，這段程式有漏洞的話，攻擊者一樣能從 VM 碰到 host。gVisor 的文件據此提醒，改用 VM 不代表就比 gVisor 安全。
+
+## 在 Kubernetes 裡改用 gVisor 或 Kata
+
+containerd 不會直接呼叫 runc。它先啟動一個叫 shim 的小程式，一般 container 用的是 `containerd-shim-runc-v2`，由 shim 去呼叫 runc，之後 shim 會留下來回報 container 的狀態。細節寫在[〈Inside containerd: How shim and runc Actually Work〉](/v2/containerd-shim-and-runc)。
+
+gVisor 跟 Kata 都附了自己的 shim：
+
+- gVisor 的是 `containerd-shim-runsc-v1`，它再去呼叫 `runsc`，也就是 gVisor 用來取代 runc、負責啟動 Sentry 的程式。
+- Kata 的是 `containerd-shim-kata-v2`，它本身就是 Kata 的 runtime，直接叫 hypervisor 開 VM。
+
+所以 node 上要先裝好新的 shim，gVisor 還要另外裝 `runsc`。裝好之後，以 gVisor 為例，照它的 [containerd quick start](https://gvisor.dev/docs/user_guide/containerd/quick_start/)，設定分三步。
+
+1. 在 containerd 的設定檔加一個 runtime handler，也就是替「用 gVisor 跑」這個選項取一個名字，這裡叫 `runsc`。底下 `runtime_type = "io.containerd.runsc.v1"` 這一行指定要用的 shim，containerd 照命名規則把它對應到 `containerd-shim-runsc-v1` 這個執行檔。
+
+   ```toml
+   # /etc/containerd/config.toml
+   version = 2  # 不寫的話 containerd 1.x 會當成 version 1，底下這段不會被讀到
+   [plugins."io.containerd.grpc.v1.cri".containerd.runtimes.runsc]
+     runtime_type = "io.containerd.runsc.v1"
+   ```
+
+2. 建一個 RuntimeClass。RuntimeClass 是 Kubernetes 的一種設定，把一個名字（這裡叫 `gvisor`）對到 node 上的 handler（`runsc`）。
+3. 在 Pod spec 裡用 `runtimeClassName` 指定這個 RuntimeClass。
+
+```yaml
+apiVersion: node.k8s.io/v1
+kind: RuntimeClass
+metadata:
+  name: gvisor
+handler: runsc
+---
+# Pod spec 裡
+spec:
+  runtimeClassName: gvisor
+```
+
+image 不用換，Pod spec 只多了 `runtimeClassName` 這一行。沒寫 `runtimeClassName` 的 Pod，Kubernetes 會用 node 預設的 handler，照原本的方式交給 runc 跑（[K8s RuntimeClass](https://kubernetes.io/docs/concepts/containers/runtime-class/)）。
+
+## 參考資料
+
+- [CrowdStrike: CVE-2022-0185 Kubernetes Container Escape Using Linux Kernel Exploit](https://www.crowdstrike.com/en-us/blog/cve-2022-0185-kubernetes-container-escape-using-linux-kernel-exploit/)
+- [K8s docs: Restrict a Container's Syscalls with seccomp](https://kubernetes.io/docs/tutorials/security/seccomp/)
+- [gVisor: Introduction](https://gvisor.dev/docs/architecture_guide/intro/)
+- [gVisor: Security model](https://gvisor.dev/docs/architecture_guide/security/)
+- [gVisor: Performance guide](https://gvisor.dev/docs/architecture_guide/performance/)
+- [gVisor: Directfs (2023)](https://gvisor.dev/blog/2023/06/27/directfs/)
+- [clone(2) man page](https://man7.org/linux/man-pages/man2/clone.2.html)
+- [gVisor: containerd quick start](https://gvisor.dev/docs/user_guide/containerd/quick_start/)
+- [Kata Containers: Architecture](https://github.com/kata-containers/kata-containers/blob/main/docs/design/architecture/README.md)
+- [K8s docs: RuntimeClass](https://kubernetes.io/docs/concepts/containers/runtime-class/)
+16:T4150,LS0tCnRpdGxlOiAia2VybmVsIOaciea8j+a0nueahOaZguWAme+8jGNvbnRhaW5lciDkuYvplpPpnaDku4DpurzpmpTplosiCmNyZWF0ZWRBdDogMjAyNi0xMC0yN1QxOToxNjo0NAp0YWdzOiBbazhzLCBjb250YWluZXIsIHNlY3VyaXR5XQpkZXNjcmlwdGlvbjogIuWQjOS4gOWPsCBub2RlIOS4iueahCBjb250YWluZXIg5YWx55So5LiA5YCLIGtlcm5lbO+8jGtlcm5lbCDkuIDmnInmvI/mtJ7vvIzku7vkvZXkuIDlgIsgY29udGFpbmVyIOmDveWPr+iDveaOp+WItuaVtOWPsOapn+WZqOOAgnNlY2NvbXAg6IO95rib5bCRIGNvbnRhaW5lciDog73lkbzlj6vnmoQgc3lzY2FsbO+8m+imgeiukyBzeXNjYWxsIOagueacrOmAsuS4jeWIsCBob3N0IOeahCBrZXJuZWzvvIzlvpfnlKggZ1Zpc29yIOaIliBLYXRhIENvbnRhaW5lcnPjgILku6UgQ1ZFLTIwMjItMDE4NSDngrrkvovjgIIiCi0tLQoK5ZCM5LiA5Y+wIG5vZGUg5LiK55qEIGNvbnRhaW5lcu+8jOeUqOeahOaYr+WQjOS4gOWAiyBob3N0IGtlcm5lbOOAgmtlcm5lbCDmnInmvI/mtJ7nmoTmmYLlgJnvvIzku7vkvZXkuIDlgIsgY29udGFpbmVyIOmDveWPr+iDveWIqeeUqOWug+aOp+WItuaVtOWPsOapn+WZqO+8jOmAo+W4tueisOWIsOWFtuS7liBQb2TjgIIKCjIwMjIg5bm055qEIENWRS0yMDIyLTAxODUg5bCx5piv6YCZ56iu5ryP5rSe44CC5ZyoIGtlcm5lbCDkv67lpb3kuYvliY3vvIzmnInkuInnqK7lgZrms5XvvJoKCnwg5YGa5rOVIHwg5YGa5LqG5LuA6bq8IHwg56Kw5YiwIGtlcm5lbCDmvI/mtJ7mmYIgfAp8LS0tfC0tLXwtLS18Cnwgc2VjY29tcCB8IOmZkOWItiBjb250YWluZXIg6IO95ZG85Y+r5ZOq5LqbIHN5c2NhbGwgfCDmvI/mtJ7liZvlpb3lnKjooqvnpoHmraLnmoQgc3lzY2FsbCDoo6HmiY3mnInnlKggfAp8IGdWaXNvciB8IGNvbnRhaW5lciDnmoQgc3lzY2FsbCDkuqTntaYgZ1Zpc29yIOiHquW3seeahCBrZXJuZWwg6JmV55CGIHwgc3lzY2FsbCDpgLLkuI3liLAgaG9zdCDnmoQga2VybmVsIHwKfCBLYXRhIENvbnRhaW5lcnMgfCDmr4/lgIsgUG9kIOi3keWcqOiHquW3seeahOWwjyBWTSDoo6EgfCBzeXNjYWxsIOmAsueahOaYryBWTSDoh6rlt7HnmoQga2VybmVsIHwKCioq5omA5Lul5aaC5p6cIG5vZGUg5LiK6LeR55qE5piv5LiN5a6M5YWo5L+h5Lu755qE56iL5byP77yM5L6L5aaC5aW95bm+5YCL5a6i5oi25YWx55So5LiA5Y+w5qmf5Zmo77yM5YWJ6Z2gIHNlY2NvbXAg5LiN5aSg44CC6KaB6K6TIGNvbnRhaW5lciDnorDkuI3liLAgaG9zdCDnmoQga2VybmVs77yM5bCx5b6X55SoIGdWaXNvciDmiJYgS2F0YeOAgioqCgrlj6blpJbvvIzmioogaG9zdCDnmoQgYHVzZXIubWF4X3VzZXJfbmFtZXNwYWNlc2Ag6Kit5oiQIDDvvIxjb250YWluZXIg5bCx6ZaL5LiN5LqGIHVzZXIgbmFtZXNwYWNl77yMQ1ZFLTIwMjItMDE4NSDpgJnnqK7opoHlhYjplosgdXNlciBuYW1lc3BhY2Ug55qE5pS75pOK5pyD5Zyo56ys5LiA5q2l5aSx5pWX77yI5LiL6Z2iIENWRSDpgqPnr4DmnInoqqrmmI7vvInjgILkvYbkuIvkuIDlgIvmvI/mtJ7kuI3kuIDlrprpnIDopoEgdXNlciBuYW1lc3BhY2XvvIzmiYDku6XpgJnlgIvoqK3lrprot58gc2VjY29tcCDkuIDmqKPvvIzlj6rlsI3mn5DkuIDpoZ7mlLvmk4rmnInmlYjjgIIKCiMjIOeoi+W8j+iugOS4gOWAi+aqlOahiOaZgu+8jGtlcm5lbCDlgZrkuobku4DpurwKCmtlcm5lbCDmmK/kvZzmpa3ns7vntbHmnIDlupXlsaTnmoTnqIvlvI/jgILlroPnrqHnkIbnoaznop/jgIHoqJjmhrbpq5TjgIHntrLot6/vvIzkuZ/msbrlrprmr4/lgIvnqIvlvI/og73lgZrku4DpurzjgILkuIDoiKznqIvlvI/kuI3og73nm7TmjqXnorDnoazpq5TvvIzopoHlgZrkuovpg73lvpfoq4sga2VybmVsIOS7o+WLnu+8jOmAmeWAi+WLleS9nOWPqyBzeXNjYWxs77yIc3lzdGVtIGNhbGzvvInjgIIKCuWcqCBDTEkg5LiLIGBjYXQgbm90ZXMudHh0YO+8jGtlcm5lbCDliIbop6PmraXpqZ/lgZrkuobvvJoKCjEuIGBvcGVuYXRg77ya5omT6ZaLIGBub3Rlcy50eHRgCjIuIGByZWFkYO+8muiugOWHuuaqlOahiOWFp+WuuQozLiBgd3JpdGVg77ya5oqK5YWn5a655Y2w5Yiw6J6i5bmV5LiKCgrpgJnkupsgc3lzY2FsbCDnlLEgYGNhdGAg55m85Ye677yM5q+P5LiA5YCL6YO955SxIGtlcm5lbCDln7fooYzjgILmiYDku6Uga2VybmVsIOeahOeoi+W8j+eivOaciSBidWcg55qE6Kmx77yM5Lu75L2V6IO955m85Ye65bCN5oeJIHN5c2NhbGwg55qE56iL5byP6YO95Y+v6IO96Ke455m85a6D44CCCgojIyBjb250YWluZXIg5rKS5pyJ6Ieq5bex55qEIGtlcm5lbAoKVk0g5piv55So6Luf6auU5qih5pOs5Ye65LiA5pW05Y+w6Zu76IWm77yM5pyJ6Ieq5bex55qEIGtlcm5lbOOAgmNvbnRhaW5lciDkuI3kuIDmqKPjgIJydW5jIOaYr+Wvpumam+W7uueriyBjb250YWluZXIg55qE56iL5byP77yM5Lmf5pivIEt1YmVybmV0ZXMg5pyA5bi46KaL55qE6aCQ6Kit44CC55SoIHJ1bmMg6LeR55qEIGNvbnRhaW5lciDlj6rmmK8gaG9zdCDkuIrnmoTkuIDoiKwgcHJvY2Vzc++8jOeUqOeahOWwseaYryBob3N0IOeahCBrZXJuZWzjgIIKCmNvbnRhaW5lciDnnIvotbfkvoblg4/kuIDlj7Dnjajnq4vnmoTmqZ/lmajvvIzmmK/lm6DngrogaG9zdCDnmoQga2VybmVsIOaxuuWumuS6huWug+eahOmCiueVjO+8mgoKLSAqKm5hbWVzcGFjZSoqIOaxuuWumuWug+iDveeci+WIsOS7gOm6vOOAguWcqCBjb250YWluZXIg6KOh6LeRIGBwc2DvvIzlj6rmnIPliJflh7rpgJnlgIsgY29udGFpbmVyIOiHquW3seeahCBwcm9jZXNz44CCCi0gKipjZ3JvdXAqKiDmsbrlrprlroPog73nlKjlpJrlsJEgQ1BVIOi3n+iomOaGtumrlOOAggoK6YKK55WM5pivIGtlcm5lbCDmsbrlrprnmoTvvIzogIzmiYDmnIkgY29udGFpbmVyIOeahCBzeXNjYWxsIOmDvemAsuWQjOS4gOWAiyBrZXJuZWzjgIIqKmtlcm5lbCDmnKzouqvmnInmvI/mtJ7nmoToqbHvvIxjb250YWluZXIg6KOh55qE56iL5byP5bCx5Y+v6IO96YCP6YGOIHN5c2NhbGwg5oqK6YKK55WM5pW05YCL57me6YGO5Y6744CCKioKCiMjIENWRS0yMDIyLTAxODUKCltDVkUtMjAyMi0wMTg1XShodHRwczovL252ZC5uaXN0Lmdvdi92dWxuL2RldGFpbC9DVkUtMjAyMi0wMTg1KSDmmK8gMjAyMiDlubQgMSDmnIjlhazplovnmoQgTGludXgga2VybmVsIOa8j+a0nu+8jOW9semfvyA1LjEg6LW355qEIGtlcm5lbO+8jDUuNC4xNzPjgIE1LjEwLjkz44CBNS4xNS4xNuOAgTUuMTYuMiDpgJnlub7niYjkv67mjonkuobjgIJrZXJuZWwg6KOh6JmV55CG5o6b6LyJ5Y+D5pW455qEIGBsZWdhY3lfcGFyc2VfcGFyYW1gIOaUtuWIsCA0MDk1IGJ5dGVzIOS7peS4iueahOWPg+aVuOaZgu+8jOacg+Wvq+WIsOiomOaGtumrlOijoeS4jeipsuWvq+eahOWcsOaWue+8jOaUu+aTiuiAheiDvemdoOWug+iuiuaIkCByb29077yIW0Nyb3dkU3RyaWtlIOeahOWIhuaekF0oaHR0cHM6Ly93d3cuY3Jvd2RzdHJpa2UuY29tL2VuLXVzL2Jsb2cvY3ZlLTIwMjItMDE4NS1rdWJlcm5ldGVzLWNvbnRhaW5lci1lc2NhcGUtdXNpbmctbGludXgta2VybmVsLWV4cGxvaXQvKe+8ieOAggoK5b6eIGNvbnRhaW5lciDoo6HmlLvmk4rliIbkuInmraXvvJoKCjEuIOWRvOWPqyBgdW5zaGFyZWAg6ZaL5LiA5YCL5paw55qEIHVzZXIgbmFtZXNwYWNl44CCa2VybmVsIOacg+aKiueoi+W8j+eVtuaIkOmAmeWAiyBuYW1lc3BhY2Ug6KOh55qEIHJvb3TvvIzntablroMgQ0FQX1NZU19BRE1JTu+8jOS5n+WwseaYr+aOm+i8ieaqlOahiOezu+e1semcgOimgeeahOasiumZkOOAguS4gOiIrOeahCBjb250YWluZXIg5pys5L6G5rKS5pyJ6YCZ5YCL5qyK6ZmQ44CCCjIuIOacieS6hiBDQVBfU1lTX0FETUlO77yM5bCx6IO95ZG85Y+rIGBmc2NvbmZpZ2DvvIzloZ7pgLIgNDA5NSBieXRlcyDku6XkuIrnmoTlj4PmlbjvvIzop7jnmbzmvI/mtJ7jgIIKMy4g5pS55a+rIGtlcm5lbCDnmoToqJjmhrbpq5TvvIzlj5blvpfmlbTlj7AgaG9zdCDnmoQgcm9vdOOAggoK5aaC5p6cIFBvZCDlpZfkuoYgc2VjY29tcO+8iEt1YmVybmV0ZXMg6aCQ6Kit5rKS5aWX77yJ44CBcnVuYyDlvp7poJDoqK3nmoQgYHBpdm90X3Jvb3RgIOaUueeUqCBgY2hyb290YCDliIfmj5vmoLnnm67pjITvvIzmiJYgaG9zdCDmioogYHVzZXIubWF4X3VzZXJfbmFtZXNwYWNlc2Ag6Kit5oiQIDDvvIznrKwgMSDmraXlsLHmnIPlpLHmlZfjgIIKCuacgOebtOaOpeeahOino+azleaYr+WNh+e0miBrZXJuZWzjgILkvYbkuIvkuIDlgIvmvI/mtJ7pgoTmnIPlh7rnj77vvIzkv67lpb3kuYvliY3opoHpnaDkuIvpnaLkuInnqK7lgZrms5XjgIIKCiMjIHNlY2NvbXDvvJrpmZDliLbog73lkbzlj6vnmoQgc3lzY2FsbAoKc2VjY29tcCDmmK8ga2VybmVsIOeahOWKn+iDve+8jOabv+eoi+W8j+ioreS4gOS7vSBzeXNjYWxsIOWFgeiosea4heWWru+8jOa4heWWruWklueahOS4gOW+i+aLkue1leOAgkt1YmVybmV0ZXMg5ZyoIG5vZGUg5LiK6KuLIGNvbnRhaW5lcmQg5oiWIENSSS1PIOW7uueriyBjb250YWluZXLvvIzlhanogIXpg73pmYTkuobpoJDoqK3muIXllq7vvIxQb2Qg55SoIGBSdW50aW1lRGVmYXVsdGAg5oyH5a6a77yaCgpgYGB5YW1sCnNwZWM6CiAgc2VjdXJpdHlDb250ZXh0OgogICAgc2VjY29tcFByb2ZpbGU6CiAgICAgIHR5cGU6IFJ1bnRpbWVEZWZhdWx0CmBgYAoKQ3Jvd2RTdHJpa2Ug5Yqg5LiK6YCZ5q615YaN6Kmm5LiA5qyh77yM56ysIDEg5q2l55qEIGB1bnNoYXJlYCDnm7TmjqXlpLHmlZfvvIzlm57nmoTmmK/jgIxPcGVyYXRpb24gbm90IHBlcm1pdHRlZOOAje+8jOaUu+aTiuWBnOWcqOesrOS4gOatpeOAggoK5L2GIEt1YmVybmV0ZXMg5LiN5pyD6Ieq5YuV5aWX55So6YCZ5Lu95riF5Zau44CCUG9kIOaykuWvqyBgc2VjY29tcFByb2ZpbGVgIOeahOipseWwseaYryBgVW5jb25maW5lZGDvvIzku4Dpurzpg73kuI3mk4vjgILopoHorpPmiYDmnIkgUG9kIOmgkOioreWll+eUqO+8jOW+l+WcqOavj+WAiyBub2RlIOeahCBrdWJlbGV077yIbm9kZSDkuIrosqDosqzllZ/li5UgUG9kIOeahCBLdWJlcm5ldGVzIOeoi+W8j++8ieWKoOS4iiBgLS1zZWNjb21wLWRlZmF1bHRgIOmAmeWAiyBmbGFn77yM5a6D5b6eIEt1YmVybmV0ZXMgMS4yNyDotbfmmK8gc3RhYmxl77yIW0t1YmVybmV0ZXMgc2VjY29tcCDmlofku7ZdKGh0dHBzOi8va3ViZXJuZXRlcy5pby9kb2NzL3R1dG9yaWFscy9zZWN1cml0eS9zZWNjb21wLynvvInjgIIKCnNlY2NvbXAg5Lmf5pyJ5qW16ZmQ44CC5riF5Zau5LiA5a6a5pyD5pS+6KGMIGByZWFkYCDpgJnpoZ7mr4/lgIvnqIvlvI/pg73opoHnlKjnmoQgc3lzY2FsbOOAguS4i+S4gOWAi+a8j+a0nuimgeaYr+WHuuWcqOmAmeeoriBzeXNjYWxsIOijoe+8jHNlY2NvbXAg5bCx5rKS55So77yM5Zug54K65pS+6KGM55qEIHN5c2NhbGwg54Wn5qij6YCyIGhvc3Qg55qEIGtlcm5lbOOAggoKIyMgZ1Zpc29y77ya5Zyo5Lit6ZaT5aSa5pS+5LiA5YCLIGtlcm5lbAoKZ1Zpc29yIOaYryBHb29nbGUg55qE5bCI5qGI77yM5a6D5ZyoIGNvbnRhaW5lciDot58gaG9zdCBrZXJuZWwg5LmL6ZaT5aSa5pS+5LqG5LiA5YCLIGtlcm5lbO+8jOWPqyBTZW50cnnjgIJTZW50cnkg55SoIEdvIOWvq++8jOWcqCBob3N0IOS4iuWwseaYr+S4gOWAi+aZrumAmueahCBwcm9jZXNz44CCY29udGFpbmVyIOijoeeahOeoi+W8j+eZvOWHuueahCBzeXNjYWxsIOacg+mAgeWIsCBTZW50cnnvvIznlLEgU2VudHJ5IOiHquW3seeahOeoi+W8j+eivOiZleeQhuOAgmdWaXNvciDnmoTmlofku7blr6vnmoTmmK/jgIxnVmlzb3IgbmV2ZXIgcGFzc2VzIHRocm91Z2ggYW55IHN5c3RlbSBjYWxsIHRvIHRoZSBob3N044CN77yIW2dWaXNvciBhcmNoaXRlY3R1cmVdKGh0dHBzOi8vZ3Zpc29yLmRldi9kb2NzL2FyY2hpdGVjdHVyZV9ndWlkZS9pbnRyby8p77yJ44CCCgpgYGAK5LiA6IisIGNvbnRhaW5lcu+8mueoi+W8jyDihpIgaG9zdCBrZXJuZWwKZ1Zpc29y77yaICAgICAgICDnqIvlvI8g4oaSIFNlbnRyeSDihpIgaG9zdCBrZXJuZWzvvIjlj6rmnIkgU2VudHJ5IOiHquW3seimgeeUqOeahOWwkeaVuOWRvOWPq++8iQpgYGAKCuWll+WbniBDVkUtMjAyMi0wMTg177yMYHVuc2hhcmVgIOi3nyBgZnNjb25maWdgIOmDveeUsSBTZW50cnkg6JmV55CG77yMU2VudHJ5IOaykuWvpuS9nOeahOWwseWbnumMr+iqpOOAguWFqeeoruaDheazgemDveS4jeacg+mAsuWIsCBob3N0IOeahCBrZXJuZWzvvIzmnInmvI/mtJ7nmoQgYGxlZ2FjeV9wYXJzZV9wYXJhbWAg5Lmf5bCx5LiN5pyD6KKr5Z+36KGM44CCCgpTZW50cnkg6Ieq5bex5Lmf5pivIHByb2Nlc3PvvIzpgoTmmK/lvpfoq4sgaG9zdCDnmoQga2VybmVsIOWBmuS4gOS6m+S6i++8jOS+i+WmguioiOaZguOAgeiZleeQhiBzaWduYWzjgILkvYbpgJnkupvoq4vmsYLmmK8gU2VudHJ5IOeCuuS6huiHquW3seeahOW3peS9nOeZvOeahO+8jGNvbnRhaW5lciDoo6HnmoTnqIvlvI/mspLovqbms5XmsbrlrprlroPopoHlkbzlj6vlk6rlgIsgc3lzY2FsbOOAgeW4tuS7gOm6vOWPg+aVuO+8iFtnVmlzb3Igc2VjdXJpdHldKGh0dHBzOi8vZ3Zpc29yLmRldi9kb2NzL2FyY2hpdGVjdHVyZV9ndWlkZS9zZWN1cml0eS8p77yJ44CCCgroroDlr6vmqpTmoYjljp/mnKzopoHntpPpgY7lj6bkuIDlgIvlj6sgR29mZXIg55qEIHByb2Nlc3PvvIxTZW50cnkg5LiN6IO96Ieq5bex6ZaLIGhvc3Qg5LiK55qE5qqU5qGI77yM6KaB6KuLIEdvZmVyIOS7o+mWi+OAgjIwMjMg5bm0IDYg5pyI6LW377yMZ1Zpc29yIOmgkOioreaUueeUqCBkaXJlY3Rmc++8jOiukyBTZW50cnkg55u05o6l6ZaLIGNvbnRhaW5lciDoo6HnmoTmqpTmoYjvvIzoroDlr6vmr5TovIPlv6vjgILkuI3pgY7pgJnmqKMgU2VudHJ5IOWcqCBob3N0IOS4iumcgOimgeeahOasiumZkOS5n+iuiuWkp+S6hu+8jGdWaXNvciDlnKjoqK3lrproqqrmmI7oo6HkuZ/lr6vokZfjgIxTZW50cnkgcnVucyB3aXRoIGhpZ2hlciBwcml2aWxlZ2Vz44CN77yIW2dWaXNvciDlhazlkYpdKGh0dHBzOi8vZ3Zpc29yLmRldi9ibG9nLzIwMjMvMDYvMjcvZGlyZWN0ZnMvKe+8ieOAggoKZ1Zpc29yIOeahOmZkOWItu+8mgoKLSBTZW50cnkg5rKS5a+m5L2c55qEIGtlcm5lbCDlip/og73vvIznqIvlvI/lsLHnlKjkuI3liLDjgIIKLSBzeXNjYWxsIOmDveimgeWFiOe2k+mBjiBTZW50cnnvvIzmiYDku6Ugc3lzY2FsbCDlvojpoLvnuYHjgIHmr4/mrKHlj6rlgZrkuIDpu57kuovnmoTnqIvlvI/mnIPmmI7poa/orormhaLvvIzlrpjmlrnoiInnmoTkvovlrZDmmK8gUmVkaXMg55qE5bCP5pON5L2c44CC57ay6Lev6Lef5qqU5qGIIEkvTyDnm67liY3kuZ/lgY/mhaLvvIzlrpjmlrnoqqrkuLvopoHmmK/lr6bkvZzpgoTpnIDopoHmlLnpgLLvvIhbZ1Zpc29yIHBlcmZvcm1hbmNlXShodHRwczovL2d2aXNvci5kZXYvZG9jcy9hcmNoaXRlY3R1cmVfZ3VpZGUvcGVyZm9ybWFuY2UvKe+8ieOAggoKIyMgS2F0YSBDb250YWluZXJz77ya5q+P5YCLIFBvZCDkuIDlj7DlsI8gVk0KCkthdGEgQ29udGFpbmVycyDmm7/mr4/lgIsgUG9kIOmWi+S4gOWPsOi8lemHj+eahCBWTe+8jFBvZCDoo6HnmoQgY29udGFpbmVyIOmDveWcqOijoemdoui3keOAglZNIOacieiHquW3seeahCBrZXJuZWzvvIzlj6sgZ3Vlc3Qga2VybmVs44CC5ZyoIGhvc3Qg5LiK6LKg6LKs6ZaLIFZNIOeahOeoi+W8j+WPqyBoeXBlcnZpc29y77yMS2F0YSDmlK/mj7QgUUVNVeOAgUNsb3VkIEh5cGVydmlzb3Ig562J5aW95bm+56iu77yIW0thdGEgYXJjaGl0ZWN0dXJlXShodHRwczovL2dpdGh1Yi5jb20va2F0YS1jb250YWluZXJzL2thdGEtY29udGFpbmVycy9ibG9iL21haW4vZG9jcy9kZXNpZ24vYXJjaGl0ZWN0dXJlL1JFQURNRS5tZCnvvInjgIIKCmBgYArkuIDoiKwgY29udGFpbmVy77ya56iL5byPIOKGkiBob3N0IGtlcm5lbApLYXRh77yaICAgICAgICAgIOeoi+W8jyDihpIgZ3Vlc3Qga2VybmVs77yI6YCZ5YCLIFBvZCDoh6rlt7HnmoTvvInihpIgaHlwZXJ2aXNvciDihpIgaG9zdCBrZXJuZWwKYGBgCgrlpZflm54gQ1ZFLTIwMjItMDE4Ne+8jGB1bnNoYXJlYCDot58gYGZzY29uZmlnYCDpgLLnmoTmmK/pgJnlgIsgUG9kIOiHquW3seeahCBndWVzdCBrZXJuZWzjgILlsLHnrpcgZ3Vlc3Qga2VybmVsIOS5n+aciemAmeWAi+a8j+a0nu+8jOaUu+aTiuiAheaLv+WIsOeahOS5n+WPquaYr+mAmeWPsCBWTe+8jGhvc3Qg6Lef5YW25LuWIFBvZCDpgoTlnKggVk0g5aSW6Z2i44CC6KaB5YaN5b6A5aSW77yM5b6X5Y+m5aSW5om+5YiwIGh5cGVydmlzb3Ig55qE5ryP5rSe44CCS2F0YSDnmoTmlofku7bmioogVk0g6YCZ5LiA5bGk56ix54K644CMc2Vjb25kIGxheWVyIG9mIGRlZmVuY2XjgI3vvIzkuZ/lsLHmmK/nrKzkuozpgZPpmLLnt5rjgIIKCkthdGEg55qE6ZmQ5Yi25piv5q+P5YCLIFBvZCDpg73opoHlpJrot5HkuIDlgIsga2VybmVs77yMbm9kZSDkuIrkuZ/lvpfoo53lpb0gaHlwZXJ2aXNvcuOAggoKIyMg5LiJ56iu5YGa5rOV5q+U5LiA5q+UCgp8IHwg56iL5byP55qEIHN5c2NhbGwg55Sx6Kqw6JmV55CGIHwg5oOz5Yip55SoIGhvc3Qga2VybmVsIOeahOa8j+a0nu+8jOaUu+aTiuiAheW+l+WFiOmBjuWTquS4gOmXnCB8CnwtLS18LS0tfC0tLXwKfCBydW5j77yI6aCQ6Kit77yJIHwgaG9zdCBrZXJuZWwgfCDmspLmnIkgfAp8IHJ1bmMg5YqgIHNlY2NvbXAgfCBob3N0IGtlcm5lbO+8jOWPquaUvuihjOa4heWWruijoeeahCBzeXNjYWxsIHwg5ryP5rSe5b6X5Ymb5aW95Zyo5riF5Zau5pS+6KGM55qEIHN5c2NhbGwg6KOhIHwKfCBnVmlzb3IgfCBTZW50cnkgfCDlhYjmlLvnoLQgU2VudHJ577yM5YaN5Yip55SoIFNlbnRyeSDog73nlKjnmoTpgqPkuIDlsI/ntYQgaG9zdCBzeXNjYWxs77yI6aCQ6Kit6ZaL5LqGIGRpcmVjdGZz77yM5omA5Lul5Lmf5YyF5ous6ZaL5ZWfIGNvbnRhaW5lciDoo6HnmoTmqpTmoYjvvIkgfAp8IEthdGEgfCDpgJnlgIsgUG9kIOeahCBndWVzdCBrZXJuZWwgfCDlhYjmjqfliLYgZ3Vlc3Qga2VybmVs77yM5YaN56qB56C0IGh5cGVydmlzb3IgfAoK5oiR5rKS5om+5Yiw5Zyo55u45ZCM5qKd5Lu25LiL5q+U6LyD6YCZ5bm+56iu5YGa5rOV5a6J5YWo5oCn55qE6LOH5paZ77yM5omA5Lul6YCZ5by16KGo5LiN5o6S5ZCN5qyh44CCZ1Zpc29yIOeahOaWh+S7tuaPkOWIsO+8jFZNIOS4gOaoo+acieWPr+S7peaUu+aTiueahOWcsOaWueOAglZNIOijoeeahOeoi+W8j+eUqOWIsOe2suWNoeOAgeehrOein+aZgu+8jOaYryBoeXBlcnZpc29yIOmCo+S4gOWBtOeahOeoi+W8j+WcqOaooeaTrOmAmeS6m+ijnee9ru+8jOmAmeauteeoi+W8j+aciea8j+a0nueahOipse+8jOaUu+aTiuiAheS4gOaoo+iDveW+niBWTSDnorDliLAgaG9zdOOAgmdWaXNvciDnmoTmlofku7bmk5rmraTmj5DphpLvvIzmlLnnlKggVk0g5LiN5Luj6KGo5bCx5q+UIGdWaXNvciDlronlhajjgIIKCiMjIOWcqCBLdWJlcm5ldGVzIOijoeaUueeUqCBnVmlzb3Ig5oiWIEthdGEKCmNvbnRhaW5lcmQg5LiN5pyD55u05o6l5ZG85Y+rIHJ1bmPjgILlroPlhYjllZ/li5XkuIDlgIvlj6sgc2hpbSDnmoTlsI/nqIvlvI/vvIzkuIDoiKwgY29udGFpbmVyIOeUqOeahOaYryBgY29udGFpbmVyZC1zaGltLXJ1bmMtdjJg77yM55SxIHNoaW0g5Y675ZG85Y+rIHJ1bmPvvIzkuYvlvowgc2hpbSDmnIPnlZnkuIvkvoblm57loLEgY29udGFpbmVyIOeahOeLgOaFi+OAgue0sOevgOWvq+WcqFvjgIhJbnNpZGUgY29udGFpbmVyZDogSG93IHNoaW0gYW5kIHJ1bmMgQWN0dWFsbHkgV29ya+OAiV0oL3YyL2NvbnRhaW5lcmQtc2hpbS1hbmQtcnVuYynjgIIKCmdWaXNvciDot58gS2F0YSDpg73pmYTkuoboh6rlt7HnmoQgc2hpbe+8mgoKLSBnVmlzb3Ig55qE5pivIGBjb250YWluZXJkLXNoaW0tcnVuc2MtdjFg77yM5a6D5YaN5Y675ZG85Y+rIGBydW5zY2DvvIzkuZ/lsLHmmK8gZ1Zpc29yIOeUqOS+huWPluS7oyBydW5j44CB6LKg6LKs5ZWf5YuVIFNlbnRyeSDnmoTnqIvlvI/jgIIKLSBLYXRhIOeahOaYryBgY29udGFpbmVyZC1zaGltLWthdGEtdjJg77yM5a6D5pys6Lqr5bCx5pivIEthdGEg55qEIHJ1bnRpbWXvvIznm7TmjqXlj6sgaHlwZXJ2aXNvciDplosgVk3jgIIKCuaJgOS7pSBub2RlIOS4iuimgeWFiOijneWlveaWsOeahCBzaGlt77yMZ1Zpc29yIOmChOimgeWPpuWkluijnSBgcnVuc2Ng44CC6KOd5aW95LmL5b6M77yM5LulIGdWaXNvciDngrrkvovvvIznhaflroPnmoQgW2NvbnRhaW5lcmQgcXVpY2sgc3RhcnRdKGh0dHBzOi8vZ3Zpc29yLmRldi9kb2NzL3VzZXJfZ3VpZGUvY29udGFpbmVyZC9xdWlja19zdGFydC8p77yM6Kit5a6a5YiG5LiJ5q2l44CCCgoxLiDlnKggY29udGFpbmVyZCDnmoToqK3lrprmqpTliqDkuIDlgIsgcnVudGltZSBoYW5kbGVy77yM5Lmf5bCx5piv5pu/44CM55SoIGdWaXNvciDot5HjgI3pgJnlgIvpgbjpoIXlj5bkuIDlgIvlkI3lrZfvvIzpgJnoo6Hlj6sgYHJ1bnNjYOOAguW6leS4iyBgcnVudGltZV90eXBlID0gImlvLmNvbnRhaW5lcmQucnVuc2MudjEiYCDpgJnkuIDooYzmjIflrpropoHnlKjnmoQgc2hpbe+8jGNvbnRhaW5lcmQg54Wn5ZG95ZCN6KaP5YmH5oqK5a6D5bCN5oeJ5YiwIGBjb250YWluZXJkLXNoaW0tcnVuc2MtdjFgIOmAmeWAi+Wft+ihjOaqlOOAggoKICAgYGBgdG9tbAogICAjIC9ldGMvY29udGFpbmVyZC9jb25maWcudG9tbAogICB2ZXJzaW9uID0gMiAgIyDkuI3lr6vnmoToqbEgY29udGFpbmVyZCAxLngg5pyD55W25oiQIHZlcnNpb24gMe+8jOW6leS4i+mAmeauteS4jeacg+iiq+iugOWIsAogICBbcGx1Z2lucy4iaW8uY29udGFpbmVyZC5ncnBjLnYxLmNyaSIuY29udGFpbmVyZC5ydW50aW1lcy5ydW5zY10KICAgICBydW50aW1lX3R5cGUgPSAiaW8uY29udGFpbmVyZC5ydW5zYy52MSIKICAgYGBgCgoyLiDlu7rkuIDlgIsgUnVudGltZUNsYXNz44CCUnVudGltZUNsYXNzIOaYryBLdWJlcm5ldGVzIOeahOS4gOeoruioreWumu+8jOaKiuS4gOWAi+WQjeWtl++8iOmAmeijoeWPqyBgZ3Zpc29yYO+8ieWwjeWIsCBub2RlIOS4iueahCBoYW5kbGVy77yIYHJ1bnNjYO+8ieOAggozLiDlnKggUG9kIHNwZWMg6KOh55SoIGBydW50aW1lQ2xhc3NOYW1lYCDmjIflrprpgJnlgIsgUnVudGltZUNsYXNz44CCCgpgYGB5YW1sCmFwaVZlcnNpb246IG5vZGUuazhzLmlvL3YxCmtpbmQ6IFJ1bnRpbWVDbGFzcwptZXRhZGF0YToKICBuYW1lOiBndmlzb3IKaGFuZGxlcjogcnVuc2MKLS0tCiMgUG9kIHNwZWMg6KOhCnNwZWM6CiAgcnVudGltZUNsYXNzTmFtZTogZ3Zpc29yCmBgYAoKaW1hZ2Ug5LiN55So5o+b77yMUG9kIHNwZWMg5Y+q5aSa5LqGIGBydW50aW1lQ2xhc3NOYW1lYCDpgJnkuIDooYzjgILmspLlr6sgYHJ1bnRpbWVDbGFzc05hbWVgIOeahCBQb2TvvIxLdWJlcm5ldGVzIOacg+eUqCBub2RlIOmgkOioreeahCBoYW5kbGVy77yM54Wn5Y6f5pys55qE5pa55byP5Lqk57WmIHJ1bmMg6LeR77yIW0s4cyBSdW50aW1lQ2xhc3NdKGh0dHBzOi8va3ViZXJuZXRlcy5pby9kb2NzL2NvbmNlcHRzL2NvbnRhaW5lcnMvcnVudGltZS1jbGFzcy8p77yJ44CCCgojIyDlj4PogIPos4fmlpkKCi0gW0Nyb3dkU3RyaWtlOiBDVkUtMjAyMi0wMTg1IEt1YmVybmV0ZXMgQ29udGFpbmVyIEVzY2FwZSBVc2luZyBMaW51eCBLZXJuZWwgRXhwbG9pdF0oaHR0cHM6Ly93d3cuY3Jvd2RzdHJpa2UuY29tL2VuLXVzL2Jsb2cvY3ZlLTIwMjItMDE4NS1rdWJlcm5ldGVzLWNvbnRhaW5lci1lc2NhcGUtdXNpbmctbGludXgta2VybmVsLWV4cGxvaXQvKQotIFtLOHMgZG9jczogUmVzdHJpY3QgYSBDb250YWluZXIncyBTeXNjYWxscyB3aXRoIHNlY2NvbXBdKGh0dHBzOi8va3ViZXJuZXRlcy5pby9kb2NzL3R1dG9yaWFscy9zZWN1cml0eS9zZWNjb21wLykKLSBbZ1Zpc29yOiBJbnRyb2R1Y3Rpb25dKGh0dHBzOi8vZ3Zpc29yLmRldi9kb2NzL2FyY2hpdGVjdHVyZV9ndWlkZS9pbnRyby8pCi0gW2dWaXNvcjogU2VjdXJpdHkgbW9kZWxdKGh0dHBzOi8vZ3Zpc29yLmRldi9kb2NzL2FyY2hpdGVjdHVyZV9ndWlkZS9zZWN1cml0eS8pCi0gW2dWaXNvcjogUGVyZm9ybWFuY2UgZ3VpZGVdKGh0dHBzOi8vZ3Zpc29yLmRldi9kb2NzL2FyY2hpdGVjdHVyZV9ndWlkZS9wZXJmb3JtYW5jZS8pCi0gW2dWaXNvcjogRGlyZWN0ZnMgKDIwMjMpXShodHRwczovL2d2aXNvci5kZXYvYmxvZy8yMDIzLzA2LzI3L2RpcmVjdGZzLykKLSBbY2xvbmUoMikgbWFuIHBhZ2VdKGh0dHBzOi8vbWFuNy5vcmcvbGludXgvbWFuLXBhZ2VzL21hbjIvY2xvbmUuMi5odG1sKQotIFtnVmlzb3I6IGNvbnRhaW5lcmQgcXVpY2sgc3RhcnRdKGh0dHBzOi8vZ3Zpc29yLmRldi9kb2NzL3VzZXJfZ3VpZGUvY29udGFpbmVyZC9xdWlja19zdGFydC8pCi0gW0thdGEgQ29udGFpbmVyczogQXJjaGl0ZWN0dXJlXShodHRwczovL2dpdGh1Yi5jb20va2F0YS1jb250YWluZXJzL2thdGEtY29udGFpbmVycy9ibG9iL21haW4vZG9jcy9kZXNpZ24vYXJjaGl0ZWN0dXJlL1JFQURNRS5tZCkKLSBbSzhzIGRvY3M6IFJ1bnRpbWVDbGFzc10oaHR0cHM6Ly9rdWJlcm5ldGVzLmlvL2RvY3MvY29uY2VwdHMvY29udGFpbmVycy9ydW50aW1lLWNsYXNzLykK17:T4850,<p>Containers on the same node all use the same host kernel. When that kernel has a bug, any one container may use it to take over the whole machine, and reach the other Pods with it.</p>
+<p>CVE-2022-0185, from 2022, is such a bug. Until the kernel is fixed, there are three options:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Option</th><th>What it does</th><th>Against a kernel bug</th></tr></thead><tbody><tr><td>seccomp</td><td>Limits which syscalls a container can make</td><td>Helps only if the bug is in a syscall it forbids</td></tr><tr><td>gVisor</td><td>Hands the container's syscalls to gVisor's own kernel</td><td>Syscalls never reach the host kernel</td></tr><tr><td>Kata Containers</td><td>Runs each Pod in its own small VM</td><td>Syscalls go into the VM's own kernel</td></tr></tbody></table>
+<p><strong>So if a node runs code you don't fully trust, such as several customers sharing one machine, seccomp alone is not enough. To keep containers away from the host kernel, use gVisor or Kata.</strong></p>
+<p>Separately, setting the host's <code>user.max_user_namespaces</code> to 0 stops containers from opening user namespaces, so an attack like CVE-2022-0185 that needs one first fails at step one (the CVE section below covers this). The next bug may not need a user namespace, though, so like seccomp this setting only works against one kind of attack.</p>
+<h2>What the kernel does when a program reads a file</h2>
+<p>The kernel is the lowest layer of the operating system. It manages the disk, memory and network, and decides what each program is allowed to do. Ordinary programs cannot touch the hardware directly; they ask the kernel, and that request is called a syscall (system call).</p>
+<p>Type <code>cat notes.txt</code> in a terminal, and the kernel does it in steps:</p>
+<ol>
+<li><code>openat</code>: open <code>notes.txt</code></li>
+<li><code>read</code>: read the file's contents</li>
+<li><code>write</code>: print them to the screen</li>
+</ol>
+<p><code>cat</code> makes these syscalls, and the kernel carries out each one. So if the kernel's code has a bug, any program that can make the matching syscall may trigger it.</p>
+<h2>A container has no kernel of its own</h2>
+<p>A VM is a whole computer simulated in software, with its own kernel. A container is different. runc is the program that actually creates containers, and it is the most common default in Kubernetes. A container run by runc is just an ordinary process on the host, using the host's kernel.</p>
+<p>A container looks like a separate machine because the host's kernel decides its boundaries:</p>
+<ul>
+<li><strong>Namespaces</strong> decide what it can see. Run <code>ps</code> inside a container and it lists only that container's processes.</li>
+<li><strong>cgroups</strong> decide how much CPU and memory it can use.</li>
+</ul>
+<p>The kernel decides the boundaries, and every container's syscalls go into that same kernel. <strong>If the kernel itself has a bug, a program in a container may use a syscall to get around the boundaries entirely.</strong></p>
+<h2>CVE-2022-0185</h2>
+<p><a href="https://nvd.nist.gov/vuln/detail/CVE-2022-0185">CVE-2022-0185</a> is a Linux kernel bug made public in January 2022. It affects kernels from 5.1 on and is fixed in 5.4.173, 5.10.93, 5.15.16 and 5.16.2. When <code>legacy_parse_param</code>, the kernel code that handles mount parameters, gets a parameter of 4095 bytes or more, it writes where it should not in kernel memory, and an attacker can use that to become root (<a href="https://www.crowdstrike.com/en-us/blog/cve-2022-0185-kubernetes-container-escape-using-linux-kernel-exploit/">CrowdStrike's analysis</a>).</p>
+<p>From inside a container, the attack takes three steps:</p>
+<ol>
+<li>Call <code>unshare</code> to open a new user namespace. The kernel treats the program as root inside it and gives it CAP_SYS_ADMIN, the permission needed to mount filesystems. An ordinary container does not have it.</li>
+<li>With CAP_SYS_ADMIN, call <code>fsconfig</code> with a parameter of 4095 bytes or more, triggering the bug.</li>
+<li>Overwrite kernel memory and become root on the whole host.</li>
+</ol>
+<p>Step 1 fails if the Pod has seccomp applied (Kubernetes applies none by default), if runc switches the root directory with <code>chroot</code> instead of its default <code>pivot_root</code>, or if the host sets <code>user.max_user_namespaces</code> to 0.</p>
+<p>The most direct fix is to upgrade the kernel. But the next bug will come, and until it is fixed, the three options below are what is left.</p>
+<h2>seccomp: limit which syscalls can be made</h2>
+<p>seccomp is a kernel feature that gives a program an allow list of syscalls and rejects everything else. Kubernetes has containerd or CRI-O create containers on each node, and both ship a default list, which a Pod selects with <code>RuntimeDefault</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="yaml" data-theme="github-dark github-light"><code data-language="yaml" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">spec</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">  securityContext</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">    seccompProfile</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">      type</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">RuntimeDefault</span></span></code></pre></figure>
+<p>CrowdStrike added this and tried again. Step 1's <code>unshare</code> failed with "Operation not permitted", and the attack stopped there.</p>
+<p>But Kubernetes does not apply this list on its own. A Pod without <code>seccompProfile</code> runs as <code>Unconfined</code>, which filters nothing. To apply it to every Pod by default, start the kubelet (the Kubernetes program on each node that starts Pods) with the <code>--seccomp-default</code> flag, stable since Kubernetes 1.27 (<a href="https://kubernetes.io/docs/tutorials/security/seccomp/">Kubernetes seccomp docs</a>).</p>
+<p>seccomp has a limit. The list always allows syscalls like <code>read</code> that every program needs. If the next bug is in one of those, seccomp does nothing, because allowed syscalls still go into the host kernel.</p>
+<h2>gVisor: put another kernel in between</h2>
+<p>gVisor is a Google project. It puts another kernel, called the Sentry, between the container and the host kernel. The Sentry is written in Go and is an ordinary process on the host. Syscalls from programs in the container go to the Sentry, and the Sentry's own code handles them. gVisor's documentation says "gVisor never passes through any system call to the host" (<a href="https://gvisor.dev/docs/architecture_guide/intro/">gVisor architecture</a>).</p>
+<pre><code>Normal container:  program → host kernel
+gVisor:            program → Sentry → host kernel (only the few calls the Sentry itself needs)
+</code></pre>
+<p>Back to CVE-2022-0185: <code>unshare</code> and <code>fsconfig</code> are handled by the Sentry, or rejected with an error if it does not implement them. Either way they never reach the host kernel, so the buggy <code>legacy_parse_param</code> never runs.</p>
+<p>The Sentry is a process too, so it still asks the host kernel for some things, such as timers and signals. Those requests are for the Sentry's own work; the program in the container cannot choose which syscall the Sentry makes or with what arguments (<a href="https://gvisor.dev/docs/architecture_guide/security/">gVisor security</a>).</p>
+<p>Reading and writing files used to go through another process called the Gofer: the Sentry could not open files on the host itself and asked the Gofer to open them. Since June 2023 gVisor uses directfs by default, letting the Sentry open files in the container directly, which is faster. It also means the Sentry needs more permission on the host, and gVisor's help text for the setting says "Sentry runs with higher privileges" (<a href="https://gvisor.dev/blog/2023/06/27/directfs/">gVisor announcement</a>).</p>
+<p>gVisor's limits:</p>
+<ul>
+<li>Kernel features the Sentry does not implement are not available to programs.</li>
+<li>Every syscall goes through the Sentry first, so programs that make syscalls very often and do little work for each slow down noticeably; the official example is small Redis operations. Networking and file I/O are also slower for now, mainly, the docs say, because the implementation still needs work (<a href="https://gvisor.dev/docs/architecture_guide/performance/">gVisor performance</a>).</li>
+</ul>
+<h2>Kata Containers: a small VM for each Pod</h2>
+<p>Kata Containers starts a lightweight VM for each Pod, and the Pod's containers run inside it. The VM has its own kernel, called the guest kernel. The program on the host that starts VMs is called a hypervisor; Kata supports several, including QEMU and Cloud Hypervisor (<a href="https://github.com/kata-containers/kata-containers/blob/main/docs/design/architecture/README.md">Kata architecture</a>).</p>
+<pre><code>Normal container:  program → host kernel
+Kata:              program → guest kernel (this Pod's own) → hypervisor → host kernel
+</code></pre>
+<p>Back to CVE-2022-0185: <code>unshare</code> and <code>fsconfig</code> go into this Pod's own guest kernel. Even if the guest kernel has the same bug, the attacker only gets this VM; the host and other Pods are still outside it. To go further, they need a bug in the hypervisor too. Kata's documentation calls the VM a "second layer of defence".</p>
+<p>Kata's limit is one more kernel running for every Pod, and a hypervisor installed on the node.</p>
+<h2>The three side by side</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th></th><th>Who handles the program's syscalls</th><th>What an attacker must get past to use a host kernel bug</th></tr></thead><tbody><tr><td>runc (default)</td><td>host kernel</td><td>nothing</td></tr><tr><td>runc with seccomp</td><td>host kernel, only syscalls the list allows</td><td>the bug must be in a syscall the list allows</td></tr><tr><td>gVisor</td><td>the Sentry</td><td>break the Sentry first, then use the small set of host syscalls the Sentry may make (with directfs on by default, these include opening files in the container)</td></tr><tr><td>Kata</td><td>this Pod's guest kernel</td><td>take over the guest kernel first, then break out through the hypervisor</td></tr></tbody></table>
+<p>I found no source comparing their security under the same conditions, so this table does not rank them. gVisor's documentation points out that a VM has its own weak spot. When a program in a VM uses a network card or a disk, code on the hypervisor side emulates those devices, and if that code has a bug, an attacker can reach the host from the VM. On that basis, gVisor's documentation warns that using a VM does not by itself make a system safer than gVisor.</p>
+<h2>Switching to gVisor or Kata in Kubernetes</h2>
+<p>containerd does not call runc directly. It first starts a small program called a shim, <code>containerd-shim-runc-v2</code> for normal containers, which calls runc and then stays to report the container's status. Details are in <a href="/v2/containerd-shim-and-runc">Inside containerd: How shim and runc Actually Work</a>.</p>
+<p>gVisor and Kata each ship their own shim:</p>
+<ul>
+<li>gVisor's is <code>containerd-shim-runsc-v1</code>, which calls <code>runsc</code>, gVisor's replacement for runc that starts the Sentry.</li>
+<li>Kata's is <code>containerd-shim-kata-v2</code>, which is itself the Kata runtime and starts the VM through the hypervisor.</li>
+</ul>
+<p>So the node needs the new shim installed, and for gVisor, <code>runsc</code> as well. After that, the gVisor setup from its <a href="https://gvisor.dev/docs/user_guide/containerd/quick_start/">containerd quick start</a> takes three steps.</p>
+<ol>
+<li>
+<p>Add a runtime handler to containerd's config, which gives the option "run with gVisor" a name, here <code>runsc</code>. The line <code>runtime_type = "io.containerd.runsc.v1"</code> below it names the shim to use, and containerd maps that value to the executable <code>containerd-shim-runsc-v1</code> by its naming rule.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="toml" data-theme="github-dark github-light"><code data-language="toml" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># /etc/containerd/config.toml</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">version = </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">2</span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">  # without it, containerd 1.x reads the file as version 1 and skips the section below</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">[</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">plugins</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">"io</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">containerd</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">grpc</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">v1</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">cri"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">containerd</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">runtimes</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">runsc</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">]</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  runtime_type = </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"io.containerd.runsc.v1"</span></span></code></pre></figure>
+</li>
+<li>
+<p>Create a RuntimeClass, a Kubernetes object that maps a name (here <code>gvisor</code>) to a handler on the node (<code>runsc</code>).</p>
+</li>
+<li>
+<p>Set <code>runtimeClassName</code> in the Pod spec to that RuntimeClass.</p>
+</li>
+</ol>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="yaml" data-theme="github-dark github-light"><code data-language="yaml" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">apiVersion</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">node.k8s.io/v1</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">kind</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">RuntimeClass</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">metadata</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">  name</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">gvisor</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">handler</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">runsc</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">---</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># in the Pod spec</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">spec</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">:</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">  runtimeClassName</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">gvisor</span></span></code></pre></figure>
+<p>The image stays the same, and the Pod spec gains only the <code>runtimeClassName</code> line. A Pod without <code>runtimeClassName</code> uses the node's default handler and runs on runc as before (<a href="https://kubernetes.io/docs/concepts/containers/runtime-class/">K8s RuntimeClass</a>).</p>
+<h2>References</h2>
+<ul>
+<li><a href="https://www.crowdstrike.com/en-us/blog/cve-2022-0185-kubernetes-container-escape-using-linux-kernel-exploit/">CrowdStrike: CVE-2022-0185 Kubernetes Container Escape Using Linux Kernel Exploit</a></li>
+<li><a href="https://kubernetes.io/docs/tutorials/security/seccomp/">K8s docs: Restrict a Container's Syscalls with seccomp</a></li>
+<li><a href="https://gvisor.dev/docs/architecture_guide/intro/">gVisor: Introduction</a></li>
+<li><a href="https://gvisor.dev/docs/architecture_guide/security/">gVisor: Security model</a></li>
+<li><a href="https://gvisor.dev/docs/architecture_guide/performance/">gVisor: Performance guide</a></li>
+<li><a href="https://gvisor.dev/blog/2023/06/27/directfs/">gVisor: Directfs (2023)</a></li>
+<li><a href="https://man7.org/linux/man-pages/man2/clone.2.html">clone(2) man page</a></li>
+<li><a href="https://gvisor.dev/docs/user_guide/containerd/quick_start/">gVisor: containerd quick start</a></li>
+<li><a href="https://github.com/kata-containers/kata-containers/blob/main/docs/design/architecture/README.md">Kata Containers: Architecture</a></li>
+<li><a href="https://kubernetes.io/docs/concepts/containers/runtime-class/">K8s docs: RuntimeClass</a></li>
+</ul>8:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L13",null,{"htmlContent":"$14","rawContent":"$15","base64Content":"$16","title":"kernel 有漏洞的時候，container 之間靠什麼隔開","createdAt":"$undefined","updatedAt":"$undefined","tags":["k8s","container","security"],"altHtmlContent":"$17","altTitle":"When the kernel has a bug, what keeps containers apart?","currentLang":"zh","altLang":"en","canonicalPath":"/v2/container-kernel-isolation"}]}]}]

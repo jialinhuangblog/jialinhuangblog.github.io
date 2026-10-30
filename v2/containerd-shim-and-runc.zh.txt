@@ -1,0 +1,917 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"default"]
+4:I[48350,[],""]
+5:I[11412,[],""]
+6:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+7:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-6e2326ce7d294bfd.js"],"default"]
+9:I[96727,[],"OutletBoundary"]
+b:I[14038,[],"AsyncMetadataOutlet"]
+d:I[96727,[],"ViewportBoundary"]
+f:I[96727,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[92950,[],""]
+:HL["/_next/static/media/8760c4774489e4ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/01cc54cdad670ab3.css","style"]
+:HL["/_next/static/css/d3281eaf3cab9132.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/2aa38e97f45426ef.css","style"]
+0:{"P":null,"b":"nTKE4IB87lEgZWUaCupOc","p":"","c":["","v2","containerd-shim-and-runc.zh"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","containerd-shim-and-runc.zh","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/01cc54cdad670ab3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/d3281eaf3cab9132.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href=\"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap\";document.head.appendChild(l)})()"}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L7",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","containerd-shim-and-runc.zh","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/2aa38e97f45426ef.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+a:null
+c:{"metadata":[["$","title","0",{"children":"containerd 裡面：shim 跟 runc 怎麼接力把 container 跑起來  | jialinhuang"}],["$","meta","1",{"name":"description","content":"kubelet 叫 containerd 建一個 container，中間有三個 process 接力：runc 把 container 建好就結束，shim 的啟動器把 shim 帶起來就結束，留下來顧 container 的只有 shim。這篇講每一棒為什麼要有。"}],["$","link","2",{"rel":"canonical","href":"/v2/containerd-shim-and-runc"}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"
+13:I[86734,["7654","static/chunks/7654-2fe46cddc56d2856.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+14:T544b,<p>kubelet 叫 containerd 建一個 container，container 就跑起來了。可是從這個呼叫到 container 真的在跑，中間有三個 process 接力，其中一個一出生就是為了馬上結束。</p>
+<p>把它想成照顧一個新生兒，每個角色都對到一個真的 process：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>場景裡的角色</th><th>對到的 process</th><th>做什麼</th></tr></thead><tbody><tr><td>孩子</td><td>container 裡的程式，例如 nginx</td><td>要一直有人顧</td></tr><tr><td>接生的醫生</td><td><code>runc</code></td><td>把孩子生下來就離開</td></tr><tr><td>爸媽</td><td><code>containerd</code></td><td>要上班，會不在家（升級、重啟）</td></tr><tr><td>保母</td><td><code>containerd-shim-runc-v2</code></td><td>一直陪著孩子，有事打電話跟爸媽說</td></tr><tr><td>介紹保母的仲介</td><td><code>containerd-shim-runc-v2 start</code></td><td>把保母帶到、留下保母的電話就走</td></tr><tr><td>社福機構</td><td><code>systemd</code>（PID 1）</td><td>沒有家長的孩子都歸它</td></tr></tbody></table>
+<p>PID 是 Linux 給每個 process 的編號，PID 1 是開機後第一個 process，通常是 systemd。</p>
+<p>整個接力是這樣：</p>
+<pre><code>kubectl set image deployment/api api=api:v2
+  │
+  ① kubectl → API Server → etcd（寫入新的 image）
+  ② Deployment Controller → 建新的 ReplicaSet
+  ③ ReplicaSet Controller → 建 Pod
+  ④ Scheduler → 把 Pod 分到一台 Node
+  ⑤ kubelet 收到這個 Pod
+  │
+  ▼
+containerd
+  │ fork + exec
+  ▼
+containerd-shim-runc-v2 start   （仲介，很快就結束）
+  │ 重新執行自己，然後結束（double fork）
+  ▼
+containerd-shim-runc-v2（保母）← 被 PID 1 收養
+  │ fork + exec（runc 是 shim 的 child，shim 自己留著）
+  ▼
+runc
+  │ 設定 namespace、cgroup、pivot_root
+  │ 啟動 container 的程式
+  │ 結束
+  ▼
+container 的程式（在跑）
+  parent = containerd-shim-runc-v2
+  再上一層 = systemd（PID 1）
+</code></pre>
+<pre><code>穩定之後（start 跟 runc 都已經結束）：
+
+systemd (PID 1)
+  ├── containerd                         ← 爸媽，透過 ttrpc socket 溝通
+  └── containerd-shim-runc-v2           ← 保母，平常睡著，等 SIGCHLD
+          └── nginx (container 裡的 PID 1) ← 孩子
+</code></pre>
+<p><code>containerd</code> 跟 <code>containerd-shim-runc-v2</code> 在 <code>systemd</code> 底下是兄弟，不是父子。它們透過 ttrpc socket 溝通，就像保母打電話給爸媽，不靠 process 之間的親子關係。nginx 在 container 自己的 PID namespace 裡是 PID 1，從 host 看則是一個普通的編號，例如 50321。</p>
+<blockquote>
+<p>這些都是 containerd 內部的事，Kubernetes 不知道它們存在。Kubernetes 怎麼接到 containerd，寫在<a href="/v2/container-runtime-evolution">〈Kubernetes 從離不開 Docker 到不需要 Docker〉</a>。</p>
+</blockquote>
+<hr>
+<h2>runc：生完就走，不留下來顧</h2>
+<p><code>runc</code> 是一個 CLI 工具，負責建 container。它設定 Linux 的 namespace（決定 container 能看見什麼）跟 cgroup（決定能用多少 CPU、記憶體），用 <code>pivot_root</code> 把 container 的根目錄換掉（加 <code>--no-pivot</code> 才改用 <code>chroot</code>），啟動 container 的程式，然後自己就結束了。</p>
+<p>runc 結束了，container 還在跑。每個 process 都有一個 parent，也就是把它生出來的那個 process。那 container 現在的 parent 是誰呢？</p>
+<hr>
+<h2>為什麼每一層都要有</h2>
+<p>container 需要一個一直活著的 parent，負責三件事：</p>
+<ul>
+<li>拿著它的 stdin、stdout、stderr，把輸出交給 containerd。containerd 再把輸出寫成 node 上的 log 檔，<code>kubectl logs</code> 讀的就是這個檔（<a href="https://github.com/containerd/containerd/blob/main/internal/cri/io/logger.go">containerd 的 CRI logger</a>）</li>
+<li>container 結束時呼叫 <code>waitpid()</code> 收下 exit code，往上傳，<code>kubectl get pod</code> 才能顯示 <code>Completed</code> 或 <code>Error</code></li>
+<li>回應 containerd 的查詢，例如 <code>kubectl exec</code>、狀態檢查</li>
+</ul>
+<p>runc 做不到，因為它已經結束了。</p>
+<p>讓 containerd 自己當 parent 可以嗎？可以，可是 containerd 常常要重啟，升級版本、打安全修補、改設定都會。如果 containerd 是 container 的 parent，containerd 一結束，container 就變成孤兒被 PID 1 收養，重啟後的 containerd 已經不是它的 parent，收不到它的 exit code。所以設計是一步一步推出來的（下面是問題被發現的順序，不是 process 執行的順序）：</p>
+<ol>
+<li>container 需要一直活著的 parent → runc 留不下來</li>
+<li>讓 containerd 當 parent？→ containerd 太常重啟</li>
+<li>另外找一個專門顧 container 的 process → <strong><code>containerd-shim-runc-v2</code></strong>，也就是保母</li>
+<li>保母不能掛在 containerd 底下 → 要用 double fork</li>
+<li>double fork 需要一個短命的中間 process，生出保母就結束 → shim 的執行檔先帶 <strong><code>start</code></strong> 參數跑一次，專門做這件事，也就是仲介</li>
+</ol>
+<hr>
+<h2>沒人顧的 process</h2>
+<p>Linux 的每個 process 都有 parent。child 結束時，parent 要呼叫 <code>wait()</code> 把它收掉。沒被收掉的 child 會變成 <strong>zombie</strong>：它已經不跑了，只剩 process table 裡的一筆紀錄，佔一點點記憶體，也佔著一個 PID。zombie 一多，最先耗光的是 PID。</p>
+<p>還活著的孤兒更麻煩。parent 先結束的話，kernel 會把它的 child 交給 systemd（PID 1）收養，這叫 reparent。systemd 會讓這些孤兒繼續活著，但不知道它們該不該活著。失控的孤兒 process 會一直吃 CPU 跟記憶體，直到有人手動把它 kill 掉，或它自己結束。</p>
+<p><code>containerd-shim-runc-v2</code> 是 container 的 parent。那 shim 的 parent 是誰？又要怎麼讓它脫離 containerd？</p>
+<hr>
+<h2>double fork：仲介帶保母來，自己就走</h2>
+<p>double fork 的兩個角色，是同一個執行檔 <code>containerd-shim-runc-v2</code> 跑兩次，不是 <code>containerd-shim</code> 跟 <code>containerd-shim-runc-v2</code> 兩個執行檔：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th></th><th><code>containerd-shim-runc-v2 start</code></th><th><code>containerd-shim-runc-v2</code>（不帶參數）</th></tr></thead><tbody><tr><td>活多久</td><td>不到一秒</td><td>跟 container 一樣久</td></tr><tr><td>做什麼</td><td>重新執行自己生出真正的 shim，把 shim 的 socket 位址交給 containerd，然後結束</td><td>顧 container</td></tr><tr><td>場景裡的角色</td><td>仲介</td><td>保母</td></tr></tbody></table>
+<p>沒有後綴的 <code>containerd-shim</code> 是另一個東西，是舊的 v1 shim，最後一節會講。</p>
+<p>double fork 是 Unix 的老技巧：連續 fork 兩次，中間那個 process 結束。fork 是讓一個 process 複製出一個 child，exec 是讓 process 改成執行另一個程式。</p>
+<ol>
+<li>containerd fork 再 exec → <code>containerd-shim-runc-v2 start</code>（child）</li>
+<li>start 再執行一次同一個執行檔 → <code>containerd-shim-runc-v2</code> daemon（孫子），放在新的 process group</li>
+<li>start 把 daemon 的 socket 位址告訴 containerd，然後結束</li>
+<li>daemon 的 parent 結束了，變成孤兒</li>
+<li>kernel 把 daemon 交給 PID 1（<code>systemd</code>）收養</li>
+</ol>
+<p>第 5 步會發生，是因為第 3 步 start 結束了，跟第 2 步的新 process group 無關。process 只有在自己的 parent 結束時才會被 PID 1 收養。start 的任務就是馬上結束，讓它生的 daemon 立刻被 PID 1 收養，而這時 containerd 還活著。新的 process group 是另一件事，後面會講。</p>
+<p>常聽到一種說法：parent 結束，child 也會跟著結束。Linux 不是這樣運作的。</p>
+<blockquote>
+<p>parent 結束 → child 被 PID 1 收養 → child 繼續跑</p>
+</blockquote>
+<p>這個說法來自 shell。terminal 被關掉時，bash 會收到 <code>SIGHUP</code>，結束前它會把 <code>SIGHUP</code> 轉送給自己的 job，而 <code>SIGHUP</code> 的預設反應是結束（<a href="https://www.gnu.org/software/bash/manual/html_node/Signals.html">bash manual</a>）。那些 child 是被 bash 送來的 signal 結束的，不是因為 parent 結束了。這是 shell 的行為，不是 kernel 的。</p>
+<p>start 結束時不送任何 signal，它也不是 shell，所以 daemon 只是變成孤兒，繼續跑。</p>
+<pre><code>之前（剛 fork 完）：
+
+  containerd (PID 500)
+    └── containerd-shim-runc-v2 start (PID 501)
+          └── containerd-shim-runc-v2 (PID 502)
+</code></pre>
+<pre><code>之後（start 結束了）：
+
+  containerd (PID 500)              ← 底下已經沒有 child
+  systemd (PID 1)
+    └── containerd-shim-runc-v2 (PID 502)   ← 被 PID 1 收養
+          └── container 的程式 (PID 503)
+</code></pre>
+<p>從此 <code>containerd</code> 跟 <code>containerd-shim-runc-v2</code> 不是父子。socket 斷了可以再接，process 的親子關係卻沒辦法這樣重新接上。</p>
+<p>除了脫離親子關係，shim 還用另外兩種方法，避免被 containerd 連累：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>管的範圍</th><th>做法</th><th>防的是</th></tr></thead><tbody><tr><td>process 的親子關係</td><td>被 PID 1 收養</td><td>失去 parent，<code>waitpid</code> 的關係跟著斷掉</td></tr><tr><td>process group</td><td><code>setpgid</code></td><td><code>Ctrl+C</code> 或 <code>kill -&#x3C;pgid></code> 這種送給整組 process 的 signal</td></tr><tr><td>cgroup</td><td><code>KillMode=process</code></td><td><code>systemctl stop</code> 把同一個 cgroup 裡的 process 全部 kill 掉</td></tr></tbody></table>
+<details>
+<summary>深入：為什麼不 fork 一次就好？</summary>
+<p>只 fork 一次的話，shim 就是 containerd 的 child，v1 的 shim 就是這樣（見最後一節）。不會壞掉，systemd 一樣會收孤兒，可是 containerd 會多出不該有的負擔：每個 shim 結束都會送 <code>SIGCHLD</code> 給它，它的 child 清單裡全是 shim。重啟之後，新的 containerd 也沒辦法 <code>waitpid()</code> 那些已經不是它 child 的 shim，Linux 沒有提供改變 parent 的方法。</p>
+<p>也許會想，反正 containerd 哪天結束時，shim 一樣會被 PID 1 收養，最後的狀態不是一樣嗎？最後確實一樣，可是在那之前，containerd 每生一個 shim，在 containerd 結束之前都得把它當 child 管，所以前一段講的那些負擔都落在 containerd 身上。double fork 讓每個 shim 一出生就被 PID 1 收養，containerd 從來不用管它們。</p>
+<blockquote>
+<p>這段是從 double fork 的做法、<a href="https://iximiuz.com/en/posts/implementing-container-runtime-shim/">iximiuz 的 shim 實作文</a>、<a href="https://container42.com/2022/01/10/shim-shiminey-shim-shiminey/">Container42 的說明</a>推出來的，containerd 的文件沒有直接寫。</p>
+</blockquote>
+</details>
+<details>
+<summary>深入：process group 跟 cgroup</summary>
+<p>表格第二列講的是 signal。daemon 啟動時用 <code>setpgid</code> 放進自己的 process group（containerd 的程式碼在 <a href="https://github.com/containerd/containerd/blob/main/cmd/containerd-shim-runc-v2/manager/manager_linux.go"><code>manager_linux.go</code></a> 設了 <code>Setpgid: true</code>）。送給一整組的 signal 是看 process group 送的，所以如果 shim 跟 containerd 在同一組，<code>kill -&#x3C;pgid></code>（或 containerd 跑在前景 terminal 時按的 Ctrl+C）會連 shim 一起送到。</p>
+<p>第三列 cgroup 又是另一回事。<code>setpgid</code> 只換 process group，不會換 cgroup，而 <code>systemctl stop</code> 預設會把整個 cgroup 裡的 process 都 kill 掉，shim 也在 containerd 的 cgroup 裡。所以 <code>containerd.service</code> 設了 <code>KillMode=process</code>，停掉 containerd 時只 kill containerd 本身，不動跟它共用 cgroup 的 shim。</p>
+</details>
+<hr>
+<h2>shim 平常在做什麼</h2>
+<p>runc 結束、container 開始跑之後，<code>containerd-shim-runc-v2</code> 待在那裡做三件事：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>工作</th><th>透過什麼</th><th>為什麼</th></tr></thead><tbody><tr><td>拿著 stdin、stdout、stderr</td><td>file descriptor</td><td>輸出經過 containerd 寫成 log 檔給 <code>kubectl logs</code> 讀；<code>kubectl attach</code> 也要靠它接上</td></tr><tr><td>container 結束時呼叫 <code>wait()</code></td><td>process 的親子關係</td><td>收下 exit code，<code>kubectl get pod</code> 才能顯示 <code>Completed</code> 或 <code>Error</code></td></tr><tr><td>回報 containerd、接收指令</td><td>ttrpc socket</td><td>containerd 會問「還在跑嗎」，或叫它「停掉」</td></tr></tbody></table>
+<p>只有 parent 能收下 child 的 exit code，所以 shim 的 <code>waitpid()</code> 靠的是親子關係。收到的 exit code 經過 containerd 傳到 kubelet，就是 <code>kubectl get pod</code> 看到的 Pod 狀態。回報走的是另一條路，也就是可以斷線重連的 ttrpc socket。</p>
+<p>如果 containerd 當掉，shim 照樣收得到 exit code，因為親子關係還在，只是暫時沒辦法回報，就像保母打電話給爸媽沒人接。等新的 containerd 把 socket 接回來，shim 再把結果交出去。收 exit code 跟回報是兩件互不影響的事。</p>
+<p>shim 大部分時間都閒著，而閒著是在等，不是一直輪詢。shim 把 <code>SIGCHLD</code> 加進自己處理的 signal，任何一個 child 結束時，kernel 就送一個 <code>SIGCHLD</code> 給它。shim 收到後呼叫 <code>reaper.Reap()</code>，用 <code>wait4(-1, ..., WNOHANG)</code> 的迴圈把所有已經結束的 child 一次收完，不管屬於哪個 container，再把每個 exit status 交給訂閱的人（<a href="https://github.com/containerd/containerd/blob/main/pkg/shim/shim_unix.go"><code>pkg/shim/shim_unix.go</code></a>、<a href="https://github.com/containerd/containerd/blob/main/pkg/sys/reaper/reaper_unix.go"><code>pkg/sys/reaper/reaper_unix.go</code></a>）。一個 Pod 有好幾個 container，也只是一個 signal handler 在處理，所以 shim 隨時都能回應 socket 上的請求。</p>
+<details>
+<summary>深入：container 為什麼歸 shim，不歸 PID 1</summary>
+<p>還有一個問題沒解決。runc 啟動 container 之後就結束了，照前面講的孤兒規則，container 應該跟其他孤兒一樣被 PID 1 收養。真的那樣的話，shim 就沒辦法 <code>waitpid()</code> 它，exit code 也就收不到了。</p>
+<p>shim 一啟動就把自己標成 <strong>subreaper</strong>，用的是：</p>
+<pre><code>prctl(PR_SET_CHILD_SUBREAPER, 1)
+</code></pre>
+<p>這改變了它底下所有後代的規則。runc 結束時，container 不會一路被交到 PID 1，而是交給最近一個設了 subreaper 的祖先，也就是 shim。用場景來說，保母事先登記成監護人，醫生離開後，孩子就留在保母身邊，不會被送去社福機構。container 留在 shim 底下，<code>waitpid()</code> 也就照常能用。</p>
+<p>shim 上面沒有任何 subreaper，所以它一路被交到 PID 1，脫離 containerd。container 上面有 shim 這個 subreaper，所以它留在原地。</p>
+</details>
+<details>
+<summary>深入：kernel 跟 systemd，誰通知誰</summary>
+<p>kernel 跟 <code>systemd</code> 不是同一個東西。kernel 是作業系統的核心，跑在 kernel space；<code>systemd</code> 是一個普通的 process（PID 1），跑在 user space。</p>
+<p>通知一律來自 kernel，<code>systemd</code> 只是孤兒最後的收養者：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>發生什麼</th><th>誰處理</th></tr></thead><tbody><tr><td>container 結束</td><td>kernel 叫醒 <code>containerd-shim-runc-v2</code></td></tr><tr><td><code>containerd-shim-runc-v2</code> 結束</td><td>kernel 叫醒 <code>systemd</code></td></tr><tr><td><code>systemd</code> 結束</td><td>kernel panic，整台機器停擺</td></tr></tbody></table>
+<p><code>systemd</code> 是被動的收養者，<code>containerd-shim-runc-v2</code> 是主動的照顧者。<code>systemd</code> 不知道也不在乎 <code>containerd-shim-runc-v2</code> 是什麼，收養的 child 結束時，它呼叫 <code>wait()</code> 收掉就好。<code>containerd-shim-runc-v2</code> 清楚自己在顧什麼，會把 exit code 回報給 containerd。</p>
+</details>
+<hr>
+<h2>v1 → v2：多了 double fork，process 也少了</h2>
+<p>v1 跟 v2 的 shim 都拿著 stdio、用 <code>wait</code> 收 exit code，也都把自己設成 subreaper。v1 沒有 double fork：containerd 直接啟動 <code>containerd-shim</code> 當 child，自己 <code>Wait</code> 它，containerd 結束時 shim 才被 PID 1 收養（<a href="https://github.com/containerd/containerd/blob/v1.2.0/runtime/v1/shim/client/client.go">v1.2.0 的 <code>client.go</code></a>、<a href="https://github.com/containerd/containerd/blob/v1.2.0/cmd/containerd-shim/shim_linux.go"><code>shim_linux.go</code></a>）。所以在還跑 v1 的 node 上，shim 是掛在 containerd 底下，不是 PID 1 底下。v2 加了 <code>start</code> 這一步，另外也改了要跑多少個 shim process：</p>
+<p><strong>v1：每個 container 一個 <code>containerd-shim</code></strong></p>
+<p>在 CRI 底下，每個 Pod 除了應用的 container，還有一個 sandbox（pause）container，v1 也替它開一個 shim（<a href="https://www.openeuler.org/en/blog/gaohuatao/2021-04-09-isulad-shimv1-shimv2-diff">openEuler：shim v1 vs v2</a>）。</p>
+<ul>
+<li>3 個 container 的 Pod → 4 個 <code>containerd-shim</code>（3 個加上 pause container）</li>
+<li>一台 Node 跑 30 個 Pod，每個平均 2 個 container → 90 個 <code>containerd-shim</code></li>
+</ul>
+<p><strong>v2：每個 Pod 一個 <code>containerd-shim-runc-v2</code></strong></p>
+<ul>
+<li>3 個 container 的 Pod → 1 個 <code>containerd-shim-runc-v2</code> 管全部</li>
+<li>30 個 Pod → 30 個 <code>containerd-shim-runc-v2</code>（不是 90 個）</li>
+</ul>
+<p>兩個版本都用 ttrpc 跟 containerd 溝通。ttrpc 是 containerd 自己做的輕量版 gRPC，拿掉了 <code>net/http</code>、HTTP/2 跟 grpc 套件，換成簡單的封包格式，執行檔比較小，記憶體也用得少（<a href="https://github.com/containerd/ttrpc">ttrpc README</a>）。v2 的進步在 process 數量，不在傳輸方式。shim 改用 gRPC 是 containerd 1.7 之後才有的選項，containerd 的文件到現在還寫著它是實驗功能，建議用 ttrpc（<a href="https://github.com/containerd/containerd/blob/main/docs/runtime-v2.md">runtime v2 文件</a>）。</p>
+<p>命名規則也讓 runtime 可以替換。containerd 會把 <code>runtime_type</code> 轉成執行檔的名字：</p>
+<ul>
+<li><code>io.containerd.runc.v2</code> → <code>containerd-shim-runc-v2</code> → 用 <code>runc</code>（預設）</li>
+<li><code>io.containerd.runsc.v1</code> → <code>containerd-shim-runsc-v1</code> → 用 gVisor（<a href="https://gvisor.dev/docs/user_guide/containerd/quick_start/">gVisor containerd quick start</a>）</li>
+<li><code>io.containerd.kata.v2</code> → <code>containerd-shim-kata-v2</code> → 用 Kata</li>
+</ul>
+<p>加一個 runtime 要三步：把它的 shim 跟 runtime 執行檔放上 Node，在 containerd 的設定檔註冊一個用這個 <code>runtime_type</code> 的 handler，再建一個指向這個 handler 的 RuntimeClass。Pod 設了 <code>runtimeClassName</code>，就會用那個 shim。gVisor 的完整例子寫在<a href="/v2/container-kernel-isolation">〈kernel 有漏洞的時候，container 之間靠什麼隔開〉</a>。</p>
+<hr>
+<h2>參考資料</h2>
+<ul>
+<li><a href="https://iximiuz.com/en/posts/implementing-container-runtime-shim/">Implementing Container Runtime Shim: runc (iximiuz)</a>：shim 怎麼變成 daemon、double fork、stdio 的生命週期</li>
+<li><a href="https://container42.com/2022/01/10/shim-shiminey-shim-shiminey/">Shim-shiminey Shim-shiminey (Container42)</a>：containerd 為什麼需要 shim、跟 containerd 的生命週期分開、live restore</li>
+<li><a href="https://github.com/containerd/containerd/blob/main/docs/runtime-v2.md">containerd runtime v2 文件（官方，shim API 跟 ttrpc）</a></li>
+<li><a href="https://github.com/containerd/ttrpc">ttrpc README</a></li>
+<li><a href="https://www.cnblogs.com/zhangmingcheng/p/17524721.html">Containerd组件 - containerd-shim-runc-v2作用 (cnblogs)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Zombie_process">Zombie process (Wikipedia)</a>：zombie 跟孤兒的差別、process table、PID 耗盡</li>
+<li><a href="https://www.gnu.org/software/bash/manual/html_node/Signals.html">Bash manual: Signals</a></li>
+<li><a href="https://github.com/containerd/containerd/discussions/7407">What are the differences between runc v1 and v2? (containerd Discussion #7407)</a></li>
+<li><a href="https://www.openeuler.org/en/blog/gaohuatao/2021-04-09-isulad-shimv1-shimv2-diff.html">Shim v1 vs v2 architecture comparison (openEuler, Kata perspective)</a></li>
+</ul>15:T4843,
+kubelet 叫 containerd 建一個 container，container 就跑起來了。可是從這個呼叫到 container 真的在跑，中間有三個 process 接力，其中一個一出生就是為了馬上結束。
+
+把它想成照顧一個新生兒，每個角色都對到一個真的 process：
+
+| 場景裡的角色 | 對到的 process | 做什麼 |
+|---|---|---|
+| 孩子 | container 裡的程式，例如 nginx | 要一直有人顧 |
+| 接生的醫生 | `runc` | 把孩子生下來就離開 |
+| 爸媽 | `containerd` | 要上班，會不在家（升級、重啟） |
+| 保母 | `containerd-shim-runc-v2` | 一直陪著孩子，有事打電話跟爸媽說 |
+| 介紹保母的仲介 | `containerd-shim-runc-v2 start` | 把保母帶到、留下保母的電話就走 |
+| 社福機構 | `systemd`（PID 1） | 沒有家長的孩子都歸它 |
+
+PID 是 Linux 給每個 process 的編號，PID 1 是開機後第一個 process，通常是 systemd。
+
+整個接力是這樣：
+
+```
+kubectl set image deployment/api api=api:v2
+  │
+  ① kubectl → API Server → etcd（寫入新的 image）
+  ② Deployment Controller → 建新的 ReplicaSet
+  ③ ReplicaSet Controller → 建 Pod
+  ④ Scheduler → 把 Pod 分到一台 Node
+  ⑤ kubelet 收到這個 Pod
+  │
+  ▼
+containerd
+  │ fork + exec
+  ▼
+containerd-shim-runc-v2 start   （仲介，很快就結束）
+  │ 重新執行自己，然後結束（double fork）
+  ▼
+containerd-shim-runc-v2（保母）← 被 PID 1 收養
+  │ fork + exec（runc 是 shim 的 child，shim 自己留著）
+  ▼
+runc
+  │ 設定 namespace、cgroup、pivot_root
+  │ 啟動 container 的程式
+  │ 結束
+  ▼
+container 的程式（在跑）
+  parent = containerd-shim-runc-v2
+  再上一層 = systemd（PID 1）
+```
+
+```
+穩定之後（start 跟 runc 都已經結束）：
+
+systemd (PID 1)
+  ├── containerd                         ← 爸媽，透過 ttrpc socket 溝通
+  └── containerd-shim-runc-v2           ← 保母，平常睡著，等 SIGCHLD
+          └── nginx (container 裡的 PID 1) ← 孩子
+```
+
+`containerd` 跟 `containerd-shim-runc-v2` 在 `systemd` 底下是兄弟，不是父子。它們透過 ttrpc socket 溝通，就像保母打電話給爸媽，不靠 process 之間的親子關係。nginx 在 container 自己的 PID namespace 裡是 PID 1，從 host 看則是一個普通的編號，例如 50321。
+
+> 這些都是 containerd 內部的事，Kubernetes 不知道它們存在。Kubernetes 怎麼接到 containerd，寫在[〈Kubernetes 從離不開 Docker 到不需要 Docker〉](/v2/container-runtime-evolution)。
+
+---
+
+## runc：生完就走，不留下來顧
+
+`runc` 是一個 CLI 工具，負責建 container。它設定 Linux 的 namespace（決定 container 能看見什麼）跟 cgroup（決定能用多少 CPU、記憶體），用 `pivot_root` 把 container 的根目錄換掉（加 `--no-pivot` 才改用 `chroot`），啟動 container 的程式，然後自己就結束了。
+
+runc 結束了，container 還在跑。每個 process 都有一個 parent，也就是把它生出來的那個 process。那 container 現在的 parent 是誰呢？
+
+---
+
+## 為什麼每一層都要有
+
+container 需要一個一直活著的 parent，負責三件事：
+
+- 拿著它的 stdin、stdout、stderr，把輸出交給 containerd。containerd 再把輸出寫成 node 上的 log 檔，`kubectl logs` 讀的就是這個檔（[containerd 的 CRI logger](https://github.com/containerd/containerd/blob/main/internal/cri/io/logger.go)）
+- container 結束時呼叫 `waitpid()` 收下 exit code，往上傳，`kubectl get pod` 才能顯示 `Completed` 或 `Error`
+- 回應 containerd 的查詢，例如 `kubectl exec`、狀態檢查
+
+runc 做不到，因為它已經結束了。
+
+讓 containerd 自己當 parent 可以嗎？可以，可是 containerd 常常要重啟，升級版本、打安全修補、改設定都會。如果 containerd 是 container 的 parent，containerd 一結束，container 就變成孤兒被 PID 1 收養，重啟後的 containerd 已經不是它的 parent，收不到它的 exit code。所以設計是一步一步推出來的（下面是問題被發現的順序，不是 process 執行的順序）：
+
+1. container 需要一直活著的 parent → runc 留不下來
+2. 讓 containerd 當 parent？→ containerd 太常重啟
+3. 另外找一個專門顧 container 的 process → **`containerd-shim-runc-v2`**，也就是保母
+4. 保母不能掛在 containerd 底下 → 要用 double fork
+5. double fork 需要一個短命的中間 process，生出保母就結束 → shim 的執行檔先帶 **`start`** 參數跑一次，專門做這件事，也就是仲介
+
+---
+
+## 沒人顧的 process
+
+Linux 的每個 process 都有 parent。child 結束時，parent 要呼叫 `wait()` 把它收掉。沒被收掉的 child 會變成 **zombie**：它已經不跑了，只剩 process table 裡的一筆紀錄，佔一點點記憶體，也佔著一個 PID。zombie 一多，最先耗光的是 PID。
+
+還活著的孤兒更麻煩。parent 先結束的話，kernel 會把它的 child 交給 systemd（PID 1）收養，這叫 reparent。systemd 會讓這些孤兒繼續活著，但不知道它們該不該活著。失控的孤兒 process 會一直吃 CPU 跟記憶體，直到有人手動把它 kill 掉，或它自己結束。
+
+`containerd-shim-runc-v2` 是 container 的 parent。那 shim 的 parent 是誰？又要怎麼讓它脫離 containerd？
+
+---
+
+## double fork：仲介帶保母來，自己就走
+
+double fork 的兩個角色，是同一個執行檔 `containerd-shim-runc-v2` 跑兩次，不是 `containerd-shim` 跟 `containerd-shim-runc-v2` 兩個執行檔：
+
+| | `containerd-shim-runc-v2 start` | `containerd-shim-runc-v2`（不帶參數） |
+|---|---|---|
+| 活多久 | 不到一秒 | 跟 container 一樣久 |
+| 做什麼 | 重新執行自己生出真正的 shim，把 shim 的 socket 位址交給 containerd，然後結束 | 顧 container |
+| 場景裡的角色 | 仲介 | 保母 |
+
+沒有後綴的 `containerd-shim` 是另一個東西，是舊的 v1 shim，最後一節會講。
+
+double fork 是 Unix 的老技巧：連續 fork 兩次，中間那個 process 結束。fork 是讓一個 process 複製出一個 child，exec 是讓 process 改成執行另一個程式。
+
+1. containerd fork 再 exec → `containerd-shim-runc-v2 start`（child）
+2. start 再執行一次同一個執行檔 → `containerd-shim-runc-v2` daemon（孫子），放在新的 process group
+3. start 把 daemon 的 socket 位址告訴 containerd，然後結束
+4. daemon 的 parent 結束了，變成孤兒
+5. kernel 把 daemon 交給 PID 1（`systemd`）收養
+
+第 5 步會發生，是因為第 3 步 start 結束了，跟第 2 步的新 process group 無關。process 只有在自己的 parent 結束時才會被 PID 1 收養。start 的任務就是馬上結束，讓它生的 daemon 立刻被 PID 1 收養，而這時 containerd 還活著。新的 process group 是另一件事，後面會講。
+
+常聽到一種說法：parent 結束，child 也會跟著結束。Linux 不是這樣運作的。
+
+> parent 結束 → child 被 PID 1 收養 → child 繼續跑
+
+這個說法來自 shell。terminal 被關掉時，bash 會收到 `SIGHUP`，結束前它會把 `SIGHUP` 轉送給自己的 job，而 `SIGHUP` 的預設反應是結束（[bash manual](https://www.gnu.org/software/bash/manual/html_node/Signals.html)）。那些 child 是被 bash 送來的 signal 結束的，不是因為 parent 結束了。這是 shell 的行為，不是 kernel 的。
+
+start 結束時不送任何 signal，它也不是 shell，所以 daemon 只是變成孤兒，繼續跑。
+
+```
+之前（剛 fork 完）：
+
+  containerd (PID 500)
+    └── containerd-shim-runc-v2 start (PID 501)
+          └── containerd-shim-runc-v2 (PID 502)
+```
+
+```
+之後（start 結束了）：
+
+  containerd (PID 500)              ← 底下已經沒有 child
+  systemd (PID 1)
+    └── containerd-shim-runc-v2 (PID 502)   ← 被 PID 1 收養
+          └── container 的程式 (PID 503)
+```
+
+從此 `containerd` 跟 `containerd-shim-runc-v2` 不是父子。socket 斷了可以再接，process 的親子關係卻沒辦法這樣重新接上。
+
+除了脫離親子關係，shim 還用另外兩種方法，避免被 containerd 連累：
+
+| 管的範圍 | 做法 | 防的是 |
+|---|---|---|
+| process 的親子關係 | 被 PID 1 收養 | 失去 parent，`waitpid` 的關係跟著斷掉 |
+| process group | `setpgid` | `Ctrl+C` 或 `kill -<pgid>` 這種送給整組 process 的 signal |
+| cgroup | `KillMode=process` | `systemctl stop` 把同一個 cgroup 裡的 process 全部 kill 掉 |
+
+<details>
+<summary>深入：為什麼不 fork 一次就好？</summary>
+
+只 fork 一次的話，shim 就是 containerd 的 child，v1 的 shim 就是這樣（見最後一節）。不會壞掉，systemd 一樣會收孤兒，可是 containerd 會多出不該有的負擔：每個 shim 結束都會送 `SIGCHLD` 給它，它的 child 清單裡全是 shim。重啟之後，新的 containerd 也沒辦法 `waitpid()` 那些已經不是它 child 的 shim，Linux 沒有提供改變 parent 的方法。
+
+也許會想，反正 containerd 哪天結束時，shim 一樣會被 PID 1 收養，最後的狀態不是一樣嗎？最後確實一樣，可是在那之前，containerd 每生一個 shim，在 containerd 結束之前都得把它當 child 管，所以前一段講的那些負擔都落在 containerd 身上。double fork 讓每個 shim 一出生就被 PID 1 收養，containerd 從來不用管它們。
+
+> 這段是從 double fork 的做法、[iximiuz 的 shim 實作文](https://iximiuz.com/en/posts/implementing-container-runtime-shim/)、[Container42 的說明](https://container42.com/2022/01/10/shim-shiminey-shim-shiminey/)推出來的，containerd 的文件沒有直接寫。
+
+</details>
+
+<details>
+<summary>深入：process group 跟 cgroup</summary>
+
+表格第二列講的是 signal。daemon 啟動時用 `setpgid` 放進自己的 process group（containerd 的程式碼在 [`manager_linux.go`](https://github.com/containerd/containerd/blob/main/cmd/containerd-shim-runc-v2/manager/manager_linux.go) 設了 `Setpgid: true`）。送給一整組的 signal 是看 process group 送的，所以如果 shim 跟 containerd 在同一組，`kill -<pgid>`（或 containerd 跑在前景 terminal 時按的 Ctrl+C）會連 shim 一起送到。
+
+第三列 cgroup 又是另一回事。`setpgid` 只換 process group，不會換 cgroup，而 `systemctl stop` 預設會把整個 cgroup 裡的 process 都 kill 掉，shim 也在 containerd 的 cgroup 裡。所以 `containerd.service` 設了 `KillMode=process`，停掉 containerd 時只 kill containerd 本身，不動跟它共用 cgroup 的 shim。
+
+</details>
+
+---
+
+## shim 平常在做什麼
+
+runc 結束、container 開始跑之後，`containerd-shim-runc-v2` 待在那裡做三件事：
+
+| 工作 | 透過什麼 | 為什麼 |
+|---|---|---|
+| 拿著 stdin、stdout、stderr | file descriptor | 輸出經過 containerd 寫成 log 檔給 `kubectl logs` 讀；`kubectl attach` 也要靠它接上 |
+| container 結束時呼叫 `wait()` | process 的親子關係 | 收下 exit code，`kubectl get pod` 才能顯示 `Completed` 或 `Error` |
+| 回報 containerd、接收指令 | ttrpc socket | containerd 會問「還在跑嗎」，或叫它「停掉」 |
+
+只有 parent 能收下 child 的 exit code，所以 shim 的 `waitpid()` 靠的是親子關係。收到的 exit code 經過 containerd 傳到 kubelet，就是 `kubectl get pod` 看到的 Pod 狀態。回報走的是另一條路，也就是可以斷線重連的 ttrpc socket。
+
+如果 containerd 當掉，shim 照樣收得到 exit code，因為親子關係還在，只是暫時沒辦法回報，就像保母打電話給爸媽沒人接。等新的 containerd 把 socket 接回來，shim 再把結果交出去。收 exit code 跟回報是兩件互不影響的事。
+
+shim 大部分時間都閒著，而閒著是在等，不是一直輪詢。shim 把 `SIGCHLD` 加進自己處理的 signal，任何一個 child 結束時，kernel 就送一個 `SIGCHLD` 給它。shim 收到後呼叫 `reaper.Reap()`，用 `wait4(-1, ..., WNOHANG)` 的迴圈把所有已經結束的 child 一次收完，不管屬於哪個 container，再把每個 exit status 交給訂閱的人（[`pkg/shim/shim_unix.go`](https://github.com/containerd/containerd/blob/main/pkg/shim/shim_unix.go)、[`pkg/sys/reaper/reaper_unix.go`](https://github.com/containerd/containerd/blob/main/pkg/sys/reaper/reaper_unix.go)）。一個 Pod 有好幾個 container，也只是一個 signal handler 在處理，所以 shim 隨時都能回應 socket 上的請求。
+
+<details>
+<summary>深入：container 為什麼歸 shim，不歸 PID 1</summary>
+
+還有一個問題沒解決。runc 啟動 container 之後就結束了，照前面講的孤兒規則，container 應該跟其他孤兒一樣被 PID 1 收養。真的那樣的話，shim 就沒辦法 `waitpid()` 它，exit code 也就收不到了。
+
+shim 一啟動就把自己標成 **subreaper**，用的是：
+
+```
+prctl(PR_SET_CHILD_SUBREAPER, 1)
+```
+
+這改變了它底下所有後代的規則。runc 結束時，container 不會一路被交到 PID 1，而是交給最近一個設了 subreaper 的祖先，也就是 shim。用場景來說，保母事先登記成監護人，醫生離開後，孩子就留在保母身邊，不會被送去社福機構。container 留在 shim 底下，`waitpid()` 也就照常能用。
+
+shim 上面沒有任何 subreaper，所以它一路被交到 PID 1，脫離 containerd。container 上面有 shim 這個 subreaper，所以它留在原地。
+
+</details>
+
+<details>
+<summary>深入：kernel 跟 systemd，誰通知誰</summary>
+
+kernel 跟 `systemd` 不是同一個東西。kernel 是作業系統的核心，跑在 kernel space；`systemd` 是一個普通的 process（PID 1），跑在 user space。
+
+通知一律來自 kernel，`systemd` 只是孤兒最後的收養者：
+
+| 發生什麼 | 誰處理 |
+|---|---|
+| container 結束 | kernel 叫醒 `containerd-shim-runc-v2` |
+| `containerd-shim-runc-v2` 結束 | kernel 叫醒 `systemd` |
+| `systemd` 結束 | kernel panic，整台機器停擺 |
+
+`systemd` 是被動的收養者，`containerd-shim-runc-v2` 是主動的照顧者。`systemd` 不知道也不在乎 `containerd-shim-runc-v2` 是什麼，收養的 child 結束時，它呼叫 `wait()` 收掉就好。`containerd-shim-runc-v2` 清楚自己在顧什麼，會把 exit code 回報給 containerd。
+
+</details>
+
+---
+
+## v1 → v2：多了 double fork，process 也少了
+
+v1 跟 v2 的 shim 都拿著 stdio、用 `wait` 收 exit code，也都把自己設成 subreaper。v1 沒有 double fork：containerd 直接啟動 `containerd-shim` 當 child，自己 `Wait` 它，containerd 結束時 shim 才被 PID 1 收養（[v1.2.0 的 `client.go`](https://github.com/containerd/containerd/blob/v1.2.0/runtime/v1/shim/client/client.go)、[`shim_linux.go`](https://github.com/containerd/containerd/blob/v1.2.0/cmd/containerd-shim/shim_linux.go)）。所以在還跑 v1 的 node 上，shim 是掛在 containerd 底下，不是 PID 1 底下。v2 加了 `start` 這一步，另外也改了要跑多少個 shim process：
+
+**v1：每個 container 一個 `containerd-shim`**
+
+在 CRI 底下，每個 Pod 除了應用的 container，還有一個 sandbox（pause）container，v1 也替它開一個 shim（[openEuler：shim v1 vs v2](https://www.openeuler.org/en/blog/gaohuatao/2021-04-09-isulad-shimv1-shimv2-diff)）。
+
+- 3 個 container 的 Pod → 4 個 `containerd-shim`（3 個加上 pause container）
+- 一台 Node 跑 30 個 Pod，每個平均 2 個 container → 90 個 `containerd-shim`
+
+**v2：每個 Pod 一個 `containerd-shim-runc-v2`**
+
+- 3 個 container 的 Pod → 1 個 `containerd-shim-runc-v2` 管全部
+- 30 個 Pod → 30 個 `containerd-shim-runc-v2`（不是 90 個）
+
+兩個版本都用 ttrpc 跟 containerd 溝通。ttrpc 是 containerd 自己做的輕量版 gRPC，拿掉了 `net/http`、HTTP/2 跟 grpc 套件，換成簡單的封包格式，執行檔比較小，記憶體也用得少（[ttrpc README](https://github.com/containerd/ttrpc)）。v2 的進步在 process 數量，不在傳輸方式。shim 改用 gRPC 是 containerd 1.7 之後才有的選項，containerd 的文件到現在還寫著它是實驗功能，建議用 ttrpc（[runtime v2 文件](https://github.com/containerd/containerd/blob/main/docs/runtime-v2.md)）。
+
+命名規則也讓 runtime 可以替換。containerd 會把 `runtime_type` 轉成執行檔的名字：
+
+- `io.containerd.runc.v2` → `containerd-shim-runc-v2` → 用 `runc`（預設）
+- `io.containerd.runsc.v1` → `containerd-shim-runsc-v1` → 用 gVisor（[gVisor containerd quick start](https://gvisor.dev/docs/user_guide/containerd/quick_start/)）
+- `io.containerd.kata.v2` → `containerd-shim-kata-v2` → 用 Kata
+
+加一個 runtime 要三步：把它的 shim 跟 runtime 執行檔放上 Node，在 containerd 的設定檔註冊一個用這個 `runtime_type` 的 handler，再建一個指向這個 handler 的 RuntimeClass。Pod 設了 `runtimeClassName`，就會用那個 shim。gVisor 的完整例子寫在[〈kernel 有漏洞的時候，container 之間靠什麼隔開〉](/v2/container-kernel-isolation)。
+
+---
+
+## 參考資料
+
+- [Implementing Container Runtime Shim: runc (iximiuz)](https://iximiuz.com/en/posts/implementing-container-runtime-shim/)：shim 怎麼變成 daemon、double fork、stdio 的生命週期
+- [Shim-shiminey Shim-shiminey (Container42)](https://container42.com/2022/01/10/shim-shiminey-shim-shiminey/)：containerd 為什麼需要 shim、跟 containerd 的生命週期分開、live restore
+- [containerd runtime v2 文件（官方，shim API 跟 ttrpc）](https://github.com/containerd/containerd/blob/main/docs/runtime-v2.md)
+- [ttrpc README](https://github.com/containerd/ttrpc)
+- [Containerd组件 - containerd-shim-runc-v2作用 (cnblogs)](https://www.cnblogs.com/zhangmingcheng/p/17524721.html)
+- [Zombie process (Wikipedia)](https://en.wikipedia.org/wiki/Zombie_process)：zombie 跟孤兒的差別、process table、PID 耗盡
+- [Bash manual: Signals](https://www.gnu.org/software/bash/manual/html_node/Signals.html)
+- [What are the differences between runc v1 and v2? (containerd Discussion #7407)](https://github.com/containerd/containerd/discussions/7407)
+- [Shim v1 vs v2 architecture comparison (openEuler, Kata perspective)](https://www.openeuler.org/en/blog/gaohuatao/2021-04-09-isulad-shimv1-shimv2-diff.html)
+16:T62a8,LS0tCnRpdGxlOiAiY29udGFpbmVyZCDoo6HpnaLvvJpzaGltIOi3nyBydW5jIOaAjum6vOaOpeWKm+aKiiBjb250YWluZXIg6LeR6LW35L6GIgpjcmVhdGVkQXQ6IDIwMjYtMDItMjBUMjM6MzE6MDAKdXBkYXRlZEF0OiAyMDI2LTEwLTI4VDExOjI4OjI1CnRhZ3M6IFtrOHMsIGNvbnRhaW5lciwgaW5mcmFzdHJ1Y3R1cmVdCmRlc2NyaXB0aW9uOiAia3ViZWxldCDlj6sgY29udGFpbmVyZCDlu7rkuIDlgIsgY29udGFpbmVy77yM5Lit6ZaT5pyJ5LiJ5YCLIHByb2Nlc3Mg5o6l5Yqb77yacnVuYyDmioogY29udGFpbmVyIOW7uuWlveWwsee1kOadn++8jHNoaW0g55qE5ZWf5YuV5Zmo5oqKIHNoaW0g5bi26LW35L6G5bCx57WQ5p2f77yM55WZ5LiL5L6G6aGnIGNvbnRhaW5lciDnmoTlj6rmnIkgc2hpbeOAgumAmeevh+ism+avj+S4gOajkueCuuS7gOm6vOimgeacieOAgiIKLS0tCgprdWJlbGV0IOWPqyBjb250YWluZXJkIOW7uuS4gOWAiyBjb250YWluZXLvvIxjb250YWluZXIg5bCx6LeR6LW35L6G5LqG44CC5Y+v5piv5b6e6YCZ5YCL5ZG85Y+r5YiwIGNvbnRhaW5lciDnnJ/nmoTlnKjot5HvvIzkuK3plpPmnInkuInlgIsgcHJvY2VzcyDmjqXlipvvvIzlhbbkuK3kuIDlgIvkuIDlh7rnlJ/lsLHmmK/ngrrkuobppqzkuIrntZDmnZ/jgIIKCuaKiuWug+aDs+aIkOeFp+mhp+S4gOWAi+aWsOeUn+WFku+8jOavj+WAi+inkuiJsumDveWwjeWIsOS4gOWAi+ecn+eahCBwcm9jZXNz77yaCgp8IOWgtOaZr+ijoeeahOinkuiJsiB8IOWwjeWIsOeahCBwcm9jZXNzIHwg5YGa5LuA6bq8IHwKfC0tLXwtLS18LS0tfAp8IOWtqeWtkCB8IGNvbnRhaW5lciDoo6HnmoTnqIvlvI/vvIzkvovlpoIgbmdpbnggfCDopoHkuIDnm7TmnInkurrpoacgfAp8IOaOpeeUn+eahOmGq+eUnyB8IGBydW5jYCB8IOaKiuWtqeWtkOeUn+S4i+S+huWwsemboumWiyB8Cnwg54i45aq9IHwgYGNvbnRhaW5lcmRgIHwg6KaB5LiK54+t77yM5pyD5LiN5Zyo5a6277yI5Y2H57Sa44CB6YeN5ZWf77yJIHwKfCDkv53mr40gfCBgY29udGFpbmVyZC1zaGltLXJ1bmMtdjJgIHwg5LiA55u06Zmq6JGX5a2p5a2Q77yM5pyJ5LqL5omT6Zu76Kmx6Lef54i45aq96KqqIHwKfCDku4vntLnkv53mr43nmoTku7Lku4sgfCBgY29udGFpbmVyZC1zaGltLXJ1bmMtdjIgc3RhcnRgIHwg5oqK5L+d5q+N5bi25Yiw44CB55WZ5LiL5L+d5q+N55qE6Zu76Kmx5bCx6LWwIHwKfCDnpL7npo/mqZ/mp4sgfCBgc3lzdGVtZGDvvIhQSUQgMe+8iSB8IOaykuacieWutumVt+eahOWtqeWtkOmDveatuOWugyB8CgpQSUQg5pivIExpbnV4IOe1puavj+WAiyBwcm9jZXNzIOeahOe3qOiZn++8jFBJRCAxIOaYr+mWi+apn+W+jOesrOS4gOWAiyBwcm9jZXNz77yM6YCa5bi45pivIHN5c3RlbWTjgIIKCuaVtOWAi+aOpeWKm+aYr+mAmeaoo++8mgoKYGBgCmt1YmVjdGwgc2V0IGltYWdlIGRlcGxveW1lbnQvYXBpIGFwaT1hcGk6djIKICDilIIKICDikaAga3ViZWN0bCDihpIgQVBJIFNlcnZlciDihpIgZXRjZO+8iOWvq+WFpeaWsOeahCBpbWFnZe+8iQogIOKRoSBEZXBsb3ltZW50IENvbnRyb2xsZXIg4oaSIOW7uuaWsOeahCBSZXBsaWNhU2V0CiAg4pGiIFJlcGxpY2FTZXQgQ29udHJvbGxlciDihpIg5bu6IFBvZAogIOKRoyBTY2hlZHVsZXIg4oaSIOaKiiBQb2Qg5YiG5Yiw5LiA5Y+wIE5vZGUKICDikaQga3ViZWxldCDmlLbliLDpgJnlgIsgUG9kCiAg4pSCCiAg4pa8CmNvbnRhaW5lcmQKICDilIIgZm9yayArIGV4ZWMKICDilrwKY29udGFpbmVyZC1zaGltLXJ1bmMtdjIgc3RhcnQgICDvvIjku7Lku4vvvIzlvojlv6vlsLHntZDmnZ/vvIkKICDilIIg6YeN5paw5Z+36KGM6Ieq5bex77yM54S25b6M57WQ5p2f77yIZG91YmxlIGZvcmvvvIkKICDilrwKY29udGFpbmVyZC1zaGltLXJ1bmMtdjLvvIjkv53mr43vvInihpAg6KKrIFBJRCAxIOaUtumkigogIOKUgiBmb3JrICsgZXhlY++8iHJ1bmMg5pivIHNoaW0g55qEIGNoaWxk77yMc2hpbSDoh6rlt7HnlZnokZfvvIkKICDilrwKcnVuYwogIOKUgiDoqK3lrpogbmFtZXNwYWNl44CBY2dyb3Vw44CBcGl2b3Rfcm9vdAogIOKUgiDllZ/li5UgY29udGFpbmVyIOeahOeoi+W8jwogIOKUgiDntZDmnZ8KICDilrwKY29udGFpbmVyIOeahOeoi+W8j++8iOWcqOi3ke+8iQogIHBhcmVudCA9IGNvbnRhaW5lcmQtc2hpbS1ydW5jLXYyCiAg5YaN5LiK5LiA5bGkID0gc3lzdGVtZO+8iFBJRCAx77yJCmBgYAoKYGBgCuepqeWumuS5i+W+jO+8iHN0YXJ0IOi3nyBydW5jIOmDveW3sue2k+e1kOadn++8ie+8mgoKc3lzdGVtZCAoUElEIDEpCiAg4pSc4pSA4pSAIGNvbnRhaW5lcmQgICAgICAgICAgICAgICAgICAgICAgICAg4oaQIOeIuOWqve+8jOmAj+mBjiB0dHJwYyBzb2NrZXQg5rqd6YCaCiAg4pSU4pSA4pSAIGNvbnRhaW5lcmQtc2hpbS1ydW5jLXYyICAgICAgICAgICDihpAg5L+d5q+N77yM5bmz5bi4552h6JGX77yM562JIFNJR0NITEQKICAgICAgICAgIOKUlOKUgOKUgCBuZ2lueCAoY29udGFpbmVyIOijoeeahCBQSUQgMSkg4oaQIOWtqeWtkApgYGAKCmBjb250YWluZXJkYCDot58gYGNvbnRhaW5lcmQtc2hpbS1ydW5jLXYyYCDlnKggYHN5c3RlbWRgIOW6leS4i+aYr+WFhOW8n++8jOS4jeaYr+eItuWtkOOAguWug+WAkemAj+mBjiB0dHJwYyBzb2NrZXQg5rqd6YCa77yM5bCx5YOP5L+d5q+N5omT6Zu76Kmx57Wm54i45aq977yM5LiN6Z2gIHByb2Nlc3Mg5LmL6ZaT55qE6Kaq5a2Q6Zec5L+C44CCbmdpbngg5ZyoIGNvbnRhaW5lciDoh6rlt7HnmoQgUElEIG5hbWVzcGFjZSDoo6HmmK8gUElEIDHvvIzlvp4gaG9zdCDnnIvliYfmmK/kuIDlgIvmma7pgJrnmoTnt6jomZ/vvIzkvovlpoIgNTAzMjHjgIIKCj4g6YCZ5Lqb6YO95pivIGNvbnRhaW5lcmQg5YWn6YOo55qE5LqL77yMS3ViZXJuZXRlcyDkuI3nn6XpgZPlroPlgJHlrZjlnKjjgIJLdWJlcm5ldGVzIOaAjum6vOaOpeWIsCBjb250YWluZXJk77yM5a+r5ZyoW+OAiEt1YmVybmV0ZXMg5b6e6Zui5LiN6ZaLIERvY2tlciDliLDkuI3pnIDopoEgRG9ja2Vy44CJXSgvdjIvY29udGFpbmVyLXJ1bnRpbWUtZXZvbHV0aW9uKeOAggoKLS0tCgojIyBydW5j77ya55Sf5a6M5bCx6LWw77yM5LiN55WZ5LiL5L6G6aGnCgpgcnVuY2Ag5piv5LiA5YCLIENMSSDlt6XlhbfvvIzosqDosqzlu7ogY29udGFpbmVy44CC5a6D6Kit5a6aIExpbnV4IOeahCBuYW1lc3BhY2XvvIjmsbrlrpogY29udGFpbmVyIOiDveeci+imi+S7gOm6vO+8iei3nyBjZ3JvdXDvvIjmsbrlrprog73nlKjlpJrlsJEgQ1BV44CB6KiY5oa26auU77yJ77yM55SoIGBwaXZvdF9yb290YCDmioogY29udGFpbmVyIOeahOagueebrumMhOaPm+aOie+8iOWKoCBgLS1uby1waXZvdGAg5omN5pS555SoIGBjaHJvb3Rg77yJ77yM5ZWf5YuVIGNvbnRhaW5lciDnmoTnqIvlvI/vvIznhLblvozoh6rlt7HlsLHntZDmnZ/kuobjgIIKCnJ1bmMg57WQ5p2f5LqG77yMY29udGFpbmVyIOmChOWcqOi3keOAguavj+WAiyBwcm9jZXNzIOmDveacieS4gOWAiyBwYXJlbnTvvIzkuZ/lsLHmmK/miorlroPnlJ/lh7rkvobnmoTpgqPlgIsgcHJvY2Vzc+OAgumCoyBjb250YWluZXIg54++5Zyo55qEIHBhcmVudCDmmK/oqrDlkaLvvJ8KCi0tLQoKIyMg54K65LuA6bq85q+P5LiA5bGk6YO96KaB5pyJCgpjb250YWluZXIg6ZyA6KaB5LiA5YCL5LiA55u05rS76JGX55qEIHBhcmVudO+8jOiyoOiyrOS4ieS7tuS6i++8mgoKLSDmi7/okZflroPnmoQgc3RkaW7jgIFzdGRvdXTjgIFzdGRlcnLvvIzmiorovLjlh7rkuqTntaYgY29udGFpbmVyZOOAgmNvbnRhaW5lcmQg5YaN5oqK6Ly45Ye65a+r5oiQIG5vZGUg5LiK55qEIGxvZyDmqpTvvIxga3ViZWN0bCBsb2dzYCDoroDnmoTlsLHmmK/pgJnlgIvmqpTvvIhbY29udGFpbmVyZCDnmoQgQ1JJIGxvZ2dlcl0oaHR0cHM6Ly9naXRodWIuY29tL2NvbnRhaW5lcmQvY29udGFpbmVyZC9ibG9iL21haW4vaW50ZXJuYWwvY3JpL2lvL2xvZ2dlci5nbynvvIkKLSBjb250YWluZXIg57WQ5p2f5pmC5ZG85Y+rIGB3YWl0cGlkKClgIOaUtuS4iyBleGl0IGNvZGXvvIzlvoDkuIrlgrPvvIxga3ViZWN0bCBnZXQgcG9kYCDmiY3og73poa/npLogYENvbXBsZXRlZGAg5oiWIGBFcnJvcmAKLSDlm57mh4kgY29udGFpbmVyZCDnmoTmn6XoqaLvvIzkvovlpoIgYGt1YmVjdGwgZXhlY2DjgIHni4DmhYvmqqLmn6UKCnJ1bmMg5YGa5LiN5Yiw77yM5Zug54K65a6D5bey57aT57WQ5p2f5LqG44CCCgrorpMgY29udGFpbmVyZCDoh6rlt7HnlbYgcGFyZW50IOWPr+S7peWXju+8n+WPr+S7pe+8jOWPr+aYryBjb250YWluZXJkIOW4uOW4uOimgemHjeWVn++8jOWNh+e0mueJiOacrOOAgeaJk+WuieWFqOS/ruijnOOAgeaUueioreWumumDveacg+OAguWmguaenCBjb250YWluZXJkIOaYryBjb250YWluZXIg55qEIHBhcmVudO+8jGNvbnRhaW5lcmQg5LiA57WQ5p2f77yMY29udGFpbmVyIOWwseiuiuaIkOWtpOWFkuiiqyBQSUQgMSDmlLbppIrvvIzph43llZ/lvoznmoQgY29udGFpbmVyZCDlt7LntpPkuI3mmK/lroPnmoQgcGFyZW5077yM5pS25LiN5Yiw5a6D55qEIGV4aXQgY29kZeOAguaJgOS7peioreioiOaYr+S4gOatpeS4gOatpeaOqOWHuuS+hueahO+8iOS4i+mdouaYr+WVj+mhjOiiq+eZvOePvueahOmghuW6j++8jOS4jeaYryBwcm9jZXNzIOWft+ihjOeahOmghuW6j++8ie+8mgoKMS4gY29udGFpbmVyIOmcgOimgeS4gOebtOa0u+iRl+eahCBwYXJlbnQg4oaSIHJ1bmMg55WZ5LiN5LiL5L6GCjIuIOiukyBjb250YWluZXJkIOeVtiBwYXJlbnTvvJ/ihpIgY29udGFpbmVyZCDlpKrluLjph43llZ8KMy4g5Y+m5aSW5om+5LiA5YCL5bCI6ZaA6aGnIGNvbnRhaW5lciDnmoQgcHJvY2VzcyDihpIgKipgY29udGFpbmVyZC1zaGltLXJ1bmMtdjJgKirvvIzkuZ/lsLHmmK/kv53mr40KNC4g5L+d5q+N5LiN6IO95o6b5ZyoIGNvbnRhaW5lcmQg5bqV5LiLIOKGkiDopoHnlKggZG91YmxlIGZvcmsKNS4gZG91YmxlIGZvcmsg6ZyA6KaB5LiA5YCL55+t5ZG955qE5Lit6ZaTIHByb2Nlc3PvvIznlJ/lh7rkv53mr43lsLHntZDmnZ8g4oaSIHNoaW0g55qE5Z+36KGM5qqU5YWI5bi2ICoqYHN0YXJ0YCoqIOWPg+aVuOi3keS4gOasoe+8jOWwiOmWgOWBmumAmeS7tuS6i++8jOS5n+WwseaYr+S7suS7iwoKLS0tCgojIyDmspLkurrpoafnmoQgcHJvY2VzcwoKTGludXgg55qE5q+P5YCLIHByb2Nlc3Mg6YO95pyJIHBhcmVudOOAgmNoaWxkIOe1kOadn+aZgu+8jHBhcmVudCDopoHlkbzlj6sgYHdhaXQoKWAg5oqK5a6D5pS25o6J44CC5rKS6KKr5pS25o6J55qEIGNoaWxkIOacg+iuiuaIkCAqKnpvbWJpZSoq77ya5a6D5bey57aT5LiN6LeR5LqG77yM5Y+q5YmpIHByb2Nlc3MgdGFibGUg6KOh55qE5LiA562G57SA6YyE77yM5L2U5LiA6bue6bue6KiY5oa26auU77yM5Lmf5L2U6JGX5LiA5YCLIFBJROOAgnpvbWJpZSDkuIDlpJrvvIzmnIDlhYjogJflhYnnmoTmmK8gUElE44CCCgrpgoTmtLvokZfnmoTlraTlhZLmm7TpurvnhanjgIJwYXJlbnQg5YWI57WQ5p2f55qE6Kmx77yMa2VybmVsIOacg+aKiuWug+eahCBjaGlsZCDkuqTntaYgc3lzdGVtZO+8iFBJRCAx77yJ5pS26aSK77yM6YCZ5Y+rIHJlcGFyZW5044CCc3lzdGVtZCDmnIPorpPpgJnkupvlraTlhZLnubznuozmtLvokZfvvIzkvYbkuI3nn6XpgZPlroPlgJHoqbLkuI3oqbLmtLvokZfjgILlpLHmjqfnmoTlraTlhZIgcHJvY2VzcyDmnIPkuIDnm7TlkIMgQ1BVIOi3n+iomOaGtumrlO+8jOebtOWIsOacieS6uuaJi+WLleaKiuWugyBraWxsIOaOie+8jOaIluWug+iHquW3see1kOadn+OAggoKYGNvbnRhaW5lcmQtc2hpbS1ydW5jLXYyYCDmmK8gY29udGFpbmVyIOeahCBwYXJlbnTjgILpgqMgc2hpbSDnmoQgcGFyZW50IOaYr+iqsO+8n+WPiOimgeaAjum6vOiuk+Wug+iEq+mboiBjb250YWluZXJk77yfCgotLS0KCiMjIGRvdWJsZSBmb3Jr77ya5Luy5LuL5bi25L+d5q+N5L6G77yM6Ieq5bex5bCx6LWwCgpkb3VibGUgZm9yayDnmoTlhanlgIvop5LoibLvvIzmmK/lkIzkuIDlgIvln7fooYzmqpQgYGNvbnRhaW5lcmQtc2hpbS1ydW5jLXYyYCDot5HlhanmrKHvvIzkuI3mmK8gYGNvbnRhaW5lcmQtc2hpbWAg6LefIGBjb250YWluZXJkLXNoaW0tcnVuYy12MmAg5YWp5YCL5Z+36KGM5qqU77yaCgp8IHwgYGNvbnRhaW5lcmQtc2hpbS1ydW5jLXYyIHN0YXJ0YCB8IGBjb250YWluZXJkLXNoaW0tcnVuYy12MmDvvIjkuI3luLblj4PmlbjvvIkgfAp8LS0tfC0tLXwtLS18Cnwg5rS75aSa5LmFIHwg5LiN5Yiw5LiA56eSIHwg6LefIGNvbnRhaW5lciDkuIDmqKPkuYUgfAp8IOWBmuS7gOm6vCB8IOmHjeaWsOWft+ihjOiHquW3seeUn+WHuuecn+ato+eahCBzaGlt77yM5oqKIHNoaW0g55qEIHNvY2tldCDkvY3lnYDkuqTntaYgY29udGFpbmVyZO+8jOeEtuW+jOe1kOadnyB8IOmhpyBjb250YWluZXIgfAp8IOWgtOaZr+ijoeeahOinkuiJsiB8IOS7suS7iyB8IOS/neavjSB8CgrmspLmnInlvozntrTnmoQgYGNvbnRhaW5lcmQtc2hpbWAg5piv5Y+m5LiA5YCL5p2x6KW/77yM5piv6IiK55qEIHYxIHNoaW3vvIzmnIDlvozkuIDnr4DmnIPorJvjgIIKCmRvdWJsZSBmb3JrIOaYryBVbml4IOeahOiAgeaKgOW3p++8mumAo+e6jCBmb3JrIOWFqeasoe+8jOS4remWk+mCo+WAiyBwcm9jZXNzIOe1kOadn+OAgmZvcmsg5piv6K6T5LiA5YCLIHByb2Nlc3Mg6KSH6KO95Ye65LiA5YCLIGNoaWxk77yMZXhlYyDmmK/orpMgcHJvY2VzcyDmlLnmiJDln7fooYzlj6bkuIDlgIvnqIvlvI/jgIIKCjEuIGNvbnRhaW5lcmQgZm9yayDlho0gZXhlYyDihpIgYGNvbnRhaW5lcmQtc2hpbS1ydW5jLXYyIHN0YXJ0YO+8iGNoaWxk77yJCjIuIHN0YXJ0IOWGjeWft+ihjOS4gOasoeWQjOS4gOWAi+Wft+ihjOaqlCDihpIgYGNvbnRhaW5lcmQtc2hpbS1ydW5jLXYyYCBkYWVtb27vvIjlravlrZDvvInvvIzmlL7lnKjmlrDnmoQgcHJvY2VzcyBncm91cAozLiBzdGFydCDmioogZGFlbW9uIOeahCBzb2NrZXQg5L2N5Z2A5ZGK6Ki0IGNvbnRhaW5lcmTvvIznhLblvozntZDmnZ8KNC4gZGFlbW9uIOeahCBwYXJlbnQg57WQ5p2f5LqG77yM6K6K5oiQ5a2k5YWSCjUuIGtlcm5lbCDmioogZGFlbW9uIOS6pOe1piBQSUQgMe+8iGBzeXN0ZW1kYO+8ieaUtumkigoK56ysIDUg5q2l5pyD55m855Sf77yM5piv5Zug54K656ysIDMg5q2lIHN0YXJ0IOe1kOadn+S6hu+8jOi3n+esrCAyIOatpeeahOaWsCBwcm9jZXNzIGdyb3VwIOeEoemXnOOAgnByb2Nlc3Mg5Y+q5pyJ5Zyo6Ieq5bex55qEIHBhcmVudCDntZDmnZ/mmYLmiY3mnIPooqsgUElEIDEg5pS26aSK44CCc3RhcnQg55qE5Lu75YuZ5bCx5piv6aas5LiK57WQ5p2f77yM6K6T5a6D55Sf55qEIGRhZW1vbiDnq4vliLvooqsgUElEIDEg5pS26aSK77yM6ICM6YCZ5pmCIGNvbnRhaW5lcmQg6YKE5rS76JGX44CC5paw55qEIHByb2Nlc3MgZ3JvdXAg5piv5Y+m5LiA5Lu25LqL77yM5b6M6Z2i5pyD6Kyb44CCCgrluLjogb3liLDkuIDnqK7oqqrms5XvvJpwYXJlbnQg57WQ5p2f77yMY2hpbGQg5Lmf5pyD6Lef6JGX57WQ5p2f44CCTGludXgg5LiN5piv6YCZ5qij6YGL5L2c55qE44CCCgo+IHBhcmVudCDntZDmnZ8g4oaSIGNoaWxkIOiiqyBQSUQgMSDmlLbppIog4oaSIGNoaWxkIOe5vOe6jOi3kQoK6YCZ5YCL6Kqq5rOV5L6G6IeqIHNoZWxs44CCdGVybWluYWwg6KKr6Zec5o6J5pmC77yMYmFzaCDmnIPmlLbliLAgYFNJR0hVUGDvvIzntZDmnZ/liY3lroPmnIPmioogYFNJR0hVUGAg6L2J6YCB57Wm6Ieq5bex55qEIGpvYu+8jOiAjCBgU0lHSFVQYCDnmoTpoJDoqK3lj43mh4nmmK/ntZDmnZ/vvIhbYmFzaCBtYW51YWxdKGh0dHBzOi8vd3d3LmdudS5vcmcvc29mdHdhcmUvYmFzaC9tYW51YWwvaHRtbF9ub2RlL1NpZ25hbHMuaHRtbCnvvInjgILpgqPkupsgY2hpbGQg5piv6KKrIGJhc2gg6YCB5L6G55qEIHNpZ25hbCDntZDmnZ/nmoTvvIzkuI3mmK/lm6DngrogcGFyZW50IOe1kOadn+S6huOAgumAmeaYryBzaGVsbCDnmoTooYzngrrvvIzkuI3mmK8ga2VybmVsIOeahOOAggoKc3RhcnQg57WQ5p2f5pmC5LiN6YCB5Lu75L2VIHNpZ25hbO+8jOWug+S5n+S4jeaYryBzaGVsbO+8jOaJgOS7pSBkYWVtb24g5Y+q5piv6K6K5oiQ5a2k5YWS77yM57m857qM6LeR44CCCgpgYGAK5LmL5YmN77yI5YmbIGZvcmsg5a6M77yJ77yaCgogIGNvbnRhaW5lcmQgKFBJRCA1MDApCiAgICDilJTilIDilIAgY29udGFpbmVyZC1zaGltLXJ1bmMtdjIgc3RhcnQgKFBJRCA1MDEpCiAgICAgICAgICDilJTilIDilIAgY29udGFpbmVyZC1zaGltLXJ1bmMtdjIgKFBJRCA1MDIpCmBgYAoKYGBgCuS5i+W+jO+8iHN0YXJ0IOe1kOadn+S6hu+8ie+8mgoKICBjb250YWluZXJkIChQSUQgNTAwKSAgICAgICAgICAgICAg4oaQIOW6leS4i+W3sue2k+aykuaciSBjaGlsZAogIHN5c3RlbWQgKFBJRCAxKQogICAg4pSU4pSA4pSAIGNvbnRhaW5lcmQtc2hpbS1ydW5jLXYyIChQSUQgNTAyKSAgIOKGkCDooqsgUElEIDEg5pS26aSKCiAgICAgICAgICDilJTilIDilIAgY29udGFpbmVyIOeahOeoi+W8jyAoUElEIDUwMykKYGBgCgrlvp7mraQgYGNvbnRhaW5lcmRgIOi3nyBgY29udGFpbmVyZC1zaGltLXJ1bmMtdjJgIOS4jeaYr+eItuWtkOOAgnNvY2tldCDmlrfkuoblj6/ku6Xlho3mjqXvvIxwcm9jZXNzIOeahOimquWtkOmXnOS/guWNu+aykui+puazlemAmeaoo+mHjeaWsOaOpeS4iuOAggoK6Zmk5LqG6ISr6Zui6Kaq5a2Q6Zec5L+C77yMc2hpbSDpgoTnlKjlj6blpJblhannqK7mlrnms5XvvIzpgb/lhY3ooqsgY29udGFpbmVyZCDpgKPntK/vvJoKCnwg566h55qE56+E5ZyNIHwg5YGa5rOVIHwg6Ziy55qE5pivIHwKfC0tLXwtLS18LS0tfAp8IHByb2Nlc3Mg55qE6Kaq5a2Q6Zec5L+CIHwg6KKrIFBJRCAxIOaUtumkiiB8IOWkseWOuyBwYXJlbnTvvIxgd2FpdHBpZGAg55qE6Zec5L+C6Lef6JGX5pa35o6JIHwKfCBwcm9jZXNzIGdyb3VwIHwgYHNldHBnaWRgIHwgYEN0cmwrQ2Ag5oiWIGBraWxsIC08cGdpZD5gIOmAmeeorumAgee1puaVtOe1hCBwcm9jZXNzIOeahCBzaWduYWwgfAp8IGNncm91cCB8IGBLaWxsTW9kZT1wcm9jZXNzYCB8IGBzeXN0ZW1jdGwgc3RvcGAg5oqK5ZCM5LiA5YCLIGNncm91cCDoo6HnmoQgcHJvY2VzcyDlhajpg6gga2lsbCDmjokgfAoKPGRldGFpbHM+CjxzdW1tYXJ5Pua3seWFpe+8mueCuuS7gOm6vOS4jSBmb3JrIOS4gOasoeWwseWlve+8nzwvc3VtbWFyeT4KCuWPqiBmb3JrIOS4gOasoeeahOipse+8jHNoaW0g5bCx5pivIGNvbnRhaW5lcmQg55qEIGNoaWxk77yMdjEg55qEIHNoaW0g5bCx5piv6YCZ5qij77yI6KaL5pyA5b6M5LiA56+A77yJ44CC5LiN5pyD5aOe5o6J77yMc3lzdGVtZCDkuIDmqKPmnIPmlLblraTlhZLvvIzlj6/mmK8gY29udGFpbmVyZCDmnIPlpJrlh7rkuI3oqbLmnInnmoTosqDmk5TvvJrmr4/lgIsgc2hpbSDntZDmnZ/pg73mnIPpgIEgYFNJR0NITERgIOe1puWug++8jOWug+eahCBjaGlsZCDmuIXllq7oo6HlhajmmK8gc2hpbeOAgumHjeWVn+S5i+W+jO+8jOaWsOeahCBjb250YWluZXJkIOS5n+aykui+puazlSBgd2FpdHBpZCgpYCDpgqPkupvlt7LntpPkuI3mmK/lroMgY2hpbGQg55qEIHNoaW3vvIxMaW51eCDmspLmnInmj5DkvpvmlLnoroogcGFyZW50IOeahOaWueazleOAggoK5Lmf6Kix5pyD5oOz77yM5Y+N5q2jIGNvbnRhaW5lcmQg5ZOq5aSp57WQ5p2f5pmC77yMc2hpbSDkuIDmqKPmnIPooqsgUElEIDEg5pS26aSK77yM5pyA5b6M55qE54uA5oWL5LiN5piv5LiA5qij5ZeO77yf5pyA5b6M56K65a+m5LiA5qij77yM5Y+v5piv5Zyo6YKj5LmL5YmN77yMY29udGFpbmVyZCDmr4/nlJ/kuIDlgIsgc2hpbe+8jOWcqCBjb250YWluZXJkIOe1kOadn+S5i+WJjemDveW+l+aKiuWug+eVtiBjaGlsZCDnrqHvvIzmiYDku6XliY3kuIDmrrXorJvnmoTpgqPkupvosqDmk5Tpg73okL3lnKggY29udGFpbmVyZCDouqvkuIrjgIJkb3VibGUgZm9yayDorpPmr4/lgIsgc2hpbSDkuIDlh7rnlJ/lsLHooqsgUElEIDEg5pS26aSK77yMY29udGFpbmVyZCDlvp7kvobkuI3nlKjnrqHlroPlgJHjgIIKCj4g6YCZ5q615piv5b6eIGRvdWJsZSBmb3JrIOeahOWBmuazleOAgVtpeGltaXV6IOeahCBzaGltIOWvpuS9nOaWh10oaHR0cHM6Ly9peGltaXV6LmNvbS9lbi9wb3N0cy9pbXBsZW1lbnRpbmctY29udGFpbmVyLXJ1bnRpbWUtc2hpbS8p44CBW0NvbnRhaW5lcjQyIOeahOiqquaYjl0oaHR0cHM6Ly9jb250YWluZXI0Mi5jb20vMjAyMi8wMS8xMC9zaGltLXNoaW1pbmV5LXNoaW0tc2hpbWluZXkvKeaOqOWHuuS+hueahO+8jGNvbnRhaW5lcmQg55qE5paH5Lu25rKS5pyJ55u05o6l5a+r44CCCgo8L2RldGFpbHM+Cgo8ZGV0YWlscz4KPHN1bW1hcnk+5rex5YWl77yacHJvY2VzcyBncm91cCDot58gY2dyb3VwPC9zdW1tYXJ5PgoK6KGo5qC856ys5LqM5YiX6Kyb55qE5pivIHNpZ25hbOOAgmRhZW1vbiDllZ/li5XmmYLnlKggYHNldHBnaWRgIOaUvumAsuiHquW3seeahCBwcm9jZXNzIGdyb3Vw77yIY29udGFpbmVyZCDnmoTnqIvlvI/norzlnKggW2BtYW5hZ2VyX2xpbnV4LmdvYF0oaHR0cHM6Ly9naXRodWIuY29tL2NvbnRhaW5lcmQvY29udGFpbmVyZC9ibG9iL21haW4vY21kL2NvbnRhaW5lcmQtc2hpbS1ydW5jLXYyL21hbmFnZXIvbWFuYWdlcl9saW51eC5nbykg6Kit5LqGIGBTZXRwZ2lkOiB0cnVlYO+8ieOAgumAgee1puS4gOaVtOe1hOeahCBzaWduYWwg5piv55yLIHByb2Nlc3MgZ3JvdXAg6YCB55qE77yM5omA5Lul5aaC5p6cIHNoaW0g6LefIGNvbnRhaW5lcmQg5Zyo5ZCM5LiA57WE77yMYGtpbGwgLTxwZ2lkPmDvvIjmiJYgY29udGFpbmVyZCDot5HlnKjliY3mma8gdGVybWluYWwg5pmC5oyJ55qEIEN0cmwrQ++8ieacg+mAoyBzaGltIOS4gOi1t+mAgeWIsOOAggoK56ys5LiJ5YiXIGNncm91cCDlj4jmmK/lj6bkuIDlm57kuovjgIJgc2V0cGdpZGAg5Y+q5o+bIHByb2Nlc3MgZ3JvdXDvvIzkuI3mnIPmj5sgY2dyb3Vw77yM6ICMIGBzeXN0ZW1jdGwgc3RvcGAg6aCQ6Kit5pyD5oqK5pW05YCLIGNncm91cCDoo6HnmoQgcHJvY2VzcyDpg70ga2lsbCDmjonvvIxzaGltIOS5n+WcqCBjb250YWluZXJkIOeahCBjZ3JvdXAg6KOh44CC5omA5LulIGBjb250YWluZXJkLnNlcnZpY2VgIOioreS6hiBgS2lsbE1vZGU9cHJvY2Vzc2DvvIzlgZzmjokgY29udGFpbmVyZCDmmYLlj6oga2lsbCBjb250YWluZXJkIOacrOi6q++8jOS4jeWLlei3n+Wug+WFseeUqCBjZ3JvdXAg55qEIHNoaW3jgIIKCjwvZGV0YWlscz4KCi0tLQoKIyMgc2hpbSDlubPluLjlnKjlgZrku4DpurwKCnJ1bmMg57WQ5p2f44CBY29udGFpbmVyIOmWi+Wni+i3keS5i+W+jO+8jGBjb250YWluZXJkLXNoaW0tcnVuYy12MmAg5b6F5Zyo6YKj6KOh5YGa5LiJ5Lu25LqL77yaCgp8IOW3peS9nCB8IOmAj+mBjuS7gOm6vCB8IOeCuuS7gOm6vCB8CnwtLS18LS0tfC0tLXwKfCDmi7/okZcgc3RkaW7jgIFzdGRvdXTjgIFzdGRlcnIgfCBmaWxlIGRlc2NyaXB0b3IgfCDovLjlh7rntpPpgY4gY29udGFpbmVyZCDlr6vmiJAgbG9nIOaqlOe1piBga3ViZWN0bCBsb2dzYCDoroDvvJtga3ViZWN0bCBhdHRhY2hgIOS5n+imgemdoOWug+aOpeS4iiB8CnwgY29udGFpbmVyIOe1kOadn+aZguWRvOWPqyBgd2FpdCgpYCB8IHByb2Nlc3Mg55qE6Kaq5a2Q6Zec5L+CIHwg5pS25LiLIGV4aXQgY29kZe+8jGBrdWJlY3RsIGdldCBwb2RgIOaJjeiDvemhr+ekuiBgQ29tcGxldGVkYCDmiJYgYEVycm9yYCB8Cnwg5Zue5aCxIGNvbnRhaW5lcmTjgIHmjqXmlLbmjIfku6QgfCB0dHJwYyBzb2NrZXQgfCBjb250YWluZXJkIOacg+WVj+OAjOmChOWcqOi3keWXjuOAje+8jOaIluWPq+Wug+OAjOWBnOaOieOAjSB8Cgrlj6rmnIkgcGFyZW50IOiDveaUtuS4iyBjaGlsZCDnmoQgZXhpdCBjb2Rl77yM5omA5LulIHNoaW0g55qEIGB3YWl0cGlkKClgIOmdoOeahOaYr+imquWtkOmXnOS/guOAguaUtuWIsOeahCBleGl0IGNvZGUg57aT6YGOIGNvbnRhaW5lcmQg5YKz5YiwIGt1YmVsZXTvvIzlsLHmmK8gYGt1YmVjdGwgZ2V0IHBvZGAg55yL5Yiw55qEIFBvZCDni4DmhYvjgILlm57loLHotbDnmoTmmK/lj6bkuIDmop3ot6/vvIzkuZ/lsLHmmK/lj6/ku6Xmlrfnt5rph43pgKPnmoQgdHRycGMgc29ja2V044CCCgrlpoLmnpwgY29udGFpbmVyZCDnlbbmjonvvIxzaGltIOeFp+aoo+aUtuW+l+WIsCBleGl0IGNvZGXvvIzlm6DngrropqrlrZDpl5zkv4LpgoTlnKjvvIzlj6rmmK/mmqvmmYLmspLovqbms5Xlm57loLHvvIzlsLHlg4/kv53mr43miZPpm7voqbHntabniLjlqr3mspLkurrmjqXjgILnrYnmlrDnmoQgY29udGFpbmVyZCDmioogc29ja2V0IOaOpeWbnuS+hu+8jHNoaW0g5YaN5oqK57WQ5p6c5Lqk5Ye65Y6744CC5pS2IGV4aXQgY29kZSDot5/lm57loLHmmK/lhanku7bkupLkuI3lvbHpn7/nmoTkuovjgIIKCnNoaW0g5aSn6YOo5YiG5pmC6ZaT6YO96ZaS6JGX77yM6ICM6ZaS6JGX5piv5Zyo562J77yM5LiN5piv5LiA55u06Lyq6Kmi44CCc2hpbSDmioogYFNJR0NITERgIOWKoOmAsuiHquW3seiZleeQhueahCBzaWduYWzvvIzku7vkvZXkuIDlgIsgY2hpbGQg57WQ5p2f5pmC77yMa2VybmVsIOWwsemAgeS4gOWAiyBgU0lHQ0hMRGAg57Wm5a6D44CCc2hpbSDmlLbliLDlvozlkbzlj6sgYHJlYXBlci5SZWFwKClg77yM55SoIGB3YWl0NCgtMSwgLi4uLCBXTk9IQU5HKWAg55qE6L+05ZyI5oqK5omA5pyJ5bey57aT57WQ5p2f55qEIGNoaWxkIOS4gOasoeaUtuWujO+8jOS4jeeuoeWxrOaWvOWTquWAiyBjb250YWluZXLvvIzlho3miormr4/lgIsgZXhpdCBzdGF0dXMg5Lqk57Wm6KiC6Zax55qE5Lq677yIW2Bwa2cvc2hpbS9zaGltX3VuaXguZ29gXShodHRwczovL2dpdGh1Yi5jb20vY29udGFpbmVyZC9jb250YWluZXJkL2Jsb2IvbWFpbi9wa2cvc2hpbS9zaGltX3VuaXguZ28p44CBW2Bwa2cvc3lzL3JlYXBlci9yZWFwZXJfdW5peC5nb2BdKGh0dHBzOi8vZ2l0aHViLmNvbS9jb250YWluZXJkL2NvbnRhaW5lcmQvYmxvYi9tYWluL3BrZy9zeXMvcmVhcGVyL3JlYXBlcl91bml4LmdvKe+8ieOAguS4gOWAiyBQb2Qg5pyJ5aW95bm+5YCLIGNvbnRhaW5lcu+8jOS5n+WPquaYr+S4gOWAiyBzaWduYWwgaGFuZGxlciDlnKjomZXnkIbvvIzmiYDku6Ugc2hpbSDpmqjmmYLpg73og73lm57mh4kgc29ja2V0IOS4iueahOiri+axguOAggoKPGRldGFpbHM+CjxzdW1tYXJ5Pua3seWFpe+8mmNvbnRhaW5lciDngrrku4Dpurzmrbggc2hpbe+8jOS4jeatuCBQSUQgMTwvc3VtbWFyeT4KCumChOacieS4gOWAi+WVj+mhjOaykuino+axuuOAgnJ1bmMg5ZWf5YuVIGNvbnRhaW5lciDkuYvlvozlsLHntZDmnZ/kuobvvIznhafliY3pnaLorJvnmoTlraTlhZLopo/liYfvvIxjb250YWluZXIg5oeJ6Kmy6Lef5YW25LuW5a2k5YWS5LiA5qij6KKrIFBJRCAxIOaUtumkiuOAguecn+eahOmCo+aoo+eahOipse+8jHNoaW0g5bCx5rKS6L6m5rOVIGB3YWl0cGlkKClgIOWug++8jGV4aXQgY29kZSDkuZ/lsLHmlLbkuI3liLDkuobjgIIKCnNoaW0g5LiA5ZWf5YuV5bCx5oqK6Ieq5bex5qiZ5oiQICoqc3VicmVhcGVyKirvvIznlKjnmoTmmK/vvJoKCmBgYApwcmN0bChQUl9TRVRfQ0hJTERfU1VCUkVBUEVSLCAxKQpgYGAKCumAmeaUueiuiuS6huWug+W6leS4i+aJgOacieW+jOS7o+eahOimj+WJh+OAgnJ1bmMg57WQ5p2f5pmC77yMY29udGFpbmVyIOS4jeacg+S4gOi3r+iiq+S6pOWIsCBQSUQgMe+8jOiAjOaYr+S6pOe1puacgOi/keS4gOWAi+ioreS6hiBzdWJyZWFwZXIg55qE56WW5YWI77yM5Lmf5bCx5pivIHNoaW3jgILnlKjloLTmma/kvoboqqrvvIzkv53mr43kuovlhYjnmbvoqJjmiJDnm6PorbfkurrvvIzphqvnlJ/pm6LplovlvozvvIzlranlrZDlsLHnlZnlnKjkv53mr43ouqvpgorvvIzkuI3mnIPooqvpgIHljrvnpL7npo/mqZ/mp4vjgIJjb250YWluZXIg55WZ5ZyoIHNoaW0g5bqV5LiL77yMYHdhaXRwaWQoKWAg5Lmf5bCx54Wn5bi46IO955So44CCCgpzaGltIOS4iumdouaykuacieS7u+S9lSBzdWJyZWFwZXLvvIzmiYDku6XlroPkuIDot6/ooqvkuqTliLAgUElEIDHvvIzohKvpm6IgY29udGFpbmVyZOOAgmNvbnRhaW5lciDkuIrpnaLmnIkgc2hpbSDpgJnlgIsgc3VicmVhcGVy77yM5omA5Lul5a6D55WZ5Zyo5Y6f5Zyw44CCCgo8L2RldGFpbHM+Cgo8ZGV0YWlscz4KPHN1bW1hcnk+5rex5YWl77yaa2VybmVsIOi3nyBzeXN0ZW1k77yM6Kqw6YCa55+l6KqwPC9zdW1tYXJ5PgoKa2VybmVsIOi3nyBgc3lzdGVtZGAg5LiN5piv5ZCM5LiA5YCL5p2x6KW/44CCa2VybmVsIOaYr+S9nOalreezu+e1seeahOaguOW/g++8jOi3keWcqCBrZXJuZWwgc3BhY2XvvJtgc3lzdGVtZGAg5piv5LiA5YCL5pmu6YCa55qEIHByb2Nlc3PvvIhQSUQgMe+8ie+8jOi3keWcqCB1c2VyIHNwYWNl44CCCgrpgJrnn6XkuIDlvovkvoboh6oga2VybmVs77yMYHN5c3RlbWRgIOWPquaYr+WtpOWFkuacgOW+jOeahOaUtumkiuiAhe+8mgoKfCDnmbznlJ/ku4DpurwgfCDoqrDomZXnkIYgfAp8LS0tfC0tLXwKfCBjb250YWluZXIg57WQ5p2fIHwga2VybmVsIOWPq+mGkiBgY29udGFpbmVyZC1zaGltLXJ1bmMtdjJgIHwKfCBgY29udGFpbmVyZC1zaGltLXJ1bmMtdjJgIOe1kOadnyB8IGtlcm5lbCDlj6vphpIgYHN5c3RlbWRgIHwKfCBgc3lzdGVtZGAg57WQ5p2fIHwga2VybmVsIHBhbmlj77yM5pW05Y+w5qmf5Zmo5YGc5pO6IHwKCmBzeXN0ZW1kYCDmmK/ooqvli5XnmoTmlLbppIrogIXvvIxgY29udGFpbmVyZC1zaGltLXJ1bmMtdjJgIOaYr+S4u+WLleeahOeFp+mhp+iAheOAgmBzeXN0ZW1kYCDkuI3nn6XpgZPkuZ/kuI3lnKjkuY4gYGNvbnRhaW5lcmQtc2hpbS1ydW5jLXYyYCDmmK/ku4DpurzvvIzmlLbppIrnmoQgY2hpbGQg57WQ5p2f5pmC77yM5a6D5ZG85Y+rIGB3YWl0KClgIOaUtuaOieWwseWlveOAgmBjb250YWluZXJkLXNoaW0tcnVuYy12MmAg5riF5qWa6Ieq5bex5Zyo6aGn5LuA6bq877yM5pyD5oqKIGV4aXQgY29kZSDlm57loLHntaYgY29udGFpbmVyZOOAggoKPC9kZXRhaWxzPgoKLS0tCgojIyB2MSDihpIgdjLvvJrlpJrkuoYgZG91YmxlIGZvcmvvvIxwcm9jZXNzIOS5n+WwkeS6hgoKdjEg6LefIHYyIOeahCBzaGltIOmDveaLv+iRlyBzdGRpb+OAgeeUqCBgd2FpdGAg5pS2IGV4aXQgY29kZe+8jOS5n+mDveaKiuiHquW3seioreaIkCBzdWJyZWFwZXLjgIJ2MSDmspLmnIkgZG91YmxlIGZvcmvvvJpjb250YWluZXJkIOebtOaOpeWVn+WLlSBgY29udGFpbmVyZC1zaGltYCDnlbYgY2hpbGTvvIzoh6rlt7EgYFdhaXRgIOWug++8jGNvbnRhaW5lcmQg57WQ5p2f5pmCIHNoaW0g5omN6KKrIFBJRCAxIOaUtumkiu+8iFt2MS4yLjAg55qEIGBjbGllbnQuZ29gXShodHRwczovL2dpdGh1Yi5jb20vY29udGFpbmVyZC9jb250YWluZXJkL2Jsb2IvdjEuMi4wL3J1bnRpbWUvdjEvc2hpbS9jbGllbnQvY2xpZW50LmdvKeOAgVtgc2hpbV9saW51eC5nb2BdKGh0dHBzOi8vZ2l0aHViLmNvbS9jb250YWluZXJkL2NvbnRhaW5lcmQvYmxvYi92MS4yLjAvY21kL2NvbnRhaW5lcmQtc2hpbS9zaGltX2xpbnV4LmdvKe+8ieOAguaJgOS7peWcqOmChOi3kSB2MSDnmoQgbm9kZSDkuIrvvIxzaGltIOaYr+aOm+WcqCBjb250YWluZXJkIOW6leS4i++8jOS4jeaYryBQSUQgMSDlupXkuIvjgIJ2MiDliqDkuoYgYHN0YXJ0YCDpgJnkuIDmraXvvIzlj6blpJbkuZ/mlLnkuobopoHot5HlpJrlsJHlgIsgc2hpbSBwcm9jZXNz77yaCgoqKnYx77ya5q+P5YCLIGNvbnRhaW5lciDkuIDlgIsgYGNvbnRhaW5lcmQtc2hpbWAqKgoK5ZyoIENSSSDlupXkuIvvvIzmr4/lgIsgUG9kIOmZpOS6huaHieeUqOeahCBjb250YWluZXLvvIzpgoTmnInkuIDlgIsgc2FuZGJveO+8iHBhdXNl77yJY29udGFpbmVy77yMdjEg5Lmf5pu/5a6D6ZaL5LiA5YCLIHNoaW3vvIhbb3BlbkV1bGVy77yac2hpbSB2MSB2cyB2Ml0oaHR0cHM6Ly93d3cub3BlbmV1bGVyLm9yZy9lbi9ibG9nL2dhb2h1YXRhby8yMDIxLTA0LTA5LWlzdWxhZC1zaGltdjEtc2hpbXYyLWRpZmYp77yJ44CCCgotIDMg5YCLIGNvbnRhaW5lciDnmoQgUG9kIOKGkiA0IOWAiyBgY29udGFpbmVyZC1zaGltYO+8iDMg5YCL5Yqg5LiKIHBhdXNlIGNvbnRhaW5lcu+8iQotIOS4gOWPsCBOb2RlIOi3kSAzMCDlgIsgUG9k77yM5q+P5YCL5bmz5Z2HIDIg5YCLIGNvbnRhaW5lciDihpIgOTAg5YCLIGBjb250YWluZXJkLXNoaW1gCgoqKnYy77ya5q+P5YCLIFBvZCDkuIDlgIsgYGNvbnRhaW5lcmQtc2hpbS1ydW5jLXYyYCoqCgotIDMg5YCLIGNvbnRhaW5lciDnmoQgUG9kIOKGkiAxIOWAiyBgY29udGFpbmVyZC1zaGltLXJ1bmMtdjJgIOeuoeWFqOmDqAotIDMwIOWAiyBQb2Qg4oaSIDMwIOWAiyBgY29udGFpbmVyZC1zaGltLXJ1bmMtdjJg77yI5LiN5pivIDkwIOWAi++8iQoK5YWp5YCL54mI5pys6YO955SoIHR0cnBjIOi3nyBjb250YWluZXJkIOa6nemAmuOAgnR0cnBjIOaYryBjb250YWluZXJkIOiHquW3seWBmueahOi8lemHj+eJiCBnUlBD77yM5ou/5o6J5LqGIGBuZXQvaHR0cGDjgIFIVFRQLzIg6LefIGdycGMg5aWX5Lu277yM5o+b5oiQ57Ch5Zau55qE5bCB5YyF5qC85byP77yM5Z+36KGM5qqU5q+U6LyD5bCP77yM6KiY5oa26auU5Lmf55So5b6X5bCR77yIW3R0cnBjIFJFQURNRV0oaHR0cHM6Ly9naXRodWIuY29tL2NvbnRhaW5lcmQvdHRycGMp77yJ44CCdjIg55qE6YCy5q2l5ZyoIHByb2Nlc3Mg5pW46YeP77yM5LiN5Zyo5YKz6Ly45pa55byP44CCc2hpbSDmlLnnlKggZ1JQQyDmmK8gY29udGFpbmVyZCAxLjcg5LmL5b6M5omN5pyJ55qE6YG46aCF77yMY29udGFpbmVyZCDnmoTmlofku7bliLDnj77lnKjpgoTlr6vokZflroPmmK/lr6bpqZflip/og73vvIzlu7rorbDnlKggdHRycGPvvIhbcnVudGltZSB2MiDmlofku7ZdKGh0dHBzOi8vZ2l0aHViLmNvbS9jb250YWluZXJkL2NvbnRhaW5lcmQvYmxvYi9tYWluL2RvY3MvcnVudGltZS12Mi5tZCnvvInjgIIKCuWRveWQjeimj+WJh+S5n+iukyBydW50aW1lIOWPr+S7peabv+aPm+OAgmNvbnRhaW5lcmQg5pyD5oqKIGBydW50aW1lX3R5cGVgIOi9ieaIkOWft+ihjOaqlOeahOWQjeWtl++8mgoKLSBgaW8uY29udGFpbmVyZC5ydW5jLnYyYCDihpIgYGNvbnRhaW5lcmQtc2hpbS1ydW5jLXYyYCDihpIg55SoIGBydW5jYO+8iOmgkOiore+8iQotIGBpby5jb250YWluZXJkLnJ1bnNjLnYxYCDihpIgYGNvbnRhaW5lcmQtc2hpbS1ydW5zYy12MWAg4oaSIOeUqCBnVmlzb3LvvIhbZ1Zpc29yIGNvbnRhaW5lcmQgcXVpY2sgc3RhcnRdKGh0dHBzOi8vZ3Zpc29yLmRldi9kb2NzL3VzZXJfZ3VpZGUvY29udGFpbmVyZC9xdWlja19zdGFydC8p77yJCi0gYGlvLmNvbnRhaW5lcmQua2F0YS52MmAg4oaSIGBjb250YWluZXJkLXNoaW0ta2F0YS12MmAg4oaSIOeUqCBLYXRhCgrliqDkuIDlgIsgcnVudGltZSDopoHkuInmraXvvJrmiorlroPnmoQgc2hpbSDot58gcnVudGltZSDln7fooYzmqpTmlL7kuIogTm9kZe+8jOWcqCBjb250YWluZXJkIOeahOioreWumuaqlOiou+WGiuS4gOWAi+eUqOmAmeWAiyBgcnVudGltZV90eXBlYCDnmoQgaGFuZGxlcu+8jOWGjeW7uuS4gOWAi+aMh+WQkemAmeWAiyBoYW5kbGVyIOeahCBSdW50aW1lQ2xhc3PjgIJQb2Qg6Kit5LqGIGBydW50aW1lQ2xhc3NOYW1lYO+8jOWwseacg+eUqOmCo+WAiyBzaGlt44CCZ1Zpc29yIOeahOWujOaVtOS+i+WtkOWvq+WcqFvjgIhrZXJuZWwg5pyJ5ryP5rSe55qE5pmC5YCZ77yMY29udGFpbmVyIOS5i+mWk+mdoOS7gOm6vOmalOmWi+OAiV0oL3YyL2NvbnRhaW5lci1rZXJuZWwtaXNvbGF0aW9uKeOAggoKLS0tCgojIyDlj4PogIPos4fmlpkKCi0gW0ltcGxlbWVudGluZyBDb250YWluZXIgUnVudGltZSBTaGltOiBydW5jIChpeGltaXV6KV0oaHR0cHM6Ly9peGltaXV6LmNvbS9lbi9wb3N0cy9pbXBsZW1lbnRpbmctY29udGFpbmVyLXJ1bnRpbWUtc2hpbS8p77yac2hpbSDmgI7purzorormiJAgZGFlbW9u44CBZG91YmxlIGZvcmvjgIFzdGRpbyDnmoTnlJ/lkb3pgLHmnJ8KLSBbU2hpbS1zaGltaW5leSBTaGltLXNoaW1pbmV5IChDb250YWluZXI0MildKGh0dHBzOi8vY29udGFpbmVyNDIuY29tLzIwMjIvMDEvMTAvc2hpbS1zaGltaW5leS1zaGltLXNoaW1pbmV5LynvvJpjb250YWluZXJkIOeCuuS7gOm6vOmcgOimgSBzaGlt44CB6LefIGNvbnRhaW5lcmQg55qE55Sf5ZG96YCx5pyf5YiG6ZaL44CBbGl2ZSByZXN0b3JlCi0gW2NvbnRhaW5lcmQgcnVudGltZSB2MiDmlofku7bvvIjlrpjmlrnvvIxzaGltIEFQSSDot58gdHRycGPvvIldKGh0dHBzOi8vZ2l0aHViLmNvbS9jb250YWluZXJkL2NvbnRhaW5lcmQvYmxvYi9tYWluL2RvY3MvcnVudGltZS12Mi5tZCkKLSBbdHRycGMgUkVBRE1FXShodHRwczovL2dpdGh1Yi5jb20vY29udGFpbmVyZC90dHJwYykKLSBbQ29udGFpbmVyZOe7hOS7tiAtIGNvbnRhaW5lcmQtc2hpbS1ydW5jLXYy5L2c55SoIChjbmJsb2dzKV0oaHR0cHM6Ly93d3cuY25ibG9ncy5jb20vemhhbmdtaW5nY2hlbmcvcC8xNzUyNDcyMS5odG1sKQotIFtab21iaWUgcHJvY2VzcyAoV2lraXBlZGlhKV0oaHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvWm9tYmllX3Byb2Nlc3Mp77yaem9tYmllIOi3n+WtpOWFkueahOW3ruWIpeOAgXByb2Nlc3MgdGFibGXjgIFQSUQg6ICX55uhCi0gW0Jhc2ggbWFudWFsOiBTaWduYWxzXShodHRwczovL3d3dy5nbnUub3JnL3NvZnR3YXJlL2Jhc2gvbWFudWFsL2h0bWxfbm9kZS9TaWduYWxzLmh0bWwpCi0gW1doYXQgYXJlIHRoZSBkaWZmZXJlbmNlcyBiZXR3ZWVuIHJ1bmMgdjEgYW5kIHYyPyAoY29udGFpbmVyZCBEaXNjdXNzaW9uICM3NDA3KV0oaHR0cHM6Ly9naXRodWIuY29tL2NvbnRhaW5lcmQvY29udGFpbmVyZC9kaXNjdXNzaW9ucy83NDA3KQotIFtTaGltIHYxIHZzIHYyIGFyY2hpdGVjdHVyZSBjb21wYXJpc29uIChvcGVuRXVsZXIsIEthdGEgcGVyc3BlY3RpdmUpXShodHRwczovL3d3dy5vcGVuZXVsZXIub3JnL2VuL2Jsb2cvZ2FvaHVhdGFvLzIwMjEtMDQtMDktaXN1bGFkLXNoaW12MS1zaGltdjItZGlmZi5odG1sKQo=17:T57cd,<p><code>kubelet</code> calls <code>containerd</code>, and a container appears. But between that call and the running container, three processes do a relay. One of them is created to die.</p>
+<p>Think of it as looking after a newborn. Each role maps to a real process:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Role in the picture</th><th>Process</th><th>What it does</th></tr></thead><tbody><tr><td>The child</td><td>The program in the container, e.g. nginx</td><td>Needs someone looking after it all the time</td></tr><tr><td>The doctor who delivers it</td><td><code>runc</code></td><td>Delivers the child, then leaves</td></tr><tr><td>The parents</td><td><code>containerd</code></td><td>Have jobs and are sometimes away (upgrades, restarts)</td></tr><tr><td>The nanny</td><td><code>containerd-shim-runc-v2</code></td><td>Stays with the child and phones the parents when something happens</td></tr><tr><td>The agency that sends the nanny</td><td><code>containerd-shim-runc-v2 start</code></td><td>Brings the nanny, leaves her phone number, and goes</td></tr><tr><td>Social services</td><td><code>systemd</code> (PID 1)</td><td>Takes in every child with no parent</td></tr></tbody></table>
+<p>A PID is the number Linux gives each process; PID 1 is the first process after boot, usually systemd.</p>
+<p>The whole relay:</p>
+<pre><code>kubectl set image deployment/api api=api:v2
+  │
+  ① kubectl → API Server → etcd (write new image)
+  ② Deployment Controller → creates new ReplicaSet
+  ③ ReplicaSet Controller → creates Pod objects
+  ④ Scheduler → assigns Pod to a Node
+  ⑤ kubelet picks up the Pod
+  │
+  ▼
+containerd
+  │ fork + exec
+  ▼
+containerd-shim-runc-v2 start   (the agency, short-lived)
+  │ re-execs itself, then exits (double fork)
+  ▼
+containerd-shim-runc-v2 (the nanny) ← reparented to PID 1
+  │ fork + exec (runc runs as the shim's child; the shim stays)
+  ▼
+runc
+  │ set up namespaces, cgroups, pivot_root
+  │ start container process
+  │ exit (job done)
+  ▼
+container process (running)
+  parent = containerd-shim-runc-v2
+  grandparent = systemd (PID 1)
+</code></pre>
+<pre><code>Steady state (the start launcher and runc both exited):
+
+systemd (PID 1)
+  ├── containerd                         ← the parents, talk over a ttrpc socket
+  └── containerd-shim-runc-v2           ← the nanny, asleep until SIGCHLD
+          └── nginx (container PID 1)    ← the child
+</code></pre>
+<p><code>containerd</code> and <code>containerd-shim-runc-v2</code> are siblings under <code>systemd</code>, not parent and child. They talk over a ttrpc socket, the way the nanny phones the parents, not through the parent-child relationship between processes. <code>nginx</code> shows PID 1 inside the container's PID namespace. From the host, it has a normal PID like 50321.</p>
+<blockquote>
+<p>This is <code>containerd</code>'s internal machinery. K8s doesn't know any of this exists. For how K8s got to <code>containerd</code> in the first place, see <a href="/v2/container-runtime-evolution">K8s needed Docker. Then it didn't.</a>.</p>
+</blockquote>
+<hr>
+<h2><code>runc</code>: delivers, then leaves</h2>
+<p><code>runc</code> is a CLI tool that builds containers. It sets up Linux namespaces (what the container can see) and cgroups (how much CPU and memory it can use), switches the root filesystem with <code>pivot_root</code> (it falls back to <code>chroot</code> only when run with <code>--no-pivot</code>), starts the container's program, and then exits.</p>
+<p>The container keeps running even though <code>runc</code> has already exited. Every process has a parent, the process that created it. So which process is the container's parent now?</p>
+<hr>
+<h2>Why each layer exists</h2>
+<p>The container needs a long-lived parent that does three things:</p>
+<ul>
+<li>Holds its stdin, stdout and stderr and passes the output to <code>containerd</code>, which writes it to a log file on the node; <code>kubectl logs</code> reads that file (<a href="https://github.com/containerd/containerd/blob/main/internal/cri/io/logger.go">containerd's CRI logger</a>)</li>
+<li>Calls <code>waitpid()</code> when the container dies and passes the exit code up, so <code>kubectl get pod</code> can show <code>Completed</code> or <code>Error</code></li>
+<li>Answers <code>containerd</code>'s queries, such as <code>kubectl exec</code> and status checks</li>
+</ul>
+<p><code>runc</code> can't do this. It already exited.</p>
+<p>Could <code>containerd</code> be the parent? It could, but <code>containerd</code> gets restarted for version upgrades, security patches and config changes. If <code>containerd</code> were the container's parent, then when <code>containerd</code> exits the container is orphaned and adopted by PID 1, and the restarted <code>containerd</code> is no longer its parent and can't collect its exit code. So the design came out one problem at a time (this is the order problems were discovered, not the order processes run):</p>
+<ol>
+<li>Container needs a long-lived parent → <code>runc</code> can't stay</li>
+<li>Make <code>containerd</code> the parent? → <code>containerd</code> restarts too often</li>
+<li>Create a dedicated process to look after the container → <strong><code>containerd-shim-runc-v2</code></strong>, the nanny</li>
+<li>The nanny can't sit under <code>containerd</code> → needs double fork</li>
+<li>Double fork needs a short-lived middle process that creates the nanny and exits → the shim binary runs a first time with the <strong><code>start</code></strong> argument just to do that, the agency</li>
+</ol>
+<hr>
+<h2>The orphan problem</h2>
+<p>Every Linux process has a parent. When a child dies, the parent must call <code>wait()</code> to clean it up. Without <code>wait()</code>, the dead child becomes a <strong>zombie</strong>: it no longer runs, and what's left is its entry in the process table, which takes a little memory and holds on to a PID. Pile up zombies and PIDs are what run out first.</p>
+<p>A living orphan is worse. When a parent dies, the kernel reparents its children to <code>systemd</code> (PID 1). <code>systemd</code> keeps them alive but doesn't know if they <em>should</em> be alive. A runaway orphan process eats CPU and RAM until someone kills it or it exits on its own.</p>
+<p><code>containerd-shim-runc-v2</code> is the container's parent. But who parents <code>containerd-shim-runc-v2</code>? And how do you detach it from <code>containerd</code>?</p>
+<hr>
+<h2>Double fork: the agency brings the nanny and leaves</h2>
+<p>The two actors in a double fork are one binary, <code>containerd-shim-runc-v2</code>, run twice, not the two binaries <code>containerd-shim</code> and <code>containerd-shim-runc-v2</code>:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th></th><th><code>containerd-shim-runc-v2 start</code></th><th><code>containerd-shim-runc-v2</code> (no args)</th></tr></thead><tbody><tr><td>Lifespan</td><td>Less than a second</td><td>Lives as long as the container</td></tr><tr><td>Purpose</td><td>Re-exec the real shim, report its socket address to <code>containerd</code>, then exit</td><td>Look after the container</td></tr><tr><td>Role in the picture</td><td>The agency</td><td>The nanny</td></tr></tbody></table>
+<p><code>containerd-shim</code> without the suffix is a different thing, the old v1 shim binary, covered at the end.</p>
+<p>Double fork is a classic Unix trick: two forks in a row, where the middle process exits. Fork makes a process copy itself into a child; exec makes a process switch to running another program.</p>
+<ol>
+<li><code>containerd</code> forks and execs → <code>containerd-shim-runc-v2 start</code> (child)</li>
+<li>the <code>start</code> process re-execs the same binary → <code>containerd-shim-runc-v2</code> daemon (grandchild), in a new process group</li>
+<li>the <code>start</code> process reports the daemon's socket address to <code>containerd</code>, then exits</li>
+<li>the daemon's parent is gone, so it is an orphan</li>
+<li>the kernel reparents the daemon to PID 1 (<code>systemd</code>)</li>
+</ol>
+<p>Step 5 happens because the launcher exits in step 3, not because of the new process group in step 2. A process is adopted by PID 1 only when its own parent dies. The launcher's whole job is to die at once, so the daemon it created is adopted by PID 1 right away, while <code>containerd</code> is still alive. The new process group is a separate thing, covered below.</p>
+<p>A common belief is that a child dies when its parent dies. Linux doesn't work that way.</p>
+<blockquote>
+<p>Parent dies → child gets adopted by PID 1 → child keeps running.</p>
+</blockquote>
+<p>The belief comes from shells. When a terminal is closed, bash receives <code>SIGHUP</code>, and before exiting it resends <code>SIGHUP</code> to its jobs; the default response to <code>SIGHUP</code> is to quit (<a href="https://www.gnu.org/software/bash/manual/html_node/Signals.html">bash manual</a>). Those children die because bash sends them a signal, not because the parent died. That's shell behavior, not the kernel's.</p>
+<p>The launcher exits without sending any signal, and it's not a shell, so the daemon just becomes an orphan and keeps running.</p>
+<pre><code>Before (right after fork):
+
+  containerd (PID 500)
+    └── containerd-shim-runc-v2 start (PID 501)
+          └── containerd-shim-runc-v2 (PID 502)
+</code></pre>
+<pre><code>After (the start process exits):
+
+  containerd (PID 500)              ← no longer parent of anything
+  systemd (PID 1)
+    └── containerd-shim-runc-v2 (PID 502)   ← adopted by PID 1
+          └── container process (PID 503)
+</code></pre>
+<p>From here on, <code>containerd</code> and <code>containerd-shim-runc-v2</code> are not parent and child. A socket can disconnect and reconnect; the parent-child relationship can't be reconnected that way.</p>
+<p>Besides leaving the parent-child relationship, the shim uses two more ways to stay clear of <code>containerd</code>:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Scope</th><th>Tool</th><th>Protects against</th></tr></thead><tbody><tr><td>parent-child relationship</td><td>reparent to PID 1</td><td>losing the parent, and with it the <code>waitpid</code> relationship</td></tr><tr><td>process group</td><td><code>setpgid</code></td><td><code>Ctrl+C</code> or <code>kill -&#x3C;pgid></code>, signals sent to a whole group</td></tr><tr><td>cgroup</td><td><code>KillMode=process</code></td><td><code>systemctl stop</code> killing every process in the cgroup</td></tr></tbody></table>
+<details>
+<summary>Deeper: why not just fork once?</summary>
+<p>Fork once and the shim is <code>containerd</code>'s direct child, which is how v1 shims work (see the last section). Nothing crashes, since <code>systemd</code> still reaps orphans, but <code>containerd</code> takes on work it shouldn't: every shim that exits sends it a <code>SIGCHLD</code>, and its child list fills up with shims. After a restart, the new <code>containerd</code> can't <code>waitpid()</code> shims that are no longer its children; Linux has no call to reassign a parent.</p>
+<p>You might think fork-once ends up in the same place, since the shim is adopted by PID 1 whenever <code>containerd</code> eventually exits. It does in the end, but until then <code>containerd</code> has to treat every shim it created as a child, so all the work above lands on <code>containerd</code>. Double fork has each shim adopted by PID 1 the moment it starts, so <code>containerd</code> never has to look after them.</p>
+<blockquote>
+<p>Inferred from the double fork pattern, the <a href="https://iximiuz.com/en/posts/implementing-container-runtime-shim/">iximiuz shim walkthrough</a>, and the <a href="https://container42.com/2022/01/10/shim-shiminey-shim-shiminey/">Container42 explainer</a>; no containerd doc spells this out.</p>
+</blockquote>
+</details>
+<details>
+<summary>Deeper: the process-group and cgroup rows</summary>
+<p>The table's second row is about signals. The daemon starts in its own process group via <code>setpgid</code> (containerd's <a href="https://github.com/containerd/containerd/blob/main/cmd/containerd-shim-runc-v2/manager/manager_linux.go"><code>manager_linux.go</code></a> sets <code>Setpgid: true</code>). Group signals are delivered by process group, so if the shim shared <code>containerd</code>'s group, a <code>kill -&#x3C;pgid></code> (or a Ctrl+C, if <code>containerd</code> ran in a foreground terminal) would reach the shim too.</p>
+<p>The third row, cgroup, is separate again. <code>setpgid</code> changes only the process group, not the cgroup, and by default <code>systemctl stop</code> kills every process in the service's cgroup, which includes the shims. That's why <code>containerd.service</code> ships with <code>KillMode=process</code>: stopping <code>containerd</code> then kills only <code>containerd</code>, not the shims sharing its cgroup.</p>
+</details>
+<hr>
+<h2>What <code>containerd-shim-runc-v2</code> actually does all day</h2>
+<p>After <code>runc</code> exits and the container is running, <code>containerd-shim-runc-v2</code> stays and does three things:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Job</th><th>Channel</th><th>Why</th></tr></thead><tbody><tr><td>Hold stdin/stdout/stderr</td><td>file descriptors</td><td>Output goes through <code>containerd</code> into the log file <code>kubectl logs</code> reads; <code>kubectl attach</code> also connects through it</td></tr><tr><td>Call <code>wait()</code> when the container dies</td><td>parent-child relationship</td><td>Collects the exit code so <code>kubectl get pod</code> can show <code>Completed</code> or <code>Error</code></td></tr><tr><td>Report to <code>containerd</code> and respond to commands</td><td>ttrpc socket</td><td><code>containerd</code> asks "is it still running?" or "kill it"</td></tr></tbody></table>
+<p>Only the parent can collect a child's exit code, so the shim's <code>waitpid()</code> relies on the parent-child relationship, and that code flows up through <code>containerd</code> to <code>kubelet</code> as the Pod status you see in <code>kubectl get pod</code>. Reporting takes the other channel, a ttrpc socket that can break and reconnect.</p>
+<p>If <code>containerd</code> crashes, <code>containerd-shim-runc-v2</code> still collects the exit code, because the parent-child relationship is intact. It just can't report yet, like a nanny phoning parents who don't pick up. When the new <code>containerd</code> reconnects the socket, the shim delivers the result. Collecting the exit code and reporting it don't depend on each other.</p>
+<p>Most of the time <code>containerd-shim-runc-v2</code> is idle, but idle here means waiting, not polling. The shim adds <code>SIGCHLD</code> to the signals it handles. When any of its children dies, the kernel sends the shim one <code>SIGCHLD</code>, and the shim calls <code>reaper.Reap()</code>, which loops over <code>wait4(-1, ..., WNOHANG)</code> to collect every child that has exited, whichever container it belongs to, then hands each exit status to whoever subscribed (<a href="https://github.com/containerd/containerd/blob/main/pkg/shim/shim_unix.go"><code>pkg/shim/shim_unix.go</code></a>, <a href="https://github.com/containerd/containerd/blob/main/pkg/sys/reaper/reaper_unix.go"><code>pkg/sys/reaper/reaper_unix.go</code></a>). A Pod with several containers still means one signal handler, not one waiter per container, so the shim stays responsive on the socket the whole time.</p>
+<details>
+<summary>Deeper: why the container reparents to the shim, not PID 1</summary>
+<p>There's one gap left. <code>runc</code> started the container, then exited. By the orphan rule above, the container should now be adopted by PID 1 like any other orphan. If it were, the shim could no longer <code>waitpid()</code> it, and the exit code would be lost.</p>
+<p>The shim prevents that by marking itself a <strong>subreaper</strong> when it starts:</p>
+<pre><code>prctl(PR_SET_CHILD_SUBREAPER, 1)
+</code></pre>
+<p>That changes the rule for all its descendants. When <code>runc</code> exits, the container isn't handed all the way up to PID 1; it goes to the nearest ancestor that set the subreaper flag, which is the shim. In the picture, the nanny has registered as guardian, so when the doctor leaves, the child stays with her instead of going to social services. The container stays under the shim, and <code>waitpid()</code> keeps working.</p>
+<p>The shim has no subreaper above it, so it goes all the way up to PID 1, away from <code>containerd</code>. The container has the shim above it as a subreaper, so it stays put.</p>
+</details>
+<details>
+<summary>Deeper: kernel vs systemd, who notifies whom</summary>
+<p>The kernel and <code>systemd</code> are not the same thing. The kernel is the OS core running in kernel space. <code>systemd</code> is a regular process (PID 1) running in user space.</p>
+<p>The notification always comes from the kernel. <code>systemd</code>'s only role is being the last-resort parent for orphans:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Event</th><th>Who handles it</th></tr></thead><tbody><tr><td>container dies</td><td>kernel wakes <code>containerd-shim-runc-v2</code></td></tr><tr><td><code>containerd-shim-runc-v2</code> dies</td><td>kernel wakes <code>systemd</code></td></tr><tr><td><code>systemd</code> dies</td><td>kernel panic, machine is dead</td></tr></tbody></table>
+<p><code>systemd</code> is a passive adopter. <code>containerd-shim-runc-v2</code> is an active guardian. <code>systemd</code> doesn't know or care what <code>containerd-shim-runc-v2</code> is; it just calls <code>wait()</code> when an adopted child dies. <code>containerd-shim-runc-v2</code> knows exactly what it's watching and reports the exit code back to <code>containerd</code>.</p>
+</details>
+<hr>
+<h2>v1 → v2: double fork added, fewer processes</h2>
+<p>Both v1 and v2 shims hold stdio, collect exit codes with <code>wait</code>, and mark themselves as subreapers. v1 has no double fork, though: <code>containerd</code> starts <code>containerd-shim</code> directly as its child and <code>Wait</code>s on it, and the shim is adopted by PID 1 only when <code>containerd</code> exits (<a href="https://github.com/containerd/containerd/blob/v1.2.0/runtime/v1/shim/client/client.go">v1.2.0 <code>client.go</code></a>, <a href="https://github.com/containerd/containerd/blob/v1.2.0/cmd/containerd-shim/shim_linux.go"><code>shim_linux.go</code></a>). So on a node still running v1, the shim sits under <code>containerd</code>, not under PID 1. v2 added the <code>start</code> step, and also changed how many shim processes you run:</p>
+<p><strong>v1: one <code>containerd-shim</code> per container</strong></p>
+<p>Under CRI every Pod also has a sandbox (pause) container, and under v1 it got its own shim too (<a href="https://www.openeuler.org/en/blog/gaohuatao/2021-04-09-isulad-shimv1-shimv2-diff">openEuler: shim v1 vs v2</a>).</p>
+<ul>
+<li>Pod with 3 containers → 4 <code>containerd-shim</code> processes (3 + the pause container)</li>
+<li>30 Pods x 2 containers average → 90 <code>containerd-shim</code> processes on one Node</li>
+</ul>
+<p><strong>v2: one <code>containerd-shim-runc-v2</code> per Pod</strong></p>
+<ul>
+<li>Pod with 3 containers → 1 <code>containerd-shim-runc-v2</code> process managing all three</li>
+<li>30 Pods → 30 <code>containerd-shim-runc-v2</code> processes (not 90)</li>
+</ul>
+<p>Both versions talk to <code>containerd</code> over ttrpc, containerd's lightweight take on gRPC. It drops the <code>net/http</code>, HTTP/2 and grpc packages for a simple framing protocol, so binaries are smaller and use less memory (<a href="https://github.com/containerd/ttrpc">ttrpc README</a>). v2's win is the process count, not the transport. gRPC for shims only arrived as an option in containerd 1.7, and containerd's docs still call it experimental and recommend ttrpc (<a href="https://github.com/containerd/containerd/blob/main/docs/runtime-v2.md">runtime v2 docs</a>).</p>
+<p>The naming convention also made runtimes pluggable. containerd turns a <code>runtime_type</code> into a binary name:</p>
+<ul>
+<li><code>io.containerd.runc.v2</code> → <code>containerd-shim-runc-v2</code> → uses <code>runc</code> (default)</li>
+<li><code>io.containerd.runsc.v1</code> → <code>containerd-shim-runsc-v1</code> → uses gVisor (<a href="https://gvisor.dev/docs/user_guide/containerd/quick_start/">gVisor containerd quick start</a>)</li>
+<li><code>io.containerd.kata.v2</code> → <code>containerd-shim-kata-v2</code> → uses Kata</li>
+</ul>
+<p>Adding a runtime takes three steps: put its shim binary and runtime binary on the Node, register a handler with that <code>runtime_type</code> in containerd's config, and create a RuntimeClass that names the handler. A Pod that sets <code>runtimeClassName</code> then gets that shim. <a href="/v2/container-kernel-isolation">When the kernel has a bug, what keeps containers apart?</a> walks through the gVisor version.</p>
+<hr>
+<h2>References</h2>
+<ul>
+<li><a href="https://iximiuz.com/en/posts/implementing-container-runtime-shim/">Implementing Container Runtime Shim: runc (iximiuz)</a> — shim daemonization, double fork walkthrough, stdio lifecycle</li>
+<li><a href="https://container42.com/2022/01/10/shim-shiminey-shim-shiminey/">Shim-shiminey Shim-shiminey (Container42)</a> — why containerd needs shims, lifecycle detachment, live restore</li>
+<li><a href="https://github.com/containerd/containerd/blob/main/docs/runtime-v2.md">containerd runtime v2 docs (official, shim API and ttrpc)</a></li>
+<li><a href="https://github.com/containerd/ttrpc">ttrpc README</a></li>
+<li><a href="https://www.cnblogs.com/zhangmingcheng/p/17524721.html">Containerd组件 - containerd-shim-runc-v2作用 (cnblogs)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Zombie_process">Zombie process (Wikipedia)</a> — zombie vs orphan, process table entry, PID exhaustion</li>
+<li><a href="https://www.gnu.org/software/bash/manual/html_node/Signals.html">Bash manual: Signals</a></li>
+<li><a href="https://github.com/containerd/containerd/discussions/7407">What are the differences between runc v1 and v2? (containerd Discussion #7407)</a></li>
+<li><a href="https://www.openeuler.org/en/blog/gaohuatao/2021-04-09-isulad-shimv1-shimv2-diff.html">Shim v1 vs v2 architecture comparison (openEuler, Kata perspective)</a></li>
+</ul>8:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L13",null,{"htmlContent":"$14","rawContent":"$15","base64Content":"$16","title":"containerd 裡面：shim 跟 runc 怎麼接力把 container 跑起來","createdAt":"$undefined","updatedAt":"2026-10-28T11:28:25.000Z","tags":["k8s","container","infrastructure"],"altHtmlContent":"$17","altTitle":"inside containerd: how shim and runc actually work","currentLang":"zh","altLang":"en","canonicalPath":"/v2/containerd-shim-and-runc"}]}]}]

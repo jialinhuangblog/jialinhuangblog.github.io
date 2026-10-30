@@ -1,0 +1,742 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"default"]
+4:I[48350,[],""]
+5:I[11412,[],""]
+6:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+7:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-6e2326ce7d294bfd.js"],"default"]
+9:I[96727,[],"OutletBoundary"]
+b:I[14038,[],"AsyncMetadataOutlet"]
+d:I[96727,[],"ViewportBoundary"]
+f:I[96727,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[92950,[],""]
+:HL["/_next/static/media/8760c4774489e4ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/01cc54cdad670ab3.css","style"]
+:HL["/_next/static/css/d3281eaf3cab9132.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/2aa38e97f45426ef.css","style"]
+0:{"P":null,"b":"nTKE4IB87lEgZWUaCupOc","p":"","c":["","v2","anycast-one-ip-many-places.zh"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","anycast-one-ip-many-places.zh","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/01cc54cdad670ab3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/d3281eaf3cab9132.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href=\"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap\";document.head.appendChild(l)})()"}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L7",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","anycast-one-ip-many-places.zh","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/2aa38e97f45426ef.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+a:null
+c:{"metadata":[["$","title","0",{"children":"當很多地方位置都是 1.1.1.1  | jialinhuang"}],["$","meta","1",{"name":"description","content":"台北跟巴黎都連 1.1.1.1，回應的卻是兩個城市的機器。沒有誰在中間分配，是路上每台 router 照自己的 routing table 轉送。ISP 跟 Cloudflare 之間那些 router 的 routing table，是封包出發前從 BGP 宣告學來的。"}],["$","link","2",{"rel":"canonical","href":"/v2/anycast-one-ip-many-places"}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"
+13:I[86734,["7654","static/chunks/7654-2fe46cddc56d2856.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+14:T4ee3,<p>打開 <code>https://1.1.1.1/cdn-cgi/trace</code>，裡面有一行 <code>colo=</code>，寫的是回應這次請求的 Cloudflare 機房，用機場代碼表示。2026 年 10 月在三個城市連線的結果：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>從哪裡連</th><th>連的位址</th><th><code>colo</code></th></tr></thead><tbody><tr><td>台灣</td><td><code>1.1.1.1</code></td><td><code>TPE</code>（台北）</td></tr><tr><td>東京</td><td><code>1.1.1.1</code></td><td><code>NRT</code>（東京成田）</td></tr><tr><td>巴黎</td><td><code>1.1.1.1</code></td><td><code>CDG</code>（巴黎戴高樂）</td></tr></tbody></table>
+<p>位址一樣，回應的卻是三個城市的機器。很多地方的機器共用同一個 IP，這種做法叫 anycast。</p>
+<p>如果只學過 unicast，也就是一個 IP 對一台機器，這件事很難想像。封包上只寫了 <code>1.1.1.1</code>，沒寫要去台北還是巴黎，它是怎麼被送到其中一台的呢？</p>
+<p>路上每一台 router 都會查自己的 routing table，照上面寫的方向把封包往下送。unicast 跟 anycast 都是這樣查表。</p>
+<h2>unicast 的封包怎麼找到路</h2>
+<p>封包從電腦出發，一路上每一站都在查表：</p>
+<p><strong>1. 自己的電腦。</strong> 在 macOS 上跑 <code>route -n get 1.1.1.1</code>：</p>
+<pre><code>   route to: 1.1.1.1
+destination: default
+    gateway: 192.168.0.1
+</code></pre>
+<p>電腦不知道 <code>1.1.1.1</code> 在哪裡，只好套用 <code>default</code> 那一筆：不認得的位址，一律交給 <code>192.168.0.1</code>，也就是家裡的 router。</p>
+<p><strong>2. 家裡的 router。</strong> 一樣只有一筆 default，交給 ISP。</p>
+<p><strong>3. ISP 對外的 router。</strong> 這裡才有完整的 routing table，internet 上每一段位址（prefix）該交給哪個鄰居（next hop）都列在裡面：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>位址段（prefix）</th><th>交給誰（next hop）</th></tr></thead><tbody><tr><td><code>1.1.1.0/24</code></td><td>隔壁某個網路的 router</td></tr><tr><td><code>8.8.8.0/24</code></td><td>另一個鄰居網路的 router</td></tr></tbody></table>
+<p>router 拿封包的目的地去比對，好幾筆都符合時選範圍最小的那筆，再照它寫的方向轉出去。下一台 router 再查一次，一跳一跳接下去。</p>
+<p><strong>就算是 unicast，也沒有任何一台 router 知道 <code>1.1.1.1</code> 在哪個城市。</strong> router 的職責就是把封包丟給下一位，接下來去哪，讓下一位去煩惱就好。</p>
+<h2>routing table 裡的每一筆從哪來：BGP</h2>
+<p>internet 是很多個各自管理的網路接起來的。每個網路叫一個 AS（Autonomous System），有自己的編號，例如 Cloudflare 是 AS13335。</p>
+<p>從台灣連 <code>1.1.1.1</code>，會碰到的 AS 照離使用者多近排，大致是這三種：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>角色</th><th>位置</th><th>做什麼</th><th>例子</th></tr></thead><tbody><tr><td>ISP</td><td>離使用者最近</td><td>接家裡、手機的網路，線路主要在一個國家裡</td><td>台灣的電信業者</td></tr><tr><td>transit</td><td>中間</td><td>幫別的網路轉送流量，線路跨國跨洲，ISP 沒接到的地方就付錢請它代送</td><td>NTT（AS2914）</td></tr><tr><td>Cloudflare</td><td>另一端</td><td><code>1.1.1.1</code> 就在它的網路裡，很多城市都有機房，跟很多 ISP 直連，也接了 transit</td><td>AS13335</td></tr></tbody></table>
+<p>從台灣連 <code>1.1.1.1</code>，封包出了 ISP 就直接進 Cloudflare，後面的 traceroute 可以看到。ISP 跟目的地沒有直連的時候，中間才會多一段 transit。</p>
+<p>兩個網路「直連」，是指雙方的 router 可以直接互傳封包、直接跑 BGP，中間不經過第三個網路。線路通常有兩種拉法：在同一棟資料中心裡拉一條線把兩台 router 接起來，或兩邊都接到同一個 Internet Exchange（IX）的 switch 上。IX 是很多網路集中交換流量的地方。IX 的 switch 只負責把線路接通，本身不算一個網路，所以路徑上的 AS 編號不會多出一個。</p>
+<p>相鄰的 AS 之間用 BGP（Border Gateway Protocol）互相告知「要去這段位址，交給我」，這叫<strong>宣告</strong>。每個網路收到宣告，就把這段位址跟「交給誰」寫進自己的 routing table，但不一定會再轉告出去。</p>
+<p>線路接好之後，兩個網路還要約定誰的流量可以走這條線。最常見的約定是 peering：雙方只交換往自己網路的流量，以及往「付錢給自己的網路」的流量，不替對方把流量轉給第三方。Cloudflare 採用 open peering，跟它在同一個地點有機房的網路，想 peering 就能接上（<a href="https://www.cloudflare.com/peering-policy/">Cloudflare peering policy</a>）。假設台北 ISP 跟 Cloudflare 的直連是 peering，台北 ISP 從 Cloudflare 收到的路由，只會轉告給付錢給它的客戶網路，不會轉告給它自己的 transit。Cloudflare 另外接了 transit，其他國家的網路是從 transit 那裡收到 <code>1.1.1.0/24</code> 的宣告：</p>
+<ol>
+<li>Cloudflare（AS13335）把 <code>1.1.1.0/24</code> 宣告給直連的 ISP，也宣告給它接的 transit，路徑是 <code>13335</code>。</li>
+<li>台北的 ISP 收到，記下「<code>1.1.1.0/24</code> 交給 Cloudflare」，再轉告給它的客戶網路。</li>
+<li>transit 收到，記下「<code>1.1.1.0/24</code> 交給 Cloudflare」，再轉告給付錢給它的 ISP。路徑變成兩個編號，transit 自己的 AS 編號在左、<code>13335</code> 在右。</li>
+<li>那些 ISP 記下「<code>1.1.1.0/24</code> 交給這個 transit」。</li>
+</ol>
+<p>宣告每經過一個網路，路徑上就多一個 AS 編號，收到的網路因此知道這條路要經過幾個網路。</p>
+<p>如果台北 ISP 把從 peering 收到的 Cloudflare 路由轉告給自己的 transit，這家 transit 手上就有兩條路。Cloudflare 直接給的路徑是 <code>13335</code>，台北 ISP 轉來的路徑有兩個編號，台北 ISP 的編號在左、<code>13335</code> 在右。transit 選路時通常先選客戶給的路由，因為客戶付錢給它，而台北 ISP 正是它的客戶。所以就算台北 ISP 那條比較長，transit 也可能選它。</p>
+<p>transit 選了這條之後，會再轉告給付錢給 transit 的其他客戶。那些客戶往 <code>1.1.1.1</code> 的流量於是先進這家 transit，再交給台北 ISP。台北 ISP 等於花錢買 transit 的線路，替 Cloudflare 送別人的流量，線路也可能塞爆。</p>
+<p>這種轉告叫 route leak（<a href="https://www.rfc-editor.org/rfc/rfc7908.txt">RFC 7908 §3.4</a>）。2015 年，印度的 ISP Hathway 把從 Google 收到的 336 個 prefix 轉告給它的 transit Airtel，Google 在歐洲、亞洲的服務因此大範圍中斷。</p>
+<p>RIPE（歐洲的 IP 註冊機構）在世界各地放了一種叫 collector 的機器，用來觀察各地的網路收到了什麼宣告。collector 跟當地的網路接上 BGP 之後，每個網路會把自己目前使用的路由告訴 collector，collector 再把這些路由記下來給人查詢。collector 收到路由只做記錄，不拿來轉送封包。</p>
+<p>collector 記下的路徑要從右往左讀，最右邊是發出宣告的網路，往左每多一個編號，就是宣告多經過一個網路。以東京 collector 收到的 <code>4777 13335</code> 為例：</p>
+<ol>
+<li>13335（Cloudflare）宣告：<code>1.1.1.0/24</code> 交給我。</li>
+<li>4777（APNIC，亞太區 IP 註冊機構在東京的網路）收到，轉告東京的 collector。</li>
+<li>collector 記下的路徑就是 <code>4777 13335</code>。</li>
+</ol>
+<p>2026-10-27 查 <code>1.1.1.0/24</code> 的結果：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>collector 所在</th><th>收到的路徑</th><th>轉告 collector 的網路</th></tr></thead><tbody><tr><td>東京</td><td><code>4777 13335</code></td><td>AS4777，APNIC</td></tr><tr><td>倫敦</td><td><code>15692 13335</code></td><td>AS15692，英國的 Razorblue</td></tr><tr><td>23 個 collector 合計</td><td>路徑全部以 <code>13335</code> 結尾</td><td>351 個 peer，屬於 254 個 AS</td></tr></tbody></table>
+<p>兩條路徑都只有兩個編號，表示 4777、15692 跟 Cloudflare 之間沒有隔著別的 AS。peer 是跟 collector 接上 BGP 的 router，同一個網路可以接好幾個，所以 peer 比 AS 多（<a href="https://stat.ripe.net/data/looking-glass/data.json?resource=1.1.1.0/24">RIPEstat looking glass</a>）。東京跟倫敦收到的路徑都以 13335 結尾，但路徑上只有 AS 編號，所以分不出這兩條最後是接到同一個城市的機房，還是不同城市的。</p>
+<p>阿姆斯特丹 collector 收到的路徑是 <code>20514 1299 13335</code>，從右往左讀：Cloudflare 宣告，1299（transit 業者 Arelion）收到後轉告 20514（瑞典的 Axians），Axians 再告訴 collector。1299 跟 13335 之間沒有別的編號，所以 Arelion 是直接從 Cloudflare 收到 <code>1.1.1.0/24</code> 的宣告。同一天的資料裡，NTT、Cogent 等其他 transit 業者也出現在 <code>13335</code> 左邊第一個位置。</p>
+<details>
+<summary>查詢指令</summary>
+<p>撈 RIPEstat looking glass 的資料，列出每個 collector 收到的路徑，再挑出上面提到的三條：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">curl</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -s</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'https://stat.ripe.net/data/looking-glass/data.json?resource=1.1.1.0/24'</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> ></span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> lg.json</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">jq</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -r</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> '.data.rrcs[] | .location as $l | .peers[] | "\($l)\t\(.as_path)"'</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> lg.json</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> \</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  |</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> grep</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -E</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> '4777 13335|15692 13335|20514 1299 13335'</span></span></code></pre></figure>
+<pre><code>London, GB	15692 13335
+Amsterdam, NL	20514 1299 13335
+Tokyo, JP	4777 13335
+</code></pre>
+<p>peer 總數，跟所有路徑最右邊的編號：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">jq</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> '[.data.rrcs[].peers[]] | length'</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> lg.json</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">jq</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> '[.data.rrcs[].peers[].as_path | split(" ") | last] | unique'</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> lg.json</span></span></code></pre></figure>
+<p>查一個 AS 編號登記在誰名下：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">curl</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -s</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'https://stat.ripe.net/data/as-overview/data.json?resource=AS4777'</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> |</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> jq</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -r</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> .data.holder</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># APNIC-COLO - Asia Pacific Network Information Centre</span></span></code></pre></figure>
+<p>collector 的 peer 會變動，2026-10-27 查到 351 個，隔天再查是 355 個。</p>
+</details>
+<h2>同一段位址從很多城市宣告</h2>
+<p>Cloudflare 從不同城市的機房宣告同一段 <code>1.1.1.0/24</code>，台北的機房對台北一帶的網路宣告，巴黎的機房對巴黎一帶的網路宣告。開頭那張表的 TPE、NRT、CDG 三個回應，就是三個城市各自宣告的結果。</p>
+<p>這時巴黎 ISP 會同時收到兩則 <code>1.1.1.0/24</code> 的宣告。巴黎機房直接告訴它「交給我」，路徑只有 <code>13335</code>。台北機房也把宣告交給亞洲的 transit，再經過歐洲 transit 傳到巴黎 ISP。照這則走的話，封包要交給歐洲 transit，路徑上多了兩個 AS。</p>
+<p>unicast 也常常這樣。例如一家公司同時接了 ISP 甲跟 ISP 乙，甲跟乙都會往外宣告這家公司的位址。如果遠方有一家 transit 業者跟甲、乙都直連，它就會從甲、乙各收到一則宣告，兩則都指向同一家公司。router 的做法一直都是從收到的幾條裡挑一條最好的寫進 routing table，其他的留著備用。router 分辨不出兩條路的盡頭是不是同一台機器，選路時也用不到這個資訊。</p>
+<p>把出發地跟「1.1.1.1 放在哪裡」兩兩配對，結果是這樣：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>出發地</th><th>只有台北有 1.1.1.1（unicast）</th><th>台北、巴黎都有 1.1.1.1（anycast）</th></tr></thead><tbody><tr><td>台北</td><td>台北 ISP → Cloudflare 台北</td><td>台北 ISP → Cloudflare 台北（一樣）</td></tr><tr><td>巴黎</td><td>巴黎 ISP → 歐洲 transit → 亞洲 transit → Cloudflare 台北</td><td>巴黎 ISP → Cloudflare 巴黎</td></tr></tbody></table>
+<p>四種組合裡，只有從巴黎出發、兩邊都有 1.1.1.1 的時候結果變了。巴黎 ISP 照 BGP 的規則，挑了 AS 比較少的巴黎機房那則宣告，所以封包交給了巴黎的機房。</p>
+<p>在台灣跑 traceroute，可以看到封包在哪裡交給 Cloudflare：</p>
+<pre><code> 1    192.168.0.1      家裡的 router
+ 2–7  10.x.x.x         ISP 內部
+ 8    162.158.240.6    Cloudflare 的網路（162.158.0.0/15 登記在 Cloudflare 名下）
+ 9    1.1.1.1          21.2 ms
+</code></pre>
+<p>hop 7 還在 ISP 裡，hop 8 就進了 Cloudflare，中間沒有 transit。同一時間 <code>https://1.1.1.1/cdn-cgi/trace</code> 回的是 <code>colo=TPE</code>。</p>
+<h2>「近」是怎麼算的</h2>
+<p>BGP 的選路步驟（RFC 4271 §9.1）依序比：</p>
+<ol>
+<li>每個網路替路由打的偏好分數，怎麼打由各網路自己決定，RFC 沒規定</li>
+<li>路徑上的 AS 數量</li>
+<li>在自己網路裡走到交接點有多遠</li>
+</ol>
+<p>這裡只列了三項，RFC 在第 2、3 項之間還有 Origin、MED 等幾項比較細的比法。全部比下來，沒有一項是地理距離。</p>
+<p>多數時候，近的機房剛好也是路徑短、交接點近的那個，所以看起來像是送到最近的機房。</p>
+<p>2026 年 10 月借了 Globalping 放在世界各地的 40 台量測機器（probe），各連一次 <code>1.1.1.1</code>。如果照地理距離走，每台都該連到離自己最近的 Cloudflare 機房。40 台裡有 22 台連到自己所在城市的機房。另外 18 台連到別的城市。其中有些所在城市可能沒有 Cloudflare 機房，不過這次沒有逐一確認。下面兩組，同一個地區的 probe 連到了不同的機房：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>probe 所在</th><th>所在網路</th><th>連到的機房</th><th>距離</th></tr></thead><tbody><tr><td>紐倫堡（德國）</td><td>netcup</td><td>法蘭克福（FRA）</td><td>紐倫堡到法蘭克福約 190 km</td></tr><tr><td>紐倫堡（德國）</td><td>Hetzner</td><td>巴黎（CDG）</td><td>紐倫堡到巴黎約 640 km</td></tr><tr><td>蒙特婁（加拿大）</td><td>OVH</td><td>多倫多（YYZ）</td><td>兩城相距約 500 km</td></tr><tr><td>多倫多（加拿大）</td><td>HostPapa</td><td>蒙特婁（YUL）</td><td>兩城相距約 500 km</td></tr></tbody></table>
+<p>距離是兩個城市之間的直線距離。</p>
+<ul>
+<li><strong>紐倫堡</strong>：兩台 probe 在同一個城市，所在網路不同。netcup 那台連到比較近的法蘭克福，Hetzner 那台卻連到 640 km 外的巴黎。</li>
+<li><strong>蒙特婁、多倫多</strong>：兩個城市都有 Cloudflare 機房，照距離應該各自連到本地，實際上兩台剛好連到對方的城市。</li>
+</ul>
+<p>紐倫堡的 Hetzner 那一筆，七分鐘後又指定同一個網路重跑一輪，分到的三個 probe 都連到巴黎。同時跑的 traceroute 顯示，封包在 Hetzner 自己的線路上從紐倫堡走到巴黎，到了巴黎才交給 Cloudflare。量測資料裡沒有 probe 編號，所以不確定這三個裡有沒有第一輪那一個。</p>
+<p>Cloudflare 在法蘭克福也有機房，Hetzner 為什麼不在那裡交出去，從外面沒辦法確定。traceroute 只會顯示 Hetzner 最後選中的路；網路之間交換路由時也只傳選中的那條，所以公開的路由資料一樣查不到它手上有沒有法蘭克福那條。</p>
+<h2>一個 IP 不是應該唯一嗎</h2>
+<ul>
+<li><strong>只登記一次。</strong> <code>1.1.1.0/24</code> 登記在 APNIC（亞太區的 IP 註冊機構）名下，whois 紀錄寫著「Routed globally by AS13335/Cloudflare」。</li>
+<li><strong>只有 AS13335 能宣告。</strong> RPKI（Resource Public Key Infrastructure）是一套給路由用的簽章紀錄，其中一筆 ROA（Route Origin Authorization）寫著 <code>1.1.1.0/24</code> 只能由 AS13335 宣告。別的 AS 用自己的編號宣告，有開 RPKI 驗證的網路會把那條判成無效，接著要丟掉還是只調低優先順序，由各網路自己決定（RFC 6811 §5）。</li>
+<li><strong>RPKI 驗證只比對兩樣東西：位址段（prefix），跟路徑最右邊、發出宣告的那個 AS 編號。</strong> 所以別的網路要是想冒充 Cloudflare，把自己宣告的路徑最右邊寫成 13335，RPKI 驗證一樣會通過，原本該送到 1.1.1.1 的一部分流量，就可能被送到這個網路去（RFC 6811 §6）。RPKI 驗證也不看宣告是從哪個城市發出來的，所以 Cloudflare 每個城市發出的宣告都會通過驗證。</li>
+</ul>
+<h2>常見應用</h2>
+<ul>
+<li><strong>CDN</strong>：同一個 IP 到處宣告，多數使用者會被自己網路的 router 送到附近的機房。</li>
+<li><strong>分散 DDoS</strong>：botnet 的機器散在世界各地，每台送出的流量由它所在的網路送到對應的機房，攻擊流量因此分散到很多機房，不會全部擠到同一個。RFC 4786（講怎麼營運 anycast 服務）把這點列為使用 anycast 的理由之一。</li>
+<li><strong>雲端的全球入口</strong>：AWS Global Accelerator、Google Cloud 的 global external Application Load Balancer 都用 anycast 把使用者帶到附近的 edge。這個 edge 是業者私有網路的入口。以 Global Accelerator 來說，使用者的 TCP 連線在 edge 就結束了，它再另外開一條連線到 endpoint，中間走 AWS 自己的網路。Google 的 Premium 網路層級也一樣，走 Google 自己的 backbone。</li>
+</ul>15:T3c18,
+打開 `https://1.1.1.1/cdn-cgi/trace`，裡面有一行 `colo=`，寫的是回應這次請求的 Cloudflare 機房，用機場代碼表示。2026 年 10 月在三個城市連線的結果：
+
+| 從哪裡連 | 連的位址 | `colo` |
+|---|---|---|
+| 台灣 | `1.1.1.1` | `TPE`（台北） |
+| 東京 | `1.1.1.1` | `NRT`（東京成田） |
+| 巴黎 | `1.1.1.1` | `CDG`（巴黎戴高樂） |
+
+位址一樣，回應的卻是三個城市的機器。很多地方的機器共用同一個 IP，這種做法叫 anycast。
+
+如果只學過 unicast，也就是一個 IP 對一台機器，這件事很難想像。封包上只寫了 `1.1.1.1`，沒寫要去台北還是巴黎，它是怎麼被送到其中一台的呢？
+
+路上每一台 router 都會查自己的 routing table，照上面寫的方向把封包往下送。unicast 跟 anycast 都是這樣查表。
+
+## unicast 的封包怎麼找到路
+
+封包從電腦出發，一路上每一站都在查表：
+
+**1. 自己的電腦。** 在 macOS 上跑 `route -n get 1.1.1.1`：
+
+```
+   route to: 1.1.1.1
+destination: default
+    gateway: 192.168.0.1
+```
+
+電腦不知道 `1.1.1.1` 在哪裡，只好套用 `default` 那一筆：不認得的位址，一律交給 `192.168.0.1`，也就是家裡的 router。
+
+**2. 家裡的 router。** 一樣只有一筆 default，交給 ISP。
+
+**3. ISP 對外的 router。** 這裡才有完整的 routing table，internet 上每一段位址（prefix）該交給哪個鄰居（next hop）都列在裡面：
+
+| 位址段（prefix） | 交給誰（next hop） |
+|---|---|
+| `1.1.1.0/24` | 隔壁某個網路的 router |
+| `8.8.8.0/24` | 另一個鄰居網路的 router |
+
+router 拿封包的目的地去比對，好幾筆都符合時選範圍最小的那筆，再照它寫的方向轉出去。下一台 router 再查一次，一跳一跳接下去。
+
+**就算是 unicast，也沒有任何一台 router 知道 `1.1.1.1` 在哪個城市。** router 的職責就是把封包丟給下一位，接下來去哪，讓下一位去煩惱就好。
+
+## routing table 裡的每一筆從哪來：BGP
+
+internet 是很多個各自管理的網路接起來的。每個網路叫一個 AS（Autonomous System），有自己的編號，例如 Cloudflare 是 AS13335。
+
+從台灣連 `1.1.1.1`，會碰到的 AS 照離使用者多近排，大致是這三種：
+
+| 角色 | 位置 | 做什麼 | 例子 |
+|---|---|---|---|
+| ISP | 離使用者最近 | 接家裡、手機的網路，線路主要在一個國家裡 | 台灣的電信業者 |
+| transit | 中間 | 幫別的網路轉送流量，線路跨國跨洲，ISP 沒接到的地方就付錢請它代送 | NTT（AS2914） |
+| Cloudflare | 另一端 | `1.1.1.1` 就在它的網路裡，很多城市都有機房，跟很多 ISP 直連，也接了 transit | AS13335 |
+
+從台灣連 `1.1.1.1`，封包出了 ISP 就直接進 Cloudflare，後面的 traceroute 可以看到。ISP 跟目的地沒有直連的時候，中間才會多一段 transit。
+
+兩個網路「直連」，是指雙方的 router 可以直接互傳封包、直接跑 BGP，中間不經過第三個網路。線路通常有兩種拉法：在同一棟資料中心裡拉一條線把兩台 router 接起來，或兩邊都接到同一個 Internet Exchange（IX）的 switch 上。IX 是很多網路集中交換流量的地方。IX 的 switch 只負責把線路接通，本身不算一個網路，所以路徑上的 AS 編號不會多出一個。
+
+相鄰的 AS 之間用 BGP（Border Gateway Protocol）互相告知「要去這段位址，交給我」，這叫**宣告**。每個網路收到宣告，就把這段位址跟「交給誰」寫進自己的 routing table，但不一定會再轉告出去。
+
+線路接好之後，兩個網路還要約定誰的流量可以走這條線。最常見的約定是 peering：雙方只交換往自己網路的流量，以及往「付錢給自己的網路」的流量，不替對方把流量轉給第三方。Cloudflare 採用 open peering，跟它在同一個地點有機房的網路，想 peering 就能接上（[Cloudflare peering policy](https://www.cloudflare.com/peering-policy/)）。假設台北 ISP 跟 Cloudflare 的直連是 peering，台北 ISP 從 Cloudflare 收到的路由，只會轉告給付錢給它的客戶網路，不會轉告給它自己的 transit。Cloudflare 另外接了 transit，其他國家的網路是從 transit 那裡收到 `1.1.1.0/24` 的宣告：
+
+1. Cloudflare（AS13335）把 `1.1.1.0/24` 宣告給直連的 ISP，也宣告給它接的 transit，路徑是 `13335`。
+2. 台北的 ISP 收到，記下「`1.1.1.0/24` 交給 Cloudflare」，再轉告給它的客戶網路。
+3. transit 收到，記下「`1.1.1.0/24` 交給 Cloudflare」，再轉告給付錢給它的 ISP。路徑變成兩個編號，transit 自己的 AS 編號在左、`13335` 在右。
+4. 那些 ISP 記下「`1.1.1.0/24` 交給這個 transit」。
+
+宣告每經過一個網路，路徑上就多一個 AS 編號，收到的網路因此知道這條路要經過幾個網路。
+
+如果台北 ISP 把從 peering 收到的 Cloudflare 路由轉告給自己的 transit，這家 transit 手上就有兩條路。Cloudflare 直接給的路徑是 `13335`，台北 ISP 轉來的路徑有兩個編號，台北 ISP 的編號在左、`13335` 在右。transit 選路時通常先選客戶給的路由，因為客戶付錢給它，而台北 ISP 正是它的客戶。所以就算台北 ISP 那條比較長，transit 也可能選它。
+
+transit 選了這條之後，會再轉告給付錢給 transit 的其他客戶。那些客戶往 `1.1.1.1` 的流量於是先進這家 transit，再交給台北 ISP。台北 ISP 等於花錢買 transit 的線路，替 Cloudflare 送別人的流量，線路也可能塞爆。
+
+這種轉告叫 route leak（[RFC 7908 §3.4](https://www.rfc-editor.org/rfc/rfc7908.txt)）。2015 年，印度的 ISP Hathway 把從 Google 收到的 336 個 prefix 轉告給它的 transit Airtel，Google 在歐洲、亞洲的服務因此大範圍中斷。
+
+RIPE（歐洲的 IP 註冊機構）在世界各地放了一種叫 collector 的機器，用來觀察各地的網路收到了什麼宣告。collector 跟當地的網路接上 BGP 之後，每個網路會把自己目前使用的路由告訴 collector，collector 再把這些路由記下來給人查詢。collector 收到路由只做記錄，不拿來轉送封包。
+
+collector 記下的路徑要從右往左讀，最右邊是發出宣告的網路，往左每多一個編號，就是宣告多經過一個網路。以東京 collector 收到的 `4777 13335` 為例：
+
+1. 13335（Cloudflare）宣告：`1.1.1.0/24` 交給我。
+2. 4777（APNIC，亞太區 IP 註冊機構在東京的網路）收到，轉告東京的 collector。
+3. collector 記下的路徑就是 `4777 13335`。
+
+2026-10-27 查 `1.1.1.0/24` 的結果：
+
+| collector 所在 | 收到的路徑 | 轉告 collector 的網路 |
+|---|---|---|
+| 東京 | `4777 13335` | AS4777，APNIC |
+| 倫敦 | `15692 13335` | AS15692，英國的 Razorblue |
+| 23 個 collector 合計 | 路徑全部以 `13335` 結尾 | 351 個 peer，屬於 254 個 AS |
+
+兩條路徑都只有兩個編號，表示 4777、15692 跟 Cloudflare 之間沒有隔著別的 AS。peer 是跟 collector 接上 BGP 的 router，同一個網路可以接好幾個，所以 peer 比 AS 多（[RIPEstat looking glass](https://stat.ripe.net/data/looking-glass/data.json?resource=1.1.1.0/24)）。東京跟倫敦收到的路徑都以 13335 結尾，但路徑上只有 AS 編號，所以分不出這兩條最後是接到同一個城市的機房，還是不同城市的。
+
+阿姆斯特丹 collector 收到的路徑是 `20514 1299 13335`，從右往左讀：Cloudflare 宣告，1299（transit 業者 Arelion）收到後轉告 20514（瑞典的 Axians），Axians 再告訴 collector。1299 跟 13335 之間沒有別的編號，所以 Arelion 是直接從 Cloudflare 收到 `1.1.1.0/24` 的宣告。同一天的資料裡，NTT、Cogent 等其他 transit 業者也出現在 `13335` 左邊第一個位置。
+
+<details>
+<summary>查詢指令</summary>
+
+撈 RIPEstat looking glass 的資料，列出每個 collector 收到的路徑，再挑出上面提到的三條：
+
+```bash
+curl -s 'https://stat.ripe.net/data/looking-glass/data.json?resource=1.1.1.0/24' > lg.json
+jq -r '.data.rrcs[] | .location as $l | .peers[] | "\($l)\t\(.as_path)"' lg.json \
+  | grep -E '4777 13335|15692 13335|20514 1299 13335'
+```
+
+```
+London, GB	15692 13335
+Amsterdam, NL	20514 1299 13335
+Tokyo, JP	4777 13335
+```
+
+peer 總數，跟所有路徑最右邊的編號：
+
+```bash
+jq '[.data.rrcs[].peers[]] | length' lg.json
+jq '[.data.rrcs[].peers[].as_path | split(" ") | last] | unique' lg.json
+```
+
+查一個 AS 編號登記在誰名下：
+
+```bash
+curl -s 'https://stat.ripe.net/data/as-overview/data.json?resource=AS4777' | jq -r .data.holder
+# APNIC-COLO - Asia Pacific Network Information Centre
+```
+
+collector 的 peer 會變動，2026-10-27 查到 351 個，隔天再查是 355 個。
+
+</details>
+
+## 同一段位址從很多城市宣告
+
+Cloudflare 從不同城市的機房宣告同一段 `1.1.1.0/24`，台北的機房對台北一帶的網路宣告，巴黎的機房對巴黎一帶的網路宣告。開頭那張表的 TPE、NRT、CDG 三個回應，就是三個城市各自宣告的結果。
+
+這時巴黎 ISP 會同時收到兩則 `1.1.1.0/24` 的宣告。巴黎機房直接告訴它「交給我」，路徑只有 `13335`。台北機房也把宣告交給亞洲的 transit，再經過歐洲 transit 傳到巴黎 ISP。照這則走的話，封包要交給歐洲 transit，路徑上多了兩個 AS。
+
+unicast 也常常這樣。例如一家公司同時接了 ISP 甲跟 ISP 乙，甲跟乙都會往外宣告這家公司的位址。如果遠方有一家 transit 業者跟甲、乙都直連，它就會從甲、乙各收到一則宣告，兩則都指向同一家公司。router 的做法一直都是從收到的幾條裡挑一條最好的寫進 routing table，其他的留著備用。router 分辨不出兩條路的盡頭是不是同一台機器，選路時也用不到這個資訊。
+
+把出發地跟「1.1.1.1 放在哪裡」兩兩配對，結果是這樣：
+
+| 出發地 | 只有台北有 1.1.1.1（unicast） | 台北、巴黎都有 1.1.1.1（anycast） |
+|---|---|---|
+| 台北 | 台北 ISP → Cloudflare 台北 | 台北 ISP → Cloudflare 台北（一樣） |
+| 巴黎 | 巴黎 ISP → 歐洲 transit → 亞洲 transit → Cloudflare 台北 | 巴黎 ISP → Cloudflare 巴黎 |
+
+四種組合裡，只有從巴黎出發、兩邊都有 1.1.1.1 的時候結果變了。巴黎 ISP 照 BGP 的規則，挑了 AS 比較少的巴黎機房那則宣告，所以封包交給了巴黎的機房。
+
+在台灣跑 traceroute，可以看到封包在哪裡交給 Cloudflare：
+
+```
+ 1    192.168.0.1      家裡的 router
+ 2–7  10.x.x.x         ISP 內部
+ 8    162.158.240.6    Cloudflare 的網路（162.158.0.0/15 登記在 Cloudflare 名下）
+ 9    1.1.1.1          21.2 ms
+```
+
+hop 7 還在 ISP 裡，hop 8 就進了 Cloudflare，中間沒有 transit。同一時間 `https://1.1.1.1/cdn-cgi/trace` 回的是 `colo=TPE`。
+
+## 「近」是怎麼算的
+
+BGP 的選路步驟（RFC 4271 §9.1）依序比：
+
+1. 每個網路替路由打的偏好分數，怎麼打由各網路自己決定，RFC 沒規定
+2. 路徑上的 AS 數量
+3. 在自己網路裡走到交接點有多遠
+
+這裡只列了三項，RFC 在第 2、3 項之間還有 Origin、MED 等幾項比較細的比法。全部比下來，沒有一項是地理距離。
+
+多數時候，近的機房剛好也是路徑短、交接點近的那個，所以看起來像是送到最近的機房。
+
+2026 年 10 月借了 Globalping 放在世界各地的 40 台量測機器（probe），各連一次 `1.1.1.1`。如果照地理距離走，每台都該連到離自己最近的 Cloudflare 機房。40 台裡有 22 台連到自己所在城市的機房。另外 18 台連到別的城市。其中有些所在城市可能沒有 Cloudflare 機房，不過這次沒有逐一確認。下面兩組，同一個地區的 probe 連到了不同的機房：
+
+| probe 所在 | 所在網路 | 連到的機房 | 距離 |
+|---|---|---|---|
+| 紐倫堡（德國） | netcup | 法蘭克福（FRA） | 紐倫堡到法蘭克福約 190 km |
+| 紐倫堡（德國） | Hetzner | 巴黎（CDG） | 紐倫堡到巴黎約 640 km |
+| 蒙特婁（加拿大） | OVH | 多倫多（YYZ） | 兩城相距約 500 km |
+| 多倫多（加拿大） | HostPapa | 蒙特婁（YUL） | 兩城相距約 500 km |
+
+距離是兩個城市之間的直線距離。
+
+- **紐倫堡**：兩台 probe 在同一個城市，所在網路不同。netcup 那台連到比較近的法蘭克福，Hetzner 那台卻連到 640 km 外的巴黎。
+- **蒙特婁、多倫多**：兩個城市都有 Cloudflare 機房，照距離應該各自連到本地，實際上兩台剛好連到對方的城市。
+
+紐倫堡的 Hetzner 那一筆，七分鐘後又指定同一個網路重跑一輪，分到的三個 probe 都連到巴黎。同時跑的 traceroute 顯示，封包在 Hetzner 自己的線路上從紐倫堡走到巴黎，到了巴黎才交給 Cloudflare。量測資料裡沒有 probe 編號，所以不確定這三個裡有沒有第一輪那一個。
+
+Cloudflare 在法蘭克福也有機房，Hetzner 為什麼不在那裡交出去，從外面沒辦法確定。traceroute 只會顯示 Hetzner 最後選中的路；網路之間交換路由時也只傳選中的那條，所以公開的路由資料一樣查不到它手上有沒有法蘭克福那條。
+
+## 一個 IP 不是應該唯一嗎
+
+- **只登記一次。** `1.1.1.0/24` 登記在 APNIC（亞太區的 IP 註冊機構）名下，whois 紀錄寫著「Routed globally by AS13335/Cloudflare」。
+- **只有 AS13335 能宣告。** RPKI（Resource Public Key Infrastructure）是一套給路由用的簽章紀錄，其中一筆 ROA（Route Origin Authorization）寫著 `1.1.1.0/24` 只能由 AS13335 宣告。別的 AS 用自己的編號宣告，有開 RPKI 驗證的網路會把那條判成無效，接著要丟掉還是只調低優先順序，由各網路自己決定（RFC 6811 §5）。
+- **RPKI 驗證只比對兩樣東西：位址段（prefix），跟路徑最右邊、發出宣告的那個 AS 編號。** 所以別的網路要是想冒充 Cloudflare，把自己宣告的路徑最右邊寫成 13335，RPKI 驗證一樣會通過，原本該送到 1.1.1.1 的一部分流量，就可能被送到這個網路去（RFC 6811 §6）。RPKI 驗證也不看宣告是從哪個城市發出來的，所以 Cloudflare 每個城市發出的宣告都會通過驗證。
+
+## 常見應用
+
+- **CDN**：同一個 IP 到處宣告，多數使用者會被自己網路的 router 送到附近的機房。
+- **分散 DDoS**：botnet 的機器散在世界各地，每台送出的流量由它所在的網路送到對應的機房，攻擊流量因此分散到很多機房，不會全部擠到同一個。RFC 4786（講怎麼營運 anycast 服務）把這點列為使用 anycast 的理由之一。
+- **雲端的全球入口**：AWS Global Accelerator、Google Cloud 的 global external Application Load Balancer 都用 anycast 把使用者帶到附近的 edge。這個 edge 是業者私有網路的入口。以 Global Accelerator 來說，使用者的 TCP 連線在 edge 就結束了，它再另外開一條連線到 endpoint，中間走 AWS 自己的網路。Google 的 Premium 網路層級也一樣，走 Google 自己的 backbone。
+16:T5230,LS0tCnRpdGxlOiAi55W25b6I5aSa5Zyw5pa55L2N572u6YO95pivIDEuMS4xLjEiCmNyZWF0ZWRBdDogMjAyNi0wMy0wNFQyMzowMzowMAp0YWdzOiBbbmV0d29yaywgYW55Y2FzdCwgYmdwLCBjZG5dCmRlc2NyaXB0aW9uOiAi5Y+w5YyX6Lef5be06buO6YO96YCjIDEuMS4xLjHvvIzlm57mh4nnmoTljbvmmK/lhanlgIvln47luILnmoTmqZ/lmajjgILmspLmnInoqrDlnKjkuK3plpPliIbphY3vvIzmmK/ot6/kuIrmr4/lj7Agcm91dGVyIOeFp+iHquW3seeahCByb3V0aW5nIHRhYmxlIOi9iemAgeOAgklTUCDot58gQ2xvdWRmbGFyZSDkuYvplpPpgqPkupsgcm91dGVyIOeahCByb3V0aW5nIHRhYmxl77yM5piv5bCB5YyF5Ye655m85YmN5b6eIEJHUCDlrqPlkYrlrbjkvobnmoTjgIIiCi0tLQoK5omT6ZaLIGBodHRwczovLzEuMS4xLjEvY2RuLWNnaS90cmFjZWDvvIzoo6HpnaLmnInkuIDooYwgYGNvbG89YO+8jOWvq+eahOaYr+WbnuaHiemAmeasoeiri+axgueahCBDbG91ZGZsYXJlIOapn+aIv++8jOeUqOapn+WgtOS7o+eivOihqOekuuOAgjIwMjYg5bm0IDEwIOaciOWcqOS4ieWAi+WfjuW4gumAo+e3mueahOe1kOaenO+8mgoKfCDlvp7lk6roo6HpgKMgfCDpgKPnmoTkvY3lnYAgfCBgY29sb2AgfAp8LS0tfC0tLXwtLS18Cnwg5Y+w54GjIHwgYDEuMS4xLjFgIHwgYFRQRWDvvIjlj7DljJfvvIkgfAp8IOadseS6rCB8IGAxLjEuMS4xYCB8IGBOUlRg77yI5p2x5Lqs5oiQ55Sw77yJIHwKfCDlt7Tpu44gfCBgMS4xLjEuMWAgfCBgQ0RHYO+8iOW3tOm7juaItOmrmOaogu+8iSB8CgrkvY3lnYDkuIDmqKPvvIzlm57mh4nnmoTljbvmmK/kuInlgIvln47luILnmoTmqZ/lmajjgILlvojlpJrlnLDmlrnnmoTmqZ/lmajlhbHnlKjlkIzkuIDlgIsgSVDvvIzpgJnnqK7lgZrms5Xlj6sgYW55Y2FzdOOAggoK5aaC5p6c5Y+q5a246YGOIHVuaWNhc3TvvIzkuZ/lsLHmmK/kuIDlgIsgSVAg5bCN5LiA5Y+w5qmf5Zmo77yM6YCZ5Lu25LqL5b6I6Zuj5oOz5YOP44CC5bCB5YyF5LiK5Y+q5a+r5LqGIGAxLjEuMS4xYO+8jOaykuWvq+imgeWOu+WPsOWMl+mChOaYr+W3tOm7ju+8jOWug+aYr+aAjum6vOiiq+mAgeWIsOWFtuS4reS4gOWPsOeahOWRou+8nwoK6Lev5LiK5q+P5LiA5Y+wIHJvdXRlciDpg73mnIPmn6Xoh6rlt7HnmoQgcm91dGluZyB0YWJsZe+8jOeFp+S4iumdouWvq+eahOaWueWQkeaKiuWwgeWMheW+gOS4i+mAgeOAgnVuaWNhc3Qg6LefIGFueWNhc3Qg6YO95piv6YCZ5qij5p+l6KGo44CCCgojIyB1bmljYXN0IOeahOWwgeWMheaAjum6vOaJvuWIsOi3rwoK5bCB5YyF5b6e6Zu76IWm5Ye655m877yM5LiA6Lev5LiK5q+P5LiA56uZ6YO95Zyo5p+l6KGo77yaCgoqKjEuIOiHquW3seeahOmbu+iFpuOAgioqIOWcqCBtYWNPUyDkuIrot5EgYHJvdXRlIC1uIGdldCAxLjEuMS4xYO+8mgoKYGBgCiAgIHJvdXRlIHRvOiAxLjEuMS4xCmRlc3RpbmF0aW9uOiBkZWZhdWx0CiAgICBnYXRld2F5OiAxOTIuMTY4LjAuMQpgYGAKCumbu+iFpuS4jeefpemBkyBgMS4xLjEuMWAg5Zyo5ZOq6KOh77yM5Y+q5aW95aWX55SoIGBkZWZhdWx0YCDpgqPkuIDnrYbvvJrkuI3oqo3lvpfnmoTkvY3lnYDvvIzkuIDlvovkuqTntaYgYDE5Mi4xNjguMC4xYO+8jOS5n+WwseaYr+WutuijoeeahCByb3V0ZXLjgIIKCioqMi4g5a626KOh55qEIHJvdXRlcuOAgioqIOS4gOaoo+WPquacieS4gOethiBkZWZhdWx077yM5Lqk57WmIElTUOOAggoKKiozLiBJU1Ag5bCN5aSW55qEIHJvdXRlcuOAgioqIOmAmeijoeaJjeacieWujOaVtOeahCByb3V0aW5nIHRhYmxl77yMaW50ZXJuZXQg5LiK5q+P5LiA5q615L2N5Z2A77yIcHJlZml477yJ6Kmy5Lqk57Wm5ZOq5YCL6YSw5bGF77yIbmV4dCBob3DvvInpg73liJflnKjoo6HpnaLvvJoKCnwg5L2N5Z2A5q6177yIcHJlZml477yJIHwg5Lqk57Wm6Kqw77yIbmV4dCBob3DvvIkgfAp8LS0tfC0tLXwKfCBgMS4xLjEuMC8yNGAgfCDpmpTlo4Hmn5DlgIvntrLot6/nmoQgcm91dGVyIHwKfCBgOC44LjguMC8yNGAgfCDlj6bkuIDlgIvphLDlsYXntrLot6/nmoQgcm91dGVyIHwKCnJvdXRlciDmi7/lsIHljIXnmoTnm67nmoTlnLDljrvmr5TlsI3vvIzlpb3lub7nrYbpg73nrKblkIjmmYLpgbjnr4TlnI3mnIDlsI/nmoTpgqPnrYbvvIzlho3nhaflroPlr6vnmoTmlrnlkJHovYnlh7rljrvjgILkuIvkuIDlj7Agcm91dGVyIOWGjeafpeS4gOasoe+8jOS4gOi3s+S4gOi3s+aOpeS4i+WOu+OAggoKKirlsLHnrpfmmK8gdW5pY2FzdO+8jOS5n+aykuacieS7u+S9leS4gOWPsCByb3V0ZXIg55+l6YGTIGAxLjEuMS4xYCDlnKjlk6rlgIvln47luILjgIIqKiByb3V0ZXIg55qE6IG36LKs5bCx5piv5oqK5bCB5YyF5Lif57Wm5LiL5LiA5L2N77yM5o6l5LiL5L6G5Y675ZOq77yM6K6T5LiL5LiA5L2N5Y6754Wp5oOx5bCx5aW944CCCgojIyByb3V0aW5nIHRhYmxlIOijoeeahOavj+S4gOethuW+nuWTquS+hu+8mkJHUAoKaW50ZXJuZXQg5piv5b6I5aSa5YCL5ZCE6Ieq566h55CG55qE57ay6Lev5o6l6LW35L6G55qE44CC5q+P5YCL57ay6Lev5Y+r5LiA5YCLIEFT77yIQXV0b25vbW91cyBTeXN0ZW3vvInvvIzmnInoh6rlt7HnmoTnt6jomZ/vvIzkvovlpoIgQ2xvdWRmbGFyZSDmmK8gQVMxMzMzNeOAggoK5b6e5Y+w54Gj6YCjIGAxLjEuMS4xYO+8jOacg+eisOWIsOeahCBBUyDnhafpm6Lkvb/nlKjogIXlpJrov5HmjpLvvIzlpKfoh7TmmK/pgJnkuInnqK7vvJoKCnwg6KeS6ImyIHwg5L2N572uIHwg5YGa5LuA6bq8IHwg5L6L5a2QIHwKfC0tLXwtLS18LS0tfC0tLXwKfCBJU1AgfCDpm6Lkvb/nlKjogIXmnIDov5EgfCDmjqXlrrboo6HjgIHmiYvmqZ/nmoTntrLot6/vvIznt5rot6/kuLvopoHlnKjkuIDlgIvlnIvlrrboo6EgfCDlj7DngaPnmoTpm7vkv6Hmpa3ogIUgfAp8IHRyYW5zaXQgfCDkuK3plpMgfCDluavliKXnmoTntrLot6/ovYnpgIHmtYHph4/vvIznt5rot6/ot6jlnIvot6jmtLLvvIxJU1Ag5rKS5o6l5Yiw55qE5Zyw5pa55bCx5LuY6Yyi6KuL5a6D5Luj6YCBIHwgTlRU77yIQVMyOTE077yJIHwKfCBDbG91ZGZsYXJlIHwg5Y+m5LiA56uvIHwgYDEuMS4xLjFgIOWwseWcqOWug+eahOe2sui3r+ijoe+8jOW+iOWkmuWfjuW4gumDveacieapn+aIv++8jOi3n+W+iOWkmiBJU1Ag55u06YCj77yM5Lmf5o6l5LqGIHRyYW5zaXQgfCBBUzEzMzM1IHwKCuW+nuWPsOeBo+mAoyBgMS4xLjEuMWDvvIzlsIHljIXlh7rkuoYgSVNQIOWwseebtOaOpemAsiBDbG91ZGZsYXJl77yM5b6M6Z2i55qEIHRyYWNlcm91dGUg5Y+v5Lul55yL5Yiw44CCSVNQIOi3n+ebrueahOWcsOaykuacieebtOmAo+eahOaZguWAme+8jOS4remWk+aJjeacg+WkmuS4gOautSB0cmFuc2l044CCCgrlhanlgIvntrLot6/jgIznm7TpgKPjgI3vvIzmmK/mjIfpm5nmlrnnmoQgcm91dGVyIOWPr+S7peebtOaOpeS6kuWCs+WwgeWMheOAgeebtOaOpei3kSBCR1DvvIzkuK3plpPkuI3ntpPpgY7nrKzkuInlgIvntrLot6/jgILnt5rot6/pgJrluLjmnInlhannqK7mi4nms5XvvJrlnKjlkIzkuIDmo5/os4fmlpnkuK3lv4Poo6Hmi4nkuIDmop3nt5rmiorlhanlj7Agcm91dGVyIOaOpei1t+S+hu+8jOaIluWFqemCiumDveaOpeWIsOWQjOS4gOWAiyBJbnRlcm5ldCBFeGNoYW5nZe+8iElY77yJ55qEIHN3aXRjaCDkuIrjgIJJWCDmmK/lvojlpJrntrLot6/pm4bkuK3kuqTmj5vmtYHph4/nmoTlnLDmlrnjgIJJWCDnmoQgc3dpdGNoIOWPquiyoOiyrOaKiue3mui3r+aOpemAmu+8jOacrOi6q+S4jeeul+S4gOWAi+e2sui3r++8jOaJgOS7pei3r+W+keS4iueahCBBUyDnt6jomZ/kuI3mnIPlpJrlh7rkuIDlgIvjgIIKCuebuOmEsOeahCBBUyDkuYvplpPnlKggQkdQ77yIQm9yZGVyIEdhdGV3YXkgUHJvdG9jb2zvvInkupLnm7jlkYrnn6XjgIzopoHljrvpgJnmrrXkvY3lnYDvvIzkuqTntabmiJHjgI3vvIzpgJnlj6sqKuWuo+WRiioq44CC5q+P5YCL57ay6Lev5pS25Yiw5a6j5ZGK77yM5bCx5oqK6YCZ5q615L2N5Z2A6Lef44CM5Lqk57Wm6Kqw44CN5a+r6YCy6Ieq5bex55qEIHJvdXRpbmcgdGFibGXvvIzkvYbkuI3kuIDlrprmnIPlho3ovYnlkYrlh7rljrvjgIIKCue3mui3r+aOpeWlveS5i+W+jO+8jOWFqeWAi+e2sui3r+mChOimgee0hOWumuiqsOeahOa1gemHj+WPr+S7pei1sOmAmeainee3muOAguacgOW4uOimi+eahOe0hOWumuaYryBwZWVyaW5n77ya6ZuZ5pa55Y+q5Lqk5o+b5b6A6Ieq5bex57ay6Lev55qE5rWB6YeP77yM5Lul5Y+K5b6A44CM5LuY6Yyi57Wm6Ieq5bex55qE57ay6Lev44CN55qE5rWB6YeP77yM5LiN5pu/5bCN5pa55oqK5rWB6YeP6L2J57Wm56ys5LiJ5pa544CCQ2xvdWRmbGFyZSDmjqHnlKggb3BlbiBwZWVyaW5n77yM6Lef5a6D5Zyo5ZCM5LiA5YCL5Zyw6bue5pyJ5qmf5oi/55qE57ay6Lev77yM5oOzIHBlZXJpbmcg5bCx6IO95o6l5LiK77yIW0Nsb3VkZmxhcmUgcGVlcmluZyBwb2xpY3ldKGh0dHBzOi8vd3d3LmNsb3VkZmxhcmUuY29tL3BlZXJpbmctcG9saWN5LynvvInjgILlgYfoqK3lj7DljJcgSVNQIOi3nyBDbG91ZGZsYXJlIOeahOebtOmAo+aYryBwZWVyaW5n77yM5Y+w5YyXIElTUCDlvp4gQ2xvdWRmbGFyZSDmlLbliLDnmoTot6/nlLHvvIzlj6rmnIPovYnlkYrntabku5jpjKLntablroPnmoTlrqLmiLbntrLot6/vvIzkuI3mnIPovYnlkYrntablroPoh6rlt7HnmoQgdHJhbnNpdOOAgkNsb3VkZmxhcmUg5Y+m5aSW5o6l5LqGIHRyYW5zaXTvvIzlhbbku5blnIvlrrbnmoTntrLot6/mmK/lvp4gdHJhbnNpdCDpgqPoo6HmlLbliLAgYDEuMS4xLjAvMjRgIOeahOWuo+WRiu+8mgoKMS4gQ2xvdWRmbGFyZe+8iEFTMTMzMzXvvInmioogYDEuMS4xLjAvMjRgIOWuo+WRiue1puebtOmAo+eahCBJU1DvvIzkuZ/lrqPlkYrntablroPmjqXnmoQgdHJhbnNpdO+8jOi3r+W+keaYryBgMTMzMzVg44CCCjIuIOWPsOWMl+eahCBJU1Ag5pS25Yiw77yM6KiY5LiL44CMYDEuMS4xLjAvMjRgIOS6pOe1piBDbG91ZGZsYXJl44CN77yM5YaN6L2J5ZGK57Wm5a6D55qE5a6i5oi257ay6Lev44CCCjMuIHRyYW5zaXQg5pS25Yiw77yM6KiY5LiL44CMYDEuMS4xLjAvMjRgIOS6pOe1piBDbG91ZGZsYXJl44CN77yM5YaN6L2J5ZGK57Wm5LuY6Yyi57Wm5a6D55qEIElTUOOAgui3r+W+keiuiuaIkOWFqeWAi+e3qOiZn++8jHRyYW5zaXQg6Ieq5bex55qEIEFTIOe3qOiZn+WcqOW3puOAgWAxMzMzNWAg5Zyo5Y+z44CCCjQuIOmCo+S6myBJU1Ag6KiY5LiL44CMYDEuMS4xLjAvMjRgIOS6pOe1pumAmeWAiyB0cmFuc2l044CN44CCCgrlrqPlkYrmr4/ntpPpgY7kuIDlgIvntrLot6/vvIzot6/lvpHkuIrlsLHlpJrkuIDlgIsgQVMg57eo6Jmf77yM5pS25Yiw55qE57ay6Lev5Zug5q2k55+l6YGT6YCZ5qKd6Lev6KaB57aT6YGO5bm+5YCL57ay6Lev44CCCgrlpoLmnpzlj7DljJcgSVNQIOaKiuW+niBwZWVyaW5nIOaUtuWIsOeahCBDbG91ZGZsYXJlIOi3r+eUsei9ieWRiue1puiHquW3seeahCB0cmFuc2l077yM6YCZ5a62IHRyYW5zaXQg5omL5LiK5bCx5pyJ5YWp5qKd6Lev44CCQ2xvdWRmbGFyZSDnm7TmjqXntabnmoTot6/lvpHmmK8gYDEzMzM1YO+8jOWPsOWMlyBJU1Ag6L2J5L6G55qE6Lev5b6R5pyJ5YWp5YCL57eo6Jmf77yM5Y+w5YyXIElTUCDnmoTnt6jomZ/lnKjlt6bjgIFgMTMzMzVgIOWcqOWPs+OAgnRyYW5zaXQg6YG46Lev5pmC6YCa5bi45YWI6YG45a6i5oi257Wm55qE6Lev55Sx77yM5Zug54K65a6i5oi25LuY6Yyi57Wm5a6D77yM6ICM5Y+w5YyXIElTUCDmraPmmK/lroPnmoTlrqLmiLbjgILmiYDku6XlsLHnrpflj7DljJcgSVNQIOmCo+aineavlOi8g+mVt++8jHRyYW5zaXQg5Lmf5Y+v6IO96YG45a6D44CCCgp0cmFuc2l0IOmBuOS6humAmeaineS5i+W+jO+8jOacg+WGjei9ieWRiue1puS7mOmMoue1piB0cmFuc2l0IOeahOWFtuS7luWuouaItuOAgumCo+S6m+WuouaItuW+gCBgMS4xLjEuMWAg55qE5rWB6YeP5pa85piv5YWI6YCy6YCZ5a62IHRyYW5zaXTvvIzlho3kuqTntablj7DljJcgSVNQ44CC5Y+w5YyXIElTUCDnrYnmlrzoirHpjKLosrcgdHJhbnNpdCDnmoTnt5rot6/vvIzmm78gQ2xvdWRmbGFyZSDpgIHliKXkurrnmoTmtYHph4/vvIznt5rot6/kuZ/lj6/og73loZ7niIbjgIIKCumAmeeorui9ieWRiuWPqyByb3V0ZSBsZWFr77yIW1JGQyA3OTA4IMKnMy40XShodHRwczovL3d3dy5yZmMtZWRpdG9yLm9yZy9yZmMvcmZjNzkwOC50eHQp77yJ44CCMjAxNSDlubTvvIzljbDluqbnmoQgSVNQIEhhdGh3YXkg5oqK5b6eIEdvb2dsZSDmlLbliLDnmoQgMzM2IOWAiyBwcmVmaXgg6L2J5ZGK57Wm5a6D55qEIHRyYW5zaXQgQWlydGVs77yMR29vZ2xlIOWcqOatkOa0suOAgeS6nua0sueahOacjeWLmeWboOatpOWkp+evhOWcjeS4reaWt+OAggoKUklQRe+8iOatkOa0sueahCBJUCDoqLvlhormqZ/mp4vvvInlnKjkuJbnlYzlkITlnLDmlL7kuobkuIDnqK7lj6sgY29sbGVjdG9yIOeahOapn+WZqO+8jOeUqOS+huingOWvn+WQhOWcsOeahOe2sui3r+aUtuWIsOS6huS7gOm6vOWuo+WRiuOAgmNvbGxlY3RvciDot5/nlbblnLDnmoTntrLot6/mjqXkuIogQkdQIOS5i+W+jO+8jOavj+WAi+e2sui3r+acg+aKiuiHquW3seebruWJjeS9v+eUqOeahOi3r+eUseWRiuiotCBjb2xsZWN0b3LvvIxjb2xsZWN0b3Ig5YaN5oqK6YCZ5Lqb6Lev55Sx6KiY5LiL5L6G57Wm5Lq65p+l6Kmi44CCY29sbGVjdG9yIOaUtuWIsOi3r+eUseWPquWBmuiomOmMhO+8jOS4jeaLv+S+hui9iemAgeWwgeWMheOAggoKY29sbGVjdG9yIOiomOS4i+eahOi3r+W+keimgeW+nuWPs+W+gOW3puiugO+8jOacgOWPs+mCiuaYr+eZvOWHuuWuo+WRiueahOe2sui3r++8jOW+gOW3puavj+WkmuS4gOWAi+e3qOiZn++8jOWwseaYr+Wuo+WRiuWkmue2k+mBjuS4gOWAi+e2sui3r+OAguS7peadseS6rCBjb2xsZWN0b3Ig5pS25Yiw55qEIGA0Nzc3IDEzMzM1YCDngrrkvovvvJoKCjEuIDEzMzM177yIQ2xvdWRmbGFyZe+8ieWuo+WRiu+8mmAxLjEuMS4wLzI0YCDkuqTntabmiJHjgIIKMi4gNDc3N++8iEFQTklD77yM5Lqe5aSq5Y2AIElQIOiou+WGiuapn+ani+WcqOadseS6rOeahOe2sui3r++8ieaUtuWIsO+8jOi9ieWRiuadseS6rOeahCBjb2xsZWN0b3LjgIIKMy4gY29sbGVjdG9yIOiomOS4i+eahOi3r+W+keWwseaYryBgNDc3NyAxMzMzNWDjgIIKCjIwMjYtMTAtMjcg5p+lIGAxLjEuMS4wLzI0YCDnmoTntZDmnpzvvJoKCnwgY29sbGVjdG9yIOaJgOWcqCB8IOaUtuWIsOeahOi3r+W+kSB8IOi9ieWRiiBjb2xsZWN0b3Ig55qE57ay6LevIHwKfC0tLXwtLS18LS0tfAp8IOadseS6rCB8IGA0Nzc3IDEzMzM1YCB8IEFTNDc3N++8jEFQTklDIHwKfCDlgKvmlaYgfCBgMTU2OTIgMTMzMzVgIHwgQVMxNTY5Mu+8jOiLseWci+eahCBSYXpvcmJsdWUgfAp8IDIzIOWAiyBjb2xsZWN0b3Ig5ZCI6KiIIHwg6Lev5b6R5YWo6YOo5LulIGAxMzMzNWAg57WQ5bC+IHwgMzUxIOWAiyBwZWVy77yM5bGs5pa8IDI1NCDlgIsgQVMgfAoK5YWp5qKd6Lev5b6R6YO95Y+q5pyJ5YWp5YCL57eo6Jmf77yM6KGo56S6IDQ3NzfjgIExNTY5MiDot58gQ2xvdWRmbGFyZSDkuYvplpPmspLmnInpmpTokZfliKXnmoQgQVPjgIJwZWVyIOaYr+i3nyBjb2xsZWN0b3Ig5o6l5LiKIEJHUCDnmoQgcm91dGVy77yM5ZCM5LiA5YCL57ay6Lev5Y+v5Lul5o6l5aW95bm+5YCL77yM5omA5LulIHBlZXIg5q+UIEFTIOWkmu+8iFtSSVBFc3RhdCBsb29raW5nIGdsYXNzXShodHRwczovL3N0YXQucmlwZS5uZXQvZGF0YS9sb29raW5nLWdsYXNzL2RhdGEuanNvbj9yZXNvdXJjZT0xLjEuMS4wLzI0Ke+8ieOAguadseS6rOi3n+WAq+aVpuaUtuWIsOeahOi3r+W+kemDveS7pSAxMzMzNSDntZDlsL7vvIzkvYbot6/lvpHkuIrlj6rmnIkgQVMg57eo6Jmf77yM5omA5Lul5YiG5LiN5Ye66YCZ5YWp5qKd5pyA5b6M5piv5o6l5Yiw5ZCM5LiA5YCL5Z+O5biC55qE5qmf5oi/77yM6YKE5piv5LiN5ZCM5Z+O5biC55qE44CCCgrpmL/lp4bmlq/nibnkuLkgY29sbGVjdG9yIOaUtuWIsOeahOi3r+W+keaYryBgMjA1MTQgMTI5OSAxMzMzNWDvvIzlvp7lj7PlvoDlt6boroDvvJpDbG91ZGZsYXJlIOWuo+WRiu+8jDEyOTnvvIh0cmFuc2l0IOalreiAhSBBcmVsaW9u77yJ5pS25Yiw5b6M6L2J5ZGKIDIwNTE077yI55Ge5YW455qEIEF4aWFuc++8ie+8jEF4aWFucyDlho3lkYroqLQgY29sbGVjdG9y44CCMTI5OSDot58gMTMzMzUg5LmL6ZaT5rKS5pyJ5Yil55qE57eo6Jmf77yM5omA5LulIEFyZWxpb24g5piv55u05o6l5b6eIENsb3VkZmxhcmUg5pS25YiwIGAxLjEuMS4wLzI0YCDnmoTlrqPlkYrjgILlkIzkuIDlpKnnmoTos4fmlpnoo6HvvIxOVFTjgIFDb2dlbnQg562J5YW25LuWIHRyYW5zaXQg5qWt6ICF5Lmf5Ye654++5ZyoIGAxMzMzNWAg5bem6YKK56ys5LiA5YCL5L2N572u44CCCgo8ZGV0YWlscz4KPHN1bW1hcnk+5p+l6Kmi5oyH5LukPC9zdW1tYXJ5PgoK5pKIIFJJUEVzdGF0IGxvb2tpbmcgZ2xhc3Mg55qE6LOH5paZ77yM5YiX5Ye65q+P5YCLIGNvbGxlY3RvciDmlLbliLDnmoTot6/lvpHvvIzlho3mjJHlh7rkuIrpnaLmj5DliLDnmoTkuInmop3vvJoKCmBgYGJhc2gKY3VybCAtcyAnaHR0cHM6Ly9zdGF0LnJpcGUubmV0L2RhdGEvbG9va2luZy1nbGFzcy9kYXRhLmpzb24/cmVzb3VyY2U9MS4xLjEuMC8yNCcgPiBsZy5qc29uCmpxIC1yICcuZGF0YS5ycmNzW10gfCAubG9jYXRpb24gYXMgJGwgfCAucGVlcnNbXSB8ICJcKCRsKVx0XCguYXNfcGF0aCkiJyBsZy5qc29uIFwKICB8IGdyZXAgLUUgJzQ3NzcgMTMzMzV8MTU2OTIgMTMzMzV8MjA1MTQgMTI5OSAxMzMzNScKYGBgCgpgYGAKTG9uZG9uLCBHQgkxNTY5MiAxMzMzNQpBbXN0ZXJkYW0sIE5MCTIwNTE0IDEyOTkgMTMzMzUKVG9reW8sIEpQCTQ3NzcgMTMzMzUKYGBgCgpwZWVyIOe4veaVuO+8jOi3n+aJgOaciei3r+W+keacgOWPs+mCiueahOe3qOiZn++8mgoKYGBgYmFzaApqcSAnWy5kYXRhLnJyY3NbXS5wZWVyc1tdXSB8IGxlbmd0aCcgbGcuanNvbgpqcSAnWy5kYXRhLnJyY3NbXS5wZWVyc1tdLmFzX3BhdGggfCBzcGxpdCgiICIpIHwgbGFzdF0gfCB1bmlxdWUnIGxnLmpzb24KYGBgCgrmn6XkuIDlgIsgQVMg57eo6Jmf55m76KiY5Zyo6Kqw5ZCN5LiL77yaCgpgYGBiYXNoCmN1cmwgLXMgJ2h0dHBzOi8vc3RhdC5yaXBlLm5ldC9kYXRhL2FzLW92ZXJ2aWV3L2RhdGEuanNvbj9yZXNvdXJjZT1BUzQ3NzcnIHwganEgLXIgLmRhdGEuaG9sZGVyCiMgQVBOSUMtQ09MTyAtIEFzaWEgUGFjaWZpYyBOZXR3b3JrIEluZm9ybWF0aW9uIENlbnRyZQpgYGAKCmNvbGxlY3RvciDnmoQgcGVlciDmnIPororli5XvvIwyMDI2LTEwLTI3IOafpeWIsCAzNTEg5YCL77yM6ZqU5aSp5YaN5p+l5pivIDM1NSDlgIvjgIIKCjwvZGV0YWlscz4KCiMjIOWQjOS4gOauteS9jeWdgOW+nuW+iOWkmuWfjuW4guWuo+WRigoKQ2xvdWRmbGFyZSDlvp7kuI3lkIzln47luILnmoTmqZ/miL/lrqPlkYrlkIzkuIDmrrUgYDEuMS4xLjAvMjRg77yM5Y+w5YyX55qE5qmf5oi/5bCN5Y+w5YyX5LiA5bi255qE57ay6Lev5a6j5ZGK77yM5be06buO55qE5qmf5oi/5bCN5be06buO5LiA5bi255qE57ay6Lev5a6j5ZGK44CC6ZaL6aCt6YKj5by16KGo55qEIFRQReOAgU5SVOOAgUNERyDkuInlgIvlm57mh4nvvIzlsLHmmK/kuInlgIvln47luILlkIToh6rlrqPlkYrnmoTntZDmnpzjgIIKCumAmeaZguW3tOm7jiBJU1Ag5pyD5ZCM5pmC5pS25Yiw5YWp5YmHIGAxLjEuMS4wLzI0YCDnmoTlrqPlkYrjgILlt7Tpu47mqZ/miL/nm7TmjqXlkYroqLTlroPjgIzkuqTntabmiJHjgI3vvIzot6/lvpHlj6rmnIkgYDEzMzM1YOOAguWPsOWMl+apn+aIv+S5n+aKiuWuo+WRiuS6pOe1puS6nua0sueahCB0cmFuc2l077yM5YaN57aT6YGO5q2Q5rSyIHRyYW5zaXQg5YKz5Yiw5be06buOIElTUOOAgueFp+mAmeWJh+i1sOeahOipse+8jOWwgeWMheimgeS6pOe1puatkOa0siB0cmFuc2l077yM6Lev5b6R5LiK5aSa5LqG5YWp5YCLIEFT44CCCgp1bmljYXN0IOS5n+W4uOW4uOmAmeaoo+OAguS+i+WmguS4gOWutuWFrOWPuOWQjOaZguaOpeS6hiBJU1Ag55Sy6LefIElTUCDkuZnvvIznlLLot5/kuZnpg73mnIPlvoDlpJblrqPlkYrpgJnlrrblhazlj7jnmoTkvY3lnYDjgILlpoLmnpzpgaDmlrnmnInkuIDlrrYgdHJhbnNpdCDmpa3ogIXot5/nlLLjgIHkuZnpg73nm7TpgKPvvIzlroPlsLHmnIPlvp7nlLLjgIHkuZnlkITmlLbliLDkuIDliYflrqPlkYrvvIzlhanliYfpg73mjIflkJHlkIzkuIDlrrblhazlj7jjgIJyb3V0ZXIg55qE5YGa5rOV5LiA55u06YO95piv5b6e5pS25Yiw55qE5bm+5qKd6KOh5oyR5LiA5qKd5pyA5aW955qE5a+r6YCyIHJvdXRpbmcgdGFibGXvvIzlhbbku5bnmoTnlZnokZflgpnnlKjjgIJyb3V0ZXIg5YiG6L6o5LiN5Ye65YWp5qKd6Lev55qE55uh6aCt5piv5LiN5piv5ZCM5LiA5Y+w5qmf5Zmo77yM6YG46Lev5pmC5Lmf55So5LiN5Yiw6YCZ5YCL6LOH6KiK44CCCgrmiorlh7rnmbzlnLDot5/jgIwxLjEuMS4xIOaUvuWcqOWTquijoeOAjeWFqeWFqemFjeWwje+8jOe1kOaenOaYr+mAmeaoo++8mgoKfCDlh7rnmbzlnLAgfCDlj6rmnInlj7DljJfmnIkgMS4xLjEuMe+8iHVuaWNhc3TvvIkgfCDlj7DljJfjgIHlt7Tpu47pg73mnIkgMS4xLjEuMe+8iGFueWNhc3TvvIkgfAp8LS0tfC0tLXwtLS18Cnwg5Y+w5YyXIHwg5Y+w5YyXIElTUCDihpIgQ2xvdWRmbGFyZSDlj7DljJcgfCDlj7DljJcgSVNQIOKGkiBDbG91ZGZsYXJlIOWPsOWMl++8iOS4gOaoo++8iSB8Cnwg5be06buOIHwg5be06buOIElTUCDihpIg5q2Q5rSyIHRyYW5zaXQg4oaSIOS6nua0siB0cmFuc2l0IOKGkiBDbG91ZGZsYXJlIOWPsOWMlyB8IOW3tOm7jiBJU1Ag4oaSIENsb3VkZmxhcmUg5be06buOIHwKCuWbm+eorue1hOWQiOijoe+8jOWPquacieW+nuW3tOm7juWHuueZvOOAgeWFqemCiumDveaciSAxLjEuMS4xIOeahOaZguWAmee1kOaenOiuiuS6huOAguW3tOm7jiBJU1Ag54WnIEJHUCDnmoTopo/liYfvvIzmjJHkuoYgQVMg5q+U6LyD5bCR55qE5be06buO5qmf5oi/6YKj5YmH5a6j5ZGK77yM5omA5Lul5bCB5YyF5Lqk57Wm5LqG5be06buO55qE5qmf5oi/44CCCgrlnKjlj7DngaPot5EgdHJhY2Vyb3V0Ze+8jOWPr+S7peeci+WIsOWwgeWMheWcqOWTquijoeS6pOe1piBDbG91ZGZsYXJl77yaCgpgYGAKIDEgICAgMTkyLjE2OC4wLjEgICAgICDlrrboo6HnmoQgcm91dGVyCiAy4oCTNyAgMTAueC54LnggICAgICAgICBJU1Ag5YWn6YOoCiA4ICAgIDE2Mi4xNTguMjQwLjYgICAgQ2xvdWRmbGFyZSDnmoTntrLot6/vvIgxNjIuMTU4LjAuMC8xNSDnmbvoqJjlnKggQ2xvdWRmbGFyZSDlkI3kuIvvvIkKIDkgICAgMS4xLjEuMSAgICAgICAgICAyMS4yIG1zCmBgYAoKaG9wIDcg6YKE5ZyoIElTUCDoo6HvvIxob3AgOCDlsLHpgLLkuoYgQ2xvdWRmbGFyZe+8jOS4remWk+aykuaciSB0cmFuc2l044CC5ZCM5LiA5pmC6ZaTIGBodHRwczovLzEuMS4xLjEvY2RuLWNnaS90cmFjZWAg5Zue55qE5pivIGBjb2xvPVRQRWDjgIIKCiMjIOOAjOi/keOAjeaYr+aAjum6vOeul+eahAoKQkdQIOeahOmBuOi3r+atpempn++8iFJGQyA0MjcxIMKnOS4x77yJ5L6d5bqP5q+U77yaCgoxLiDmr4/lgIvntrLot6/mm7/ot6/nlLHmiZPnmoTlgY/lpb3liIbmlbjvvIzmgI7purzmiZPnlLHlkITntrLot6/oh6rlt7HmsbrlrprvvIxSRkMg5rKS6KaP5a6aCjIuIOi3r+W+keS4iueahCBBUyDmlbjph48KMy4g5Zyo6Ieq5bex57ay6Lev6KOh6LWw5Yiw5Lqk5o6l6bue5pyJ5aSa6YGgCgrpgJnoo6Hlj6rliJfkuobkuInpoIXvvIxSRkMg5Zyo56ysIDLjgIEzIOmgheS5i+mWk+mChOaciSBPcmlnaW7jgIFNRUQg562J5bm+6aCF5q+U6LyD57Sw55qE5q+U5rOV44CC5YWo6YOo5q+U5LiL5L6G77yM5rKS5pyJ5LiA6aCF5piv5Zyw55CG6Led6Zui44CCCgrlpJrmlbjmmYLlgJnvvIzov5HnmoTmqZ/miL/liZvlpb3kuZ/mmK/ot6/lvpHnn63jgIHkuqTmjqXpu57ov5HnmoTpgqPlgIvvvIzmiYDku6XnnIvotbfkvoblg4/mmK/pgIHliLDmnIDov5HnmoTmqZ/miL/jgIIKCjIwMjYg5bm0IDEwIOaciOWAn+S6hiBHbG9iYWxwaW5nIOaUvuWcqOS4lueVjOWQhOWcsOeahCA0MCDlj7Dph4/muKzmqZ/lmajvvIhwcm9iZe+8ie+8jOWQhOmAo+S4gOasoSBgMS4xLjEuMWDjgILlpoLmnpznhaflnLDnkIbot53pm6LotbDvvIzmr4/lj7Dpg73oqbLpgKPliLDpm6Loh6rlt7HmnIDov5HnmoQgQ2xvdWRmbGFyZSDmqZ/miL/jgII0MCDlj7Doo6HmnIkgMjIg5Y+w6YCj5Yiw6Ieq5bex5omA5Zyo5Z+O5biC55qE5qmf5oi/44CC5Y+m5aSWIDE4IOWPsOmAo+WIsOWIpeeahOWfjuW4guOAguWFtuS4reacieS6m+aJgOWcqOWfjuW4guWPr+iDveaykuaciSBDbG91ZGZsYXJlIOapn+aIv++8jOS4jemBjumAmeasoeaykuaciemAkOS4gOeiuuiqjeOAguS4i+mdouWFqee1hO+8jOWQjOS4gOWAi+WcsOWNgOeahCBwcm9iZSDpgKPliLDkuobkuI3lkIznmoTmqZ/miL/vvJoKCnwgcHJvYmUg5omA5ZyoIHwg5omA5Zyo57ay6LevIHwg6YCj5Yiw55qE5qmf5oi/IHwg6Led6ZuiIHwKfC0tLXwtLS18LS0tfC0tLXwKfCDntJDlgKvloKHvvIjlvrflnIvvvIkgfCBuZXRjdXAgfCDms5XomK3lhYvnpo/vvIhGUkHvvIkgfCDntJDlgKvloKHliLDms5XomK3lhYvnpo/ntIQgMTkwIGttIHwKfCDntJDlgKvloKHvvIjlvrflnIvvvIkgfCBIZXR6bmVyIHwg5be06buO77yIQ0RH77yJIHwg57SQ5YCr5aCh5Yiw5be06buO57SEIDY0MCBrbSB8Cnwg6JKZ54m55amB77yI5Yqg5ou/5aSn77yJIHwgT1ZIIHwg5aSa5YCr5aSa77yIWVla77yJIHwg5YWp5Z+O55u46Led57SEIDUwMCBrbSB8Cnwg5aSa5YCr5aSa77yI5Yqg5ou/5aSn77yJIHwgSG9zdFBhcGEgfCDokpnnibnlqYHvvIhZVUzvvIkgfCDlhanln47nm7jot53ntIQgNTAwIGttIHwKCui3nembouaYr+WFqeWAi+WfjuW4guS5i+mWk+eahOebtOe3mui3nembouOAggoKLSAqKue0kOWAq+WgoSoq77ya5YWp5Y+wIHByb2JlIOWcqOWQjOS4gOWAi+WfjuW4gu+8jOaJgOWcqOe2sui3r+S4jeWQjOOAgm5ldGN1cCDpgqPlj7DpgKPliLDmr5TovIPov5HnmoTms5XomK3lhYvnpo/vvIxIZXR6bmVyIOmCo+WPsOWNu+mAo+WIsCA2NDAga20g5aSW55qE5be06buO44CCCi0gKirokpnnibnlqYHjgIHlpJrlgKvlpJoqKu+8muWFqeWAi+WfjuW4gumDveaciSBDbG91ZGZsYXJlIOapn+aIv++8jOeFp+i3nembouaHieipsuWQhOiHqumAo+WIsOacrOWcsO+8jOWvpumam+S4iuWFqeWPsOWJm+WlvemAo+WIsOWwjeaWueeahOWfjuW4guOAggoK57SQ5YCr5aCh55qEIEhldHpuZXIg6YKj5LiA562G77yM5LiD5YiG6ZCY5b6M5Y+I5oyH5a6a5ZCM5LiA5YCL57ay6Lev6YeN6LeR5LiA6Lyq77yM5YiG5Yiw55qE5LiJ5YCLIHByb2JlIOmDvemAo+WIsOW3tOm7juOAguWQjOaZgui3keeahCB0cmFjZXJvdXRlIOmhr+ekuu+8jOWwgeWMheWcqCBIZXR6bmVyIOiHquW3seeahOe3mui3r+S4iuW+nue0kOWAq+Wgoei1sOWIsOW3tOm7ju+8jOWIsOS6huW3tOm7juaJjeS6pOe1piBDbG91ZGZsYXJl44CC6YeP5ris6LOH5paZ6KOh5rKS5pyJIHByb2JlIOe3qOiZn++8jOaJgOS7peS4jeeiuuWumumAmeS4ieWAi+ijoeacieaykuacieesrOS4gOi8qumCo+S4gOWAi+OAggoKQ2xvdWRmbGFyZSDlnKjms5XomK3lhYvnpo/kuZ/mnInmqZ/miL/vvIxIZXR6bmVyIOeCuuS7gOm6vOS4jeWcqOmCo+ijoeS6pOWHuuWOu++8jOW+nuWklumdouaykui+puazleeiuuWumuOAgnRyYWNlcm91dGUg5Y+q5pyD6aGv56S6IEhldHpuZXIg5pyA5b6M6YG45Lit55qE6Lev77yb57ay6Lev5LmL6ZaT5Lqk5o+b6Lev55Sx5pmC5Lmf5Y+q5YKz6YG45Lit55qE6YKj5qKd77yM5omA5Lul5YWs6ZaL55qE6Lev55Sx6LOH5paZ5LiA5qij5p+l5LiN5Yiw5a6D5omL5LiK5pyJ5rKS5pyJ5rOV6Jit5YWL56aP6YKj5qKd44CCCgojIyDkuIDlgIsgSVAg5LiN5piv5oeJ6Kmy5ZSv5LiA5ZeOCgotICoq5Y+q55m76KiY5LiA5qyh44CCKiogYDEuMS4xLjAvMjRgIOeZu+iomOWcqCBBUE5JQ++8iOS6nuWkquWNgOeahCBJUCDoqLvlhormqZ/mp4vvvInlkI3kuIvvvIx3aG9pcyDntIDpjITlr6vokZfjgIxSb3V0ZWQgZ2xvYmFsbHkgYnkgQVMxMzMzNS9DbG91ZGZsYXJl44CN44CCCi0gKirlj6rmnIkgQVMxMzMzNSDog73lrqPlkYrjgIIqKiBSUEtJ77yIUmVzb3VyY2UgUHVibGljIEtleSBJbmZyYXN0cnVjdHVyZe+8ieaYr+S4gOWll+e1pui3r+eUseeUqOeahOewveeroOe0gOmMhO+8jOWFtuS4reS4gOethiBST0HvvIhSb3V0ZSBPcmlnaW4gQXV0aG9yaXphdGlvbu+8ieWvq+iRlyBgMS4xLjEuMC8yNGAg5Y+q6IO955SxIEFTMTMzMzUg5a6j5ZGK44CC5Yil55qEIEFTIOeUqOiHquW3seeahOe3qOiZn+Wuo+WRiu+8jOaciemWiyBSUEtJIOmpl+itieeahOe2sui3r+acg+aKiumCo+aineWIpOaIkOeEoeaViO+8jOaOpeiRl+imgeS4n+aOiemChOaYr+WPquiqv+S9juWEquWFiOmghuW6j++8jOeUseWQhOe2sui3r+iHquW3seaxuuWumu+8iFJGQyA2ODExIMKnNe+8ieOAggotICoqUlBLSSDpqZforYnlj6rmr5TlsI3lhanmqKPmnbHopb/vvJrkvY3lnYDmrrXvvIhwcmVmaXjvvInvvIzot5/ot6/lvpHmnIDlj7PpgorjgIHnmbzlh7rlrqPlkYrnmoTpgqPlgIsgQVMg57eo6Jmf44CCKiog5omA5Lul5Yil55qE57ay6Lev6KaB5piv5oOz5YaS5YWFIENsb3VkZmxhcmXvvIzmioroh6rlt7HlrqPlkYrnmoTot6/lvpHmnIDlj7Ppgorlr6vmiJAgMTMzMzXvvIxSUEtJIOmpl+itieS4gOaoo+acg+mAmumBju+8jOWOn+acrOipsumAgeWIsCAxLjEuMS4xIOeahOS4gOmDqOWIhua1gemHj++8jOWwseWPr+iDveiiq+mAgeWIsOmAmeWAi+e2sui3r+WOu++8iFJGQyA2ODExIMKnNu+8ieOAglJQS0kg6amX6K2J5Lmf5LiN55yL5a6j5ZGK5piv5b6e5ZOq5YCL5Z+O5biC55m85Ye65L6G55qE77yM5omA5LulIENsb3VkZmxhcmUg5q+P5YCL5Z+O5biC55m85Ye655qE5a6j5ZGK6YO95pyD6YCa6YGO6amX6K2J44CCCgojIyDluLjopovmh4nnlKgKCi0gKipDRE4qKu+8muWQjOS4gOWAiyBJUCDliLDomZXlrqPlkYrvvIzlpJrmlbjkvb/nlKjogIXmnIPooqvoh6rlt7HntrLot6/nmoQgcm91dGVyIOmAgeWIsOmZhOi/keeahOapn+aIv+OAggotICoq5YiG5pWjIEREb1MqKu+8mmJvdG5ldCDnmoTmqZ/lmajmlaPlnKjkuJbnlYzlkITlnLDvvIzmr4/lj7DpgIHlh7rnmoTmtYHph4/nlLHlroPmiYDlnKjnmoTntrLot6/pgIHliLDlsI3mh4nnmoTmqZ/miL/vvIzmlLvmk4rmtYHph4/lm6DmraTliIbmlaPliLDlvojlpJrmqZ/miL/vvIzkuI3mnIPlhajpg6jmk6DliLDlkIzkuIDlgIvjgIJSRkMgNDc4Nu+8iOism+aAjum6vOeHn+mBiyBhbnljYXN0IOacjeWLme+8ieaKiumAmem7nuWIl+eCuuS9v+eUqCBhbnljYXN0IOeahOeQhueUseS5i+S4gOOAggotICoq6Zuy56uv55qE5YWo55CD5YWl5Y+jKirvvJpBV1MgR2xvYmFsIEFjY2VsZXJhdG9y44CBR29vZ2xlIENsb3VkIOeahCBnbG9iYWwgZXh0ZXJuYWwgQXBwbGljYXRpb24gTG9hZCBCYWxhbmNlciDpg73nlKggYW55Y2FzdCDmiorkvb/nlKjogIXluLbliLDpmYTov5HnmoQgZWRnZeOAgumAmeWAiyBlZGdlIOaYr+alreiAheengeaciee2sui3r+eahOWFpeWPo+OAguS7pSBHbG9iYWwgQWNjZWxlcmF0b3Ig5L6G6Kqq77yM5L2/55So6ICF55qEIFRDUCDpgKPnt5rlnKggZWRnZSDlsLHntZDmnZ/kuobvvIzlroPlho3lj6blpJbplovkuIDmop3pgKPnt5rliLAgZW5kcG9pbnTvvIzkuK3plpPotbAgQVdTIOiHquW3seeahOe2sui3r+OAgkdvb2dsZSDnmoQgUHJlbWl1bSDntrLot6/lsaTntJrkuZ/kuIDmqKPvvIzotbAgR29vZ2xlIOiHquW3seeahCBiYWNrYm9uZeOAggo=17:T51ef,<p>Open <code>https://1.1.1.1/cdn-cgi/trace</code> and one line reads <code>colo=</code>: the Cloudflare location that answered, named by its airport code. Results from three cities in October 2026:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Connecting from</th><th>Address</th><th><code>colo</code></th></tr></thead><tbody><tr><td>Taiwan</td><td><code>1.1.1.1</code></td><td><code>TPE</code> (Taipei)</td></tr><tr><td>Tokyo</td><td><code>1.1.1.1</code></td><td><code>NRT</code> (Tokyo Narita)</td></tr><tr><td>Paris</td><td><code>1.1.1.1</code></td><td><code>CDG</code> (Paris Charles de Gaulle)</td></tr></tbody></table>
+<p>Same address, machines in three different cities. Machines in many places sharing one IP is called anycast.</p>
+<p>If all you have learned is unicast, one IP for one machine, this is hard to picture. The packet only says <code>1.1.1.1</code>. It does not say Taipei or Paris. So how does it end up at one of them?</p>
+<p>Every router on the way looks up its own routing table and sends the packet in the direction the table gives. Unicast and anycast both work this way.</p>
+<h2>How a unicast packet finds its way</h2>
+<p>From the computer onwards, every stop looks something up:</p>
+<p><strong>1. Your own computer.</strong> On macOS, <code>route -n get 1.1.1.1</code>:</p>
+<pre><code>   route to: 1.1.1.1
+destination: default
+    gateway: 192.168.0.1
+</code></pre>
+<p>The computer does not know where <code>1.1.1.1</code> is, so it falls back to <code>default</code>: anything it does not recognise goes to <code>192.168.0.1</code>, the home router.</p>
+<p><strong>2. The home router.</strong> Also only a default entry. It hands the packet to the ISP.</p>
+<p><strong>3. The ISP's outward-facing routers.</strong> These hold a full routing table, listing for every block of addresses (prefix) on the internet which neighbour to hand it to (next hop):</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Block of addresses (prefix)</th><th>Hand to (next hop)</th></tr></thead><tbody><tr><td><code>1.1.1.0/24</code></td><td>a router in a neighbouring network</td></tr><tr><td><code>8.8.8.0/24</code></td><td>a router in another neighbouring network</td></tr></tbody></table>
+<p>The router compares the packet's destination against the table, picks the most specific entry if several match, and forwards the packet that way. The next router looks it up again, hop after hop.</p>
+<p><strong>Even for unicast, no router knows which city <code>1.1.1.1</code> is in.</strong> A router's job is to pass the packet to the next one; where it goes after that is the next router's problem.</p>
+<h2>Where each routing table entry comes from: BGP</h2>
+<p>The internet is many separately run networks joined together. Each one is an AS (Autonomous System) with its own number; Cloudflare is AS13335.</p>
+<p>A connection from Taiwan to <code>1.1.1.1</code> can meet three kinds of AS. In order of distance from the user:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Role</th><th>Position</th><th>What it does</th><th>Example</th></tr></thead><tbody><tr><td>ISP</td><td>Closest to the user</td><td>Connects homes and phones; lines mostly inside one country</td><td>A Taiwanese telecom</td></tr><tr><td>Transit</td><td>Middle</td><td>Carries other networks' traffic over lines that cross countries; ISPs pay it to reach places they have no line to</td><td>NTT (AS2914)</td></tr><tr><td>Cloudflare</td><td>Other end</td><td><code>1.1.1.1</code> is inside its network; locations in many cities, direct lines to many ISPs, and connections to transit too</td><td>AS13335</td></tr></tbody></table>
+<p>From Taiwan to <code>1.1.1.1</code>, the packet leaves the ISP and goes straight into Cloudflare with no transit, as the traceroute further down shows. Transit is needed only when the ISP has no direct line to the destination.</p>
+<p>Two networks having a "direct line" means their routers can pass packets and run BGP with each other without going through a third network. Physically this is usually one of two setups: a cable between the two routers in the same data centre, or both connected to the same switch at an Internet Exchange (IX). An IX is a place where many networks meet to exchange traffic; its switch only connects the lines, is not a network, and does not appear among the AS numbers on a path.</p>
+<p>Neighbouring ASes use BGP (Border Gateway Protocol) to tell each other "for this block of addresses, hand traffic to me". That is an <strong>announcement</strong>. Each network that receives one writes the block and "hand it to whom" into its routing table, but it does not necessarily pass it on.</p>
+<p>Once the line is in place, the two networks still have to agree whose traffic may use it. The most common agreement is peering: each side carries traffic headed for its own network and for the networks that pay it, and does not forward the other side's traffic to third parties. Cloudflare runs open peering: any network with a location in the same place as Cloudflare can peer with it (<a href="https://www.cloudflare.com/peering-policy/">Cloudflare peering policy</a>). Suppose the line between the Taipei ISP and Cloudflare is peering. Then the Taipei ISP passes the route it learned from Cloudflare only to the customer networks that pay it, never to its own transit. Cloudflare also connects to transit, and networks in other countries learn <code>1.1.1.0/24</code> from transit:</p>
+<ol>
+<li>Cloudflare (AS13335) announces <code>1.1.1.0/24</code> to the ISPs it has direct lines to and to the transit networks it connects to, with the path <code>13335</code>.</li>
+<li>The Taipei ISP receives it, records "<code>1.1.1.0/24</code> goes to Cloudflare", and passes it to its customer networks.</li>
+<li>The transit network receives it, records "<code>1.1.1.0/24</code> goes to Cloudflare", and passes it to the ISPs that pay it. The path now has two numbers, the transit network's own AS number on the left and <code>13335</code> on the right.</li>
+<li>Those ISPs record "<code>1.1.1.0/24</code> goes to this transit network".</li>
+</ol>
+<p>Every network the announcement passes through adds one AS number to the path, so the receiving network knows how many networks the route crosses.</p>
+<p>If the Taipei ISP passes the Cloudflare route it learned over peering to its own transit, that transit network now holds two routes. The one straight from Cloudflare has the path <code>13335</code>; the one from the Taipei ISP has two numbers, the Taipei ISP's on the left and <code>13335</code> on the right. Transit networks usually prefer routes from customers, because customers pay them, and the Taipei ISP is its customer. So even though the Taipei ISP's route is longer, the transit network may pick it.</p>
+<p>Once it does, it passes the route to its other paying customers. Their traffic to <code>1.1.1.1</code> then enters this transit network and is handed to the Taipei ISP. The Taipei ISP ends up paying for transit to carry other people's traffic to Cloudflare, and its lines may fill up.</p>
+<p>Passing a route on like this is a route leak (<a href="https://www.rfc-editor.org/rfc/rfc7908.txt">RFC 7908 §3.4</a>). In 2015 the Indian ISP Hathway passed 336 prefixes it had learned from Google to its transit provider Airtel, and Google services in Europe and Asia went down widely.</p>
+<p>RIPE (the IP registry for Europe) places machines called collectors around the world to observe what announcements networks receive. Once a collector has BGP sessions with local networks, each network tells it the routes it is currently using, and the collector records them for anyone to query. A collector only records the routes it receives; it does not forward packets with them.</p>
+<p>Read a recorded path from right to left. The rightmost number is the network that sent the announcement, and each number further left is one more network the announcement passed through. Take <code>4777 13335</code>, received by the Tokyo collector:</p>
+<ol>
+<li>13335 (Cloudflare) announces: hand <code>1.1.1.0/24</code> to me.</li>
+<li>4777 (APNIC, the Asia-Pacific IP registry, its network in Tokyo) receives it and tells the Tokyo collector.</li>
+<li>The collector records the path <code>4777 13335</code>.</li>
+</ol>
+<p>Results for <code>1.1.1.0/24</code> on 2026-10-27:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Collector location</th><th>Path received</th><th>Network that told the collector</th></tr></thead><tbody><tr><td>Tokyo</td><td><code>4777 13335</code></td><td>AS4777, APNIC</td></tr><tr><td>London</td><td><code>15692 13335</code></td><td>AS15692, Razorblue (UK)</td></tr><tr><td>All 23 collectors</td><td>every path ends in <code>13335</code></td><td>351 peers in 254 ASes</td></tr></tbody></table>
+<p>Both paths have only two numbers, so there is no other AS between 4777 or 15692 and Cloudflare. A peer is a router that holds a BGP session with a collector, and one network can run several, so there are more peers than ASes (<a href="https://stat.ripe.net/data/looking-glass/data.json?resource=1.1.1.0/24">RIPEstat looking glass</a>). The Tokyo and London paths both end in 13335, but a path holds only AS numbers, so it cannot tell whether the two end at a location in the same city or in different ones.</p>
+<p>The Amsterdam collector received the path <code>20514 1299 13335</code>. Read right to left: Cloudflare announces, 1299 (the transit provider Arelion) receives it and passes it to 20514 (Axians in Sweden), and Axians tells the collector. There is no other number between 1299 and 13335, so Arelion received the <code>1.1.1.0/24</code> announcement directly from Cloudflare. In the same day's data, other transit providers such as NTT and Cogent also appear as the first number left of <code>13335</code>.</p>
+<details>
+<summary>Query commands</summary>
+<p>Fetch the RIPEstat looking glass data, list the path each collector received, and pick out the three paths mentioned above:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">curl</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -s</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'https://stat.ripe.net/data/looking-glass/data.json?resource=1.1.1.0/24'</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> ></span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> lg.json</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">jq</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -r</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> '.data.rrcs[] | .location as $l | .peers[] | "\($l)\t\(.as_path)"'</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> lg.json</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> \</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  |</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> grep</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -E</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> '4777 13335|15692 13335|20514 1299 13335'</span></span></code></pre></figure>
+<pre><code>London, GB	15692 13335
+Amsterdam, NL	20514 1299 13335
+Tokyo, JP	4777 13335
+</code></pre>
+<p>Total peers, and the rightmost number of every path:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">jq</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> '[.data.rrcs[].peers[]] | length'</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> lg.json</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">jq</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> '[.data.rrcs[].peers[].as_path | split(" ") | last] | unique'</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> lg.json</span></span></code></pre></figure>
+<p>Look up who an AS number is registered to:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">curl</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -s</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'https://stat.ripe.net/data/as-overview/data.json?resource=AS4777'</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> |</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> jq</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -r</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> .data.holder</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># APNIC-COLO - Asia Pacific Network Information Centre</span></span></code></pre></figure>
+<p>Collector peers change over time: 351 on 2026-10-27, and 355 the next day.</p>
+</details>
+<h2>One block of addresses, announced from many cities</h2>
+<p>Cloudflare announces the same <code>1.1.1.0/24</code> from locations in different cities: the Taipei location to networks around Taipei, the Paris location to networks around Paris. The TPE, NRT and CDG answers in the opening table come from three cities each announcing it.</p>
+<p>The Paris ISP now receives two announcements for <code>1.1.1.0/24</code>. The Paris location tells it directly "hand it to me", with the path <code>13335</code>. The Taipei location also hands its announcement to a transit network in Asia, and it reaches the Paris ISP through Transit Europe. Following that one means handing the packet to Transit Europe, with two more ASes on the path.</p>
+<p>Receiving two announcements for the same block is common in unicast too. Say a company connects to ISP A and ISP B; both announce the company's addresses. A transit provider far away with direct lines to both A and B then receives one announcement from A and one from B, both leading to the same company. Routers have always picked the best of the routes they hear, put it in the routing table, and kept the rest as backups. A router cannot tell whether two routes end at the same machine, and its route choice does not use that information.</p>
+<p>Pair each starting point with where 1.1.1.1 lives:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Starting from</th><th>Only Taipei has 1.1.1.1 (unicast)</th><th>Taipei and Paris both have it (anycast)</th></tr></thead><tbody><tr><td>Taipei</td><td>Taipei ISP → Cloudflare Taipei</td><td>Taipei ISP → Cloudflare Taipei (same)</td></tr><tr><td>Paris</td><td>Paris ISP → Transit Europe → Transit Asia → Cloudflare Taipei</td><td>Paris ISP → Cloudflare Paris</td></tr></tbody></table>
+<p>Of the four, only Paris with anycast changes. Following BGP's rules, the Paris ISP picks the Paris location's announcement, which has fewer ASes, and the packet goes to the Paris location.</p>
+<p>A traceroute from Taiwan shows where the packet is handed to Cloudflare:</p>
+<pre><code> 1    192.168.0.1      home router
+ 2–7  10.x.x.x         inside the ISP
+ 8    162.158.240.6    Cloudflare's network (162.158.0.0/15 is registered to Cloudflare)
+ 9    1.1.1.1          21.2 ms
+</code></pre>
+<p>Hop 7 is still inside the ISP and hop 8 is already Cloudflare, with no transit in between. <code>https://1.1.1.1/cdn-cgi/trace</code> at the same time returned <code>colo=TPE</code>.</p>
+<h2>How "near" is decided</h2>
+<p>BGP's selection steps (RFC 4271 §9.1) compare, in order:</p>
+<ol>
+<li>The preference each network assigns to a route; the RFC leaves it to each network</li>
+<li>How many ASes the path crosses</li>
+<li>How far it is inside the network's own lines to the hand-off point</li>
+</ol>
+<p>Only three are listed here; between the second and third the RFC has a few finer comparisons such as Origin and MED. Through all of them, geographic distance never comes up.</p>
+<p>Most of the time the nearby location is also the one with the short path and the close hand-off, so it looks like "sent to the nearest location".</p>
+<p>In October 2026, 40 measurement machines (probes) that Globalping places around the world each connected to <code>1.1.1.1</code> once. Going by geography, each should reach the Cloudflare location nearest to it. 22 of the 40 reached a location in their own city. The other 18 reached another city; some of their cities may have no Cloudflare location, but that was not checked one by one. In these two groups, probes in the same area reached different locations:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Probe in</th><th>Network</th><th>Location reached</th><th>Distance</th></tr></thead><tbody><tr><td>Nuremberg (Germany)</td><td>netcup</td><td>Frankfurt (FRA)</td><td>Nuremberg to Frankfurt, about 190 km</td></tr><tr><td>Nuremberg (Germany)</td><td>Hetzner</td><td>Paris (CDG)</td><td>Nuremberg to Paris, about 640 km</td></tr><tr><td>Montreal (Canada)</td><td>OVH</td><td>Toronto (YYZ)</td><td>the two cities are about 500 km apart</td></tr><tr><td>Toronto (Canada)</td><td>HostPapa</td><td>Montreal (YUL)</td><td>the two cities are about 500 km apart</td></tr></tbody></table>
+<p>Distances are straight lines between the cities.</p>
+<ul>
+<li><strong>Nuremberg</strong>: two probes in the same city, on different networks. The netcup one reached the nearer Frankfurt; the Hetzner one reached Paris, 640 km away.</li>
+<li><strong>Montreal and Toronto</strong>: both cities have Cloudflare locations, so by distance each probe should stay local. Instead each reached the other city.</li>
+</ul>
+<p>Seven minutes after the Hetzner result, a second round asked for Hetzner's network in Nuremberg again; all three probes it got reached Paris. A traceroute run at the same time showed the packets travelling on Hetzner's own lines from Nuremberg to Paris and being handed to Cloudflare only in Paris. The measurement data has no probe IDs, so it is not certain whether those three included the first-round probe.</p>
+<p>Cloudflare has a location in Frankfurt too, and from outside there is no way to confirm why Hetzner does not hand traffic over there. A traceroute shows only the route Hetzner finally picked, and networks pass on only the route they chose, so public routing data cannot show whether Hetzner holds a Frankfurt route as well.</p>
+<h2>Isn't an IP supposed to be unique?</h2>
+<ul>
+<li><strong>Registered once.</strong> <code>1.1.1.0/24</code> is registered under APNIC (the IP registry for Asia-Pacific), and the whois record says "Routed globally by AS13335/Cloudflare".</li>
+<li><strong>Only AS13335 may announce it.</strong> RPKI (Resource Public Key Infrastructure) is a set of signed records for routing. Its ROA (Route Origin Authorization) for <code>1.1.1.0/24</code> says only AS13335 may announce it. If another AS announces the block under its own number, networks that run RPKI validation mark the route invalid; whether they then drop it or only lower its preference is each network's choice (RFC 6811 §5).</li>
+<li><strong>RPKI validation compares only two things: the block of addresses (prefix), and the rightmost AS on the path, the one that sent the announcement.</strong> So a network trying to impersonate Cloudflare can put 13335 at the right end of the path it announces and still pass RPKI validation, and some traffic meant for 1.1.1.1 may then be sent to that network (RFC 6811 §6). RPKI validation also ignores which city an announcement came from, so every announcement Cloudflare sends from each city passes.</li>
+</ul>
+<h2>Common uses</h2>
+<ul>
+<li><strong>CDNs</strong>: one IP announced everywhere, and most users get sent to a nearby location by the routers in their own network.</li>
+<li><strong>Spreading out DDoS traffic</strong>: a botnet's machines are all over the world, and each machine's traffic is sent by its own network to the matching location, so the attack lands at many locations instead of one. RFC 4786 (on operating anycast services) lists this as one of the reasons to use anycast.</li>
+<li><strong>Cloud global entry points</strong>: AWS Global Accelerator and Google Cloud's global external Application Load Balancer use anycast to bring users to a nearby edge. That edge is an entrance to the provider's private network. With Global Accelerator, the user's TCP connection ends at the edge, and a new connection goes on to the endpoint over AWS's own network. Google's Premium network tier works the same way, over Google's own backbone.</li>
+</ul>8:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L13",null,{"htmlContent":"$14","rawContent":"$15","base64Content":"$16","title":"當很多地方位置都是 1.1.1.1","createdAt":"$undefined","updatedAt":"$undefined","tags":["network","anycast","bgp","cdn"],"altHtmlContent":"$17","altTitle":"When many places are all 1.1.1.1","currentLang":"zh","altLang":"en","canonicalPath":"/v2/anycast-one-ip-many-places"}]}]}]

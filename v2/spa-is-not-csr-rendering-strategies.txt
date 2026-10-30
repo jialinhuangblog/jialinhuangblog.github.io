@@ -1,0 +1,316 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"default"]
+4:I[48350,[],""]
+5:I[11412,[],""]
+6:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+7:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-6e2326ce7d294bfd.js"],"default"]
+9:I[96727,[],"OutletBoundary"]
+b:I[14038,[],"AsyncMetadataOutlet"]
+d:I[96727,[],"ViewportBoundary"]
+f:I[96727,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[92950,[],""]
+:HL["/_next/static/media/8760c4774489e4ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/01cc54cdad670ab3.css","style"]
+:HL["/_next/static/css/d3281eaf3cab9132.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/2aa38e97f45426ef.css","style"]
+0:{"P":null,"b":"nTKE4IB87lEgZWUaCupOc","p":"","c":["","v2","spa-is-not-csr-rendering-strategies"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","spa-is-not-csr-rendering-strategies","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/01cc54cdad670ab3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/d3281eaf3cab9132.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href=\"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap\";document.head.appendChild(l)})()"}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L7",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","spa-is-not-csr-rendering-strategies","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/2aa38e97f45426ef.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+a:null
+c:{"metadata":[["$","title","0",{"children":"CSR and SPA were once badly confused  | jialinhuang"}],["$","meta","1",{"name":"description","content":"SPA means navigation happens in the browser; CSR means JS in the browser builds the first page. Apps generated by Angular CLI, Create React App and Vue CLI do both, so the two words are easy to treat as one thing. Frameworks like Next.js made a server-produced first page the default while navigation still happens in the browser, and such a site is an SPA but not CSR."}],["$","link","2",{"rel":"canonical","href":"/v2/spa-is-not-csr-rendering-strategies"}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"
+13:I[86734,["7654","static/chunks/7654-2fe46cddc56d2856.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+14:T1ef7,<p>I started programming in 2017, when Angular, React and Vue were the big three and SPA frameworks were in fashion. Or rather, those frameworks were all I knew; I had no idea about server-side rendering in things like ASP.NET. Only after I came across Next.js did I learn about SSR, and only because of SSR did I learn about its counterpart, CSR. Until then my impression was that SPA meant CSR, and that SSR had appeared to fix the problems of SPAs.</p>
+<p>But SPA and CSR refer to two different things.</p>
+<ul>
+<li><strong>SPA</strong> (Single-Page Application) means that on navigation, JS in the browser updates the page instead of asking the server for a whole new HTML page.</li>
+<li><strong>CSR</strong> (Client-Side Rendering) means the first page's HTML is assembled by JS in the browser; the server only sends a nearly empty HTML file and the JS.</li>
+</ul>
+<p>Apps generated by Angular CLI, Create React App and Vue CLI do both by default, so the two words are easy to treat as one thing.</p>
+<h2>How SPA and CSR came apart</h2>
+<p>Having the server produce an SPA's first page, which is SSR (Server-Side Rendering), goes back further than it seems. Rendr in 2012 let Backbone apps render on both the server and the client (<a href="https://github.com/rendrjs/rendr">rendrjs/rendr</a>), and React 0.4 in 2013 already had <code>renderComponentToString</code> to generate HTML on the server and send it to the browser (<a href="https://github.com/facebook/react/blob/main/CHANGELOG.md">React CHANGELOG</a>). But developers had to write their own Node server that called such a function on each request and then let the browser take over navigation. Next.js made SSR the default in 2016: every component in <code>pages/</code> is server-rendered automatically, while navigation is still handled by JS in the browser (<a href="https://vercel.com/blog/next">Next.js announcement</a>). A site built with the Next.js Pages Router has a server-rendered first page, not CSR, yet it navigates exactly like an SPA, so it is still an SPA.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Years</th><th>What happened</th><th>SPA and CSR</th></tr></thead><tbody><tr><td>2010–2014</td><td>SPAs emerge: Backbone, Angular 1, Ember</td><td>All default to CSR, so in practice SPA means CSR</td></tr><tr><td>2014–2018</td><td>React and Vue dominate</td><td>Mostly still SPA plus CSR, with server rendering wired up by hand; the two words become synonyms in everyday use</td></tr><tr><td>2016–2020</td><td>Next.js, Nuxt, Gatsby make SSR and SSG (Static Site Generation) the default</td><td><span style="color:#D40920;font-weight:700">Navigation is still client-side, so still SPA, but the first page is no longer CSR</span></td></tr><tr><td>2023 on</td><td>Next.js 13.4 makes the App Router stable, built on React Server Components; React 19 (December 2024) is the release that marks React Server Components stable</td><td>Within one page, some components run only on the server and some are sent to the browser; the CSR/SSR/SSG split no longer covers it</td></tr></tbody></table>
+<p>Every term carries the assumptions of the era it was coined in. "SPA" assumed CSR because that's the era it was born in. "SSR" implied "with hydration" because the React/Vue/Svelte tradition shaped how the word was used.</p>
+<h2>What an SPA does on navigation</h2>
+<p>A traditional MPA (Multi-Page Application) asks the server for a whole page on every navigation. After a link is clicked, the two approaches go through these steps in order:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th></th><th>Traditional MPA</th><th>SPA</th></tr></thead><tbody><tr><td>1</td><td>Browser sends a GET to the server</td><td>The router (some JS) intercepts the click</td></tr><tr><td>2</td><td>Server returns a whole HTML page</td><td>If needed, fetch asks the server for data</td></tr><tr><td>3</td><td>Browser unloads the current page</td><td>DOM is updated in place</td></tr><tr><td>4</td><td>New page renders, JS runs from the start</td><td><code>history.pushState</code> changes the URL; the page was never unloaded</td></tr></tbody></table>
+<p>The user perceives "fast, no white flash, app-like". The server mostly receives requests for specific data, not whole pages as with an MPA.</p>
+<p>This says nothing about how the <strong>first</strong> page got rendered. That's a separate question. <a href="/v2/rendering-spectrum">Five ways to render a web page, and what the server and browser each do</a> animates five approaches, showing for each whether the first page's HTML is assembled by the server or by the browser.</p>
+<h2>Navigation and first render are chosen separately</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>What to decide</th><th>Choices</th></tr></thead><tbody><tr><td><strong>Navigation experience</strong></td><td>SPA (in-page updates) vs MPA (full page reloads)</td></tr><tr><td><strong>Initial render strategy</strong></td><td>CSR / SSR / SSG / RSC (React Server Components) / Islands</td></tr></tbody></table>
+<p>You choose one of each. Common combinations:</p>
+<ul>
+<li><strong>SPA + CSR</strong>: apps generated by Create React App (deprecated by React in February 2025, <a href="https://react.dev/blog/2025/02/14/sunsetting-create-react-app">React's announcement</a>), Vue CLI or Angular CLI by default, and React or Vue projects started with Vite today</li>
+<li><strong>SPA + SSR + hydration</strong>: Next.js Pages Router (for pages with <code>getServerSideProps</code> or <code>getInitialProps</code>, or when a custom <code>_app</code> has <code>getInitialProps</code>; with none of these, Next.js produces static HTML at build time), Remix, SvelteKit, Nuxt</li>
+<li><strong>SPA + SSG + hydration</strong>: Gatsby, Next.js static export (<code>output: 'export'</code>, which is what this site uses)</li>
+<li><strong>SPA + RSC + hydration of client components only</strong>: Next.js App Router (stable since 13.4, 2023)</li>
+<li><strong>MPA + pure server-render</strong>: Django, Laravel with Blade, traditional PHP. New Rails 7+ apps ship with Turbo Drive by default, so their navigation works the way the Turbo Drive paragraph below describes, without full page reloads</li>
+<li><strong>MPA + Islands</strong>: Astro (default mode). Islands means most of the page is plain HTML produced on the server, and only the few components that need interaction are hydrated in the browser</li>
+</ul>
+<p>The HTML from SSR or SSG is only the picture. HTML can carry a handler as a string, like <code>onclick="..."</code>, but in React or Vue an event handler is a function inside the component that uses the component's state and props, and it can't be turned into such a string. So the browser downloads the components' JS, runs the components again, and attaches the handlers to the existing DOM, which is hydration. The framework's router arrives with that JS, and from then on the browser handles navigation.</p>
+<p>SPA-style navigation is possible without hydration. Turbo Drive intercepts link clicks, fetches the next page's server-rendered HTML and swaps the <code>&#x3C;body></code> without a full reload (<a href="https://turbo.hotwired.dev/handbook/drive">Turbo handbook</a>). Astro's <code>&#x3C;ClientRouter /></code> also intercepts the click and swaps in the next page's fetched HTML (<a href="https://docs.astro.build/en/guides/view-transitions/">Astro docs</a>).</p>
+<h2>References</h2>
+<ul>
+<li><a href="https://turbo.hotwired.dev/handbook/drive">Turbo Drive handbook</a></li>
+<li><a href="https://docs.astro.build/en/guides/view-transitions/">Astro: View transitions</a></li>
+<li><a href="https://nextjs.org/blog/next-13-4">Next.js 13.4 release</a></li>
+<li><a href="https://react.dev/blog/2024/12/05/react-19">React 19 release</a></li>
+<li><a href="https://nextjs.org/docs/pages/building-your-application/rendering/automatic-static-optimization">Next.js: Automatic Static Optimization</a></li>
+</ul>15:T1ab1,
+I started programming in 2017, when Angular, React and Vue were the big three and SPA frameworks were in fashion. Or rather, those frameworks were all I knew; I had no idea about server-side rendering in things like ASP.NET. Only after I came across Next.js did I learn about SSR, and only because of SSR did I learn about its counterpart, CSR. Until then my impression was that SPA meant CSR, and that SSR had appeared to fix the problems of SPAs.
+
+But SPA and CSR refer to two different things.
+
+- **SPA** (Single-Page Application) means that on navigation, JS in the browser updates the page instead of asking the server for a whole new HTML page.
+- **CSR** (Client-Side Rendering) means the first page's HTML is assembled by JS in the browser; the server only sends a nearly empty HTML file and the JS.
+
+Apps generated by Angular CLI, Create React App and Vue CLI do both by default, so the two words are easy to treat as one thing.
+
+## How SPA and CSR came apart
+
+Having the server produce an SPA's first page, which is SSR (Server-Side Rendering), goes back further than it seems. Rendr in 2012 let Backbone apps render on both the server and the client ([rendrjs/rendr](https://github.com/rendrjs/rendr)), and React 0.4 in 2013 already had `renderComponentToString` to generate HTML on the server and send it to the browser ([React CHANGELOG](https://github.com/facebook/react/blob/main/CHANGELOG.md)). But developers had to write their own Node server that called such a function on each request and then let the browser take over navigation. Next.js made SSR the default in 2016: every component in `pages/` is server-rendered automatically, while navigation is still handled by JS in the browser ([Next.js announcement](https://vercel.com/blog/next)). A site built with the Next.js Pages Router has a server-rendered first page, not CSR, yet it navigates exactly like an SPA, so it is still an SPA.
+
+| Years | What happened | SPA and CSR |
+|---|---|---|
+| 2010–2014 | SPAs emerge: Backbone, Angular 1, Ember | All default to CSR, so in practice SPA means CSR |
+| 2014–2018 | React and Vue dominate | Mostly still SPA plus CSR, with server rendering wired up by hand; the two words become synonyms in everyday use |
+| 2016–2020 | Next.js, Nuxt, Gatsby make SSR and SSG (Static Site Generation) the default | <span style="color:#D40920;font-weight:700">Navigation is still client-side, so still SPA, but the first page is no longer CSR</span> |
+| 2023 on | Next.js 13.4 makes the App Router stable, built on React Server Components; React 19 (December 2024) is the release that marks React Server Components stable | Within one page, some components run only on the server and some are sent to the browser; the CSR/SSR/SSG split no longer covers it |
+
+Every term carries the assumptions of the era it was coined in. "SPA" assumed CSR because that's the era it was born in. "SSR" implied "with hydration" because the React/Vue/Svelte tradition shaped how the word was used.
+
+## What an SPA does on navigation
+
+A traditional MPA (Multi-Page Application) asks the server for a whole page on every navigation. After a link is clicked, the two approaches go through these steps in order:
+
+| | Traditional MPA | SPA |
+|---|---|---|
+| 1 | Browser sends a GET to the server | The router (some JS) intercepts the click |
+| 2 | Server returns a whole HTML page | If needed, fetch asks the server for data |
+| 3 | Browser unloads the current page | DOM is updated in place |
+| 4 | New page renders, JS runs from the start | `history.pushState` changes the URL; the page was never unloaded |
+
+The user perceives "fast, no white flash, app-like". The server mostly receives requests for specific data, not whole pages as with an MPA.
+
+This says nothing about how the **first** page got rendered. That's a separate question. [Five ways to render a web page, and what the server and browser each do](/v2/rendering-spectrum) animates five approaches, showing for each whether the first page's HTML is assembled by the server or by the browser.
+
+## Navigation and first render are chosen separately
+
+| What to decide | Choices |
+|---|---|
+| **Navigation experience** | SPA (in-page updates) vs MPA (full page reloads) |
+| **Initial render strategy** | CSR / SSR / SSG / RSC (React Server Components) / Islands |
+
+You choose one of each. Common combinations:
+
+- **SPA + CSR**: apps generated by Create React App (deprecated by React in February 2025, [React's announcement](https://react.dev/blog/2025/02/14/sunsetting-create-react-app)), Vue CLI or Angular CLI by default, and React or Vue projects started with Vite today
+- **SPA + SSR + hydration**: Next.js Pages Router (for pages with `getServerSideProps` or `getInitialProps`, or when a custom `_app` has `getInitialProps`; with none of these, Next.js produces static HTML at build time), Remix, SvelteKit, Nuxt
+- **SPA + SSG + hydration**: Gatsby, Next.js static export (`output: 'export'`, which is what this site uses)
+- **SPA + RSC + hydration of client components only**: Next.js App Router (stable since 13.4, 2023)
+- **MPA + pure server-render**: Django, Laravel with Blade, traditional PHP. New Rails 7+ apps ship with Turbo Drive by default, so their navigation works the way the Turbo Drive paragraph below describes, without full page reloads
+- **MPA + Islands**: Astro (default mode). Islands means most of the page is plain HTML produced on the server, and only the few components that need interaction are hydrated in the browser
+
+The HTML from SSR or SSG is only the picture. HTML can carry a handler as a string, like `onclick="..."`, but in React or Vue an event handler is a function inside the component that uses the component's state and props, and it can't be turned into such a string. So the browser downloads the components' JS, runs the components again, and attaches the handlers to the existing DOM, which is hydration. The framework's router arrives with that JS, and from then on the browser handles navigation.
+
+SPA-style navigation is possible without hydration. Turbo Drive intercepts link clicks, fetches the next page's server-rendered HTML and swaps the `<body>` without a full reload ([Turbo handbook](https://turbo.hotwired.dev/handbook/drive)). Astro's `<ClientRouter />` also intercepts the click and swaps in the next page's fetched HTML ([Astro docs](https://docs.astro.build/en/guides/view-transitions/)).
+
+## References
+
+- [Turbo Drive handbook](https://turbo.hotwired.dev/handbook/drive)
+- [Astro: View transitions](https://docs.astro.build/en/guides/view-transitions/)
+- [Next.js 13.4 release](https://nextjs.org/blog/next-13-4)
+- [React 19 release](https://react.dev/blog/2024/12/05/react-19)
+- [Next.js: Automatic Static Optimization](https://nextjs.org/docs/pages/building-your-application/rendering/automatic-static-optimization)
+16:T2644,LS0tCnRpdGxlOiAiQ1NSIGFuZCBTUEEgd2VyZSBvbmNlIGJhZGx5IGNvbmZ1c2VkIgpjcmVhdGVkQXQ6IDIwMjUtMDgtMDJUMTE6MzI6MDAKdGFnczogW2Zyb250ZW5kLCBzcGEsIGNzciwgc3NyLCByZW5kZXJpbmddCmRlc2NyaXB0aW9uOiAiU1BBIG1lYW5zIG5hdmlnYXRpb24gaGFwcGVucyBpbiB0aGUgYnJvd3NlcjsgQ1NSIG1lYW5zIEpTIGluIHRoZSBicm93c2VyIGJ1aWxkcyB0aGUgZmlyc3QgcGFnZS4gQXBwcyBnZW5lcmF0ZWQgYnkgQW5ndWxhciBDTEksIENyZWF0ZSBSZWFjdCBBcHAgYW5kIFZ1ZSBDTEkgZG8gYm90aCwgc28gdGhlIHR3byB3b3JkcyBhcmUgZWFzeSB0byB0cmVhdCBhcyBvbmUgdGhpbmcuIEZyYW1ld29ya3MgbGlrZSBOZXh0LmpzIG1hZGUgYSBzZXJ2ZXItcHJvZHVjZWQgZmlyc3QgcGFnZSB0aGUgZGVmYXVsdCB3aGlsZSBuYXZpZ2F0aW9uIHN0aWxsIGhhcHBlbnMgaW4gdGhlIGJyb3dzZXIsIGFuZCBzdWNoIGEgc2l0ZSBpcyBhbiBTUEEgYnV0IG5vdCBDU1IuIgotLS0KCkkgc3RhcnRlZCBwcm9ncmFtbWluZyBpbiAyMDE3LCB3aGVuIEFuZ3VsYXIsIFJlYWN0IGFuZCBWdWUgd2VyZSB0aGUgYmlnIHRocmVlIGFuZCBTUEEgZnJhbWV3b3JrcyB3ZXJlIGluIGZhc2hpb24uIE9yIHJhdGhlciwgdGhvc2UgZnJhbWV3b3JrcyB3ZXJlIGFsbCBJIGtuZXc7IEkgaGFkIG5vIGlkZWEgYWJvdXQgc2VydmVyLXNpZGUgcmVuZGVyaW5nIGluIHRoaW5ncyBsaWtlIEFTUC5ORVQuIE9ubHkgYWZ0ZXIgSSBjYW1lIGFjcm9zcyBOZXh0LmpzIGRpZCBJIGxlYXJuIGFib3V0IFNTUiwgYW5kIG9ubHkgYmVjYXVzZSBvZiBTU1IgZGlkIEkgbGVhcm4gYWJvdXQgaXRzIGNvdW50ZXJwYXJ0LCBDU1IuIFVudGlsIHRoZW4gbXkgaW1wcmVzc2lvbiB3YXMgdGhhdCBTUEEgbWVhbnQgQ1NSLCBhbmQgdGhhdCBTU1IgaGFkIGFwcGVhcmVkIHRvIGZpeCB0aGUgcHJvYmxlbXMgb2YgU1BBcy4KCkJ1dCBTUEEgYW5kIENTUiByZWZlciB0byB0d28gZGlmZmVyZW50IHRoaW5ncy4KCi0gKipTUEEqKiAoU2luZ2xlLVBhZ2UgQXBwbGljYXRpb24pIG1lYW5zIHRoYXQgb24gbmF2aWdhdGlvbiwgSlMgaW4gdGhlIGJyb3dzZXIgdXBkYXRlcyB0aGUgcGFnZSBpbnN0ZWFkIG9mIGFza2luZyB0aGUgc2VydmVyIGZvciBhIHdob2xlIG5ldyBIVE1MIHBhZ2UuCi0gKipDU1IqKiAoQ2xpZW50LVNpZGUgUmVuZGVyaW5nKSBtZWFucyB0aGUgZmlyc3QgcGFnZSdzIEhUTUwgaXMgYXNzZW1ibGVkIGJ5IEpTIGluIHRoZSBicm93c2VyOyB0aGUgc2VydmVyIG9ubHkgc2VuZHMgYSBuZWFybHkgZW1wdHkgSFRNTCBmaWxlIGFuZCB0aGUgSlMuCgpBcHBzIGdlbmVyYXRlZCBieSBBbmd1bGFyIENMSSwgQ3JlYXRlIFJlYWN0IEFwcCBhbmQgVnVlIENMSSBkbyBib3RoIGJ5IGRlZmF1bHQsIHNvIHRoZSB0d28gd29yZHMgYXJlIGVhc3kgdG8gdHJlYXQgYXMgb25lIHRoaW5nLgoKIyMgSG93IFNQQSBhbmQgQ1NSIGNhbWUgYXBhcnQKCkhhdmluZyB0aGUgc2VydmVyIHByb2R1Y2UgYW4gU1BBJ3MgZmlyc3QgcGFnZSwgd2hpY2ggaXMgU1NSIChTZXJ2ZXItU2lkZSBSZW5kZXJpbmcpLCBnb2VzIGJhY2sgZnVydGhlciB0aGFuIGl0IHNlZW1zLiBSZW5kciBpbiAyMDEyIGxldCBCYWNrYm9uZSBhcHBzIHJlbmRlciBvbiBib3RoIHRoZSBzZXJ2ZXIgYW5kIHRoZSBjbGllbnQgKFtyZW5kcmpzL3JlbmRyXShodHRwczovL2dpdGh1Yi5jb20vcmVuZHJqcy9yZW5kcikpLCBhbmQgUmVhY3QgMC40IGluIDIwMTMgYWxyZWFkeSBoYWQgYHJlbmRlckNvbXBvbmVudFRvU3RyaW5nYCB0byBnZW5lcmF0ZSBIVE1MIG9uIHRoZSBzZXJ2ZXIgYW5kIHNlbmQgaXQgdG8gdGhlIGJyb3dzZXIgKFtSZWFjdCBDSEFOR0VMT0ddKGh0dHBzOi8vZ2l0aHViLmNvbS9mYWNlYm9vay9yZWFjdC9ibG9iL21haW4vQ0hBTkdFTE9HLm1kKSkuIEJ1dCBkZXZlbG9wZXJzIGhhZCB0byB3cml0ZSB0aGVpciBvd24gTm9kZSBzZXJ2ZXIgdGhhdCBjYWxsZWQgc3VjaCBhIGZ1bmN0aW9uIG9uIGVhY2ggcmVxdWVzdCBhbmQgdGhlbiBsZXQgdGhlIGJyb3dzZXIgdGFrZSBvdmVyIG5hdmlnYXRpb24uIE5leHQuanMgbWFkZSBTU1IgdGhlIGRlZmF1bHQgaW4gMjAxNjogZXZlcnkgY29tcG9uZW50IGluIGBwYWdlcy9gIGlzIHNlcnZlci1yZW5kZXJlZCBhdXRvbWF0aWNhbGx5LCB3aGlsZSBuYXZpZ2F0aW9uIGlzIHN0aWxsIGhhbmRsZWQgYnkgSlMgaW4gdGhlIGJyb3dzZXIgKFtOZXh0LmpzIGFubm91bmNlbWVudF0oaHR0cHM6Ly92ZXJjZWwuY29tL2Jsb2cvbmV4dCkpLiBBIHNpdGUgYnVpbHQgd2l0aCB0aGUgTmV4dC5qcyBQYWdlcyBSb3V0ZXIgaGFzIGEgc2VydmVyLXJlbmRlcmVkIGZpcnN0IHBhZ2UsIG5vdCBDU1IsIHlldCBpdCBuYXZpZ2F0ZXMgZXhhY3RseSBsaWtlIGFuIFNQQSwgc28gaXQgaXMgc3RpbGwgYW4gU1BBLgoKfCBZZWFycyB8IFdoYXQgaGFwcGVuZWQgfCBTUEEgYW5kIENTUiB8CnwtLS18LS0tfC0tLXwKfCAyMDEw4oCTMjAxNCB8IFNQQXMgZW1lcmdlOiBCYWNrYm9uZSwgQW5ndWxhciAxLCBFbWJlciB8IEFsbCBkZWZhdWx0IHRvIENTUiwgc28gaW4gcHJhY3RpY2UgU1BBIG1lYW5zIENTUiB8CnwgMjAxNOKAkzIwMTggfCBSZWFjdCBhbmQgVnVlIGRvbWluYXRlIHwgTW9zdGx5IHN0aWxsIFNQQSBwbHVzIENTUiwgd2l0aCBzZXJ2ZXIgcmVuZGVyaW5nIHdpcmVkIHVwIGJ5IGhhbmQ7IHRoZSB0d28gd29yZHMgYmVjb21lIHN5bm9ueW1zIGluIGV2ZXJ5ZGF5IHVzZSB8CnwgMjAxNuKAkzIwMjAgfCBOZXh0LmpzLCBOdXh0LCBHYXRzYnkgbWFrZSBTU1IgYW5kIFNTRyAoU3RhdGljIFNpdGUgR2VuZXJhdGlvbikgdGhlIGRlZmF1bHQgfCA8c3BhbiBzdHlsZT0iY29sb3I6I0Q0MDkyMDtmb250LXdlaWdodDo3MDAiPk5hdmlnYXRpb24gaXMgc3RpbGwgY2xpZW50LXNpZGUsIHNvIHN0aWxsIFNQQSwgYnV0IHRoZSBmaXJzdCBwYWdlIGlzIG5vIGxvbmdlciBDU1I8L3NwYW4+IHwKfCAyMDIzIG9uIHwgTmV4dC5qcyAxMy40IG1ha2VzIHRoZSBBcHAgUm91dGVyIHN0YWJsZSwgYnVpbHQgb24gUmVhY3QgU2VydmVyIENvbXBvbmVudHM7IFJlYWN0IDE5IChEZWNlbWJlciAyMDI0KSBpcyB0aGUgcmVsZWFzZSB0aGF0IG1hcmtzIFJlYWN0IFNlcnZlciBDb21wb25lbnRzIHN0YWJsZSB8IFdpdGhpbiBvbmUgcGFnZSwgc29tZSBjb21wb25lbnRzIHJ1biBvbmx5IG9uIHRoZSBzZXJ2ZXIgYW5kIHNvbWUgYXJlIHNlbnQgdG8gdGhlIGJyb3dzZXI7IHRoZSBDU1IvU1NSL1NTRyBzcGxpdCBubyBsb25nZXIgY292ZXJzIGl0IHwKCkV2ZXJ5IHRlcm0gY2FycmllcyB0aGUgYXNzdW1wdGlvbnMgb2YgdGhlIGVyYSBpdCB3YXMgY29pbmVkIGluLiAiU1BBIiBhc3N1bWVkIENTUiBiZWNhdXNlIHRoYXQncyB0aGUgZXJhIGl0IHdhcyBib3JuIGluLiAiU1NSIiBpbXBsaWVkICJ3aXRoIGh5ZHJhdGlvbiIgYmVjYXVzZSB0aGUgUmVhY3QvVnVlL1N2ZWx0ZSB0cmFkaXRpb24gc2hhcGVkIGhvdyB0aGUgd29yZCB3YXMgdXNlZC4KCiMjIFdoYXQgYW4gU1BBIGRvZXMgb24gbmF2aWdhdGlvbgoKQSB0cmFkaXRpb25hbCBNUEEgKE11bHRpLVBhZ2UgQXBwbGljYXRpb24pIGFza3MgdGhlIHNlcnZlciBmb3IgYSB3aG9sZSBwYWdlIG9uIGV2ZXJ5IG5hdmlnYXRpb24uIEFmdGVyIGEgbGluayBpcyBjbGlja2VkLCB0aGUgdHdvIGFwcHJvYWNoZXMgZ28gdGhyb3VnaCB0aGVzZSBzdGVwcyBpbiBvcmRlcjoKCnwgfCBUcmFkaXRpb25hbCBNUEEgfCBTUEEgfAp8LS0tfC0tLXwtLS18CnwgMSB8IEJyb3dzZXIgc2VuZHMgYSBHRVQgdG8gdGhlIHNlcnZlciB8IFRoZSByb3V0ZXIgKHNvbWUgSlMpIGludGVyY2VwdHMgdGhlIGNsaWNrIHwKfCAyIHwgU2VydmVyIHJldHVybnMgYSB3aG9sZSBIVE1MIHBhZ2UgfCBJZiBuZWVkZWQsIGZldGNoIGFza3MgdGhlIHNlcnZlciBmb3IgZGF0YSB8CnwgMyB8IEJyb3dzZXIgdW5sb2FkcyB0aGUgY3VycmVudCBwYWdlIHwgRE9NIGlzIHVwZGF0ZWQgaW4gcGxhY2UgfAp8IDQgfCBOZXcgcGFnZSByZW5kZXJzLCBKUyBydW5zIGZyb20gdGhlIHN0YXJ0IHwgYGhpc3RvcnkucHVzaFN0YXRlYCBjaGFuZ2VzIHRoZSBVUkw7IHRoZSBwYWdlIHdhcyBuZXZlciB1bmxvYWRlZCB8CgpUaGUgdXNlciBwZXJjZWl2ZXMgImZhc3QsIG5vIHdoaXRlIGZsYXNoLCBhcHAtbGlrZSIuIFRoZSBzZXJ2ZXIgbW9zdGx5IHJlY2VpdmVzIHJlcXVlc3RzIGZvciBzcGVjaWZpYyBkYXRhLCBub3Qgd2hvbGUgcGFnZXMgYXMgd2l0aCBhbiBNUEEuCgpUaGlzIHNheXMgbm90aGluZyBhYm91dCBob3cgdGhlICoqZmlyc3QqKiBwYWdlIGdvdCByZW5kZXJlZC4gVGhhdCdzIGEgc2VwYXJhdGUgcXVlc3Rpb24uIFtGaXZlIHdheXMgdG8gcmVuZGVyIGEgd2ViIHBhZ2UsIGFuZCB3aGF0IHRoZSBzZXJ2ZXIgYW5kIGJyb3dzZXIgZWFjaCBkb10oL3YyL3JlbmRlcmluZy1zcGVjdHJ1bSkgYW5pbWF0ZXMgZml2ZSBhcHByb2FjaGVzLCBzaG93aW5nIGZvciBlYWNoIHdoZXRoZXIgdGhlIGZpcnN0IHBhZ2UncyBIVE1MIGlzIGFzc2VtYmxlZCBieSB0aGUgc2VydmVyIG9yIGJ5IHRoZSBicm93c2VyLgoKIyMgTmF2aWdhdGlvbiBhbmQgZmlyc3QgcmVuZGVyIGFyZSBjaG9zZW4gc2VwYXJhdGVseQoKfCBXaGF0IHRvIGRlY2lkZSB8IENob2ljZXMgfAp8LS0tfC0tLXwKfCAqKk5hdmlnYXRpb24gZXhwZXJpZW5jZSoqIHwgU1BBIChpbi1wYWdlIHVwZGF0ZXMpIHZzIE1QQSAoZnVsbCBwYWdlIHJlbG9hZHMpIHwKfCAqKkluaXRpYWwgcmVuZGVyIHN0cmF0ZWd5KiogfCBDU1IgLyBTU1IgLyBTU0cgLyBSU0MgKFJlYWN0IFNlcnZlciBDb21wb25lbnRzKSAvIElzbGFuZHMgfAoKWW91IGNob29zZSBvbmUgb2YgZWFjaC4gQ29tbW9uIGNvbWJpbmF0aW9uczoKCi0gKipTUEEgKyBDU1IqKjogYXBwcyBnZW5lcmF0ZWQgYnkgQ3JlYXRlIFJlYWN0IEFwcCAoZGVwcmVjYXRlZCBieSBSZWFjdCBpbiBGZWJydWFyeSAyMDI1LCBbUmVhY3QncyBhbm5vdW5jZW1lbnRdKGh0dHBzOi8vcmVhY3QuZGV2L2Jsb2cvMjAyNS8wMi8xNC9zdW5zZXR0aW5nLWNyZWF0ZS1yZWFjdC1hcHApKSwgVnVlIENMSSBvciBBbmd1bGFyIENMSSBieSBkZWZhdWx0LCBhbmQgUmVhY3Qgb3IgVnVlIHByb2plY3RzIHN0YXJ0ZWQgd2l0aCBWaXRlIHRvZGF5Ci0gKipTUEEgKyBTU1IgKyBoeWRyYXRpb24qKjogTmV4dC5qcyBQYWdlcyBSb3V0ZXIgKGZvciBwYWdlcyB3aXRoIGBnZXRTZXJ2ZXJTaWRlUHJvcHNgIG9yIGBnZXRJbml0aWFsUHJvcHNgLCBvciB3aGVuIGEgY3VzdG9tIGBfYXBwYCBoYXMgYGdldEluaXRpYWxQcm9wc2A7IHdpdGggbm9uZSBvZiB0aGVzZSwgTmV4dC5qcyBwcm9kdWNlcyBzdGF0aWMgSFRNTCBhdCBidWlsZCB0aW1lKSwgUmVtaXgsIFN2ZWx0ZUtpdCwgTnV4dAotICoqU1BBICsgU1NHICsgaHlkcmF0aW9uKio6IEdhdHNieSwgTmV4dC5qcyBzdGF0aWMgZXhwb3J0IChgb3V0cHV0OiAnZXhwb3J0J2AsIHdoaWNoIGlzIHdoYXQgdGhpcyBzaXRlIHVzZXMpCi0gKipTUEEgKyBSU0MgKyBoeWRyYXRpb24gb2YgY2xpZW50IGNvbXBvbmVudHMgb25seSoqOiBOZXh0LmpzIEFwcCBSb3V0ZXIgKHN0YWJsZSBzaW5jZSAxMy40LCAyMDIzKQotICoqTVBBICsgcHVyZSBzZXJ2ZXItcmVuZGVyKio6IERqYW5nbywgTGFyYXZlbCB3aXRoIEJsYWRlLCB0cmFkaXRpb25hbCBQSFAuIE5ldyBSYWlscyA3KyBhcHBzIHNoaXAgd2l0aCBUdXJibyBEcml2ZSBieSBkZWZhdWx0LCBzbyB0aGVpciBuYXZpZ2F0aW9uIHdvcmtzIHRoZSB3YXkgdGhlIFR1cmJvIERyaXZlIHBhcmFncmFwaCBiZWxvdyBkZXNjcmliZXMsIHdpdGhvdXQgZnVsbCBwYWdlIHJlbG9hZHMKLSAqKk1QQSArIElzbGFuZHMqKjogQXN0cm8gKGRlZmF1bHQgbW9kZSkuIElzbGFuZHMgbWVhbnMgbW9zdCBvZiB0aGUgcGFnZSBpcyBwbGFpbiBIVE1MIHByb2R1Y2VkIG9uIHRoZSBzZXJ2ZXIsIGFuZCBvbmx5IHRoZSBmZXcgY29tcG9uZW50cyB0aGF0IG5lZWQgaW50ZXJhY3Rpb24gYXJlIGh5ZHJhdGVkIGluIHRoZSBicm93c2VyCgpUaGUgSFRNTCBmcm9tIFNTUiBvciBTU0cgaXMgb25seSB0aGUgcGljdHVyZS4gSFRNTCBjYW4gY2FycnkgYSBoYW5kbGVyIGFzIGEgc3RyaW5nLCBsaWtlIGBvbmNsaWNrPSIuLi4iYCwgYnV0IGluIFJlYWN0IG9yIFZ1ZSBhbiBldmVudCBoYW5kbGVyIGlzIGEgZnVuY3Rpb24gaW5zaWRlIHRoZSBjb21wb25lbnQgdGhhdCB1c2VzIHRoZSBjb21wb25lbnQncyBzdGF0ZSBhbmQgcHJvcHMsIGFuZCBpdCBjYW4ndCBiZSB0dXJuZWQgaW50byBzdWNoIGEgc3RyaW5nLiBTbyB0aGUgYnJvd3NlciBkb3dubG9hZHMgdGhlIGNvbXBvbmVudHMnIEpTLCBydW5zIHRoZSBjb21wb25lbnRzIGFnYWluLCBhbmQgYXR0YWNoZXMgdGhlIGhhbmRsZXJzIHRvIHRoZSBleGlzdGluZyBET00sIHdoaWNoIGlzIGh5ZHJhdGlvbi4gVGhlIGZyYW1ld29yaydzIHJvdXRlciBhcnJpdmVzIHdpdGggdGhhdCBKUywgYW5kIGZyb20gdGhlbiBvbiB0aGUgYnJvd3NlciBoYW5kbGVzIG5hdmlnYXRpb24uCgpTUEEtc3R5bGUgbmF2aWdhdGlvbiBpcyBwb3NzaWJsZSB3aXRob3V0IGh5ZHJhdGlvbi4gVHVyYm8gRHJpdmUgaW50ZXJjZXB0cyBsaW5rIGNsaWNrcywgZmV0Y2hlcyB0aGUgbmV4dCBwYWdlJ3Mgc2VydmVyLXJlbmRlcmVkIEhUTUwgYW5kIHN3YXBzIHRoZSBgPGJvZHk+YCB3aXRob3V0IGEgZnVsbCByZWxvYWQgKFtUdXJibyBoYW5kYm9va10oaHR0cHM6Ly90dXJiby5ob3R3aXJlZC5kZXYvaGFuZGJvb2svZHJpdmUpKS4gQXN0cm8ncyBgPENsaWVudFJvdXRlciAvPmAgYWxzbyBpbnRlcmNlcHRzIHRoZSBjbGljayBhbmQgc3dhcHMgaW4gdGhlIG5leHQgcGFnZSdzIGZldGNoZWQgSFRNTCAoW0FzdHJvIGRvY3NdKGh0dHBzOi8vZG9jcy5hc3Ryby5idWlsZC9lbi9ndWlkZXMvdmlldy10cmFuc2l0aW9ucy8pKS4KCiMjIFJlZmVyZW5jZXMKCi0gW1R1cmJvIERyaXZlIGhhbmRib29rXShodHRwczovL3R1cmJvLmhvdHdpcmVkLmRldi9oYW5kYm9vay9kcml2ZSkKLSBbQXN0cm86IFZpZXcgdHJhbnNpdGlvbnNdKGh0dHBzOi8vZG9jcy5hc3Ryby5idWlsZC9lbi9ndWlkZXMvdmlldy10cmFuc2l0aW9ucy8pCi0gW05leHQuanMgMTMuNCByZWxlYXNlXShodHRwczovL25leHRqcy5vcmcvYmxvZy9uZXh0LTEzLTQpCi0gW1JlYWN0IDE5IHJlbGVhc2VdKGh0dHBzOi8vcmVhY3QuZGV2L2Jsb2cvMjAyNC8xMi8wNS9yZWFjdC0xOSkKLSBbTmV4dC5qczogQXV0b21hdGljIFN0YXRpYyBPcHRpbWl6YXRpb25dKGh0dHBzOi8vbmV4dGpzLm9yZy9kb2NzL3BhZ2VzL2J1aWxkaW5nLXlvdXItYXBwbGljYXRpb24vcmVuZGVyaW5nL2F1dG9tYXRpYy1zdGF0aWMtb3B0aW1pemF0aW9uKQo=17:T1e33,<p>我是 2017 年開始寫程式的，那時 Angular、React、Vue 三足鼎立，也流行 SPA 框架。又或者說，其實我只知道這種框架，不知道什麼 ASP.NET 的 SSR。後來接觸到 Next.js，我才知道 SSR，也才因為 SSR 知道相對的 CSR。在這之前，我一直以為 SPA 就等於 CSR，SSR 出現是要解決 SPA 的問題，是這樣的印象。</p>
+<p>可是 SPA 跟 CSR 指的是兩件不同的事。</p>
+<ul>
+<li><strong>SPA</strong>（Single-Page Application）是指換頁時由瀏覽器裡的 JS 更新畫面，不向 server 要一整頁新的 HTML。</li>
+<li><strong>CSR</strong>（Client-Side Rendering）是指第一頁的 HTML 由瀏覽器裡的 JS 組出來，server 只送一個幾乎是空的 HTML 跟 JS 檔。</li>
+</ul>
+<p>Angular CLI、Create React App、Vue CLI 預設產生的 app，兩件事都做，所以這兩個詞很容易被當成同一件事。</p>
+<h2>SPA 跟 CSR 是怎麼分開的</h2>
+<p>讓 SPA 的第一頁先在 server 產生，也就是 SSR（Server-Side Rendering），其實很早就有人做。2012 年的 Rendr 讓 Backbone app 在 server 跟瀏覽器都能 render（<a href="https://github.com/rendrjs/rendr">rendrjs/rendr</a>），2013 年 React 0.4 就有 <code>renderComponentToString</code>，可以在 server 上產生 HTML 送給瀏覽器（<a href="https://github.com/facebook/react/blob/main/CHANGELOG.md">React CHANGELOG</a>）。只是開發者得自己寫一個 Node server，收到請求後呼叫這類函式產生 HTML，再讓瀏覽器端接手換頁。Next.js 在 2016 年把 SSR 變成預設，<code>pages/</code> 裡的每個 component 都自動在 server render，換頁還是交給瀏覽器的 JS（<a href="https://vercel.com/blog/next">Next.js 發表文</a>）。一個用 Next.js Pages Router 做的網站，第一頁是 server render 的，不是 CSR，可是換頁的方式跟 SPA 一模一樣，所以它還是 SPA。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>年代</th><th>發生什麼</th><th>SPA 跟 CSR 的關係</th></tr></thead><tbody><tr><td>2010–2014</td><td>SPA 出現：Backbone、Angular 1、Ember</td><td>預設都用 CSR，實務上 SPA 就等於 CSR</td></tr><tr><td>2014–2018</td><td>React、Vue 成為主流</td><td>大多數還是 SPA 加 CSR，server render 要自己接，兩個詞在日常用法裡變成同義詞</td></tr><tr><td>2016–2020</td><td>Next.js、Nuxt、Gatsby 把 SSR、SSG（Static Site Generation）變成預設</td><td><span style="color:#D40920;font-weight:700">換頁還在 client 端，所以還是 SPA，但第一頁不再是 CSR</span></td></tr><tr><td>2023 起</td><td>Next.js 13.4 的 App Router 進入 stable，它用的是 React Server Components；React 19（2024 年 12 月）才把 React Server Components 列為 stable</td><td>同一頁裡，有些 component 只在 server 上執行，有些會送到瀏覽器執行，CSR、SSR、SSG 三種分法不夠用了</td></tr></tbody></table>
+<p>每個名詞都帶著它出現那個年代的預設。「SPA」預設是 CSR，因為它就是在那個年代出現的。「SSR」隱含「會做 hydration」，因為這個詞的用法是 React、Vue、Svelte 這一派建立起來的。</p>
+<h2>SPA 換頁時做了什麼</h2>
+<p>傳統的 MPA（Multi-Page Application）每換一頁就向 server 要一整頁。點一個連結之後，兩種做法依序會發生這些事：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th></th><th>傳統 MPA</th><th>SPA</th></tr></thead><tbody><tr><td>1</td><td>瀏覽器向 server 送 GET</td><td>router（一段 JS）攔下這次點擊</td></tr><tr><td>2</td><td>server 回傳一整頁 HTML</td><td>需要的話，用 fetch 向 server 要資料</td></tr><tr><td>3</td><td>瀏覽器卸載目前的頁面</td><td>原地更新 DOM</td></tr><tr><td>4</td><td>render 新頁面，JS 從頭執行</td><td>用 <code>history.pushState</code> 改網址，頁面沒有卸載過</td></tr></tbody></table>
+<p>使用者感覺很快，沒有白畫面閃一下，像在用 app。server 收到的 request 多半是要特定的資料，跟 MPA 每次要一整頁不同。</p>
+<p>這些都沒有講到<strong>第一頁</strong>是怎麼 render 出來的，那是另一個問題。<a href="/v2/rendering-spectrum">〈五種網頁渲染方式，伺服器跟瀏覽器各做了什麼〉</a>那篇用動畫比較了五種做法，畫出每一種做法裡，第一頁的 HTML 由 server 還是瀏覽器組出來。</p>
+<h2>換頁方式跟第一頁的 render 各自決定</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>要決定的事</th><th>選項</th></tr></thead><tbody><tr><td><strong>換頁體驗</strong></td><td>SPA（頁面內更新）或 MPA（整頁重新載入）</td></tr><tr><td><strong>第一次 render 的策略</strong></td><td>CSR / SSR / SSG / RSC（React Server Components）/ Islands</td></tr></tbody></table>
+<p>兩件事各選一種。常見的組合：</p>
+<ul>
+<li><strong>SPA + CSR</strong>：Create React App（React 在 2025 年 2 月已宣布棄用，<a href="https://react.dev/blog/2025/02/14/sunsetting-create-react-app">React 官方公告</a>）、Vue CLI、Angular CLI 預設產生的 app，現在用 Vite 開的 React、Vue 專案也是</li>
+<li><strong>SPA + SSR + hydration</strong>：Next.js Pages Router（頁面有 <code>getServerSideProps</code> 或 <code>getInitialProps</code>，或自訂的 <code>_app</code> 有 <code>getInitialProps</code> 的時候；都沒有的話，Next.js 在 build 時就先產生靜態 HTML）、Remix、SvelteKit、Nuxt</li>
+<li><strong>SPA + SSG + hydration</strong>：Gatsby、Next.js 的 static export（<code>output: 'export'</code>，這個網站就是）</li>
+<li><strong>SPA + RSC + 只對 client component 做 hydration</strong>：Next.js App Router（13.4 起 stable，2023 年）</li>
+<li><strong>MPA + 純 server-render</strong>：Django、Laravel 的 Blade、傳統 PHP。Rails 7 起新專案預設裝了 Turbo Drive，換頁就變成下面 Turbo Drive 那段講的方式，不整頁重新載入</li>
+<li><strong>MPA + Islands</strong>：Astro（預設模式）。Islands 是指頁面大部分是 server 產生的純 HTML，只有少數需要互動的 component 會在瀏覽器做 hydration</li>
+</ul>
+<p>SSR、SSG 送來的 HTML 只有畫面。HTML 本身可以帶 <code>onclick="..."</code> 這種寫成字串的 handler，可是 React、Vue 這類框架的 event handler 是 component 裡的 function，會用到 component 的 state 跟 props，沒辦法轉成這種字串送下來。所以瀏覽器要再下載 component 的 JS，重新執行 component，把 handler 接到現成的 DOM 上，這一步叫 hydration。框架的 router 也跟著這批 JS 進到瀏覽器，之後的換頁才由瀏覽器處理。</p>
+<p>不做 hydration 也能做到 SPA 式的換頁。Turbo Drive 會攔下連結的點擊，fetch 下一頁 server render 好的 HTML 換掉 <code>&#x3C;body></code>，不整頁重新載入（<a href="https://turbo.hotwired.dev/handbook/drive">Turbo handbook</a>）。Astro 的 <code>&#x3C;ClientRouter /></code> 也是攔下點擊，再 fetch 下一頁的 HTML 換上去（<a href="https://docs.astro.build/en/guides/view-transitions/">Astro docs</a>）。</p>
+<h2>參考資料</h2>
+<ul>
+<li><a href="https://turbo.hotwired.dev/handbook/drive">Turbo Drive handbook</a></li>
+<li><a href="https://docs.astro.build/en/guides/view-transitions/">Astro：View transitions</a></li>
+<li><a href="https://nextjs.org/blog/next-13-4">Next.js 13.4 release</a></li>
+<li><a href="https://react.dev/blog/2024/12/05/react-19">React 19 release</a></li>
+<li><a href="https://nextjs.org/docs/pages/building-your-application/rendering/automatic-static-optimization">Next.js：Automatic Static Optimization</a></li>
+</ul>8:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L13",null,{"htmlContent":"$14","rawContent":"$15","base64Content":"$16","title":"CSR and SPA were once badly confused","createdAt":"$undefined","updatedAt":"$undefined","tags":["frontend","spa","csr","ssr","rendering"],"altHtmlContent":"$17","altTitle":"CSR SPA 曾經嚴重混淆","currentLang":"en","altLang":"zh","canonicalPath":"$undefined"}]}]}]

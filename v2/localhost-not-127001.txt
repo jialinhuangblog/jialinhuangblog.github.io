@@ -1,0 +1,1287 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"default"]
+4:I[48350,[],""]
+5:I[11412,[],""]
+6:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+7:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-6e2326ce7d294bfd.js"],"default"]
+9:I[96727,[],"OutletBoundary"]
+b:I[14038,[],"AsyncMetadataOutlet"]
+d:I[96727,[],"ViewportBoundary"]
+f:I[96727,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[92950,[],""]
+:HL["/_next/static/media/8760c4774489e4ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/01cc54cdad670ab3.css","style"]
+:HL["/_next/static/css/d3281eaf3cab9132.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/2aa38e97f45426ef.css","style"]
+0:{"P":null,"b":"nTKE4IB87lEgZWUaCupOc","p":"","c":["","v2","localhost-not-127001"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","localhost-not-127001","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/01cc54cdad670ab3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/d3281eaf3cab9132.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href=\"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap\";document.head.appendChild(l)})()"}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L7",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","localhost-not-127001","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/2aa38e97f45426ef.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+a:null
+c:{"metadata":[["$","title","0",{"children":"localhost is not 127.0.0.1  | jialinhuang"}],["$","meta","1",{"name":"description","content":"From Node.js 17, localhost resolves to ::1 first on macOS. Only from Node.js 20 does the client try 127.0.0.1 when ::1 refuses. In between, connecting to a server that listens on IPv4 only fails."}],["$","link","2",{"rel":"canonical","href":"/v2/localhost-not-127001"}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"
+13:I[86734,["7654","static/chunks/7654-2fe46cddc56d2856.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+14:T81d0,<p>The backend listens on <code>127.0.0.1:1234</code>, a Node.js 17 program on the frontend side connects to <code>localhost:1234</code>, and the connection fails. The backend log has nothing in it.</p>
+<p>Node.js 17 resolves <code>localhost</code> to <code>::1</code>, the IPv6 loopback address, and sends the request to <code>[::1]:1234</code>. Nothing listens there, so the operating system refuses the connection before it reaches the backend, and the backend has nothing to log.</p>
+<pre><code>Frontend (Node.js 17): http.get("http://localhost:1234")
+           → DNS resolves localhost to ::1
+           → connects to [::1]:1234
+           → nothing listening there → connection refused
+
+Backend:  listening on 127.0.0.1:1234
+           → never sees the request
+           → no error logged
+</code></pre>
+<hr>
+<h2>Why <code>localhost</code> resolves to <code>::1</code> first</h2>
+<p>Before Node.js 17, <code>dns.lookup</code> re-sorted the operating system's answer and put IPv4 first, so <code>localhost</code> always came back as <code>127.0.0.1</code> first.</p>
+<p>Node.js 17 (October 2021) changed the default of the <code>verbatim</code> option of <code>dns.lookup</code> to <code>true</code>. It no longer re-sorts; it returns the order the operating system gives. macOS gives <code>::1</code> first.</p>
+<p>The macOS resolver picks that order itself; which line comes first in <code>/etc/hosts</code> makes no difference. The default <code>/etc/hosts</code> has <code>127.0.0.1</code> first:</p>
+<pre><code># /etc/hosts (default macOS)
+127.0.0.1    localhost
+::1          localhost
+</code></pre>
+<p>With the two lines swapped, the lookup still returns <code>::1</code> first:</p>
+<pre><code>/etc/hosts order        dns.lookup('localhost', { all: true })
+127.0.0.1 first         [{ address: '::1', family: 6 }, { address: '127.0.0.1', family: 4 }]
+::1 first               [{ address: '::1', family: 6 }, { address: '127.0.0.1', family: 4 }]
+</code></pre>
+<hr>
+<h2>Why it connects again from Node.js 20</h2>
+<p>Node.js 20 (April 2023) changed the default of the <code>autoSelectFamily</code> option of <code>net.connect</code> to <code>true</code>. With it on, when the client fails to connect to the first address, it tries the next one, waiting at most 250ms per address. Node.js calls this happy eyeballs, after RFC 8305. <code>http.get</code> and <code>fetch</code> use this default.</p>
+<p>So connecting to <code>localhost:1234</code>, Node.js 20 tries <code>::1</code>, gets refused, then tries <code>127.0.0.1</code> and connects.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Node.js version</th><th><code>localhost</code> resolves first to</th><th>After <code>::1</code> refuses, tries <code>127.0.0.1</code>?</th><th>Connecting to a server that listens only on <code>127.0.0.1</code></th></tr></thead><tbody><tr><td>Node.js 16 and earlier</td><td><code>127.0.0.1</code></td><td>No, but not needed</td><td>Succeeds</td></tr><tr><td>Node.js 17 to 19</td><td><code>::1</code></td><td>No</td><td>Fails</td></tr><tr><td>Node.js 20 and later</td><td><code>::1</code></td><td>Yes</td><td>Succeeds</td></tr></tbody></table>
+<p>The table puts Node.js 18 under "No", which differs from the Node.js net docs. The docs say <code>autoSelectFamily</code> is on by default from 18.18.0, which would let 18 connect.</p>
+<p>On Node.js 18.20.8, though, <code>net.getDefaultAutoSelectFamily()</code> returns <code>false</code> and the test script at the end fails to connect, so the table follows the measurement. The versions actually run were 17.9.1, 18.20.8, 20.12.2, 22.22.3 and 24.8.0, all on macOS 15.6. 16 and 19 were not run. The 16 row follows the <code>dns.lookup</code> docs; 19 is under "No" because the net docs say the default turned on in 20.0.0.</p>
+<hr>
+<h2>The server side does not try another address</h2>
+<p>When a server calls <code>listen('localhost')</code>, Node.js resolves <code>localhost</code> to <code>::1</code> and binds only that one address, not <code>127.0.0.1</code> as well. From Node.js 17 to 24, a server written this way listens on IPv6 only.</p>
+<p>A client that connects to <code>localhost</code> still works, because it also resolves to <code>::1</code> first. A client that connects to <code>127.0.0.1</code> fails, because the server listens only on <code>::1</code> and nothing listens on <code>127.0.0.1</code>. Node.js 20 does not help here. It moves to the next address because <code>localhost</code> resolves to two, <code>::1</code> and <code>127.0.0.1</code>; a client that writes <code>127.0.0.1</code> directly has only that one address and nothing else to try. A server that calls <code>listen('127.0.0.1')</code> or <code>listen('0.0.0.0')</code> listens on IPv4, and a client on <code>127.0.0.1</code> connects fine.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th><code>listen()</code> argument</th><th>Address actually bound</th><th>Connections accepted</th></tr></thead><tbody><tr><td><code>'localhost'</code></td><td><code>::1</code></td><td>IPv6 only</td></tr><tr><td><code>'127.0.0.1'</code></td><td><code>127.0.0.1</code></td><td>IPv4 only</td></tr><tr><td><code>'0.0.0.0'</code></td><td><code>0.0.0.0</code></td><td>IPv4 on every network interface</td></tr><tr><td><code>'::'</code></td><td><code>::</code></td><td>IPv6 on every network interface, and IPv4 too on macOS</td></tr><tr><td><code>'::1'</code></td><td><code>::1</code></td><td>IPv6 only</td></tr></tbody></table>
+<p>This table was checked with <code>net.createServer().listen(0, host)</code> on Node.js 17.9.1, 18.20.8, 20.12.2, 22.22.3 and 24.8.0; all five versions gave the same result.</p>
+<hr>
+<h2>What <code>127.0.0.1</code>, <code>localhost</code> and <code>0.0.0.0</code> are</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Address</th><th>Meaning</th><th>IPv6 equivalent</th></tr></thead><tbody><tr><td><code>127.0.0.1</code></td><td>Loopback address, always this machine</td><td><code>::1</code></td></tr><tr><td><code>localhost</code></td><td>A hostname, resolved through DNS or <code>/etc/hosts</code></td><td>Depends on resolution, may be <code>::1</code></td></tr><tr><td><code>0.0.0.0</code></td><td>"Every network interface" when a server listens on it, "no address" otherwise</td><td><code>::</code></td></tr></tbody></table>
+<details>
+<summary>127.0.0.1: the loopback address</summary>
+<p>Loopback is a virtual network interface with no physical wire and no network card. Packets sent to <code>127.0.0.1</code> never leave the machine; the operating system hands them straight back to the same host.</p>
+<p>IPv4 reserves all of <code>127.0.0.0/8</code> for loopback, over sixteen million addresses, all pointing to the same machine. Server A can listen on <code>127.0.0.4</code> and Server B on <code>127.0.5.4</code>, both on this machine.</p>
+<p>IPv6 has exactly one loopback address, <code>::1</code> (RFC 4291 section 2.5.3).</p>
+</details>
+<details>
+<summary>localhost: a name, not an address</summary>
+<p>Neither browsers nor Node.js replace <code>localhost</code> with <code>127.0.0.1</code> directly. They resolve it like any other hostname: first <code>/etc/hosts</code>, then the operating system's resolver. Change one line in <code>/etc/hosts</code> and <code>localhost</code> points somewhere else:</p>
+<pre><code># point localhost to a different loopback address
+127.0.1.4    localhost
+</code></pre>
+<p>Browsers treat <code>localhost</code> as a trusted origin. The W3C Secure Contexts spec lists <code>localhost</code>, <code>127.0.0.0/8</code> and <code>::1</code> as potentially trustworthy, so <code>http://localhost:3000</code> and <code>http://127.0.0.1:3000</code> get the APIs reserved for secure contexts without HTTPS. <code>0.0.0.0</code> is not on that list.</p>
+</details>
+<details>
+<summary>0.0.0.0: depends on who uses it</summary>
+<p><strong>As a server's listen address:</strong> accept IPv4 on every network interface, including loopback (<code>127.0.0.1</code>) and the LAN IP (<code>192.168.1.x</code>). IPv4 only; a connection to <code>::1</code> is refused.</p>
+<p><strong>As a client's destination:</strong> RFC 1122 section 3.2.1.3 allows <code>0.0.0.0</code> only as a source address while a host does not yet know its own IP, never as a destination. What happens in practice is up to the operating system: on macOS 15.6, with a server on <code>127.0.0.1</code>, <code>curl http://0.0.0.0:&#x3C;port>/</code> returns 200. In 2024 Oligo Security named this "0.0.0.0 Day", because a public website could use it to reach services on the user's own machine.</p>
+<p>Browsers each handle it differently. In the Chromium source, the Local Network Access check is on by default from 142: a public website has to get the user's permission through a prompt before it can connect to <code>0.0.0.0</code> or <code>127.0.0.1</code>. Release Chrome also loads configuration pushed from Google's servers, which can turn the check on earlier or later for some users, so the version where a user first meets the prompt may not be 142. A user typing <code>0.0.0.0</code> into the address bar is not affected: every version from 126 to 156 reaches the server listening on <code>127.0.0.1</code>. Per-version measurements are in the appendix. WebKit blocks these requests too; Firefox had not blocked them as of August 2024. On the same machine, <code>ping 0.0.0.0</code> reports 100% packet loss.</p>
+</details>
+<hr>
+<h2>Full test results (Node.js 17 and 22, macOS)</h2>
+<p>Each table tests combinations of two addresses: the address the backend listens on, and the browser URL (or the address the proxy connects to). Each side tries <code>localhost</code>, <code>127.0.0.1</code> and <code>0.0.0.0</code>, so every table has 9 rows.</p>
+<p>Test environment:</p>
+<ul>
+<li>OS: macOS 15.6</li>
+<li>Browser: Google Chrome 155.0.8059.86, headless, loading each URL directly</li>
+<li>Proxy: forwards with Node.js's built-in <code>http.request</code>, no proxy package, no <code>family</code> or <code>lookup</code> option</li>
+<li>Node.js: 17.9.1, 22.22.3</li>
+</ul>
+<details>
+<summary>1. Browser → Node.js 17 backend (direct): 2 FAILs</summary>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Backend listen</th><th>Browser URL</th><th>Result</th></tr></thead><tbody><tr><td><code>localhost</code> (→ <code>::1</code>)</td><td><code>localhost</code></td><td>OK</td></tr><tr><td><code>localhost</code> (→ <code>::1</code>)</td><td><code>127.0.0.1</code></td><td><strong>FAIL</strong></td></tr><tr><td><code>localhost</code> (→ <code>::1</code>)</td><td><code>0.0.0.0</code></td><td><strong>FAIL</strong></td></tr><tr><td><code>127.0.0.1</code></td><td><code>localhost</code></td><td>OK</td></tr><tr><td><code>127.0.0.1</code></td><td><code>127.0.0.1</code></td><td>OK</td></tr><tr><td><code>127.0.0.1</code></td><td><code>0.0.0.0</code></td><td>OK</td></tr><tr><td><code>0.0.0.0</code></td><td><code>localhost</code></td><td>OK</td></tr><tr><td><code>0.0.0.0</code></td><td><code>127.0.0.1</code></td><td>OK</td></tr><tr><td><code>0.0.0.0</code></td><td><code>0.0.0.0</code></td><td>OK</td></tr></tbody></table>
+</details>
+<details>
+<summary>2. Browser → Node.js 22 backend (direct): 2 FAILs</summary>
+<p>Same as table 1. <code>listen('localhost')</code> listens only on <code>::1</code> on every Node.js version.</p>
+</details>
+<details>
+<summary>3. Browser → Node.js 17 proxy → Node.js 22 backend: 4 FAILs</summary>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Backend listen (Node.js 22)</th><th>Proxy connects to (Node.js 17)</th><th>Result</th></tr></thead><tbody><tr><td><code>localhost</code> (→ <code>::1</code>)</td><td><code>localhost</code></td><td>OK</td></tr><tr><td><code>localhost</code> (→ <code>::1</code>)</td><td><code>127.0.0.1</code></td><td><strong>FAIL</strong></td></tr><tr><td><code>localhost</code> (→ <code>::1</code>)</td><td><code>0.0.0.0</code></td><td><strong>FAIL</strong></td></tr><tr><td><code>127.0.0.1</code></td><td><code>localhost</code></td><td><strong>FAIL</strong></td></tr><tr><td><code>127.0.0.1</code></td><td><code>127.0.0.1</code></td><td>OK</td></tr><tr><td><code>127.0.0.1</code></td><td><code>0.0.0.0</code></td><td>OK</td></tr><tr><td><code>0.0.0.0</code></td><td><code>localhost</code></td><td><strong>FAIL</strong></td></tr><tr><td><code>0.0.0.0</code></td><td><code>127.0.0.1</code></td><td>OK</td></tr><tr><td><code>0.0.0.0</code></td><td><code>0.0.0.0</code></td><td>OK</td></tr></tbody></table>
+</details>
+<details>
+<summary>4. Browser → Node.js 22 proxy → Node.js 22 backend: 2 FAILs</summary>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Backend listen (Node.js 22)</th><th>Proxy connects to (Node.js 22)</th><th>Result</th></tr></thead><tbody><tr><td><code>localhost</code> (→ <code>::1</code>)</td><td><code>localhost</code></td><td>OK</td></tr><tr><td><code>localhost</code> (→ <code>::1</code>)</td><td><code>127.0.0.1</code></td><td><strong>FAIL</strong></td></tr><tr><td><code>localhost</code> (→ <code>::1</code>)</td><td><code>0.0.0.0</code></td><td><strong>FAIL</strong></td></tr><tr><td><code>127.0.0.1</code></td><td><code>localhost</code></td><td>OK</td></tr><tr><td><code>127.0.0.1</code></td><td><code>127.0.0.1</code></td><td>OK</td></tr><tr><td><code>127.0.0.1</code></td><td><code>0.0.0.0</code></td><td>OK</td></tr><tr><td><code>0.0.0.0</code></td><td><code>localhost</code></td><td>OK</td></tr><tr><td><code>0.0.0.0</code></td><td><code>127.0.0.1</code></td><td>OK</td></tr><tr><td><code>0.0.0.0</code></td><td><code>0.0.0.0</code></td><td>OK</td></tr></tbody></table>
+</details>
+<details>
+<summary>5. Browser → Node.js 17 proxy → Node.js 17 backend: 4 FAILs</summary>
+<p>Same as table 3, so the backend's Node.js version does not change the result. The two FAILs beyond table 4 both come from the Node.js 17 proxy resolving <code>localhost</code> to <code>::1</code> and not trying IPv4 afterwards.</p>
+</details>
+<details>
+<summary>6. Browser → Node.js 22 proxy → Node.js 17 backend: 2 FAILs</summary>
+<p>Same as table 4. The Node.js 22 proxy tries IPv4 after <code>::1</code> refuses, so it reaches an IPv4-only backend through <code>localhost</code> too.</p>
+</details>
+<h3>The two causes of FAIL</h3>
+<p><strong>The backend listens on IPv6 only and the client uses an IPv4 address.</strong></p>
+<ul>
+<li>The backend calls <code>listen('localhost')</code>, the client uses <code>127.0.0.1</code> or <code>0.0.0.0</code>.</li>
+<li>The server listens only on <code>::1</code>, so nothing listens on the IPv4 address the client uses.</li>
+<li>Every table has these 2 rows, on every Node.js version.</li>
+<li>If the backend listens on <code>'::'</code> or <code>'0.0.0.0'</code> instead, these 2 rows become OK.</li>
+</ul>
+<p><strong>The client is Node.js 17 and uses <code>localhost</code>.</strong></p>
+<ul>
+<li>The backend listens only on IPv4, but the client resolves <code>localhost</code> to <code>::1</code>. After <code>::1</code> refuses the connection, Node.js 17 does not try <code>127.0.0.1</code>, so the request fails.</li>
+<li>In tables 3 and 5, the 2 rows where the backend listens on <code>127.0.0.1</code> or <code>0.0.0.0</code> and the proxy connects to <code>localhost</code> are this case. In table 4 the proxy runs Node.js 22, which tries <code>127.0.0.1</code> after the refusal, so the same 2 rows are OK.</li>
+<li>Those 2 rows in tables 3 and 5 become OK too if the proxy runs on Node.js 20 or later, or connects to <code>127.0.0.1</code> instead.</li>
+</ul>
+<h3>Test script</h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> http</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> require</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'http'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> dns</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> require</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'dns'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">dns.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">lookup</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'localhost'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, (</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">err</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">address</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">family</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">`dns.lookup → ${</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">address</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">} (IPv${</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">family</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">})`</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">});</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> server</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> http.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">createServer</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">((</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">req</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">res</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  res.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">writeHead</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">200</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  res.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">end</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'ok'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">});</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">server.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">listen</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">9999</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'127.0.0.1'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, () </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  http.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">get</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'http://localhost:9999'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, () </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'http.get → OK'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    server.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">close</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">();</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  }).</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">on</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'error'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, (</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">err</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'http.get → FAIL: '</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> +</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> err.code);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    server.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">close</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">();</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  });</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">});</span></span></code></pre></figure>
+<p>Run on macOS 15.6, switching versions with nvm: Node.js 17.9.1 and 18.20.8 print <code>FAIL: ECONNREFUSED</code>; 20.12.2, 22.22.3 and 24.8.0 print <code>OK</code>. All five print <code>::1</code> for <code>dns.lookup</code>; the only difference is whether the client tries IPv4 next.</p>
+<hr>
+<h2>Appendix: how Chrome handles <code>0.0.0.0</code></h2>
+<p>In June 2024 Chromium announced on blink-dev that it would block requests from public websites to <code>0.0.0.0</code>. The announcement estimated Chrome 133; the chromestatus entry lists Chrome 129. Local Network Access later replaced that plan with a permission prompt, launching in Chrome 142.</p>
+<p>With the code defaults in Chromium, a public website can reach <code>0.0.0.0</code> and <code>127.0.0.1</code> on every version from 126 to 141. From 142 the user has to click Allow first.</p>
+<p>Under Private Network Access, before a public website reaches a private network, the browser sends an OPTIONS preflight, and the server has to answer with <code>Access-Control-Allow-Private-Network: true</code> for the request to go through. The middle two columns of the table are with the server sending that header; the last column is without it.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Chrome version</th><th>fetch <code>127.0.0.1</code> (header sent)</th><th>fetch <code>0.0.0.0</code> (header sent)</th><th>When the server does not send the header</th></tr></thead><tbody><tr><td>126 to 128</td><td>Preflight first</td><td>No preflight, goes straight to the backend</td><td>Both requests still reach the backend</td></tr><tr><td>129 to 139</td><td>Preflight first</td><td>Preflight first</td><td>Both requests still reach the backend</td></tr><tr><td>140, 141</td><td>No preflight, goes straight to the backend</td><td>No preflight, goes straight to the backend</td><td>Both requests still reach the backend</td></tr><tr><td>142 and later</td><td>Permission prompt</td><td>Permission prompt</td><td>Without someone clicking Allow, nothing reaches the backend</td></tr></tbody></table>
+<ul>
+<li><strong>126 to 128:</strong> <code>127.0.0.1</code> gets a preflight but <code>0.0.0.0</code> does not, because the browser treats <code>0.0.0.0</code> as a public address. On macOS a request to <code>0.0.0.0</code> reaches the services on the local machine, so a public website can reach the user's machine through <code>0.0.0.0</code>. That is the 0.0.0.0 Day mentioned above.</li>
+<li><strong>129 to 139:</strong> <code>0.0.0.0</code> gets a preflight too, treated as a local address like <code>127.0.0.1</code>. But when the server leaves out the header, the browser does not stop the request, and the GET still goes out.</li>
+<li><strong>140, 141:</strong> the preflight is gone, to be replaced by Local Network Access, which is not on by default yet. Both requests reach the backend with no check at all.</li>
+<li><strong>142 and later:</strong> Local Network Access is on by default, and a public website gets a permission prompt before it can reach the local machine. In the Chromium source, <code>LocalNetworkAccessChecks</code> is disabled by default up to 141 and enabled by default from 142.</li>
+</ul>
+<p>A user typing <code>0.0.0.0</code> into the address bar reached the backend on every version from 126 to 156. These mechanisms only check requests a web page makes.</p>
+<p>Release Chrome loads configuration pushed from Google's servers, which can turn a feature on earlier or later for some users. So the version where a release Chrome user first sees the permission prompt may differ from the table. That part was not measured.</p>
+<h3>Test method</h3>
+<ul>
+<li>Browser: Chrome for Testing 126 to 156, every one of the 31 majors, on macOS 15.6.</li>
+<li>Test page: served locally, marked as a public website with <code>--ip-address-space-overrides</code>, fetching a backend listening on <code>127.0.0.1</code>.</li>
+</ul>
+<p>Chrome for Testing does not load configuration pushed from Google's servers, but it does load a testing config that ships in the Chromium source (<code>testing/variations/fieldtrial_testing_config.json</code>). That config turns some features on before they are on by default, so every version ran in two passes. The "normal start" pass loads the testing config. The "testing config off" pass adds <code>--disable-field-trial-config</code> and leaves only the code defaults. The table above is the testing config off pass. In the normal start pass, 138 already sends no preflight and 139 already shows the permission prompt, both earlier than the code defaults.</p>
+<p>With the testing config off, 140 and 141 stop nothing, so the result is the same whether or not the test page is marked public, and that pass alone cannot confirm <code>--ip-address-space-overrides</code> took effect. In the normal start pass, the same builds stop the requests at the permission prompt, which shows the flag does take effect.</p>
+<p>In headless mode nobody can answer the prompt. In the normal start pass, requests on 139 to 142 hang with no answer. In the testing config off pass, only 142 does. From 143, in both passes, headless Chrome treats the prompt as denied, and the console prints <code>Permission was denied for this request to access the loopback address space.</code> Because the normal start pass stops requests from 139, 139 to 156 also ran once more with the permission granted first through the Chrome DevTools Protocol (<code>Browser.setPermission</code>). With the grant, both requests reach the backend, with no preflight.</p>
+<hr>
+<h2>Appendix: IPv6 link-local (fe80)</h2>
+<p>IPv6 has link-local addresses (<code>fe80::/10</code>) that only work on a single network link, with no router and no DHCP. A device gives itself an <code>fe80::</code> address when it joins a network (SLAAC), uses it to find the router through NDP, and then gets a global IPv6 address.</p>
+<p>RFC 4291 section 2.5.6 says routers must not forward a packet with a link-local source or destination to another link. So two devices can talk over <code>fe80</code> only when they are on the same link, such as the same Wi-Fi access point or the same switch. They can connect as soon as they share the link, without waiting for a router to hand out addresses.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># Access a server on the same Wi-Fi via link-local (no router)</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">curl</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> http://[fe80::xxxx:xxxx:xxxx:4c27%en0]:3000</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># Access the same server via private IPv4 (through router)</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">curl</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> http://192.168.1.42:3000</span></span></code></pre></figure>
+<hr>
+<h2>References</h2>
+<ul>
+<li><a href="https://nodejs.org/api/dns.html#dnslookuphostname-options-callback">Node.js dns.lookup docs (<code>verbatim</code> default became <code>true</code> in v17.0.0)</a></li>
+<li><a href="https://nodejs.org/api/net.html#socketconnectoptions-connectlistener">Node.js socket.connect docs (<code>autoSelectFamily</code> history)</a></li>
+<li><a href="https://github.com/nodejs/node/issues/40537">Node.js DNS resolution change (issue #40537)</a></li>
+<li><a href="https://github.com/chimurai/http-proxy-middleware/issues/705">http-proxy-middleware localhost resolution issue (#705)</a></li>
+<li><a href="https://www.rfc-editor.org/rfc/rfc8305">RFC 8305: Happy Eyeballs Version 2</a></li>
+<li><a href="https://www.rfc-editor.org/rfc/rfc1122#section-3.2.1.3">RFC 1122 section 3.2.1.3: what <code>0.0.0.0</code> is for</a></li>
+<li><a href="https://www.rfc-editor.org/rfc/rfc4291">RFC 4291: IP Version 6 Addressing Architecture (2.5.3 loopback, 2.5.6 link-local)</a></li>
+<li><a href="https://w3c.github.io/webappsec-secure-contexts/#is-origin-trustworthy">W3C Secure Contexts: which origins are potentially trustworthy</a></li>
+<li><a href="https://developer.chrome.com/blog/local-network-access">Chrome for Developers: Local Network Access</a></li>
+<li><a href="https://groups.google.com/a/chromium.org/g/blink-dev/c/9uymCQNGVgw/m/TxWeILuJAwAJ">Chromium blink-dev: Intent to Deprecate and Remove 0.0.0.0 for Private Network Access</a></li>
+<li><a href="https://github.com/chromium/chromium/blob/142.0.7444.175/services/network/public/cpp/features.cc">Chromium 142 source: <code>kLocalNetworkAccessChecks</code> enabled by default</a> (disabled by default in <a href="https://github.com/chromium/chromium/blob/141.0.7390.122/services/network/public/cpp/features.cc">141.0.7390.122</a>)</li>
+<li><a href="https://github.com/chromium/chromium/blob/139.0.7258.154/testing/variations/fieldtrial_testing_config.json">Chromium testing config fieldtrial_testing_config.json (139)</a></li>
+<li><a href="https://www.theregister.com/2024/08/09/0000_day_bug/">The Register: 0.0.0.0 Day</a></li>
+<li><a href="https://stackoverflow.com/questions/45299648/how-to-access-devices-with-ipv6-link-local-address-from-browserlike-ie-firefox">Accessing IPv6 link-local from browser (StackOverflow)</a></li>
+<li><a href="https://thiscute.world/posts/linux-virtual-network-interfaces/">Linux virtual network interfaces (thiscute.world)</a></li>
+</ul>15:T4d46,
+The backend listens on `127.0.0.1:1234`, a Node.js 17 program on the frontend side connects to `localhost:1234`, and the connection fails. The backend log has nothing in it.
+
+Node.js 17 resolves `localhost` to `::1`, the IPv6 loopback address, and sends the request to `[::1]:1234`. Nothing listens there, so the operating system refuses the connection before it reaches the backend, and the backend has nothing to log.
+
+```
+Frontend (Node.js 17): http.get("http://localhost:1234")
+           → DNS resolves localhost to ::1
+           → connects to [::1]:1234
+           → nothing listening there → connection refused
+
+Backend:  listening on 127.0.0.1:1234
+           → never sees the request
+           → no error logged
+```
+
+---
+
+## Why `localhost` resolves to `::1` first
+
+Before Node.js 17, `dns.lookup` re-sorted the operating system's answer and put IPv4 first, so `localhost` always came back as `127.0.0.1` first.
+
+Node.js 17 (October 2021) changed the default of the `verbatim` option of `dns.lookup` to `true`. It no longer re-sorts; it returns the order the operating system gives. macOS gives `::1` first.
+
+The macOS resolver picks that order itself; which line comes first in `/etc/hosts` makes no difference. The default `/etc/hosts` has `127.0.0.1` first:
+
+```
+# /etc/hosts (default macOS)
+127.0.0.1    localhost
+::1          localhost
+```
+
+With the two lines swapped, the lookup still returns `::1` first:
+
+```
+/etc/hosts order        dns.lookup('localhost', { all: true })
+127.0.0.1 first         [{ address: '::1', family: 6 }, { address: '127.0.0.1', family: 4 }]
+::1 first               [{ address: '::1', family: 6 }, { address: '127.0.0.1', family: 4 }]
+```
+
+---
+
+## Why it connects again from Node.js 20
+
+Node.js 20 (April 2023) changed the default of the `autoSelectFamily` option of `net.connect` to `true`. With it on, when the client fails to connect to the first address, it tries the next one, waiting at most 250ms per address. Node.js calls this happy eyeballs, after RFC 8305. `http.get` and `fetch` use this default.
+
+So connecting to `localhost:1234`, Node.js 20 tries `::1`, gets refused, then tries `127.0.0.1` and connects.
+
+| Node.js version | `localhost` resolves first to | After `::1` refuses, tries `127.0.0.1`? | Connecting to a server that listens only on `127.0.0.1` |
+|---|---|---|---|
+| Node.js 16 and earlier | `127.0.0.1` | No, but not needed | Succeeds |
+| Node.js 17 to 19 | `::1` | No | Fails |
+| Node.js 20 and later | `::1` | Yes | Succeeds |
+
+The table puts Node.js 18 under "No", which differs from the Node.js net docs. The docs say `autoSelectFamily` is on by default from 18.18.0, which would let 18 connect.
+
+On Node.js 18.20.8, though, `net.getDefaultAutoSelectFamily()` returns `false` and the test script at the end fails to connect, so the table follows the measurement. The versions actually run were 17.9.1, 18.20.8, 20.12.2, 22.22.3 and 24.8.0, all on macOS 15.6. 16 and 19 were not run. The 16 row follows the `dns.lookup` docs; 19 is under "No" because the net docs say the default turned on in 20.0.0.
+
+---
+
+## The server side does not try another address
+
+When a server calls `listen('localhost')`, Node.js resolves `localhost` to `::1` and binds only that one address, not `127.0.0.1` as well. From Node.js 17 to 24, a server written this way listens on IPv6 only.
+
+A client that connects to `localhost` still works, because it also resolves to `::1` first. A client that connects to `127.0.0.1` fails, because the server listens only on `::1` and nothing listens on `127.0.0.1`. Node.js 20 does not help here. It moves to the next address because `localhost` resolves to two, `::1` and `127.0.0.1`; a client that writes `127.0.0.1` directly has only that one address and nothing else to try. A server that calls `listen('127.0.0.1')` or `listen('0.0.0.0')` listens on IPv4, and a client on `127.0.0.1` connects fine.
+
+| `listen()` argument | Address actually bound | Connections accepted |
+|---|---|---|
+| `'localhost'` | `::1` | IPv6 only |
+| `'127.0.0.1'` | `127.0.0.1` | IPv4 only |
+| `'0.0.0.0'` | `0.0.0.0` | IPv4 on every network interface |
+| `'::'` | `::` | IPv6 on every network interface, and IPv4 too on macOS |
+| `'::1'` | `::1` | IPv6 only |
+
+This table was checked with `net.createServer().listen(0, host)` on Node.js 17.9.1, 18.20.8, 20.12.2, 22.22.3 and 24.8.0; all five versions gave the same result.
+
+---
+
+## What `127.0.0.1`, `localhost` and `0.0.0.0` are
+
+| Address | Meaning | IPv6 equivalent |
+|---|---|---|
+| `127.0.0.1` | Loopback address, always this machine | `::1` |
+| `localhost` | A hostname, resolved through DNS or `/etc/hosts` | Depends on resolution, may be `::1` |
+| `0.0.0.0` | "Every network interface" when a server listens on it, "no address" otherwise | `::` |
+
+<details>
+<summary>127.0.0.1: the loopback address</summary>
+
+Loopback is a virtual network interface with no physical wire and no network card. Packets sent to `127.0.0.1` never leave the machine; the operating system hands them straight back to the same host.
+
+IPv4 reserves all of `127.0.0.0/8` for loopback, over sixteen million addresses, all pointing to the same machine. Server A can listen on `127.0.0.4` and Server B on `127.0.5.4`, both on this machine.
+
+IPv6 has exactly one loopback address, `::1` (RFC 4291 section 2.5.3).
+
+</details>
+
+<details>
+<summary>localhost: a name, not an address</summary>
+
+Neither browsers nor Node.js replace `localhost` with `127.0.0.1` directly. They resolve it like any other hostname: first `/etc/hosts`, then the operating system's resolver. Change one line in `/etc/hosts` and `localhost` points somewhere else:
+
+```
+# point localhost to a different loopback address
+127.0.1.4    localhost
+```
+
+Browsers treat `localhost` as a trusted origin. The W3C Secure Contexts spec lists `localhost`, `127.0.0.0/8` and `::1` as potentially trustworthy, so `http://localhost:3000` and `http://127.0.0.1:3000` get the APIs reserved for secure contexts without HTTPS. `0.0.0.0` is not on that list.
+
+</details>
+
+<details>
+<summary>0.0.0.0: depends on who uses it</summary>
+
+**As a server's listen address:** accept IPv4 on every network interface, including loopback (`127.0.0.1`) and the LAN IP (`192.168.1.x`). IPv4 only; a connection to `::1` is refused.
+
+**As a client's destination:** RFC 1122 section 3.2.1.3 allows `0.0.0.0` only as a source address while a host does not yet know its own IP, never as a destination. What happens in practice is up to the operating system: on macOS 15.6, with a server on `127.0.0.1`, `curl http://0.0.0.0:<port>/` returns 200. In 2024 Oligo Security named this "0.0.0.0 Day", because a public website could use it to reach services on the user's own machine.
+
+Browsers each handle it differently. In the Chromium source, the Local Network Access check is on by default from 142: a public website has to get the user's permission through a prompt before it can connect to `0.0.0.0` or `127.0.0.1`. Release Chrome also loads configuration pushed from Google's servers, which can turn the check on earlier or later for some users, so the version where a user first meets the prompt may not be 142. A user typing `0.0.0.0` into the address bar is not affected: every version from 126 to 156 reaches the server listening on `127.0.0.1`. Per-version measurements are in the appendix. WebKit blocks these requests too; Firefox had not blocked them as of August 2024. On the same machine, `ping 0.0.0.0` reports 100% packet loss.
+
+</details>
+
+---
+
+## Full test results (Node.js 17 and 22, macOS)
+
+Each table tests combinations of two addresses: the address the backend listens on, and the browser URL (or the address the proxy connects to). Each side tries `localhost`, `127.0.0.1` and `0.0.0.0`, so every table has 9 rows.
+
+Test environment:
+
+- OS: macOS 15.6
+- Browser: Google Chrome 155.0.8059.86, headless, loading each URL directly
+- Proxy: forwards with Node.js's built-in `http.request`, no proxy package, no `family` or `lookup` option
+- Node.js: 17.9.1, 22.22.3
+
+<details>
+<summary>1. Browser → Node.js 17 backend (direct): 2 FAILs</summary>
+
+| Backend listen | Browser URL | Result |
+|---|---|---|
+| `localhost` (→ `::1`) | `localhost` | OK |
+| `localhost` (→ `::1`) | `127.0.0.1` | **FAIL** |
+| `localhost` (→ `::1`) | `0.0.0.0` | **FAIL** |
+| `127.0.0.1` | `localhost` | OK |
+| `127.0.0.1` | `127.0.0.1` | OK |
+| `127.0.0.1` | `0.0.0.0` | OK |
+| `0.0.0.0` | `localhost` | OK |
+| `0.0.0.0` | `127.0.0.1` | OK |
+| `0.0.0.0` | `0.0.0.0` | OK |
+
+</details>
+
+<details>
+<summary>2. Browser → Node.js 22 backend (direct): 2 FAILs</summary>
+
+Same as table 1. `listen('localhost')` listens only on `::1` on every Node.js version.
+
+</details>
+
+<details>
+<summary>3. Browser → Node.js 17 proxy → Node.js 22 backend: 4 FAILs</summary>
+
+| Backend listen (Node.js 22) | Proxy connects to (Node.js 17) | Result |
+|---|---|---|
+| `localhost` (→ `::1`) | `localhost` | OK |
+| `localhost` (→ `::1`) | `127.0.0.1` | **FAIL** |
+| `localhost` (→ `::1`) | `0.0.0.0` | **FAIL** |
+| `127.0.0.1` | `localhost` | **FAIL** |
+| `127.0.0.1` | `127.0.0.1` | OK |
+| `127.0.0.1` | `0.0.0.0` | OK |
+| `0.0.0.0` | `localhost` | **FAIL** |
+| `0.0.0.0` | `127.0.0.1` | OK |
+| `0.0.0.0` | `0.0.0.0` | OK |
+
+</details>
+
+<details>
+<summary>4. Browser → Node.js 22 proxy → Node.js 22 backend: 2 FAILs</summary>
+
+| Backend listen (Node.js 22) | Proxy connects to (Node.js 22) | Result |
+|---|---|---|
+| `localhost` (→ `::1`) | `localhost` | OK |
+| `localhost` (→ `::1`) | `127.0.0.1` | **FAIL** |
+| `localhost` (→ `::1`) | `0.0.0.0` | **FAIL** |
+| `127.0.0.1` | `localhost` | OK |
+| `127.0.0.1` | `127.0.0.1` | OK |
+| `127.0.0.1` | `0.0.0.0` | OK |
+| `0.0.0.0` | `localhost` | OK |
+| `0.0.0.0` | `127.0.0.1` | OK |
+| `0.0.0.0` | `0.0.0.0` | OK |
+
+</details>
+
+<details>
+<summary>5. Browser → Node.js 17 proxy → Node.js 17 backend: 4 FAILs</summary>
+
+Same as table 3, so the backend's Node.js version does not change the result. The two FAILs beyond table 4 both come from the Node.js 17 proxy resolving `localhost` to `::1` and not trying IPv4 afterwards.
+
+</details>
+
+<details>
+<summary>6. Browser → Node.js 22 proxy → Node.js 17 backend: 2 FAILs</summary>
+
+Same as table 4. The Node.js 22 proxy tries IPv4 after `::1` refuses, so it reaches an IPv4-only backend through `localhost` too.
+
+</details>
+
+### The two causes of FAIL
+
+**The backend listens on IPv6 only and the client uses an IPv4 address.**
+
+- The backend calls `listen('localhost')`, the client uses `127.0.0.1` or `0.0.0.0`.
+- The server listens only on `::1`, so nothing listens on the IPv4 address the client uses.
+- Every table has these 2 rows, on every Node.js version.
+- If the backend listens on `'::'` or `'0.0.0.0'` instead, these 2 rows become OK.
+
+**The client is Node.js 17 and uses `localhost`.**
+
+- The backend listens only on IPv4, but the client resolves `localhost` to `::1`. After `::1` refuses the connection, Node.js 17 does not try `127.0.0.1`, so the request fails.
+- In tables 3 and 5, the 2 rows where the backend listens on `127.0.0.1` or `0.0.0.0` and the proxy connects to `localhost` are this case. In table 4 the proxy runs Node.js 22, which tries `127.0.0.1` after the refusal, so the same 2 rows are OK.
+- Those 2 rows in tables 3 and 5 become OK too if the proxy runs on Node.js 20 or later, or connects to `127.0.0.1` instead.
+
+### Test script
+
+```js
+const http = require('http');
+const dns = require('dns');
+
+dns.lookup('localhost', (err, address, family) => {
+  console.log(`dns.lookup → ${address} (IPv${family})`);
+});
+
+const server = http.createServer((req, res) => {
+  res.writeHead(200);
+  res.end('ok');
+});
+
+server.listen(9999, '127.0.0.1', () => {
+  http.get('http://localhost:9999', () => {
+    console.log('http.get → OK');
+    server.close();
+  }).on('error', (err) => {
+    console.log('http.get → FAIL: ' + err.code);
+    server.close();
+  });
+});
+```
+
+Run on macOS 15.6, switching versions with nvm: Node.js 17.9.1 and 18.20.8 print `FAIL: ECONNREFUSED`; 20.12.2, 22.22.3 and 24.8.0 print `OK`. All five print `::1` for `dns.lookup`; the only difference is whether the client tries IPv4 next.
+
+---
+
+## Appendix: how Chrome handles `0.0.0.0`
+
+In June 2024 Chromium announced on blink-dev that it would block requests from public websites to `0.0.0.0`. The announcement estimated Chrome 133; the chromestatus entry lists Chrome 129. Local Network Access later replaced that plan with a permission prompt, launching in Chrome 142.
+
+With the code defaults in Chromium, a public website can reach `0.0.0.0` and `127.0.0.1` on every version from 126 to 141. From 142 the user has to click Allow first.
+
+Under Private Network Access, before a public website reaches a private network, the browser sends an OPTIONS preflight, and the server has to answer with `Access-Control-Allow-Private-Network: true` for the request to go through. The middle two columns of the table are with the server sending that header; the last column is without it.
+
+| Chrome version | fetch `127.0.0.1` (header sent) | fetch `0.0.0.0` (header sent) | When the server does not send the header |
+|---|---|---|---|
+| 126 to 128 | Preflight first | No preflight, goes straight to the backend | Both requests still reach the backend |
+| 129 to 139 | Preflight first | Preflight first | Both requests still reach the backend |
+| 140, 141 | No preflight, goes straight to the backend | No preflight, goes straight to the backend | Both requests still reach the backend |
+| 142 and later | Permission prompt | Permission prompt | Without someone clicking Allow, nothing reaches the backend |
+
+- **126 to 128:** `127.0.0.1` gets a preflight but `0.0.0.0` does not, because the browser treats `0.0.0.0` as a public address. On macOS a request to `0.0.0.0` reaches the services on the local machine, so a public website can reach the user's machine through `0.0.0.0`. That is the 0.0.0.0 Day mentioned above.
+- **129 to 139:** `0.0.0.0` gets a preflight too, treated as a local address like `127.0.0.1`. But when the server leaves out the header, the browser does not stop the request, and the GET still goes out.
+- **140, 141:** the preflight is gone, to be replaced by Local Network Access, which is not on by default yet. Both requests reach the backend with no check at all.
+- **142 and later:** Local Network Access is on by default, and a public website gets a permission prompt before it can reach the local machine. In the Chromium source, `LocalNetworkAccessChecks` is disabled by default up to 141 and enabled by default from 142.
+
+A user typing `0.0.0.0` into the address bar reached the backend on every version from 126 to 156. These mechanisms only check requests a web page makes.
+
+Release Chrome loads configuration pushed from Google's servers, which can turn a feature on earlier or later for some users. So the version where a release Chrome user first sees the permission prompt may differ from the table. That part was not measured.
+
+### Test method
+
+- Browser: Chrome for Testing 126 to 156, every one of the 31 majors, on macOS 15.6.
+- Test page: served locally, marked as a public website with `--ip-address-space-overrides`, fetching a backend listening on `127.0.0.1`.
+
+Chrome for Testing does not load configuration pushed from Google's servers, but it does load a testing config that ships in the Chromium source (`testing/variations/fieldtrial_testing_config.json`). That config turns some features on before they are on by default, so every version ran in two passes. The "normal start" pass loads the testing config. The "testing config off" pass adds `--disable-field-trial-config` and leaves only the code defaults. The table above is the testing config off pass. In the normal start pass, 138 already sends no preflight and 139 already shows the permission prompt, both earlier than the code defaults.
+
+With the testing config off, 140 and 141 stop nothing, so the result is the same whether or not the test page is marked public, and that pass alone cannot confirm `--ip-address-space-overrides` took effect. In the normal start pass, the same builds stop the requests at the permission prompt, which shows the flag does take effect.
+
+In headless mode nobody can answer the prompt. In the normal start pass, requests on 139 to 142 hang with no answer. In the testing config off pass, only 142 does. From 143, in both passes, headless Chrome treats the prompt as denied, and the console prints `Permission was denied for this request to access the loopback address space.` Because the normal start pass stops requests from 139, 139 to 156 also ran once more with the permission granted first through the Chrome DevTools Protocol (`Browser.setPermission`). With the grant, both requests reach the backend, with no preflight.
+
+---
+
+## Appendix: IPv6 link-local (fe80)
+
+IPv6 has link-local addresses (`fe80::/10`) that only work on a single network link, with no router and no DHCP. A device gives itself an `fe80::` address when it joins a network (SLAAC), uses it to find the router through NDP, and then gets a global IPv6 address.
+
+RFC 4291 section 2.5.6 says routers must not forward a packet with a link-local source or destination to another link. So two devices can talk over `fe80` only when they are on the same link, such as the same Wi-Fi access point or the same switch. They can connect as soon as they share the link, without waiting for a router to hand out addresses.
+
+```bash
+# Access a server on the same Wi-Fi via link-local (no router)
+curl http://[fe80::xxxx:xxxx:xxxx:4c27%en0]:3000
+
+# Access the same server via private IPv4 (through router)
+curl http://192.168.1.42:3000
+```
+
+---
+
+## References
+
+- [Node.js dns.lookup docs (`verbatim` default became `true` in v17.0.0)](https://nodejs.org/api/dns.html#dnslookuphostname-options-callback)
+- [Node.js socket.connect docs (`autoSelectFamily` history)](https://nodejs.org/api/net.html#socketconnectoptions-connectlistener)
+- [Node.js DNS resolution change (issue #40537)](https://github.com/nodejs/node/issues/40537)
+- [http-proxy-middleware localhost resolution issue (#705)](https://github.com/chimurai/http-proxy-middleware/issues/705)
+- [RFC 8305: Happy Eyeballs Version 2](https://www.rfc-editor.org/rfc/rfc8305)
+- [RFC 1122 section 3.2.1.3: what `0.0.0.0` is for](https://www.rfc-editor.org/rfc/rfc1122#section-3.2.1.3)
+- [RFC 4291: IP Version 6 Addressing Architecture (2.5.3 loopback, 2.5.6 link-local)](https://www.rfc-editor.org/rfc/rfc4291)
+- [W3C Secure Contexts: which origins are potentially trustworthy](https://w3c.github.io/webappsec-secure-contexts/#is-origin-trustworthy)
+- [Chrome for Developers: Local Network Access](https://developer.chrome.com/blog/local-network-access)
+- [Chromium blink-dev: Intent to Deprecate and Remove 0.0.0.0 for Private Network Access](https://groups.google.com/a/chromium.org/g/blink-dev/c/9uymCQNGVgw/m/TxWeILuJAwAJ)
+- [Chromium 142 source: `kLocalNetworkAccessChecks` enabled by default](https://github.com/chromium/chromium/blob/142.0.7444.175/services/network/public/cpp/features.cc) (disabled by default in [141.0.7390.122](https://github.com/chromium/chromium/blob/141.0.7390.122/services/network/public/cpp/features.cc))
+- [Chromium testing config fieldtrial_testing_config.json (139)](https://github.com/chromium/chromium/blob/139.0.7258.154/testing/variations/fieldtrial_testing_config.json)
+- [The Register: 0.0.0.0 Day](https://www.theregister.com/2024/08/09/0000_day_bug/)
+- [Accessing IPv6 link-local from browser (StackOverflow)](https://stackoverflow.com/questions/45299648/how-to-access-devices-with-ipv6-link-local-address-from-browserlike-ie-firefox)
+- [Linux virtual network interfaces (thiscute.world)](https://thiscute.world/posts/linux-virtual-network-interfaces/)
+16:T68b8,LS0tCnRpdGxlOiAibG9jYWxob3N0IGlzIG5vdCAxMjcuMC4wLjEiCmNyZWF0ZWRBdDogMjAyNC0wOS0yNVQyMjo1NTowMAp0YWdzOiBbbmV0d29yaywgbG9jYWxob3N0LCBpcHY2LCBkbnNdCmRlc2NyaXB0aW9uOiAiRnJvbSBOb2RlLmpzIDE3LCBsb2NhbGhvc3QgcmVzb2x2ZXMgdG8gOjoxIGZpcnN0IG9uIG1hY09TLiBPbmx5IGZyb20gTm9kZS5qcyAyMCBkb2VzIHRoZSBjbGllbnQgdHJ5IDEyNy4wLjAuMSB3aGVuIDo6MSByZWZ1c2VzLiBJbiBiZXR3ZWVuLCBjb25uZWN0aW5nIHRvIGEgc2VydmVyIHRoYXQgbGlzdGVucyBvbiBJUHY0IG9ubHkgZmFpbHMuIgotLS0KClRoZSBiYWNrZW5kIGxpc3RlbnMgb24gYDEyNy4wLjAuMToxMjM0YCwgYSBOb2RlLmpzIDE3IHByb2dyYW0gb24gdGhlIGZyb250ZW5kIHNpZGUgY29ubmVjdHMgdG8gYGxvY2FsaG9zdDoxMjM0YCwgYW5kIHRoZSBjb25uZWN0aW9uIGZhaWxzLiBUaGUgYmFja2VuZCBsb2cgaGFzIG5vdGhpbmcgaW4gaXQuCgpOb2RlLmpzIDE3IHJlc29sdmVzIGBsb2NhbGhvc3RgIHRvIGA6OjFgLCB0aGUgSVB2NiBsb29wYmFjayBhZGRyZXNzLCBhbmQgc2VuZHMgdGhlIHJlcXVlc3QgdG8gYFs6OjFdOjEyMzRgLiBOb3RoaW5nIGxpc3RlbnMgdGhlcmUsIHNvIHRoZSBvcGVyYXRpbmcgc3lzdGVtIHJlZnVzZXMgdGhlIGNvbm5lY3Rpb24gYmVmb3JlIGl0IHJlYWNoZXMgdGhlIGJhY2tlbmQsIGFuZCB0aGUgYmFja2VuZCBoYXMgbm90aGluZyB0byBsb2cuCgpgYGAKRnJvbnRlbmQgKE5vZGUuanMgMTcpOiBodHRwLmdldCgiaHR0cDovL2xvY2FsaG9zdDoxMjM0IikKICAgICAgICAgICDihpIgRE5TIHJlc29sdmVzIGxvY2FsaG9zdCB0byA6OjEKICAgICAgICAgICDihpIgY29ubmVjdHMgdG8gWzo6MV06MTIzNAogICAgICAgICAgIOKGkiBub3RoaW5nIGxpc3RlbmluZyB0aGVyZSDihpIgY29ubmVjdGlvbiByZWZ1c2VkCgpCYWNrZW5kOiAgbGlzdGVuaW5nIG9uIDEyNy4wLjAuMToxMjM0CiAgICAgICAgICAg4oaSIG5ldmVyIHNlZXMgdGhlIHJlcXVlc3QKICAgICAgICAgICDihpIgbm8gZXJyb3IgbG9nZ2VkCmBgYAoKLS0tCgojIyBXaHkgYGxvY2FsaG9zdGAgcmVzb2x2ZXMgdG8gYDo6MWAgZmlyc3QKCkJlZm9yZSBOb2RlLmpzIDE3LCBgZG5zLmxvb2t1cGAgcmUtc29ydGVkIHRoZSBvcGVyYXRpbmcgc3lzdGVtJ3MgYW5zd2VyIGFuZCBwdXQgSVB2NCBmaXJzdCwgc28gYGxvY2FsaG9zdGAgYWx3YXlzIGNhbWUgYmFjayBhcyBgMTI3LjAuMC4xYCBmaXJzdC4KCk5vZGUuanMgMTcgKE9jdG9iZXIgMjAyMSkgY2hhbmdlZCB0aGUgZGVmYXVsdCBvZiB0aGUgYHZlcmJhdGltYCBvcHRpb24gb2YgYGRucy5sb29rdXBgIHRvIGB0cnVlYC4gSXQgbm8gbG9uZ2VyIHJlLXNvcnRzOyBpdCByZXR1cm5zIHRoZSBvcmRlciB0aGUgb3BlcmF0aW5nIHN5c3RlbSBnaXZlcy4gbWFjT1MgZ2l2ZXMgYDo6MWAgZmlyc3QuCgpUaGUgbWFjT1MgcmVzb2x2ZXIgcGlja3MgdGhhdCBvcmRlciBpdHNlbGY7IHdoaWNoIGxpbmUgY29tZXMgZmlyc3QgaW4gYC9ldGMvaG9zdHNgIG1ha2VzIG5vIGRpZmZlcmVuY2UuIFRoZSBkZWZhdWx0IGAvZXRjL2hvc3RzYCBoYXMgYDEyNy4wLjAuMWAgZmlyc3Q6CgpgYGAKIyAvZXRjL2hvc3RzIChkZWZhdWx0IG1hY09TKQoxMjcuMC4wLjEgICAgbG9jYWxob3N0Cjo6MSAgICAgICAgICBsb2NhbGhvc3QKYGBgCgpXaXRoIHRoZSB0d28gbGluZXMgc3dhcHBlZCwgdGhlIGxvb2t1cCBzdGlsbCByZXR1cm5zIGA6OjFgIGZpcnN0OgoKYGBgCi9ldGMvaG9zdHMgb3JkZXIgICAgICAgIGRucy5sb29rdXAoJ2xvY2FsaG9zdCcsIHsgYWxsOiB0cnVlIH0pCjEyNy4wLjAuMSBmaXJzdCAgICAgICAgIFt7IGFkZHJlc3M6ICc6OjEnLCBmYW1pbHk6IDYgfSwgeyBhZGRyZXNzOiAnMTI3LjAuMC4xJywgZmFtaWx5OiA0IH1dCjo6MSBmaXJzdCAgICAgICAgICAgICAgIFt7IGFkZHJlc3M6ICc6OjEnLCBmYW1pbHk6IDYgfSwgeyBhZGRyZXNzOiAnMTI3LjAuMC4xJywgZmFtaWx5OiA0IH1dCmBgYAoKLS0tCgojIyBXaHkgaXQgY29ubmVjdHMgYWdhaW4gZnJvbSBOb2RlLmpzIDIwCgpOb2RlLmpzIDIwIChBcHJpbCAyMDIzKSBjaGFuZ2VkIHRoZSBkZWZhdWx0IG9mIHRoZSBgYXV0b1NlbGVjdEZhbWlseWAgb3B0aW9uIG9mIGBuZXQuY29ubmVjdGAgdG8gYHRydWVgLiBXaXRoIGl0IG9uLCB3aGVuIHRoZSBjbGllbnQgZmFpbHMgdG8gY29ubmVjdCB0byB0aGUgZmlyc3QgYWRkcmVzcywgaXQgdHJpZXMgdGhlIG5leHQgb25lLCB3YWl0aW5nIGF0IG1vc3QgMjUwbXMgcGVyIGFkZHJlc3MuIE5vZGUuanMgY2FsbHMgdGhpcyBoYXBweSBleWViYWxscywgYWZ0ZXIgUkZDIDgzMDUuIGBodHRwLmdldGAgYW5kIGBmZXRjaGAgdXNlIHRoaXMgZGVmYXVsdC4KClNvIGNvbm5lY3RpbmcgdG8gYGxvY2FsaG9zdDoxMjM0YCwgTm9kZS5qcyAyMCB0cmllcyBgOjoxYCwgZ2V0cyByZWZ1c2VkLCB0aGVuIHRyaWVzIGAxMjcuMC4wLjFgIGFuZCBjb25uZWN0cy4KCnwgTm9kZS5qcyB2ZXJzaW9uIHwgYGxvY2FsaG9zdGAgcmVzb2x2ZXMgZmlyc3QgdG8gfCBBZnRlciBgOjoxYCByZWZ1c2VzLCB0cmllcyBgMTI3LjAuMC4xYD8gfCBDb25uZWN0aW5nIHRvIGEgc2VydmVyIHRoYXQgbGlzdGVucyBvbmx5IG9uIGAxMjcuMC4wLjFgIHwKfC0tLXwtLS18LS0tfC0tLXwKfCBOb2RlLmpzIDE2IGFuZCBlYXJsaWVyIHwgYDEyNy4wLjAuMWAgfCBObywgYnV0IG5vdCBuZWVkZWQgfCBTdWNjZWVkcyB8CnwgTm9kZS5qcyAxNyB0byAxOSB8IGA6OjFgIHwgTm8gfCBGYWlscyB8CnwgTm9kZS5qcyAyMCBhbmQgbGF0ZXIgfCBgOjoxYCB8IFllcyB8IFN1Y2NlZWRzIHwKClRoZSB0YWJsZSBwdXRzIE5vZGUuanMgMTggdW5kZXIgIk5vIiwgd2hpY2ggZGlmZmVycyBmcm9tIHRoZSBOb2RlLmpzIG5ldCBkb2NzLiBUaGUgZG9jcyBzYXkgYGF1dG9TZWxlY3RGYW1pbHlgIGlzIG9uIGJ5IGRlZmF1bHQgZnJvbSAxOC4xOC4wLCB3aGljaCB3b3VsZCBsZXQgMTggY29ubmVjdC4KCk9uIE5vZGUuanMgMTguMjAuOCwgdGhvdWdoLCBgbmV0LmdldERlZmF1bHRBdXRvU2VsZWN0RmFtaWx5KClgIHJldHVybnMgYGZhbHNlYCBhbmQgdGhlIHRlc3Qgc2NyaXB0IGF0IHRoZSBlbmQgZmFpbHMgdG8gY29ubmVjdCwgc28gdGhlIHRhYmxlIGZvbGxvd3MgdGhlIG1lYXN1cmVtZW50LiBUaGUgdmVyc2lvbnMgYWN0dWFsbHkgcnVuIHdlcmUgMTcuOS4xLCAxOC4yMC44LCAyMC4xMi4yLCAyMi4yMi4zIGFuZCAyNC44LjAsIGFsbCBvbiBtYWNPUyAxNS42LiAxNiBhbmQgMTkgd2VyZSBub3QgcnVuLiBUaGUgMTYgcm93IGZvbGxvd3MgdGhlIGBkbnMubG9va3VwYCBkb2NzOyAxOSBpcyB1bmRlciAiTm8iIGJlY2F1c2UgdGhlIG5ldCBkb2NzIHNheSB0aGUgZGVmYXVsdCB0dXJuZWQgb24gaW4gMjAuMC4wLgoKLS0tCgojIyBUaGUgc2VydmVyIHNpZGUgZG9lcyBub3QgdHJ5IGFub3RoZXIgYWRkcmVzcwoKV2hlbiBhIHNlcnZlciBjYWxscyBgbGlzdGVuKCdsb2NhbGhvc3QnKWAsIE5vZGUuanMgcmVzb2x2ZXMgYGxvY2FsaG9zdGAgdG8gYDo6MWAgYW5kIGJpbmRzIG9ubHkgdGhhdCBvbmUgYWRkcmVzcywgbm90IGAxMjcuMC4wLjFgIGFzIHdlbGwuIEZyb20gTm9kZS5qcyAxNyB0byAyNCwgYSBzZXJ2ZXIgd3JpdHRlbiB0aGlzIHdheSBsaXN0ZW5zIG9uIElQdjYgb25seS4KCkEgY2xpZW50IHRoYXQgY29ubmVjdHMgdG8gYGxvY2FsaG9zdGAgc3RpbGwgd29ya3MsIGJlY2F1c2UgaXQgYWxzbyByZXNvbHZlcyB0byBgOjoxYCBmaXJzdC4gQSBjbGllbnQgdGhhdCBjb25uZWN0cyB0byBgMTI3LjAuMC4xYCBmYWlscywgYmVjYXVzZSB0aGUgc2VydmVyIGxpc3RlbnMgb25seSBvbiBgOjoxYCBhbmQgbm90aGluZyBsaXN0ZW5zIG9uIGAxMjcuMC4wLjFgLiBOb2RlLmpzIDIwIGRvZXMgbm90IGhlbHAgaGVyZS4gSXQgbW92ZXMgdG8gdGhlIG5leHQgYWRkcmVzcyBiZWNhdXNlIGBsb2NhbGhvc3RgIHJlc29sdmVzIHRvIHR3bywgYDo6MWAgYW5kIGAxMjcuMC4wLjFgOyBhIGNsaWVudCB0aGF0IHdyaXRlcyBgMTI3LjAuMC4xYCBkaXJlY3RseSBoYXMgb25seSB0aGF0IG9uZSBhZGRyZXNzIGFuZCBub3RoaW5nIGVsc2UgdG8gdHJ5LiBBIHNlcnZlciB0aGF0IGNhbGxzIGBsaXN0ZW4oJzEyNy4wLjAuMScpYCBvciBgbGlzdGVuKCcwLjAuMC4wJylgIGxpc3RlbnMgb24gSVB2NCwgYW5kIGEgY2xpZW50IG9uIGAxMjcuMC4wLjFgIGNvbm5lY3RzIGZpbmUuCgp8IGBsaXN0ZW4oKWAgYXJndW1lbnQgfCBBZGRyZXNzIGFjdHVhbGx5IGJvdW5kIHwgQ29ubmVjdGlvbnMgYWNjZXB0ZWQgfAp8LS0tfC0tLXwtLS18CnwgYCdsb2NhbGhvc3QnYCB8IGA6OjFgIHwgSVB2NiBvbmx5IHwKfCBgJzEyNy4wLjAuMSdgIHwgYDEyNy4wLjAuMWAgfCBJUHY0IG9ubHkgfAp8IGAnMC4wLjAuMCdgIHwgYDAuMC4wLjBgIHwgSVB2NCBvbiBldmVyeSBuZXR3b3JrIGludGVyZmFjZSB8CnwgYCc6OidgIHwgYDo6YCB8IElQdjYgb24gZXZlcnkgbmV0d29yayBpbnRlcmZhY2UsIGFuZCBJUHY0IHRvbyBvbiBtYWNPUyB8CnwgYCc6OjEnYCB8IGA6OjFgIHwgSVB2NiBvbmx5IHwKClRoaXMgdGFibGUgd2FzIGNoZWNrZWQgd2l0aCBgbmV0LmNyZWF0ZVNlcnZlcigpLmxpc3RlbigwLCBob3N0KWAgb24gTm9kZS5qcyAxNy45LjEsIDE4LjIwLjgsIDIwLjEyLjIsIDIyLjIyLjMgYW5kIDI0LjguMDsgYWxsIGZpdmUgdmVyc2lvbnMgZ2F2ZSB0aGUgc2FtZSByZXN1bHQuCgotLS0KCiMjIFdoYXQgYDEyNy4wLjAuMWAsIGBsb2NhbGhvc3RgIGFuZCBgMC4wLjAuMGAgYXJlCgp8IEFkZHJlc3MgfCBNZWFuaW5nIHwgSVB2NiBlcXVpdmFsZW50IHwKfC0tLXwtLS18LS0tfAp8IGAxMjcuMC4wLjFgIHwgTG9vcGJhY2sgYWRkcmVzcywgYWx3YXlzIHRoaXMgbWFjaGluZSB8IGA6OjFgIHwKfCBgbG9jYWxob3N0YCB8IEEgaG9zdG5hbWUsIHJlc29sdmVkIHRocm91Z2ggRE5TIG9yIGAvZXRjL2hvc3RzYCB8IERlcGVuZHMgb24gcmVzb2x1dGlvbiwgbWF5IGJlIGA6OjFgIHwKfCBgMC4wLjAuMGAgfCAiRXZlcnkgbmV0d29yayBpbnRlcmZhY2UiIHdoZW4gYSBzZXJ2ZXIgbGlzdGVucyBvbiBpdCwgIm5vIGFkZHJlc3MiIG90aGVyd2lzZSB8IGA6OmAgfAoKPGRldGFpbHM+CjxzdW1tYXJ5PjEyNy4wLjAuMTogdGhlIGxvb3BiYWNrIGFkZHJlc3M8L3N1bW1hcnk+CgpMb29wYmFjayBpcyBhIHZpcnR1YWwgbmV0d29yayBpbnRlcmZhY2Ugd2l0aCBubyBwaHlzaWNhbCB3aXJlIGFuZCBubyBuZXR3b3JrIGNhcmQuIFBhY2tldHMgc2VudCB0byBgMTI3LjAuMC4xYCBuZXZlciBsZWF2ZSB0aGUgbWFjaGluZTsgdGhlIG9wZXJhdGluZyBzeXN0ZW0gaGFuZHMgdGhlbSBzdHJhaWdodCBiYWNrIHRvIHRoZSBzYW1lIGhvc3QuCgpJUHY0IHJlc2VydmVzIGFsbCBvZiBgMTI3LjAuMC4wLzhgIGZvciBsb29wYmFjaywgb3ZlciBzaXh0ZWVuIG1pbGxpb24gYWRkcmVzc2VzLCBhbGwgcG9pbnRpbmcgdG8gdGhlIHNhbWUgbWFjaGluZS4gU2VydmVyIEEgY2FuIGxpc3RlbiBvbiBgMTI3LjAuMC40YCBhbmQgU2VydmVyIEIgb24gYDEyNy4wLjUuNGAsIGJvdGggb24gdGhpcyBtYWNoaW5lLgoKSVB2NiBoYXMgZXhhY3RseSBvbmUgbG9vcGJhY2sgYWRkcmVzcywgYDo6MWAgKFJGQyA0MjkxIHNlY3Rpb24gMi41LjMpLgoKPC9kZXRhaWxzPgoKPGRldGFpbHM+CjxzdW1tYXJ5PmxvY2FsaG9zdDogYSBuYW1lLCBub3QgYW4gYWRkcmVzczwvc3VtbWFyeT4KCk5laXRoZXIgYnJvd3NlcnMgbm9yIE5vZGUuanMgcmVwbGFjZSBgbG9jYWxob3N0YCB3aXRoIGAxMjcuMC4wLjFgIGRpcmVjdGx5LiBUaGV5IHJlc29sdmUgaXQgbGlrZSBhbnkgb3RoZXIgaG9zdG5hbWU6IGZpcnN0IGAvZXRjL2hvc3RzYCwgdGhlbiB0aGUgb3BlcmF0aW5nIHN5c3RlbSdzIHJlc29sdmVyLiBDaGFuZ2Ugb25lIGxpbmUgaW4gYC9ldGMvaG9zdHNgIGFuZCBgbG9jYWxob3N0YCBwb2ludHMgc29tZXdoZXJlIGVsc2U6CgpgYGAKIyBwb2ludCBsb2NhbGhvc3QgdG8gYSBkaWZmZXJlbnQgbG9vcGJhY2sgYWRkcmVzcwoxMjcuMC4xLjQgICAgbG9jYWxob3N0CmBgYAoKQnJvd3NlcnMgdHJlYXQgYGxvY2FsaG9zdGAgYXMgYSB0cnVzdGVkIG9yaWdpbi4gVGhlIFczQyBTZWN1cmUgQ29udGV4dHMgc3BlYyBsaXN0cyBgbG9jYWxob3N0YCwgYDEyNy4wLjAuMC84YCBhbmQgYDo6MWAgYXMgcG90ZW50aWFsbHkgdHJ1c3R3b3J0aHksIHNvIGBodHRwOi8vbG9jYWxob3N0OjMwMDBgIGFuZCBgaHR0cDovLzEyNy4wLjAuMTozMDAwYCBnZXQgdGhlIEFQSXMgcmVzZXJ2ZWQgZm9yIHNlY3VyZSBjb250ZXh0cyB3aXRob3V0IEhUVFBTLiBgMC4wLjAuMGAgaXMgbm90IG9uIHRoYXQgbGlzdC4KCjwvZGV0YWlscz4KCjxkZXRhaWxzPgo8c3VtbWFyeT4wLjAuMC4wOiBkZXBlbmRzIG9uIHdobyB1c2VzIGl0PC9zdW1tYXJ5PgoKKipBcyBhIHNlcnZlcidzIGxpc3RlbiBhZGRyZXNzOioqIGFjY2VwdCBJUHY0IG9uIGV2ZXJ5IG5ldHdvcmsgaW50ZXJmYWNlLCBpbmNsdWRpbmcgbG9vcGJhY2sgKGAxMjcuMC4wLjFgKSBhbmQgdGhlIExBTiBJUCAoYDE5Mi4xNjguMS54YCkuIElQdjQgb25seTsgYSBjb25uZWN0aW9uIHRvIGA6OjFgIGlzIHJlZnVzZWQuCgoqKkFzIGEgY2xpZW50J3MgZGVzdGluYXRpb246KiogUkZDIDExMjIgc2VjdGlvbiAzLjIuMS4zIGFsbG93cyBgMC4wLjAuMGAgb25seSBhcyBhIHNvdXJjZSBhZGRyZXNzIHdoaWxlIGEgaG9zdCBkb2VzIG5vdCB5ZXQga25vdyBpdHMgb3duIElQLCBuZXZlciBhcyBhIGRlc3RpbmF0aW9uLiBXaGF0IGhhcHBlbnMgaW4gcHJhY3RpY2UgaXMgdXAgdG8gdGhlIG9wZXJhdGluZyBzeXN0ZW06IG9uIG1hY09TIDE1LjYsIHdpdGggYSBzZXJ2ZXIgb24gYDEyNy4wLjAuMWAsIGBjdXJsIGh0dHA6Ly8wLjAuMC4wOjxwb3J0Pi9gIHJldHVybnMgMjAwLiBJbiAyMDI0IE9saWdvIFNlY3VyaXR5IG5hbWVkIHRoaXMgIjAuMC4wLjAgRGF5IiwgYmVjYXVzZSBhIHB1YmxpYyB3ZWJzaXRlIGNvdWxkIHVzZSBpdCB0byByZWFjaCBzZXJ2aWNlcyBvbiB0aGUgdXNlcidzIG93biBtYWNoaW5lLgoKQnJvd3NlcnMgZWFjaCBoYW5kbGUgaXQgZGlmZmVyZW50bHkuIEluIHRoZSBDaHJvbWl1bSBzb3VyY2UsIHRoZSBMb2NhbCBOZXR3b3JrIEFjY2VzcyBjaGVjayBpcyBvbiBieSBkZWZhdWx0IGZyb20gMTQyOiBhIHB1YmxpYyB3ZWJzaXRlIGhhcyB0byBnZXQgdGhlIHVzZXIncyBwZXJtaXNzaW9uIHRocm91Z2ggYSBwcm9tcHQgYmVmb3JlIGl0IGNhbiBjb25uZWN0IHRvIGAwLjAuMC4wYCBvciBgMTI3LjAuMC4xYC4gUmVsZWFzZSBDaHJvbWUgYWxzbyBsb2FkcyBjb25maWd1cmF0aW9uIHB1c2hlZCBmcm9tIEdvb2dsZSdzIHNlcnZlcnMsIHdoaWNoIGNhbiB0dXJuIHRoZSBjaGVjayBvbiBlYXJsaWVyIG9yIGxhdGVyIGZvciBzb21lIHVzZXJzLCBzbyB0aGUgdmVyc2lvbiB3aGVyZSBhIHVzZXIgZmlyc3QgbWVldHMgdGhlIHByb21wdCBtYXkgbm90IGJlIDE0Mi4gQSB1c2VyIHR5cGluZyBgMC4wLjAuMGAgaW50byB0aGUgYWRkcmVzcyBiYXIgaXMgbm90IGFmZmVjdGVkOiBldmVyeSB2ZXJzaW9uIGZyb20gMTI2IHRvIDE1NiByZWFjaGVzIHRoZSBzZXJ2ZXIgbGlzdGVuaW5nIG9uIGAxMjcuMC4wLjFgLiBQZXItdmVyc2lvbiBtZWFzdXJlbWVudHMgYXJlIGluIHRoZSBhcHBlbmRpeC4gV2ViS2l0IGJsb2NrcyB0aGVzZSByZXF1ZXN0cyB0b287IEZpcmVmb3ggaGFkIG5vdCBibG9ja2VkIHRoZW0gYXMgb2YgQXVndXN0IDIwMjQuIE9uIHRoZSBzYW1lIG1hY2hpbmUsIGBwaW5nIDAuMC4wLjBgIHJlcG9ydHMgMTAwJSBwYWNrZXQgbG9zcy4KCjwvZGV0YWlscz4KCi0tLQoKIyMgRnVsbCB0ZXN0IHJlc3VsdHMgKE5vZGUuanMgMTcgYW5kIDIyLCBtYWNPUykKCkVhY2ggdGFibGUgdGVzdHMgY29tYmluYXRpb25zIG9mIHR3byBhZGRyZXNzZXM6IHRoZSBhZGRyZXNzIHRoZSBiYWNrZW5kIGxpc3RlbnMgb24sIGFuZCB0aGUgYnJvd3NlciBVUkwgKG9yIHRoZSBhZGRyZXNzIHRoZSBwcm94eSBjb25uZWN0cyB0bykuIEVhY2ggc2lkZSB0cmllcyBgbG9jYWxob3N0YCwgYDEyNy4wLjAuMWAgYW5kIGAwLjAuMC4wYCwgc28gZXZlcnkgdGFibGUgaGFzIDkgcm93cy4KClRlc3QgZW52aXJvbm1lbnQ6CgotIE9TOiBtYWNPUyAxNS42Ci0gQnJvd3NlcjogR29vZ2xlIENocm9tZSAxNTUuMC44MDU5Ljg2LCBoZWFkbGVzcywgbG9hZGluZyBlYWNoIFVSTCBkaXJlY3RseQotIFByb3h5OiBmb3J3YXJkcyB3aXRoIE5vZGUuanMncyBidWlsdC1pbiBgaHR0cC5yZXF1ZXN0YCwgbm8gcHJveHkgcGFja2FnZSwgbm8gYGZhbWlseWAgb3IgYGxvb2t1cGAgb3B0aW9uCi0gTm9kZS5qczogMTcuOS4xLCAyMi4yMi4zCgo8ZGV0YWlscz4KPHN1bW1hcnk+MS4gQnJvd3NlciDihpIgTm9kZS5qcyAxNyBiYWNrZW5kIChkaXJlY3QpOiAyIEZBSUxzPC9zdW1tYXJ5PgoKfCBCYWNrZW5kIGxpc3RlbiB8IEJyb3dzZXIgVVJMIHwgUmVzdWx0IHwKfC0tLXwtLS18LS0tfAp8IGBsb2NhbGhvc3RgICjihpIgYDo6MWApIHwgYGxvY2FsaG9zdGAgfCBPSyB8CnwgYGxvY2FsaG9zdGAgKOKGkiBgOjoxYCkgfCBgMTI3LjAuMC4xYCB8ICoqRkFJTCoqIHwKfCBgbG9jYWxob3N0YCAo4oaSIGA6OjFgKSB8IGAwLjAuMC4wYCB8ICoqRkFJTCoqIHwKfCBgMTI3LjAuMC4xYCB8IGBsb2NhbGhvc3RgIHwgT0sgfAp8IGAxMjcuMC4wLjFgIHwgYDEyNy4wLjAuMWAgfCBPSyB8CnwgYDEyNy4wLjAuMWAgfCBgMC4wLjAuMGAgfCBPSyB8CnwgYDAuMC4wLjBgIHwgYGxvY2FsaG9zdGAgfCBPSyB8CnwgYDAuMC4wLjBgIHwgYDEyNy4wLjAuMWAgfCBPSyB8CnwgYDAuMC4wLjBgIHwgYDAuMC4wLjBgIHwgT0sgfAoKPC9kZXRhaWxzPgoKPGRldGFpbHM+CjxzdW1tYXJ5PjIuIEJyb3dzZXIg4oaSIE5vZGUuanMgMjIgYmFja2VuZCAoZGlyZWN0KTogMiBGQUlMczwvc3VtbWFyeT4KClNhbWUgYXMgdGFibGUgMS4gYGxpc3RlbignbG9jYWxob3N0JylgIGxpc3RlbnMgb25seSBvbiBgOjoxYCBvbiBldmVyeSBOb2RlLmpzIHZlcnNpb24uCgo8L2RldGFpbHM+Cgo8ZGV0YWlscz4KPHN1bW1hcnk+My4gQnJvd3NlciDihpIgTm9kZS5qcyAxNyBwcm94eSDihpIgTm9kZS5qcyAyMiBiYWNrZW5kOiA0IEZBSUxzPC9zdW1tYXJ5PgoKfCBCYWNrZW5kIGxpc3RlbiAoTm9kZS5qcyAyMikgfCBQcm94eSBjb25uZWN0cyB0byAoTm9kZS5qcyAxNykgfCBSZXN1bHQgfAp8LS0tfC0tLXwtLS18CnwgYGxvY2FsaG9zdGAgKOKGkiBgOjoxYCkgfCBgbG9jYWxob3N0YCB8IE9LIHwKfCBgbG9jYWxob3N0YCAo4oaSIGA6OjFgKSB8IGAxMjcuMC4wLjFgIHwgKipGQUlMKiogfAp8IGBsb2NhbGhvc3RgICjihpIgYDo6MWApIHwgYDAuMC4wLjBgIHwgKipGQUlMKiogfAp8IGAxMjcuMC4wLjFgIHwgYGxvY2FsaG9zdGAgfCAqKkZBSUwqKiB8CnwgYDEyNy4wLjAuMWAgfCBgMTI3LjAuMC4xYCB8IE9LIHwKfCBgMTI3LjAuMC4xYCB8IGAwLjAuMC4wYCB8IE9LIHwKfCBgMC4wLjAuMGAgfCBgbG9jYWxob3N0YCB8ICoqRkFJTCoqIHwKfCBgMC4wLjAuMGAgfCBgMTI3LjAuMC4xYCB8IE9LIHwKfCBgMC4wLjAuMGAgfCBgMC4wLjAuMGAgfCBPSyB8Cgo8L2RldGFpbHM+Cgo8ZGV0YWlscz4KPHN1bW1hcnk+NC4gQnJvd3NlciDihpIgTm9kZS5qcyAyMiBwcm94eSDihpIgTm9kZS5qcyAyMiBiYWNrZW5kOiAyIEZBSUxzPC9zdW1tYXJ5PgoKfCBCYWNrZW5kIGxpc3RlbiAoTm9kZS5qcyAyMikgfCBQcm94eSBjb25uZWN0cyB0byAoTm9kZS5qcyAyMikgfCBSZXN1bHQgfAp8LS0tfC0tLXwtLS18CnwgYGxvY2FsaG9zdGAgKOKGkiBgOjoxYCkgfCBgbG9jYWxob3N0YCB8IE9LIHwKfCBgbG9jYWxob3N0YCAo4oaSIGA6OjFgKSB8IGAxMjcuMC4wLjFgIHwgKipGQUlMKiogfAp8IGBsb2NhbGhvc3RgICjihpIgYDo6MWApIHwgYDAuMC4wLjBgIHwgKipGQUlMKiogfAp8IGAxMjcuMC4wLjFgIHwgYGxvY2FsaG9zdGAgfCBPSyB8CnwgYDEyNy4wLjAuMWAgfCBgMTI3LjAuMC4xYCB8IE9LIHwKfCBgMTI3LjAuMC4xYCB8IGAwLjAuMC4wYCB8IE9LIHwKfCBgMC4wLjAuMGAgfCBgbG9jYWxob3N0YCB8IE9LIHwKfCBgMC4wLjAuMGAgfCBgMTI3LjAuMC4xYCB8IE9LIHwKfCBgMC4wLjAuMGAgfCBgMC4wLjAuMGAgfCBPSyB8Cgo8L2RldGFpbHM+Cgo8ZGV0YWlscz4KPHN1bW1hcnk+NS4gQnJvd3NlciDihpIgTm9kZS5qcyAxNyBwcm94eSDihpIgTm9kZS5qcyAxNyBiYWNrZW5kOiA0IEZBSUxzPC9zdW1tYXJ5PgoKU2FtZSBhcyB0YWJsZSAzLCBzbyB0aGUgYmFja2VuZCdzIE5vZGUuanMgdmVyc2lvbiBkb2VzIG5vdCBjaGFuZ2UgdGhlIHJlc3VsdC4gVGhlIHR3byBGQUlMcyBiZXlvbmQgdGFibGUgNCBib3RoIGNvbWUgZnJvbSB0aGUgTm9kZS5qcyAxNyBwcm94eSByZXNvbHZpbmcgYGxvY2FsaG9zdGAgdG8gYDo6MWAgYW5kIG5vdCB0cnlpbmcgSVB2NCBhZnRlcndhcmRzLgoKPC9kZXRhaWxzPgoKPGRldGFpbHM+CjxzdW1tYXJ5PjYuIEJyb3dzZXIg4oaSIE5vZGUuanMgMjIgcHJveHkg4oaSIE5vZGUuanMgMTcgYmFja2VuZDogMiBGQUlMczwvc3VtbWFyeT4KClNhbWUgYXMgdGFibGUgNC4gVGhlIE5vZGUuanMgMjIgcHJveHkgdHJpZXMgSVB2NCBhZnRlciBgOjoxYCByZWZ1c2VzLCBzbyBpdCByZWFjaGVzIGFuIElQdjQtb25seSBiYWNrZW5kIHRocm91Z2ggYGxvY2FsaG9zdGAgdG9vLgoKPC9kZXRhaWxzPgoKIyMjIFRoZSB0d28gY2F1c2VzIG9mIEZBSUwKCioqVGhlIGJhY2tlbmQgbGlzdGVucyBvbiBJUHY2IG9ubHkgYW5kIHRoZSBjbGllbnQgdXNlcyBhbiBJUHY0IGFkZHJlc3MuKioKCi0gVGhlIGJhY2tlbmQgY2FsbHMgYGxpc3RlbignbG9jYWxob3N0JylgLCB0aGUgY2xpZW50IHVzZXMgYDEyNy4wLjAuMWAgb3IgYDAuMC4wLjBgLgotIFRoZSBzZXJ2ZXIgbGlzdGVucyBvbmx5IG9uIGA6OjFgLCBzbyBub3RoaW5nIGxpc3RlbnMgb24gdGhlIElQdjQgYWRkcmVzcyB0aGUgY2xpZW50IHVzZXMuCi0gRXZlcnkgdGFibGUgaGFzIHRoZXNlIDIgcm93cywgb24gZXZlcnkgTm9kZS5qcyB2ZXJzaW9uLgotIElmIHRoZSBiYWNrZW5kIGxpc3RlbnMgb24gYCc6OidgIG9yIGAnMC4wLjAuMCdgIGluc3RlYWQsIHRoZXNlIDIgcm93cyBiZWNvbWUgT0suCgoqKlRoZSBjbGllbnQgaXMgTm9kZS5qcyAxNyBhbmQgdXNlcyBgbG9jYWxob3N0YC4qKgoKLSBUaGUgYmFja2VuZCBsaXN0ZW5zIG9ubHkgb24gSVB2NCwgYnV0IHRoZSBjbGllbnQgcmVzb2x2ZXMgYGxvY2FsaG9zdGAgdG8gYDo6MWAuIEFmdGVyIGA6OjFgIHJlZnVzZXMgdGhlIGNvbm5lY3Rpb24sIE5vZGUuanMgMTcgZG9lcyBub3QgdHJ5IGAxMjcuMC4wLjFgLCBzbyB0aGUgcmVxdWVzdCBmYWlscy4KLSBJbiB0YWJsZXMgMyBhbmQgNSwgdGhlIDIgcm93cyB3aGVyZSB0aGUgYmFja2VuZCBsaXN0ZW5zIG9uIGAxMjcuMC4wLjFgIG9yIGAwLjAuMC4wYCBhbmQgdGhlIHByb3h5IGNvbm5lY3RzIHRvIGBsb2NhbGhvc3RgIGFyZSB0aGlzIGNhc2UuIEluIHRhYmxlIDQgdGhlIHByb3h5IHJ1bnMgTm9kZS5qcyAyMiwgd2hpY2ggdHJpZXMgYDEyNy4wLjAuMWAgYWZ0ZXIgdGhlIHJlZnVzYWwsIHNvIHRoZSBzYW1lIDIgcm93cyBhcmUgT0suCi0gVGhvc2UgMiByb3dzIGluIHRhYmxlcyAzIGFuZCA1IGJlY29tZSBPSyB0b28gaWYgdGhlIHByb3h5IHJ1bnMgb24gTm9kZS5qcyAyMCBvciBsYXRlciwgb3IgY29ubmVjdHMgdG8gYDEyNy4wLjAuMWAgaW5zdGVhZC4KCiMjIyBUZXN0IHNjcmlwdAoKYGBganMKY29uc3QgaHR0cCA9IHJlcXVpcmUoJ2h0dHAnKTsKY29uc3QgZG5zID0gcmVxdWlyZSgnZG5zJyk7CgpkbnMubG9va3VwKCdsb2NhbGhvc3QnLCAoZXJyLCBhZGRyZXNzLCBmYW1pbHkpID0+IHsKICBjb25zb2xlLmxvZyhgZG5zLmxvb2t1cCDihpIgJHthZGRyZXNzfSAoSVB2JHtmYW1pbHl9KWApOwp9KTsKCmNvbnN0IHNlcnZlciA9IGh0dHAuY3JlYXRlU2VydmVyKChyZXEsIHJlcykgPT4gewogIHJlcy53cml0ZUhlYWQoMjAwKTsKICByZXMuZW5kKCdvaycpOwp9KTsKCnNlcnZlci5saXN0ZW4oOTk5OSwgJzEyNy4wLjAuMScsICgpID0+IHsKICBodHRwLmdldCgnaHR0cDovL2xvY2FsaG9zdDo5OTk5JywgKCkgPT4gewogICAgY29uc29sZS5sb2coJ2h0dHAuZ2V0IOKGkiBPSycpOwogICAgc2VydmVyLmNsb3NlKCk7CiAgfSkub24oJ2Vycm9yJywgKGVycikgPT4gewogICAgY29uc29sZS5sb2coJ2h0dHAuZ2V0IOKGkiBGQUlMOiAnICsgZXJyLmNvZGUpOwogICAgc2VydmVyLmNsb3NlKCk7CiAgfSk7Cn0pOwpgYGAKClJ1biBvbiBtYWNPUyAxNS42LCBzd2l0Y2hpbmcgdmVyc2lvbnMgd2l0aCBudm06IE5vZGUuanMgMTcuOS4xIGFuZCAxOC4yMC44IHByaW50IGBGQUlMOiBFQ09OTlJFRlVTRURgOyAyMC4xMi4yLCAyMi4yMi4zIGFuZCAyNC44LjAgcHJpbnQgYE9LYC4gQWxsIGZpdmUgcHJpbnQgYDo6MWAgZm9yIGBkbnMubG9va3VwYDsgdGhlIG9ubHkgZGlmZmVyZW5jZSBpcyB3aGV0aGVyIHRoZSBjbGllbnQgdHJpZXMgSVB2NCBuZXh0LgoKLS0tCgojIyBBcHBlbmRpeDogaG93IENocm9tZSBoYW5kbGVzIGAwLjAuMC4wYAoKSW4gSnVuZSAyMDI0IENocm9taXVtIGFubm91bmNlZCBvbiBibGluay1kZXYgdGhhdCBpdCB3b3VsZCBibG9jayByZXF1ZXN0cyBmcm9tIHB1YmxpYyB3ZWJzaXRlcyB0byBgMC4wLjAuMGAuIFRoZSBhbm5vdW5jZW1lbnQgZXN0aW1hdGVkIENocm9tZSAxMzM7IHRoZSBjaHJvbWVzdGF0dXMgZW50cnkgbGlzdHMgQ2hyb21lIDEyOS4gTG9jYWwgTmV0d29yayBBY2Nlc3MgbGF0ZXIgcmVwbGFjZWQgdGhhdCBwbGFuIHdpdGggYSBwZXJtaXNzaW9uIHByb21wdCwgbGF1bmNoaW5nIGluIENocm9tZSAxNDIuCgpXaXRoIHRoZSBjb2RlIGRlZmF1bHRzIGluIENocm9taXVtLCBhIHB1YmxpYyB3ZWJzaXRlIGNhbiByZWFjaCBgMC4wLjAuMGAgYW5kIGAxMjcuMC4wLjFgIG9uIGV2ZXJ5IHZlcnNpb24gZnJvbSAxMjYgdG8gMTQxLiBGcm9tIDE0MiB0aGUgdXNlciBoYXMgdG8gY2xpY2sgQWxsb3cgZmlyc3QuCgpVbmRlciBQcml2YXRlIE5ldHdvcmsgQWNjZXNzLCBiZWZvcmUgYSBwdWJsaWMgd2Vic2l0ZSByZWFjaGVzIGEgcHJpdmF0ZSBuZXR3b3JrLCB0aGUgYnJvd3NlciBzZW5kcyBhbiBPUFRJT05TIHByZWZsaWdodCwgYW5kIHRoZSBzZXJ2ZXIgaGFzIHRvIGFuc3dlciB3aXRoIGBBY2Nlc3MtQ29udHJvbC1BbGxvdy1Qcml2YXRlLU5ldHdvcms6IHRydWVgIGZvciB0aGUgcmVxdWVzdCB0byBnbyB0aHJvdWdoLiBUaGUgbWlkZGxlIHR3byBjb2x1bW5zIG9mIHRoZSB0YWJsZSBhcmUgd2l0aCB0aGUgc2VydmVyIHNlbmRpbmcgdGhhdCBoZWFkZXI7IHRoZSBsYXN0IGNvbHVtbiBpcyB3aXRob3V0IGl0LgoKfCBDaHJvbWUgdmVyc2lvbiB8IGZldGNoIGAxMjcuMC4wLjFgIChoZWFkZXIgc2VudCkgfCBmZXRjaCBgMC4wLjAuMGAgKGhlYWRlciBzZW50KSB8IFdoZW4gdGhlIHNlcnZlciBkb2VzIG5vdCBzZW5kIHRoZSBoZWFkZXIgfAp8LS0tfC0tLXwtLS18LS0tfAp8IDEyNiB0byAxMjggfCBQcmVmbGlnaHQgZmlyc3QgfCBObyBwcmVmbGlnaHQsIGdvZXMgc3RyYWlnaHQgdG8gdGhlIGJhY2tlbmQgfCBCb3RoIHJlcXVlc3RzIHN0aWxsIHJlYWNoIHRoZSBiYWNrZW5kIHwKfCAxMjkgdG8gMTM5IHwgUHJlZmxpZ2h0IGZpcnN0IHwgUHJlZmxpZ2h0IGZpcnN0IHwgQm90aCByZXF1ZXN0cyBzdGlsbCByZWFjaCB0aGUgYmFja2VuZCB8CnwgMTQwLCAxNDEgfCBObyBwcmVmbGlnaHQsIGdvZXMgc3RyYWlnaHQgdG8gdGhlIGJhY2tlbmQgfCBObyBwcmVmbGlnaHQsIGdvZXMgc3RyYWlnaHQgdG8gdGhlIGJhY2tlbmQgfCBCb3RoIHJlcXVlc3RzIHN0aWxsIHJlYWNoIHRoZSBiYWNrZW5kIHwKfCAxNDIgYW5kIGxhdGVyIHwgUGVybWlzc2lvbiBwcm9tcHQgfCBQZXJtaXNzaW9uIHByb21wdCB8IFdpdGhvdXQgc29tZW9uZSBjbGlja2luZyBBbGxvdywgbm90aGluZyByZWFjaGVzIHRoZSBiYWNrZW5kIHwKCi0gKioxMjYgdG8gMTI4OioqIGAxMjcuMC4wLjFgIGdldHMgYSBwcmVmbGlnaHQgYnV0IGAwLjAuMC4wYCBkb2VzIG5vdCwgYmVjYXVzZSB0aGUgYnJvd3NlciB0cmVhdHMgYDAuMC4wLjBgIGFzIGEgcHVibGljIGFkZHJlc3MuIE9uIG1hY09TIGEgcmVxdWVzdCB0byBgMC4wLjAuMGAgcmVhY2hlcyB0aGUgc2VydmljZXMgb24gdGhlIGxvY2FsIG1hY2hpbmUsIHNvIGEgcHVibGljIHdlYnNpdGUgY2FuIHJlYWNoIHRoZSB1c2VyJ3MgbWFjaGluZSB0aHJvdWdoIGAwLjAuMC4wYC4gVGhhdCBpcyB0aGUgMC4wLjAuMCBEYXkgbWVudGlvbmVkIGFib3ZlLgotICoqMTI5IHRvIDEzOToqKiBgMC4wLjAuMGAgZ2V0cyBhIHByZWZsaWdodCB0b28sIHRyZWF0ZWQgYXMgYSBsb2NhbCBhZGRyZXNzIGxpa2UgYDEyNy4wLjAuMWAuIEJ1dCB3aGVuIHRoZSBzZXJ2ZXIgbGVhdmVzIG91dCB0aGUgaGVhZGVyLCB0aGUgYnJvd3NlciBkb2VzIG5vdCBzdG9wIHRoZSByZXF1ZXN0LCBhbmQgdGhlIEdFVCBzdGlsbCBnb2VzIG91dC4KLSAqKjE0MCwgMTQxOioqIHRoZSBwcmVmbGlnaHQgaXMgZ29uZSwgdG8gYmUgcmVwbGFjZWQgYnkgTG9jYWwgTmV0d29yayBBY2Nlc3MsIHdoaWNoIGlzIG5vdCBvbiBieSBkZWZhdWx0IHlldC4gQm90aCByZXF1ZXN0cyByZWFjaCB0aGUgYmFja2VuZCB3aXRoIG5vIGNoZWNrIGF0IGFsbC4KLSAqKjE0MiBhbmQgbGF0ZXI6KiogTG9jYWwgTmV0d29yayBBY2Nlc3MgaXMgb24gYnkgZGVmYXVsdCwgYW5kIGEgcHVibGljIHdlYnNpdGUgZ2V0cyBhIHBlcm1pc3Npb24gcHJvbXB0IGJlZm9yZSBpdCBjYW4gcmVhY2ggdGhlIGxvY2FsIG1hY2hpbmUuIEluIHRoZSBDaHJvbWl1bSBzb3VyY2UsIGBMb2NhbE5ldHdvcmtBY2Nlc3NDaGVja3NgIGlzIGRpc2FibGVkIGJ5IGRlZmF1bHQgdXAgdG8gMTQxIGFuZCBlbmFibGVkIGJ5IGRlZmF1bHQgZnJvbSAxNDIuCgpBIHVzZXIgdHlwaW5nIGAwLjAuMC4wYCBpbnRvIHRoZSBhZGRyZXNzIGJhciByZWFjaGVkIHRoZSBiYWNrZW5kIG9uIGV2ZXJ5IHZlcnNpb24gZnJvbSAxMjYgdG8gMTU2LiBUaGVzZSBtZWNoYW5pc21zIG9ubHkgY2hlY2sgcmVxdWVzdHMgYSB3ZWIgcGFnZSBtYWtlcy4KClJlbGVhc2UgQ2hyb21lIGxvYWRzIGNvbmZpZ3VyYXRpb24gcHVzaGVkIGZyb20gR29vZ2xlJ3Mgc2VydmVycywgd2hpY2ggY2FuIHR1cm4gYSBmZWF0dXJlIG9uIGVhcmxpZXIgb3IgbGF0ZXIgZm9yIHNvbWUgdXNlcnMuIFNvIHRoZSB2ZXJzaW9uIHdoZXJlIGEgcmVsZWFzZSBDaHJvbWUgdXNlciBmaXJzdCBzZWVzIHRoZSBwZXJtaXNzaW9uIHByb21wdCBtYXkgZGlmZmVyIGZyb20gdGhlIHRhYmxlLiBUaGF0IHBhcnQgd2FzIG5vdCBtZWFzdXJlZC4KCiMjIyBUZXN0IG1ldGhvZAoKLSBCcm93c2VyOiBDaHJvbWUgZm9yIFRlc3RpbmcgMTI2IHRvIDE1NiwgZXZlcnkgb25lIG9mIHRoZSAzMSBtYWpvcnMsIG9uIG1hY09TIDE1LjYuCi0gVGVzdCBwYWdlOiBzZXJ2ZWQgbG9jYWxseSwgbWFya2VkIGFzIGEgcHVibGljIHdlYnNpdGUgd2l0aCBgLS1pcC1hZGRyZXNzLXNwYWNlLW92ZXJyaWRlc2AsIGZldGNoaW5nIGEgYmFja2VuZCBsaXN0ZW5pbmcgb24gYDEyNy4wLjAuMWAuCgpDaHJvbWUgZm9yIFRlc3RpbmcgZG9lcyBub3QgbG9hZCBjb25maWd1cmF0aW9uIHB1c2hlZCBmcm9tIEdvb2dsZSdzIHNlcnZlcnMsIGJ1dCBpdCBkb2VzIGxvYWQgYSB0ZXN0aW5nIGNvbmZpZyB0aGF0IHNoaXBzIGluIHRoZSBDaHJvbWl1bSBzb3VyY2UgKGB0ZXN0aW5nL3ZhcmlhdGlvbnMvZmllbGR0cmlhbF90ZXN0aW5nX2NvbmZpZy5qc29uYCkuIFRoYXQgY29uZmlnIHR1cm5zIHNvbWUgZmVhdHVyZXMgb24gYmVmb3JlIHRoZXkgYXJlIG9uIGJ5IGRlZmF1bHQsIHNvIGV2ZXJ5IHZlcnNpb24gcmFuIGluIHR3byBwYXNzZXMuIFRoZSAibm9ybWFsIHN0YXJ0IiBwYXNzIGxvYWRzIHRoZSB0ZXN0aW5nIGNvbmZpZy4gVGhlICJ0ZXN0aW5nIGNvbmZpZyBvZmYiIHBhc3MgYWRkcyBgLS1kaXNhYmxlLWZpZWxkLXRyaWFsLWNvbmZpZ2AgYW5kIGxlYXZlcyBvbmx5IHRoZSBjb2RlIGRlZmF1bHRzLiBUaGUgdGFibGUgYWJvdmUgaXMgdGhlIHRlc3RpbmcgY29uZmlnIG9mZiBwYXNzLiBJbiB0aGUgbm9ybWFsIHN0YXJ0IHBhc3MsIDEzOCBhbHJlYWR5IHNlbmRzIG5vIHByZWZsaWdodCBhbmQgMTM5IGFscmVhZHkgc2hvd3MgdGhlIHBlcm1pc3Npb24gcHJvbXB0LCBib3RoIGVhcmxpZXIgdGhhbiB0aGUgY29kZSBkZWZhdWx0cy4KCldpdGggdGhlIHRlc3RpbmcgY29uZmlnIG9mZiwgMTQwIGFuZCAxNDEgc3RvcCBub3RoaW5nLCBzbyB0aGUgcmVzdWx0IGlzIHRoZSBzYW1lIHdoZXRoZXIgb3Igbm90IHRoZSB0ZXN0IHBhZ2UgaXMgbWFya2VkIHB1YmxpYywgYW5kIHRoYXQgcGFzcyBhbG9uZSBjYW5ub3QgY29uZmlybSBgLS1pcC1hZGRyZXNzLXNwYWNlLW92ZXJyaWRlc2AgdG9vayBlZmZlY3QuIEluIHRoZSBub3JtYWwgc3RhcnQgcGFzcywgdGhlIHNhbWUgYnVpbGRzIHN0b3AgdGhlIHJlcXVlc3RzIGF0IHRoZSBwZXJtaXNzaW9uIHByb21wdCwgd2hpY2ggc2hvd3MgdGhlIGZsYWcgZG9lcyB0YWtlIGVmZmVjdC4KCkluIGhlYWRsZXNzIG1vZGUgbm9ib2R5IGNhbiBhbnN3ZXIgdGhlIHByb21wdC4gSW4gdGhlIG5vcm1hbCBzdGFydCBwYXNzLCByZXF1ZXN0cyBvbiAxMzkgdG8gMTQyIGhhbmcgd2l0aCBubyBhbnN3ZXIuIEluIHRoZSB0ZXN0aW5nIGNvbmZpZyBvZmYgcGFzcywgb25seSAxNDIgZG9lcy4gRnJvbSAxNDMsIGluIGJvdGggcGFzc2VzLCBoZWFkbGVzcyBDaHJvbWUgdHJlYXRzIHRoZSBwcm9tcHQgYXMgZGVuaWVkLCBhbmQgdGhlIGNvbnNvbGUgcHJpbnRzIGBQZXJtaXNzaW9uIHdhcyBkZW5pZWQgZm9yIHRoaXMgcmVxdWVzdCB0byBhY2Nlc3MgdGhlIGxvb3BiYWNrIGFkZHJlc3Mgc3BhY2UuYCBCZWNhdXNlIHRoZSBub3JtYWwgc3RhcnQgcGFzcyBzdG9wcyByZXF1ZXN0cyBmcm9tIDEzOSwgMTM5IHRvIDE1NiBhbHNvIHJhbiBvbmNlIG1vcmUgd2l0aCB0aGUgcGVybWlzc2lvbiBncmFudGVkIGZpcnN0IHRocm91Z2ggdGhlIENocm9tZSBEZXZUb29scyBQcm90b2NvbCAoYEJyb3dzZXIuc2V0UGVybWlzc2lvbmApLiBXaXRoIHRoZSBncmFudCwgYm90aCByZXF1ZXN0cyByZWFjaCB0aGUgYmFja2VuZCwgd2l0aCBubyBwcmVmbGlnaHQuCgotLS0KCiMjIEFwcGVuZGl4OiBJUHY2IGxpbmstbG9jYWwgKGZlODApCgpJUHY2IGhhcyBsaW5rLWxvY2FsIGFkZHJlc3NlcyAoYGZlODA6Oi8xMGApIHRoYXQgb25seSB3b3JrIG9uIGEgc2luZ2xlIG5ldHdvcmsgbGluaywgd2l0aCBubyByb3V0ZXIgYW5kIG5vIERIQ1AuIEEgZGV2aWNlIGdpdmVzIGl0c2VsZiBhbiBgZmU4MDo6YCBhZGRyZXNzIHdoZW4gaXQgam9pbnMgYSBuZXR3b3JrIChTTEFBQyksIHVzZXMgaXQgdG8gZmluZCB0aGUgcm91dGVyIHRocm91Z2ggTkRQLCBhbmQgdGhlbiBnZXRzIGEgZ2xvYmFsIElQdjYgYWRkcmVzcy4KClJGQyA0MjkxIHNlY3Rpb24gMi41LjYgc2F5cyByb3V0ZXJzIG11c3Qgbm90IGZvcndhcmQgYSBwYWNrZXQgd2l0aCBhIGxpbmstbG9jYWwgc291cmNlIG9yIGRlc3RpbmF0aW9uIHRvIGFub3RoZXIgbGluay4gU28gdHdvIGRldmljZXMgY2FuIHRhbGsgb3ZlciBgZmU4MGAgb25seSB3aGVuIHRoZXkgYXJlIG9uIHRoZSBzYW1lIGxpbmssIHN1Y2ggYXMgdGhlIHNhbWUgV2ktRmkgYWNjZXNzIHBvaW50IG9yIHRoZSBzYW1lIHN3aXRjaC4gVGhleSBjYW4gY29ubmVjdCBhcyBzb29uIGFzIHRoZXkgc2hhcmUgdGhlIGxpbmssIHdpdGhvdXQgd2FpdGluZyBmb3IgYSByb3V0ZXIgdG8gaGFuZCBvdXQgYWRkcmVzc2VzLgoKYGBgYmFzaAojIEFjY2VzcyBhIHNlcnZlciBvbiB0aGUgc2FtZSBXaS1GaSB2aWEgbGluay1sb2NhbCAobm8gcm91dGVyKQpjdXJsIGh0dHA6Ly9bZmU4MDo6eHh4eDp4eHh4Onh4eHg6NGMyNyVlbjBdOjMwMDAKCiMgQWNjZXNzIHRoZSBzYW1lIHNlcnZlciB2aWEgcHJpdmF0ZSBJUHY0ICh0aHJvdWdoIHJvdXRlcikKY3VybCBodHRwOi8vMTkyLjE2OC4xLjQyOjMwMDAKYGBgCgotLS0KCiMjIFJlZmVyZW5jZXMKCi0gW05vZGUuanMgZG5zLmxvb2t1cCBkb2NzIChgdmVyYmF0aW1gIGRlZmF1bHQgYmVjYW1lIGB0cnVlYCBpbiB2MTcuMC4wKV0oaHR0cHM6Ly9ub2RlanMub3JnL2FwaS9kbnMuaHRtbCNkbnNsb29rdXBob3N0bmFtZS1vcHRpb25zLWNhbGxiYWNrKQotIFtOb2RlLmpzIHNvY2tldC5jb25uZWN0IGRvY3MgKGBhdXRvU2VsZWN0RmFtaWx5YCBoaXN0b3J5KV0oaHR0cHM6Ly9ub2RlanMub3JnL2FwaS9uZXQuaHRtbCNzb2NrZXRjb25uZWN0b3B0aW9ucy1jb25uZWN0bGlzdGVuZXIpCi0gW05vZGUuanMgRE5TIHJlc29sdXRpb24gY2hhbmdlIChpc3N1ZSAjNDA1MzcpXShodHRwczovL2dpdGh1Yi5jb20vbm9kZWpzL25vZGUvaXNzdWVzLzQwNTM3KQotIFtodHRwLXByb3h5LW1pZGRsZXdhcmUgbG9jYWxob3N0IHJlc29sdXRpb24gaXNzdWUgKCM3MDUpXShodHRwczovL2dpdGh1Yi5jb20vY2hpbXVyYWkvaHR0cC1wcm94eS1taWRkbGV3YXJlL2lzc3Vlcy83MDUpCi0gW1JGQyA4MzA1OiBIYXBweSBFeWViYWxscyBWZXJzaW9uIDJdKGh0dHBzOi8vd3d3LnJmYy1lZGl0b3Iub3JnL3JmYy9yZmM4MzA1KQotIFtSRkMgMTEyMiBzZWN0aW9uIDMuMi4xLjM6IHdoYXQgYDAuMC4wLjBgIGlzIGZvcl0oaHR0cHM6Ly93d3cucmZjLWVkaXRvci5vcmcvcmZjL3JmYzExMjIjc2VjdGlvbi0zLjIuMS4zKQotIFtSRkMgNDI5MTogSVAgVmVyc2lvbiA2IEFkZHJlc3NpbmcgQXJjaGl0ZWN0dXJlICgyLjUuMyBsb29wYmFjaywgMi41LjYgbGluay1sb2NhbCldKGh0dHBzOi8vd3d3LnJmYy1lZGl0b3Iub3JnL3JmYy9yZmM0MjkxKQotIFtXM0MgU2VjdXJlIENvbnRleHRzOiB3aGljaCBvcmlnaW5zIGFyZSBwb3RlbnRpYWxseSB0cnVzdHdvcnRoeV0oaHR0cHM6Ly93M2MuZ2l0aHViLmlvL3dlYmFwcHNlYy1zZWN1cmUtY29udGV4dHMvI2lzLW9yaWdpbi10cnVzdHdvcnRoeSkKLSBbQ2hyb21lIGZvciBEZXZlbG9wZXJzOiBMb2NhbCBOZXR3b3JrIEFjY2Vzc10oaHR0cHM6Ly9kZXZlbG9wZXIuY2hyb21lLmNvbS9ibG9nL2xvY2FsLW5ldHdvcmstYWNjZXNzKQotIFtDaHJvbWl1bSBibGluay1kZXY6IEludGVudCB0byBEZXByZWNhdGUgYW5kIFJlbW92ZSAwLjAuMC4wIGZvciBQcml2YXRlIE5ldHdvcmsgQWNjZXNzXShodHRwczovL2dyb3Vwcy5nb29nbGUuY29tL2EvY2hyb21pdW0ub3JnL2cvYmxpbmstZGV2L2MvOXV5bUNRTkdWZ3cvbS9UeFdlSUx1SkF3QUopCi0gW0Nocm9taXVtIDE0MiBzb3VyY2U6IGBrTG9jYWxOZXR3b3JrQWNjZXNzQ2hlY2tzYCBlbmFibGVkIGJ5IGRlZmF1bHRdKGh0dHBzOi8vZ2l0aHViLmNvbS9jaHJvbWl1bS9jaHJvbWl1bS9ibG9iLzE0Mi4wLjc0NDQuMTc1L3NlcnZpY2VzL25ldHdvcmsvcHVibGljL2NwcC9mZWF0dXJlcy5jYykgKGRpc2FibGVkIGJ5IGRlZmF1bHQgaW4gWzE0MS4wLjczOTAuMTIyXShodHRwczovL2dpdGh1Yi5jb20vY2hyb21pdW0vY2hyb21pdW0vYmxvYi8xNDEuMC43MzkwLjEyMi9zZXJ2aWNlcy9uZXR3b3JrL3B1YmxpYy9jcHAvZmVhdHVyZXMuY2MpKQotIFtDaHJvbWl1bSB0ZXN0aW5nIGNvbmZpZyBmaWVsZHRyaWFsX3Rlc3RpbmdfY29uZmlnLmpzb24gKDEzOSldKGh0dHBzOi8vZ2l0aHViLmNvbS9jaHJvbWl1bS9jaHJvbWl1bS9ibG9iLzEzOS4wLjcyNTguMTU0L3Rlc3RpbmcvdmFyaWF0aW9ucy9maWVsZHRyaWFsX3Rlc3RpbmdfY29uZmlnLmpzb24pCi0gW1RoZSBSZWdpc3RlcjogMC4wLjAuMCBEYXldKGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzA4LzA5LzAwMDBfZGF5X2J1Zy8pCi0gW0FjY2Vzc2luZyBJUHY2IGxpbmstbG9jYWwgZnJvbSBicm93c2VyIChTdGFja092ZXJmbG93KV0oaHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvNDUyOTk2NDgvaG93LXRvLWFjY2Vzcy1kZXZpY2VzLXdpdGgtaXB2Ni1saW5rLWxvY2FsLWFkZHJlc3MtZnJvbS1icm93c2VybGlrZS1pZS1maXJlZm94KQotIFtMaW51eCB2aXJ0dWFsIG5ldHdvcmsgaW50ZXJmYWNlcyAodGhpc2N1dGUud29ybGQpXShodHRwczovL3RoaXNjdXRlLndvcmxkL3Bvc3RzL2xpbnV4LXZpcnR1YWwtbmV0d29yay1pbnRlcmZhY2VzLykK17:T8063,<p>後端監聽在 <code>127.0.0.1:1234</code>，前端的 Node.js 17 程式連 <code>localhost:1234</code>，結果連不上，後端的 log 一行都沒有。</p>
+<p>Node.js 17 把 <code>localhost</code> 解析成 <code>::1</code>，也就是 IPv6 的本機位址，請求送到 <code>[::1]:1234</code>。那個位址沒有程式在監聽，連線在作業系統那一層就被拒絕了，請求根本沒進到後端，所以後端沒有東西可以 log。</p>
+<pre><code>Frontend (Node.js 17): http.get("http://localhost:1234")
+           → DNS resolves localhost to ::1
+           → connects to [::1]:1234
+           → nothing listening there → connection refused
+
+Backend:  listening on 127.0.0.1:1234
+           → never sees the request
+           → no error logged
+</code></pre>
+<hr>
+<h2>為什麼 <code>localhost</code> 會先解析成 <code>::1</code></h2>
+<p>Node.js 17 以前，<code>dns.lookup</code> 拿到作業系統給的結果，會先重排一次，把 IPv4 放前面，所以 <code>localhost</code> 一定先拿到 <code>127.0.0.1</code>。</p>
+<p>Node.js 17（2021 年 10 月）把 <code>dns.lookup</code> 的 <code>verbatim</code> 選項預設改成 <code>true</code>，不再重排，作業系統給什麼順序就照著交出來。macOS 給的是 <code>::1</code> 在前。</p>
+<p>這個順序是 macOS 的 resolver 自己排的，跟 <code>/etc/hosts</code> 裡哪一行寫在前面沒有關係。預設的 <code>/etc/hosts</code> 是 <code>127.0.0.1</code> 寫在前面：</p>
+<pre><code># /etc/hosts (default macOS)
+127.0.0.1    localhost
+::1          localhost
+</code></pre>
+<p>把這兩行對調再查一次，結果一樣是 <code>::1</code> 在前：</p>
+<pre><code>/etc/hosts 順序         dns.lookup('localhost', { all: true })
+127.0.0.1 在前          [{ address: '::1', family: 6 }, { address: '127.0.0.1', family: 4 }]
+::1 在前                [{ address: '::1', family: 6 }, { address: '127.0.0.1', family: 4 }]
+</code></pre>
+<hr>
+<h2>為什麼 Node.js 20 以後又連得上</h2>
+<p>Node.js 20（2023 年 4 月）把 <code>net.connect</code> 的 <code>autoSelectFamily</code> 選項預設改成 <code>true</code>。開了這個選項，client 連第一個位址失敗時，會接著試下一個，每個位址最多等 250ms。Node.js 把這個做法叫 happy eyeballs，參考的是 RFC 8305。<code>http.get</code>、<code>fetch</code> 都用這個預設。</p>
+<p>所以同樣是連 <code>localhost:1234</code>，Node.js 20 會先試 <code>::1</code>，被拒絕之後改試 <code>127.0.0.1</code>，就連上了。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Node.js 版本</th><th><code>localhost</code> 先解析成</th><th><code>::1</code> 連不上時，會不會改連 <code>127.0.0.1</code></th><th>連一個只監聽 <code>127.0.0.1</code> 的 server</th></tr></thead><tbody><tr><td>Node.js 16 以前</td><td><code>127.0.0.1</code></td><td>不會，但用不到</td><td>成功</td></tr><tr><td>Node.js 17 到 19</td><td><code>::1</code></td><td>不會</td><td>失敗</td></tr><tr><td>Node.js 20 以後</td><td><code>::1</code></td><td>會</td><td>成功</td></tr></tbody></table>
+<p>表格把 Node.js 18 歸在「不會」，跟 Node.js 的 net 文件不一樣。文件寫 18.18.0 起 <code>autoSelectFamily</code> 也預設打開，照這樣 18 應該連得上。</p>
+<p>可是在 Node.js 18.20.8 上，<code>net.getDefaultAutoSelectFamily()</code> 回傳 <code>false</code>，文末的測試腳本也連線失敗，所以表格照實測寫。實際跑過的版本是 17.9.1、18.20.8、20.12.2、22.22.3、24.8.0，都在 macOS 15.6 上。16 跟 19 沒有跑。16 那一列照 <code>dns.lookup</code> 文件寫；19 歸在「不會」，是照 net 文件寫的「20.0.0 起預設打開」。</p>
+<hr>
+<h2>server 那一邊不會改連</h2>
+<p>server 寫 <code>listen('localhost')</code> 的時候，Node.js 把 <code>localhost</code> 解析成 <code>::1</code>，只拿這一個位址去 bind，不會把 <code>127.0.0.1</code> 也一起 bind。從 Node.js 17 到 24，這樣寫的 server 都只監聽 IPv6。</p>
+<p>這時 client 寫 <code>localhost</code> 來連還是 OK，因為 client 也先解析成 <code>::1</code>。client 寫 <code>127.0.0.1</code> 就連不上，因為 server 只在 <code>::1</code> 上監聽，<code>127.0.0.1</code> 沒有程式在監聽。換成 Node.js 20 也一樣。Node.js 20 會改連下一個位址，是因為 <code>localhost</code> 解析出 <code>::1</code> 跟 <code>127.0.0.1</code> 兩個位址。可是 client 直接寫 <code>127.0.0.1</code> 的話，只有這一個位址，沒有別的可以改連。server 改寫 <code>listen('127.0.0.1')</code> 或 <code>listen('0.0.0.0')</code> 的話，監聽的就是 IPv4，client 用 <code>127.0.0.1</code> 連沒有問題。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th><code>listen()</code> 的參數</th><th>實際監聽的位址</th><th>收哪一種連線</th></tr></thead><tbody><tr><td><code>'localhost'</code></td><td><code>::1</code></td><td>只收 IPv6</td></tr><tr><td><code>'127.0.0.1'</code></td><td><code>127.0.0.1</code></td><td>只收 IPv4</td></tr><tr><td><code>'0.0.0.0'</code></td><td><code>0.0.0.0</code></td><td>所有網路介面的 IPv4</td></tr><tr><td><code>'::'</code></td><td><code>::</code></td><td>所有網路介面的 IPv6，在 macOS 上也收 IPv4</td></tr><tr><td><code>'::1'</code></td><td><code>::1</code></td><td>只收 IPv6</td></tr></tbody></table>
+<p>這張表在 Node.js 17.9.1、18.20.8、20.12.2、22.22.3、24.8.0 上用 <code>net.createServer().listen(0, host)</code> 各跑過一次，五個版本結果都一樣。</p>
+<hr>
+<h2><code>127.0.0.1</code>、<code>localhost</code>、<code>0.0.0.0</code> 分別代表的意義</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>位址</th><th>意思</th><th>IPv6 對應</th></tr></thead><tbody><tr><td><code>127.0.0.1</code></td><td>loopback 位址，永遠指這台機器</td><td><code>::1</code></td></tr><tr><td><code>localhost</code></td><td>一個主機名稱，要經過 DNS 或 <code>/etc/hosts</code> 解析</td><td>看解析結果，可能是 <code>::1</code></td></tr><tr><td><code>0.0.0.0</code></td><td>server 拿來 listen 時是「所有網路介面」，其他時候是「沒有位址」</td><td><code>::</code></td></tr></tbody></table>
+<details>
+<summary>127.0.0.1：loopback 位址</summary>
+<p>loopback 是一個虛擬的網路介面，沒有實體線路，也不經過網卡。送到 <code>127.0.0.1</code> 的封包不會離開這台機器，作業系統直接把它送回同一台主機。</p>
+<p>IPv4 把整個 <code>127.0.0.0/8</code> 都保留給 loopback，一千六百多萬個位址，全部指向同一台機器。Server A 可以監聽 <code>127.0.0.4</code>，Server B 監聽 <code>127.0.5.4</code>，兩個都在本機。</p>
+<p>IPv6 的 loopback 只有 <code>::1</code> 一個位址（RFC 4291 2.5.3）。</p>
+</details>
+<details>
+<summary>localhost：是名字，不是位址</summary>
+<p>瀏覽器跟 Node.js 都不會把 <code>localhost</code> 直接換成 <code>127.0.0.1</code>，而是跟其他主機名稱一樣去解析：先查 <code>/etc/hosts</code>，再問作業系統的 resolver。在 <code>/etc/hosts</code> 改一行，<code>localhost</code> 就會指向別的位址：</p>
+<pre><code># point localhost to a different loopback address
+127.0.1.4    localhost
+</code></pre>
+<p>瀏覽器把 <code>localhost</code> 當成可信任的來源。W3C 的 Secure Contexts 規範把 <code>localhost</code>、<code>127.0.0.0/8</code> 跟 <code>::1</code> 列為 potentially trustworthy，所以 <code>http://localhost:3000</code> 跟 <code>http://127.0.0.1:3000</code> 沒有 HTTPS 也能用只開放給 secure context 的 API。<code>0.0.0.0</code> 不在這份名單上。</p>
+</details>
+<details>
+<summary>0.0.0.0：看是誰在用</summary>
+<p><strong>server 拿來 listen：</strong> 所有網路介面的 IPv4 都收，包括 loopback（<code>127.0.0.1</code>）跟區網 IP（<code>192.168.1.x</code>）。只收 IPv4，連到 <code>::1</code> 會被拒絕。</p>
+<p><strong>client 拿來當目的位址：</strong> RFC 1122 3.2.1.3 規定 <code>0.0.0.0</code> 只能在主機還不知道自己 IP 的時候當來源位址，不能當目的地。實際怎麼處理由作業系統決定：在 macOS 15.6 上，server 監聽 <code>127.0.0.1</code> 時，<code>curl http://0.0.0.0:&#x3C;port>/</code> 回 200。2024 年 Oligo Security 把這個行為稱為 0.0.0.0 Day，因為公開網站可以藉此連到使用者本機的服務。</p>
+<p>瀏覽器各自處理。Chromium 原始碼裡，Local Network Access 這項檢查從 142 起預設開啟：公開網站要連 <code>0.0.0.0</code> 或 <code>127.0.0.1</code> 之前，會先跳視窗問使用者。正式版 Chrome 還會載入 Google 從伺服器端推送的設定，這些設定可以讓一部分使用者提早或延後開啟這項檢查，所以使用者實際碰到權限視窗的版本可能不是 142。使用者自己在網址列打 <code>0.0.0.0</code> 不受影響，126 到 156 每一版都連得到那個監聽 <code>127.0.0.1</code> 的 server。各版本的實測細節在文末附錄。WebKit 也封鎖這類請求；Firefox 到 2024 年 8 月為止還沒有封鎖。同一台機器上 <code>ping 0.0.0.0</code> 是 100% packet loss。</p>
+</details>
+<hr>
+<h2>完整測試結果（Node.js 17 跟 22，macOS）</h2>
+<p>每張表格測的是兩個位址的組合：後端 listen 的位址，以及瀏覽器網址（或 proxy 連過去的位址）。兩邊各用 <code>localhost</code>、<code>127.0.0.1</code>、<code>0.0.0.0</code> 試一次，所以每張表格是 9 列。</p>
+<p>測試環境：</p>
+<ul>
+<li>作業系統：macOS 15.6</li>
+<li>瀏覽器：Google Chrome 155.0.8059.86，headless 模式，直接開網址</li>
+<li>proxy：只用 Node.js 內建 <code>http.request</code> 轉發，沒有用 proxy 套件，也沒有設 <code>family</code>、<code>lookup</code> 選項</li>
+<li>Node.js：17.9.1、22.22.3</li>
+</ul>
+<details>
+<summary>1. 瀏覽器 → Node.js 17 後端（直連）：2 個 FAIL</summary>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>後端 listen</th><th>瀏覽器網址</th><th>結果</th></tr></thead><tbody><tr><td><code>localhost</code> (→ <code>::1</code>)</td><td><code>localhost</code></td><td>OK</td></tr><tr><td><code>localhost</code> (→ <code>::1</code>)</td><td><code>127.0.0.1</code></td><td><strong>FAIL</strong></td></tr><tr><td><code>localhost</code> (→ <code>::1</code>)</td><td><code>0.0.0.0</code></td><td><strong>FAIL</strong></td></tr><tr><td><code>127.0.0.1</code></td><td><code>localhost</code></td><td>OK</td></tr><tr><td><code>127.0.0.1</code></td><td><code>127.0.0.1</code></td><td>OK</td></tr><tr><td><code>127.0.0.1</code></td><td><code>0.0.0.0</code></td><td>OK</td></tr><tr><td><code>0.0.0.0</code></td><td><code>localhost</code></td><td>OK</td></tr><tr><td><code>0.0.0.0</code></td><td><code>127.0.0.1</code></td><td>OK</td></tr><tr><td><code>0.0.0.0</code></td><td><code>0.0.0.0</code></td><td>OK</td></tr></tbody></table>
+</details>
+<details>
+<summary>2. 瀏覽器 → Node.js 22 後端（直連）：2 個 FAIL</summary>
+<p>跟第 1 張表格一樣。<code>listen('localhost')</code> 在每一版 Node.js 都只監聽 <code>::1</code>。</p>
+</details>
+<details>
+<summary>3. 瀏覽器 → Node.js 17 proxy → Node.js 22 後端：4 個 FAIL</summary>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>後端 listen（Node.js 22）</th><th>proxy 連的位址（Node.js 17）</th><th>結果</th></tr></thead><tbody><tr><td><code>localhost</code> (→ <code>::1</code>)</td><td><code>localhost</code></td><td>OK</td></tr><tr><td><code>localhost</code> (→ <code>::1</code>)</td><td><code>127.0.0.1</code></td><td><strong>FAIL</strong></td></tr><tr><td><code>localhost</code> (→ <code>::1</code>)</td><td><code>0.0.0.0</code></td><td><strong>FAIL</strong></td></tr><tr><td><code>127.0.0.1</code></td><td><code>localhost</code></td><td><strong>FAIL</strong></td></tr><tr><td><code>127.0.0.1</code></td><td><code>127.0.0.1</code></td><td>OK</td></tr><tr><td><code>127.0.0.1</code></td><td><code>0.0.0.0</code></td><td>OK</td></tr><tr><td><code>0.0.0.0</code></td><td><code>localhost</code></td><td><strong>FAIL</strong></td></tr><tr><td><code>0.0.0.0</code></td><td><code>127.0.0.1</code></td><td>OK</td></tr><tr><td><code>0.0.0.0</code></td><td><code>0.0.0.0</code></td><td>OK</td></tr></tbody></table>
+</details>
+<details>
+<summary>4. 瀏覽器 → Node.js 22 proxy → Node.js 22 後端：2 個 FAIL</summary>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>後端 listen（Node.js 22）</th><th>proxy 連的位址（Node.js 22）</th><th>結果</th></tr></thead><tbody><tr><td><code>localhost</code> (→ <code>::1</code>)</td><td><code>localhost</code></td><td>OK</td></tr><tr><td><code>localhost</code> (→ <code>::1</code>)</td><td><code>127.0.0.1</code></td><td><strong>FAIL</strong></td></tr><tr><td><code>localhost</code> (→ <code>::1</code>)</td><td><code>0.0.0.0</code></td><td><strong>FAIL</strong></td></tr><tr><td><code>127.0.0.1</code></td><td><code>localhost</code></td><td>OK</td></tr><tr><td><code>127.0.0.1</code></td><td><code>127.0.0.1</code></td><td>OK</td></tr><tr><td><code>127.0.0.1</code></td><td><code>0.0.0.0</code></td><td>OK</td></tr><tr><td><code>0.0.0.0</code></td><td><code>localhost</code></td><td>OK</td></tr><tr><td><code>0.0.0.0</code></td><td><code>127.0.0.1</code></td><td>OK</td></tr><tr><td><code>0.0.0.0</code></td><td><code>0.0.0.0</code></td><td>OK</td></tr></tbody></table>
+</details>
+<details>
+<summary>5. 瀏覽器 → Node.js 17 proxy → Node.js 17 後端：4 個 FAIL</summary>
+<p>跟第 3 張表格一樣，所以後端換成哪一版 Node.js，結果都不變。比第 4 張表格多的兩個 FAIL，原因都是 Node.js 17 的 proxy 把 <code>localhost</code> 解析成 <code>::1</code> 之後沒有改連 IPv4。</p>
+</details>
+<details>
+<summary>6. 瀏覽器 → Node.js 22 proxy → Node.js 17 後端：2 個 FAIL</summary>
+<p>跟第 4 張表格一樣。Node.js 22 的 proxy 會改連 IPv4，所以 proxy 用 <code>localhost</code> 連只監聽 IPv4 的後端也連得上。</p>
+</details>
+<h3>FAIL 的兩種原因</h3>
+<p><strong>後端只監聽 IPv6，client 寫 IPv4 的位址。</strong></p>
+<ul>
+<li>後端 <code>listen('localhost')</code>，client 寫 <code>127.0.0.1</code> 或 <code>0.0.0.0</code>。</li>
+<li>server 只在 <code>::1</code> 上監聽，所以 client 連的 IPv4 位址沒有程式在監聽。</li>
+<li>每張表格都有這 2 列，換哪一版 Node.js 都一樣。</li>
+<li>要是後端改監聽 <code>'::'</code> 或 <code>'0.0.0.0'</code>，這 2 列就會變成 OK。</li>
+</ul>
+<p><strong>client 是 Node.js 17，寫 <code>localhost</code>。</strong></p>
+<ul>
+<li>後端只監聽 IPv4，可是 client 把 <code>localhost</code> 解析成 <code>::1</code>。連 <code>::1</code> 被拒絕之後，Node.js 17 不會改連 <code>127.0.0.1</code>，所以失敗。</li>
+<li>第 3、5 張表格裡，後端監聽 <code>127.0.0.1</code> 或 <code>0.0.0.0</code>、proxy 連 <code>localhost</code> 的那 2 列就是這一種。第 4 張表格的 proxy 是 Node.js 22，被拒絕之後會改連 <code>127.0.0.1</code>，所以同樣的那 2 列是 OK。</li>
+<li>第 3、5 張表格的這 2 列，只要 proxy 換成 Node.js 20 以上，或是 proxy 改連 <code>127.0.0.1</code>，也會變成 OK。</li>
+</ul>
+<h3>測試腳本</h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> http</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> require</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'http'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> dns</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> require</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'dns'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">dns.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">lookup</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'localhost'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, (</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">err</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">address</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">family</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">`dns.lookup → ${</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">address</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">} (IPv${</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">family</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">})`</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">});</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> server</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> http.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">createServer</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">((</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">req</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">res</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  res.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">writeHead</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">200</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  res.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">end</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'ok'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">});</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">server.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">listen</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">9999</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'127.0.0.1'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, () </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  http.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">get</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'http://localhost:9999'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, () </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'http.get → OK'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    server.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">close</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">();</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  }).</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">on</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'error'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, (</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">err</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'http.get → FAIL: '</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> +</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> err.code);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    server.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">close</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">();</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  });</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">});</span></span></code></pre></figure>
+<p>在 macOS 15.6 上用 nvm 切版本跑：Node.js 17.9.1 跟 18.20.8 印 <code>FAIL: ECONNREFUSED</code>，20.12.2、22.22.3、24.8.0 印 <code>OK</code>。五個版本的 <code>dns.lookup</code> 都回 <code>::1</code>，差別只在 client 會不會改連 IPv4。</p>
+<hr>
+<h2>附錄：Chrome 對 <code>0.0.0.0</code> 的處理</h2>
+<p>2024 年 6 月，Chromium 在 blink-dev 宣布要封鎖公開網站對 <code>0.0.0.0</code> 發出的請求，公告預估 Chrome 133 上線，chromestatus 條目寫的是 Chrome 129。後來這個計畫被 Local Network Access 取代，改成跳權限視窗，Chrome 142 上線。</p>
+<p>照 Chromium 程式碼本身的預設，126 到 141 公開網站連 <code>0.0.0.0</code> 或 <code>127.0.0.1</code> 都會成功，142 起才要使用者按「允許」。</p>
+<p>依照 Private Network Access 的設計，公開網站要連私人網路之前，瀏覽器會先送一個 OPTIONS preflight，server 要在回應加上 <code>Access-Control-Allow-Private-Network: true</code> 才放行。表格中間兩欄是 server 有加這個 header 的結果，最後一欄是沒加的結果。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Chrome 版本</th><th>fetch <code>127.0.0.1</code>（有加 header）</th><th>fetch <code>0.0.0.0</code>（有加 header）</th><th>server 沒加 header 時</th></tr></thead><tbody><tr><td>126 到 128</td><td>先送 preflight</td><td>不送 preflight，直接送到後端</td><td>兩種請求都照樣送到後端</td></tr><tr><td>129 到 139</td><td>先送 preflight</td><td>先送 preflight</td><td>兩種請求都照樣送到後端</td></tr><tr><td>140、141</td><td>不送 preflight，直接送到後端</td><td>不送 preflight，直接送到後端</td><td>兩種請求都照樣送到後端</td></tr><tr><td>142 以後</td><td>跳權限視窗</td><td>跳權限視窗</td><td>沒有人按「允許」就不會送到後端</td></tr></tbody></table>
+<ul>
+<li><strong>126 到 128：</strong> <code>127.0.0.1</code> 會先送 preflight，<code>0.0.0.0</code> 卻不送，因為瀏覽器把 <code>0.0.0.0</code> 當成公開網站的位址。可是在 macOS 上，送到 <code>0.0.0.0</code> 的請求會到本機的服務，所以公開網站可以藉 <code>0.0.0.0</code> 連到使用者本機，這就是前面提到的 0.0.0.0 Day。</li>
+<li><strong>129 到 139：</strong> <code>0.0.0.0</code> 也開始送 preflight，跟 <code>127.0.0.1</code> 一樣被當成本機位址。不過 server 沒加 header 時，瀏覽器並沒有把請求攔下來，後面的 GET 照樣送出去。</li>
+<li><strong>140、141：</strong> preflight 拿掉了，要換成 Local Network Access，可是它還沒預設開啟，所以兩種請求都不經檢查，直接送到後端。</li>
+<li><strong>142 以後：</strong> Local Network Access 預設開啟，公開網站要連本機之前會先跳權限視窗。Chromium 原始碼裡，<code>LocalNetworkAccessChecks</code> 到 141 都是預設關閉，142 改成預設開啟。</li>
+</ul>
+<p>使用者自己在網址列打 <code>0.0.0.0</code>，126 到 156 每一版都連得到後端。上面這些機制只檢查網頁發出的請求。</p>
+<p>正式版 Chrome 會載入 Google 從伺服器端推送的設定，可以讓一部分使用者提早或延後開啟某個功能。所以正式版的使用者從哪一版開始看到權限視窗，可能跟上表不同，這部分沒有量。</p>
+<h3>測試方法</h3>
+<ul>
+<li>瀏覽器：Chrome for Testing 126 到 156，31 個 major 每一版都跑，macOS 15.6。</li>
+<li>測試頁：開在本機，用 <code>--ip-address-space-overrides</code> 把它標成公開網站，再讓它去 fetch 監聽在 <code>127.0.0.1</code> 的後端。</li>
+</ul>
+<p>Chrome for Testing 不會載入 Google 從伺服器端推送的設定，但會載入 Chromium 原始碼裡的一份測試設定（<code>testing/variations/fieldtrial_testing_config.json</code>）。這份設定會提早打開還沒預設開啟的功能，所以每一版都跑兩輪。「照常啟動」那一輪會載入測試設定。「關掉測試設定」那一輪多加 <code>--disable-field-trial-config</code>，只剩程式碼本身的預設。上表是關掉測試設定那一輪的結果。照常啟動那一輪，138 就不送 preflight，139 就開始跳權限視窗，都比程式碼的預設早。</p>
+<p>140、141 在關掉測試設定時不攔任何請求，測試頁不管有沒有被標成公開網站，結果都一樣，所以單看這一輪，沒辦法確認 <code>--ip-address-space-overrides</code> 有沒有作用。同一個 build 在照常啟動那一輪，請求會停在權限視窗，可見這個 flag 有作用。</p>
+<p>headless 模式沒有人能按權限視窗。照常啟動那一輪，139 到 142 的請求一直卡著，等不到回應。關掉測試設定那一輪，只有 142 會這樣。143 以後兩輪都一樣，headless 的 Chrome 直接把權限視窗當成拒絕，console 印出 <code>Permission was denied for this request to access the loopback address space.</code>。照常啟動那一輪從 139 開始就會攔下請求，所以 139 到 156 都另外跑了一次：先用 Chrome DevTools Protocol 的 <code>Browser.setPermission</code> 給權限，之後兩種請求都送到後端，也不送 preflight。</p>
+<hr>
+<h2>附錄：IPv6 的 link-local（fe80）</h2>
+<p>IPv6 有一類 link-local 位址（<code>fe80::/10</code>），只在同一條網路連結上有效，不需要 router，也不需要 DHCP。裝置接上網路時會自動給自己一個 <code>fe80::</code> 位址（SLAAC），用它透過 NDP 找到 router，再拿到全域的 IPv6 位址。</p>
+<p>RFC 4291 2.5.6 規定 router 不能把來源或目的是 link-local 的封包轉到別的 link。所以兩台裝置要用 <code>fe80</code> 互連，得接在同一條 link 上，例如同一台 Wi-Fi AP 或同一台 switch。不需要 router 先發位址，接上同一條 link 就能連。</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># Access a server on the same Wi-Fi via link-local (no router)</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">curl</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> http://[fe80::xxxx:xxxx:xxxx:4c27%en0]:3000</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># Access the same server via private IPv4 (through router)</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">curl</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> http://192.168.1.42:3000</span></span></code></pre></figure>
+<hr>
+<h2>參考資料</h2>
+<ul>
+<li><a href="https://nodejs.org/api/dns.html#dnslookuphostname-options-callback">Node.js dns.lookup 文件（<code>verbatim</code> 預設在 v17.0.0 改為 <code>true</code>）</a></li>
+<li><a href="https://nodejs.org/api/net.html#socketconnectoptions-connectlistener">Node.js socket.connect 文件（<code>autoSelectFamily</code> 的版本歷史）</a></li>
+<li><a href="https://github.com/nodejs/node/issues/40537">Node.js DNS resolution change (issue #40537)</a></li>
+<li><a href="https://github.com/chimurai/http-proxy-middleware/issues/705">http-proxy-middleware localhost resolution issue (#705)</a></li>
+<li><a href="https://www.rfc-editor.org/rfc/rfc8305">RFC 8305: Happy Eyeballs Version 2</a></li>
+<li><a href="https://www.rfc-editor.org/rfc/rfc1122#section-3.2.1.3">RFC 1122 3.2.1.3：<code>0.0.0.0</code> 的用途</a></li>
+<li><a href="https://www.rfc-editor.org/rfc/rfc4291">RFC 4291: IP Version 6 Addressing Architecture（2.5.3 loopback、2.5.6 link-local）</a></li>
+<li><a href="https://w3c.github.io/webappsec-secure-contexts/#is-origin-trustworthy">W3C Secure Contexts：哪些 origin 算 potentially trustworthy</a></li>
+<li><a href="https://developer.chrome.com/blog/local-network-access">Chrome for Developers：Local Network Access</a></li>
+<li><a href="https://groups.google.com/a/chromium.org/g/blink-dev/c/9uymCQNGVgw/m/TxWeILuJAwAJ">Chromium blink-dev：Intent to Deprecate and Remove 0.0.0.0 for Private Network Access</a></li>
+<li><a href="https://github.com/chromium/chromium/blob/142.0.7444.175/services/network/public/cpp/features.cc">Chromium 142 原始碼：<code>kLocalNetworkAccessChecks</code> 預設開啟</a>（141 是預設關閉：<a href="https://github.com/chromium/chromium/blob/141.0.7390.122/services/network/public/cpp/features.cc">141.0.7390.122</a>）</li>
+<li><a href="https://github.com/chromium/chromium/blob/139.0.7258.154/testing/variations/fieldtrial_testing_config.json">Chromium 測試設定 fieldtrial_testing_config.json（139）</a></li>
+<li><a href="https://www.theregister.com/2024/08/09/0000_day_bug/">The Register：0.0.0.0 Day</a></li>
+<li><a href="https://stackoverflow.com/questions/45299648/how-to-access-devices-with-ipv6-link-local-address-from-browserlike-ie-firefox">Accessing IPv6 link-local from browser (StackOverflow)</a></li>
+<li><a href="https://thiscute.world/posts/linux-virtual-network-interfaces/">Linux virtual network interfaces (thiscute.world)</a></li>
+</ul>8:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L13",null,{"htmlContent":"$14","rawContent":"$15","base64Content":"$16","title":"localhost is not 127.0.0.1","createdAt":"$undefined","updatedAt":"$undefined","tags":["network","localhost","ipv6","dns"],"altHtmlContent":"$17","altTitle":"localhost 不等於 127.0.0.1","currentLang":"en","altLang":"zh","canonicalPath":"$undefined"}]}]}]

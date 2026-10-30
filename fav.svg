@@ -1,0 +1,24 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="r"><rect width="32" height="32" rx="5"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <!-- test pattern bars -->
+    <rect x="0" y="0" width="4.6" height="32" fill="#d9d9d4"/>
+    <rect x="4.57" y="0" width="4.6" height="32" fill="#e4d25a"/>
+    <rect x="9.14" y="0" width="4.6" height="32" fill="#5fc9c9"/>
+    <rect x="13.71" y="0" width="4.6" height="32" fill="#9be26b"/>
+    <rect x="18.28" y="0" width="4.6" height="32" fill="#c95fb8"/>
+    <rect x="22.85" y="0" width="4.6" height="32" fill="#d0574f"/>
+    <rect x="27.42" y="0" width="4.58" height="32" fill="#4a5bc4"/>
+  </g>
+  <!-- screen cut-out -->
+  <rect x="6" y="10" width="20" height="12" rx="2" fill="#101215"/>
+  <!-- pixel "lin" -->
+  <rect x="9" y="12" width="2" height="8" fill="#e8e6e1"/>
+  <rect x="13" y="12" width="2" height="2" fill="#e8e6e1"/>
+  <rect x="13" y="15" width="2" height="5" fill="#e8e6e1"/>
+  <rect x="17" y="15" width="2" height="5" fill="#e8e6e1"/>
+  <rect x="17" y="15" width="6" height="2" fill="#e8e6e1"/>
+  <rect x="21" y="15" width="2" height="5" fill="#e8e6e1"/>
+</svg>

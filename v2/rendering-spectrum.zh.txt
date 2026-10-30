@@ -1,0 +1,344 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"default"]
+4:I[48350,[],""]
+5:I[11412,[],""]
+6:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+7:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-6e2326ce7d294bfd.js"],"default"]
+9:I[96727,[],"OutletBoundary"]
+b:I[14038,[],"AsyncMetadataOutlet"]
+d:I[96727,[],"ViewportBoundary"]
+f:I[96727,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[92950,[],""]
+:HL["/_next/static/media/8760c4774489e4ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/01cc54cdad670ab3.css","style"]
+:HL["/_next/static/css/d3281eaf3cab9132.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/2aa38e97f45426ef.css","style"]
+0:{"P":null,"b":"nTKE4IB87lEgZWUaCupOc","p":"","c":["","v2","rendering-spectrum.zh"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","rendering-spectrum.zh","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/01cc54cdad670ab3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/d3281eaf3cab9132.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href=\"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap\";document.head.appendChild(l)})()"}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L7",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","rendering-spectrum.zh","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/2aa38e97f45426ef.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+a:null
+c:{"metadata":[["$","title","0",{"children":"五種網頁渲染方式，伺服器跟瀏覽器各做了什麼  | jialinhuang"}],["$","meta","1",{"name":"description","content":"web.dev 比較了五種網頁渲染方式。我替每一種做了一段動畫，讓同一個示範商品頁照那種方式載入一次，從送出請求一路到按鈕可以按。"}],["$","link","2",{"rel":"canonical","href":"/v2/rendering-spectrum"}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"
+13:I[86734,["7654","static/chunks/7654-2fe46cddc56d2856.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+14:T31bd,<p>web.dev 的〈<a href="https://web.dev/articles/rendering-on-the-web">Rendering on the Web</a>〉是 Addy Osmani 和 Jason Miller 在 2019 年寫的，2026 年 1 月更新過。文章最後有一張表，把網頁的渲染方式從伺服器排到瀏覽器，分成五欄：</p>
+<img src="https://web.dev/static/articles/rendering-on-the-web/image/app-rendering-types-examples_1920.png" alt="Rendering on the Web 的渲染方式比較表：Server Rendering、Static SSR、SSR with (Re)hydration、CSR with Prerendering、Full CSR" width="100%" loading="lazy">
+<p>圖片來源：<a href="https://web.dev/articles/rendering-on-the-web">web.dev, Rendering on the Web</a></p>
+<p>每一欄底下列優缺點，寫的是 Slow TTFB、TTI = FCP、TTI >>> FCP 這類符號。這些符號只寫了 TTFB、FCP、TTI 誰早誰晚，沒寫伺服器、網路跟瀏覽器在中間做了哪些事。</p>
+<h2>三個常見指標</h2>
+<ul>
+<li><strong>TTFB（Time to First Byte）</strong>：從點下連結，到新頁面的第一個 byte 抵達。</li>
+<li><strong>FCP（First Contentful Paint）</strong>：畫面第一次出現內容。</li>
+<li><strong>TTI（Time to Interactive）</strong>：頁面可以回應操作。</li>
+</ul>
+<p>拿一個商品列表頁來說，TTFB 是伺服器開始回應的時間，FCP 是第一張商品卡出現在畫面上，TTI 則是按下「加入購物車」真的會加進去。</p>
+<p>底下每一節都有一段動畫，讓同一個商品頁用那一節的方式載入一次。瀏覽器上方那條黑色橫幅會寫出當下發生什麼事，拖動下面的時間軸可以跳到任何時間點。任何時候都可以按商品卡上的「加入」，看那個時候按鈕有沒有反應。時間長度是示意，只照原表排出先後順序。</p>
+<h2>Server Rendering：每次請求都在server那邊先做好</h2>
+<p><strong>每次有請求，伺服器都要抓資料、渲染整頁，HTML 做完才送出去。</strong></p>
+<iframe src="/embeds/rendering-spectrum?mode=ssr&#x26;lang=zh" width="100%" height="680" style="border:none;display:block;margin:1.5rem 0 2rem;" scrolling="no" loading="lazy" title="Server Rendering 的載入過程"></iframe>
+<pre><code>請求 → 伺服器抓資料 → 渲染 HTML → 送出 → 瀏覽器畫出來
+</code></pre>
+<p>伺服器得把這些事都做完，第一個 byte 才會出發，所以 TTFB 慢。</p>
+<p>換來的好處是，瀏覽器拿到的 HTML 已經是完整的。連結跟表單不靠 JS 就能用，畫面一出來就能操作，<strong>所以 TTI = FCP。</strong></p>
+<p>表上舉的例子是 Hacker News，還有 Gmail 的 Basic HTML 版。</p>
+<h2>Static SSR：build time 就準備好了</h2>
+<p><strong>HTML 在 build 時就做好了，瀏覽器拿到的頁面已經沒有 JS 檔。</strong></p>
+<p>build 的時候，元件程式碼會先完整執行一次，執行完的畫面存成 HTML，一個網址一個檔案。</p>
+<p>瀏覽器只會收到這份執行結果，從頭到尾都不會收到 JS 檔。原表寫「the JS is <strong>removed</strong>」，指的就是這件事。</p>
+<p>所以請求進來時，伺服器只要把檔案送出去，TTFB 自然很快。而且瀏覽器這邊沒有 JS 要等，所以 TTI 一樣等於 FCP。</p>
+<iframe src="/embeds/rendering-spectrum?mode=static&#x26;lang=zh" width="100%" height="680" style="border:none;display:block;margin:1.5rem 0 2rem;" scrolling="no" loading="lazy" title="Static SSR 的載入過程"></iframe>
+<p>跟 Server Rendering 比，瀏覽器收到的東西一樣是完整的 HTML，畫面也一樣一次出現、馬上能按。只不過 Server Rendering 每次請求才做 HTML，Static SSR 則是在 build 時就做好。原表有三列跟這件事有關：</p>
+<ul>
+<li><strong>Authoring</strong>：Server Rendering 寫成伺服器端的程式，收到請求、回傳 HTML。Static SSR 可以想成 Server Rendering 加上在 build time 做 CSR。它跟 CSR 一樣用元件寫畫面、用 fetch 抓資料，只是這些程式碼平常在瀏覽器上跑，Static SSR 改成在 build 時就先跑完，所以瀏覽器拿到的跟 Server Rendering 一樣是完整的 HTML。</li>
+<li><strong>Server role</strong>：Server Rendering 的伺服器每次都要渲染。Static SSR 的伺服器只負責送出靜態檔案。</li>
+<li><strong>Scales via</strong>：Server Rendering 流量變大就要更多伺服器，所以寫 infra size／cost。Static SSR 的成本則跟著頁面數量走，所以寫 build／deploy size。</li>
+</ul>
+<p>原表在 Static SSR 底下列了兩個缺點：</p>
+<ul>
+<li><strong>Inflexible</strong>：因為內容在 build 時就定下來了，所以每個使用者拿到的都是同一份。</li>
+<li><strong>Leads to hydration</strong>：頁面一旦需要互動，JS 就得加回來，加回來之後就變成 SSR with (Re)hydration。</li>
+</ul>
+<p>要分辨 static rendering 跟 prerendering 的話，<a href="https://web.dev/articles/rendering-on-the-web#static">原文</a>給了一個方法：</p>
+<blockquote>
+<p>If you're unsure whether a given solution is static rendering or prerendering, try disabling JavaScript and load the page you want to test. For statically rendered pages, most interactive features still exist without JavaScript. Prerendered pages might still have some basic features like links with JavaScript disabled, but most of the page is inert.</p>
+</blockquote>
+<p>簡單來說，就是把瀏覽器的 JavaScript 關掉，再重新載入頁面。如果大部分功能都還能用，那是 static rendering。如果只剩連結能點，其他地方按了都沒反應，那就是 prerendering。</p>
+<h2>SSR with (Re)hydration：畫面出現了，按鈕還不能按</h2>
+<p><strong>伺服器送來完整的 HTML 之後，瀏覽器還要下載 JS、把每個元件重跑一次，按鈕才會有反應。</strong></p>
+<p>伺服器跟 Server Rendering 一樣，每次都渲染完整的 HTML，所以 TTFB 一樣慢。不過這種頁面需要互動，所以瀏覽器還得下載整個 app 的 JS。</p>
+<iframe src="/embeds/rendering-spectrum?mode=hydrate&#x26;lang=zh" width="100%" height="680" style="border:none;display:block;margin:1.5rem 0 2rem;" scrolling="no" loading="lazy" title="SSR with (Re)hydration 的載入過程"></iframe>
+<p>HTML 裡雖然有「加入購物車」按鈕，但伺服器渲染出來的 <code>&#x3C;button></code> 只有標籤跟文字，按下去要執行的函式還在沒下載的 JS 檔裡。</p>
+<p>等 JS 下載完，框架會在瀏覽器上把每個元件再跑一次，然後把 click handler 接到畫面上已經存在的那顆按鈕，這個過程就叫 hydration。因為同一批元件程式碼在伺服器跑過一次、到了瀏覽器又跑一次，所以<a href="https://web.dev/articles/rendering-on-the-web#rehydration-duplication">原文那一節</a>的標題叫「one app for the price of two」。</p>
+<p>hydration 跑完之前，畫面看起來已經好了，按鈕卻沒反應。原文把這點列為最重要的問題：</p>
+<blockquote>
+<p>The most important reason is its effect on the user experience, when a page looks ready but none of its interactive features work.</p>
+</blockquote>
+<p><strong>表上的 TTI >>> FCP，指的就是這一段。</strong> FCP 很早就到了，TTI 卻要等 JS 下載完、hydration 也跑完才算。在上面的動畫裡，只要在 FCP 跟 TTI 之間按「加入」，按鈕就不會有反應。</p>
+<h2>CSR with Prerendering：先給外框（常見做法是 skeleton），資料讓瀏覽器自己抓</h2>
+<p><strong>build 時只做好外框，商品資料要等 JS 在瀏覽器上自己去抓。</strong></p>
+<p>表上的描述是「the initial shell/skeleton is prerendered to static HTML at build time」，也就是 build 時只產生外框，像導覽列跟灰色的骨架卡片。</p>
+<p>請求來了，伺服器只要把檔案送出去，所以 TTFB 快。外框也很快就畫出來，所以 FCP 也早。</p>
+<iframe src="/embeds/rendering-spectrum?mode=prerender&#x26;lang=zh" width="100%" height="680" style="border:none;display:block;margin:1.5rem 0 2rem;" scrolling="no" loading="lazy" title="CSR with Prerendering 的載入過程"></iframe>
+<p>接下來，瀏覽器才下載 JS、啟動 app，然後自己去抓資料，等資料到了才把商品卡畫出來。</p>
+<p>如果每個子元件各自抓自己的資料，還會再慢一些。因為父元件畫完，子元件才開始抓，所以巢狀幾層就要多等幾輪來回。</p>
+<p>原表在 CSR with Prerendering 底下寫的是 TTI > FCP，只有一個 >，Full CSR 卻有三個。可是 Full CSR 在 FCP 之前就下載完 JS，prerendering 則要到 FCP 之後才下載，所以照理說 prerendering 的 FCP 跟 TTI 隔得比較久。原文倒是沒有解釋為什麼 > 反而比較少。</p>
+<h2>Full CSR：HTML 裡只有 script 跟 style</h2>
+<p><strong>HTML 裡只有 script 跟 style，畫面上每樣東西都要等 JS 畫出來。</strong></p>
+<p>表上的描述是「HTML is essentially just script &#x26; style tags」。因為瀏覽器拿到的 HTML 幾乎是空的，所以要等 JS 下載完、執行了，才會畫出第一個畫面，接著再抓資料、渲染列表。</p>
+<p>雖然伺服器只送檔案，TTFB 快，但 FCP 要等 JS 畫出外框，TTI 還得再等抓資料、渲染列表，所以表上寫的是 TTI >>> FCP。</p>
+<iframe src="/embeds/rendering-spectrum?mode=csr&#x26;lang=zh" width="100%" height="680" style="border:none;display:block;margin:1.5rem 0 2rem;" scrolling="no" loading="lazy" title="Full CSR 的載入過程"></iframe>
+<p>原表在 Full CSR 底下列的另一個缺點 No streaming，也出於同一個原因。因為 HTML 本身沒有內容，所以沒有東西可以邊收邊畫。</p>
+<h2>那要選哪一種</h2>
+<p>原表用 Flexible、Inflexible 標出內容什麼時候確定：</p>
+<ul>
+<li><strong>每個人看到的都一樣、也不常變</strong>：像文件站或部落格。這種頁面通常 build 時做好最省事，因為 Static SSR 的 TTFB 快，也不用送 JS。表上的例子是 Docusaurus。</li>
+<li><strong>每次請求內容都不同</strong>：像搜尋結果或個人化的首頁。因為 build 時還不知道使用者是誰、要搜尋什麼，所以只能讓伺服器每次渲染，或交給瀏覽器去抓資料。</li>
+<li><strong>需要大量互動</strong>：像編輯器或後台。這種頁面本來就要送整個 app 的 JS，剩下的問題是第一個畫面要不要先由伺服器畫好，也就是選 hydration 還是 CSR。</li>
+</ul>
+<p>同一個網站也常常混著用。比如行銷頁在 build 時就產生好，登入後的後台則用 CSR。像 Next.js 這類框架，就可以每個路由各選一種。</p>
+<h2>原文後半提到的其他做法</h2>
+<p>以下兩段引文都出自<a href="https://web.dev/articles/rendering-on-the-web#stream">原文後半</a>。</p>
+<p><strong>Streaming SSR</strong></p>
+<blockquote>
+<p>Streaming server-side rendering lets you send HTML in chunks that the browser can progressively render as it's received. This can get markup to your users faster, speeding up your FCP.</p>
+</blockquote>
+<p>簡單來說，伺服器把 HTML 分成好幾塊傳送，瀏覽器每收到一塊就先繪製出來，所以 FCP 會提早。</p>
+<p>Streaming SSR 先到的那幾塊，通常就已經是伺服器做好的商品內容。CSR with Prerendering 雖然也很早有畫面，但那是 build 時做好的外框，商品還要等瀏覽器自己去抓資料。</p>
+<p><strong>Progressive rehydration</strong></p>
+<p>這是 SSR with (Re)hydration 的變體，伺服器那邊一樣，只是瀏覽器不再一口氣把整個 app hydrate 完。</p>
+<blockquote>
+<p>With this approach, individual pieces of a server-rendered application are "booted up" over time, instead of the current common approach of initializing the entire application at once. This can help reduce the amount of JavaScript needed to make pages interactive, because it lets you defer client-side upgrading of low-priority parts of the page to prevent it from blocking the main thread, letting user interactions happen sooner after the user initiates them.</p>
+</blockquote>
+<p>主執行緒一次只能做一件事。假設整個 app 一口氣 hydrate 要跑 700ms，如果使用者在這段時間按「加入購物車」，瀏覽器就得等這 700ms 全部跑完，才會處理這次點擊。</p>
+<p>progressive rehydration 把 hydrate 拆成好幾小段，優先度低的部分往後延。拿商品頁來說，上方的「加入購物車」按鈕可以先 hydrate，頁尾的評論區晚點再處理。這樣一來，點擊不用等整整 700ms，只要等目前正在跑的那一小段結束。至於優先度要由誰、怎麼決定，原文倒是沒有細講。</p>15:T2e23,
+web.dev 的〈[Rendering on the Web](https://web.dev/articles/rendering-on-the-web)〉是 Addy Osmani 和 Jason Miller 在 2019 年寫的，2026 年 1 月更新過。文章最後有一張表，把網頁的渲染方式從伺服器排到瀏覽器，分成五欄：
+
+<img src="https://web.dev/static/articles/rendering-on-the-web/image/app-rendering-types-examples_1920.png" alt="Rendering on the Web 的渲染方式比較表：Server Rendering、Static SSR、SSR with (Re)hydration、CSR with Prerendering、Full CSR" width="100%" loading="lazy">
+
+圖片來源：[web.dev, Rendering on the Web](https://web.dev/articles/rendering-on-the-web)
+
+每一欄底下列優缺點，寫的是 Slow TTFB、TTI = FCP、TTI >>> FCP 這類符號。這些符號只寫了 TTFB、FCP、TTI 誰早誰晚，沒寫伺服器、網路跟瀏覽器在中間做了哪些事。
+
+## 三個常見指標
+
+- **TTFB（Time to First Byte）**：從點下連結，到新頁面的第一個 byte 抵達。
+- **FCP（First Contentful Paint）**：畫面第一次出現內容。
+- **TTI（Time to Interactive）**：頁面可以回應操作。
+
+拿一個商品列表頁來說，TTFB 是伺服器開始回應的時間，FCP 是第一張商品卡出現在畫面上，TTI 則是按下「加入購物車」真的會加進去。
+
+底下每一節都有一段動畫，讓同一個商品頁用那一節的方式載入一次。瀏覽器上方那條黑色橫幅會寫出當下發生什麼事，拖動下面的時間軸可以跳到任何時間點。任何時候都可以按商品卡上的「加入」，看那個時候按鈕有沒有反應。時間長度是示意，只照原表排出先後順序。
+
+## Server Rendering：每次請求都在server那邊先做好
+
+**每次有請求，伺服器都要抓資料、渲染整頁，HTML 做完才送出去。**
+
+<iframe src="/embeds/rendering-spectrum?mode=ssr&lang=zh" width="100%" height="680" style="border:none;display:block;margin:1.5rem 0 2rem;" scrolling="no" loading="lazy" title="Server Rendering 的載入過程"></iframe>
+
+```
+請求 → 伺服器抓資料 → 渲染 HTML → 送出 → 瀏覽器畫出來
+```
+
+伺服器得把這些事都做完，第一個 byte 才會出發，所以 TTFB 慢。
+
+換來的好處是，瀏覽器拿到的 HTML 已經是完整的。連結跟表單不靠 JS 就能用，畫面一出來就能操作，**所以 TTI = FCP。**
+
+表上舉的例子是 Hacker News，還有 Gmail 的 Basic HTML 版。
+
+## Static SSR：build time 就準備好了
+
+**HTML 在 build 時就做好了，瀏覽器拿到的頁面已經沒有 JS 檔。**
+
+build 的時候，元件程式碼會先完整執行一次，執行完的畫面存成 HTML，一個網址一個檔案。
+
+瀏覽器只會收到這份執行結果，從頭到尾都不會收到 JS 檔。原表寫「the JS is **removed**」，指的就是這件事。
+
+所以請求進來時，伺服器只要把檔案送出去，TTFB 自然很快。而且瀏覽器這邊沒有 JS 要等，所以 TTI 一樣等於 FCP。
+
+<iframe src="/embeds/rendering-spectrum?mode=static&lang=zh" width="100%" height="680" style="border:none;display:block;margin:1.5rem 0 2rem;" scrolling="no" loading="lazy" title="Static SSR 的載入過程"></iframe>
+
+跟 Server Rendering 比，瀏覽器收到的東西一樣是完整的 HTML，畫面也一樣一次出現、馬上能按。只不過 Server Rendering 每次請求才做 HTML，Static SSR 則是在 build 時就做好。原表有三列跟這件事有關：
+
+- **Authoring**：Server Rendering 寫成伺服器端的程式，收到請求、回傳 HTML。Static SSR 可以想成 Server Rendering 加上在 build time 做 CSR。它跟 CSR 一樣用元件寫畫面、用 fetch 抓資料，只是這些程式碼平常在瀏覽器上跑，Static SSR 改成在 build 時就先跑完，所以瀏覽器拿到的跟 Server Rendering 一樣是完整的 HTML。
+- **Server role**：Server Rendering 的伺服器每次都要渲染。Static SSR 的伺服器只負責送出靜態檔案。
+- **Scales via**：Server Rendering 流量變大就要更多伺服器，所以寫 infra size／cost。Static SSR 的成本則跟著頁面數量走，所以寫 build／deploy size。
+
+原表在 Static SSR 底下列了兩個缺點：
+
+- **Inflexible**：因為內容在 build 時就定下來了，所以每個使用者拿到的都是同一份。
+- **Leads to hydration**：頁面一旦需要互動，JS 就得加回來，加回來之後就變成 SSR with (Re)hydration。
+
+要分辨 static rendering 跟 prerendering 的話，[原文](https://web.dev/articles/rendering-on-the-web#static)給了一個方法：
+
+> If you're unsure whether a given solution is static rendering or prerendering, try disabling JavaScript and load the page you want to test. For statically rendered pages, most interactive features still exist without JavaScript. Prerendered pages might still have some basic features like links with JavaScript disabled, but most of the page is inert.
+
+簡單來說，就是把瀏覽器的 JavaScript 關掉，再重新載入頁面。如果大部分功能都還能用，那是 static rendering。如果只剩連結能點，其他地方按了都沒反應，那就是 prerendering。
+
+## SSR with (Re)hydration：畫面出現了，按鈕還不能按
+
+**伺服器送來完整的 HTML 之後，瀏覽器還要下載 JS、把每個元件重跑一次，按鈕才會有反應。**
+
+伺服器跟 Server Rendering 一樣，每次都渲染完整的 HTML，所以 TTFB 一樣慢。不過這種頁面需要互動，所以瀏覽器還得下載整個 app 的 JS。
+
+<iframe src="/embeds/rendering-spectrum?mode=hydrate&lang=zh" width="100%" height="680" style="border:none;display:block;margin:1.5rem 0 2rem;" scrolling="no" loading="lazy" title="SSR with (Re)hydration 的載入過程"></iframe>
+
+HTML 裡雖然有「加入購物車」按鈕，但伺服器渲染出來的 `<button>` 只有標籤跟文字，按下去要執行的函式還在沒下載的 JS 檔裡。
+
+等 JS 下載完，框架會在瀏覽器上把每個元件再跑一次，然後把 click handler 接到畫面上已經存在的那顆按鈕，這個過程就叫 hydration。因為同一批元件程式碼在伺服器跑過一次、到了瀏覽器又跑一次，所以[原文那一節](https://web.dev/articles/rendering-on-the-web#rehydration-duplication)的標題叫「one app for the price of two」。
+
+hydration 跑完之前，畫面看起來已經好了，按鈕卻沒反應。原文把這點列為最重要的問題：
+
+> The most important reason is its effect on the user experience, when a page looks ready but none of its interactive features work.
+
+**表上的 TTI >>> FCP，指的就是這一段。** FCP 很早就到了，TTI 卻要等 JS 下載完、hydration 也跑完才算。在上面的動畫裡，只要在 FCP 跟 TTI 之間按「加入」，按鈕就不會有反應。
+
+## CSR with Prerendering：先給外框（常見做法是 skeleton），資料讓瀏覽器自己抓
+
+**build 時只做好外框，商品資料要等 JS 在瀏覽器上自己去抓。**
+
+表上的描述是「the initial shell/skeleton is prerendered to static HTML at build time」，也就是 build 時只產生外框，像導覽列跟灰色的骨架卡片。
+
+請求來了，伺服器只要把檔案送出去，所以 TTFB 快。外框也很快就畫出來，所以 FCP 也早。
+
+<iframe src="/embeds/rendering-spectrum?mode=prerender&lang=zh" width="100%" height="680" style="border:none;display:block;margin:1.5rem 0 2rem;" scrolling="no" loading="lazy" title="CSR with Prerendering 的載入過程"></iframe>
+
+接下來，瀏覽器才下載 JS、啟動 app，然後自己去抓資料，等資料到了才把商品卡畫出來。
+
+如果每個子元件各自抓自己的資料，還會再慢一些。因為父元件畫完，子元件才開始抓，所以巢狀幾層就要多等幾輪來回。
+
+原表在 CSR with Prerendering 底下寫的是 TTI > FCP，只有一個 >，Full CSR 卻有三個。可是 Full CSR 在 FCP 之前就下載完 JS，prerendering 則要到 FCP 之後才下載，所以照理說 prerendering 的 FCP 跟 TTI 隔得比較久。原文倒是沒有解釋為什麼 > 反而比較少。
+
+## Full CSR：HTML 裡只有 script 跟 style
+
+**HTML 裡只有 script 跟 style，畫面上每樣東西都要等 JS 畫出來。**
+
+表上的描述是「HTML is essentially just script & style tags」。因為瀏覽器拿到的 HTML 幾乎是空的，所以要等 JS 下載完、執行了，才會畫出第一個畫面，接著再抓資料、渲染列表。
+
+雖然伺服器只送檔案，TTFB 快，但 FCP 要等 JS 畫出外框，TTI 還得再等抓資料、渲染列表，所以表上寫的是 TTI >>> FCP。
+
+<iframe src="/embeds/rendering-spectrum?mode=csr&lang=zh" width="100%" height="680" style="border:none;display:block;margin:1.5rem 0 2rem;" scrolling="no" loading="lazy" title="Full CSR 的載入過程"></iframe>
+
+原表在 Full CSR 底下列的另一個缺點 No streaming，也出於同一個原因。因為 HTML 本身沒有內容，所以沒有東西可以邊收邊畫。
+
+## 那要選哪一種
+
+原表用 Flexible、Inflexible 標出內容什麼時候確定：
+
+- **每個人看到的都一樣、也不常變**：像文件站或部落格。這種頁面通常 build 時做好最省事，因為 Static SSR 的 TTFB 快，也不用送 JS。表上的例子是 Docusaurus。
+- **每次請求內容都不同**：像搜尋結果或個人化的首頁。因為 build 時還不知道使用者是誰、要搜尋什麼，所以只能讓伺服器每次渲染，或交給瀏覽器去抓資料。
+- **需要大量互動**：像編輯器或後台。這種頁面本來就要送整個 app 的 JS，剩下的問題是第一個畫面要不要先由伺服器畫好，也就是選 hydration 還是 CSR。
+
+同一個網站也常常混著用。比如行銷頁在 build 時就產生好，登入後的後台則用 CSR。像 Next.js 這類框架，就可以每個路由各選一種。
+
+## 原文後半提到的其他做法
+
+以下兩段引文都出自[原文後半](https://web.dev/articles/rendering-on-the-web#stream)。
+
+**Streaming SSR**
+
+> Streaming server-side rendering lets you send HTML in chunks that the browser can progressively render as it's received. This can get markup to your users faster, speeding up your FCP.
+
+簡單來說，伺服器把 HTML 分成好幾塊傳送，瀏覽器每收到一塊就先繪製出來，所以 FCP 會提早。
+
+Streaming SSR 先到的那幾塊，通常就已經是伺服器做好的商品內容。CSR with Prerendering 雖然也很早有畫面，但那是 build 時做好的外框，商品還要等瀏覽器自己去抓資料。
+
+**Progressive rehydration**
+
+這是 SSR with (Re)hydration 的變體，伺服器那邊一樣，只是瀏覽器不再一口氣把整個 app hydrate 完。
+
+> With this approach, individual pieces of a server-rendered application are "booted up" over time, instead of the current common approach of initializing the entire application at once. This can help reduce the amount of JavaScript needed to make pages interactive, because it lets you defer client-side upgrading of low-priority parts of the page to prevent it from blocking the main thread, letting user interactions happen sooner after the user initiates them.
+
+主執行緒一次只能做一件事。假設整個 app 一口氣 hydrate 要跑 700ms，如果使用者在這段時間按「加入購物車」，瀏覽器就得等這 700ms 全部跑完，才會處理這次點擊。
+
+progressive rehydration 把 hydrate 拆成好幾小段，優先度低的部分往後延。拿商品頁來說，上方的「加入購物車」按鈕可以先 hydrate，頁尾的評論區晚點再處理。這樣一來，點擊不用等整整 700ms，只要等目前正在跑的那一小段結束。至於優先度要由誰、怎麼決定，原文倒是沒有細講。
+16:T3f68,LS0tCnRpdGxlOiAi5LqU56iu57ay6aCB5riy5p+T5pa55byP77yM5Ly65pyN5Zmo6Lef54CP6Ka95Zmo5ZCE5YGa5LqG5LuA6bq8IgpjcmVhdGVkQXQ6IDIwMjYtMTAtMjJUMjE6NDU6MTMKdGFnczogW3JlbmRlcmluZywgc3NyLCBjc3IsIGh5ZHJhdGlvbiwgd2ViLXBlcmZvcm1hbmNlXQpkZXNjcmlwdGlvbjogIndlYi5kZXYg5q+U6LyD5LqG5LqU56iu57ay6aCB5riy5p+T5pa55byP44CC5oiR5pu/5q+P5LiA56iu5YGa5LqG5LiA5q615YuV55Wr77yM6K6T5ZCM5LiA5YCL56S656+E5ZWG5ZOB6aCB54Wn6YKj56iu5pa55byP6LyJ5YWl5LiA5qyh77yM5b6e6YCB5Ye66KuL5rGC5LiA6Lev5Yiw5oyJ6YiV5Y+v5Lul5oyJ44CCIgotLS0KCndlYi5kZXYg55qE44CIW1JlbmRlcmluZyBvbiB0aGUgV2ViXShodHRwczovL3dlYi5kZXYvYXJ0aWNsZXMvcmVuZGVyaW5nLW9uLXRoZS13ZWIp44CJ5pivIEFkZHkgT3NtYW5pIOWSjCBKYXNvbiBNaWxsZXIg5ZyoIDIwMTkg5bm05a+r55qE77yMMjAyNiDlubQgMSDmnIjmm7TmlrDpgY7jgILmlofnq6DmnIDlvozmnInkuIDlvLXooajvvIzmiorntrLpoIHnmoTmuLLmn5PmlrnlvI/lvp7kvLrmnI3lmajmjpLliLDngI/opr3lmajvvIzliIbmiJDkupTmrITvvJoKCjxpbWcgc3JjPSJodHRwczovL3dlYi5kZXYvc3RhdGljL2FydGljbGVzL3JlbmRlcmluZy1vbi10aGUtd2ViL2ltYWdlL2FwcC1yZW5kZXJpbmctdHlwZXMtZXhhbXBsZXNfMTkyMC5wbmciIGFsdD0iUmVuZGVyaW5nIG9uIHRoZSBXZWIg55qE5riy5p+T5pa55byP5q+U6LyD6KGo77yaU2VydmVyIFJlbmRlcmluZ+OAgVN0YXRpYyBTU1LjgIFTU1Igd2l0aCAoUmUpaHlkcmF0aW9u44CBQ1NSIHdpdGggUHJlcmVuZGVyaW5n44CBRnVsbCBDU1IiIHdpZHRoPSIxMDAlIiBsb2FkaW5nPSJsYXp5Ij4KCuWclueJh+S+hua6kO+8mlt3ZWIuZGV2LCBSZW5kZXJpbmcgb24gdGhlIFdlYl0oaHR0cHM6Ly93ZWIuZGV2L2FydGljbGVzL3JlbmRlcmluZy1vbi10aGUtd2ViKQoK5q+P5LiA5qyE5bqV5LiL5YiX5YSq57y66bue77yM5a+r55qE5pivIFNsb3cgVFRGQuOAgVRUSSA9IEZDUOOAgVRUSSA+Pj4gRkNQIOmAmemhnuespuiZn+OAgumAmeS6m+espuiZn+WPquWvq+S6hiBUVEZC44CBRkNQ44CBVFRJIOiqsOaXqeiqsOaZmu+8jOaykuWvq+S8uuacjeWZqOOAgee2sui3r+i3n+eAj+imveWZqOWcqOS4remWk+WBmuS6huWTquS6m+S6i+OAggoKIyMg5LiJ5YCL5bi46KaL5oyH5qiZCgotICoqVFRGQu+8iFRpbWUgdG8gRmlyc3QgQnl0Ze+8iSoq77ya5b6e6bue5LiL6YCj57WQ77yM5Yiw5paw6aCB6Z2i55qE56ys5LiA5YCLIGJ5dGUg5oq16YGU44CCCi0gKipGQ1DvvIhGaXJzdCBDb250ZW50ZnVsIFBhaW5077yJKirvvJrnlavpnaLnrKzkuIDmrKHlh7rnj77lhaflrrnjgIIKLSAqKlRUSe+8iFRpbWUgdG8gSW50ZXJhY3RpdmXvvIkqKu+8mumggemdouWPr+S7peWbnuaHieaTjeS9nOOAggoK5ou/5LiA5YCL5ZWG5ZOB5YiX6KGo6aCB5L6G6Kqq77yMVFRGQiDmmK/kvLrmnI3lmajplovlp4vlm57mh4nnmoTmmYLplpPvvIxGQ1Ag5piv56ys5LiA5by15ZWG5ZOB5Y2h5Ye654++5Zyo55Wr6Z2i5LiK77yMVFRJIOWJh+aYr+aMieS4i+OAjOWKoOWFpeizvOeJqei7iuOAjeecn+eahOacg+WKoOmAsuWOu+OAggoK5bqV5LiL5q+P5LiA56+A6YO95pyJ5LiA5q615YuV55Wr77yM6K6T5ZCM5LiA5YCL5ZWG5ZOB6aCB55So6YKj5LiA56+A55qE5pa55byP6LyJ5YWl5LiA5qyh44CC54CP6Ka95Zmo5LiK5pa56YKj5qKd6buR6Imy5qmr5bmF5pyD5a+r5Ye655W25LiL55m855Sf5LuA6bq85LqL77yM5ouW5YuV5LiL6Z2i55qE5pmC6ZaT6Lu45Y+v5Lul6Lez5Yiw5Lu75L2V5pmC6ZaT6bue44CC5Lu75L2V5pmC5YCZ6YO95Y+v5Lul5oyJ5ZWG5ZOB5Y2h5LiK55qE44CM5Yqg5YWl44CN77yM55yL6YKj5YCL5pmC5YCZ5oyJ6YiV5pyJ5rKS5pyJ5Y+N5oeJ44CC5pmC6ZaT6ZW35bqm5piv56S65oSP77yM5Y+q54Wn5Y6f6KGo5o6S5Ye65YWI5b6M6aCG5bqP44CCCgojIyBTZXJ2ZXIgUmVuZGVyaW5n77ya5q+P5qyh6KuL5rGC6YO95Zyoc2VydmVy6YKj6YKK5YWI5YGa5aW9CgoqKuavj+asoeacieiri+axgu+8jOS8uuacjeWZqOmDveimgeaKk+izh+aWmeOAgea4suafk+aVtOmgge+8jEhUTUwg5YGa5a6M5omN6YCB5Ye65Y6744CCKioKCjxpZnJhbWUgc3JjPSIvZW1iZWRzL3JlbmRlcmluZy1zcGVjdHJ1bT9tb2RlPXNzciZsYW5nPXpoIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI2ODAiIHN0eWxlPSJib3JkZXI6bm9uZTtkaXNwbGF5OmJsb2NrO21hcmdpbjoxLjVyZW0gMCAycmVtOyIgc2Nyb2xsaW5nPSJubyIgbG9hZGluZz0ibGF6eSIgdGl0bGU9IlNlcnZlciBSZW5kZXJpbmcg55qE6LyJ5YWl6YGO56iLIj48L2lmcmFtZT4KCmBgYAroq4vmsYIg4oaSIOS8uuacjeWZqOaKk+izh+aWmSDihpIg5riy5p+TIEhUTUwg4oaSIOmAgeWHuiDihpIg54CP6Ka95Zmo55Wr5Ye65L6GCmBgYAoK5Ly65pyN5Zmo5b6X5oqK6YCZ5Lqb5LqL6YO95YGa5a6M77yM56ys5LiA5YCLIGJ5dGUg5omN5pyD5Ye655m877yM5omA5LulIFRURkIg5oWi44CCCgrmj5vkvobnmoTlpb3omZXmmK/vvIzngI/opr3lmajmi7/liLDnmoQgSFRNTCDlt7LntpPmmK/lrozmlbTnmoTjgILpgKPntZDot5/ooajllq7kuI3pnaAgSlMg5bCx6IO955So77yM55Wr6Z2i5LiA5Ye65L6G5bCx6IO95pON5L2c77yMKirmiYDku6UgVFRJID0gRkNQ44CCKioKCuihqOS4iuiIieeahOS+i+WtkOaYryBIYWNrZXIgTmV3c++8jOmChOaciSBHbWFpbCDnmoQgQmFzaWMgSFRNTCDniYjjgIIKCiMjIFN0YXRpYyBTU1LvvJpidWlsZCB0aW1lIOWwsea6luWCmeWlveS6hgoKKipIVE1MIOWcqCBidWlsZCDmmYLlsLHlgZrlpb3kuobvvIzngI/opr3lmajmi7/liLDnmoTpoIHpnaLlt7LntpPmspLmnIkgSlMg5qqU44CCKioKCmJ1aWxkIOeahOaZguWAme+8jOWFg+S7tueoi+W8j+eivOacg+WFiOWujOaVtOWft+ihjOS4gOasoe+8jOWft+ihjOWujOeahOeVq+mdouWtmOaIkCBIVE1M77yM5LiA5YCL57ay5Z2A5LiA5YCL5qqU5qGI44CCCgrngI/opr3lmajlj6rmnIPmlLbliLDpgJnku73ln7fooYzntZDmnpzvvIzlvp7poK3liLDlsL7pg73kuI3mnIPmlLbliLAgSlMg5qqU44CC5Y6f6KGo5a+r44CMdGhlIEpTIGlzICoqcmVtb3ZlZCoq44CN77yM5oyH55qE5bCx5piv6YCZ5Lu25LqL44CCCgrmiYDku6Xoq4vmsYLpgLLkvobmmYLvvIzkvLrmnI3lmajlj6ropoHmiormqpTmoYjpgIHlh7rljrvvvIxUVEZCIOiHqueEtuW+iOW/q+OAguiAjOS4lOeAj+imveWZqOmAmemCiuaykuaciSBKUyDopoHnrYnvvIzmiYDku6UgVFRJIOS4gOaoo+etieaWvCBGQ1DjgIIKCjxpZnJhbWUgc3JjPSIvZW1iZWRzL3JlbmRlcmluZy1zcGVjdHJ1bT9tb2RlPXN0YXRpYyZsYW5nPXpoIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI2ODAiIHN0eWxlPSJib3JkZXI6bm9uZTtkaXNwbGF5OmJsb2NrO21hcmdpbjoxLjVyZW0gMCAycmVtOyIgc2Nyb2xsaW5nPSJubyIgbG9hZGluZz0ibGF6eSIgdGl0bGU9IlN0YXRpYyBTU1Ig55qE6LyJ5YWl6YGO56iLIj48L2lmcmFtZT4KCui3nyBTZXJ2ZXIgUmVuZGVyaW5nIOavlO+8jOeAj+imveWZqOaUtuWIsOeahOadseilv+S4gOaoo+aYr+WujOaVtOeahCBIVE1M77yM55Wr6Z2i5Lmf5LiA5qij5LiA5qyh5Ye654++44CB6aas5LiK6IO95oyJ44CC5Y+q5LiN6YGOIFNlcnZlciBSZW5kZXJpbmcg5q+P5qyh6KuL5rGC5omN5YGaIEhUTUzvvIxTdGF0aWMgU1NSIOWJh+aYr+WcqCBidWlsZCDmmYLlsLHlgZrlpb3jgILljp/ooajmnInkuInliJfot5/pgJnku7bkuovmnInpl5zvvJoKCi0gKipBdXRob3JpbmcqKu+8mlNlcnZlciBSZW5kZXJpbmcg5a+r5oiQ5Ly65pyN5Zmo56uv55qE56iL5byP77yM5pS25Yiw6KuL5rGC44CB5Zue5YKzIEhUTUzjgIJTdGF0aWMgU1NSIOWPr+S7peaDs+aIkCBTZXJ2ZXIgUmVuZGVyaW5nIOWKoOS4iuWcqCBidWlsZCB0aW1lIOWBmiBDU1LjgILlroPot58gQ1NSIOS4gOaoo+eUqOWFg+S7tuWvq+eVq+mdouOAgeeUqCBmZXRjaCDmipPos4fmlpnvvIzlj6rmmK/pgJnkupvnqIvlvI/norzlubPluLjlnKjngI/opr3lmajkuIrot5HvvIxTdGF0aWMgU1NSIOaUueaIkOWcqCBidWlsZCDmmYLlsLHlhYjot5HlrozvvIzmiYDku6XngI/opr3lmajmi7/liLDnmoTot58gU2VydmVyIFJlbmRlcmluZyDkuIDmqKPmmK/lrozmlbTnmoQgSFRNTOOAggotICoqU2VydmVyIHJvbGUqKu+8mlNlcnZlciBSZW5kZXJpbmcg55qE5Ly65pyN5Zmo5q+P5qyh6YO96KaB5riy5p+T44CCU3RhdGljIFNTUiDnmoTkvLrmnI3lmajlj6rosqDosqzpgIHlh7rpnZzmhYvmqpTmoYjjgIIKLSAqKlNjYWxlcyB2aWEqKu+8mlNlcnZlciBSZW5kZXJpbmcg5rWB6YeP6K6K5aSn5bCx6KaB5pu05aSa5Ly65pyN5Zmo77yM5omA5Lul5a+rIGluZnJhIHNpemXvvI9jb3N044CCU3RhdGljIFNTUiDnmoTmiJDmnKzliYfot5/okZfpoIHpnaLmlbjph4/otbDvvIzmiYDku6Xlr6sgYnVpbGTvvI9kZXBsb3kgc2l6ZeOAggoK5Y6f6KGo5ZyoIFN0YXRpYyBTU1Ig5bqV5LiL5YiX5LqG5YWp5YCL57y66bue77yaCgotICoqSW5mbGV4aWJsZSoq77ya5Zug54K65YWn5a655ZyoIGJ1aWxkIOaZguWwseWumuS4i+S+huS6hu+8jOaJgOS7peavj+WAi+S9v+eUqOiAheaLv+WIsOeahOmDveaYr+WQjOS4gOS7veOAggotICoqTGVhZHMgdG8gaHlkcmF0aW9uKirvvJrpoIHpnaLkuIDml6bpnIDopoHkupLli5XvvIxKUyDlsLHlvpfliqDlm57kvobvvIzliqDlm57kvobkuYvlvozlsLHorormiJAgU1NSIHdpdGggKFJlKWh5ZHJhdGlvbuOAggoK6KaB5YiG6L6oIHN0YXRpYyByZW5kZXJpbmcg6LefIHByZXJlbmRlcmluZyDnmoToqbHvvIxb5Y6f5paHXShodHRwczovL3dlYi5kZXYvYXJ0aWNsZXMvcmVuZGVyaW5nLW9uLXRoZS13ZWIjc3RhdGljKee1puS6huS4gOWAi+aWueazle+8mgoKPiBJZiB5b3UncmUgdW5zdXJlIHdoZXRoZXIgYSBnaXZlbiBzb2x1dGlvbiBpcyBzdGF0aWMgcmVuZGVyaW5nIG9yIHByZXJlbmRlcmluZywgdHJ5IGRpc2FibGluZyBKYXZhU2NyaXB0IGFuZCBsb2FkIHRoZSBwYWdlIHlvdSB3YW50IHRvIHRlc3QuIEZvciBzdGF0aWNhbGx5IHJlbmRlcmVkIHBhZ2VzLCBtb3N0IGludGVyYWN0aXZlIGZlYXR1cmVzIHN0aWxsIGV4aXN0IHdpdGhvdXQgSmF2YVNjcmlwdC4gUHJlcmVuZGVyZWQgcGFnZXMgbWlnaHQgc3RpbGwgaGF2ZSBzb21lIGJhc2ljIGZlYXR1cmVzIGxpa2UgbGlua3Mgd2l0aCBKYXZhU2NyaXB0IGRpc2FibGVkLCBidXQgbW9zdCBvZiB0aGUgcGFnZSBpcyBpbmVydC4KCuewoeWWruS+huiqqu+8jOWwseaYr+aKiueAj+imveWZqOeahCBKYXZhU2NyaXB0IOmXnOaOie+8jOWGjemHjeaWsOi8ieWFpemggemdouOAguWmguaenOWkp+mDqOWIhuWKn+iDvemDvemChOiDveeUqO+8jOmCo+aYryBzdGF0aWMgcmVuZGVyaW5n44CC5aaC5p6c5Y+q5Ymp6YCj57WQ6IO96bue77yM5YW25LuW5Zyw5pa55oyJ5LqG6YO95rKS5Y+N5oeJ77yM6YKj5bCx5pivIHByZXJlbmRlcmluZ+OAggoKIyMgU1NSIHdpdGggKFJlKWh5ZHJhdGlvbu+8mueVq+mdouWHuuePvuS6hu+8jOaMiemIlemChOS4jeiDveaMiQoKKirkvLrmnI3lmajpgIHkvoblrozmlbTnmoQgSFRNTCDkuYvlvozvvIzngI/opr3lmajpgoTopoHkuIvovIkgSlPjgIHmiormr4/lgIvlhYPku7bph43ot5HkuIDmrKHvvIzmjInpiJXmiY3mnIPmnInlj43mh4njgIIqKgoK5Ly65pyN5Zmo6LefIFNlcnZlciBSZW5kZXJpbmcg5LiA5qij77yM5q+P5qyh6YO95riy5p+T5a6M5pW055qEIEhUTUzvvIzmiYDku6UgVFRGQiDkuIDmqKPmhaLjgILkuI3pgY7pgJnnqK7poIHpnaLpnIDopoHkupLli5XvvIzmiYDku6XngI/opr3lmajpgoTlvpfkuIvovInmlbTlgIsgYXBwIOeahCBKU+OAggoKPGlmcmFtZSBzcmM9Ii9lbWJlZHMvcmVuZGVyaW5nLXNwZWN0cnVtP21vZGU9aHlkcmF0ZSZsYW5nPXpoIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI2ODAiIHN0eWxlPSJib3JkZXI6bm9uZTtkaXNwbGF5OmJsb2NrO21hcmdpbjoxLjVyZW0gMCAycmVtOyIgc2Nyb2xsaW5nPSJubyIgbG9hZGluZz0ibGF6eSIgdGl0bGU9IlNTUiB3aXRoIChSZSloeWRyYXRpb24g55qE6LyJ5YWl6YGO56iLIj48L2lmcmFtZT4KCkhUTUwg6KOh6ZuW54S25pyJ44CM5Yqg5YWl6LO854mp6LuK44CN5oyJ6YiV77yM5L2G5Ly65pyN5Zmo5riy5p+T5Ye65L6G55qEIGA8YnV0dG9uPmAg5Y+q5pyJ5qiZ57Gk6Lef5paH5a2X77yM5oyJ5LiL5Y676KaB5Z+36KGM55qE5Ye95byP6YKE5Zyo5rKS5LiL6LyJ55qEIEpTIOaqlOijoeOAggoK562JIEpTIOS4i+i8ieWujO+8jOahhuaetuacg+WcqOeAj+imveWZqOS4iuaKiuavj+WAi+WFg+S7tuWGjei3keS4gOasoe+8jOeEtuW+jOaKiiBjbGljayBoYW5kbGVyIOaOpeWIsOeVq+mdouS4iuW3sue2k+WtmOWcqOeahOmCo+mhhuaMiemIle+8jOmAmeWAi+mBjueoi+WwseWPqyBoeWRyYXRpb27jgILlm6DngrrlkIzkuIDmibnlhYPku7bnqIvlvI/norzlnKjkvLrmnI3lmajot5HpgY7kuIDmrKHjgIHliLDkuobngI/opr3lmajlj4jot5HkuIDmrKHvvIzmiYDku6Vb5Y6f5paH6YKj5LiA56+AXShodHRwczovL3dlYi5kZXYvYXJ0aWNsZXMvcmVuZGVyaW5nLW9uLXRoZS13ZWIjcmVoeWRyYXRpb24tZHVwbGljYXRpb24p55qE5qiZ6aGM5Y+r44CMb25lIGFwcCBmb3IgdGhlIHByaWNlIG9mIHR3b+OAjeOAggoKaHlkcmF0aW9uIOi3keWujOS5i+WJje+8jOeVq+mdoueci+i1t+S+huW3sue2k+WlveS6hu+8jOaMiemIleWNu+aykuWPjeaHieOAguWOn+aWh+aKiumAmem7nuWIl+eCuuacgOmHjeimgeeahOWVj+mhjO+8mgoKPiBUaGUgbW9zdCBpbXBvcnRhbnQgcmVhc29uIGlzIGl0cyBlZmZlY3Qgb24gdGhlIHVzZXIgZXhwZXJpZW5jZSwgd2hlbiBhIHBhZ2UgbG9va3MgcmVhZHkgYnV0IG5vbmUgb2YgaXRzIGludGVyYWN0aXZlIGZlYXR1cmVzIHdvcmsuCgoqKuihqOS4iueahCBUVEkgPj4+IEZDUO+8jOaMh+eahOWwseaYr+mAmeS4gOauteOAgioqIEZDUCDlvojml6nlsLHliLDkuobvvIxUVEkg5Y276KaB562JIEpTIOS4i+i8ieWujOOAgWh5ZHJhdGlvbiDkuZ/ot5HlrozmiY3nrpfjgILlnKjkuIrpnaLnmoTli5Xnlavoo6HvvIzlj6ropoHlnKggRkNQIOi3nyBUVEkg5LmL6ZaT5oyJ44CM5Yqg5YWl44CN77yM5oyJ6YiV5bCx5LiN5pyD5pyJ5Y+N5oeJ44CCCgojIyBDU1Igd2l0aCBQcmVyZW5kZXJpbmfvvJrlhYjntablpJbmoYbvvIjluLjopovlgZrms5XmmK8gc2tlbGV0b27vvInvvIzos4fmlpnorpPngI/opr3lmajoh6rlt7HmipMKCioqYnVpbGQg5pmC5Y+q5YGa5aW95aSW5qGG77yM5ZWG5ZOB6LOH5paZ6KaB562JIEpTIOWcqOeAj+imveWZqOS4iuiHquW3seWOu+aKk+OAgioqCgrooajkuIrnmoTmj4/ov7DmmK/jgIx0aGUgaW5pdGlhbCBzaGVsbC9za2VsZXRvbiBpcyBwcmVyZW5kZXJlZCB0byBzdGF0aWMgSFRNTCBhdCBidWlsZCB0aW1l44CN77yM5Lmf5bCx5pivIGJ1aWxkIOaZguWPqueUoueUn+Wkluahhu+8jOWDj+WwjuimveWIl+i3n+eBsOiJsueahOmqqOaetuWNoeeJh+OAggoK6KuL5rGC5L6G5LqG77yM5Ly65pyN5Zmo5Y+q6KaB5oqK5qqU5qGI6YCB5Ye65Y6777yM5omA5LulIFRURkIg5b+r44CC5aSW5qGG5Lmf5b6I5b+r5bCx55Wr5Ye65L6G77yM5omA5LulIEZDUCDkuZ/ml6njgIIKCjxpZnJhbWUgc3JjPSIvZW1iZWRzL3JlbmRlcmluZy1zcGVjdHJ1bT9tb2RlPXByZXJlbmRlciZsYW5nPXpoIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI2ODAiIHN0eWxlPSJib3JkZXI6bm9uZTtkaXNwbGF5OmJsb2NrO21hcmdpbjoxLjVyZW0gMCAycmVtOyIgc2Nyb2xsaW5nPSJubyIgbG9hZGluZz0ibGF6eSIgdGl0bGU9IkNTUiB3aXRoIFByZXJlbmRlcmluZyDnmoTovInlhaXpgY7nqIsiPjwvaWZyYW1lPgoK5o6l5LiL5L6G77yM54CP6Ka95Zmo5omN5LiL6LyJIEpT44CB5ZWf5YuVIGFwcO+8jOeEtuW+jOiHquW3seWOu+aKk+izh+aWme+8jOetieizh+aWmeWIsOS6huaJjeaKiuWVhuWTgeWNoeeVq+WHuuS+huOAggoK5aaC5p6c5q+P5YCL5a2Q5YWD5Lu25ZCE6Ieq5oqT6Ieq5bex55qE6LOH5paZ77yM6YKE5pyD5YaN5oWi5LiA5Lqb44CC5Zug54K654i25YWD5Lu255Wr5a6M77yM5a2Q5YWD5Lu25omN6ZaL5aeL5oqT77yM5omA5Lul5bei54uA5bm+5bGk5bCx6KaB5aSa562J5bm+6Lyq5L6G5Zue44CCCgrljp/ooajlnKggQ1NSIHdpdGggUHJlcmVuZGVyaW5nIOW6leS4i+Wvq+eahOaYryBUVEkgPiBGQ1DvvIzlj6rmnInkuIDlgIsgPu+8jEZ1bGwgQ1NSIOWNu+acieS4ieWAi+OAguWPr+aYryBGdWxsIENTUiDlnKggRkNQIOS5i+WJjeWwseS4i+i8ieWujCBKU++8jHByZXJlbmRlcmluZyDliYfopoHliLAgRkNQIOS5i+W+jOaJjeS4i+i8ie+8jOaJgOS7peeFp+eQhuiqqiBwcmVyZW5kZXJpbmcg55qEIEZDUCDot58gVFRJIOmalOW+l+avlOi8g+S5heOAguWOn+aWh+WAkuaYr+aykuacieino+mHi+eCuuS7gOm6vCA+IOWPjeiAjOavlOi8g+WwkeOAggoKIyMgRnVsbCBDU1LvvJpIVE1MIOijoeWPquaciSBzY3JpcHQg6LefIHN0eWxlCgoqKkhUTUwg6KOh5Y+q5pyJIHNjcmlwdCDot58gc3R5bGXvvIznlavpnaLkuIrmr4/mqKPmnbHopb/pg73opoHnrYkgSlMg55Wr5Ye65L6G44CCKioKCuihqOS4iueahOaPj+i/sOaYr+OAjEhUTUwgaXMgZXNzZW50aWFsbHkganVzdCBzY3JpcHQgJiBzdHlsZSB0YWdz44CN44CC5Zug54K654CP6Ka95Zmo5ou/5Yiw55qEIEhUTUwg5bm+5LmO5piv56m655qE77yM5omA5Lul6KaB562JIEpTIOS4i+i8ieWujOOAgeWft+ihjOS6hu+8jOaJjeacg+eVq+WHuuesrOS4gOWAi+eVq+mdou+8jOaOpeiRl+WGjeaKk+izh+aWmeOAgea4suafk+WIl+ihqOOAggoK6ZuW54S25Ly65pyN5Zmo5Y+q6YCB5qqU5qGI77yMVFRGQiDlv6vvvIzkvYYgRkNQIOimgeetiSBKUyDnlavlh7rlpJbmoYbvvIxUVEkg6YKE5b6X5YaN562J5oqT6LOH5paZ44CB5riy5p+T5YiX6KGo77yM5omA5Lul6KGo5LiK5a+r55qE5pivIFRUSSA+Pj4gRkNQ44CCCgo8aWZyYW1lIHNyYz0iL2VtYmVkcy9yZW5kZXJpbmctc3BlY3RydW0/bW9kZT1jc3ImbGFuZz16aCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iNjgwIiBzdHlsZT0iYm9yZGVyOm5vbmU7ZGlzcGxheTpibG9jazttYXJnaW46MS41cmVtIDAgMnJlbTsiIHNjcm9sbGluZz0ibm8iIGxvYWRpbmc9ImxhenkiIHRpdGxlPSJGdWxsIENTUiDnmoTovInlhaXpgY7nqIsiPjwvaWZyYW1lPgoK5Y6f6KGo5ZyoIEZ1bGwgQ1NSIOW6leS4i+WIl+eahOWPpuS4gOWAi+e8uum7niBObyBzdHJlYW1pbmfvvIzkuZ/lh7rmlrzlkIzkuIDlgIvljp/lm6DjgILlm6DngrogSFRNTCDmnKzouqvmspLmnInlhaflrrnvvIzmiYDku6XmspLmnInmnbHopb/lj6/ku6XpgormlLbpgornlavjgIIKCiMjIOmCo+imgemBuOWTquS4gOeorgoK5Y6f6KGo55SoIEZsZXhpYmxl44CBSW5mbGV4aWJsZSDmqJnlh7rlhaflrrnku4DpurzmmYLlgJnnorrlrprvvJoKCi0gKirmr4/lgIvkurrnnIvliLDnmoTpg73kuIDmqKPjgIHkuZ/kuI3luLjorooqKu+8muWDj+aWh+S7tuermeaIlumDqOiQveagvOOAgumAmeeorumggemdoumAmuW4uCBidWlsZCDmmYLlgZrlpb3mnIDnnIHkuovvvIzlm6DngrogU3RhdGljIFNTUiDnmoQgVFRGQiDlv6vvvIzkuZ/kuI3nlKjpgIEgSlPjgILooajkuIrnmoTkvovlrZDmmK8gRG9jdXNhdXJ1c+OAggotICoq5q+P5qyh6KuL5rGC5YWn5a656YO95LiN5ZCMKirvvJrlg4/mkJzlsIvntZDmnpzmiJblgIvkurrljJbnmoTpppbpoIHjgILlm6DngrogYnVpbGQg5pmC6YKE5LiN55+l6YGT5L2/55So6ICF5piv6Kqw44CB6KaB5pCc5bCL5LuA6bq877yM5omA5Lul5Y+q6IO96K6T5Ly65pyN5Zmo5q+P5qyh5riy5p+T77yM5oiW5Lqk57Wm54CP6Ka95Zmo5Y675oqT6LOH5paZ44CCCi0gKirpnIDopoHlpKfph4/kupLli5UqKu+8muWDj+e3qOi8r+WZqOaIluW+jOWPsOOAgumAmeeorumggemdouacrOS+huWwseimgemAgeaVtOWAiyBhcHAg55qEIEpT77yM5Ymp5LiL55qE5ZWP6aGM5piv56ys5LiA5YCL55Wr6Z2i6KaB5LiN6KaB5YWI55Sx5Ly65pyN5Zmo55Wr5aW977yM5Lmf5bCx5piv6YG4IGh5ZHJhdGlvbiDpgoTmmK8gQ1NS44CCCgrlkIzkuIDlgIvntrLnq5nkuZ/luLjluLjmt7fokZfnlKjjgILmr5TlpoLooYzpirfpoIHlnKggYnVpbGQg5pmC5bCx55Si55Sf5aW977yM55m75YWl5b6M55qE5b6M5Y+w5YmH55SoIENTUuOAguWDjyBOZXh0LmpzIOmAmemhnuahhuaetu+8jOWwseWPr+S7peavj+WAi+i3r+eUseWQhOmBuOS4gOeoruOAggoKIyMg5Y6f5paH5b6M5Y2K5o+Q5Yiw55qE5YW25LuW5YGa5rOVCgrku6XkuIvlhanmrrXlvJXmlofpg73lh7roh6pb5Y6f5paH5b6M5Y2KXShodHRwczovL3dlYi5kZXYvYXJ0aWNsZXMvcmVuZGVyaW5nLW9uLXRoZS13ZWIjc3RyZWFtKeOAggoKKipTdHJlYW1pbmcgU1NSKioKCj4gU3RyZWFtaW5nIHNlcnZlci1zaWRlIHJlbmRlcmluZyBsZXRzIHlvdSBzZW5kIEhUTUwgaW4gY2h1bmtzIHRoYXQgdGhlIGJyb3dzZXIgY2FuIHByb2dyZXNzaXZlbHkgcmVuZGVyIGFzIGl0J3MgcmVjZWl2ZWQuIFRoaXMgY2FuIGdldCBtYXJrdXAgdG8geW91ciB1c2VycyBmYXN0ZXIsIHNwZWVkaW5nIHVwIHlvdXIgRkNQLgoK57Ch5Zau5L6G6Kqq77yM5Ly65pyN5Zmo5oqKIEhUTUwg5YiG5oiQ5aW95bm+5aGK5YKz6YCB77yM54CP6Ka95Zmo5q+P5pS25Yiw5LiA5aGK5bCx5YWI57mq6KO95Ye65L6G77yM5omA5LulIEZDUCDmnIPmj5Dml6njgIIKClN0cmVhbWluZyBTU1Ig5YWI5Yiw55qE6YKj5bm+5aGK77yM6YCa5bi45bCx5bey57aT5piv5Ly65pyN5Zmo5YGa5aW955qE5ZWG5ZOB5YWn5a6544CCQ1NSIHdpdGggUHJlcmVuZGVyaW5nIOmblueEtuS5n+W+iOaXqeacieeVq+mdou+8jOS9humCo+aYryBidWlsZCDmmYLlgZrlpb3nmoTlpJbmoYbvvIzllYblk4HpgoTopoHnrYnngI/opr3lmajoh6rlt7HljrvmipPos4fmlpnjgIIKCioqUHJvZ3Jlc3NpdmUgcmVoeWRyYXRpb24qKgoK6YCZ5pivIFNTUiB3aXRoIChSZSloeWRyYXRpb24g55qE6K6K6auU77yM5Ly65pyN5Zmo6YKj6YKK5LiA5qij77yM5Y+q5piv54CP6Ka95Zmo5LiN5YaN5LiA5Y+j5rCj5oqK5pW05YCLIGFwcCBoeWRyYXRlIOWujOOAggoKPiBXaXRoIHRoaXMgYXBwcm9hY2gsIGluZGl2aWR1YWwgcGllY2VzIG9mIGEgc2VydmVyLXJlbmRlcmVkIGFwcGxpY2F0aW9uIGFyZSAiYm9vdGVkIHVwIiBvdmVyIHRpbWUsIGluc3RlYWQgb2YgdGhlIGN1cnJlbnQgY29tbW9uIGFwcHJvYWNoIG9mIGluaXRpYWxpemluZyB0aGUgZW50aXJlIGFwcGxpY2F0aW9uIGF0IG9uY2UuIFRoaXMgY2FuIGhlbHAgcmVkdWNlIHRoZSBhbW91bnQgb2YgSmF2YVNjcmlwdCBuZWVkZWQgdG8gbWFrZSBwYWdlcyBpbnRlcmFjdGl2ZSwgYmVjYXVzZSBpdCBsZXRzIHlvdSBkZWZlciBjbGllbnQtc2lkZSB1cGdyYWRpbmcgb2YgbG93LXByaW9yaXR5IHBhcnRzIG9mIHRoZSBwYWdlIHRvIHByZXZlbnQgaXQgZnJvbSBibG9ja2luZyB0aGUgbWFpbiB0aHJlYWQsIGxldHRpbmcgdXNlciBpbnRlcmFjdGlvbnMgaGFwcGVuIHNvb25lciBhZnRlciB0aGUgdXNlciBpbml0aWF0ZXMgdGhlbS4KCuS4u+Wft+ihjOe3kuS4gOasoeWPquiDveWBmuS4gOS7tuS6i+OAguWBh+ioreaVtOWAiyBhcHAg5LiA5Y+j5rCjIGh5ZHJhdGUg6KaB6LeRIDcwMG1z77yM5aaC5p6c5L2/55So6ICF5Zyo6YCZ5q615pmC6ZaT5oyJ44CM5Yqg5YWl6LO854mp6LuK44CN77yM54CP6Ka95Zmo5bCx5b6X562J6YCZIDcwMG1zIOWFqOmDqOi3keWujO+8jOaJjeacg+iZleeQhumAmeasoem7nuaTiuOAggoKcHJvZ3Jlc3NpdmUgcmVoeWRyYXRpb24g5oqKIGh5ZHJhdGUg5ouG5oiQ5aW95bm+5bCP5q6177yM5YSq5YWI5bqm5L2O55qE6YOo5YiG5b6A5b6M5bu244CC5ou/5ZWG5ZOB6aCB5L6G6Kqq77yM5LiK5pa555qE44CM5Yqg5YWl6LO854mp6LuK44CN5oyJ6YiV5Y+v5Lul5YWIIGh5ZHJhdGXvvIzpoIHlsL7nmoToqZXoq5bljYDmmZrpu57lho3omZXnkIbjgILpgJnmqKPkuIDkvobvvIzpu57mk4rkuI3nlKjnrYnmlbTmlbQgNzAwbXPvvIzlj6ropoHnrYnnm67liY3mraPlnKjot5HnmoTpgqPkuIDlsI/mrrXntZDmnZ/jgILoh7PmlrzlhKrlhYjluqbopoHnlLHoqrDjgIHmgI7purzmsbrlrprvvIzljp/mloflgJLmmK/mspLmnInntLDorJvjgIIK17:T3217,<p><a href="https://web.dev/articles/rendering-on-the-web">Rendering on the Web</a> on web.dev was written by Addy Osmani and Jason Miller in 2019 and updated in January 2026. It ends with a table that lays rendering approaches out from server to browser, in five columns:</p>
+<img src="https://web.dev/static/articles/rendering-on-the-web/image/app-rendering-types-examples_1920.png" alt="Rendering on the Web comparison table: Server Rendering, Static SSR, SSR with (Re)hydration, CSR with Prerendering, Full CSR" width="100%" loading="lazy">
+<p>Image source: <a href="https://web.dev/articles/rendering-on-the-web">web.dev, Rendering on the Web</a></p>
+<p>Under each column are pros and cons written as symbols like Slow TTFB, TTI = FCP and TTI >>> FCP. The symbols only say which of TTFB, FCP and TTI comes earlier. They don't say what the server, the network and the browser are doing in between.</p>
+<h2>Three common metrics</h2>
+<ul>
+<li><strong>TTFB (Time to First Byte)</strong>: from clicking a link until the first byte of the new page arrives.</li>
+<li><strong>FCP (First Contentful Paint)</strong>: the first time content appears on screen.</li>
+<li><strong>TTI (Time to Interactive)</strong>: when the page can respond to input.</li>
+</ul>
+<p>On a product list page, TTFB is when the server starts answering, FCP is when the first product card shows up, and TTI is when pressing "Add to cart" actually adds something.</p>
+<p>Each section below has an animation that loads the same product page the way that section describes. The black bar at the top of the browser says what is happening right now, and you can drag the timeline to any point. Press "Add" on a product card at any moment to see whether the button responds. Durations are schematic; they only keep the table's order of events.</p>
+<h2>Server Rendering: the server prepares every request</h2>
+<p><strong>On every request the server fetches the data, renders the whole page, and only then sends the HTML.</strong></p>
+<iframe src="/embeds/rendering-spectrum?mode=ssr" width="100%" height="680" style="border:none;display:block;margin:1.5rem 0 2rem;" scrolling="no" loading="lazy" title="How Server Rendering loads"></iframe>
+<pre><code>request → server fetches data → renders HTML → sends it → browser paints
+</code></pre>
+<p>The first byte can't leave until the server has done all of that, so TTFB is slow.</p>
+<p>In return, the HTML the browser gets is complete. Links and forms work without JS, so the page is usable the moment it appears, <strong>which is why TTI = FCP.</strong></p>
+<p>The table's examples are Hacker News and the Basic HTML version of Gmail.</p>
+<h2>Static SSR: ready at build time</h2>
+<p><strong>The HTML is made at build time, and the page the browser gets has no JS files.</strong></p>
+<p>At build time the component code runs once in full, and what it renders is saved as HTML, one file per URL.</p>
+<p>The browser only receives that rendered result and never receives any JS files. That is what the table means by "the JS is <strong>removed</strong>".</p>
+<p>So when a request comes in, the server just sends the file, and TTFB is fast. And since the browser has no JS to wait for, TTI still equals FCP.</p>
+<iframe src="/embeds/rendering-spectrum?mode=static" width="100%" height="680" style="border:none;display:block;margin:1.5rem 0 2rem;" scrolling="no" loading="lazy" title="How Static SSR loads"></iframe>
+<p>Compared with Server Rendering, the browser gets the same complete HTML, and the page appears and works just as fast. The difference is that Server Rendering makes the HTML per request, while Static SSR makes it at build time. Three rows of the table follow from this:</p>
+<ul>
+<li><strong>Authoring</strong>: Server Rendering is written as server code that takes a request and returns HTML. Think of Static SSR as Server Rendering plus doing CSR at build time. Like CSR, it uses components to build the page and fetch to get data. But where that code normally runs in the browser, Static SSR runs it at build time, so the browser gets complete HTML, just as with Server Rendering.</li>
+<li><strong>Server role</strong>: the Server Rendering server renders every time. The Static SSR server only serves static files.</li>
+<li><strong>Scales via</strong>: Server Rendering needs more servers as traffic grows, hence infra size/cost. Static SSR's cost follows the number of pages, hence build/deploy size.</li>
+</ul>
+<p>The table lists two cons under Static SSR:</p>
+<ul>
+<li><strong>Inflexible</strong>: because the content is fixed at build time, every user gets the same page.</li>
+<li><strong>Leads to hydration</strong>: once the page needs interactivity, the JS has to come back, and then it becomes SSR with (Re)hydration.</li>
+</ul>
+<p>To tell static rendering from prerendering, the <a href="https://web.dev/articles/rendering-on-the-web#static">article</a> offers a test:</p>
+<blockquote>
+<p>If you're unsure whether a given solution is static rendering or prerendering, try disabling JavaScript and load the page you want to test. For statically rendered pages, most interactive features still exist without JavaScript. Prerendered pages might still have some basic features like links with JavaScript disabled, but most of the page is inert.</p>
+</blockquote>
+<p>In short: turn off JavaScript in the browser and reload. If most features still work, it's static rendering. If only links work and everything else does nothing, it's prerendering.</p>
+<h2>SSR with (Re)hydration: the page is there, the buttons aren't working yet</h2>
+<p><strong>After the server sends complete HTML, the browser still has to download the JS and run every component again before the buttons respond.</strong></p>
+<p>Like Server Rendering, the server renders complete HTML on every request, so TTFB is just as slow. But this page needs interactivity, so the browser also has to download the whole app's JS.</p>
+<iframe src="/embeds/rendering-spectrum?mode=hydrate" width="100%" height="680" style="border:none;display:block;margin:1.5rem 0 2rem;" scrolling="no" loading="lazy" title="How SSR with (Re)hydration loads"></iframe>
+<p>The HTML does contain an "Add to cart" button, but the <code>&#x3C;button></code> the server rendered is only a tag and some text. The function a click should run is still in a JS file that hasn't been downloaded.</p>
+<p>Once the JS has downloaded, the framework runs every component again in the browser and attaches the click handler to the button already on screen. This is called hydration. Because the same component code runs once on the server and again in the browser, the <a href="https://web.dev/articles/rendering-on-the-web#rehydration-duplication">section of the article</a> is titled "one app for the price of two".</p>
+<p>Until hydration finishes, the page looks ready but the buttons don't respond. The article calls this the most important problem:</p>
+<blockquote>
+<p>The most important reason is its effect on the user experience, when a page looks ready but none of its interactive features work.</p>
+</blockquote>
+<p><strong>This stretch is what TTI >>> FCP refers to.</strong> FCP arrives early, but TTI has to wait for the JS to download and hydration to finish. In the animation above, press "Add" anywhere between FCP and TTI and the button does nothing.</p>
+<h2>CSR with Prerendering: the shell first (usually a skeleton), and the browser fetches the data</h2>
+<p><strong>Only the shell is made at build time; the product data waits for JS in the browser to fetch it.</strong></p>
+<p>The table describes it as "the initial shell/skeleton is prerendered to static HTML at build time": only the frame is generated at build time, such as the nav bar and grey skeleton cards.</p>
+<p>When a request comes in, the server just sends the file, so TTFB is fast. The shell paints quickly too, so FCP is early.</p>
+<iframe src="/embeds/rendering-spectrum?mode=prerender" width="100%" height="680" style="border:none;display:block;margin:1.5rem 0 2rem;" scrolling="no" loading="lazy" title="How CSR with Prerendering loads"></iframe>
+<p>After that, the browser downloads the JS, starts the app, fetches the data itself, and only draws the product cards once the data arrives.</p>
+<p>If every child component fetches its own data, it gets slower still. A child only starts fetching after its parent has rendered, so each level of nesting adds another round trip.</p>
+<p>Under CSR with Prerendering the table lists TTI > FCP, a single >, while Full CSR gets three. Yet Full CSR downloads its JS before FCP, and prerendering only downloads it after FCP, so by rights prerendering should have the larger gap between FCP and TTI. The article doesn't explain why it gets fewer >.</p>
+<h2>Full CSR: the HTML holds only script and style tags</h2>
+<p><strong>The HTML holds only script and style tags, so everything on screen waits for JS to draw it.</strong></p>
+<p>The table describes it as "HTML is essentially just script &#x26; style tags". Because the HTML the browser receives is nearly empty, the first paint has to wait for the JS to download and run, and then the data still has to be fetched and the list rendered.</p>
+<p>The server only sends a file, so TTFB is fast. But FCP waits for JS to draw the shell, and TTI waits further for the data and the list, which is why the table says TTI >>> FCP.</p>
+<iframe src="/embeds/rendering-spectrum?mode=csr" width="100%" height="680" style="border:none;display:block;margin:1.5rem 0 2rem;" scrolling="no" loading="lazy" title="How Full CSR loads"></iframe>
+<p>The other con under Full CSR, No streaming, has the same cause. Because the HTML has no content, there is nothing to paint while it arrives.</p>
+<h2>Which one to pick</h2>
+<p>The table's Flexible and Inflexible mark when the content is decided:</p>
+<ul>
+<li><strong>The same for everyone and rarely changing</strong>: docs sites or blogs. Making them at build time is usually simplest, since Static SSR has a fast TTFB and ships no JS. The table's example is Docusaurus.</li>
+<li><strong>Different on every request</strong>: search results or a personalized home page. Since nobody knows at build time who the user is or what they'll search for, the server has to render each time, or the browser has to fetch the data.</li>
+<li><strong>Heavily interactive</strong>: editors or dashboards. These pages ship the whole app's JS anyway, so the remaining question is whether the server draws the first screen, that is, hydration or CSR.</li>
+</ul>
+<p>One site often mixes them. The marketing pages are generated at build time, while the dashboard behind the login uses CSR. Frameworks like Next.js let each route pick its own.</p>
+<h2>Other techniques from the second half of the article</h2>
+<p>The two quotes below both come from the <a href="https://web.dev/articles/rendering-on-the-web#stream">second half of the article</a>.</p>
+<p><strong>Streaming SSR</strong></p>
+<blockquote>
+<p>Streaming server-side rendering lets you send HTML in chunks that the browser can progressively render as it's received. This can get markup to your users faster, speeding up your FCP.</p>
+</blockquote>
+<p>In short, the server sends the HTML in several chunks and the browser paints each one as it arrives, so FCP comes earlier.</p>
+<p>The first chunks of Streaming SSR are usually product content the server has already rendered. CSR with Prerendering also shows something early, but that is a shell made at build time, and the products still wait for the browser to fetch the data itself.</p>
+<p><strong>Progressive rehydration</strong></p>
+<p>This is a variant of SSR with (Re)hydration. The server side is the same; the browser just no longer hydrates the whole app in one go.</p>
+<blockquote>
+<p>With this approach, individual pieces of a server-rendered application are "booted up" over time, instead of the current common approach of initializing the entire application at once. This can help reduce the amount of JavaScript needed to make pages interactive, because it lets you defer client-side upgrading of low-priority parts of the page to prevent it from blocking the main thread, letting user interactions happen sooner after the user initiates them.</p>
+</blockquote>
+<p>The main thread does one thing at a time. Say hydrating the whole app in one go takes 700ms. If the user presses "Add to cart" during that time, the browser has to finish all 700ms before it handles the click.</p>
+<p>Progressive rehydration splits hydration into small pieces and pushes low-priority parts back. On a product page, the "Add to cart" button at the top can hydrate first and the review section at the bottom later. Then a click doesn't wait the full 700ms, only for the piece currently running to finish. The article doesn't say who decides the priorities, or how.</p>8:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L13",null,{"htmlContent":"$14","rawContent":"$15","base64Content":"$16","title":"五種網頁渲染方式，伺服器跟瀏覽器各做了什麼","createdAt":"$undefined","updatedAt":"$undefined","tags":["rendering","ssr","csr","hydration","web-performance"],"altHtmlContent":"$17","altTitle":"Five ways to render a web page, and what the server and browser each do","currentLang":"zh","altLang":"en","canonicalPath":"/v2/rendering-spectrum"}]}]}]

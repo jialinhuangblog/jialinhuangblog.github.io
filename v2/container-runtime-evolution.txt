@@ -1,0 +1,643 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"default"]
+4:I[48350,[],""]
+5:I[11412,[],""]
+6:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+7:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-6e2326ce7d294bfd.js"],"default"]
+9:I[96727,[],"OutletBoundary"]
+b:I[14038,[],"AsyncMetadataOutlet"]
+d:I[96727,[],"ViewportBoundary"]
+f:I[96727,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[92950,[],""]
+:HL["/_next/static/media/8760c4774489e4ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/01cc54cdad670ab3.css","style"]
+:HL["/_next/static/css/d3281eaf3cab9132.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/2aa38e97f45426ef.css","style"]
+0:{"P":null,"b":"nTKE4IB87lEgZWUaCupOc","p":"","c":["","v2","container-runtime-evolution"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","container-runtime-evolution","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/01cc54cdad670ab3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/d3281eaf3cab9132.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href=\"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap\";document.head.appendChild(l)})()"}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L7",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","container-runtime-evolution","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/2aa38e97f45426ef.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+a:null
+c:{"metadata":[["$","title","0",{"children":"K8s needed Docker. Then it didn't.  | jialinhuang"}],["$","meta","1",{"name":"description","content":"Kubernetes started with Docker calls written straight into kubelet. Taking Docker out of the call path ran from 1.5 (2016) to 1.24 (2022). Both translators built along the way are still running: dockershim moved out of Kubernetes as cri-dockerd, and cri-containerd became containerd's CRI plugin."}],["$","link","2",{"rel":"canonical","href":"/v2/container-runtime-evolution"}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"
+13:I[86734,["7654","static/chunks/7654-2fe46cddc56d2856.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+14:T46b8,<p>K8s needed Docker. Then it didn't. Taking Docker out of the call path ran from Kubernetes 1.5 (December 2016) to 1.24 (May 2022). Two translators appeared along the way.</p>
+<p>The first was dockershim, which Kubernetes wrote inside kubelet so kubelet could reach Docker. After 1.20 (December 2020) announced that dockershim would be deprecated, Mirantis announced in April 2021 that the code was moving to a new repository and would be maintained as cri-dockerd. When 1.24 actually deleted dockershim from Kubernetes, clusters that still needed Docker switched to cri-dockerd.</p>
+<p>The second was cri-containerd, which let kubelet reach containerd directly. In containerd 1.1 its code became a plugin built into containerd, the part kubelet now calls through CRI (Container Runtime Interface).</p>
+<hr>
+<h2>Before CRI: why Docker was hardcoded</h2>
+<p>Kubernetes was open-sourced in 2014. In 2014, "container" mostly meant Docker. The Kubernetes team later put it this way: "there weren't really a lot of other options out there and Docker was the dominant tool for working with containers." So kubelet called the Docker API directly. No abstraction. No interface. <code>kubelet</code> knew how to talk to Docker the same way your code calls <code>console.log</code>. There was no layer in between.</p>
+<p>This worked while Docker was the only runtime Kubernetes supported. Why build an abstraction for one implementation?</p>
+<hr>
+<h2>rkt shows up, K8s defines CRI</h2>
+<p>In December 2014, CoreOS announced rkt (pronounced "rocket"), a competing container runtime with a different architecture. rkt 1.0 shipped in February 2016. CoreOS wanted it to run under Kubernetes.</p>
+<p>Supporting rkt meant writing a second set of runtime calls inside kubelet, and Kubernetes 1.3 (July 2016) did exactly that. The project was nicknamed "rktnetes". Now both Docker and rkt were wired into kubelet "through an internal and volatile interface", which the Kubernetes team said "incurs significant maintenance overhead". A third runtime would have meant a third integration.</p>
+<p>So K8s did what any engineer does when two implementations exist: define an interface. Kubernetes 1.5 (December 2016) introduced <strong>CRI</strong>, the Container Runtime Interface, as alpha. A gRPC API. kubelet speaks CRI. Any runtime that implements CRI can plug in, with no per-runtime code in kubelet.</p>
+<p>The 1.5 announcement listed the CRI implementations in progress: cri-o, rktlet (for rkt), frakti (VM-based runtimes), and a Docker CRI shim built into kubelet. containerd got its CRI implementation in 2017.</p>
+<p>rkt pushed Kubernetes into defining CRI, but rkt itself faded. Red Hat announced it was acquiring CoreOS in January 2018, and Red Hat was already building CRI-O. The CNCF archived rkt in August 2019.</p>
+<hr>
+<h2>Docker Engine never spoke CRI</h2>
+<p>Docker also had its own orchestrator: <strong>Swarm</strong>. Same job as K8s, simpler interface. <code>docker swarm init</code> and you had a cluster. <code>docker service scale web=5</code> and you had five replicas. No CRD, no etcd.</p>
+<p>Docker Engine never implemented CRI, and as of October 2026 it still speaks only Docker's own API. The Kubernetes team's 2022 summary: "Docker Engine's use as a container runtime predates CRI, and Docker Engine is not CRI-compatible." A search turned up no primary source explaining why Docker never added a CRI endpoint. Two things are on the record. Kubernetes shipped its own Docker shim in the same release that introduced CRI, so Docker users never waited on Docker for one. And Docker engineers did work on CRI support for containerd in 2017 (see Step 1 below).</p>
+<hr>
+<h2>K8s writes dockershim</h2>
+<p>K8s couldn't drop Docker. Docker was what most clusters ran on.</p>
+<p>So in the same 1.5 release, kubelet got a built-in CRI shim for Docker: <code>dockershim</code>. It converted CRI calls into Docker API calls. The 1.5 announcement called it "the first step": "re-integrate Docker with kubelet using CRI." It lived inside the Kubernetes codebase. Kubernetes maintained it. Every CRI change meant updating dockershim too.</p>
+<p>In this article a hop is one call that crosses into another process. dockershim was compiled into kubelet and ran in the same process, so kubelet calling dockershim is not a hop.</p>
+<blockquote>
+<p><strong>Era 0</strong> (2014–2016): Docker calls written into kubelet (rkt calls too, from 1.3). No interface.</p>
+<p><strong>Era 1</strong> (1.5, December 2016 onward): CRI exists. Docker Engine doesn't speak it. Kubernetes ships dockershim inside kubelet.</p>
+<p><code>kubelet (with dockershim) → Docker Engine → containerd → runc → container</code></p>
+<p>Two hops from kubelet to containerd: kubelet calls Docker Engine, and Docker Engine calls containerd.</p>
+</blockquote>
+<p>Since Docker 1.11 (April 2016), Docker Engine had handed container execution to two separate binaries: containerd manages the container lifecycle, and runc creates the container. So after K8s called Docker, Docker still had to call containerd.</p>
+<p>In 2018 the Kubernetes team compared the two full paths. With 105 pods on a node, containerd 1.1 with its built-in CRI plugin ran against Docker 18.03 CE with dockershim. The containerd path had lower pod startup latency, 30.89% lower kubelet CPU, 68.13% lower container runtime CPU, and 11.30% and 12.78% lower memory (RSS) for kubelet and the runtime. The post doesn't say whether "container runtime" on the Docker side means dockerd alone or dockerd plus the containerd under it, so it's unclear which processes the 68.13% compares. The Docker path has dockershim and all of Docker Engine on top of what the containerd path has, and the software versions differ too. These percentages measure the gap between the two whole paths. The post didn't measure how much CPU and memory dockershim or Docker Engine used on its own.</p>
+<p>Kubernetes' own 2022 retrospective says the shim "was never intended to be a permanent solution" and "introduced a lot of unnecessary complexity to the kubelet itself." It stayed in kubelet from 1.5 (December 2016) to 1.24 (May 2022), about five and a half years.</p>
+<hr>
+<h2>Cutting Docker out, in three steps</h2>
+<h3>Step 1: cri-containerd skips Docker (2017, containerd 1.0)</h3>
+<p>If Docker Engine just hands the work to containerd, kubelet could talk to containerd directly.</p>
+<p>Through 2017, engineers from Google, Docker, IBM, ZTE, and ZJU built <code>cri-containerd</code>, a standalone daemon that translated CRI calls into containerd calls. Its feature-complete alpha came out on September 25, 2017, and it ran on containerd 1.0 (December 2017).</p>
+<blockquote>
+<p><strong>Era 2</strong>: Docker Engine bypassed. But a new daemon added.</p>
+<p><code>kubelet → cri-containerd (standalone daemon) → containerd → runc → container</code></p>
+<p>Still two hops to containerd; the process in the middle changed from Docker Engine to cri-containerd.</p>
+</blockquote>
+<p>Docker Engine was out of the path now, which was progress. But cri-containerd and containerd were still two daemons talking over gRPC: one more process to deploy and babysit.</p>
+<h3>Step 2: containerd absorbs the translator (containerd 1.1, April 2018)</h3>
+<p>In containerd 1.1, the cri-containerd code was refactored into a CRI plugin, built into containerd and enabled by default. The plugin calls containerd through direct function calls instead of gRPC. The separate daemon was no longer needed.</p>
+<blockquote>
+<p><strong>Era 3</strong>: the CRI plugin and containerd are one process.</p>
+<p><code>kubelet → containerd (built-in CRI plugin) → runc → container</code></p>
+<p>One hop from kubelet to containerd.</p>
+</blockquote>
+<p>This is the path on every containerd-based node today, and the CRI plugin on it is cri-containerd's refactored code. How containerd then creates the container through the shim and runc is in <a href="/v2/containerd-shim-and-runc">Inside containerd: How shim and runc Actually Work</a>.</p>
+<h3>Step 3: K8s deletes dockershim (K8s 1.24, May 2022)</h3>
+<p>Kubernetes 1.20 (December 2020) deprecated dockershim, and 1.24 (May 2022) removed it. kubelet could no longer talk to Docker Engine on its own. Clusters still on Docker had to either switch to containerd or CRI-O, or install cri-dockerd to keep Docker as the runtime. On Nodes that dropped Docker, containers ran fine, but scripts, settings and tools on the Node that called Docker directly had to change. The Kubernetes migration page "Check whether dockershim removal affects you" lists these:</p>
+<ul>
+<li>Docker commands such as <code>docker ps</code> or <code>systemctl restart docker.service</code>, run from privileged Pods, Node startup scripts, or monitoring and security agents installed directly on the Node</li>
+<li>Private registry and image mirror settings in <code>/etc/docker/daemon.json</code>, which have to move to the new runtime's config</li>
+<li><code>docker ps</code> and <code>docker exec</code> used to troubleshoot over SSH, which no longer list any containers</li>
+<li>kubelet's <code>/metrics/cadvisor</code>, whose container name format changes with the runtime and which loses a set of filesystem metrics</li>
+<li>CI that mounts the Node's docker.sock into a Pod to build images with the Node's Docker</li>
+</ul>
+<p><strong>Example: CI mounting docker.sock</strong></p>
+<p>On a Node that used Docker Engine as its runtime, Docker Engine exposed <code>/var/run/docker.sock</code>. Some CI setups ran build jobs as Pods inside the cluster and mounted that socket to build images with the Node's Docker. The Kubernetes blog's name for this pattern is "Docker in Docker".</p>
+<p>A Docker-runtime Node had two daemons:</p>
+<ul>
+<li><code>Docker Engine</code> → <code>/var/run/docker.sock</code> ← CI Pods mounted this</li>
+<li><code>containerd</code> → <code>/run/containerd/containerd.sock</code> ← Docker used this internally</li>
+</ul>
+<p>After the Node switched to containerd as its runtime (and dropped Docker from the image), it had one:</p>
+<ul>
+<li><code>containerd</code> → <code>/run/containerd/containerd.sock</code> ← kubelet talks directly to this</li>
+<li>Docker Engine → gone</li>
+<li>docker.sock → gone</li>
+</ul>
+<p>containerd has its own socket. But <code>docker build</code> doesn't speak containerd's API. It only talks to Docker's socket. Different program, different protocol.</p>
+<blockquote>
+<p><code>docker build</code> → looks for <code>/var/run/docker.sock</code> → file doesn't exist → fails</p>
+</blockquote>
+<p><strong>Two ways out:</strong></p>
+<ol>
+<li><strong>Keep Docker Engine on the Node and connect kubelet to it through cri-dockerd</strong> → docker.sock stays → pipeline unchanged</li>
+<li><strong>Switch to buildah</strong> → builds the image from a Dockerfile inside a container → no Docker daemon, no socket</li>
+</ol>
+<p>The Kubernetes dockershim FAQ lists four tools that build images without Docker: img, buildah, kaniko, and buildkit-cli-for-kubectl. As of October 2026, the kaniko repository was archived in June 2025, the buildkit-cli-for-kubectl repository is archived too, and img was last updated in May 2024. Of the four, only buildah is still being updated.</p>
+<p>cri-dockerd kept pipelines working for teams that couldn't rewrite them overnight, and it still ships new releases (v0.4.9 in October 2026). But its call chain is longer:</p>
+<blockquote>
+<p><code>kubelet → cri-dockerd → Docker Engine → containerd → runc</code></p>
+</blockquote>
+<p>Three hops from kubelet to containerd; using containerd directly takes one.</p>
+<h3>Another path at the same time: CRI-O</h3>
+<p>While Docker was being taken out of the path, Red Hat built CRI-O from scratch. CRI-O 1.0 came out in October 2017. Purpose-built for K8s. No Docker legacy. No image build. No extras. Speaks CRI on top, and on the bottom calls runtimes that follow the OCI (Open Container Initiative) spec, such as runc. Does what K8s needs and nothing more.</p>
+<blockquote>
+<p><code>kubelet → CRI-O → crun or runc → container</code></p>
+<p>CRI-O's current config defaults to crun; runc can be configured instead.</p>
+</blockquote>
+<p>OpenShift 4 has run on CRI-O in production since June 2019. containerd can do more things. CRI-O's pitch is that it shouldn't have to.</p>
+<hr>
+<h2>The timeline</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Year</th><th>Event</th></tr></thead><tbody><tr><td>2014</td><td>Kubernetes open-sourced. Docker calls written into kubelet. No interface. CoreOS announces rkt (December)</td></tr><tr><td>2015</td><td>Docker donates runc to the new Open Container Initiative (June). Kubernetes 1.0 (July)</td></tr><tr><td>2016</td><td>Docker 1.11 runs containers through containerd and runc (April). K8s 1.3 adds rkt inside kubelet (July). K8s 1.5 introduces CRI as alpha, with dockershim built in (December)</td></tr><tr><td>2017</td><td>Docker donates containerd to CNCF (March). cri-containerd alpha (September). CRI-O 1.0 (October). containerd 1.0 (December)</td></tr><tr><td>2018</td><td>Red Hat announces it is acquiring CoreOS (January). containerd 1.1 with the CRI plugin built in (April). Docker for Mac ships Kubernetes in its stable channel (July)</td></tr><tr><td>2019</td><td>containerd graduates from CNCF (February). OpenShift 4 runs on CRI-O (June). CNCF archives rkt (August). Docker sells its enterprise business to Mirantis (November)</td></tr><tr><td>2020</td><td>K8s 1.20 deprecates dockershim (December). The announcement caused enough panic that Kubernetes published "Don't Panic: Kubernetes and Docker"</td></tr><tr><td>2021</td><td>Mirantis announces cri-dockerd (April)</td></tr><tr><td>2022</td><td>K8s 1.24 removes dockershim (May). On Nodes that drop Docker Engine, scripts, settings and CI jobs that used Docker directly have to change</td></tr></tbody></table>
+<p>Eight years from kubelet calling Docker directly in 2014 to kubelet holding no Docker code at all in 2022.</p>
+<hr>
+<h2>Where Docker ended up</h2>
+<p>In November 2019 Docker sold its enterprise business to Mirantis. On November 13, Docker announced "the next chapter in the Docker story, one that's focused on developers." The focus moved to the other end of the pipeline: <strong>building images, not running them</strong>.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>What Docker kept</th><th>What Docker lost</th></tr></thead><tbody><tr><td>Docker Desktop (developer local environment)</td><td>Runtime on K8s clusters</td></tr><tr><td>Docker Hub (image registry)</td><td>Docker Enterprise (sold to Mirantis in 2019; Swarm mode itself still ships in Docker Engine)</td></tr><tr><td><code>docker build</code> (image construction)</td><td>Docker Engine as the runtime most K8s clusters used</td></tr><tr><td>Docker Compose (local multi-container dev)</td><td>dockershim (K8s deleted it, Mirantis picked up the pieces)</td></tr></tbody></table>
+<p>The current state of the industry:</p>
+<pre><code>Developer laptop:
+  docker build → build image
+  docker push → push to registry
+
+Production K8s cluster:
+  kubelet → containerd → runc → container
+  (No Docker anywhere in this path.)
+</code></pre>
+<h3>Docker donated its core</h3>
+<p>Docker donated runc to the OCI in 2015 and containerd to CNCF in 2017. That sounds like giving away the crown jewels. At containerd's CNCF graduation in 2019, Michael Crosby, a containerd maintainer and Docker engineer, described the goal as "to share a robust and extensible runtime."</p>
+<p>Today Kubernetes nodes run containerd directly, Docker Engine runs on containerd too, and CNCF hosts containerd.</p>
+<hr>
+<h2>References</h2>
+<ul>
+<li><a href="https://kubernetes.io/docs/concepts/architecture/cri/">K8s official: Container Runtime Interface (CRI)</a></li>
+<li><a href="https://kubernetes.io/blog/2016/07/rktnetes-brings-rkt-container-engine-to-kubernetes/">K8s blog: rktnetes brings rkt container engine to Kubernetes (2016)</a></li>
+<li><a href="https://kubernetes.io/blog/2016/12/container-runtime-interface-cri-in-kubernetes/">K8s blog: Introducing CRI (2016, architecture diagrams)</a></li>
+<li><a href="https://kubernetes.io/blog/2017/11/containerd-container-runtime-options-kubernetes/">K8s blog: Containerd Brings More Container Runtime Options for Kubernetes (2017)</a></li>
+<li><a href="https://kubernetes.io/blog/2018/05/24/kubernetes-containerd-integration-goes-ga/">K8s blog: Kubernetes Containerd Integration Goes GA (2018, benchmarks)</a></li>
+<li><a href="https://kubernetes.io/blog/2020/12/02/dont-panic-kubernetes-and-docker/">K8s blog: Don't Panic — Kubernetes and Docker (2020)</a></li>
+<li><a href="https://kubernetes.io/blog/2022/02/17/dockershim-faq/">K8s blog: Dockershim Removal FAQ (2022)</a></li>
+<li><a href="https://kubernetes.io/blog/2022/05/03/dockershim-historical-context/">K8s blog: Dockershim Historical Context (2022, full story)</a></li>
+<li><a href="https://kubernetes.io/docs/tasks/administer-cluster/migrating-from-dockershim/check-if-dockershim-removal-affects-you/">K8s docs: Check whether dockershim removal affects you</a></li>
+<li><a href="https://www.mirantis.com/blog/the-future-of-dockershim-is-cri-dockerd/">Mirantis: The Future of Dockershim is cri-dockerd (2021)</a></li>
+<li><a href="https://www.cncf.io/announcements/2019/02/28/cncf-announces-containerd-graduation/">CNCF: containerd graduation (2019)</a></li>
+<li><a href="https://www.cncf.io/blog/2019/08/16/cncf-archives-the-rkt-project/">CNCF: archiving rkt (2019)</a></li>
+<li><a href="https://www.docker.com/blog/docker-next-chapter-advancing-developer-workflows-for-modern-apps/">Docker: The next chapter (2019)</a></li>
+<li><a href="https://www.alibabacloud.com/blog/a-discussion-on-container-runtime---starting-with-dockershim-being-deleted-by-kubernetes_600118">Alibaba Cloud: Container Runtime evolution (before/after architecture diagrams)</a></li>
+<li><a href="https://kubernetes.io/docs/setup/production-environment/container-runtimes/">K8s official: Container Runtimes setup guide</a></li>
+</ul>15:T3fa0,
+K8s needed Docker. Then it didn't. Taking Docker out of the call path ran from Kubernetes 1.5 (December 2016) to 1.24 (May 2022). Two translators appeared along the way.
+
+The first was dockershim, which Kubernetes wrote inside kubelet so kubelet could reach Docker. After 1.20 (December 2020) announced that dockershim would be deprecated, Mirantis announced in April 2021 that the code was moving to a new repository and would be maintained as cri-dockerd. When 1.24 actually deleted dockershim from Kubernetes, clusters that still needed Docker switched to cri-dockerd.
+
+The second was cri-containerd, which let kubelet reach containerd directly. In containerd 1.1 its code became a plugin built into containerd, the part kubelet now calls through CRI (Container Runtime Interface).
+
+---
+
+## Before CRI: why Docker was hardcoded
+
+Kubernetes was open-sourced in 2014. In 2014, "container" mostly meant Docker. The Kubernetes team later put it this way: "there weren't really a lot of other options out there and Docker was the dominant tool for working with containers." So kubelet called the Docker API directly. No abstraction. No interface. `kubelet` knew how to talk to Docker the same way your code calls `console.log`. There was no layer in between.
+
+This worked while Docker was the only runtime Kubernetes supported. Why build an abstraction for one implementation?
+
+---
+
+## rkt shows up, K8s defines CRI
+
+In December 2014, CoreOS announced rkt (pronounced "rocket"), a competing container runtime with a different architecture. rkt 1.0 shipped in February 2016. CoreOS wanted it to run under Kubernetes.
+
+Supporting rkt meant writing a second set of runtime calls inside kubelet, and Kubernetes 1.3 (July 2016) did exactly that. The project was nicknamed "rktnetes". Now both Docker and rkt were wired into kubelet "through an internal and volatile interface", which the Kubernetes team said "incurs significant maintenance overhead". A third runtime would have meant a third integration.
+
+So K8s did what any engineer does when two implementations exist: define an interface. Kubernetes 1.5 (December 2016) introduced **CRI**, the Container Runtime Interface, as alpha. A gRPC API. kubelet speaks CRI. Any runtime that implements CRI can plug in, with no per-runtime code in kubelet.
+
+The 1.5 announcement listed the CRI implementations in progress: cri-o, rktlet (for rkt), frakti (VM-based runtimes), and a Docker CRI shim built into kubelet. containerd got its CRI implementation in 2017.
+
+rkt pushed Kubernetes into defining CRI, but rkt itself faded. Red Hat announced it was acquiring CoreOS in January 2018, and Red Hat was already building CRI-O. The CNCF archived rkt in August 2019.
+
+---
+
+## Docker Engine never spoke CRI
+
+Docker also had its own orchestrator: **Swarm**. Same job as K8s, simpler interface. `docker swarm init` and you had a cluster. `docker service scale web=5` and you had five replicas. No CRD, no etcd.
+
+Docker Engine never implemented CRI, and as of October 2026 it still speaks only Docker's own API. The Kubernetes team's 2022 summary: "Docker Engine's use as a container runtime predates CRI, and Docker Engine is not CRI-compatible." A search turned up no primary source explaining why Docker never added a CRI endpoint. Two things are on the record. Kubernetes shipped its own Docker shim in the same release that introduced CRI, so Docker users never waited on Docker for one. And Docker engineers did work on CRI support for containerd in 2017 (see Step 1 below).
+
+---
+
+## K8s writes dockershim
+
+K8s couldn't drop Docker. Docker was what most clusters ran on.
+
+So in the same 1.5 release, kubelet got a built-in CRI shim for Docker: `dockershim`. It converted CRI calls into Docker API calls. The 1.5 announcement called it "the first step": "re-integrate Docker with kubelet using CRI." It lived inside the Kubernetes codebase. Kubernetes maintained it. Every CRI change meant updating dockershim too.
+
+In this article a hop is one call that crosses into another process. dockershim was compiled into kubelet and ran in the same process, so kubelet calling dockershim is not a hop.
+
+> **Era 0** (2014–2016): Docker calls written into kubelet (rkt calls too, from 1.3). No interface.
+>
+> **Era 1** (1.5, December 2016 onward): CRI exists. Docker Engine doesn't speak it. Kubernetes ships dockershim inside kubelet.
+>
+> `kubelet (with dockershim) → Docker Engine → containerd → runc → container`
+>
+> Two hops from kubelet to containerd: kubelet calls Docker Engine, and Docker Engine calls containerd.
+
+Since Docker 1.11 (April 2016), Docker Engine had handed container execution to two separate binaries: containerd manages the container lifecycle, and runc creates the container. So after K8s called Docker, Docker still had to call containerd.
+
+In 2018 the Kubernetes team compared the two full paths. With 105 pods on a node, containerd 1.1 with its built-in CRI plugin ran against Docker 18.03 CE with dockershim. The containerd path had lower pod startup latency, 30.89% lower kubelet CPU, 68.13% lower container runtime CPU, and 11.30% and 12.78% lower memory (RSS) for kubelet and the runtime. The post doesn't say whether "container runtime" on the Docker side means dockerd alone or dockerd plus the containerd under it, so it's unclear which processes the 68.13% compares. The Docker path has dockershim and all of Docker Engine on top of what the containerd path has, and the software versions differ too. These percentages measure the gap between the two whole paths. The post didn't measure how much CPU and memory dockershim or Docker Engine used on its own.
+
+Kubernetes' own 2022 retrospective says the shim "was never intended to be a permanent solution" and "introduced a lot of unnecessary complexity to the kubelet itself." It stayed in kubelet from 1.5 (December 2016) to 1.24 (May 2022), about five and a half years.
+
+---
+
+## Cutting Docker out, in three steps
+
+### Step 1: cri-containerd skips Docker (2017, containerd 1.0)
+
+If Docker Engine just hands the work to containerd, kubelet could talk to containerd directly.
+
+Through 2017, engineers from Google, Docker, IBM, ZTE, and ZJU built `cri-containerd`, a standalone daemon that translated CRI calls into containerd calls. Its feature-complete alpha came out on September 25, 2017, and it ran on containerd 1.0 (December 2017).
+
+> **Era 2**: Docker Engine bypassed. But a new daemon added.
+>
+> `kubelet → cri-containerd (standalone daemon) → containerd → runc → container`
+>
+> Still two hops to containerd; the process in the middle changed from Docker Engine to cri-containerd.
+
+Docker Engine was out of the path now, which was progress. But cri-containerd and containerd were still two daemons talking over gRPC: one more process to deploy and babysit.
+
+### Step 2: containerd absorbs the translator (containerd 1.1, April 2018)
+
+In containerd 1.1, the cri-containerd code was refactored into a CRI plugin, built into containerd and enabled by default. The plugin calls containerd through direct function calls instead of gRPC. The separate daemon was no longer needed.
+
+> **Era 3**: the CRI plugin and containerd are one process.
+>
+> `kubelet → containerd (built-in CRI plugin) → runc → container`
+>
+> One hop from kubelet to containerd.
+
+This is the path on every containerd-based node today, and the CRI plugin on it is cri-containerd's refactored code. How containerd then creates the container through the shim and runc is in [Inside containerd: How shim and runc Actually Work](/v2/containerd-shim-and-runc).
+
+### Step 3: K8s deletes dockershim (K8s 1.24, May 2022)
+
+Kubernetes 1.20 (December 2020) deprecated dockershim, and 1.24 (May 2022) removed it. kubelet could no longer talk to Docker Engine on its own. Clusters still on Docker had to either switch to containerd or CRI-O, or install cri-dockerd to keep Docker as the runtime. On Nodes that dropped Docker, containers ran fine, but scripts, settings and tools on the Node that called Docker directly had to change. The Kubernetes migration page "Check whether dockershim removal affects you" lists these:
+
+- Docker commands such as `docker ps` or `systemctl restart docker.service`, run from privileged Pods, Node startup scripts, or monitoring and security agents installed directly on the Node
+- Private registry and image mirror settings in `/etc/docker/daemon.json`, which have to move to the new runtime's config
+- `docker ps` and `docker exec` used to troubleshoot over SSH, which no longer list any containers
+- kubelet's `/metrics/cadvisor`, whose container name format changes with the runtime and which loses a set of filesystem metrics
+- CI that mounts the Node's docker.sock into a Pod to build images with the Node's Docker
+
+**Example: CI mounting docker.sock**
+
+On a Node that used Docker Engine as its runtime, Docker Engine exposed `/var/run/docker.sock`. Some CI setups ran build jobs as Pods inside the cluster and mounted that socket to build images with the Node's Docker. The Kubernetes blog's name for this pattern is "Docker in Docker".
+
+A Docker-runtime Node had two daemons:
+- `Docker Engine` → `/var/run/docker.sock` ← CI Pods mounted this
+- `containerd` → `/run/containerd/containerd.sock` ← Docker used this internally
+
+After the Node switched to containerd as its runtime (and dropped Docker from the image), it had one:
+- `containerd` → `/run/containerd/containerd.sock` ← kubelet talks directly to this
+- Docker Engine → gone
+- docker.sock → gone
+
+containerd has its own socket. But `docker build` doesn't speak containerd's API. It only talks to Docker's socket. Different program, different protocol.
+
+> `docker build` → looks for `/var/run/docker.sock` → file doesn't exist → fails
+
+**Two ways out:**
+
+1. **Keep Docker Engine on the Node and connect kubelet to it through cri-dockerd** → docker.sock stays → pipeline unchanged
+2. **Switch to buildah** → builds the image from a Dockerfile inside a container → no Docker daemon, no socket
+
+The Kubernetes dockershim FAQ lists four tools that build images without Docker: img, buildah, kaniko, and buildkit-cli-for-kubectl. As of October 2026, the kaniko repository was archived in June 2025, the buildkit-cli-for-kubectl repository is archived too, and img was last updated in May 2024. Of the four, only buildah is still being updated.
+
+cri-dockerd kept pipelines working for teams that couldn't rewrite them overnight, and it still ships new releases (v0.4.9 in October 2026). But its call chain is longer:
+
+> `kubelet → cri-dockerd → Docker Engine → containerd → runc`
+
+Three hops from kubelet to containerd; using containerd directly takes one.
+
+### Another path at the same time: CRI-O
+
+While Docker was being taken out of the path, Red Hat built CRI-O from scratch. CRI-O 1.0 came out in October 2017. Purpose-built for K8s. No Docker legacy. No image build. No extras. Speaks CRI on top, and on the bottom calls runtimes that follow the OCI (Open Container Initiative) spec, such as runc. Does what K8s needs and nothing more.
+
+> `kubelet → CRI-O → crun or runc → container`
+>
+> CRI-O's current config defaults to crun; runc can be configured instead.
+
+OpenShift 4 has run on CRI-O in production since June 2019. containerd can do more things. CRI-O's pitch is that it shouldn't have to.
+
+---
+
+## The timeline
+
+| Year | Event |
+|---|---|
+| 2014 | Kubernetes open-sourced. Docker calls written into kubelet. No interface. CoreOS announces rkt (December) |
+| 2015 | Docker donates runc to the new Open Container Initiative (June). Kubernetes 1.0 (July) |
+| 2016 | Docker 1.11 runs containers through containerd and runc (April). K8s 1.3 adds rkt inside kubelet (July). K8s 1.5 introduces CRI as alpha, with dockershim built in (December) |
+| 2017 | Docker donates containerd to CNCF (March). cri-containerd alpha (September). CRI-O 1.0 (October). containerd 1.0 (December) |
+| 2018 | Red Hat announces it is acquiring CoreOS (January). containerd 1.1 with the CRI plugin built in (April). Docker for Mac ships Kubernetes in its stable channel (July) |
+| 2019 | containerd graduates from CNCF (February). OpenShift 4 runs on CRI-O (June). CNCF archives rkt (August). Docker sells its enterprise business to Mirantis (November) |
+| 2020 | K8s 1.20 deprecates dockershim (December). The announcement caused enough panic that Kubernetes published "Don't Panic: Kubernetes and Docker" |
+| 2021 | Mirantis announces cri-dockerd (April) |
+| 2022 | K8s 1.24 removes dockershim (May). On Nodes that drop Docker Engine, scripts, settings and CI jobs that used Docker directly have to change |
+
+Eight years from kubelet calling Docker directly in 2014 to kubelet holding no Docker code at all in 2022.
+
+---
+
+## Where Docker ended up
+
+In November 2019 Docker sold its enterprise business to Mirantis. On November 13, Docker announced "the next chapter in the Docker story, one that's focused on developers." The focus moved to the other end of the pipeline: **building images, not running them**.
+
+| What Docker kept | What Docker lost |
+|---|---|
+| Docker Desktop (developer local environment) | Runtime on K8s clusters |
+| Docker Hub (image registry) | Docker Enterprise (sold to Mirantis in 2019; Swarm mode itself still ships in Docker Engine) |
+| `docker build` (image construction) | Docker Engine as the runtime most K8s clusters used |
+| Docker Compose (local multi-container dev) | dockershim (K8s deleted it, Mirantis picked up the pieces) |
+
+The current state of the industry:
+
+```
+Developer laptop:
+  docker build → build image
+  docker push → push to registry
+
+Production K8s cluster:
+  kubelet → containerd → runc → container
+  (No Docker anywhere in this path.)
+```
+
+### Docker donated its core
+
+Docker donated runc to the OCI in 2015 and containerd to CNCF in 2017. That sounds like giving away the crown jewels. At containerd's CNCF graduation in 2019, Michael Crosby, a containerd maintainer and Docker engineer, described the goal as "to share a robust and extensible runtime."
+
+Today Kubernetes nodes run containerd directly, Docker Engine runs on containerd too, and CNCF hosts containerd.
+
+---
+
+## References
+
+- [K8s official: Container Runtime Interface (CRI)](https://kubernetes.io/docs/concepts/architecture/cri/)
+- [K8s blog: rktnetes brings rkt container engine to Kubernetes (2016)](https://kubernetes.io/blog/2016/07/rktnetes-brings-rkt-container-engine-to-kubernetes/)
+- [K8s blog: Introducing CRI (2016, architecture diagrams)](https://kubernetes.io/blog/2016/12/container-runtime-interface-cri-in-kubernetes/)
+- [K8s blog: Containerd Brings More Container Runtime Options for Kubernetes (2017)](https://kubernetes.io/blog/2017/11/containerd-container-runtime-options-kubernetes/)
+- [K8s blog: Kubernetes Containerd Integration Goes GA (2018, benchmarks)](https://kubernetes.io/blog/2018/05/24/kubernetes-containerd-integration-goes-ga/)
+- [K8s blog: Don't Panic — Kubernetes and Docker (2020)](https://kubernetes.io/blog/2020/12/02/dont-panic-kubernetes-and-docker/)
+- [K8s blog: Dockershim Removal FAQ (2022)](https://kubernetes.io/blog/2022/02/17/dockershim-faq/)
+- [K8s blog: Dockershim Historical Context (2022, full story)](https://kubernetes.io/blog/2022/05/03/dockershim-historical-context/)
+- [K8s docs: Check whether dockershim removal affects you](https://kubernetes.io/docs/tasks/administer-cluster/migrating-from-dockershim/check-if-dockershim-removal-affects-you/)
+- [Mirantis: The Future of Dockershim is cri-dockerd (2021)](https://www.mirantis.com/blog/the-future-of-dockershim-is-cri-dockerd/)
+- [CNCF: containerd graduation (2019)](https://www.cncf.io/announcements/2019/02/28/cncf-announces-containerd-graduation/)
+- [CNCF: archiving rkt (2019)](https://www.cncf.io/blog/2019/08/16/cncf-archives-the-rkt-project/)
+- [Docker: The next chapter (2019)](https://www.docker.com/blog/docker-next-chapter-advancing-developer-workflows-for-modern-apps/)
+- [Alibaba Cloud: Container Runtime evolution (before/after architecture diagrams)](https://www.alibabacloud.com/blog/a-discussion-on-container-runtime---starting-with-dockershim-being-deleted-by-kubernetes_600118)
+- [K8s official: Container Runtimes setup guide](https://kubernetes.io/docs/setup/production-environment/container-runtimes/)
+16:T5744,LS0tCnRpdGxlOiAiSzhzIG5lZWRlZCBEb2NrZXIuIFRoZW4gaXQgZGlkbid0LiIKY3JlYXRlZEF0OiAyMDI2LTAyLTIwVDIzOjMwOjAwCnVwZGF0ZWRBdDogMjAyNi0xMC0yN1QxOToxMDo0Mgp0YWdzOiBbazhzLCBjb250YWluZXIsIGluZnJhc3RydWN0dXJlXQpkZXNjcmlwdGlvbjogIkt1YmVybmV0ZXMgc3RhcnRlZCB3aXRoIERvY2tlciBjYWxscyB3cml0dGVuIHN0cmFpZ2h0IGludG8ga3ViZWxldC4gVGFraW5nIERvY2tlciBvdXQgb2YgdGhlIGNhbGwgcGF0aCByYW4gZnJvbSAxLjUgKDIwMTYpIHRvIDEuMjQgKDIwMjIpLiBCb3RoIHRyYW5zbGF0b3JzIGJ1aWx0IGFsb25nIHRoZSB3YXkgYXJlIHN0aWxsIHJ1bm5pbmc6IGRvY2tlcnNoaW0gbW92ZWQgb3V0IG9mIEt1YmVybmV0ZXMgYXMgY3JpLWRvY2tlcmQsIGFuZCBjcmktY29udGFpbmVyZCBiZWNhbWUgY29udGFpbmVyZCdzIENSSSBwbHVnaW4uIgotLS0KCks4cyBuZWVkZWQgRG9ja2VyLiBUaGVuIGl0IGRpZG4ndC4gVGFraW5nIERvY2tlciBvdXQgb2YgdGhlIGNhbGwgcGF0aCByYW4gZnJvbSBLdWJlcm5ldGVzIDEuNSAoRGVjZW1iZXIgMjAxNikgdG8gMS4yNCAoTWF5IDIwMjIpLiBUd28gdHJhbnNsYXRvcnMgYXBwZWFyZWQgYWxvbmcgdGhlIHdheS4KClRoZSBmaXJzdCB3YXMgZG9ja2Vyc2hpbSwgd2hpY2ggS3ViZXJuZXRlcyB3cm90ZSBpbnNpZGUga3ViZWxldCBzbyBrdWJlbGV0IGNvdWxkIHJlYWNoIERvY2tlci4gQWZ0ZXIgMS4yMCAoRGVjZW1iZXIgMjAyMCkgYW5ub3VuY2VkIHRoYXQgZG9ja2Vyc2hpbSB3b3VsZCBiZSBkZXByZWNhdGVkLCBNaXJhbnRpcyBhbm5vdW5jZWQgaW4gQXByaWwgMjAyMSB0aGF0IHRoZSBjb2RlIHdhcyBtb3ZpbmcgdG8gYSBuZXcgcmVwb3NpdG9yeSBhbmQgd291bGQgYmUgbWFpbnRhaW5lZCBhcyBjcmktZG9ja2VyZC4gV2hlbiAxLjI0IGFjdHVhbGx5IGRlbGV0ZWQgZG9ja2Vyc2hpbSBmcm9tIEt1YmVybmV0ZXMsIGNsdXN0ZXJzIHRoYXQgc3RpbGwgbmVlZGVkIERvY2tlciBzd2l0Y2hlZCB0byBjcmktZG9ja2VyZC4KClRoZSBzZWNvbmQgd2FzIGNyaS1jb250YWluZXJkLCB3aGljaCBsZXQga3ViZWxldCByZWFjaCBjb250YWluZXJkIGRpcmVjdGx5LiBJbiBjb250YWluZXJkIDEuMSBpdHMgY29kZSBiZWNhbWUgYSBwbHVnaW4gYnVpbHQgaW50byBjb250YWluZXJkLCB0aGUgcGFydCBrdWJlbGV0IG5vdyBjYWxscyB0aHJvdWdoIENSSSAoQ29udGFpbmVyIFJ1bnRpbWUgSW50ZXJmYWNlKS4KCi0tLQoKIyMgQmVmb3JlIENSSTogd2h5IERvY2tlciB3YXMgaGFyZGNvZGVkCgpLdWJlcm5ldGVzIHdhcyBvcGVuLXNvdXJjZWQgaW4gMjAxNC4gSW4gMjAxNCwgImNvbnRhaW5lciIgbW9zdGx5IG1lYW50IERvY2tlci4gVGhlIEt1YmVybmV0ZXMgdGVhbSBsYXRlciBwdXQgaXQgdGhpcyB3YXk6ICJ0aGVyZSB3ZXJlbid0IHJlYWxseSBhIGxvdCBvZiBvdGhlciBvcHRpb25zIG91dCB0aGVyZSBhbmQgRG9ja2VyIHdhcyB0aGUgZG9taW5hbnQgdG9vbCBmb3Igd29ya2luZyB3aXRoIGNvbnRhaW5lcnMuIiBTbyBrdWJlbGV0IGNhbGxlZCB0aGUgRG9ja2VyIEFQSSBkaXJlY3RseS4gTm8gYWJzdHJhY3Rpb24uIE5vIGludGVyZmFjZS4gYGt1YmVsZXRgIGtuZXcgaG93IHRvIHRhbGsgdG8gRG9ja2VyIHRoZSBzYW1lIHdheSB5b3VyIGNvZGUgY2FsbHMgYGNvbnNvbGUubG9nYC4gVGhlcmUgd2FzIG5vIGxheWVyIGluIGJldHdlZW4uCgpUaGlzIHdvcmtlZCB3aGlsZSBEb2NrZXIgd2FzIHRoZSBvbmx5IHJ1bnRpbWUgS3ViZXJuZXRlcyBzdXBwb3J0ZWQuIFdoeSBidWlsZCBhbiBhYnN0cmFjdGlvbiBmb3Igb25lIGltcGxlbWVudGF0aW9uPwoKLS0tCgojIyBya3Qgc2hvd3MgdXAsIEs4cyBkZWZpbmVzIENSSQoKSW4gRGVjZW1iZXIgMjAxNCwgQ29yZU9TIGFubm91bmNlZCBya3QgKHByb25vdW5jZWQgInJvY2tldCIpLCBhIGNvbXBldGluZyBjb250YWluZXIgcnVudGltZSB3aXRoIGEgZGlmZmVyZW50IGFyY2hpdGVjdHVyZS4gcmt0IDEuMCBzaGlwcGVkIGluIEZlYnJ1YXJ5IDIwMTYuIENvcmVPUyB3YW50ZWQgaXQgdG8gcnVuIHVuZGVyIEt1YmVybmV0ZXMuCgpTdXBwb3J0aW5nIHJrdCBtZWFudCB3cml0aW5nIGEgc2Vjb25kIHNldCBvZiBydW50aW1lIGNhbGxzIGluc2lkZSBrdWJlbGV0LCBhbmQgS3ViZXJuZXRlcyAxLjMgKEp1bHkgMjAxNikgZGlkIGV4YWN0bHkgdGhhdC4gVGhlIHByb2plY3Qgd2FzIG5pY2tuYW1lZCAicmt0bmV0ZXMiLiBOb3cgYm90aCBEb2NrZXIgYW5kIHJrdCB3ZXJlIHdpcmVkIGludG8ga3ViZWxldCAidGhyb3VnaCBhbiBpbnRlcm5hbCBhbmQgdm9sYXRpbGUgaW50ZXJmYWNlIiwgd2hpY2ggdGhlIEt1YmVybmV0ZXMgdGVhbSBzYWlkICJpbmN1cnMgc2lnbmlmaWNhbnQgbWFpbnRlbmFuY2Ugb3ZlcmhlYWQiLiBBIHRoaXJkIHJ1bnRpbWUgd291bGQgaGF2ZSBtZWFudCBhIHRoaXJkIGludGVncmF0aW9uLgoKU28gSzhzIGRpZCB3aGF0IGFueSBlbmdpbmVlciBkb2VzIHdoZW4gdHdvIGltcGxlbWVudGF0aW9ucyBleGlzdDogZGVmaW5lIGFuIGludGVyZmFjZS4gS3ViZXJuZXRlcyAxLjUgKERlY2VtYmVyIDIwMTYpIGludHJvZHVjZWQgKipDUkkqKiwgdGhlIENvbnRhaW5lciBSdW50aW1lIEludGVyZmFjZSwgYXMgYWxwaGEuIEEgZ1JQQyBBUEkuIGt1YmVsZXQgc3BlYWtzIENSSS4gQW55IHJ1bnRpbWUgdGhhdCBpbXBsZW1lbnRzIENSSSBjYW4gcGx1ZyBpbiwgd2l0aCBubyBwZXItcnVudGltZSBjb2RlIGluIGt1YmVsZXQuCgpUaGUgMS41IGFubm91bmNlbWVudCBsaXN0ZWQgdGhlIENSSSBpbXBsZW1lbnRhdGlvbnMgaW4gcHJvZ3Jlc3M6IGNyaS1vLCBya3RsZXQgKGZvciBya3QpLCBmcmFrdGkgKFZNLWJhc2VkIHJ1bnRpbWVzKSwgYW5kIGEgRG9ja2VyIENSSSBzaGltIGJ1aWx0IGludG8ga3ViZWxldC4gY29udGFpbmVyZCBnb3QgaXRzIENSSSBpbXBsZW1lbnRhdGlvbiBpbiAyMDE3LgoKcmt0IHB1c2hlZCBLdWJlcm5ldGVzIGludG8gZGVmaW5pbmcgQ1JJLCBidXQgcmt0IGl0c2VsZiBmYWRlZC4gUmVkIEhhdCBhbm5vdW5jZWQgaXQgd2FzIGFjcXVpcmluZyBDb3JlT1MgaW4gSmFudWFyeSAyMDE4LCBhbmQgUmVkIEhhdCB3YXMgYWxyZWFkeSBidWlsZGluZyBDUkktTy4gVGhlIENOQ0YgYXJjaGl2ZWQgcmt0IGluIEF1Z3VzdCAyMDE5LgoKLS0tCgojIyBEb2NrZXIgRW5naW5lIG5ldmVyIHNwb2tlIENSSQoKRG9ja2VyIGFsc28gaGFkIGl0cyBvd24gb3JjaGVzdHJhdG9yOiAqKlN3YXJtKiouIFNhbWUgam9iIGFzIEs4cywgc2ltcGxlciBpbnRlcmZhY2UuIGBkb2NrZXIgc3dhcm0gaW5pdGAgYW5kIHlvdSBoYWQgYSBjbHVzdGVyLiBgZG9ja2VyIHNlcnZpY2Ugc2NhbGUgd2ViPTVgIGFuZCB5b3UgaGFkIGZpdmUgcmVwbGljYXMuIE5vIENSRCwgbm8gZXRjZC4KCkRvY2tlciBFbmdpbmUgbmV2ZXIgaW1wbGVtZW50ZWQgQ1JJLCBhbmQgYXMgb2YgT2N0b2JlciAyMDI2IGl0IHN0aWxsIHNwZWFrcyBvbmx5IERvY2tlcidzIG93biBBUEkuIFRoZSBLdWJlcm5ldGVzIHRlYW0ncyAyMDIyIHN1bW1hcnk6ICJEb2NrZXIgRW5naW5lJ3MgdXNlIGFzIGEgY29udGFpbmVyIHJ1bnRpbWUgcHJlZGF0ZXMgQ1JJLCBhbmQgRG9ja2VyIEVuZ2luZSBpcyBub3QgQ1JJLWNvbXBhdGlibGUuIiBBIHNlYXJjaCB0dXJuZWQgdXAgbm8gcHJpbWFyeSBzb3VyY2UgZXhwbGFpbmluZyB3aHkgRG9ja2VyIG5ldmVyIGFkZGVkIGEgQ1JJIGVuZHBvaW50LiBUd28gdGhpbmdzIGFyZSBvbiB0aGUgcmVjb3JkLiBLdWJlcm5ldGVzIHNoaXBwZWQgaXRzIG93biBEb2NrZXIgc2hpbSBpbiB0aGUgc2FtZSByZWxlYXNlIHRoYXQgaW50cm9kdWNlZCBDUkksIHNvIERvY2tlciB1c2VycyBuZXZlciB3YWl0ZWQgb24gRG9ja2VyIGZvciBvbmUuIEFuZCBEb2NrZXIgZW5naW5lZXJzIGRpZCB3b3JrIG9uIENSSSBzdXBwb3J0IGZvciBjb250YWluZXJkIGluIDIwMTcgKHNlZSBTdGVwIDEgYmVsb3cpLgoKLS0tCgojIyBLOHMgd3JpdGVzIGRvY2tlcnNoaW0KCks4cyBjb3VsZG4ndCBkcm9wIERvY2tlci4gRG9ja2VyIHdhcyB3aGF0IG1vc3QgY2x1c3RlcnMgcmFuIG9uLgoKU28gaW4gdGhlIHNhbWUgMS41IHJlbGVhc2UsIGt1YmVsZXQgZ290IGEgYnVpbHQtaW4gQ1JJIHNoaW0gZm9yIERvY2tlcjogYGRvY2tlcnNoaW1gLiBJdCBjb252ZXJ0ZWQgQ1JJIGNhbGxzIGludG8gRG9ja2VyIEFQSSBjYWxscy4gVGhlIDEuNSBhbm5vdW5jZW1lbnQgY2FsbGVkIGl0ICJ0aGUgZmlyc3Qgc3RlcCI6ICJyZS1pbnRlZ3JhdGUgRG9ja2VyIHdpdGgga3ViZWxldCB1c2luZyBDUkkuIiBJdCBsaXZlZCBpbnNpZGUgdGhlIEt1YmVybmV0ZXMgY29kZWJhc2UuIEt1YmVybmV0ZXMgbWFpbnRhaW5lZCBpdC4gRXZlcnkgQ1JJIGNoYW5nZSBtZWFudCB1cGRhdGluZyBkb2NrZXJzaGltIHRvby4KCkluIHRoaXMgYXJ0aWNsZSBhIGhvcCBpcyBvbmUgY2FsbCB0aGF0IGNyb3NzZXMgaW50byBhbm90aGVyIHByb2Nlc3MuIGRvY2tlcnNoaW0gd2FzIGNvbXBpbGVkIGludG8ga3ViZWxldCBhbmQgcmFuIGluIHRoZSBzYW1lIHByb2Nlc3MsIHNvIGt1YmVsZXQgY2FsbGluZyBkb2NrZXJzaGltIGlzIG5vdCBhIGhvcC4KCj4gKipFcmEgMCoqICgyMDE04oCTMjAxNik6IERvY2tlciBjYWxscyB3cml0dGVuIGludG8ga3ViZWxldCAocmt0IGNhbGxzIHRvbywgZnJvbSAxLjMpLiBObyBpbnRlcmZhY2UuCj4KPiAqKkVyYSAxKiogKDEuNSwgRGVjZW1iZXIgMjAxNiBvbndhcmQpOiBDUkkgZXhpc3RzLiBEb2NrZXIgRW5naW5lIGRvZXNuJ3Qgc3BlYWsgaXQuIEt1YmVybmV0ZXMgc2hpcHMgZG9ja2Vyc2hpbSBpbnNpZGUga3ViZWxldC4KPgo+IGBrdWJlbGV0ICh3aXRoIGRvY2tlcnNoaW0pIOKGkiBEb2NrZXIgRW5naW5lIOKGkiBjb250YWluZXJkIOKGkiBydW5jIOKGkiBjb250YWluZXJgCj4KPiBUd28gaG9wcyBmcm9tIGt1YmVsZXQgdG8gY29udGFpbmVyZDoga3ViZWxldCBjYWxscyBEb2NrZXIgRW5naW5lLCBhbmQgRG9ja2VyIEVuZ2luZSBjYWxscyBjb250YWluZXJkLgoKU2luY2UgRG9ja2VyIDEuMTEgKEFwcmlsIDIwMTYpLCBEb2NrZXIgRW5naW5lIGhhZCBoYW5kZWQgY29udGFpbmVyIGV4ZWN1dGlvbiB0byB0d28gc2VwYXJhdGUgYmluYXJpZXM6IGNvbnRhaW5lcmQgbWFuYWdlcyB0aGUgY29udGFpbmVyIGxpZmVjeWNsZSwgYW5kIHJ1bmMgY3JlYXRlcyB0aGUgY29udGFpbmVyLiBTbyBhZnRlciBLOHMgY2FsbGVkIERvY2tlciwgRG9ja2VyIHN0aWxsIGhhZCB0byBjYWxsIGNvbnRhaW5lcmQuCgpJbiAyMDE4IHRoZSBLdWJlcm5ldGVzIHRlYW0gY29tcGFyZWQgdGhlIHR3byBmdWxsIHBhdGhzLiBXaXRoIDEwNSBwb2RzIG9uIGEgbm9kZSwgY29udGFpbmVyZCAxLjEgd2l0aCBpdHMgYnVpbHQtaW4gQ1JJIHBsdWdpbiByYW4gYWdhaW5zdCBEb2NrZXIgMTguMDMgQ0Ugd2l0aCBkb2NrZXJzaGltLiBUaGUgY29udGFpbmVyZCBwYXRoIGhhZCBsb3dlciBwb2Qgc3RhcnR1cCBsYXRlbmN5LCAzMC44OSUgbG93ZXIga3ViZWxldCBDUFUsIDY4LjEzJSBsb3dlciBjb250YWluZXIgcnVudGltZSBDUFUsIGFuZCAxMS4zMCUgYW5kIDEyLjc4JSBsb3dlciBtZW1vcnkgKFJTUykgZm9yIGt1YmVsZXQgYW5kIHRoZSBydW50aW1lLiBUaGUgcG9zdCBkb2Vzbid0IHNheSB3aGV0aGVyICJjb250YWluZXIgcnVudGltZSIgb24gdGhlIERvY2tlciBzaWRlIG1lYW5zIGRvY2tlcmQgYWxvbmUgb3IgZG9ja2VyZCBwbHVzIHRoZSBjb250YWluZXJkIHVuZGVyIGl0LCBzbyBpdCdzIHVuY2xlYXIgd2hpY2ggcHJvY2Vzc2VzIHRoZSA2OC4xMyUgY29tcGFyZXMuIFRoZSBEb2NrZXIgcGF0aCBoYXMgZG9ja2Vyc2hpbSBhbmQgYWxsIG9mIERvY2tlciBFbmdpbmUgb24gdG9wIG9mIHdoYXQgdGhlIGNvbnRhaW5lcmQgcGF0aCBoYXMsIGFuZCB0aGUgc29mdHdhcmUgdmVyc2lvbnMgZGlmZmVyIHRvby4gVGhlc2UgcGVyY2VudGFnZXMgbWVhc3VyZSB0aGUgZ2FwIGJldHdlZW4gdGhlIHR3byB3aG9sZSBwYXRocy4gVGhlIHBvc3QgZGlkbid0IG1lYXN1cmUgaG93IG11Y2ggQ1BVIGFuZCBtZW1vcnkgZG9ja2Vyc2hpbSBvciBEb2NrZXIgRW5naW5lIHVzZWQgb24gaXRzIG93bi4KCkt1YmVybmV0ZXMnIG93biAyMDIyIHJldHJvc3BlY3RpdmUgc2F5cyB0aGUgc2hpbSAid2FzIG5ldmVyIGludGVuZGVkIHRvIGJlIGEgcGVybWFuZW50IHNvbHV0aW9uIiBhbmQgImludHJvZHVjZWQgYSBsb3Qgb2YgdW5uZWNlc3NhcnkgY29tcGxleGl0eSB0byB0aGUga3ViZWxldCBpdHNlbGYuIiBJdCBzdGF5ZWQgaW4ga3ViZWxldCBmcm9tIDEuNSAoRGVjZW1iZXIgMjAxNikgdG8gMS4yNCAoTWF5IDIwMjIpLCBhYm91dCBmaXZlIGFuZCBhIGhhbGYgeWVhcnMuCgotLS0KCiMjIEN1dHRpbmcgRG9ja2VyIG91dCwgaW4gdGhyZWUgc3RlcHMKCiMjIyBTdGVwIDE6IGNyaS1jb250YWluZXJkIHNraXBzIERvY2tlciAoMjAxNywgY29udGFpbmVyZCAxLjApCgpJZiBEb2NrZXIgRW5naW5lIGp1c3QgaGFuZHMgdGhlIHdvcmsgdG8gY29udGFpbmVyZCwga3ViZWxldCBjb3VsZCB0YWxrIHRvIGNvbnRhaW5lcmQgZGlyZWN0bHkuCgpUaHJvdWdoIDIwMTcsIGVuZ2luZWVycyBmcm9tIEdvb2dsZSwgRG9ja2VyLCBJQk0sIFpURSwgYW5kIFpKVSBidWlsdCBgY3JpLWNvbnRhaW5lcmRgLCBhIHN0YW5kYWxvbmUgZGFlbW9uIHRoYXQgdHJhbnNsYXRlZCBDUkkgY2FsbHMgaW50byBjb250YWluZXJkIGNhbGxzLiBJdHMgZmVhdHVyZS1jb21wbGV0ZSBhbHBoYSBjYW1lIG91dCBvbiBTZXB0ZW1iZXIgMjUsIDIwMTcsIGFuZCBpdCByYW4gb24gY29udGFpbmVyZCAxLjAgKERlY2VtYmVyIDIwMTcpLgoKPiAqKkVyYSAyKio6IERvY2tlciBFbmdpbmUgYnlwYXNzZWQuIEJ1dCBhIG5ldyBkYWVtb24gYWRkZWQuCj4KPiBga3ViZWxldCDihpIgY3JpLWNvbnRhaW5lcmQgKHN0YW5kYWxvbmUgZGFlbW9uKSDihpIgY29udGFpbmVyZCDihpIgcnVuYyDihpIgY29udGFpbmVyYAo+Cj4gU3RpbGwgdHdvIGhvcHMgdG8gY29udGFpbmVyZDsgdGhlIHByb2Nlc3MgaW4gdGhlIG1pZGRsZSBjaGFuZ2VkIGZyb20gRG9ja2VyIEVuZ2luZSB0byBjcmktY29udGFpbmVyZC4KCkRvY2tlciBFbmdpbmUgd2FzIG91dCBvZiB0aGUgcGF0aCBub3csIHdoaWNoIHdhcyBwcm9ncmVzcy4gQnV0IGNyaS1jb250YWluZXJkIGFuZCBjb250YWluZXJkIHdlcmUgc3RpbGwgdHdvIGRhZW1vbnMgdGFsa2luZyBvdmVyIGdSUEM6IG9uZSBtb3JlIHByb2Nlc3MgdG8gZGVwbG95IGFuZCBiYWJ5c2l0LgoKIyMjIFN0ZXAgMjogY29udGFpbmVyZCBhYnNvcmJzIHRoZSB0cmFuc2xhdG9yIChjb250YWluZXJkIDEuMSwgQXByaWwgMjAxOCkKCkluIGNvbnRhaW5lcmQgMS4xLCB0aGUgY3JpLWNvbnRhaW5lcmQgY29kZSB3YXMgcmVmYWN0b3JlZCBpbnRvIGEgQ1JJIHBsdWdpbiwgYnVpbHQgaW50byBjb250YWluZXJkIGFuZCBlbmFibGVkIGJ5IGRlZmF1bHQuIFRoZSBwbHVnaW4gY2FsbHMgY29udGFpbmVyZCB0aHJvdWdoIGRpcmVjdCBmdW5jdGlvbiBjYWxscyBpbnN0ZWFkIG9mIGdSUEMuIFRoZSBzZXBhcmF0ZSBkYWVtb24gd2FzIG5vIGxvbmdlciBuZWVkZWQuCgo+ICoqRXJhIDMqKjogdGhlIENSSSBwbHVnaW4gYW5kIGNvbnRhaW5lcmQgYXJlIG9uZSBwcm9jZXNzLgo+Cj4gYGt1YmVsZXQg4oaSIGNvbnRhaW5lcmQgKGJ1aWx0LWluIENSSSBwbHVnaW4pIOKGkiBydW5jIOKGkiBjb250YWluZXJgCj4KPiBPbmUgaG9wIGZyb20ga3ViZWxldCB0byBjb250YWluZXJkLgoKVGhpcyBpcyB0aGUgcGF0aCBvbiBldmVyeSBjb250YWluZXJkLWJhc2VkIG5vZGUgdG9kYXksIGFuZCB0aGUgQ1JJIHBsdWdpbiBvbiBpdCBpcyBjcmktY29udGFpbmVyZCdzIHJlZmFjdG9yZWQgY29kZS4gSG93IGNvbnRhaW5lcmQgdGhlbiBjcmVhdGVzIHRoZSBjb250YWluZXIgdGhyb3VnaCB0aGUgc2hpbSBhbmQgcnVuYyBpcyBpbiBbSW5zaWRlIGNvbnRhaW5lcmQ6IEhvdyBzaGltIGFuZCBydW5jIEFjdHVhbGx5IFdvcmtdKC92Mi9jb250YWluZXJkLXNoaW0tYW5kLXJ1bmMpLgoKIyMjIFN0ZXAgMzogSzhzIGRlbGV0ZXMgZG9ja2Vyc2hpbSAoSzhzIDEuMjQsIE1heSAyMDIyKQoKS3ViZXJuZXRlcyAxLjIwIChEZWNlbWJlciAyMDIwKSBkZXByZWNhdGVkIGRvY2tlcnNoaW0sIGFuZCAxLjI0IChNYXkgMjAyMikgcmVtb3ZlZCBpdC4ga3ViZWxldCBjb3VsZCBubyBsb25nZXIgdGFsayB0byBEb2NrZXIgRW5naW5lIG9uIGl0cyBvd24uIENsdXN0ZXJzIHN0aWxsIG9uIERvY2tlciBoYWQgdG8gZWl0aGVyIHN3aXRjaCB0byBjb250YWluZXJkIG9yIENSSS1PLCBvciBpbnN0YWxsIGNyaS1kb2NrZXJkIHRvIGtlZXAgRG9ja2VyIGFzIHRoZSBydW50aW1lLiBPbiBOb2RlcyB0aGF0IGRyb3BwZWQgRG9ja2VyLCBjb250YWluZXJzIHJhbiBmaW5lLCBidXQgc2NyaXB0cywgc2V0dGluZ3MgYW5kIHRvb2xzIG9uIHRoZSBOb2RlIHRoYXQgY2FsbGVkIERvY2tlciBkaXJlY3RseSBoYWQgdG8gY2hhbmdlLiBUaGUgS3ViZXJuZXRlcyBtaWdyYXRpb24gcGFnZSAiQ2hlY2sgd2hldGhlciBkb2NrZXJzaGltIHJlbW92YWwgYWZmZWN0cyB5b3UiIGxpc3RzIHRoZXNlOgoKLSBEb2NrZXIgY29tbWFuZHMgc3VjaCBhcyBgZG9ja2VyIHBzYCBvciBgc3lzdGVtY3RsIHJlc3RhcnQgZG9ja2VyLnNlcnZpY2VgLCBydW4gZnJvbSBwcml2aWxlZ2VkIFBvZHMsIE5vZGUgc3RhcnR1cCBzY3JpcHRzLCBvciBtb25pdG9yaW5nIGFuZCBzZWN1cml0eSBhZ2VudHMgaW5zdGFsbGVkIGRpcmVjdGx5IG9uIHRoZSBOb2RlCi0gUHJpdmF0ZSByZWdpc3RyeSBhbmQgaW1hZ2UgbWlycm9yIHNldHRpbmdzIGluIGAvZXRjL2RvY2tlci9kYWVtb24uanNvbmAsIHdoaWNoIGhhdmUgdG8gbW92ZSB0byB0aGUgbmV3IHJ1bnRpbWUncyBjb25maWcKLSBgZG9ja2VyIHBzYCBhbmQgYGRvY2tlciBleGVjYCB1c2VkIHRvIHRyb3VibGVzaG9vdCBvdmVyIFNTSCwgd2hpY2ggbm8gbG9uZ2VyIGxpc3QgYW55IGNvbnRhaW5lcnMKLSBrdWJlbGV0J3MgYC9tZXRyaWNzL2NhZHZpc29yYCwgd2hvc2UgY29udGFpbmVyIG5hbWUgZm9ybWF0IGNoYW5nZXMgd2l0aCB0aGUgcnVudGltZSBhbmQgd2hpY2ggbG9zZXMgYSBzZXQgb2YgZmlsZXN5c3RlbSBtZXRyaWNzCi0gQ0kgdGhhdCBtb3VudHMgdGhlIE5vZGUncyBkb2NrZXIuc29jayBpbnRvIGEgUG9kIHRvIGJ1aWxkIGltYWdlcyB3aXRoIHRoZSBOb2RlJ3MgRG9ja2VyCgoqKkV4YW1wbGU6IENJIG1vdW50aW5nIGRvY2tlci5zb2NrKioKCk9uIGEgTm9kZSB0aGF0IHVzZWQgRG9ja2VyIEVuZ2luZSBhcyBpdHMgcnVudGltZSwgRG9ja2VyIEVuZ2luZSBleHBvc2VkIGAvdmFyL3J1bi9kb2NrZXIuc29ja2AuIFNvbWUgQ0kgc2V0dXBzIHJhbiBidWlsZCBqb2JzIGFzIFBvZHMgaW5zaWRlIHRoZSBjbHVzdGVyIGFuZCBtb3VudGVkIHRoYXQgc29ja2V0IHRvIGJ1aWxkIGltYWdlcyB3aXRoIHRoZSBOb2RlJ3MgRG9ja2VyLiBUaGUgS3ViZXJuZXRlcyBibG9nJ3MgbmFtZSBmb3IgdGhpcyBwYXR0ZXJuIGlzICJEb2NrZXIgaW4gRG9ja2VyIi4KCkEgRG9ja2VyLXJ1bnRpbWUgTm9kZSBoYWQgdHdvIGRhZW1vbnM6Ci0gYERvY2tlciBFbmdpbmVgIOKGkiBgL3Zhci9ydW4vZG9ja2VyLnNvY2tgIOKGkCBDSSBQb2RzIG1vdW50ZWQgdGhpcwotIGBjb250YWluZXJkYCDihpIgYC9ydW4vY29udGFpbmVyZC9jb250YWluZXJkLnNvY2tgIOKGkCBEb2NrZXIgdXNlZCB0aGlzIGludGVybmFsbHkKCkFmdGVyIHRoZSBOb2RlIHN3aXRjaGVkIHRvIGNvbnRhaW5lcmQgYXMgaXRzIHJ1bnRpbWUgKGFuZCBkcm9wcGVkIERvY2tlciBmcm9tIHRoZSBpbWFnZSksIGl0IGhhZCBvbmU6Ci0gYGNvbnRhaW5lcmRgIOKGkiBgL3J1bi9jb250YWluZXJkL2NvbnRhaW5lcmQuc29ja2Ag4oaQIGt1YmVsZXQgdGFsa3MgZGlyZWN0bHkgdG8gdGhpcwotIERvY2tlciBFbmdpbmUg4oaSIGdvbmUKLSBkb2NrZXIuc29jayDihpIgZ29uZQoKY29udGFpbmVyZCBoYXMgaXRzIG93biBzb2NrZXQuIEJ1dCBgZG9ja2VyIGJ1aWxkYCBkb2Vzbid0IHNwZWFrIGNvbnRhaW5lcmQncyBBUEkuIEl0IG9ubHkgdGFsa3MgdG8gRG9ja2VyJ3Mgc29ja2V0LiBEaWZmZXJlbnQgcHJvZ3JhbSwgZGlmZmVyZW50IHByb3RvY29sLgoKPiBgZG9ja2VyIGJ1aWxkYCDihpIgbG9va3MgZm9yIGAvdmFyL3J1bi9kb2NrZXIuc29ja2Ag4oaSIGZpbGUgZG9lc24ndCBleGlzdCDihpIgZmFpbHMKCioqVHdvIHdheXMgb3V0OioqCgoxLiAqKktlZXAgRG9ja2VyIEVuZ2luZSBvbiB0aGUgTm9kZSBhbmQgY29ubmVjdCBrdWJlbGV0IHRvIGl0IHRocm91Z2ggY3JpLWRvY2tlcmQqKiDihpIgZG9ja2VyLnNvY2sgc3RheXMg4oaSIHBpcGVsaW5lIHVuY2hhbmdlZAoyLiAqKlN3aXRjaCB0byBidWlsZGFoKiog4oaSIGJ1aWxkcyB0aGUgaW1hZ2UgZnJvbSBhIERvY2tlcmZpbGUgaW5zaWRlIGEgY29udGFpbmVyIOKGkiBubyBEb2NrZXIgZGFlbW9uLCBubyBzb2NrZXQKClRoZSBLdWJlcm5ldGVzIGRvY2tlcnNoaW0gRkFRIGxpc3RzIGZvdXIgdG9vbHMgdGhhdCBidWlsZCBpbWFnZXMgd2l0aG91dCBEb2NrZXI6IGltZywgYnVpbGRhaCwga2FuaWtvLCBhbmQgYnVpbGRraXQtY2xpLWZvci1rdWJlY3RsLiBBcyBvZiBPY3RvYmVyIDIwMjYsIHRoZSBrYW5pa28gcmVwb3NpdG9yeSB3YXMgYXJjaGl2ZWQgaW4gSnVuZSAyMDI1LCB0aGUgYnVpbGRraXQtY2xpLWZvci1rdWJlY3RsIHJlcG9zaXRvcnkgaXMgYXJjaGl2ZWQgdG9vLCBhbmQgaW1nIHdhcyBsYXN0IHVwZGF0ZWQgaW4gTWF5IDIwMjQuIE9mIHRoZSBmb3VyLCBvbmx5IGJ1aWxkYWggaXMgc3RpbGwgYmVpbmcgdXBkYXRlZC4KCmNyaS1kb2NrZXJkIGtlcHQgcGlwZWxpbmVzIHdvcmtpbmcgZm9yIHRlYW1zIHRoYXQgY291bGRuJ3QgcmV3cml0ZSB0aGVtIG92ZXJuaWdodCwgYW5kIGl0IHN0aWxsIHNoaXBzIG5ldyByZWxlYXNlcyAodjAuNC45IGluIE9jdG9iZXIgMjAyNikuIEJ1dCBpdHMgY2FsbCBjaGFpbiBpcyBsb25nZXI6Cgo+IGBrdWJlbGV0IOKGkiBjcmktZG9ja2VyZCDihpIgRG9ja2VyIEVuZ2luZSDihpIgY29udGFpbmVyZCDihpIgcnVuY2AKClRocmVlIGhvcHMgZnJvbSBrdWJlbGV0IHRvIGNvbnRhaW5lcmQ7IHVzaW5nIGNvbnRhaW5lcmQgZGlyZWN0bHkgdGFrZXMgb25lLgoKIyMjIEFub3RoZXIgcGF0aCBhdCB0aGUgc2FtZSB0aW1lOiBDUkktTwoKV2hpbGUgRG9ja2VyIHdhcyBiZWluZyB0YWtlbiBvdXQgb2YgdGhlIHBhdGgsIFJlZCBIYXQgYnVpbHQgQ1JJLU8gZnJvbSBzY3JhdGNoLiBDUkktTyAxLjAgY2FtZSBvdXQgaW4gT2N0b2JlciAyMDE3LiBQdXJwb3NlLWJ1aWx0IGZvciBLOHMuIE5vIERvY2tlciBsZWdhY3kuIE5vIGltYWdlIGJ1aWxkLiBObyBleHRyYXMuIFNwZWFrcyBDUkkgb24gdG9wLCBhbmQgb24gdGhlIGJvdHRvbSBjYWxscyBydW50aW1lcyB0aGF0IGZvbGxvdyB0aGUgT0NJIChPcGVuIENvbnRhaW5lciBJbml0aWF0aXZlKSBzcGVjLCBzdWNoIGFzIHJ1bmMuIERvZXMgd2hhdCBLOHMgbmVlZHMgYW5kIG5vdGhpbmcgbW9yZS4KCj4gYGt1YmVsZXQg4oaSIENSSS1PIOKGkiBjcnVuIG9yIHJ1bmMg4oaSIGNvbnRhaW5lcmAKPgo+IENSSS1PJ3MgY3VycmVudCBjb25maWcgZGVmYXVsdHMgdG8gY3J1bjsgcnVuYyBjYW4gYmUgY29uZmlndXJlZCBpbnN0ZWFkLgoKT3BlblNoaWZ0IDQgaGFzIHJ1biBvbiBDUkktTyBpbiBwcm9kdWN0aW9uIHNpbmNlIEp1bmUgMjAxOS4gY29udGFpbmVyZCBjYW4gZG8gbW9yZSB0aGluZ3MuIENSSS1PJ3MgcGl0Y2ggaXMgdGhhdCBpdCBzaG91bGRuJ3QgaGF2ZSB0by4KCi0tLQoKIyMgVGhlIHRpbWVsaW5lCgp8IFllYXIgfCBFdmVudCB8CnwtLS18LS0tfAp8IDIwMTQgfCBLdWJlcm5ldGVzIG9wZW4tc291cmNlZC4gRG9ja2VyIGNhbGxzIHdyaXR0ZW4gaW50byBrdWJlbGV0LiBObyBpbnRlcmZhY2UuIENvcmVPUyBhbm5vdW5jZXMgcmt0IChEZWNlbWJlcikgfAp8IDIwMTUgfCBEb2NrZXIgZG9uYXRlcyBydW5jIHRvIHRoZSBuZXcgT3BlbiBDb250YWluZXIgSW5pdGlhdGl2ZSAoSnVuZSkuIEt1YmVybmV0ZXMgMS4wIChKdWx5KSB8CnwgMjAxNiB8IERvY2tlciAxLjExIHJ1bnMgY29udGFpbmVycyB0aHJvdWdoIGNvbnRhaW5lcmQgYW5kIHJ1bmMgKEFwcmlsKS4gSzhzIDEuMyBhZGRzIHJrdCBpbnNpZGUga3ViZWxldCAoSnVseSkuIEs4cyAxLjUgaW50cm9kdWNlcyBDUkkgYXMgYWxwaGEsIHdpdGggZG9ja2Vyc2hpbSBidWlsdCBpbiAoRGVjZW1iZXIpIHwKfCAyMDE3IHwgRG9ja2VyIGRvbmF0ZXMgY29udGFpbmVyZCB0byBDTkNGIChNYXJjaCkuIGNyaS1jb250YWluZXJkIGFscGhhIChTZXB0ZW1iZXIpLiBDUkktTyAxLjAgKE9jdG9iZXIpLiBjb250YWluZXJkIDEuMCAoRGVjZW1iZXIpIHwKfCAyMDE4IHwgUmVkIEhhdCBhbm5vdW5jZXMgaXQgaXMgYWNxdWlyaW5nIENvcmVPUyAoSmFudWFyeSkuIGNvbnRhaW5lcmQgMS4xIHdpdGggdGhlIENSSSBwbHVnaW4gYnVpbHQgaW4gKEFwcmlsKS4gRG9ja2VyIGZvciBNYWMgc2hpcHMgS3ViZXJuZXRlcyBpbiBpdHMgc3RhYmxlIGNoYW5uZWwgKEp1bHkpIHwKfCAyMDE5IHwgY29udGFpbmVyZCBncmFkdWF0ZXMgZnJvbSBDTkNGIChGZWJydWFyeSkuIE9wZW5TaGlmdCA0IHJ1bnMgb24gQ1JJLU8gKEp1bmUpLiBDTkNGIGFyY2hpdmVzIHJrdCAoQXVndXN0KS4gRG9ja2VyIHNlbGxzIGl0cyBlbnRlcnByaXNlIGJ1c2luZXNzIHRvIE1pcmFudGlzIChOb3ZlbWJlcikgfAp8IDIwMjAgfCBLOHMgMS4yMCBkZXByZWNhdGVzIGRvY2tlcnNoaW0gKERlY2VtYmVyKS4gVGhlIGFubm91bmNlbWVudCBjYXVzZWQgZW5vdWdoIHBhbmljIHRoYXQgS3ViZXJuZXRlcyBwdWJsaXNoZWQgIkRvbid0IFBhbmljOiBLdWJlcm5ldGVzIGFuZCBEb2NrZXIiIHwKfCAyMDIxIHwgTWlyYW50aXMgYW5ub3VuY2VzIGNyaS1kb2NrZXJkIChBcHJpbCkgfAp8IDIwMjIgfCBLOHMgMS4yNCByZW1vdmVzIGRvY2tlcnNoaW0gKE1heSkuIE9uIE5vZGVzIHRoYXQgZHJvcCBEb2NrZXIgRW5naW5lLCBzY3JpcHRzLCBzZXR0aW5ncyBhbmQgQ0kgam9icyB0aGF0IHVzZWQgRG9ja2VyIGRpcmVjdGx5IGhhdmUgdG8gY2hhbmdlIHwKCkVpZ2h0IHllYXJzIGZyb20ga3ViZWxldCBjYWxsaW5nIERvY2tlciBkaXJlY3RseSBpbiAyMDE0IHRvIGt1YmVsZXQgaG9sZGluZyBubyBEb2NrZXIgY29kZSBhdCBhbGwgaW4gMjAyMi4KCi0tLQoKIyMgV2hlcmUgRG9ja2VyIGVuZGVkIHVwCgpJbiBOb3ZlbWJlciAyMDE5IERvY2tlciBzb2xkIGl0cyBlbnRlcnByaXNlIGJ1c2luZXNzIHRvIE1pcmFudGlzLiBPbiBOb3ZlbWJlciAxMywgRG9ja2VyIGFubm91bmNlZCAidGhlIG5leHQgY2hhcHRlciBpbiB0aGUgRG9ja2VyIHN0b3J5LCBvbmUgdGhhdCdzIGZvY3VzZWQgb24gZGV2ZWxvcGVycy4iIFRoZSBmb2N1cyBtb3ZlZCB0byB0aGUgb3RoZXIgZW5kIG9mIHRoZSBwaXBlbGluZTogKipidWlsZGluZyBpbWFnZXMsIG5vdCBydW5uaW5nIHRoZW0qKi4KCnwgV2hhdCBEb2NrZXIga2VwdCB8IFdoYXQgRG9ja2VyIGxvc3QgfAp8LS0tfC0tLXwKfCBEb2NrZXIgRGVza3RvcCAoZGV2ZWxvcGVyIGxvY2FsIGVudmlyb25tZW50KSB8IFJ1bnRpbWUgb24gSzhzIGNsdXN0ZXJzIHwKfCBEb2NrZXIgSHViIChpbWFnZSByZWdpc3RyeSkgfCBEb2NrZXIgRW50ZXJwcmlzZSAoc29sZCB0byBNaXJhbnRpcyBpbiAyMDE5OyBTd2FybSBtb2RlIGl0c2VsZiBzdGlsbCBzaGlwcyBpbiBEb2NrZXIgRW5naW5lKSB8CnwgYGRvY2tlciBidWlsZGAgKGltYWdlIGNvbnN0cnVjdGlvbikgfCBEb2NrZXIgRW5naW5lIGFzIHRoZSBydW50aW1lIG1vc3QgSzhzIGNsdXN0ZXJzIHVzZWQgfAp8IERvY2tlciBDb21wb3NlIChsb2NhbCBtdWx0aS1jb250YWluZXIgZGV2KSB8IGRvY2tlcnNoaW0gKEs4cyBkZWxldGVkIGl0LCBNaXJhbnRpcyBwaWNrZWQgdXAgdGhlIHBpZWNlcykgfAoKVGhlIGN1cnJlbnQgc3RhdGUgb2YgdGhlIGluZHVzdHJ5OgoKYGBgCkRldmVsb3BlciBsYXB0b3A6CiAgZG9ja2VyIGJ1aWxkIOKGkiBidWlsZCBpbWFnZQogIGRvY2tlciBwdXNoIOKGkiBwdXNoIHRvIHJlZ2lzdHJ5CgpQcm9kdWN0aW9uIEs4cyBjbHVzdGVyOgogIGt1YmVsZXQg4oaSIGNvbnRhaW5lcmQg4oaSIHJ1bmMg4oaSIGNvbnRhaW5lcgogIChObyBEb2NrZXIgYW55d2hlcmUgaW4gdGhpcyBwYXRoLikKYGBgCgojIyMgRG9ja2VyIGRvbmF0ZWQgaXRzIGNvcmUKCkRvY2tlciBkb25hdGVkIHJ1bmMgdG8gdGhlIE9DSSBpbiAyMDE1IGFuZCBjb250YWluZXJkIHRvIENOQ0YgaW4gMjAxNy4gVGhhdCBzb3VuZHMgbGlrZSBnaXZpbmcgYXdheSB0aGUgY3Jvd24gamV3ZWxzLiBBdCBjb250YWluZXJkJ3MgQ05DRiBncmFkdWF0aW9uIGluIDIwMTksIE1pY2hhZWwgQ3Jvc2J5LCBhIGNvbnRhaW5lcmQgbWFpbnRhaW5lciBhbmQgRG9ja2VyIGVuZ2luZWVyLCBkZXNjcmliZWQgdGhlIGdvYWwgYXMgInRvIHNoYXJlIGEgcm9idXN0IGFuZCBleHRlbnNpYmxlIHJ1bnRpbWUuIgoKVG9kYXkgS3ViZXJuZXRlcyBub2RlcyBydW4gY29udGFpbmVyZCBkaXJlY3RseSwgRG9ja2VyIEVuZ2luZSBydW5zIG9uIGNvbnRhaW5lcmQgdG9vLCBhbmQgQ05DRiBob3N0cyBjb250YWluZXJkLgoKLS0tCgojIyBSZWZlcmVuY2VzCgotIFtLOHMgb2ZmaWNpYWw6IENvbnRhaW5lciBSdW50aW1lIEludGVyZmFjZSAoQ1JJKV0oaHR0cHM6Ly9rdWJlcm5ldGVzLmlvL2RvY3MvY29uY2VwdHMvYXJjaGl0ZWN0dXJlL2NyaS8pCi0gW0s4cyBibG9nOiBya3RuZXRlcyBicmluZ3Mgcmt0IGNvbnRhaW5lciBlbmdpbmUgdG8gS3ViZXJuZXRlcyAoMjAxNildKGh0dHBzOi8va3ViZXJuZXRlcy5pby9ibG9nLzIwMTYvMDcvcmt0bmV0ZXMtYnJpbmdzLXJrdC1jb250YWluZXItZW5naW5lLXRvLWt1YmVybmV0ZXMvKQotIFtLOHMgYmxvZzogSW50cm9kdWNpbmcgQ1JJICgyMDE2LCBhcmNoaXRlY3R1cmUgZGlhZ3JhbXMpXShodHRwczovL2t1YmVybmV0ZXMuaW8vYmxvZy8yMDE2LzEyL2NvbnRhaW5lci1ydW50aW1lLWludGVyZmFjZS1jcmktaW4ta3ViZXJuZXRlcy8pCi0gW0s4cyBibG9nOiBDb250YWluZXJkIEJyaW5ncyBNb3JlIENvbnRhaW5lciBSdW50aW1lIE9wdGlvbnMgZm9yIEt1YmVybmV0ZXMgKDIwMTcpXShodHRwczovL2t1YmVybmV0ZXMuaW8vYmxvZy8yMDE3LzExL2NvbnRhaW5lcmQtY29udGFpbmVyLXJ1bnRpbWUtb3B0aW9ucy1rdWJlcm5ldGVzLykKLSBbSzhzIGJsb2c6IEt1YmVybmV0ZXMgQ29udGFpbmVyZCBJbnRlZ3JhdGlvbiBHb2VzIEdBICgyMDE4LCBiZW5jaG1hcmtzKV0oaHR0cHM6Ly9rdWJlcm5ldGVzLmlvL2Jsb2cvMjAxOC8wNS8yNC9rdWJlcm5ldGVzLWNvbnRhaW5lcmQtaW50ZWdyYXRpb24tZ29lcy1nYS8pCi0gW0s4cyBibG9nOiBEb24ndCBQYW5pYyDigJQgS3ViZXJuZXRlcyBhbmQgRG9ja2VyICgyMDIwKV0oaHR0cHM6Ly9rdWJlcm5ldGVzLmlvL2Jsb2cvMjAyMC8xMi8wMi9kb250LXBhbmljLWt1YmVybmV0ZXMtYW5kLWRvY2tlci8pCi0gW0s4cyBibG9nOiBEb2NrZXJzaGltIFJlbW92YWwgRkFRICgyMDIyKV0oaHR0cHM6Ly9rdWJlcm5ldGVzLmlvL2Jsb2cvMjAyMi8wMi8xNy9kb2NrZXJzaGltLWZhcS8pCi0gW0s4cyBibG9nOiBEb2NrZXJzaGltIEhpc3RvcmljYWwgQ29udGV4dCAoMjAyMiwgZnVsbCBzdG9yeSldKGh0dHBzOi8va3ViZXJuZXRlcy5pby9ibG9nLzIwMjIvMDUvMDMvZG9ja2Vyc2hpbS1oaXN0b3JpY2FsLWNvbnRleHQvKQotIFtLOHMgZG9jczogQ2hlY2sgd2hldGhlciBkb2NrZXJzaGltIHJlbW92YWwgYWZmZWN0cyB5b3VdKGh0dHBzOi8va3ViZXJuZXRlcy5pby9kb2NzL3Rhc2tzL2FkbWluaXN0ZXItY2x1c3Rlci9taWdyYXRpbmctZnJvbS1kb2NrZXJzaGltL2NoZWNrLWlmLWRvY2tlcnNoaW0tcmVtb3ZhbC1hZmZlY3RzLXlvdS8pCi0gW01pcmFudGlzOiBUaGUgRnV0dXJlIG9mIERvY2tlcnNoaW0gaXMgY3JpLWRvY2tlcmQgKDIwMjEpXShodHRwczovL3d3dy5taXJhbnRpcy5jb20vYmxvZy90aGUtZnV0dXJlLW9mLWRvY2tlcnNoaW0taXMtY3JpLWRvY2tlcmQvKQotIFtDTkNGOiBjb250YWluZXJkIGdyYWR1YXRpb24gKDIwMTkpXShodHRwczovL3d3dy5jbmNmLmlvL2Fubm91bmNlbWVudHMvMjAxOS8wMi8yOC9jbmNmLWFubm91bmNlcy1jb250YWluZXJkLWdyYWR1YXRpb24vKQotIFtDTkNGOiBhcmNoaXZpbmcgcmt0ICgyMDE5KV0oaHR0cHM6Ly93d3cuY25jZi5pby9ibG9nLzIwMTkvMDgvMTYvY25jZi1hcmNoaXZlcy10aGUtcmt0LXByb2plY3QvKQotIFtEb2NrZXI6IFRoZSBuZXh0IGNoYXB0ZXIgKDIwMTkpXShodHRwczovL3d3dy5kb2NrZXIuY29tL2Jsb2cvZG9ja2VyLW5leHQtY2hhcHRlci1hZHZhbmNpbmctZGV2ZWxvcGVyLXdvcmtmbG93cy1mb3ItbW9kZXJuLWFwcHMvKQotIFtBbGliYWJhIENsb3VkOiBDb250YWluZXIgUnVudGltZSBldm9sdXRpb24gKGJlZm9yZS9hZnRlciBhcmNoaXRlY3R1cmUgZGlhZ3JhbXMpXShodHRwczovL3d3dy5hbGliYWJhY2xvdWQuY29tL2Jsb2cvYS1kaXNjdXNzaW9uLW9uLWNvbnRhaW5lci1ydW50aW1lLS0tc3RhcnRpbmctd2l0aC1kb2NrZXJzaGltLWJlaW5nLWRlbGV0ZWQtYnkta3ViZXJuZXRlc182MDAxMTgpCi0gW0s4cyBvZmZpY2lhbDogQ29udGFpbmVyIFJ1bnRpbWVzIHNldHVwIGd1aWRlXShodHRwczovL2t1YmVybmV0ZXMuaW8vZG9jcy9zZXR1cC9wcm9kdWN0aW9uLWVudmlyb25tZW50L2NvbnRhaW5lci1ydW50aW1lcy8pCg==17:T4949,<p>Kubernetes 以前少不了 Docker，現在不用了。從 1.5（2016 年 12 月）到 1.24（2022 年 5 月），Docker 才完全離開 kubelet 的呼叫路徑。這段期間出現過兩個轉接層。</p>
+<p>第一個是 dockershim，Kubernetes 把它寫在 kubelet 裡，讓 kubelet 能接上 Docker。1.20（2020 年 12 月）宣布 dockershim 要淘汰之後，Mirantis 在 2021 年 4 月宣布把這份程式碼搬到新的 repo，改名 cri-dockerd 繼續維護。到了 1.24 真的把 dockershim 從 Kubernetes 刪掉時，還要用 Docker 的 cluster 就改接 cri-dockerd。</p>
+<p>第二個是 cri-containerd，讓 kubelet 能直接接上 containerd。到了 containerd 1.1 版，cri-containerd 的程式碼改成內建在 containerd 裡的 plugin，就是現在 kubelet 透過 CRI（Container Runtime Interface）呼叫的那一段。</p>
+<hr>
+<h2>CRI 出現之前，Docker 為什麼寫死在 kubelet 裡</h2>
+<p>Kubernetes 在 2014 年開源，那時候講 container，大多就是指 Docker。Kubernetes 團隊後來回顧時寫道：「當時其實沒有太多別的選擇，而 Docker 是操作 container 的主流工具。」所以 kubelet 直接呼叫 Docker API，中間沒有抽象層，也沒有 interface。kubelet 呼叫 Docker，就跟一般程式呼叫 <code>console.log</code> 一樣直接。</p>
+<p>這樣做沒什麼問題，因為 Kubernetes 當時只支援 Docker 這一種 runtime。只有一種實作的話，何必先做一層抽象呢？</p>
+<hr>
+<h2>rkt 出現，Kubernetes 定義 CRI</h2>
+<p>2014 年 12 月，CoreOS 發表了 rkt（念作 rocket）。它是另一個 container runtime，架構跟 Docker 不一樣，1.0 在 2016 年 2 月釋出。CoreOS 希望它能跑在 Kubernetes 底下。</p>
+<p>要支援 rkt，就得在 kubelet 裡再寫一套 runtime 呼叫，而 Kubernetes 1.3（2016 年 7 月）也真的這樣做了，這個專案的暱稱叫 rktnetes。於是 Docker 跟 rkt 都透過一個「內部的、隨時會變動的 interface」直接接進 kubelet，Kubernetes 團隊說這種整合方式「帶來很重的維護負擔」。要是再來第三個 runtime，就得再寫第三套。</p>
+<p>有了兩種實作之後，Kubernetes 就定義了一個 interface。Kubernetes 1.5（2016 年 12 月）推出 <strong>CRI</strong>（Container Runtime Interface），狀態是 alpha，底層是 gRPC API。kubelet 只講 CRI，任何實作了 CRI 的 runtime 都能接上來，kubelet 裡不必再替每個 runtime 寫專屬的程式碼。</p>
+<p>1.5 的公告列出當時正在實作 CRI 的專案，有 cri-o、rktlet（給 rkt 用的）、frakti（跑在 VM 上的 runtime），還有內建在 kubelet 裡的 Docker CRI shim。containerd 的 CRI 實作要到 2017 年才出現。</p>
+<p>rkt 促成了 CRI，可是 rkt 本身後來沒落了。Red Hat 在 2018 年 1 月宣布收購 CoreOS，而 Red Hat 那時已經在做 CRI-O。CNCF 在 2019 年 8 月把 rkt 封存。</p>
+<hr>
+<h2>Docker Engine 一直沒有支援 CRI</h2>
+<p>Docker 自己也有 orchestrator，叫 <strong>Swarm</strong>，做的事跟 Kubernetes 一樣，介面比較簡單。下 <code>docker swarm init</code> 就有一個 cluster，下 <code>docker service scale web=5</code> 就有五個 replica，不用寫 CRD，也不用 etcd。</p>
+<p>Docker Engine 從來沒有實作 CRI，到 2026 年 10 月也還是只講 Docker 自己的 API。Kubernetes 團隊 2022 年的回顧寫道：「Docker Engine 被當成 container runtime 使用的歷史比 CRI 還早，而且 Docker Engine 跟 CRI 不相容。」找不到第一手的資料說明 Docker 一直沒加上 CRI endpoint 的原因。</p>
+<p>不過 Kubernetes 推出 CRI 的同一版，就自己附上了 Docker 的 shim，所以 Docker 的使用者從來不必等 Docker 官方做一個。另外，2017 年替 containerd 做 CRI 支援的工程師裡，也有 Docker 的人（見下面的第一步）。</p>
+<hr>
+<h2>Kubernetes 自己寫了 dockershim</h2>
+<p>Kubernetes 不可能放掉 Docker，因為大部分 cluster 都跑在 Docker 上。</p>
+<p>所以同樣在 1.5，kubelet 內建了一個給 Docker 用的 CRI shim，叫 <code>dockershim</code>，負責把 CRI 呼叫轉成 Docker API 呼叫。1.5 的公告把它叫做「第一步」，也就是「用 CRI 把 Docker 重新接回 kubelet」。dockershim 放在 Kubernetes 的程式碼裡，由 Kubernetes 維護，CRI 每改一次，dockershim 也得跟著改。</p>
+<p>這篇說的 hop，是指一次跨 process 的呼叫。dockershim 編譯在 kubelet 裡，跟 kubelet 是同一個 process，所以 kubelet 呼叫 dockershim 不算一個 hop。</p>
+<blockquote>
+<p><strong>階段 0</strong>（2014–2016）：kubelet 裡直接寫 Docker 的呼叫（1.3 起還有 rkt 的）。沒有 interface。</p>
+<p><strong>階段 1</strong>（1.5，2016 年 12 月起）：有了 CRI，但 Docker Engine 不支援，Kubernetes 就在 kubelet 裡附上 dockershim。</p>
+<p><code>kubelet（含 dockershim）→ Docker Engine → containerd → runc → container</code></p>
+<p>從 kubelet 到 containerd 要兩個 hop：kubelet 呼叫 Docker Engine，Docker Engine 再呼叫 containerd。</p>
+</blockquote>
+<p>Docker Engine 自己從 1.11（2016 年 4 月）起，就把執行 container 的工作拆給 containerd 跟 runc 這兩個獨立的 binary，containerd 管 container 的生命週期，runc 負責建立 container。所以 Kubernetes 呼叫 Docker 之後，Docker 還要再去呼叫 containerd。</p>
+<p>Kubernetes 團隊在 2018 年的部落格裡比較過兩條完整的路徑。一台 node 上跑 105 個 Pod，一邊是內建 CRI plugin 的 containerd 1.1，另一邊是 Docker 18.03 CE 加 dockershim。containerd 這條路的 Pod 啟動延遲比較低，kubelet 的 CPU 用量少 30.89%，container runtime 的 CPU 用量少 68.13%，記憶體（RSS）則是 kubelet 少 11.30%、container runtime 少 12.78%。</p>
+<p>這些百分比是兩條路徑整體的差距。Docker 那條路多了 dockershim 跟整個 Docker Engine，兩邊的軟體版本也不同，而那篇部落格沒有把各層分開量，所以這些差距不能全算在 dockershim 或 Docker Engine 其中一個頭上。原文也沒寫 Docker 那邊的「container runtime」算進哪些 process，可能只有 dockerd，也可能連底下的 containerd 一起算。</p>
+<p>Kubernetes 2022 年的回顧說，這個 shim「從來就不打算當成永久的解法」，而且「替 kubelet 本身帶來很多不必要的複雜度」。它從 1.5（2016 年 12 月）一直留到 1.24（2022 年 5 月），大約五年半。</p>
+<hr>
+<h2>分三步把 Docker 拿掉</h2>
+<h3>第一步：cri-containerd 跳過 Docker（2017，containerd 1.0）</h3>
+<p>既然 Docker Engine 只是把工作轉交給 containerd，kubelet 大可直接呼叫 containerd。</p>
+<p>2017 年，Google、Docker、IBM、ZTE 跟浙江大學的工程師一起做了 <code>cri-containerd</code>。它是一個獨立的 daemon，負責把 CRI 呼叫轉成 containerd 的呼叫，功能完整的 alpha 版在 2017 年 9 月 25 日釋出，搭配 containerd 1.0（2017 年 12 月）使用。</p>
+<blockquote>
+<p><strong>階段 2</strong>：繞過了 Docker Engine，但多了一個 daemon。</p>
+<p><code>kubelet → cri-containerd（獨立 daemon）→ containerd → runc → container</code></p>
+<p>到 containerd 一樣是兩個 hop，只是中間那個 process 從 Docker Engine 換成了 cri-containerd。</p>
+</blockquote>
+<p>Docker Engine 從路徑上消失，這算是進步。可是 cri-containerd 跟 containerd 還是兩個透過 gRPC 溝通的 daemon，部署跟維運都得多顧一個 process。</p>
+<h3>第二步：containerd 把轉接層併進自己（containerd 1.1，2018 年 4 月）</h3>
+<p>containerd 1.1 把 cri-containerd 的程式碼重構成一個 CRI plugin，直接內建在 containerd 裡，預設就開啟。plugin 用一般的函式呼叫操作 containerd，不再走 gRPC，那個獨立的 daemon 也就不需要了。</p>
+<blockquote>
+<p><strong>階段 3</strong>：CRI plugin 跟 containerd 是同一個 process。</p>
+<p><code>kubelet → containerd（內建 CRI plugin）→ runc → container</code></p>
+<p>kubelet 一個 hop 就到 containerd。</p>
+</blockquote>
+<p>現在每一台用 containerd 的 node 都走這條路，路上的 CRI plugin 就是 cri-containerd 重構後的程式碼。containerd 收到呼叫之後，怎麼透過 shim 跟 runc 把 container 建出來，寫在<a href="/v2/containerd-shim-and-runc">〈Inside containerd: How shim and runc Actually Work〉</a>。</p>
+<h3>第三步：Kubernetes 刪掉 dockershim（1.24，2022 年 5 月）</h3>
+<p>Kubernetes 1.20（2020 年 12 月）把 dockershim 標成 deprecated，1.24（2022 年 5 月）正式移除。kubelet 從此不能自己接 Docker Engine。還在用 Docker 的 cluster 要嘛換成 containerd 或 CRI-O，要嘛另外裝 cri-dockerd，讓 Docker 繼續當 runtime。</p>
+<p>換掉 Docker 的 node 上，container 照常執行，但 node 上直接呼叫 Docker 的 script、設定跟工具都得跟著改。Kubernetes 的遷移文件〈Check whether dockershim removal affects you〉列了這些：</p>
+<ul>
+<li>在 privileged Pod 裡、node 的開機 script 裡，或是直接裝在 node 上的 monitoring、security agent 裡，執行 <code>docker ps</code>、<code>systemctl restart docker.service</code> 這類 Docker 指令</li>
+<li>寫在 <code>/etc/docker/daemon.json</code> 的 private registry、image mirror 設定，要搬到新 runtime 的設定檔</li>
+<li>SSH 上 node 排錯時用的 <code>docker ps</code>、<code>docker exec</code>，換掉之後列不出 container</li>
+<li>kubelet <code>/metrics/cadvisor</code> 的 container 名稱格式跟著 runtime 變了，檔案系統相關的 metrics 也少了一批</li>
+<li>把 node 上的 docker.sock mount 進 Pod，借 node 的 Docker 來 build image 的 CI</li>
+</ul>
+<p><strong>例子：CI mount 的 docker.sock</strong></p>
+<p>在用 Docker Engine 當 runtime 的 node 上，Docker Engine 會開一個 <code>/var/run/docker.sock</code>。有些 CI 會把 build job 當成 Pod 跑在 cluster 裡，再把這個 socket mount 進去，借 node 上的 Docker 來 build image。Kubernetes 的部落格把這種做法叫 Docker in Docker。</p>
+<p>用 Docker 當 runtime 的 node 上有兩個 daemon：</p>
+<ul>
+<li><code>Docker Engine</code> → <code>/var/run/docker.sock</code> ← CI 的 Pod mount 的是這個</li>
+<li><code>containerd</code> → <code>/run/containerd/containerd.sock</code> ← Docker 內部用這個</li>
+</ul>
+<p>node 改用 containerd 當 runtime、node image 也拿掉 Docker 之後，就只剩一個：</p>
+<ul>
+<li><code>containerd</code> → <code>/run/containerd/containerd.sock</code> ← kubelet 直接呼叫這個</li>
+<li>Docker Engine → 沒了</li>
+<li>docker.sock → 沒了</li>
+</ul>
+<p>containerd 有自己的 socket，可是 <code>docker build</code> 不會講 containerd 的 API，它只認 Docker 的 socket。這是兩個不同的程式，協定也不一樣。</p>
+<blockquote>
+<p><code>docker build</code> → 找 <code>/var/run/docker.sock</code> → 檔案不存在 → 失敗</p>
+</blockquote>
+<p><strong>有兩種改法：</strong></p>
+<ol>
+<li><strong>node 上留著 Docker Engine，再用 cri-dockerd 把 kubelet 接到它</strong> → docker.sock 還在 → pipeline 不用改</li>
+<li><strong>改用 buildah</strong> → 在 container 裡照著 Dockerfile build image → 不需要 Docker daemon，也不需要 socket</li>
+</ol>
+<p>Kubernetes 的 dockershim FAQ 列了四個不用 Docker 就能 build image 的工具：img、buildah、kaniko 跟 buildkit-cli-for-kubectl。到 2026 年 10 月，kaniko 的 repo 在 2025 年 6 月封存了，buildkit-cli-for-kubectl 的 repo 也封存了，img 最後一次更新是 2024 年 5 月，四個裡還在持續更新的只有 buildah。</p>
+<p>cri-dockerd 讓來不及改 pipeline 的團隊可以先繼續用下去，到 2026 年 10 月還在發新版（v0.4.9）。不過它的呼叫鏈比較長：</p>
+<blockquote>
+<p><code>kubelet → cri-dockerd → Docker Engine → containerd → runc</code></p>
+</blockquote>
+<p>從 kubelet 到 containerd 要三個 hop，直接用 containerd 只要一個。</p>
+<h3>同一段時間的另一條路：CRI-O</h3>
+<p>在 Docker 一步步被拿出路徑的同時，Red Hat 從零開始做了 CRI-O，1.0 在 2017 年 10 月釋出。CRI-O 專門為 Kubernetes 設計，沒有 Docker 的歷史包袱，不負責 build image，也沒有其他附加功能。它對上接 CRI，對下呼叫符合 OCI（Open Container Initiative）規格的 runtime，例如 runc。</p>
+<blockquote>
+<p><code>kubelet → CRI-O → crun 或 runc → container</code></p>
+<p>CRI-O 現在的設定檔預設用 crun，也可以改成 runc。</p>
+</blockquote>
+<p>OpenShift 4 從 2019 年 6 月起就在 production 上跑 CRI-O。containerd 能做的事比較多，CRI-O 的主張是它本來就不需要做那麼多。</p>
+<hr>
+<h2>時間軸</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>年份</th><th>事件</th></tr></thead><tbody><tr><td>2014</td><td>Kubernetes 開源，kubelet 裡直接寫 Docker 的呼叫，沒有 interface。CoreOS 發表 rkt（12 月）</td></tr><tr><td>2015</td><td>Docker 把 runc 捐給剛成立的 Open Container Initiative（6 月）。Kubernetes 1.0（7 月）</td></tr><tr><td>2016</td><td>Docker 1.11 改用 containerd 跟 runc 執行 container（4 月）。Kubernetes 1.3 把 rkt 直接接進 kubelet（7 月）。Kubernetes 1.5 推出 alpha 版 CRI，同時內建 dockershim（12 月）</td></tr><tr><td>2017</td><td>Docker 把 containerd 捐給 CNCF（3 月）。cri-containerd alpha（9 月）。CRI-O 1.0（10 月）。containerd 1.0（12 月）</td></tr><tr><td>2018</td><td>Red Hat 宣布收購 CoreOS（1 月）。containerd 1.1 內建 CRI plugin（4 月）。Docker for Mac 的 stable 版開始附 Kubernetes（7 月）</td></tr><tr><td>2019</td><td>containerd 從 CNCF 畢業（2 月）。OpenShift 4 改跑 CRI-O（6 月）。CNCF 封存 rkt（8 月）。Docker 把企業版業務賣給 Mirantis（11 月）</td></tr><tr><td>2020</td><td>Kubernetes 1.20 把 dockershim 標成 deprecated（12 月）。公告引起不小的恐慌，Kubernetes 只好另外發了一篇〈Don't Panic: Kubernetes and Docker〉</td></tr><tr><td>2021</td><td>Mirantis 宣布 cri-dockerd（4 月）</td></tr><tr><td>2022</td><td>Kubernetes 1.24 移除 dockershim（5 月）。拿掉 Docker Engine 的 node 上，直接用到 Docker 的 script、設定跟 CI job 都要跟著改</td></tr></tbody></table>
+<p>從 2014 年 kubelet 直接呼叫 Docker，到 2022 年 kubelet 裡不再有任何 Docker 的程式碼，前後八年。</p>
+<hr>
+<h2>Docker 後來怎麼了</h2>
+<p>2019 年 11 月，Docker 把企業版業務賣給 Mirantis。11 月 13 日，Docker 宣布「Docker 故事的下一章，重心放在開發者身上」。重心移到 pipeline 的另一端，也就是 <strong>build image</strong>，跑 image 的事交給別人。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Docker 留下的</th><th>Docker 失去的</th></tr></thead><tbody><tr><td>Docker Desktop（開發者的本機環境）</td><td>Kubernetes cluster 上的 runtime 位置</td></tr><tr><td>Docker Hub（image registry）</td><td>Docker Enterprise（2019 年賣給 Mirantis；Swarm mode 本身還留在 Docker Engine 裡）</td></tr><tr><td><code>docker build</code>（build image）</td><td>大多數 Kubernetes cluster 所用 runtime 的身分</td></tr><tr><td>Docker Compose（本機多 container 開發）</td><td>dockershim（Kubernetes 刪掉了，Mirantis 接手）</td></tr></tbody></table>
+<p>業界現在的樣子：</p>
+<pre><code>開發者的筆電：
+  docker build → build image
+  docker push → 推到 registry
+
+Production Kubernetes cluster：
+  kubelet → containerd → runc → container
+  （這條路上完全沒有 Docker。）
+</code></pre>
+<h3>Docker 把核心捐了出去</h3>
+<p>Docker 在 2015 年把 runc 捐給 OCI，2017 年把 containerd 捐給 CNCF，聽起來像是把最值錢的東西送人。2019 年 containerd 從 CNCF 畢業時，containerd 的 maintainer、同時也是 Docker 工程師的 Michael Crosby 說，目標是「分享一個穩固、可擴充的 runtime」。</p>
+<p>現在 Kubernetes 的 node 直接跑 containerd，Docker Engine 也跑在 containerd 上，containerd 則由 CNCF 託管。</p>
+<hr>
+<h2>參考資料</h2>
+<ul>
+<li><a href="https://kubernetes.io/docs/concepts/architecture/cri/">K8s official: Container Runtime Interface (CRI)</a></li>
+<li><a href="https://kubernetes.io/blog/2016/07/rktnetes-brings-rkt-container-engine-to-kubernetes/">K8s blog: rktnetes brings rkt container engine to Kubernetes (2016)</a></li>
+<li><a href="https://kubernetes.io/blog/2016/12/container-runtime-interface-cri-in-kubernetes/">K8s blog: Introducing CRI (2016, architecture diagrams)</a></li>
+<li><a href="https://kubernetes.io/blog/2017/11/containerd-container-runtime-options-kubernetes/">K8s blog: Containerd Brings More Container Runtime Options for Kubernetes (2017)</a></li>
+<li><a href="https://kubernetes.io/blog/2018/05/24/kubernetes-containerd-integration-goes-ga/">K8s blog: Kubernetes Containerd Integration Goes GA (2018, benchmarks)</a></li>
+<li><a href="https://kubernetes.io/blog/2020/12/02/dont-panic-kubernetes-and-docker/">K8s blog: Don't Panic — Kubernetes and Docker (2020)</a></li>
+<li><a href="https://kubernetes.io/blog/2022/02/17/dockershim-faq/">K8s blog: Dockershim Removal FAQ (2022)</a></li>
+<li><a href="https://kubernetes.io/blog/2022/05/03/dockershim-historical-context/">K8s blog: Dockershim Historical Context (2022, full story)</a></li>
+<li><a href="https://kubernetes.io/docs/tasks/administer-cluster/migrating-from-dockershim/check-if-dockershim-removal-affects-you/">K8s docs: Check whether dockershim removal affects you</a></li>
+<li><a href="https://www.mirantis.com/blog/the-future-of-dockershim-is-cri-dockerd/">Mirantis: The Future of Dockershim is cri-dockerd (2021)</a></li>
+<li><a href="https://www.cncf.io/announcements/2019/02/28/cncf-announces-containerd-graduation/">CNCF: containerd graduation (2019)</a></li>
+<li><a href="https://www.cncf.io/blog/2019/08/16/cncf-archives-the-rkt-project/">CNCF: archiving rkt (2019)</a></li>
+<li><a href="https://www.docker.com/blog/docker-next-chapter-advancing-developer-workflows-for-modern-apps/">Docker: The next chapter (2019)</a></li>
+<li><a href="https://www.alibabacloud.com/blog/a-discussion-on-container-runtime---starting-with-dockershim-being-deleted-by-kubernetes_600118">Alibaba Cloud: Container Runtime evolution (before/after architecture diagrams)</a></li>
+<li><a href="https://kubernetes.io/docs/setup/production-environment/container-runtimes/">K8s official: Container Runtimes setup guide</a></li>
+</ul>8:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L13",null,{"htmlContent":"$14","rawContent":"$15","base64Content":"$16","title":"K8s needed Docker. Then it didn't.","createdAt":"$undefined","updatedAt":"2026-10-27T19:10:42.000Z","tags":["k8s","container","infrastructure"],"altHtmlContent":"$17","altTitle":"Kubernetes 從離不開 Docker 到不需要 Docker","currentLang":"en","altLang":"zh","canonicalPath":"$undefined"}]}]}]

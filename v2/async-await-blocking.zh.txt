@@ -1,0 +1,336 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"default"]
+4:I[48350,[],""]
+5:I[11412,[],""]
+6:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+7:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-6e2326ce7d294bfd.js"],"default"]
+9:I[96727,[],"OutletBoundary"]
+b:I[14038,[],"AsyncMetadataOutlet"]
+d:I[96727,[],"ViewportBoundary"]
+f:I[96727,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[92950,[],""]
+:HL["/_next/static/media/8760c4774489e4ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/01cc54cdad670ab3.css","style"]
+:HL["/_next/static/css/d3281eaf3cab9132.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/2aa38e97f45426ef.css","style"]
+0:{"P":null,"b":"nTKE4IB87lEgZWUaCupOc","p":"","c":["","v2","async-await-blocking.zh"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","async-await-blocking.zh","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/01cc54cdad670ab3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/d3281eaf3cab9132.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href=\"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap\";document.head.appendChild(l)})()"}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L7",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","async-await-blocking.zh","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/2aa38e97f45426ef.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+a:null
+c:{"metadata":[["$","title","0",{"children":"await 到底會不會等？會，等的是函式裡的下一行  | jialinhuang"}],["$","meta","1",{"name":"description","content":"教學都說 async/await 是 non-blocking，可是 await 後面那一行明明要等 fetch 回來才跑。兩個說法講的是不同的東西：函式裡的下一行在等，執行緒沒有。"}],["$","link","2",{"rel":"canonical","href":"/v2/async-await-blocking"}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"
+13:I[86734,["7654","static/chunks/7654-2fe46cddc56d2856.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+14:T53ab,<p>我們對 async/await 都有個根深蒂固的印象：它是 non-blocking。可是看這段：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">async</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> getData</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> data</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> fetch</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'/api'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(data); </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// 這行要等</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p><code>console.log(data)</code> 要等 <code>fetch</code> 回來才能跑。這就是在等，等就是 blocking。那為什麼大家還是一直說它 non-blocking？</p>
+<p>因為「non-blocking」講的是執行緒，不是 <code>await</code> 後面那一行。</p>
+<h2>混淆從哪裡來</h2>
+<p>「blocking」這個字常常被拿來用，卻沒講清楚是誰在等。在函式裡面，<code>await</code> 下面的每一行都得等：函式暫停，剩下的程式碼停在那裡。</p>
+<p>可是站到函式外面看：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">getData</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">();</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'This runs right away'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span></code></pre></figure>
+<p><code>console.log</code> 馬上就印出來，它不等 <code>fetch</code>。</p>
+<p>所以 <code>await</code> 只讓它所在的函式等。呼叫端不用等，除非呼叫端自己也寫了 <code>await</code>。</p>
+<h2>巢狀的 await</h2>
+<p>三層函式，每一層都有 <code>await</code>：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> delay</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">ms</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> new</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> Promise</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">((</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">r</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> setTimeout</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(r, ms));</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">async</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> fetchData</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'3. fetchData: before await'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> delay</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">500</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'3. fetchData: after await'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">async</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> process</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'2. process: before await'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> fetchData</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">();</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'2. process: after await'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">async</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> main</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'1. main: before await'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> process</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">();</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'1. main: after await'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">main</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">();</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'0. main thread: immediate'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span></code></pre></figure>
+<p>輸出（縮排是照呼叫的層數加上去的，實際印出來沒有縮排）：</p>
+<pre><code>1. main: before await
+   2. process: before await
+      3. fetchData: before await
+0. main thread: immediate             ← 三層都停在 await，這一行先印
+      3. fetchData: after await       ← 500ms 後，最裡面那層先繼續
+   2. process: after await
+1. main: after await                  ← 最外面那層最後
+</code></pre>
+<p><code>0. main thread: immediate</code> 排在第四行，因為 <code>main</code> 呼叫 <code>process</code>，<code>process</code> 呼叫 <code>fetchData</code>，<code>fetchData</code> 跑到 <code>await delay(500)</code>，執行到這裡才暫停、把控制權交回呼叫端。在真正 await 到東西之前，async function 的執行順序跟一般函式一樣，都是同步往下跑。</p>
+<p>500ms 之後，三層函式各自從 <code>await</code> 的下一行接著跑，順序由內往外，跟 call stack 回傳的順序一樣。<code>main()</code> 呼叫的時候沒有加 <code>await</code>，所以 <code>0. main thread: immediate</code> 不用等這 500ms。</p>
+<p>執行順序一樣，但 async function 跟一般函式還是有兩個地方不同。<code>async function g() { return 42 }</code>，呼叫 <code>g()</code> 拿到 <code>Promise { 42 }</code>，不是 <code>42</code>。例外也不一樣：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">async</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> f</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() { </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">throw</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> new</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> Error</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'boom'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">); }</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">try</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> { </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">f</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(); } </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">catch</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (e) { console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'caught'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">); } </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// 不會印</span></span></code></pre></figure>
+<p><code>f</code> 一進去就丟例外，這時還沒碰到任何 <code>await</code>。既然 <code>f</code> 還在同步跑，呼叫端的 <code>try/catch</code> 照理抓得到。實際上抓不到，因為 async function 裡丟出的例外會變成 rejected promise，不會往外丟給呼叫端。要抓它，得寫 <code>await f()</code> 或 <code>f().catch(...)</code>。這兩個例子都在 Node 22.22.3 跑過。</p>
+<h2>最外層也 await 的話呢？</h2>
+<p>把 <code>main()</code> 改成 <code>await main()</code>：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> main</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">();</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'0. main thread: immediate'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span></code></pre></figure>
+<pre><code>1. main: before await
+   2. process: before await
+      3. fetchData: before await
+      3. fetchData: after await       ← 500ms 後
+   2. process: after await
+1. main: after await
+0. main thread: immediate             ← 最外層也 await 了，這一行跟著等
+</code></pre>
+<p>寫在檔案最外層的 <code>await</code> 只有 ES module（ESM）能用。存成 <code>.mjs</code> 就是 ESM。存成一般的 <code>.js</code>，Node 22.7 起碰到這種語法會自動改用 ESM 跑。存成 <code>.cjs</code> 則一定被當成 CommonJS，會直接丟 <code>SyntaxError: await is only valid in async functions and the top level bodies of modules</code>。</p>
+<h2>所以到底是 blocking 還是 non-blocking？</h2>
+<p>同一個函式裡，<code>await</code> 後面的每一行都要等。如果呼叫端也寫了 <code>await</code>，它也跟著等。一路 <code>await</code> 到最外層的話，連最後那行 <code>console.log</code> 也要等。</p>
+<p>non-blocking 真正的意境是：等待這 500ms 期間，同一條執行緒還能不能去處理其他請求。Node 跑 JavaScript 只有一條執行緒，所有請求都在這條執行緒上輪流執行。下面這個 server 有兩個路徑，<code>/a</code> 要等 500ms，<code>/b</code> 馬上回：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">import</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> http </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">from</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'node:http'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">;</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> wait</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">ms</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> new</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> Promise</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">((</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">r</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> setTimeout</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(r, ms));</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">http.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">createServer</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">async</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">req</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">res</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (req.url </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">===</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> '/a'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> wait</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">500</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);                                  </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// 寫法一：await</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">    // const end = Date.now() + 500;</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">    // while (Date.now() &#x3C; end) {}                    // 寫法二：同步空轉</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> res.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">end</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'a'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  res.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">end</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'b'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}).</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">listen</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">3000</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span></code></pre></figure>
+<p>先打 <code>/a</code>，50ms 後再打 <code>/b</code>，兩種寫法各跑一次（Node 22.22.3）。時間都從打 <code>/a</code> 那一刻算起：</p>
+<pre><code>寫法一 await：      /a 在 510ms 回，/b 在 60ms 回
+寫法二 while 空轉：  /a 在 512ms 回，/b 在 513ms 回
+</code></pre>
+<p>寫法一的 <code>/a</code> 跑到 <code>await</code> 就暫停，執行緒空出來處理 <code>/b</code>。<code>/b</code> 在第 50ms 送出、第 60ms 回來，前後只花 10ms。寫法二的執行緒整整 500ms 都在跑那個 <code>while</code>，<code>/b</code> 只能排在後面，等 <code>/a</code> 回完才輪到它。<code>fs.readFileSync</code> 讀大檔案跟寫法二一樣，檔案讀完之前執行緒都被它佔著。</p>
+<p>500ms 到了，<code>wait(500)</code> 的 promise 有了結果，<code>/a</code> 就從 <code>await</code> 的下一行接著跑，把回應送出去。要是那時執行緒正在處理另一個請求，而那個請求的 handler 裡有寫法二那種 <code>while</code>，<code>/a</code> 也得等它跑完。</p>
+<p>所以 <code>/a</code> 自己確實等了 500ms，<code>/b</code> 卻沒有因為 <code>/a</code> 在等而跟著等，這就是 non-blocking。</p>15:T16ba,
+我們對 async/await 都有個根深蒂固的印象：它是 non-blocking。可是看這段：
+
+```js
+async function getData() {
+  const data = await fetch('/api');
+  console.log(data); // 這行要等
+}
+```
+
+`console.log(data)` 要等 `fetch` 回來才能跑。這就是在等，等就是 blocking。那為什麼大家還是一直說它 non-blocking？
+
+因為「non-blocking」講的是執行緒，不是 `await` 後面那一行。
+
+## 混淆從哪裡來
+
+「blocking」這個字常常被拿來用，卻沒講清楚是誰在等。在函式裡面，`await` 下面的每一行都得等：函式暫停，剩下的程式碼停在那裡。
+
+可是站到函式外面看：
+
+```js
+getData();
+console.log('This runs right away');
+```
+
+`console.log` 馬上就印出來，它不等 `fetch`。
+
+所以 `await` 只讓它所在的函式等。呼叫端不用等，除非呼叫端自己也寫了 `await`。
+
+## 巢狀的 await
+
+三層函式，每一層都有 `await`：
+
+```js
+const delay = (ms) => new Promise((r) => setTimeout(r, ms));
+
+async function fetchData() {
+  console.log('3. fetchData: before await');
+  await delay(500);
+  console.log('3. fetchData: after await');
+}
+
+async function process() {
+  console.log('2. process: before await');
+  await fetchData();
+  console.log('2. process: after await');
+}
+
+async function main() {
+  console.log('1. main: before await');
+  await process();
+  console.log('1. main: after await');
+}
+
+main();
+console.log('0. main thread: immediate');
+```
+
+輸出（縮排是照呼叫的層數加上去的，實際印出來沒有縮排）：
+
+```
+1. main: before await
+   2. process: before await
+      3. fetchData: before await
+0. main thread: immediate             ← 三層都停在 await，這一行先印
+      3. fetchData: after await       ← 500ms 後，最裡面那層先繼續
+   2. process: after await
+1. main: after await                  ← 最外面那層最後
+```
+
+`0. main thread: immediate` 排在第四行，因為 `main` 呼叫 `process`，`process` 呼叫 `fetchData`，`fetchData` 跑到 `await delay(500)`，執行到這裡才暫停、把控制權交回呼叫端。在真正 await 到東西之前，async function 的執行順序跟一般函式一樣，都是同步往下跑。
+
+500ms 之後，三層函式各自從 `await` 的下一行接著跑，順序由內往外，跟 call stack 回傳的順序一樣。`main()` 呼叫的時候沒有加 `await`，所以 `0. main thread: immediate` 不用等這 500ms。
+
+執行順序一樣，但 async function 跟一般函式還是有兩個地方不同。`async function g() { return 42 }`，呼叫 `g()` 拿到 `Promise { 42 }`，不是 `42`。例外也不一樣：
+
+```js
+async function f() { throw new Error('boom'); }
+try { f(); } catch (e) { console.log('caught'); } // 不會印
+```
+
+`f` 一進去就丟例外，這時還沒碰到任何 `await`。既然 `f` 還在同步跑，呼叫端的 `try/catch` 照理抓得到。實際上抓不到，因為 async function 裡丟出的例外會變成 rejected promise，不會往外丟給呼叫端。要抓它，得寫 `await f()` 或 `f().catch(...)`。這兩個例子都在 Node 22.22.3 跑過。
+
+## 最外層也 await 的話呢？
+
+把 `main()` 改成 `await main()`：
+
+```js
+await main();
+console.log('0. main thread: immediate');
+```
+
+```
+1. main: before await
+   2. process: before await
+      3. fetchData: before await
+      3. fetchData: after await       ← 500ms 後
+   2. process: after await
+1. main: after await
+0. main thread: immediate             ← 最外層也 await 了，這一行跟著等
+```
+
+寫在檔案最外層的 `await` 只有 ES module（ESM）能用。存成 `.mjs` 就是 ESM。存成一般的 `.js`，Node 22.7 起碰到這種語法會自動改用 ESM 跑。存成 `.cjs` 則一定被當成 CommonJS，會直接丟 `SyntaxError: await is only valid in async functions and the top level bodies of modules`。
+
+## 所以到底是 blocking 還是 non-blocking？
+
+同一個函式裡，`await` 後面的每一行都要等。如果呼叫端也寫了 `await`，它也跟著等。一路 `await` 到最外層的話，連最後那行 `console.log` 也要等。
+
+non-blocking 真正的意境是：等待這 500ms 期間，同一條執行緒還能不能去處理其他請求。Node 跑 JavaScript 只有一條執行緒，所有請求都在這條執行緒上輪流執行。下面這個 server 有兩個路徑，`/a` 要等 500ms，`/b` 馬上回：
+
+```js
+import http from 'node:http';
+const wait = (ms) => new Promise((r) => setTimeout(r, ms));
+
+http.createServer(async (req, res) => {
+  if (req.url === '/a') {
+    await wait(500);                                  // 寫法一：await
+    // const end = Date.now() + 500;
+    // while (Date.now() < end) {}                    // 寫法二：同步空轉
+    return res.end('a');
+  }
+  res.end('b');
+}).listen(3000);
+```
+
+先打 `/a`，50ms 後再打 `/b`，兩種寫法各跑一次（Node 22.22.3）。時間都從打 `/a` 那一刻算起：
+
+```
+寫法一 await：      /a 在 510ms 回，/b 在 60ms 回
+寫法二 while 空轉：  /a 在 512ms 回，/b 在 513ms 回
+```
+
+寫法一的 `/a` 跑到 `await` 就暫停，執行緒空出來處理 `/b`。`/b` 在第 50ms 送出、第 60ms 回來，前後只花 10ms。寫法二的執行緒整整 500ms 都在跑那個 `while`，`/b` 只能排在後面，等 `/a` 回完才輪到它。`fs.readFileSync` 讀大檔案跟寫法二一樣，檔案讀完之前執行緒都被它佔著。
+
+500ms 到了，`wait(500)` 的 promise 有了結果，`/a` 就從 `await` 的下一行接著跑，把回應送出去。要是那時執行緒正在處理另一個請求，而那個請求的 handler 裡有寫法二那種 `while`，`/a` 也得等它跑完。
+
+所以 `/a` 自己確實等了 500ms，`/b` 卻沒有因為 `/a` 在等而跟著等，這就是 non-blocking。
+16:T2018,LS0tCnRpdGxlOiAiYXdhaXQg5Yiw5bqV5pyD5LiN5pyD562J77yf5pyD77yM562J55qE5piv5Ye95byP6KOh55qE5LiL5LiA6KGMIgpkYXRlOiAyMDI2LTAzLTIxVDIwOjI3OjE3CnRhZ3M6IFtqYXZhc2NyaXB0LCBhc3luY10KZGVzY3JpcHRpb246ICLmlZnlrbjpg73oqqogYXN5bmMvYXdhaXQg5pivIG5vbi1ibG9ja2luZ++8jOWPr+aYryBhd2FpdCDlvozpnaLpgqPkuIDooYzmmI7mmI7opoHnrYkgZmV0Y2gg5Zue5L6G5omN6LeR44CC5YWp5YCL6Kqq5rOV6Kyb55qE5piv5LiN5ZCM55qE5p2x6KW/77ya5Ye95byP6KOh55qE5LiL5LiA6KGM5Zyo562J77yM5Z+36KGM57eS5rKS5pyJ44CCIgotLS0KCuaIkeWAkeWwjSBhc3luYy9hd2FpdCDpg73mnInlgIvmoLnmt7HokoLlm7rnmoTljbDosaHvvJrlroPmmK8gbm9uLWJsb2NraW5n44CC5Y+v5piv55yL6YCZ5q6177yaCgpgYGBqcwphc3luYyBmdW5jdGlvbiBnZXREYXRhKCkgewogIGNvbnN0IGRhdGEgPSBhd2FpdCBmZXRjaCgnL2FwaScpOwogIGNvbnNvbGUubG9nKGRhdGEpOyAvLyDpgJnooYzopoHnrYkKfQpgYGAKCmBjb25zb2xlLmxvZyhkYXRhKWAg6KaB562JIGBmZXRjaGAg5Zue5L6G5omN6IO96LeR44CC6YCZ5bCx5piv5Zyo562J77yM562J5bCx5pivIGJsb2NraW5n44CC6YKj54K65LuA6bq85aSn5a626YKE5piv5LiA55u06Kqq5a6DIG5vbi1ibG9ja2luZ++8nwoK5Zug54K644CMbm9uLWJsb2NraW5n44CN6Kyb55qE5piv5Z+36KGM57eS77yM5LiN5pivIGBhd2FpdGAg5b6M6Z2i6YKj5LiA6KGM44CCCgojIyDmt7fmt4blvp7lk6roo6HkvoYKCuOAjGJsb2NraW5n44CN6YCZ5YCL5a2X5bi45bi46KKr5ou/5L6G55So77yM5Y275rKS6Kyb5riF5qWa5piv6Kqw5Zyo562J44CC5Zyo5Ye95byP6KOh6Z2i77yMYGF3YWl0YCDkuIvpnaLnmoTmr4/kuIDooYzpg73lvpfnrYnvvJrlh73lvI/mmqvlgZzvvIzliankuIvnmoTnqIvlvI/norzlgZzlnKjpgqPoo6HjgIIKCuWPr+aYr+ermeWIsOWHveW8j+Wklumdoueci++8mgoKYGBganMKZ2V0RGF0YSgpOwpjb25zb2xlLmxvZygnVGhpcyBydW5zIHJpZ2h0IGF3YXknKTsKYGBgCgpgY29uc29sZS5sb2dgIOmmrOS4iuWwseWNsOWHuuS+hu+8jOWug+S4jeetiSBgZmV0Y2hg44CCCgrmiYDku6UgYGF3YWl0YCDlj6rorpPlroPmiYDlnKjnmoTlh73lvI/nrYnjgILlkbzlj6vnq6/kuI3nlKjnrYnvvIzpmaTpnZ7lkbzlj6vnq6/oh6rlt7HkuZ/lr6vkuoYgYGF3YWl0YOOAggoKIyMg5bei54uA55qEIGF3YWl0CgrkuInlsaTlh73lvI/vvIzmr4/kuIDlsaTpg73mnIkgYGF3YWl0YO+8mgoKYGBganMKY29uc3QgZGVsYXkgPSAobXMpID0+IG5ldyBQcm9taXNlKChyKSA9PiBzZXRUaW1lb3V0KHIsIG1zKSk7Cgphc3luYyBmdW5jdGlvbiBmZXRjaERhdGEoKSB7CiAgY29uc29sZS5sb2coJzMuIGZldGNoRGF0YTogYmVmb3JlIGF3YWl0Jyk7CiAgYXdhaXQgZGVsYXkoNTAwKTsKICBjb25zb2xlLmxvZygnMy4gZmV0Y2hEYXRhOiBhZnRlciBhd2FpdCcpOwp9Cgphc3luYyBmdW5jdGlvbiBwcm9jZXNzKCkgewogIGNvbnNvbGUubG9nKCcyLiBwcm9jZXNzOiBiZWZvcmUgYXdhaXQnKTsKICBhd2FpdCBmZXRjaERhdGEoKTsKICBjb25zb2xlLmxvZygnMi4gcHJvY2VzczogYWZ0ZXIgYXdhaXQnKTsKfQoKYXN5bmMgZnVuY3Rpb24gbWFpbigpIHsKICBjb25zb2xlLmxvZygnMS4gbWFpbjogYmVmb3JlIGF3YWl0Jyk7CiAgYXdhaXQgcHJvY2VzcygpOwogIGNvbnNvbGUubG9nKCcxLiBtYWluOiBhZnRlciBhd2FpdCcpOwp9CgptYWluKCk7CmNvbnNvbGUubG9nKCcwLiBtYWluIHRocmVhZDogaW1tZWRpYXRlJyk7CmBgYAoK6Ly45Ye677yI57iu5o6S5piv54Wn5ZG85Y+r55qE5bGk5pW45Yqg5LiK5Y6755qE77yM5a+m6Zqb5Y2w5Ye65L6G5rKS5pyJ57iu5o6S77yJ77yaCgpgYGAKMS4gbWFpbjogYmVmb3JlIGF3YWl0CiAgIDIuIHByb2Nlc3M6IGJlZm9yZSBhd2FpdAogICAgICAzLiBmZXRjaERhdGE6IGJlZm9yZSBhd2FpdAowLiBtYWluIHRocmVhZDogaW1tZWRpYXRlICAgICAgICAgICAgIOKGkCDkuInlsaTpg73lgZzlnKggYXdhaXTvvIzpgJnkuIDooYzlhYjljbAKICAgICAgMy4gZmV0Y2hEYXRhOiBhZnRlciBhd2FpdCAgICAgICDihpAgNTAwbXMg5b6M77yM5pyA6KOh6Z2i6YKj5bGk5YWI57m857qMCiAgIDIuIHByb2Nlc3M6IGFmdGVyIGF3YWl0CjEuIG1haW46IGFmdGVyIGF3YWl0ICAgICAgICAgICAgICAgICAg4oaQIOacgOWklumdoumCo+WxpOacgOW+jApgYGAKCmAwLiBtYWluIHRocmVhZDogaW1tZWRpYXRlYCDmjpLlnKjnrKzlm5vooYzvvIzlm6DngrogYG1haW5gIOWRvOWPqyBgcHJvY2Vzc2DvvIxgcHJvY2Vzc2Ag5ZG85Y+rIGBmZXRjaERhdGFg77yMYGZldGNoRGF0YWAg6LeR5YiwIGBhd2FpdCBkZWxheSg1MDApYO+8jOWft+ihjOWIsOmAmeijoeaJjeaaq+WBnOOAgeaKiuaOp+WItuasiuS6pOWbnuWRvOWPq+err+OAguWcqOecn+atoyBhd2FpdCDliLDmnbHopb/kuYvliY3vvIxhc3luYyBmdW5jdGlvbiDnmoTln7fooYzpoIbluo/ot5/kuIDoiKzlh73lvI/kuIDmqKPvvIzpg73mmK/lkIzmraXlvoDkuIvot5HjgIIKCjUwMG1zIOS5i+W+jO+8jOS4ieWxpOWHveW8j+WQhOiHquW+niBgYXdhaXRgIOeahOS4i+S4gOihjOaOpeiRl+i3ke+8jOmghuW6j+eUseWFp+W+gOWklu+8jOi3nyBjYWxsIHN0YWNrIOWbnuWCs+eahOmghuW6j+S4gOaoo+OAgmBtYWluKClgIOWRvOWPq+eahOaZguWAmeaykuacieWKoCBgYXdhaXRg77yM5omA5LulIGAwLiBtYWluIHRocmVhZDogaW1tZWRpYXRlYCDkuI3nlKjnrYnpgJkgNTAwbXPjgIIKCuWft+ihjOmghuW6j+S4gOaoo++8jOS9hiBhc3luYyBmdW5jdGlvbiDot5/kuIDoiKzlh73lvI/pgoTmmK/mnInlhanlgIvlnLDmlrnkuI3lkIzjgIJgYXN5bmMgZnVuY3Rpb24gZygpIHsgcmV0dXJuIDQyIH1g77yM5ZG85Y+rIGBnKClgIOaLv+WIsCBgUHJvbWlzZSB7IDQyIH1g77yM5LiN5pivIGA0MmDjgILkvovlpJbkuZ/kuI3kuIDmqKPvvJoKCmBgYGpzCmFzeW5jIGZ1bmN0aW9uIGYoKSB7IHRocm93IG5ldyBFcnJvcignYm9vbScpOyB9CnRyeSB7IGYoKTsgfSBjYXRjaCAoZSkgeyBjb25zb2xlLmxvZygnY2F1Z2h0Jyk7IH0gLy8g5LiN5pyD5Y2wCmBgYAoKYGZgIOS4gOmAsuWOu+WwseS4n+S+i+Wklu+8jOmAmeaZgumChOaykueisOWIsOS7u+S9lSBgYXdhaXRg44CC5pei54S2IGBmYCDpgoTlnKjlkIzmraXot5HvvIzlkbzlj6vnq6/nmoQgYHRyeS9jYXRjaGAg54Wn55CG5oqT5b6X5Yiw44CC5a+m6Zqb5LiK5oqT5LiN5Yiw77yM5Zug54K6IGFzeW5jIGZ1bmN0aW9uIOijoeS4n+WHuueahOS+i+Wkluacg+iuiuaIkCByZWplY3RlZCBwcm9taXNl77yM5LiN5pyD5b6A5aSW5Lif57Wm5ZG85Y+r56uv44CC6KaB5oqT5a6D77yM5b6X5a+rIGBhd2FpdCBmKClgIOaIliBgZigpLmNhdGNoKC4uLilg44CC6YCZ5YWp5YCL5L6L5a2Q6YO95ZyoIE5vZGUgMjIuMjIuMyDot5HpgY7jgIIKCiMjIOacgOWkluWxpOS5nyBhd2FpdCDnmoToqbHlkaLvvJ8KCuaKiiBgbWFpbigpYCDmlLnmiJAgYGF3YWl0IG1haW4oKWDvvJoKCmBgYGpzCmF3YWl0IG1haW4oKTsKY29uc29sZS5sb2coJzAuIG1haW4gdGhyZWFkOiBpbW1lZGlhdGUnKTsKYGBgCgpgYGAKMS4gbWFpbjogYmVmb3JlIGF3YWl0CiAgIDIuIHByb2Nlc3M6IGJlZm9yZSBhd2FpdAogICAgICAzLiBmZXRjaERhdGE6IGJlZm9yZSBhd2FpdAogICAgICAzLiBmZXRjaERhdGE6IGFmdGVyIGF3YWl0ICAgICAgIOKGkCA1MDBtcyDlvowKICAgMi4gcHJvY2VzczogYWZ0ZXIgYXdhaXQKMS4gbWFpbjogYWZ0ZXIgYXdhaXQKMC4gbWFpbiB0aHJlYWQ6IGltbWVkaWF0ZSAgICAgICAgICAgICDihpAg5pyA5aSW5bGk5LmfIGF3YWl0IOS6hu+8jOmAmeS4gOihjOi3n+iRl+etiQpgYGAKCuWvq+WcqOaqlOahiOacgOWkluWxpOeahCBgYXdhaXRgIOWPquaciSBFUyBtb2R1bGXvvIhFU03vvInog73nlKjjgILlrZjmiJAgYC5tanNgIOWwseaYryBFU03jgILlrZjmiJDkuIDoiKznmoQgYC5qc2DvvIxOb2RlIDIyLjcg6LW356Kw5Yiw6YCZ56iu6Kqe5rOV5pyD6Ieq5YuV5pS555SoIEVTTSDot5HjgILlrZjmiJAgYC5janNgIOWJh+S4gOWumuiiq+eVtuaIkCBDb21tb25KU++8jOacg+ebtOaOpeS4nyBgU3ludGF4RXJyb3I6IGF3YWl0IGlzIG9ubHkgdmFsaWQgaW4gYXN5bmMgZnVuY3Rpb25zIGFuZCB0aGUgdG9wIGxldmVsIGJvZGllcyBvZiBtb2R1bGVzYOOAggoKIyMg5omA5Lul5Yiw5bqV5pivIGJsb2NraW5nIOmChOaYryBub24tYmxvY2tpbmfvvJ8KCuWQjOS4gOWAi+WHveW8j+ijoe+8jGBhd2FpdGAg5b6M6Z2i55qE5q+P5LiA6KGM6YO96KaB562J44CC5aaC5p6c5ZG85Y+r56uv5Lmf5a+r5LqGIGBhd2FpdGDvvIzlroPkuZ/ot5/okZfnrYnjgILkuIDot68gYGF3YWl0YCDliLDmnIDlpJblsaTnmoToqbHvvIzpgKPmnIDlvozpgqPooYwgYGNvbnNvbGUubG9nYCDkuZ/opoHnrYnjgIIKCm5vbi1ibG9ja2luZyDnnJ/mraPnmoTmhI/looPmmK/vvJrnrYnlvoXpgJkgNTAwbXMg5pyf6ZaT77yM5ZCM5LiA5qKd5Z+36KGM57eS6YKE6IO95LiN6IO95Y676JmV55CG5YW25LuW6KuL5rGC44CCTm9kZSDot5EgSmF2YVNjcmlwdCDlj6rmnInkuIDmop3ln7fooYznt5LvvIzmiYDmnInoq4vmsYLpg73lnKjpgJnmop3ln7fooYznt5LkuIrovKrmtYHln7fooYzjgILkuIvpnaLpgJnlgIsgc2VydmVyIOacieWFqeWAi+i3r+W+ke+8jGAvYWAg6KaB562JIDUwMG1z77yMYC9iYCDppqzkuIrlm57vvJoKCmBgYGpzCmltcG9ydCBodHRwIGZyb20gJ25vZGU6aHR0cCc7CmNvbnN0IHdhaXQgPSAobXMpID0+IG5ldyBQcm9taXNlKChyKSA9PiBzZXRUaW1lb3V0KHIsIG1zKSk7CgpodHRwLmNyZWF0ZVNlcnZlcihhc3luYyAocmVxLCByZXMpID0+IHsKICBpZiAocmVxLnVybCA9PT0gJy9hJykgewogICAgYXdhaXQgd2FpdCg1MDApOyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyDlr6vms5XkuIDvvJphd2FpdAogICAgLy8gY29uc3QgZW5kID0gRGF0ZS5ub3coKSArIDUwMDsKICAgIC8vIHdoaWxlIChEYXRlLm5vdygpIDwgZW5kKSB7fSAgICAgICAgICAgICAgICAgICAgLy8g5a+r5rOV5LqM77ya5ZCM5q2l56m66L2JCiAgICByZXR1cm4gcmVzLmVuZCgnYScpOwogIH0KICByZXMuZW5kKCdiJyk7Cn0pLmxpc3RlbigzMDAwKTsKYGBgCgrlhYjmiZMgYC9hYO+8jDUwbXMg5b6M5YaN5omTIGAvYmDvvIzlhannqK7lr6vms5XlkITot5HkuIDmrKHvvIhOb2RlIDIyLjIyLjPvvInjgILmmYLplpPpg73lvp7miZMgYC9hYCDpgqPkuIDliLvnrpfotbfvvJoKCmBgYArlr6vms5XkuIAgYXdhaXTvvJogICAgICAvYSDlnKggNTEwbXMg5Zue77yML2Ig5ZyoIDYwbXMg5ZueCuWvq+azleS6jCB3aGlsZSDnqbrovYnvvJogIC9hIOWcqCA1MTJtcyDlm57vvIwvYiDlnKggNTEzbXMg5ZueCmBgYAoK5a+r5rOV5LiA55qEIGAvYWAg6LeR5YiwIGBhd2FpdGAg5bCx5pqr5YGc77yM5Z+36KGM57eS56m65Ye65L6G6JmV55CGIGAvYmDjgIJgL2JgIOWcqOesrCA1MG1zIOmAgeWHuuOAgeesrCA2MG1zIOWbnuS+hu+8jOWJjeW+jOWPquiKsSAxMG1z44CC5a+r5rOV5LqM55qE5Z+36KGM57eS5pW05pW0IDUwMG1zIOmDveWcqOi3kemCo+WAiyBgd2hpbGVg77yMYC9iYCDlj6rog73mjpLlnKjlvozpnaLvvIznrYkgYC9hYCDlm57lrozmiY3ovKrliLDlroPjgIJgZnMucmVhZEZpbGVTeW5jYCDoroDlpKfmqpTmoYjot5/lr6vms5XkuozkuIDmqKPvvIzmqpTmoYjoroDlrozkuYvliY3ln7fooYznt5Lpg73ooqvlroPkvZTokZfjgIIKCjUwMG1zIOWIsOS6hu+8jGB3YWl0KDUwMClgIOeahCBwcm9taXNlIOacieS6hue1kOaenO+8jGAvYWAg5bCx5b6eIGBhd2FpdGAg55qE5LiL5LiA6KGM5o6l6JGX6LeR77yM5oqK5Zue5oeJ6YCB5Ye65Y6744CC6KaB5piv6YKj5pmC5Z+36KGM57eS5q2j5Zyo6JmV55CG5Y+m5LiA5YCL6KuL5rGC77yM6ICM6YKj5YCL6KuL5rGC55qEIGhhbmRsZXIg6KOh5pyJ5a+r5rOV5LqM6YKj56iuIGB3aGlsZWDvvIxgL2FgIOS5n+W+l+etieWug+i3keWujOOAggoK5omA5LulIGAvYWAg6Ieq5bex56K65a+m562J5LqGIDUwMG1z77yMYC9iYCDljbvmspLmnInlm6DngrogYC9hYCDlnKjnrYnogIzot5/okZfnrYnvvIzpgJnlsLHmmK8gbm9uLWJsb2NraW5n44CCCg==17:T53db,<p>Most of us carry a deep-rooted idea that async/await is non-blocking. But look at this:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">async</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> getData</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> data</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> fetch</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'/api'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(data); </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// this line waits</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p><code>console.log(data)</code> cannot run until <code>fetch</code> finishes. That is waiting. That is blocking. So why does everyone keep saying it's not?</p>
+<p>Because "non-blocking" refers to the thread, not the next line.</p>
+<h2>The confusion</h2>
+<p>The word "blocking" gets used without saying <em>what</em> is being blocked. Inside the function, <code>await</code> absolutely blocks the lines below it. The function pauses and the remaining code waits.</p>
+<p>But step outside:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">getData</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">();</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'This runs right away'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span></code></pre></figure>
+<p><code>console.log</code> fires immediately. It does not wait for <code>fetch</code>. The caller moved on. The main thread kept going.</p>
+<p>So <code>await</code> blocks the function it lives in. It does not block whoever called that function — unless the caller also uses <code>await</code>.</p>
+<h2>Nested await</h2>
+<p>Three layers, each with <code>await</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> delay</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">ms</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> new</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> Promise</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">((</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">r</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> setTimeout</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(r, ms));</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">async</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> fetchData</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'3. fetchData: before await'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> delay</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">500</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'3. fetchData: after await'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">async</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> process</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'2. process: before await'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> fetchData</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">();</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'2. process: after await'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">async</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> main</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'1. main: before await'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> process</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">();</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'1. main: after await'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">main</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">();</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'0. main thread: immediate'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span></code></pre></figure>
+<p>Output (indented by call depth here; the real output has no indentation):</p>
+<pre><code>1. main: before await
+   2. process: before await
+      3. fetchData: before await
+0. main thread: immediate             ← all three paused at await, this line prints first
+      3. fetchData: after await       ← 500ms later, innermost resumes first
+   2. process: after await
+1. main: after await                  ← outermost resumes last
+</code></pre>
+<p><code>0. main thread: immediate</code> is the fourth line because <code>main</code> calls <code>process</code>, <code>process</code> calls <code>fetchData</code>, and <code>fetchData</code> reaches <code>await delay(500)</code>. Only there does execution suspend and return control to the caller. Until it actually awaits something, an async function runs in the same order as a regular function: synchronously, top to bottom.</p>
+<p>After 500ms, each of the three functions resumes from the line after its <code>await</code>, innermost first, in the same order a call stack returns. <code>main()</code> was called without <code>await</code>, so <code>0. main thread: immediate</code> does not wait for those 500ms.</p>
+<p>Same order, but an async function still differs from a regular function in two ways. With <code>async function g() { return 42 }</code>, calling <code>g()</code> gives you <code>Promise { 42 }</code>, not <code>42</code>. Exceptions differ too:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">async</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> f</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() { </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">throw</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> new</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> Error</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'boom'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">); }</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">try</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> { </span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">f</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(); } </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">catch</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (e) { console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'caught'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">); } </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// never prints</span></span></code></pre></figure>
+<p><code>f</code> throws as soon as it is entered, before reaching any <code>await</code>. By the paragraph above it is running synchronously, so you would expect the caller's <code>try/catch</code> to catch it. It does not, because an exception thrown inside an async function becomes a rejected promise instead of propagating to the caller. To catch it, write <code>await f()</code> or <code>f().catch(...)</code>. Both examples were run on Node 22.22.3.</p>
+<h2>What if the top level also awaits?</h2>
+<p>Change <code>main()</code> to <code>await main()</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> main</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">();</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'0. main thread: immediate'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span></code></pre></figure>
+<pre><code>1. main: before await
+   2. process: before await
+      3. fetchData: before await
+      3. fetchData: after await       ← 500ms later
+   2. process: after await
+1. main: after await
+0. main thread: immediate             ← the top level awaits now, so this line waits too
+</code></pre>
+<p>Top-level <code>await</code> only works in an ES module (ESM). A <code>.mjs</code> file is ESM. A plain <code>.js</code> file is switched to ESM automatically from Node 22.7 when it contains this syntax. A <code>.cjs</code> file is always treated as CommonJS and throws <code>SyntaxError: await is only valid in async functions and the top level bodies of modules</code>.</p>
+<h2>So which is it — blocking or not?</h2>
+<p>Inside a function, every line after <code>await</code> waits. If the caller also writes <code>await</code>, it waits too. With <code>await</code> all the way to the top level, even the last <code>console.log</code> waits.</p>
+<p>What non-blocking really means: during those 500ms, can the same thread handle other requests? Node runs JavaScript on one thread, and all requests take turns running on it. This server has two routes; <code>/a</code> waits 500ms and <code>/b</code> answers right away:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">import</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> http </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">from</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'node:http'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">;</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> wait</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">ms</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> new</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> Promise</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">((</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">r</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> setTimeout</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(r, ms));</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">http.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">createServer</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">async</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">req</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">res</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> (req.url </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">===</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> '/a'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> wait</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">500</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);                                  </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// version 1: await</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">    // const end = Date.now() + 500;</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">    // while (Date.now() &#x3C; end) {}                    // version 2: synchronous busy loop</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">    return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> res.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">end</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'a'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  res.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">end</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'b'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}).</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">listen</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">3000</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span></code></pre></figure>
+<p>Request <code>/a</code>, then <code>/b</code> 50ms later, once with each version (Node 22.22.3). All times are counted from the <code>/a</code> request:</p>
+<pre><code>version 1 await:      /a answered at 510ms, /b at 60ms
+version 2 busy loop:  /a answered at 512ms, /b at 513ms
+</code></pre>
+<p>In version 1, <code>/a</code> suspends at <code>await</code> and the thread is free to handle <code>/b</code>, which is sent at 50ms and answered at 60ms, 10ms later. In version 2 the thread spends the whole 500ms in that <code>while</code>, so <code>/b</code> queues behind <code>/a</code> and answers only after <code>/a</code> does. <code>fs.readFileSync</code> on a large file behaves like version 2: the thread is held until the file is read.</p>
+<p>At 500ms the promise from <code>wait(500)</code> settles, and <code>/a</code> resumes on the line after <code>await</code> and sends its response. If the thread is busy with another request at that moment, and that request's handler has a <code>while</code> like version 2, <code>/a</code> has to wait until it finishes.</p>
+<p>So <code>/a</code> itself did wait 500ms, but <code>/b</code> did not wait just because <code>/a</code> was waiting, and that is non-blocking.</p>8:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L13",null,{"htmlContent":"$14","rawContent":"$15","base64Content":"$16","title":"await 到底會不會等？會，等的是函式裡的下一行","createdAt":"2026-03-21T20:27:17.000Z","updatedAt":"$undefined","tags":["javascript","async"],"altHtmlContent":"$17","altTitle":"await does block — just not where you think","currentLang":"zh","altLang":"en","canonicalPath":"/v2/async-await-blocking"}]}]}]

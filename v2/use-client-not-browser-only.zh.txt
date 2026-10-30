@@ -1,0 +1,399 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"default"]
+4:I[48350,[],""]
+5:I[11412,[],""]
+6:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+7:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-6e2326ce7d294bfd.js"],"default"]
+9:I[96727,[],"OutletBoundary"]
+b:I[14038,[],"AsyncMetadataOutlet"]
+d:I[96727,[],"ViewportBoundary"]
+f:I[96727,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[92950,[],""]
+:HL["/_next/static/media/8760c4774489e4ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/01cc54cdad670ab3.css","style"]
+:HL["/_next/static/css/d3281eaf3cab9132.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/2aa38e97f45426ef.css","style"]
+0:{"P":null,"b":"nTKE4IB87lEgZWUaCupOc","p":"","c":["","v2","use-client-not-browser-only.zh"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","use-client-not-browser-only.zh","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/01cc54cdad670ab3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/d3281eaf3cab9132.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href=\"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap\";document.head.appendChild(l)})()"}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L7",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","use-client-not-browser-only.zh","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/2aa38e97f45426ef.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+a:null
+c:{"metadata":[["$","title","0",{"children":"加了 use client，server 還是會先 render 一次  | jialinhuang"}],["$","meta","1",{"name":"description","content":"加了 use client 的 component，直接開網址的時候還是會先在 Node.js 裡 render 一次，靜態頁在 build 的時候，動態頁在每次 request 的時候。useEffect 的 callback 跟事件處理函式不會在 server 上跑，window 放在那裡才不會出錯。"}],["$","link","2",{"rel":"canonical","href":"/v2/use-client-not-browser-only"}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"
+13:I[86734,["7654","static/chunks/7654-2fe46cddc56d2856.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+14:T36e7,<p>直接開網址的時候，加了 <code>use client</code> 的 component 還是會先在 server 上 render 一次。靜態頁在 <code>next build</code> 的時候 render，動態頁在每次 request 的時候 render。</p>
+<p>如果檔案開頭寫了 <code>use client</code>，Next.js 會把這個檔案連同它 import 的東西一起打包進 client bundle。client bundle 就是送到瀏覽器的 JavaScript。Server Component 的程式碼則留在 server，不會送到瀏覽器。瀏覽器拿到 server render 好的 HTML 以後執行 client bundle，把事件處理函式接到現成的 HTML 上，這一步叫 hydration。</p>
+<p>如果是在站內點連結切頁，server 只回傳 RSC Payload，不產出 HTML，所以這個 component 只在瀏覽器裡 render。RSC Payload 是 Server Component render 完之後序列化的結果，裡面有 Server Component 的輸出、Client Component 該放在哪裡，以及要載入哪些 JavaScript 檔。</p>
+<hr>
+<h2>同樣加了 use client，為什麼一段出錯一段沒事</h2>
+<p>這段在 <code>next build</code> 的時候出錯：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'use client'</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">import</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> { useEffect } </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">from</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'react'</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> MyComponent</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() {</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  useEffect</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(() </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {}, [window])  </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// ReferenceError: window is not defined</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> &#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">div</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> /></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>這段就沒事：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'use client'</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">import</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> { useEffect } </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">from</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'react'</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> MyComponent</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() {</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  useEffect</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(() </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(window.scrollX)  </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// 不會出錯</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  }, [])</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> &#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">div</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> /></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>兩段都加了 <code>use client</code>。第一段把 <code>window</code> 寫在 dependency array，第二段寫在 callback 裡面。</p>
+<p>2024 年的原文範例沒寫 <code>import { useEffect }</code>。少了這行，不管哪個 Next.js 版本，render 跑到 <code>useEffect(...)</code> 就丟出 <code>useEffect is not defined</code>，根本輪不到 <code>window</code>。所以上面兩段補上了這行。</p>
+<p>2026 年 10 月開了一個只有一頁的 App Router 專案，把第一段放進去，換不同的 Next.js 版本重跑：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Next.js</th><th><code>next build</code></th><th><code>next dev</code></th></tr></thead><tbody><tr><td>13.4 到 14.1</td><td><code>ReferenceError: window is not defined</code></td><td>同樣的錯</td></tr><tr><td>14.2 到 15.5</td><td>過</td><td>500，同樣的錯</td></tr><tr><td>16（預設改用 Turbopack）</td><td><code>ReferenceError: window is not defined</code></td><td>500，同樣的錯</td></tr></tbody></table>
+<p>實際跑過的版本：13.4.19、13.5.6、14.0.4、14.1.4、14.2.0、14.2.35、15.0.8、15.1.12、15.3.9、15.5.12、16.4.3。16.4.3 加 <code>--webpack</code> 改用 webpack build 的話會過。</p>
+<p>14.2（2024 年 4 月）起，用 webpack 做正式 build 時，<code>experimental.optimizeServerReact</code> 預設打開。它會把 server bundle 裡的 <code>useEffect</code> 呼叫連同 dependency array 一起拿掉，所以 prerender 的時候根本不會碰到 <code>[window]</code>。<code>next dev</code> 跟 Turbopack build 不會拿掉這個呼叫。為了確認是這個設定造成的，在 14.2 跟 15.5 把它關掉重跑，build 就出錯了。反過來在 14.1 把它打開，build 就過了。</p>
+<p>這個設定不會把每種寫法的 <code>useEffect</code> 都拿掉：</p>
+<ul>
+<li><code>import { useEffect } from 'react'</code>：會看 dependency array。裡面有函式呼叫的話，例如 <code>[getSize()]</code>，它會保留整個 <code>useEffect</code>，因為那個函式可能有副作用。保留下來的 <code>getSize()</code> 在 prerender 時讀 <code>window.innerWidth</code>，server 上沒有 <code>window</code>，所以 build 出錯。</li>
+<li><code>import React from 'react'</code> 再寫 <code>React.useEffect(...)</code>：不看 dependency array，一律拿掉。所以就算寫 <code>[getSize()]</code>，build 也會過。</li>
+<li><code>import * as React from 'react'</code> 再寫 <code>React.useEffect(...)</code>：認不出這是 <code>useEffect</code>，整個保留。所以連 <code>[window]</code> 都會讓 build 出錯。</li>
+</ul>
+<p>14.2.0、14.2.35、15.0.8、15.3.9、15.5.12 這五版量到的結果都跟上面一樣。規則寫在 <code>optimize_server_react</code> 的原始碼裡（文末參考有連結）。</p>
+<hr>
+<h2>中間發生了什麼</h2>
+<p>直接開網址的時候，一個 <code>use client</code> 的 component 會 render 兩次：</p>
+<ol>
+<li><strong>Server</strong>：Node.js 執行 render function，產出 HTML。<code>useState</code> 的 initializer 會跑。Node.js 也會對 dependency array 求值，因為它是 <code>useEffect(...)</code> 這個呼叫的參數，而這個呼叫就寫在 render function 裡。但是 <code>useEffect</code> 的 callback <strong>不會跑</strong>。React 文件寫明 Effect 只在 client 執行，server render 的時候不跑。</li>
+<li><strong>瀏覽器</strong>：瀏覽器先把 HTML 顯示出來。接著 React 做 hydration，把事件處理函式綁到這份 HTML 上，之後呼叫 <code>setState</code> 才會更新畫面。hydration 完成以後，<code>useEffect</code> 的 callback <strong>才開始跑</strong>。</li>
+</ol>
+<p><code>[window]</code> 這個陣列是在第 1 步求值的。Node.js 裡沒有 <code>window</code>，執行到這裡就丟出 ReferenceError。</p>
+<p>而 <code>() => { console.log(window.scrollX) }</code> 在第 1 步只是一個函式定義。Node.js 建立了這個函式，但不會呼叫它，要到第 2 步才會執行。</p>
+<hr>
+<h2><code>window</code> 可以放在哪裡</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>位置</th><th>server 會執行嗎</th><th><code>window</code> 安全嗎</th></tr></thead><tbody><tr><td>module 最外層的變數</td><td>會</td><td>不安全</td></tr><tr><td><code>useState</code> 的 initializer</td><td>會</td><td>不安全</td></tr><tr><td><code>useEffect</code> 的 dependency array</td><td>會</td><td>不安全</td></tr><tr><td><code>useEffect</code> 的 callback</td><td>不會</td><td>安全</td></tr><tr><td>事件處理函式</td><td>不會</td><td>安全</td></tr></tbody></table>
+<p>dependency array 那一列寫「會」，是因為 server render 執行 component function 的時候，<code>useEffect(...)</code> 這個呼叫的參數會先算出來，<code>[window]</code> 也包含在內。不過 Next.js 14.2 到 15.5 的預設 <code>next build</code> 會在編譯階段就把 <code>useEffect(() => {}, [window])</code> 這種呼叫拿掉，server render 時已經沒有這一行，所以這幾版 build 才會過。</p>
+<p>放在最外層還有一個辦法：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> isBrowser</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> typeof</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> window </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">!==</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'undefined'</span></span></code></pre></figure>
+<p>對一個沒宣告過的變數用 <code>typeof</code>，會回傳 <code>"undefined"</code>，不會丟錯。這是 JavaScript 的規則，跟 React 無關。</p>
+<p>不過 <code>isBrowser</code> 不能拿來決定要 render 什麼。假設寫了 <code>{isBrowser ? &#x3C;A /> : &#x3C;B />}</code>，server 上 <code>isBrowser</code> 是 false，render 出 <code>B</code>；瀏覽器第一次 render 時它是 true，render 出 <code>A</code>。兩邊的結果不一樣，hydration 就會報 mismatch，因為 React 要求 server 的 HTML 跟瀏覽器第一次 render 的結果一致。如果被呼叫的函式不會改變 render 出來的內容，拿 <code>isBrowser</code> 決定要不要呼叫它就沒問題，例如 <code>if (isBrowser) console.log(window.location.href)</code>。server 上 <code>isBrowser</code> 是 false，<code>console.log</code> 不會被呼叫；瀏覽器上會呼叫，但只是印出一行 log。因為兩邊 render 出來的 HTML 一樣，所以不會有 mismatch。</p>
+<p>要是某個 component 根本沒辦法在 server 上 render，Next.js 可以讓它跳過 server render，做法是 <code>next/dynamic</code> 加上 <code>{ ssr: false }</code>。這個選項只能寫在 Client Component 裡，寫在 Server Component 裡會報錯。</p>
+<hr>
+<h2>所以 <code>use client</code> 到底是什麼意思</h2>
+<p><code>use client</code> 把這個檔案跟它 import 的東西放進 client bundle，送到瀏覽器。直接開網址的時候，瀏覽器用這份 JavaScript 去 hydrate server 產出的 HTML。站內點連結切頁的時候沒有 HTML，component 直接在瀏覽器裡 render。</p>
+<p>Effect 的 callback（<code>useEffect</code>，<code>useLayoutEffect</code> 也一樣）跟事件處理函式，在 server 上一律不跑。直接開網址、又沒有用 <code>ssr: false</code> 的時候，component 的 function body 會先在 server 上跑一遍，寫在裡面的 <code>useState</code> initializer 跟 dependency array 也會跟著求值。<code>next dev</code> 每次都會出這個錯；<code>next build</code> 會不會出，看 Next.js 的版本（見上面的表）。</p>
+<hr>
+<h2>參考</h2>
+<ul>
+<li><a href="https://github.com/reactwg/server-components/discussions/4">React Server Components Discussion</a></li>
+<li><a href="https://react.dev/reference/react/useEffect">React：useEffect，「Effects only run on the client」</a></li>
+<li><a href="https://react.dev/reference/react-dom/client/hydrateRoot">React：hydrateRoot，「expects the rendered content to be identical」</a></li>
+<li><a href="https://nextjs.org/docs/app/guides/server-and-client-boundary">Next.js：The Server and Client Boundary</a></li>
+<li><a href="https://nextjs.org/docs/app/guides/lazy-loading">Next.js：Lazy loading，skipping SSR</a></li>
+<li><a href="https://nextjs.org/docs/app/getting-started/server-and-client-components">Next.js：Server and Client Components，「"use client" is used to declare a boundary」</a></li>
+<li><a href="https://github.com/vercel/next.js/blob/v15.5.12/crates/next-custom-transforms/src/transforms/optimize_server_react.rs">Next.js 15.5.12 原始碼：optimize_server_react.rs，「Removes <code>useEffect</code> and <code>useLayoutEffect</code> calls」</a></li>
+</ul>15:T209b,
+直接開網址的時候，加了 `use client` 的 component 還是會先在 server 上 render 一次。靜態頁在 `next build` 的時候 render，動態頁在每次 request 的時候 render。
+
+如果檔案開頭寫了 `use client`，Next.js 會把這個檔案連同它 import 的東西一起打包進 client bundle。client bundle 就是送到瀏覽器的 JavaScript。Server Component 的程式碼則留在 server，不會送到瀏覽器。瀏覽器拿到 server render 好的 HTML 以後執行 client bundle，把事件處理函式接到現成的 HTML 上，這一步叫 hydration。
+
+如果是在站內點連結切頁，server 只回傳 RSC Payload，不產出 HTML，所以這個 component 只在瀏覽器裡 render。RSC Payload 是 Server Component render 完之後序列化的結果，裡面有 Server Component 的輸出、Client Component 該放在哪裡，以及要載入哪些 JavaScript 檔。
+
+---
+
+## 同樣加了 use client，為什麼一段出錯一段沒事
+
+這段在 `next build` 的時候出錯：
+
+```js
+'use client'
+import { useEffect } from 'react'
+
+function MyComponent() {
+  useEffect(() => {}, [window])  // ReferenceError: window is not defined
+  return <div />
+}
+```
+
+這段就沒事：
+
+```js
+'use client'
+import { useEffect } from 'react'
+
+function MyComponent() {
+  useEffect(() => {
+    console.log(window.scrollX)  // 不會出錯
+  }, [])
+  return <div />
+}
+```
+
+兩段都加了 `use client`。第一段把 `window` 寫在 dependency array，第二段寫在 callback 裡面。
+
+2024 年的原文範例沒寫 `import { useEffect }`。少了這行，不管哪個 Next.js 版本，render 跑到 `useEffect(...)` 就丟出 `useEffect is not defined`，根本輪不到 `window`。所以上面兩段補上了這行。
+
+2026 年 10 月開了一個只有一頁的 App Router 專案，把第一段放進去，換不同的 Next.js 版本重跑：
+
+| Next.js | `next build` | `next dev` |
+|---|---|---|
+| 13.4 到 14.1 | `ReferenceError: window is not defined` | 同樣的錯 |
+| 14.2 到 15.5 | 過 | 500，同樣的錯 |
+| 16（預設改用 Turbopack） | `ReferenceError: window is not defined` | 500，同樣的錯 |
+
+實際跑過的版本：13.4.19、13.5.6、14.0.4、14.1.4、14.2.0、14.2.35、15.0.8、15.1.12、15.3.9、15.5.12、16.4.3。16.4.3 加 `--webpack` 改用 webpack build 的話會過。
+
+14.2（2024 年 4 月）起，用 webpack 做正式 build 時，`experimental.optimizeServerReact` 預設打開。它會把 server bundle 裡的 `useEffect` 呼叫連同 dependency array 一起拿掉，所以 prerender 的時候根本不會碰到 `[window]`。`next dev` 跟 Turbopack build 不會拿掉這個呼叫。為了確認是這個設定造成的，在 14.2 跟 15.5 把它關掉重跑，build 就出錯了。反過來在 14.1 把它打開，build 就過了。
+
+這個設定不會把每種寫法的 `useEffect` 都拿掉：
+
+- `import { useEffect } from 'react'`：會看 dependency array。裡面有函式呼叫的話，例如 `[getSize()]`，它會保留整個 `useEffect`，因為那個函式可能有副作用。保留下來的 `getSize()` 在 prerender 時讀 `window.innerWidth`，server 上沒有 `window`，所以 build 出錯。
+- `import React from 'react'` 再寫 `React.useEffect(...)`：不看 dependency array，一律拿掉。所以就算寫 `[getSize()]`，build 也會過。
+- `import * as React from 'react'` 再寫 `React.useEffect(...)`：認不出這是 `useEffect`，整個保留。所以連 `[window]` 都會讓 build 出錯。
+
+14.2.0、14.2.35、15.0.8、15.3.9、15.5.12 這五版量到的結果都跟上面一樣。規則寫在 `optimize_server_react` 的原始碼裡（文末參考有連結）。
+
+---
+
+## 中間發生了什麼
+
+直接開網址的時候，一個 `use client` 的 component 會 render 兩次：
+
+1. **Server**：Node.js 執行 render function，產出 HTML。`useState` 的 initializer 會跑。Node.js 也會對 dependency array 求值，因為它是 `useEffect(...)` 這個呼叫的參數，而這個呼叫就寫在 render function 裡。但是 `useEffect` 的 callback **不會跑**。React 文件寫明 Effect 只在 client 執行，server render 的時候不跑。
+2. **瀏覽器**：瀏覽器先把 HTML 顯示出來。接著 React 做 hydration，把事件處理函式綁到這份 HTML 上，之後呼叫 `setState` 才會更新畫面。hydration 完成以後，`useEffect` 的 callback **才開始跑**。
+
+`[window]` 這個陣列是在第 1 步求值的。Node.js 裡沒有 `window`，執行到這裡就丟出 ReferenceError。
+
+而 `() => { console.log(window.scrollX) }` 在第 1 步只是一個函式定義。Node.js 建立了這個函式，但不會呼叫它，要到第 2 步才會執行。
+
+---
+
+## `window` 可以放在哪裡
+
+| 位置 | server 會執行嗎 | `window` 安全嗎 |
+|---|---|---|
+| module 最外層的變數 | 會 | 不安全 |
+| `useState` 的 initializer | 會 | 不安全 |
+| `useEffect` 的 dependency array | 會 | 不安全 |
+| `useEffect` 的 callback | 不會 | 安全 |
+| 事件處理函式 | 不會 | 安全 |
+
+dependency array 那一列寫「會」，是因為 server render 執行 component function 的時候，`useEffect(...)` 這個呼叫的參數會先算出來，`[window]` 也包含在內。不過 Next.js 14.2 到 15.5 的預設 `next build` 會在編譯階段就把 `useEffect(() => {}, [window])` 這種呼叫拿掉，server render 時已經沒有這一行，所以這幾版 build 才會過。
+
+放在最外層還有一個辦法：
+
+```js
+const isBrowser = typeof window !== 'undefined'
+```
+
+對一個沒宣告過的變數用 `typeof`，會回傳 `"undefined"`，不會丟錯。這是 JavaScript 的規則，跟 React 無關。
+
+不過 `isBrowser` 不能拿來決定要 render 什麼。假設寫了 `{isBrowser ? <A /> : <B />}`，server 上 `isBrowser` 是 false，render 出 `B`；瀏覽器第一次 render 時它是 true，render 出 `A`。兩邊的結果不一樣，hydration 就會報 mismatch，因為 React 要求 server 的 HTML 跟瀏覽器第一次 render 的結果一致。如果被呼叫的函式不會改變 render 出來的內容，拿 `isBrowser` 決定要不要呼叫它就沒問題，例如 `if (isBrowser) console.log(window.location.href)`。server 上 `isBrowser` 是 false，`console.log` 不會被呼叫；瀏覽器上會呼叫，但只是印出一行 log。因為兩邊 render 出來的 HTML 一樣，所以不會有 mismatch。
+
+要是某個 component 根本沒辦法在 server 上 render，Next.js 可以讓它跳過 server render，做法是 `next/dynamic` 加上 `{ ssr: false }`。這個選項只能寫在 Client Component 裡，寫在 Server Component 裡會報錯。
+
+---
+
+## 所以 `use client` 到底是什麼意思
+
+`use client` 把這個檔案跟它 import 的東西放進 client bundle，送到瀏覽器。直接開網址的時候，瀏覽器用這份 JavaScript 去 hydrate server 產出的 HTML。站內點連結切頁的時候沒有 HTML，component 直接在瀏覽器裡 render。
+
+Effect 的 callback（`useEffect`，`useLayoutEffect` 也一樣）跟事件處理函式，在 server 上一律不跑。直接開網址、又沒有用 `ssr: false` 的時候，component 的 function body 會先在 server 上跑一遍，寫在裡面的 `useState` initializer 跟 dependency array 也會跟著求值。`next dev` 每次都會出這個錯；`next build` 會不會出，看 Next.js 的版本（見上面的表）。
+
+---
+
+## 參考
+
+- [React Server Components Discussion](https://github.com/reactwg/server-components/discussions/4)
+- [React：useEffect，「Effects only run on the client」](https://react.dev/reference/react/useEffect)
+- [React：hydrateRoot，「expects the rendered content to be identical」](https://react.dev/reference/react-dom/client/hydrateRoot)
+- [Next.js：The Server and Client Boundary](https://nextjs.org/docs/app/guides/server-and-client-boundary)
+- [Next.js：Lazy loading，skipping SSR](https://nextjs.org/docs/app/guides/lazy-loading)
+- [Next.js：Server and Client Components，「"use client" is used to declare a boundary」](https://nextjs.org/docs/app/getting-started/server-and-client-components)
+- [Next.js 15.5.12 原始碼：optimize_server_react.rs，「Removes `useEffect` and `useLayoutEffect` calls」](https://github.com/vercel/next.js/blob/v15.5.12/crates/next-custom-transforms/src/transforms/optimize_server_react.rs)
+16:T2dd8,LS0tCnRpdGxlOiAi5Yqg5LqGIHVzZSBjbGllbnTvvIxzZXJ2ZXIg6YKE5piv5pyD5YWIIHJlbmRlciDkuIDmrKEiCmNyZWF0ZWRBdDogMjAyNC0xMC0xNlQxMzo1MzowMAp1cGRhdGVkQXQ6IDIwMjYtMDItMjJUMTc6MjA6MDMKdGFnczogW25leHRqcywgcmVhY3QsIHNzcl0KZGVzY3JpcHRpb246ICLliqDkuoYgdXNlIGNsaWVudCDnmoQgY29tcG9uZW5077yM55u05o6l6ZaL57ay5Z2A55qE5pmC5YCZ6YKE5piv5pyD5YWI5ZyoIE5vZGUuanMg6KOhIHJlbmRlciDkuIDmrKHvvIzpnZzmhYvpoIHlnKggYnVpbGQg55qE5pmC5YCZ77yM5YuV5oWL6aCB5Zyo5q+P5qyhIHJlcXVlc3Qg55qE5pmC5YCZ44CCdXNlRWZmZWN0IOeahCBjYWxsYmFjayDot5/kuovku7bomZXnkIblh73lvI/kuI3mnIPlnKggc2VydmVyIOS4iui3ke+8jHdpbmRvdyDmlL7lnKjpgqPoo6HmiY3kuI3mnIPlh7rpjK/jgIIiCi0tLQoK55u05o6l6ZaL57ay5Z2A55qE5pmC5YCZ77yM5Yqg5LqGIGB1c2UgY2xpZW50YCDnmoQgY29tcG9uZW50IOmChOaYr+acg+WFiOWcqCBzZXJ2ZXIg5LiKIHJlbmRlciDkuIDmrKHjgILpnZzmhYvpoIHlnKggYG5leHQgYnVpbGRgIOeahOaZguWAmSByZW5kZXLvvIzli5XmhYvpoIHlnKjmr4/mrKEgcmVxdWVzdCDnmoTmmYLlgJkgcmVuZGVy44CCCgrlpoLmnpzmqpTmoYjplovpoK3lr6vkuoYgYHVzZSBjbGllbnRg77yMTmV4dC5qcyDmnIPmiorpgJnlgIvmqpTmoYjpgKPlkIzlroMgaW1wb3J0IOeahOadseilv+S4gOi1t+aJk+WMhemAsiBjbGllbnQgYnVuZGxl44CCY2xpZW50IGJ1bmRsZSDlsLHmmK/pgIHliLDngI/opr3lmajnmoQgSmF2YVNjcmlwdOOAglNlcnZlciBDb21wb25lbnQg55qE56iL5byP56K85YmH55WZ5ZyoIHNlcnZlcu+8jOS4jeacg+mAgeWIsOeAj+imveWZqOOAgueAj+imveWZqOaLv+WIsCBzZXJ2ZXIgcmVuZGVyIOWlveeahCBIVE1MIOS7peW+jOWft+ihjCBjbGllbnQgYnVuZGxl77yM5oqK5LqL5Lu26JmV55CG5Ye95byP5o6l5Yiw54++5oiQ55qEIEhUTUwg5LiK77yM6YCZ5LiA5q2l5Y+rIGh5ZHJhdGlvbuOAggoK5aaC5p6c5piv5Zyo56uZ5YWn6bue6YCj57WQ5YiH6aCB77yMc2VydmVyIOWPquWbnuWCsyBSU0MgUGF5bG9hZO+8jOS4jeeUouWHuiBIVE1M77yM5omA5Lul6YCZ5YCLIGNvbXBvbmVudCDlj6rlnKjngI/opr3lmajoo6EgcmVuZGVy44CCUlNDIFBheWxvYWQg5pivIFNlcnZlciBDb21wb25lbnQgcmVuZGVyIOWujOS5i+W+jOW6j+WIl+WMlueahOe1kOaenO+8jOijoemdouaciSBTZXJ2ZXIgQ29tcG9uZW50IOeahOi8uOWHuuOAgUNsaWVudCBDb21wb25lbnQg6Kmy5pS+5Zyo5ZOq6KOh77yM5Lul5Y+K6KaB6LyJ5YWl5ZOq5LqbIEphdmFTY3JpcHQg5qqU44CCCgotLS0KCiMjIOWQjOaoo+WKoOS6hiB1c2UgY2xpZW5077yM54K65LuA6bq85LiA5q615Ye66Yyv5LiA5q615rKS5LqLCgrpgJnmrrXlnKggYG5leHQgYnVpbGRgIOeahOaZguWAmeWHuumMr++8mgoKYGBganMKJ3VzZSBjbGllbnQnCmltcG9ydCB7IHVzZUVmZmVjdCB9IGZyb20gJ3JlYWN0JwoKZnVuY3Rpb24gTXlDb21wb25lbnQoKSB7CiAgdXNlRWZmZWN0KCgpID0+IHt9LCBbd2luZG93XSkgIC8vIFJlZmVyZW5jZUVycm9yOiB3aW5kb3cgaXMgbm90IGRlZmluZWQKICByZXR1cm4gPGRpdiAvPgp9CmBgYAoK6YCZ5q615bCx5rKS5LqL77yaCgpgYGBqcwondXNlIGNsaWVudCcKaW1wb3J0IHsgdXNlRWZmZWN0IH0gZnJvbSAncmVhY3QnCgpmdW5jdGlvbiBNeUNvbXBvbmVudCgpIHsKICB1c2VFZmZlY3QoKCkgPT4gewogICAgY29uc29sZS5sb2cod2luZG93LnNjcm9sbFgpICAvLyDkuI3mnIPlh7rpjK8KICB9LCBbXSkKICByZXR1cm4gPGRpdiAvPgp9CmBgYAoK5YWp5q616YO95Yqg5LqGIGB1c2UgY2xpZW50YOOAguesrOS4gOauteaKiiBgd2luZG93YCDlr6vlnKggZGVwZW5kZW5jeSBhcnJhee+8jOesrOS6jOauteWvq+WcqCBjYWxsYmFjayDoo6HpnaLjgIIKCjIwMjQg5bm055qE5Y6f5paH56+E5L6L5rKS5a+rIGBpbXBvcnQgeyB1c2VFZmZlY3QgfWDjgILlsJHkuobpgJnooYzvvIzkuI3nrqHlk6rlgIsgTmV4dC5qcyDniYjmnKzvvIxyZW5kZXIg6LeR5YiwIGB1c2VFZmZlY3QoLi4uKWAg5bCx5Lif5Ye6IGB1c2VFZmZlY3QgaXMgbm90IGRlZmluZWRg77yM5qC55pys6Lyq5LiN5YiwIGB3aW5kb3dg44CC5omA5Lul5LiK6Z2i5YWp5q616KOc5LiK5LqG6YCZ6KGM44CCCgoyMDI2IOW5tCAxMCDmnIjplovkuobkuIDlgIvlj6rmnInkuIDpoIHnmoQgQXBwIFJvdXRlciDlsIjmoYjvvIzmiornrKzkuIDmrrXmlL7pgLLljrvvvIzmj5vkuI3lkIznmoQgTmV4dC5qcyDniYjmnKzph43ot5HvvJoKCnwgTmV4dC5qcyB8IGBuZXh0IGJ1aWxkYCB8IGBuZXh0IGRldmAgfAp8LS0tfC0tLXwtLS18CnwgMTMuNCDliLAgMTQuMSB8IGBSZWZlcmVuY2VFcnJvcjogd2luZG93IGlzIG5vdCBkZWZpbmVkYCB8IOWQjOaoo+eahOmMryB8CnwgMTQuMiDliLAgMTUuNSB8IOmBjiB8IDUwMO+8jOWQjOaoo+eahOmMryB8CnwgMTbvvIjpoJDoqK3mlLnnlKggVHVyYm9wYWNr77yJIHwgYFJlZmVyZW5jZUVycm9yOiB3aW5kb3cgaXMgbm90IGRlZmluZWRgIHwgNTAw77yM5ZCM5qij55qE6YyvIHwKCuWvpumam+i3kemBjueahOeJiOacrO+8mjEzLjQuMTnjgIExMy41LjbjgIExNC4wLjTjgIExNC4xLjTjgIExNC4yLjDjgIExNC4yLjM144CBMTUuMC4444CBMTUuMS4xMuOAgTE1LjMuOeOAgTE1LjUuMTLjgIExNi40LjPjgIIxNi40LjMg5YqgIGAtLXdlYnBhY2tgIOaUueeUqCB3ZWJwYWNrIGJ1aWxkIOeahOipseacg+mBjuOAggoKMTQuMu+8iDIwMjQg5bm0IDQg5pyI77yJ6LW377yM55SoIHdlYnBhY2sg5YGa5q2j5byPIGJ1aWxkIOaZgu+8jGBleHBlcmltZW50YWwub3B0aW1pemVTZXJ2ZXJSZWFjdGAg6aCQ6Kit5omT6ZaL44CC5a6D5pyD5oqKIHNlcnZlciBidW5kbGUg6KOh55qEIGB1c2VFZmZlY3RgIOWRvOWPq+mAo+WQjCBkZXBlbmRlbmN5IGFycmF5IOS4gOi1t+aLv+aOie+8jOaJgOS7pSBwcmVyZW5kZXIg55qE5pmC5YCZ5qC55pys5LiN5pyD56Kw5YiwIGBbd2luZG93XWDjgIJgbmV4dCBkZXZgIOi3nyBUdXJib3BhY2sgYnVpbGQg5LiN5pyD5ou/5o6J6YCZ5YCL5ZG85Y+r44CC54K65LqG56K66KqN5piv6YCZ5YCL6Kit5a6a6YCg5oiQ55qE77yM5ZyoIDE0LjIg6LefIDE1LjUg5oqK5a6D6Zec5o6J6YeN6LeR77yMYnVpbGQg5bCx5Ye66Yyv5LqG44CC5Y+N6YGO5L6G5ZyoIDE0LjEg5oqK5a6D5omT6ZaL77yMYnVpbGQg5bCx6YGO5LqG44CCCgrpgJnlgIvoqK3lrprkuI3mnIPmiormr4/nqK7lr6vms5XnmoQgYHVzZUVmZmVjdGAg6YO95ou/5o6J77yaCgotIGBpbXBvcnQgeyB1c2VFZmZlY3QgfSBmcm9tICdyZWFjdCdg77ya5pyD55yLIGRlcGVuZGVuY3kgYXJyYXnjgILoo6HpnaLmnInlh73lvI/lkbzlj6vnmoToqbHvvIzkvovlpoIgYFtnZXRTaXplKCldYO+8jOWug+acg+S/neeVmeaVtOWAiyBgdXNlRWZmZWN0YO+8jOWboOeCuumCo+WAi+WHveW8j+WPr+iDveacieWJr+S9nOeUqOOAguS/neeVmeS4i+S+hueahCBgZ2V0U2l6ZSgpYCDlnKggcHJlcmVuZGVyIOaZguiugCBgd2luZG93LmlubmVyV2lkdGhg77yMc2VydmVyIOS4iuaykuaciSBgd2luZG93YO+8jOaJgOS7pSBidWlsZCDlh7rpjK/jgIIKLSBgaW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0J2Ag5YaN5a+rIGBSZWFjdC51c2VFZmZlY3QoLi4uKWDvvJrkuI3nnIsgZGVwZW5kZW5jeSBhcnJhee+8jOS4gOW+i+aLv+aOieOAguaJgOS7peWwseeul+WvqyBgW2dldFNpemUoKV1g77yMYnVpbGQg5Lmf5pyD6YGO44CCCi0gYGltcG9ydCAqIGFzIFJlYWN0IGZyb20gJ3JlYWN0J2Ag5YaN5a+rIGBSZWFjdC51c2VFZmZlY3QoLi4uKWDvvJroqo3kuI3lh7rpgJnmmK8gYHVzZUVmZmVjdGDvvIzmlbTlgIvkv53nlZnjgILmiYDku6XpgKMgYFt3aW5kb3ddYCDpg73mnIPorpMgYnVpbGQg5Ye66Yyv44CCCgoxNC4yLjDjgIExNC4yLjM144CBMTUuMC4444CBMTUuMy4544CBMTUuNS4xMiDpgJnkupTniYjph4/liLDnmoTntZDmnpzpg73ot5/kuIrpnaLkuIDmqKPjgILopo/liYflr6vlnKggYG9wdGltaXplX3NlcnZlcl9yZWFjdGAg55qE5Y6f5aeL56K86KOh77yI5paH5pyr5Y+D6ICD5pyJ6YCj57WQ77yJ44CCCgotLS0KCiMjIOS4remWk+eZvOeUn+S6huS7gOm6vAoK55u05o6l6ZaL57ay5Z2A55qE5pmC5YCZ77yM5LiA5YCLIGB1c2UgY2xpZW50YCDnmoQgY29tcG9uZW50IOacgyByZW5kZXIg5YWp5qyh77yaCgoxLiAqKlNlcnZlcioq77yaTm9kZS5qcyDln7fooYwgcmVuZGVyIGZ1bmN0aW9u77yM55Si5Ye6IEhUTUzjgIJgdXNlU3RhdGVgIOeahCBpbml0aWFsaXplciDmnIPot5HjgIJOb2RlLmpzIOS5n+acg+WwjSBkZXBlbmRlbmN5IGFycmF5IOaxguWAvO+8jOWboOeCuuWug+aYryBgdXNlRWZmZWN0KC4uLilgIOmAmeWAi+WRvOWPq+eahOWPg+aVuO+8jOiAjOmAmeWAi+WRvOWPq+WwseWvq+WcqCByZW5kZXIgZnVuY3Rpb24g6KOh44CC5L2G5pivIGB1c2VFZmZlY3RgIOeahCBjYWxsYmFjayAqKuS4jeacg+i3kSoq44CCUmVhY3Qg5paH5Lu25a+r5piOIEVmZmVjdCDlj6rlnKggY2xpZW50IOWft+ihjO+8jHNlcnZlciByZW5kZXIg55qE5pmC5YCZ5LiN6LeR44CCCjIuICoq54CP6Ka95ZmoKirvvJrngI/opr3lmajlhYjmioogSFRNTCDpoa/npLrlh7rkvobjgILmjqXokZcgUmVhY3Qg5YGaIGh5ZHJhdGlvbu+8jOaKiuS6i+S7tuiZleeQhuWHveW8j+e2geWIsOmAmeS7vSBIVE1MIOS4iu+8jOS5i+W+jOWRvOWPqyBgc2V0U3RhdGVgIOaJjeacg+abtOaWsOeVq+mdouOAgmh5ZHJhdGlvbiDlrozmiJDku6XlvozvvIxgdXNlRWZmZWN0YCDnmoQgY2FsbGJhY2sgKirmiY3plovlp4vot5EqKuOAggoKYFt3aW5kb3ddYCDpgJnlgIvpmaPliJfmmK/lnKjnrKwgMSDmraXmsYLlgLznmoTjgIJOb2RlLmpzIOijoeaykuaciSBgd2luZG93YO+8jOWft+ihjOWIsOmAmeijoeWwseS4n+WHuiBSZWZlcmVuY2VFcnJvcuOAggoK6ICMIGAoKSA9PiB7IGNvbnNvbGUubG9nKHdpbmRvdy5zY3JvbGxYKSB9YCDlnKjnrKwgMSDmraXlj6rmmK/kuIDlgIvlh73lvI/lrprnvqnjgIJOb2RlLmpzIOW7uueri+S6humAmeWAi+WHveW8j++8jOS9huS4jeacg+WRvOWPq+Wug++8jOimgeWIsOesrCAyIOatpeaJjeacg+Wft+ihjOOAggoKLS0tCgojIyBgd2luZG93YCDlj6/ku6XmlL7lnKjlk6roo6EKCnwg5L2N572uIHwgc2VydmVyIOacg+Wft+ihjOWXjiB8IGB3aW5kb3dgIOWuieWFqOWXjiB8CnwtLS18LS0tfC0tLXwKfCBtb2R1bGUg5pyA5aSW5bGk55qE6K6K5pW4IHwg5pyDIHwg5LiN5a6J5YWoIHwKfCBgdXNlU3RhdGVgIOeahCBpbml0aWFsaXplciB8IOacgyB8IOS4jeWuieWFqCB8CnwgYHVzZUVmZmVjdGAg55qEIGRlcGVuZGVuY3kgYXJyYXkgfCDmnIMgfCDkuI3lronlhaggfAp8IGB1c2VFZmZlY3RgIOeahCBjYWxsYmFjayB8IOS4jeacgyB8IOWuieWFqCB8Cnwg5LqL5Lu26JmV55CG5Ye95byPIHwg5LiN5pyDIHwg5a6J5YWoIHwKCmRlcGVuZGVuY3kgYXJyYXkg6YKj5LiA5YiX5a+r44CM5pyD44CN77yM5piv5Zug54K6IHNlcnZlciByZW5kZXIg5Z+36KGMIGNvbXBvbmVudCBmdW5jdGlvbiDnmoTmmYLlgJnvvIxgdXNlRWZmZWN0KC4uLilgIOmAmeWAi+WRvOWPq+eahOWPg+aVuOacg+WFiOeul+WHuuS+hu+8jGBbd2luZG93XWAg5Lmf5YyF5ZCr5Zyo5YWn44CC5LiN6YGOIE5leHQuanMgMTQuMiDliLAgMTUuNSDnmoTpoJDoqK0gYG5leHQgYnVpbGRgIOacg+WcqOe3qOitr+majuauteWwseaKiiBgdXNlRWZmZWN0KCgpID0+IHt9LCBbd2luZG93XSlgIOmAmeeoruWRvOWPq+aLv+aOie+8jHNlcnZlciByZW5kZXIg5pmC5bey57aT5rKS5pyJ6YCZ5LiA6KGM77yM5omA5Lul6YCZ5bm+54mIIGJ1aWxkIOaJjeacg+mBjuOAggoK5pS+5Zyo5pyA5aSW5bGk6YKE5pyJ5LiA5YCL6L6m5rOV77yaCgpgYGBqcwpjb25zdCBpc0Jyb3dzZXIgPSB0eXBlb2Ygd2luZG93ICE9PSAndW5kZWZpbmVkJwpgYGAKCuWwjeS4gOWAi+aykuWuo+WRiumBjueahOiuiuaVuOeUqCBgdHlwZW9mYO+8jOacg+WbnuWCsyBgInVuZGVmaW5lZCJg77yM5LiN5pyD5Lif6Yyv44CC6YCZ5pivIEphdmFTY3JpcHQg55qE6KaP5YmH77yM6LefIFJlYWN0IOeEoemXnOOAggoK5LiN6YGOIGBpc0Jyb3dzZXJgIOS4jeiDveaLv+S+huaxuuWumuimgSByZW5kZXIg5LuA6bq844CC5YGH6Kit5a+r5LqGIGB7aXNCcm93c2VyID8gPEEgLz4gOiA8QiAvPn1g77yMc2VydmVyIOS4iiBgaXNCcm93c2VyYCDmmK8gZmFsc2XvvIxyZW5kZXIg5Ye6IGBCYO+8m+eAj+imveWZqOesrOS4gOasoSByZW5kZXIg5pmC5a6D5pivIHRydWXvvIxyZW5kZXIg5Ye6IGBBYOOAguWFqemCiueahOe1kOaenOS4jeS4gOaoo++8jGh5ZHJhdGlvbiDlsLHmnIPloLEgbWlzbWF0Y2jvvIzlm6DngrogUmVhY3Qg6KaB5rGCIHNlcnZlciDnmoQgSFRNTCDot5/ngI/opr3lmajnrKzkuIDmrKEgcmVuZGVyIOeahOe1kOaenOS4gOiHtOOAguWmguaenOiiq+WRvOWPq+eahOWHveW8j+S4jeacg+aUueiuiiByZW5kZXIg5Ye65L6G55qE5YWn5a6577yM5ou/IGBpc0Jyb3dzZXJgIOaxuuWumuimgeS4jeimgeWRvOWPq+Wug+WwseaykuWVj+mhjO+8jOS+i+WmgiBgaWYgKGlzQnJvd3NlcikgY29uc29sZS5sb2cod2luZG93LmxvY2F0aW9uLmhyZWYpYOOAgnNlcnZlciDkuIogYGlzQnJvd3NlcmAg5pivIGZhbHNl77yMYGNvbnNvbGUubG9nYCDkuI3mnIPooqvlkbzlj6vvvJvngI/opr3lmajkuIrmnIPlkbzlj6vvvIzkvYblj6rmmK/ljbDlh7rkuIDooYwgbG9n44CC5Zug54K65YWp6YKKIHJlbmRlciDlh7rkvobnmoQgSFRNTCDkuIDmqKPvvIzmiYDku6XkuI3mnIPmnIkgbWlzbWF0Y2jjgIIKCuimgeaYr+afkOWAiyBjb21wb25lbnQg5qC55pys5rKS6L6m5rOV5ZyoIHNlcnZlciDkuIogcmVuZGVy77yMTmV4dC5qcyDlj6/ku6XorpPlroPot7PpgY4gc2VydmVyIHJlbmRlcu+8jOWBmuazleaYryBgbmV4dC9keW5hbWljYCDliqDkuIogYHsgc3NyOiBmYWxzZSB9YOOAgumAmeWAi+mBuOmgheWPquiDveWvq+WcqCBDbGllbnQgQ29tcG9uZW50IOijoe+8jOWvq+WcqCBTZXJ2ZXIgQ29tcG9uZW50IOijoeacg+WgsemMr+OAggoKLS0tCgojIyDmiYDku6UgYHVzZSBjbGllbnRgIOWIsOW6leaYr+S7gOm6vOaEj+aAnQoKYHVzZSBjbGllbnRgIOaKiumAmeWAi+aqlOahiOi3n+WugyBpbXBvcnQg55qE5p2x6KW/5pS+6YCyIGNsaWVudCBidW5kbGXvvIzpgIHliLDngI/opr3lmajjgILnm7TmjqXplovntrLlnYDnmoTmmYLlgJnvvIzngI/opr3lmajnlKjpgJnku70gSmF2YVNjcmlwdCDljrsgaHlkcmF0ZSBzZXJ2ZXIg55Si5Ye655qEIEhUTUzjgILnq5nlhafpu57pgKPntZDliIfpoIHnmoTmmYLlgJnmspLmnIkgSFRNTO+8jGNvbXBvbmVudCDnm7TmjqXlnKjngI/opr3lmajoo6EgcmVuZGVy44CCCgpFZmZlY3Qg55qEIGNhbGxiYWNr77yIYHVzZUVmZmVjdGDvvIxgdXNlTGF5b3V0RWZmZWN0YCDkuZ/kuIDmqKPvvInot5/kuovku7bomZXnkIblh73lvI/vvIzlnKggc2VydmVyIOS4iuS4gOW+i+S4jei3keOAguebtOaOpemWi+e2suWdgOOAgeWPiOaykuacieeUqCBgc3NyOiBmYWxzZWAg55qE5pmC5YCZ77yMY29tcG9uZW50IOeahCBmdW5jdGlvbiBib2R5IOacg+WFiOWcqCBzZXJ2ZXIg5LiK6LeR5LiA6YGN77yM5a+r5Zyo6KOh6Z2i55qEIGB1c2VTdGF0ZWAgaW5pdGlhbGl6ZXIg6LefIGRlcGVuZGVuY3kgYXJyYXkg5Lmf5pyD6Lef6JGX5rGC5YC844CCYG5leHQgZGV2YCDmr4/mrKHpg73mnIPlh7rpgJnlgIvpjK/vvJtgbmV4dCBidWlsZGAg5pyD5LiN5pyD5Ye677yM55yLIE5leHQuanMg55qE54mI5pys77yI6KaL5LiK6Z2i55qE6KGo77yJ44CCCgotLS0KCiMjIOWPg+iAgwoKLSBbUmVhY3QgU2VydmVyIENvbXBvbmVudHMgRGlzY3Vzc2lvbl0oaHR0cHM6Ly9naXRodWIuY29tL3JlYWN0d2cvc2VydmVyLWNvbXBvbmVudHMvZGlzY3Vzc2lvbnMvNCkKLSBbUmVhY3TvvJp1c2VFZmZlY3TvvIzjgIxFZmZlY3RzIG9ubHkgcnVuIG9uIHRoZSBjbGllbnTjgI1dKGh0dHBzOi8vcmVhY3QuZGV2L3JlZmVyZW5jZS9yZWFjdC91c2VFZmZlY3QpCi0gW1JlYWN077yaaHlkcmF0ZVJvb3TvvIzjgIxleHBlY3RzIHRoZSByZW5kZXJlZCBjb250ZW50IHRvIGJlIGlkZW50aWNhbOOAjV0oaHR0cHM6Ly9yZWFjdC5kZXYvcmVmZXJlbmNlL3JlYWN0LWRvbS9jbGllbnQvaHlkcmF0ZVJvb3QpCi0gW05leHQuanPvvJpUaGUgU2VydmVyIGFuZCBDbGllbnQgQm91bmRhcnldKGh0dHBzOi8vbmV4dGpzLm9yZy9kb2NzL2FwcC9ndWlkZXMvc2VydmVyLWFuZC1jbGllbnQtYm91bmRhcnkpCi0gW05leHQuanPvvJpMYXp5IGxvYWRpbmfvvIxza2lwcGluZyBTU1JdKGh0dHBzOi8vbmV4dGpzLm9yZy9kb2NzL2FwcC9ndWlkZXMvbGF6eS1sb2FkaW5nKQotIFtOZXh0Lmpz77yaU2VydmVyIGFuZCBDbGllbnQgQ29tcG9uZW50c++8jOOAjCJ1c2UgY2xpZW50IiBpcyB1c2VkIHRvIGRlY2xhcmUgYSBib3VuZGFyeeOAjV0oaHR0cHM6Ly9uZXh0anMub3JnL2RvY3MvYXBwL2dldHRpbmctc3RhcnRlZC9zZXJ2ZXItYW5kLWNsaWVudC1jb21wb25lbnRzKQotIFtOZXh0LmpzIDE1LjUuMTIg5Y6f5aeL56K877yab3B0aW1pemVfc2VydmVyX3JlYWN0LnJz77yM44CMUmVtb3ZlcyBgdXNlRWZmZWN0YCBhbmQgYHVzZUxheW91dEVmZmVjdGAgY2FsbHPjgI1dKGh0dHBzOi8vZ2l0aHViLmNvbS92ZXJjZWwvbmV4dC5qcy9ibG9iL3YxNS41LjEyL2NyYXRlcy9uZXh0LWN1c3RvbS10cmFuc2Zvcm1zL3NyYy90cmFuc2Zvcm1zL29wdGltaXplX3NlcnZlcl9yZWFjdC5ycykK17:T32f4,<p>I thought <code>use client</code> meant "this only runs in the browser."</p>
+<p>It doesn't. It marks a boundary in the module graph: Next.js puts the file, and everything it imports, into the client bundle, the JavaScript sent to the browser. Server Component code stays on the server. Being in the client bundle does not stop the server from rendering the component: on a direct visit, the server still renders it to HTML first, at build time for a static page or per request for a dynamic one, and the browser then runs the bundle to hydrate that HTML. On a later client-side navigation, the server sends only the RSC Payload and no HTML, so Next.js renders the component in the browser alone.</p>
+<hr>
+<h2>The crash that taught me</h2>
+<p>This broke during <code>next build</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'use client'</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">import</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> { useEffect } </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">from</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'react'</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> MyComponent</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() {</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  useEffect</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(() </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {}, [window])  </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// ReferenceError: window is not defined</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> &#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">div</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> /></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>This worked fine:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'use client'</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">import</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> { useEffect } </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">from</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'react'</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> MyComponent</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">() {</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">  useEffect</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(() </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    console.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">log</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(window.scrollX)  </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// no crash</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  }, [])</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> &#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">div</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> /></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>Both snippets are <code>use client</code>. The first puts <code>window</code> in the dependency array, the second inside the callback.</p>
+<p>The 2024 snippets had no <code>import { useEffect }</code>. Without it, every Next.js version fails earlier with <code>useEffect is not defined</code>, so the import is added here.</p>
+<p>The first snippet, rerun in October 2026 on several Next.js versions in a minimal App Router project:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Next.js</th><th><code>next build</code></th><th><code>next dev</code></th></tr></thead><tbody><tr><td>13.4 to 14.1</td><td><code>ReferenceError: window is not defined</code></td><td>same error</td></tr><tr><td>14.2 to 15.5</td><td>passes</td><td>500, same error</td></tr><tr><td>16 (Turbopack by default)</td><td><code>ReferenceError: window is not defined</code></td><td>500, same error</td></tr></tbody></table>
+<p>Versions actually run: 13.4.19, 13.5.6, 14.0.4, 14.1.4, 14.2.0, 14.2.35, 15.0.8, 15.1.12, 15.3.9, 15.5.12, 16.4.3. On 16.4.3, <code>next build --webpack</code> passes.</p>
+<p>From 14.2 (April 2024), a production webpack build turns on <code>experimental.optimizeServerReact</code> by default. It removes <code>useEffect</code> calls from the server bundle, dependency array included, so <code>[window]</code> is never evaluated while prerendering. <code>next dev</code> and Turbopack builds keep the call. To confirm the setting is the cause, 14.2 and 15.5 were rebuilt with it off, and the build failed. With it turned on in 14.1, the build passed.</p>
+<p>The setting does not remove every form:</p>
+<ul>
+<li><code>import { useEffect } from 'react'</code>: it checks the dependency array. If the array contains a function call, such as <code>[getSize()]</code>, it keeps the whole <code>useEffect</code>, because that function may have side effects. The kept <code>getSize()</code> reads <code>window.innerWidth</code> during prerender, the server has no <code>window</code>, so the build fails.</li>
+<li><code>import React from 'react'</code> with <code>React.useEffect(...)</code>: it does not check the dependency array and always removes the call. So even <code>[getSize()]</code> builds.</li>
+<li><code>import * as React from 'react'</code> with <code>React.useEffect(...)</code>: it does not recognize the call as <code>useEffect</code> and keeps it. So even <code>[window]</code> fails the build.</li>
+</ul>
+<p>14.2.0, 14.2.35, 15.0.8, 15.3.9 and 15.5.12 all give the results above. The rules are in the <code>optimize_server_react</code> source (linked in References).</p>
+<hr>
+<h2>What's actually happening</h2>
+<p>On a direct visit, a <code>use client</code> component lives two lives:</p>
+<ol>
+<li><strong>Server</strong> -- Node.js runs your render function, produces HTML. <code>useState</code> initializer runs. The dependency array literal is evaluated, because it is an argument to the <code>useEffect(...)</code> call inside the render function. But <code>useEffect</code> callbacks <strong>don't run</strong>: React's docs say Effects only run on the client.</li>
+<li><strong>Browser</strong> -- HTML shows up first. Then hydration attaches event handlers to that HTML, and from then on <code>setState</code> updates the screen. <code>useEffect</code> callbacks <strong>run now</strong>.</li>
+</ol>
+<p>The dependency array <code>[window]</code> is evaluated during step 1. Node.js hits <code>window</code>, doesn't find it, throws.</p>
+<p>The callback <code>() => { console.log(window.scrollX) }</code> is just a function definition during step 1. Node.js sees it but never calls it. It only runs in step 2.</p>
+<hr>
+<h2>Where is <code>window</code> safe?</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Location</th><th>Server runs it?</th><th><code>window</code> safe?</th></tr></thead><tbody><tr><td>Top-level variable</td><td>Yes</td><td>No</td></tr><tr><td><code>useState</code> initializer</td><td>Yes</td><td>No</td></tr><tr><td><code>useEffect</code> dependency array</td><td>Yes</td><td>No</td></tr><tr><td><code>useEffect</code> callback</td><td>No</td><td>Yes</td></tr><tr><td>Event handler</td><td>No</td><td>Yes</td></tr></tbody></table>
+<p>The dependency array row says "Yes" because when the server render runs the component function, the arguments of the <code>useEffect(...)</code> call, <code>[window]</code> included, are computed first. On Next.js 14.2 to 15.5, though, a default <code>next build</code> removes a call like <code>useEffect(() => {}, [window])</code> at compile time, so the server render never reaches that line, which is why the build passes on those versions.</p>
+<p>One escape hatch works at the top level:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> isBrowser</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> typeof</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> window </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">!==</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 'undefined'</span></span></code></pre></figure>
+<p><code>typeof</code> on an undeclared variable returns <code>"undefined"</code> instead of throwing. That's a JavaScript thing, not a React thing.</p>
+<p>Use it to guard a call, not to render different HTML. With <code>{isBrowser ? &#x3C;A /> : &#x3C;B />}</code>, the server renders <code>B</code> because <code>isBrowser</code> is false, and the browser's first render produces <code>A</code>. Hydration then reports a mismatch: React requires the server HTML to match the browser's initial render output. Guarding a call is fine when the call does not change what renders, as in <code>if (isBrowser) console.log(window.location.href)</code>: on the server <code>isBrowser</code> is false and <code>console.log</code> is never called; in the browser it only prints a line, so both sides render the same HTML.</p>
+<p>If a component cannot be rendered on the server at all, Next.js has an opt-out: <code>next/dynamic</code> with <code>{ ssr: false }</code>, which skips the server render for that Client Component. The option only works inside a Client Component; using it in a Server Component is an error.</p>
+<hr>
+<h2>The mental model</h2>
+<p><code>use client</code> doesn't mean "skip the server." It puts the file and its imports into the client bundle. On a direct visit, the browser uses that JavaScript to hydrate the server's HTML; on a client-side navigation there is no HTML, and the component renders in the browser alone.</p>
+<p>Effect callbacks (<code>useEffect</code>, and <code>useLayoutEffect</code> too) and event handlers never run on the server. On a direct visit without <code>ssr: false</code>, the component's function body runs on the server first, and the <code>useState</code> initializer and dependency arrays inside it are evaluated with it. <code>next dev</code> always shows that error; whether <code>next build</code> shows it depends on the Next.js version (see the table above).</p>
+<hr>
+<h2>References</h2>
+<ul>
+<li><a href="https://github.com/reactwg/server-components/discussions/4">React Server Components Discussion</a></li>
+<li><a href="https://react.dev/reference/react/useEffect">React: useEffect, "Effects only run on the client"</a></li>
+<li><a href="https://react.dev/reference/react-dom/client/hydrateRoot">React: hydrateRoot, "expects the rendered content to be identical"</a></li>
+<li><a href="https://nextjs.org/docs/app/guides/server-and-client-boundary">Next.js: The Server and Client Boundary</a></li>
+<li><a href="https://nextjs.org/docs/app/guides/lazy-loading">Next.js: Lazy loading, skipping SSR</a></li>
+<li><a href="https://nextjs.org/docs/app/getting-started/server-and-client-components">Next.js: Server and Client Components, "<code>"use client"</code> is used to declare a boundary"</a></li>
+<li><a href="https://github.com/vercel/next.js/blob/v15.5.12/crates/next-custom-transforms/src/transforms/optimize_server_react.rs">Next.js 15.5.12 source: optimize_server_react.rs, "Removes <code>useEffect</code> and <code>useLayoutEffect</code> calls"</a></li>
+</ul>8:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L13",null,{"htmlContent":"$14","rawContent":"$15","base64Content":"$16","title":"加了 use client，server 還是會先 render 一次","createdAt":"$undefined","updatedAt":"2026-02-22T17:20:03.000Z","tags":["nextjs","react","ssr"],"altHtmlContent":"$17","altTitle":"use client doesn't mean browser-only","currentLang":"zh","altLang":"en","canonicalPath":"/v2/use-client-not-browser-only"}]}]}]
