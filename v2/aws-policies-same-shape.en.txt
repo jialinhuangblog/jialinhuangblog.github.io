@@ -1,0 +1,1323 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"default"]
+4:I[48350,[],""]
+5:I[11412,[],""]
+6:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+7:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-6e2326ce7d294bfd.js"],"default"]
+9:I[96727,[],"OutletBoundary"]
+b:I[14038,[],"AsyncMetadataOutlet"]
+d:I[96727,[],"ViewportBoundary"]
+f:I[96727,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[92950,[],""]
+:HL["/_next/static/media/8760c4774489e4ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/7928fc73d27b7462.css","style"]
+:HL["/_next/static/css/d3281eaf3cab9132.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/26082814d1c1fbd2.css","style"]
+0:{"P":null,"b":"7b-aY9z1PLkHmf7MEqV83","p":"","c":["","v2","aws-policies-same-shape.en"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","aws-policies-same-shape.en","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7928fc73d27b7462.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/d3281eaf3cab9132.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href=\"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap\";document.head.appendChild(l)})()"}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L7",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","aws-policies-same-shape.en","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/26082814d1c1fbd2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+a:null
+c:{"metadata":[["$","title","0",{"children":"AWS has a dozen policies. They're all one shape.  | jialinhuang"}],["$","meta","1",{"name":"description","content":"S3 bucket policy, SQS queue policy, KMS key policy, IAM role trust policy: all the same JSON. Two questions sort them: is it attached to an identity or a resource, and does it grant access or only cap it? ACLs and CloudFormation stack policies don't fit the questions, and a KMS key policy has one rule of its own."}],["$","link","2",{"rel":"canonical","href":"/v2/aws-policies-same-shape"}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"
+13:I[86734,["7654","static/chunks/7654-2fe46cddc56d2856.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+14:Te0fb,<p>AWS keeps inventing policies. S3 bucket policy, SQS queue policy, SNS topic policy, Lambda function policy, KMS key policy, API Gateway resource policy, IAM role trust policy. It looks like a dozen things to learn.</p>
+<p>It's one JSON shape, and two questions sort most of them.</p>
+<h2>The basic shape</h2>
+<p>Every one of them is this JSON (the comments are for reading; real policy JSON has none):</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="jsonc" data-theme="github-dark github-light"><code data-language="jsonc" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Version"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"2012-10-17"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Statement"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">    "Effect"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Allow"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,            </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// or Deny</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">    "Principal"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: { },             </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// who</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">    "Action"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"s3:GetObject"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">],   </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// what they may do</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">    "Resource"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"arn:..."</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,        </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// on which thing</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">    "Condition"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: { }              </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// when (optional)</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  }]</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>From one service to the next, two parts change:</p>
+<ul>
+<li>the service prefix on the action: <code>s3:</code>, <code>sqs:</code>, <code>kms:</code></li>
+<li>the format of the ARN (Amazon Resource Name, the full ID of an AWS resource) in <code>Resource</code></li>
+</ul>
+<p><code>Principal</code> is sometimes there and sometimes not.</p>
+<h2>How do a dozen policies sort?</h2>
+<p>The <a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html">IAM policy types page</a> lists 9 policy types: identity-based, resource-based, VPC endpoint policy, permissions boundary, SCP, RCP, ACL, RAM (Resource Access Manager) resource share, session policy.</p>
+<p>Eight of them sort with two questions. Is the policy attached to an identity or to a resource? Does it grant access, or only cap it?</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th></th><th>Grants access</th><th>Only caps access</th></tr></thead><tbody><tr><td><strong>Attached to an identity</strong> (no <code>Principal</code>)</td><td>identity-based policy (including a role's permission policy)</td><td>permissions boundary, session policy, SCP</td></tr><tr><td><strong>Attached to a resource</strong> (needs <code>Principal</code>)</td><td>resource-based policy (bucket policy, a role's trust policy, KMS key policy, ..., and the policy a RAM resource share generates)</td><td>RCP, VPC endpoint policy</td></tr></tbody></table>
+<p>RAM generates a resource-based policy for you, to share resources like subnets with other accounts, so it counts as resource-based too (see the <a href="https://docs.aws.amazon.com/ram/latest/userguide/security-ram-permissions.html">RAM managed permissions page</a>).</p>
+<p>SCP and RCP don't actually attach to an identity or a resource; they attach to an AWS Organizations organization root, OU (organizational unit) or account. The table places them by what they govern:</p>
+<ul>
+<li>An SCP directly limits what the users and roles in the account can do. Its target is already fixed, so it has no <code>Principal</code>; the effect is the same as attaching a copy to each identity.</li>
+<li>An RCP limits who can access the resources in the account. A rule written against resources has to say who is accessing them, so an RCP has a <code>Principal</code>. It can only be <code>*</code>, though; narrowing it takes a <code>Condition</code>, for example to deny only accounts outside the organization.</li>
+</ul>
+<p>Two exceptions sit outside the table:</p>
+<ul>
+<li>An <strong>ACL</strong> grants access but doesn't use JSON.</li>
+<li>A <strong>CloudFormation stack policy</strong> uses the same JSON but has nothing to do with access, so it isn't one of AWS's 9.</li>
+</ul>
+<p>A KMS key policy belongs with "attached to a resource, grants access," but identity-based policies on a KMS key follow one rule that S3 doesn't have; the example is <a href="#kms">further down</a>.</p>
+<h2>Question one: attached to an identity, or to a resource?</h2>
+<p>Say you created a role called <code>Reader</code> (an example name, used throughout), and it should be able to read files in the bucket <code>reports</code>. There are two places to write that.</p>
+<h3>Identity-based policy: on the role</h3>
+<p>The first place is the role <code>Reader</code>. A policy attached to an identity is an identity-based policy (shortened to "identity policy" in the boolean expressions later, and sometimes called an "IAM policy"; all three mean the same thing):</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Effect"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Allow"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Action"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"s3:GetObject"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Resource"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"arn:aws:s3:::reports/*"</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>Writing the policy isn't enough; it has to be attached. Save it as <code>read-reports.json</code> (wrapped in <code>"Version"</code> and <code>"Statement"</code>, like the JSON at the top of the article) and attach it to the role:</p>
+<pre><code>aws iam put-role-policy \
+  --role-name Reader \
+  --policy-name read-reports \
+  --policy-document file://read-reports.json
+</code></pre>
+<h3>Resource-based policy: on the bucket</h3>
+<p>The second place is the bucket <code>reports</code>. A policy attached to a resource is a resource-based policy, here a bucket policy. Compared with the one above, it has one extra line:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="diff" data-theme="github-dark github-light"><code data-language="diff" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">   "Effect": "Allow",</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+  "Principal": { "AWS": "arn:aws:iam::111122223333:role/Reader" },</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">   "Action": "s3:GetObject",</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">   "Resource": "arn:aws:s3:::reports/*"</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> }</span></span></code></pre></figure>
+<h3>Why only the bucket policy needs a Principal</h3>
+<p>A bucket policy says who may read the bucket, so <code>Principal</code> names them. The one on <code>Reader</code> doesn't need it, because the one reading is <code>Reader</code> itself. The <a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_principal.html">IAM Principal element page</a> states both rules. Checked in November 2026 with <code>aws accessanalyzer validate-policy</code>: the second policy, checked as an identity-based policy, returns <code>UNSUPPORTED_PRINCIPAL</code>; the first, checked as a bucket policy, returns <code>MISSING_PRINCIPAL</code>.</p>
+<p>Every policy listed at the top of the article sits on a resource like this. When unsure, ask: can I attach a policy directly to this thing? If yes, it's resource-based and wants a <code>Principal</code>. The "Resource-based policies" column in the <a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_aws-services-that-work-with-iam.html">IAM services table</a> has the full list.</p>
+<h2>Which kind is an IAM role's policy?</h2>
+<p>What people call an "IAM role policy" is really one of two: the permission policy or the trust policy. The first is identity-based, the second resource-based. Both are set in IAM.</p>
+<p>Say a Lambda function uses <code>Reader</code> to read <code>reports</code>.</p>
+<h3>Trust policy: who may assume Reader</h3>
+<p>A trust policy's <code>Action</code> depends on how whoever assumes the role signed in (see the <a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_create_for-idp_oidc.html">IAM OIDC role page</a>):</p>
+<ul>
+<li>An AWS user, role or service: <code>sts:AssumeRole</code></li>
+<li>Signed in through OIDC (OpenID Connect), such as GitHub Actions: <code>sts:AssumeRoleWithWebIdentity</code></li>
+<li>Signed in through SAML (Security Assertion Markup Language): <code>sts:AssumeRoleWithSAML</code></li>
+</ul>
+<p>This one lets a Lambda assume <code>Reader</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Effect"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Allow"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Principal"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: { </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"Service"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"lambda.amazonaws.com"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> },</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Action"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"sts:AssumeRole"</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<h3>Permission policy: what Reader may do once assumed</h3>
+<p>The permission policy is the one from question one, attached to <code>Reader</code> and allowing reads of <code>reports</code>.</p>
+<h3>How AWS checks the two when the Lambda reads a file</h3>
+<ol>
+<li>The Lambda asks to assume <code>Reader</code>.</li>
+<li>AWS checks the trust policy: <code>lambda.amazonaws.com</code> is in <code>Principal</code>, so this is allowed.</li>
+<li>The Lambda gets <code>Reader</code>'s temporary credentials.</li>
+<li>The Lambda calls <code>s3:GetObject</code> with them.</li>
+<li>AWS checks the permission policy: <code>reports/*</code> is allowed, so this is allowed.</li>
+</ol>
+<h3>Why only the trust policy needs a Principal</h3>
+<p>A trust policy says who may assume <code>Reader</code>, so <code>Principal</code> names them. The permission policy doesn't need one, because it sits on <code>Reader</code> and the one acting is <code>Reader</code> itself. The <a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_aws-services-that-work-with-iam.html">IAM services table</a> calls it the only resource-based policy IAM supports.</p>
+<p>A trust policy has no <code>Resource</code>, because the resource is the role itself. <code>validate-policy</code> rejects a trust policy that includes one with <code>ROLE_TRUST_POLICY_SYNTAX_ERROR_RESOURCE</code>.</p>
+<p>How trust policies work is covered in <a href="/v2/iam-assume-role-trust-policy">assumeRole and trust policy</a>.</p>
+<h2>Question two: does it grant access, or only cap it?</h2>
+<p>Every policy so far grants access. A few others use the same shape but only set a ceiling and grant nothing themselves. Some attach to identities and some to resources.</p>
+<h3>Permissions boundary</h3>
+<p>A permissions boundary attaches to an IAM user or role and has no <code>Principal</code>. Say <code>Reader</code>'s identity-based policy allows every S3 action:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Effect"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Allow"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Action"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"s3:*"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Resource"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"*"</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p><code>Reader</code> also has a permissions boundary, <code>s3-read-only</code>, that allows only <code>s3:GetObject</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Effect"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Allow"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Action"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"s3:GetObject"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Resource"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"*"</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>Both are the same kind of JSON, attached with different commands:</p>
+<ul>
+<li>Attached with <code>put-role-policy</code>, it's an identity-based policy and grants access. If <code>Reader</code> has several, they combine with <code>||</code>: one allow is enough.</li>
+<li>Attached with <code>put-role-permissions-boundary</code> below, it's a permissions boundary and only caps.</li>
+<li>Identity-based policy and permissions boundary combine with <code>&#x26;&#x26;</code>, which the <a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic.html">IAM evaluation page</a> calls an intersection: <code>identity-based policy &#x26;&#x26; permissions boundary</code>.</li>
+</ul>
+<p>So <code>Reader</code> can do only <code>s3:GetObject</code>, which both allow; an <code>s3:PutObject</code> call is denied.</p>
+<p>The other way round, if the boundary allows <code>s3:*</code> and the identity-based policy allows no S3 action, <code>Reader</code> has no S3 access.</p>
+<p>A boundary has to exist as a managed policy first, then gets attached by its ARN:</p>
+<pre><code>aws iam create-policy \
+  --policy-name s3-read-only \
+  --policy-document file://s3-read-only.json
+
+aws iam put-role-permissions-boundary \
+  --role-name Reader \
+  --permissions-boundary arn:aws:iam::111122223333:policy/s3-read-only
+</code></pre>
+<h3>Session policy</h3>
+<p>A session policy also only caps. It and the trust policy both come up when a role is assumed, so they're easy to mix up. Say the session policy <code>only-q3.json</code> allows reading only <code>reports/q3.pdf</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Effect"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Allow"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Action"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"s3:GetObject"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Resource"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"arn:aws:s3:::reports/q3.pdf"</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>A caller assumes <code>Reader</code> with this command, gets a temporary session, and passes the session policy with <code>--policy</code>:</p>
+<pre><code>aws sts assume-role \
+  --role-arn arn:aws:iam::111122223333:role/Reader \
+  --role-session-name read-q3 \
+  --policy file://only-q3.json
+</code></pre>
+<ol>
+<li>AWS checks <code>Reader</code>'s trust policy first. A caller not in its <code>Principal</code> can't assume the role.</li>
+<li>After that, the session can do only what both <code>Reader</code>'s permission policy and <code>only-q3.json</code> allow.</li>
+</ol>
+<ul>
+<li><code>Reader</code>'s permission policy allows reading all of <code>reports/*</code>.</li>
+<li><code>only-q3.json</code> allows reading only <code>reports/q3.pdf</code>.</li>
+<li>The session's permissions are <code>permission policy &#x26;&#x26; session policy</code>, so it can read only <code>q3.pdf</code>.</li>
+</ul>
+<p>A session policy isn't attached anywhere; it's passed on each <code>assume-role</code> call and affects only that session. The example above has the session policy narrowing access to <code>q3.pdf</code>. A session policy can't widen access, though: even if <code>only-q3.json</code> were <code>s3:*</code>, the session still couldn't do anything <code>Reader</code>'s permission policy doesn't allow.</p>
+<p>The <a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html">IAM policy types page</a> says permissions boundaries and session policies "do not grant permissions." In the expressions <code>identity-based policy &#x26;&#x26; permissions boundary</code> and <code>permission policy &#x26;&#x26; session policy</code> above, they only appear to the right of <code>&#x26;&#x26;</code>: when the left side is <code>false</code>, nothing on the right can make the result <code>true</code>.</p>
+<h3>SCP</h3>
+<p>An SCP (service control policy) is an AWS Organizations policy. It attaches to the organization root, an OU or an account, and limits the IAM users and roles underneath. An organization looks roughly like this:</p>
+<pre><code>organization root
+├── management account   ← created the organization, pays the whole organization's bill
+├── OU: prod
+│   ├── account A
+│   └── account B
+└── OU: dev
+    └── account C
+</code></pre>
+<p>Say this SCP is attached to the organization root:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Effect"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Deny"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Action"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"s3:DeleteBucket"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Resource"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"*"</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<ul>
+<li>A user in account A, B or C who calls <code>s3:DeleteBucket</code> is denied, even if their identity-based policy allows <code>s3:*</code>.</li>
+<li>The management account is under the root too, but its users and roles can still call <code>s3:DeleteBucket</code>. The <a href="https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html">SCP page</a> says SCPs don't affect users or roles in the management account, or service-linked roles.</li>
+</ul>
+<p>Attach the same SCP to <code>OU: prod</code> instead, and only accounts A and B are limited.</p>
+<p>Because SCPs can't limit the management account, the <a href="https://docs.aws.amazon.com/organizations/latest/userguide/orgs_best-practices_mgmt-acct.html">Organizations best practices for the management account</a> recommend keeping resources in other accounts. Use the management account only to manage the organization itself, such as creating accounts, creating and attaching SCPs, and viewing the organization's bill.</p>
+<p>The same page says that organizations created in the console after July 10, 2026 get an SCP at the root automatically. It denies <code>organizations:LeaveOrganization</code> and <code>account:CloseAccount</code>, so users and roles in a member account can't take their account out of the organization or close it; those two steps are handled from the management account instead.</p>
+<p>An SCP can't have a <code>Principal</code>: the <a href="https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps_syntax.html">SCP syntax page</a> lists <code>Principal</code> and <code>NotPrincipal</code> as unsupported.</p>
+<h3>RCP</h3>
+<p>An <a href="https://aws.amazon.com/blogs/aws/introducing-resource-control-policies-rcps-a-new-authorization-policy/">RCP</a> (Resource Control Policy) is an Organizations policy added in November 2024. It attaches to the account that owns the bucket and limits who may access that account's resources. It and an SCP limit different things:</p>
+<ul>
+<li>SCP: what users and roles inside the organization may do.</li>
+<li>RCP: who may access resources in the organization, including accounts outside it.</li>
+</ul>
+<p>This one, from the <a href="https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_rcps_syntax.html">RCP syntax page</a>, denies any S3 request not made over HTTPS:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Effect"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Deny"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Principal"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"*"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Action"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"s3:*"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Resource"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"*"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Condition"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: { </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"BoolIfExists"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: { </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"aws:SecureTransport"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"false"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> } }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>An RCP's <code>Principal</code> accepts only <code>*</code>, and an RCP you write can only use <code>Deny</code>. The <a href="https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_rcps_syntax.html">RCP syntax page</a> says <code>Allow</code> is supported only in <code>RCPFullAWSAccess</code>. When you enable RCPs, AWS attaches that policy to every root, OU and account, and you can't detach it. It lets every request pass the RCP check, so with no <code>Deny</code> written, RCPs refuse nothing. An RCP refuses a request only when someone writes a <code>Deny</code> and the request matches it. For example, if the bucket policy allows an outside account <code>s3:GetObject</code> and an RCP has a <code>Deny</code> for accounts outside the organization, that account still can't read the object. Like SCPs, RCPs don't affect resources in the management account (see the <a href="https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_rcps.html">RCP page</a>).</p>
+<h3>VPC endpoint policy</h3>
+<p>A VPC endpoint policy attaches to a VPC endpoint and limits what requests through that endpoint can reach. An endpoint created without a policy gets a default endpoint policy that lets requests through it reach any resource.</p>
+<p>One kind of S3 endpoint is the gateway endpoint: EC2 instances in the VPC reach S3 through it without an internet gateway or NAT (see the <a href="https://docs.aws.amazon.com/vpc/latest/privatelink/vpc-endpoints-s3.html">S3 gateway endpoint page</a>). The <a href="https://docs.aws.amazon.com/vpc/latest/privatelink/vpc-endpoints-access.html">VPC endpoint policy page</a> says an endpoint policy must have a <code>Principal</code>, and for a gateway endpoint it can only be <code>*</code>. Say the endpoint policy on an S3 gateway endpoint is this:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Effect"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Allow"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Principal"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"*"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Action"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"s3:GetObject"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Resource"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"arn:aws:s3:::reports/*"</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>Code in the VPC going through that endpoint can read only <code>reports</code>. The endpoint policy only caps; whether <code>Reader</code> can read <code>reports</code> still comes down to its identity-based policy and the bucket policy.</p>
+<h2>What about "deny everyone except X"?</h2>
+<p><code>Principal</code> has a negated form, <code>NotPrincipal</code>. This bucket policy denies everyone except <code>Admin</code> access to <code>reports</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Effect"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Deny"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "NotPrincipal"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: { </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"AWS"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [</span></span>
+<span data-line=""><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">    "arn:aws:iam::111122223333:root"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">    "arn:aws:iam::111122223333:role/Admin"</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  ]},</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Action"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"s3:*"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Resource"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"arn:aws:s3:::reports"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"arn:aws:s3:::reports/*"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">]</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p><code>NotPrincipal</code> still names a who, so for question one it counts the same as <code>Principal</code>.</p>
+<p>The <a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_notprincipal.html">IAM NotPrincipal page</a> allows <code>NotPrincipal</code> only with <code>Deny</code>, and never in an identity-based policy or a trust policy. It also recommends against <code>NotPrincipal</code> in new policies, in favour of <code>"Principal": "*"</code> with an <code>ArnNotEquals</code> condition on <code>aws:PrincipalArn</code>.</p>
+<p><code>Action</code> and <code>Resource</code> have negated forms too, <code>NotAction</code> and <code>NotResource</code>. <code>"NotAction": "iam:*"</code> means every action outside IAM (see the <a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_notaction.html">NotAction page</a>).</p>
+<h2>Which policies have rules of their own?</h2>
+<p><span id="kms"></span></p>
+<h3>KMS key policy</h3>
+<p>Usually, if <code>Reader</code>'s identity-based policy allows <code>s3:GetObject</code> and <code>kms:Decrypt</code>, it can read KMS-encrypted files (see the <a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingKMSEncryption.html">S3 SSE-KMS page</a>).</p>
+<p>That's because the default key policy has a statement whose <code>Principal</code> is the account itself (<code>:root</code>). Once the key policy allows the account, KMS looks at the account's identity-based policies, and <code>Reader</code>'s <code>kms:Decrypt</code> counts (see the <a href="https://docs.aws.amazon.com/kms/latest/developerguide/key-policy-default.html">KMS default key policy page</a>). If someone writes their own key policy and leaves this statement out, KMS ignores identity-based policies, and <code>Reader</code> is denied even with <code>kms:Decrypt</code> in its identity-based policy.</p>
+<p>The <code>+</code> lines below are that statement:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="diff" data-theme="github-dark github-light"><code data-language="diff" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">   "Statement": [</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">     {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">       "Sid": "Allow access for Key Administrators",</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">       ...</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">     },</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+    {</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+      "Sid": "Enable IAM User Permissions",</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+      "Effect": "Allow",</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+      "Principal": { "AWS": "arn:aws:iam::111122223333:root" },</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+      "Action": "kms:*",</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+      "Resource": "*"</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+    }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">   ]</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> }</span></span></code></pre></figure>
+<pre><code>S3:  identity policy || bucket policy
+KMS: key policy names Reader || (key policy names :root &#x26;&#x26; identity policy)
+</code></pre>
+<p>For S3, the identity-based policy sits inside <code>||</code> and is enough on its own; for KMS, it sits to the right of <code>&#x26;&#x26;</code>, so the key policy must allow <code>:root</code> first (see the <a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic_policy-eval-denyallow.html">IAM evaluation page</a>).</p>
+<h3>CloudFormation stack policy</h3>
+<p>A CloudFormation stack policy controls which resources a stack update may change. This one allows every update except deletes (example from the <a href="https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/protect-stack-resources.html">CloudFormation stack policy page</a>):</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Effect"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Allow"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "NotAction"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Update:Delete"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Principal"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"*"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Resource"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"*"</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p><code>Principal</code> is required but accepts only <code>*</code>, since there is no "who" to pick. The actions aren't a service's API either; there are three, <code>Update:Modify</code>, <code>Update:Replace</code> and <code>Update:Delete</code>.</p>
+<h2>What does <code>Reader</code> need to read <code>reports/q3.pdf</code>?</h2>
+<p>For <code>Reader</code> reading <code>q3.pdf</code> in the same account, the rules on the <a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic_policy-eval-denyallow.html">IAM policy evaluation page</a> come out as a boolean expression, where any layer that isn't attached counts as <code>true</code>:</p>
+<pre><code>no Deny matches
+&#x26;&#x26; (identity policy 1 || identity policy 2 || bucket policy)
+&#x26;&#x26; permissions boundary
+&#x26;&#x26; session policy
+&#x26;&#x26; SCP &#x26;&#x26; RCP &#x26;&#x26; VPC endpoint policy
+&#x26;&#x26; kms:Decrypt   (if q3.pdf is encrypted with a KMS key)
+</code></pre>
+<p>Every <code>Deny</code> counts on the first line, whether it sits in the bucket policy, an identity policy or an SCP. The other lines look only at whether that policy has an <code>Allow</code>: the <code>bucket policy</code> in the parentheses, for example, asks whether the bucket policy has an <code>Allow</code> statement that permits this request.</p>
+<p>There is no ACL in this expression, because the <a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html">IAM policy types page</a> says "ACLs cannot grant permissions to entities within the same account". ACLs can only grant to other accounts and to anonymous requests, so the ACL term appears only in the cross-account expression below.</p>
+<p>In the words of the <a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic.html">IAM evaluation page</a>:</p>
+<ul>
+<li><code>||</code> is a union: one allow among the identity-based and resource-based policies is enough.</li>
+<li><code>&#x26;&#x26;</code> is an intersection: the <code>||</code> in parentheses being <code>true</code> isn't enough; every other line must be <code>true</code> too, including "no Deny matches" on the first line, the caps in the middle, and <code>kms:Decrypt</code> on the last.</li>
+</ul>
+<p>Across accounts, the expression changes. Say <code>Reader</code> is in account A and <code>reports</code> in account B:</p>
+<pre><code>same account:   identity policy 1 || identity policy 2 || bucket policy
+cross-account:  (identity policy 1 || identity policy 2) &#x26;&#x26; (bucket policy || ACL)
+</code></pre>
+<ul>
+<li>Same account: one allow among the three is enough.</li>
+<li>Cross-account: accounts A and B each check their own side, and both must allow it (see the <a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic-cross-account.html">IAM cross-account evaluation page</a>).
+<ul>
+<li>Account A checks the policies on <code>Reader</code>: is <code>Reader</code> allowed to read someone else's bucket? <code>identity policy 1 || identity policy 2</code>, one allow is enough.</li>
+<li>Account B checks the policies on <code>reports</code>: does <code>reports</code> let account A's <code>Reader</code> in? <code>bucket policy || ACL</code>, one allow is enough.</li>
+<li>The two groups are joined by <code>&#x26;&#x26;</code>: only when A says yes and B says yes can <code>Reader</code> read the file.</li>
+</ul>
+</li>
+</ul>
+<p>Applied to concrete setups. In these examples <code>Reader</code> and <code>reports</code> are in the same account, except in the cross-account row:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Setup</th><th>Readable?</th><th>Why</th></tr></thead><tbody><tr><td>Identity-based policy allows <code>s3:*</code>; bucket policy also lets in <code>Reader</code>; nothing else</td><td>✅</td><td>all = <code>true</code></td></tr><tr><td>Only the identity-based policy allows it; bucket policy doesn't mention <code>Reader</code></td><td>✅</td><td><code>identity policy</code> = <code>true</code>, so <code>||</code> = <code>true</code></td></tr><tr><td>Identity-based policy silent; bucket policy names <code>Reader</code>'s role ARN</td><td>✅</td><td><code>bucket policy</code> = <code>true</code>, so <code>||</code> = <code>true</code></td></tr><tr><td><code>Reader</code> in another account; only the identity-based policy allows it</td><td>❌</td><td><code>(bucket policy || ACL)</code> = <code>false</code></td></tr><tr><td>Identity-based policy allows <code>s3:*</code>; bucket policy has a <code>Deny</code> naming <code>Reader</code></td><td>❌</td><td>a <code>Deny</code> matches, so denied</td></tr><tr><td>Identity-based and bucket policies allow it; the SCP on <code>Reader</code>'s account denies <code>s3:GetObject</code></td><td>❌</td><td>a <code>Deny</code> matches, so denied</td></tr><tr><td>Identity-based policy allows <code>s3:*</code>; permissions boundary allows only <code>s3:ListBucket</code></td><td>❌</td><td><code>permissions boundary</code> = <code>false</code></td></tr><tr><td>Request goes through a VPC endpoint whose policy allows only another bucket</td><td>❌</td><td><code>VPC endpoint policy</code> = <code>false</code></td></tr><tr><td>All S3 permissions allow it, but <code>q3.pdf</code> is KMS-encrypted and the key policy lacks the <code>:root</code> statement</td><td>❌</td><td><code>kms:Decrypt</code> = <code>false</code> (see <a href="#kms">KMS key policy</a>)</td></tr></tbody></table>
+<p>ACL and Block Public Access settings are covered in the next two subsections, and can be flipped in the embed in the Block Public Access one.</p>
+<h3>With ACLs on, an Allow-only bucket policy is undone however precise it is</h3>
+<p>Besides policies, S3 has an older access system, the <strong>ACL</strong> (access control list): the <code>ACL</code> in <code>bucket policy || ACL</code> in the cross-account expression above; anonymous requests are checked against it too. The <a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html">IAM policy types page</a> calls ACLs the only policy type that doesn't use JSON.</p>
+<p>Say the bucket policy on <code>reports</code> lets in only <code>Reader</code>, and ACLs are still enabled. Someone uploads <code>q3.pdf</code> with <code>--acl public-read</code>:</p>
+<pre><code>aws s3 cp q3.pdf s3://reports/ --acl public-read
+</code></pre>
+<ol>
+<li><code>q3.pdf</code>'s ACL gains a grant: <code>AllUsers</code> may <code>READ</code>.</li>
+<li>The bucket policy still names only <code>Reader</code>.</li>
+<li>Anyone can GET the file's URL, unsigned, and read it.</li>
+</ol>
+<p>The grant looks like this. No <code>Effect</code>, no <code>Action</code>, no <code>Condition</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="xml" data-theme="github-dark github-light"><code data-language="xml" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">Grant</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  &#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">Grantee</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> xsi:type</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Group"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    &#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">URI</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">>http://acs.amazonaws.com/groups/global/AllUsers&#x3C;/</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">URI</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  &#x3C;/</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">Grantee</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  &#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">Permission</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">>READ&#x3C;/</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">Permission</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;/</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">Grant</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span></code></pre></figure>
+<p>The <a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/acl-overview.html">S3 ACL page</a> says <code>AllUsers</code> means anyone, signed or anonymous. An anonymous request has no identity policy, so only the <code>reports</code> side counts: <code>bucket policy || ACL</code>. The bucket policy doesn't name it, but the <code>ACL</code> term is <code>true</code>, so the <code>||</code> holds. If the bucket policy has only <code>Allow</code> statements, however strict, <code>q3.pdf</code> is public. Add the <code>Deny</code> below to the bucket policy, though, and the first line, "no Deny matches", fails, so the ACL grant doesn't help. The <a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_variables.html">IAM policy variables page</a> says an anonymous request's <code>aws:PrincipalType</code> is <code>Anonymous</code>, so this denies only anonymous requests and leaves <code>Reader</code> alone:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Effect"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Deny"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Principal"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"*"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Action"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"s3:GetObject"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Resource"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"arn:aws:s3:::reports/*"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Condition"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: { </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"StringEquals"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: { </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"aws:PrincipalType"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Anonymous"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> } }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<h3>Block Public Access: do public ACLs and bucket policies count?</h3>
+<p>The left side of the embed below holds the switches: Object Ownership (a three-way choice, one option of which disables ACLs), the four Block Public Access switches, and how <code>q3.pdf</code> was encrypted when uploaded, with the KMS key policy below that. The right side holds the bucket policy JSON and <code>q3.pdf</code>'s object ACL. Statements can be added to or removed from the bucket policy and the KMS key policy; the KMS key policy's statements appear after you open "2 statements". The object ACL is shown as is.</p>
+<ul>
+<li>Set Object Ownership to Bucket owner enforced, which disables ACLs, and <code>q3.pdf</code>'s object ACL and the <code>BlockPublicAcls</code> and <code>IgnorePublicAcls</code> switches turn grey, because S3 no longer counts ACLs when checking access.</li>
+<li>The four lines at the top right are the results. Their text never changes; only the colour gives the answer: normal ink means yes, faded means no.</li>
+</ul>
+<iframe src="/embeds/s3-access-tree" width="100%" height="1084" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="S3 bucket settings tree: what decides whether q3.pdf can be read"></iframe>
+<p>Block Public Access isn't a single switch but a set of four. Each can be on or off on its own; the <a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-control-block-public-access.html">S3 Block Public Access page</a> says "These settings are independent and can be used in any combination." They deal with <em>public</em> ACLs and bucket policies. A public ACL is a grant to <code>AllUsers</code> like the one above; a public bucket policy is one like the <code>Principal: "*"</code> statement in the embed, with no limiting <code>Condition</code>, so anyone can read.</p>
+<p>In the console's wording, two of the four act on <em>new</em> ones and two on <em>any</em>:</p>
+<ul>
+<li><code>BlockPublicAcls</code>, <code>BlockPublicPolicy</code> (<em>new</em>): S3 rejects any attempt to write a public ACL or bucket policy. Existing ones are untouched; <code>q3.pdf</code>'s ACL stays in force.</li>
+<li><code>IgnorePublicAcls</code>, <code>RestrictPublicBuckets</code> (<em>any</em>): existing ones aren't deleted, but stop working for outsiders. A public ACL doesn't count, so anonymous requests can't read <code>q3.pdf</code>; a public bucket policy works only for users in the bucket owner's account and AWS services. <code>Reader</code> still reads through policies in its own account.</li>
+</ul>
+<p>If the account, organization or an access point also sets these switches, S3 compares them one switch at a time: a switch on in any of those places counts as on for <code>reports</code>. If the account has <code>IgnorePublicAcls</code> on, public ACLs in <code>reports</code> don't count even though the bucket itself has it off. The organization is the exception: the <a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-control-block-public-access.html">Block Public Access page</a> says that at the organization level all four settings apply together, and you can't turn on just one.</p>
+<h3>The 2023 defaults</h3>
+<p><a href="https://aws.amazon.com/blogs/aws/heads-up-amazon-s3-security-changes-are-coming-in-april-of-2023/">Since April 2023</a>, new buckets have all four on and <a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/about-object-ownership.html">ACLs disabled</a> ("Bucket owner enforced"). With ACLs disabled:</p>
+<ul>
+<li>the <code>--acl public-read</code> upload above fails with a 400 <code>AccessControlListNotSupported</code>;</li>
+<li>existing ACLs no longer take part in access evaluation; the <code>ACL</code> term in the expression is never true, and only the policies decide.</li>
+</ul>
+<h2>The takeaway</h2>
+<p>Next time AWS hands you a new "X policy," ask two questions:</p>
+<ol>
+<li><strong>Does it name a who, with <code>Principal</code> or <code>NotPrincipal</code>?</strong> If yes, it sits on a resource; if no, on an identity. SCP and RCP are the exception: they attach to an Organizations root, OU or account.</li>
+<li><strong>Does it grant access, or only cap it?</strong> If the docs say it does "not grant permissions," it only caps.</li>
+</ol>
+<p>Then find its cell in the table above. For a KMS key, the key policy must first allow the key's account to use identity-based policies before any identity-based policy takes effect.</p>15:T733e,
+AWS keeps inventing policies. S3 bucket policy, SQS queue policy, SNS topic policy, Lambda function policy, KMS key policy, API Gateway resource policy, IAM role trust policy. It looks like a dozen things to learn.
+
+It's one JSON shape, and two questions sort most of them.
+
+## The basic shape
+
+Every one of them is this JSON (the comments are for reading; real policy JSON has none):
+
+```jsonc
+{
+  "Version": "2012-10-17",
+  "Statement": [{
+    "Effect": "Allow",            // or Deny
+    "Principal": { },             // who
+    "Action": ["s3:GetObject"],   // what they may do
+    "Resource": "arn:...",        // on which thing
+    "Condition": { }              // when (optional)
+  }]
+}
+```
+
+From one service to the next, two parts change:
+
+- the service prefix on the action: `s3:`, `sqs:`, `kms:`
+- the format of the ARN (Amazon Resource Name, the full ID of an AWS resource) in `Resource`
+
+`Principal` is sometimes there and sometimes not.
+
+## How do a dozen policies sort?
+
+The [IAM policy types page](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html) lists 9 policy types: identity-based, resource-based, VPC endpoint policy, permissions boundary, SCP, RCP, ACL, RAM (Resource Access Manager) resource share, session policy.
+
+Eight of them sort with two questions. Is the policy attached to an identity or to a resource? Does it grant access, or only cap it?
+
+| | Grants access | Only caps access |
+|---|---|---|
+| **Attached to an identity** (no `Principal`) | identity-based policy (including a role's permission policy) | permissions boundary, session policy, SCP |
+| **Attached to a resource** (needs `Principal`) | resource-based policy (bucket policy, a role's trust policy, KMS key policy, ..., and the policy a RAM resource share generates) | RCP, VPC endpoint policy |
+
+RAM generates a resource-based policy for you, to share resources like subnets with other accounts, so it counts as resource-based too (see the [RAM managed permissions page](https://docs.aws.amazon.com/ram/latest/userguide/security-ram-permissions.html)).
+
+SCP and RCP don't actually attach to an identity or a resource; they attach to an AWS Organizations organization root, OU (organizational unit) or account. The table places them by what they govern:
+
+- An SCP directly limits what the users and roles in the account can do. Its target is already fixed, so it has no `Principal`; the effect is the same as attaching a copy to each identity.
+- An RCP limits who can access the resources in the account. A rule written against resources has to say who is accessing them, so an RCP has a `Principal`. It can only be `*`, though; narrowing it takes a `Condition`, for example to deny only accounts outside the organization.
+
+Two exceptions sit outside the table:
+
+- An **ACL** grants access but doesn't use JSON.
+- A **CloudFormation stack policy** uses the same JSON but has nothing to do with access, so it isn't one of AWS's 9.
+
+A KMS key policy belongs with "attached to a resource, grants access," but identity-based policies on a KMS key follow one rule that S3 doesn't have; the example is [further down](#kms).
+
+## Question one: attached to an identity, or to a resource?
+
+Say you created a role called `Reader` (an example name, used throughout), and it should be able to read files in the bucket `reports`. There are two places to write that.
+
+### Identity-based policy: on the role
+
+The first place is the role `Reader`. A policy attached to an identity is an identity-based policy (shortened to "identity policy" in the boolean expressions later, and sometimes called an "IAM policy"; all three mean the same thing):
+
+```json
+{
+  "Effect": "Allow",
+  "Action": "s3:GetObject",
+  "Resource": "arn:aws:s3:::reports/*"
+}
+```
+
+Writing the policy isn't enough; it has to be attached. Save it as `read-reports.json` (wrapped in `"Version"` and `"Statement"`, like the JSON at the top of the article) and attach it to the role:
+
+```
+aws iam put-role-policy \
+  --role-name Reader \
+  --policy-name read-reports \
+  --policy-document file://read-reports.json
+```
+
+### Resource-based policy: on the bucket
+
+The second place is the bucket `reports`. A policy attached to a resource is a resource-based policy, here a bucket policy. Compared with the one above, it has one extra line:
+
+```diff
+ {
+   "Effect": "Allow",
++  "Principal": { "AWS": "arn:aws:iam::111122223333:role/Reader" },
+   "Action": "s3:GetObject",
+   "Resource": "arn:aws:s3:::reports/*"
+ }
+```
+
+### Why only the bucket policy needs a Principal
+
+A bucket policy says who may read the bucket, so `Principal` names them. The one on `Reader` doesn't need it, because the one reading is `Reader` itself. The [IAM Principal element page](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_principal.html) states both rules. Checked in November 2026 with `aws accessanalyzer validate-policy`: the second policy, checked as an identity-based policy, returns `UNSUPPORTED_PRINCIPAL`; the first, checked as a bucket policy, returns `MISSING_PRINCIPAL`.
+
+Every policy listed at the top of the article sits on a resource like this. When unsure, ask: can I attach a policy directly to this thing? If yes, it's resource-based and wants a `Principal`. The "Resource-based policies" column in the [IAM services table](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_aws-services-that-work-with-iam.html) has the full list.
+
+## Which kind is an IAM role's policy?
+
+What people call an "IAM role policy" is really one of two: the permission policy or the trust policy. The first is identity-based, the second resource-based. Both are set in IAM.
+
+Say a Lambda function uses `Reader` to read `reports`.
+
+### Trust policy: who may assume Reader
+
+A trust policy's `Action` depends on how whoever assumes the role signed in (see the [IAM OIDC role page](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_create_for-idp_oidc.html)):
+
+- An AWS user, role or service: `sts:AssumeRole`
+- Signed in through OIDC (OpenID Connect), such as GitHub Actions: `sts:AssumeRoleWithWebIdentity`
+- Signed in through SAML (Security Assertion Markup Language): `sts:AssumeRoleWithSAML`
+
+This one lets a Lambda assume `Reader`:
+
+```json
+{
+  "Effect": "Allow",
+  "Principal": { "Service": "lambda.amazonaws.com" },
+  "Action": "sts:AssumeRole"
+}
+```
+
+### Permission policy: what Reader may do once assumed
+
+The permission policy is the one from question one, attached to `Reader` and allowing reads of `reports`.
+
+### How AWS checks the two when the Lambda reads a file
+
+1. The Lambda asks to assume `Reader`.
+2. AWS checks the trust policy: `lambda.amazonaws.com` is in `Principal`, so this is allowed.
+3. The Lambda gets `Reader`'s temporary credentials.
+4. The Lambda calls `s3:GetObject` with them.
+5. AWS checks the permission policy: `reports/*` is allowed, so this is allowed.
+
+### Why only the trust policy needs a Principal
+
+A trust policy says who may assume `Reader`, so `Principal` names them. The permission policy doesn't need one, because it sits on `Reader` and the one acting is `Reader` itself. The [IAM services table](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_aws-services-that-work-with-iam.html) calls it the only resource-based policy IAM supports.
+
+A trust policy has no `Resource`, because the resource is the role itself. `validate-policy` rejects a trust policy that includes one with `ROLE_TRUST_POLICY_SYNTAX_ERROR_RESOURCE`.
+
+How trust policies work is covered in [assumeRole and trust policy](/v2/iam-assume-role-trust-policy).
+
+## Question two: does it grant access, or only cap it?
+
+Every policy so far grants access. A few others use the same shape but only set a ceiling and grant nothing themselves. Some attach to identities and some to resources.
+
+### Permissions boundary
+
+A permissions boundary attaches to an IAM user or role and has no `Principal`. Say `Reader`'s identity-based policy allows every S3 action:
+
+```json
+{
+  "Effect": "Allow",
+  "Action": "s3:*",
+  "Resource": "*"
+}
+```
+
+`Reader` also has a permissions boundary, `s3-read-only`, that allows only `s3:GetObject`:
+
+```json
+{
+  "Effect": "Allow",
+  "Action": "s3:GetObject",
+  "Resource": "*"
+}
+```
+
+Both are the same kind of JSON, attached with different commands:
+
+- Attached with `put-role-policy`, it's an identity-based policy and grants access. If `Reader` has several, they combine with `||`: one allow is enough.
+- Attached with `put-role-permissions-boundary` below, it's a permissions boundary and only caps.
+- Identity-based policy and permissions boundary combine with `&&`, which the [IAM evaluation page](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic.html) calls an intersection: `identity-based policy && permissions boundary`.
+
+So `Reader` can do only `s3:GetObject`, which both allow; an `s3:PutObject` call is denied.
+
+The other way round, if the boundary allows `s3:*` and the identity-based policy allows no S3 action, `Reader` has no S3 access.
+
+A boundary has to exist as a managed policy first, then gets attached by its ARN:
+
+```
+aws iam create-policy \
+  --policy-name s3-read-only \
+  --policy-document file://s3-read-only.json
+
+aws iam put-role-permissions-boundary \
+  --role-name Reader \
+  --permissions-boundary arn:aws:iam::111122223333:policy/s3-read-only
+```
+
+### Session policy
+
+A session policy also only caps. It and the trust policy both come up when a role is assumed, so they're easy to mix up. Say the session policy `only-q3.json` allows reading only `reports/q3.pdf`:
+
+```json
+{
+  "Effect": "Allow",
+  "Action": "s3:GetObject",
+  "Resource": "arn:aws:s3:::reports/q3.pdf"
+}
+```
+
+A caller assumes `Reader` with this command, gets a temporary session, and passes the session policy with `--policy`:
+
+```
+aws sts assume-role \
+  --role-arn arn:aws:iam::111122223333:role/Reader \
+  --role-session-name read-q3 \
+  --policy file://only-q3.json
+```
+
+1. AWS checks `Reader`'s trust policy first. A caller not in its `Principal` can't assume the role.
+2. After that, the session can do only what both `Reader`'s permission policy and `only-q3.json` allow.
+
+- `Reader`'s permission policy allows reading all of `reports/*`.
+- `only-q3.json` allows reading only `reports/q3.pdf`.
+- The session's permissions are `permission policy && session policy`, so it can read only `q3.pdf`.
+
+A session policy isn't attached anywhere; it's passed on each `assume-role` call and affects only that session. The example above has the session policy narrowing access to `q3.pdf`. A session policy can't widen access, though: even if `only-q3.json` were `s3:*`, the session still couldn't do anything `Reader`'s permission policy doesn't allow.
+
+The [IAM policy types page](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html) says permissions boundaries and session policies "do not grant permissions." In the expressions `identity-based policy && permissions boundary` and `permission policy && session policy` above, they only appear to the right of `&&`: when the left side is `false`, nothing on the right can make the result `true`.
+
+### SCP
+
+An SCP (service control policy) is an AWS Organizations policy. It attaches to the organization root, an OU or an account, and limits the IAM users and roles underneath. An organization looks roughly like this:
+
+```
+organization root
+├── management account   ← created the organization, pays the whole organization's bill
+├── OU: prod
+│   ├── account A
+│   └── account B
+└── OU: dev
+    └── account C
+```
+
+Say this SCP is attached to the organization root:
+
+```json
+{
+  "Effect": "Deny",
+  "Action": "s3:DeleteBucket",
+  "Resource": "*"
+}
+```
+
+- A user in account A, B or C who calls `s3:DeleteBucket` is denied, even if their identity-based policy allows `s3:*`.
+- The management account is under the root too, but its users and roles can still call `s3:DeleteBucket`. The [SCP page](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html) says SCPs don't affect users or roles in the management account, or service-linked roles.
+
+Attach the same SCP to `OU: prod` instead, and only accounts A and B are limited.
+
+Because SCPs can't limit the management account, the [Organizations best practices for the management account](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_best-practices_mgmt-acct.html) recommend keeping resources in other accounts. Use the management account only to manage the organization itself, such as creating accounts, creating and attaching SCPs, and viewing the organization's bill.
+
+The same page says that organizations created in the console after July 10, 2026 get an SCP at the root automatically. It denies `organizations:LeaveOrganization` and `account:CloseAccount`, so users and roles in a member account can't take their account out of the organization or close it; those two steps are handled from the management account instead.
+
+An SCP can't have a `Principal`: the [SCP syntax page](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps_syntax.html) lists `Principal` and `NotPrincipal` as unsupported.
+
+### RCP
+
+An [RCP](https://aws.amazon.com/blogs/aws/introducing-resource-control-policies-rcps-a-new-authorization-policy/) (Resource Control Policy) is an Organizations policy added in November 2024. It attaches to the account that owns the bucket and limits who may access that account's resources. It and an SCP limit different things:
+
+- SCP: what users and roles inside the organization may do.
+- RCP: who may access resources in the organization, including accounts outside it.
+
+This one, from the [RCP syntax page](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_rcps_syntax.html), denies any S3 request not made over HTTPS:
+
+```json
+{
+  "Effect": "Deny",
+  "Principal": "*",
+  "Action": "s3:*",
+  "Resource": "*",
+  "Condition": { "BoolIfExists": { "aws:SecureTransport": "false" } }
+}
+```
+
+An RCP's `Principal` accepts only `*`, and an RCP you write can only use `Deny`. The [RCP syntax page](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_rcps_syntax.html) says `Allow` is supported only in `RCPFullAWSAccess`. When you enable RCPs, AWS attaches that policy to every root, OU and account, and you can't detach it. It lets every request pass the RCP check, so with no `Deny` written, RCPs refuse nothing. An RCP refuses a request only when someone writes a `Deny` and the request matches it. For example, if the bucket policy allows an outside account `s3:GetObject` and an RCP has a `Deny` for accounts outside the organization, that account still can't read the object. Like SCPs, RCPs don't affect resources in the management account (see the [RCP page](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_rcps.html)).
+
+### VPC endpoint policy
+
+A VPC endpoint policy attaches to a VPC endpoint and limits what requests through that endpoint can reach. An endpoint created without a policy gets a default endpoint policy that lets requests through it reach any resource.
+
+One kind of S3 endpoint is the gateway endpoint: EC2 instances in the VPC reach S3 through it without an internet gateway or NAT (see the [S3 gateway endpoint page](https://docs.aws.amazon.com/vpc/latest/privatelink/vpc-endpoints-s3.html)). The [VPC endpoint policy page](https://docs.aws.amazon.com/vpc/latest/privatelink/vpc-endpoints-access.html) says an endpoint policy must have a `Principal`, and for a gateway endpoint it can only be `*`. Say the endpoint policy on an S3 gateway endpoint is this:
+
+```json
+{
+  "Effect": "Allow",
+  "Principal": "*",
+  "Action": "s3:GetObject",
+  "Resource": "arn:aws:s3:::reports/*"
+}
+```
+
+Code in the VPC going through that endpoint can read only `reports`. The endpoint policy only caps; whether `Reader` can read `reports` still comes down to its identity-based policy and the bucket policy.
+
+## What about "deny everyone except X"?
+
+`Principal` has a negated form, `NotPrincipal`. This bucket policy denies everyone except `Admin` access to `reports`:
+
+```json
+{
+  "Effect": "Deny",
+  "NotPrincipal": { "AWS": [
+    "arn:aws:iam::111122223333:root",
+    "arn:aws:iam::111122223333:role/Admin"
+  ]},
+  "Action": "s3:*",
+  "Resource": ["arn:aws:s3:::reports", "arn:aws:s3:::reports/*"]
+}
+```
+
+`NotPrincipal` still names a who, so for question one it counts the same as `Principal`.
+
+The [IAM NotPrincipal page](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_notprincipal.html) allows `NotPrincipal` only with `Deny`, and never in an identity-based policy or a trust policy. It also recommends against `NotPrincipal` in new policies, in favour of `"Principal": "*"` with an `ArnNotEquals` condition on `aws:PrincipalArn`.
+
+`Action` and `Resource` have negated forms too, `NotAction` and `NotResource`. `"NotAction": "iam:*"` means every action outside IAM (see the [NotAction page](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_notaction.html)).
+
+## Which policies have rules of their own?
+
+<span id="kms"></span>
+
+### KMS key policy
+
+Usually, if `Reader`'s identity-based policy allows `s3:GetObject` and `kms:Decrypt`, it can read KMS-encrypted files (see the [S3 SSE-KMS page](https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingKMSEncryption.html)).
+
+That's because the default key policy has a statement whose `Principal` is the account itself (`:root`). Once the key policy allows the account, KMS looks at the account's identity-based policies, and `Reader`'s `kms:Decrypt` counts (see the [KMS default key policy page](https://docs.aws.amazon.com/kms/latest/developerguide/key-policy-default.html)). If someone writes their own key policy and leaves this statement out, KMS ignores identity-based policies, and `Reader` is denied even with `kms:Decrypt` in its identity-based policy.
+
+The `+` lines below are that statement:
+
+```diff
+ {
+   "Statement": [
+     {
+       "Sid": "Allow access for Key Administrators",
+       ...
+     },
++    {
++      "Sid": "Enable IAM User Permissions",
++      "Effect": "Allow",
++      "Principal": { "AWS": "arn:aws:iam::111122223333:root" },
++      "Action": "kms:*",
++      "Resource": "*"
++    }
+   ]
+ }
+```
+
+```
+S3:  identity policy || bucket policy
+KMS: key policy names Reader || (key policy names :root && identity policy)
+```
+
+For S3, the identity-based policy sits inside `||` and is enough on its own; for KMS, it sits to the right of `&&`, so the key policy must allow `:root` first (see the [IAM evaluation page](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic_policy-eval-denyallow.html)).
+
+### CloudFormation stack policy
+
+A CloudFormation stack policy controls which resources a stack update may change. This one allows every update except deletes (example from the [CloudFormation stack policy page](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/protect-stack-resources.html)):
+
+```json
+{
+  "Effect": "Allow",
+  "NotAction": "Update:Delete",
+  "Principal": "*",
+  "Resource": "*"
+}
+```
+
+`Principal` is required but accepts only `*`, since there is no "who" to pick. The actions aren't a service's API either; there are three, `Update:Modify`, `Update:Replace` and `Update:Delete`.
+
+## What does `Reader` need to read `reports/q3.pdf`?
+
+For `Reader` reading `q3.pdf` in the same account, the rules on the [IAM policy evaluation page](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic_policy-eval-denyallow.html) come out as a boolean expression, where any layer that isn't attached counts as `true`:
+
+```
+no Deny matches
+&& (identity policy 1 || identity policy 2 || bucket policy)
+&& permissions boundary
+&& session policy
+&& SCP && RCP && VPC endpoint policy
+&& kms:Decrypt   (if q3.pdf is encrypted with a KMS key)
+```
+
+Every `Deny` counts on the first line, whether it sits in the bucket policy, an identity policy or an SCP. The other lines look only at whether that policy has an `Allow`: the `bucket policy` in the parentheses, for example, asks whether the bucket policy has an `Allow` statement that permits this request.
+
+There is no ACL in this expression, because the [IAM policy types page](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html) says "ACLs cannot grant permissions to entities within the same account". ACLs can only grant to other accounts and to anonymous requests, so the ACL term appears only in the cross-account expression below.
+
+In the words of the [IAM evaluation page](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic.html):
+
+- `||` is a union: one allow among the identity-based and resource-based policies is enough.
+- `&&` is an intersection: the `||` in parentheses being `true` isn't enough; every other line must be `true` too, including "no Deny matches" on the first line, the caps in the middle, and `kms:Decrypt` on the last.
+
+Across accounts, the expression changes. Say `Reader` is in account A and `reports` in account B:
+
+```
+same account:   identity policy 1 || identity policy 2 || bucket policy
+cross-account:  (identity policy 1 || identity policy 2) && (bucket policy || ACL)
+```
+
+- Same account: one allow among the three is enough.
+- Cross-account: accounts A and B each check their own side, and both must allow it (see the [IAM cross-account evaluation page](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic-cross-account.html)).
+  - Account A checks the policies on `Reader`: is `Reader` allowed to read someone else's bucket? `identity policy 1 || identity policy 2`, one allow is enough.
+  - Account B checks the policies on `reports`: does `reports` let account A's `Reader` in? `bucket policy || ACL`, one allow is enough.
+  - The two groups are joined by `&&`: only when A says yes and B says yes can `Reader` read the file.
+
+Applied to concrete setups. In these examples `Reader` and `reports` are in the same account, except in the cross-account row:
+
+| Setup | Readable? | Why |
+|---|---|---|
+| Identity-based policy allows `s3:*`; bucket policy also lets in `Reader`; nothing else | ✅ | all = `true` |
+| Only the identity-based policy allows it; bucket policy doesn't mention `Reader` | ✅ | `identity policy` = `true`, so `\|\|` = `true` |
+| Identity-based policy silent; bucket policy names `Reader`'s role ARN | ✅ | `bucket policy` = `true`, so `\|\|` = `true` |
+| `Reader` in another account; only the identity-based policy allows it | ❌ | `(bucket policy \|\| ACL)` = `false` |
+| Identity-based policy allows `s3:*`; bucket policy has a `Deny` naming `Reader` | ❌ | a `Deny` matches, so denied |
+| Identity-based and bucket policies allow it; the SCP on `Reader`'s account denies `s3:GetObject` | ❌ | a `Deny` matches, so denied |
+| Identity-based policy allows `s3:*`; permissions boundary allows only `s3:ListBucket` | ❌ | `permissions boundary` = `false` |
+| Request goes through a VPC endpoint whose policy allows only another bucket | ❌ | `VPC endpoint policy` = `false` |
+| All S3 permissions allow it, but `q3.pdf` is KMS-encrypted and the key policy lacks the `:root` statement | ❌ | `kms:Decrypt` = `false` (see [KMS key policy](#kms)) |
+
+ACL and Block Public Access settings are covered in the next two subsections, and can be flipped in the embed in the Block Public Access one.
+
+### With ACLs on, an Allow-only bucket policy is undone however precise it is
+
+Besides policies, S3 has an older access system, the **ACL** (access control list): the `ACL` in `bucket policy || ACL` in the cross-account expression above; anonymous requests are checked against it too. The [IAM policy types page](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html) calls ACLs the only policy type that doesn't use JSON.
+
+Say the bucket policy on `reports` lets in only `Reader`, and ACLs are still enabled. Someone uploads `q3.pdf` with `--acl public-read`:
+
+```
+aws s3 cp q3.pdf s3://reports/ --acl public-read
+```
+
+1. `q3.pdf`'s ACL gains a grant: `AllUsers` may `READ`.
+2. The bucket policy still names only `Reader`.
+3. Anyone can GET the file's URL, unsigned, and read it.
+
+The grant looks like this. No `Effect`, no `Action`, no `Condition`:
+
+```xml
+<Grant>
+  <Grantee xsi:type="Group">
+    <URI>http://acs.amazonaws.com/groups/global/AllUsers</URI>
+  </Grantee>
+  <Permission>READ</Permission>
+</Grant>
+```
+
+The [S3 ACL page](https://docs.aws.amazon.com/AmazonS3/latest/userguide/acl-overview.html) says `AllUsers` means anyone, signed or anonymous. An anonymous request has no identity policy, so only the `reports` side counts: `bucket policy || ACL`. The bucket policy doesn't name it, but the `ACL` term is `true`, so the `||` holds. If the bucket policy has only `Allow` statements, however strict, `q3.pdf` is public. Add the `Deny` below to the bucket policy, though, and the first line, "no Deny matches", fails, so the ACL grant doesn't help. The [IAM policy variables page](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_variables.html) says an anonymous request's `aws:PrincipalType` is `Anonymous`, so this denies only anonymous requests and leaves `Reader` alone:
+
+```json
+{
+  "Effect": "Deny",
+  "Principal": "*",
+  "Action": "s3:GetObject",
+  "Resource": "arn:aws:s3:::reports/*",
+  "Condition": { "StringEquals": { "aws:PrincipalType": "Anonymous" } }
+}
+```
+
+### Block Public Access: do public ACLs and bucket policies count?
+
+The left side of the embed below holds the switches: Object Ownership (a three-way choice, one option of which disables ACLs), the four Block Public Access switches, and how `q3.pdf` was encrypted when uploaded, with the KMS key policy below that. The right side holds the bucket policy JSON and `q3.pdf`'s object ACL. Statements can be added to or removed from the bucket policy and the KMS key policy; the KMS key policy's statements appear after you open "2 statements". The object ACL is shown as is.
+
+- Set Object Ownership to Bucket owner enforced, which disables ACLs, and `q3.pdf`'s object ACL and the `BlockPublicAcls` and `IgnorePublicAcls` switches turn grey, because S3 no longer counts ACLs when checking access.
+- The four lines at the top right are the results. Their text never changes; only the colour gives the answer: normal ink means yes, faded means no.
+
+<iframe src="/embeds/s3-access-tree" width="100%" height="1084" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="S3 bucket settings tree: what decides whether q3.pdf can be read"></iframe>
+
+Block Public Access isn't a single switch but a set of four. Each can be on or off on its own; the [S3 Block Public Access page](https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-control-block-public-access.html) says "These settings are independent and can be used in any combination." They deal with *public* ACLs and bucket policies. A public ACL is a grant to `AllUsers` like the one above; a public bucket policy is one like the `Principal: "*"` statement in the embed, with no limiting `Condition`, so anyone can read.
+
+In the console's wording, two of the four act on *new* ones and two on *any*:
+
+- `BlockPublicAcls`, `BlockPublicPolicy` (*new*): S3 rejects any attempt to write a public ACL or bucket policy. Existing ones are untouched; `q3.pdf`'s ACL stays in force.
+- `IgnorePublicAcls`, `RestrictPublicBuckets` (*any*): existing ones aren't deleted, but stop working for outsiders. A public ACL doesn't count, so anonymous requests can't read `q3.pdf`; a public bucket policy works only for users in the bucket owner's account and AWS services. `Reader` still reads through policies in its own account.
+
+If the account, organization or an access point also sets these switches, S3 compares them one switch at a time: a switch on in any of those places counts as on for `reports`. If the account has `IgnorePublicAcls` on, public ACLs in `reports` don't count even though the bucket itself has it off. The organization is the exception: the [Block Public Access page](https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-control-block-public-access.html) says that at the organization level all four settings apply together, and you can't turn on just one.
+
+### The 2023 defaults
+
+[Since April 2023](https://aws.amazon.com/blogs/aws/heads-up-amazon-s3-security-changes-are-coming-in-april-of-2023/), new buckets have all four on and [ACLs disabled](https://docs.aws.amazon.com/AmazonS3/latest/userguide/about-object-ownership.html) ("Bucket owner enforced"). With ACLs disabled:
+
+- the `--acl public-read` upload above fails with a 400 `AccessControlListNotSupported`;
+- existing ACLs no longer take part in access evaluation; the `ACL` term in the expression is never true, and only the policies decide.
+
+## The takeaway
+
+Next time AWS hands you a new "X policy," ask two questions:
+
+1. **Does it name a who, with `Principal` or `NotPrincipal`?** If yes, it sits on a resource; if no, on an identity. SCP and RCP are the exception: they attach to an Organizations root, OU or account.
+2. **Does it grant access, or only cap it?** If the docs say it does "not grant permissions," it only caps.
+
+Then find its cell in the table above. For a KMS key, the key policy must first allow the key's account to use identity-based policies before any identity-based policy takes effect.
+16:T9c08,LS0tCnRpdGxlOiAiQVdTIGhhcyBhIGRvemVuIHBvbGljaWVzLiBUaGV5J3JlIGFsbCBvbmUgc2hhcGUuIgpkYXRlOiAyMDI2LTExLTA1VDE5OjIyOjM0CnRhZ3M6IFthd3MsIGlhbSwgc2VjdXJpdHksIGNsb3VkXQpkZXNjcmlwdGlvbjogIlMzIGJ1Y2tldCBwb2xpY3ksIFNRUyBxdWV1ZSBwb2xpY3ksIEtNUyBrZXkgcG9saWN5LCBJQU0gcm9sZSB0cnVzdCBwb2xpY3k6IGFsbCB0aGUgc2FtZSBKU09OLiBUd28gcXVlc3Rpb25zIHNvcnQgdGhlbTogaXMgaXQgYXR0YWNoZWQgdG8gYW4gaWRlbnRpdHkgb3IgYSByZXNvdXJjZSwgYW5kIGRvZXMgaXQgZ3JhbnQgYWNjZXNzIG9yIG9ubHkgY2FwIGl0PyBBQ0xzIGFuZCBDbG91ZEZvcm1hdGlvbiBzdGFjayBwb2xpY2llcyBkb24ndCBmaXQgdGhlIHF1ZXN0aW9ucywgYW5kIGEgS01TIGtleSBwb2xpY3kgaGFzIG9uZSBydWxlIG9mIGl0cyBvd24uIgotLS0KCkFXUyBrZWVwcyBpbnZlbnRpbmcgcG9saWNpZXMuIFMzIGJ1Y2tldCBwb2xpY3ksIFNRUyBxdWV1ZSBwb2xpY3ksIFNOUyB0b3BpYyBwb2xpY3ksIExhbWJkYSBmdW5jdGlvbiBwb2xpY3ksIEtNUyBrZXkgcG9saWN5LCBBUEkgR2F0ZXdheSByZXNvdXJjZSBwb2xpY3ksIElBTSByb2xlIHRydXN0IHBvbGljeS4gSXQgbG9va3MgbGlrZSBhIGRvemVuIHRoaW5ncyB0byBsZWFybi4KCkl0J3Mgb25lIEpTT04gc2hhcGUsIGFuZCB0d28gcXVlc3Rpb25zIHNvcnQgbW9zdCBvZiB0aGVtLgoKIyMgVGhlIGJhc2ljIHNoYXBlCgpFdmVyeSBvbmUgb2YgdGhlbSBpcyB0aGlzIEpTT04gKHRoZSBjb21tZW50cyBhcmUgZm9yIHJlYWRpbmc7IHJlYWwgcG9saWN5IEpTT04gaGFzIG5vbmUpOgoKYGBganNvbmMKewogICJWZXJzaW9uIjogIjIwMTItMTAtMTciLAogICJTdGF0ZW1lbnQiOiBbewogICAgIkVmZmVjdCI6ICJBbGxvdyIsICAgICAgICAgICAgLy8gb3IgRGVueQogICAgIlByaW5jaXBhbCI6IHsgfSwgICAgICAgICAgICAgLy8gd2hvCiAgICAiQWN0aW9uIjogWyJzMzpHZXRPYmplY3QiXSwgICAvLyB3aGF0IHRoZXkgbWF5IGRvCiAgICAiUmVzb3VyY2UiOiAiYXJuOi4uLiIsICAgICAgICAvLyBvbiB3aGljaCB0aGluZwogICAgIkNvbmRpdGlvbiI6IHsgfSAgICAgICAgICAgICAgLy8gd2hlbiAob3B0aW9uYWwpCiAgfV0KfQpgYGAKCkZyb20gb25lIHNlcnZpY2UgdG8gdGhlIG5leHQsIHR3byBwYXJ0cyBjaGFuZ2U6CgotIHRoZSBzZXJ2aWNlIHByZWZpeCBvbiB0aGUgYWN0aW9uOiBgczM6YCwgYHNxczpgLCBga21zOmAKLSB0aGUgZm9ybWF0IG9mIHRoZSBBUk4gKEFtYXpvbiBSZXNvdXJjZSBOYW1lLCB0aGUgZnVsbCBJRCBvZiBhbiBBV1MgcmVzb3VyY2UpIGluIGBSZXNvdXJjZWAKCmBQcmluY2lwYWxgIGlzIHNvbWV0aW1lcyB0aGVyZSBhbmQgc29tZXRpbWVzIG5vdC4KCiMjIEhvdyBkbyBhIGRvemVuIHBvbGljaWVzIHNvcnQ/CgpUaGUgW0lBTSBwb2xpY3kgdHlwZXMgcGFnZV0oaHR0cHM6Ly9kb2NzLmF3cy5hbWF6b24uY29tL0lBTS9sYXRlc3QvVXNlckd1aWRlL2FjY2Vzc19wb2xpY2llcy5odG1sKSBsaXN0cyA5IHBvbGljeSB0eXBlczogaWRlbnRpdHktYmFzZWQsIHJlc291cmNlLWJhc2VkLCBWUEMgZW5kcG9pbnQgcG9saWN5LCBwZXJtaXNzaW9ucyBib3VuZGFyeSwgU0NQLCBSQ1AsIEFDTCwgUkFNIChSZXNvdXJjZSBBY2Nlc3MgTWFuYWdlcikgcmVzb3VyY2Ugc2hhcmUsIHNlc3Npb24gcG9saWN5LgoKRWlnaHQgb2YgdGhlbSBzb3J0IHdpdGggdHdvIHF1ZXN0aW9ucy4gSXMgdGhlIHBvbGljeSBhdHRhY2hlZCB0byBhbiBpZGVudGl0eSBvciB0byBhIHJlc291cmNlPyBEb2VzIGl0IGdyYW50IGFjY2Vzcywgb3Igb25seSBjYXAgaXQ/Cgp8IHwgR3JhbnRzIGFjY2VzcyB8IE9ubHkgY2FwcyBhY2Nlc3MgfAp8LS0tfC0tLXwtLS18CnwgKipBdHRhY2hlZCB0byBhbiBpZGVudGl0eSoqIChubyBgUHJpbmNpcGFsYCkgfCBpZGVudGl0eS1iYXNlZCBwb2xpY3kgKGluY2x1ZGluZyBhIHJvbGUncyBwZXJtaXNzaW9uIHBvbGljeSkgfCBwZXJtaXNzaW9ucyBib3VuZGFyeSwgc2Vzc2lvbiBwb2xpY3ksIFNDUCB8CnwgKipBdHRhY2hlZCB0byBhIHJlc291cmNlKiogKG5lZWRzIGBQcmluY2lwYWxgKSB8IHJlc291cmNlLWJhc2VkIHBvbGljeSAoYnVja2V0IHBvbGljeSwgYSByb2xlJ3MgdHJ1c3QgcG9saWN5LCBLTVMga2V5IHBvbGljeSwgLi4uLCBhbmQgdGhlIHBvbGljeSBhIFJBTSByZXNvdXJjZSBzaGFyZSBnZW5lcmF0ZXMpIHwgUkNQLCBWUEMgZW5kcG9pbnQgcG9saWN5IHwKClJBTSBnZW5lcmF0ZXMgYSByZXNvdXJjZS1iYXNlZCBwb2xpY3kgZm9yIHlvdSwgdG8gc2hhcmUgcmVzb3VyY2VzIGxpa2Ugc3VibmV0cyB3aXRoIG90aGVyIGFjY291bnRzLCBzbyBpdCBjb3VudHMgYXMgcmVzb3VyY2UtYmFzZWQgdG9vIChzZWUgdGhlIFtSQU0gbWFuYWdlZCBwZXJtaXNzaW9ucyBwYWdlXShodHRwczovL2RvY3MuYXdzLmFtYXpvbi5jb20vcmFtL2xhdGVzdC91c2VyZ3VpZGUvc2VjdXJpdHktcmFtLXBlcm1pc3Npb25zLmh0bWwpKS4KClNDUCBhbmQgUkNQIGRvbid0IGFjdHVhbGx5IGF0dGFjaCB0byBhbiBpZGVudGl0eSBvciBhIHJlc291cmNlOyB0aGV5IGF0dGFjaCB0byBhbiBBV1MgT3JnYW5pemF0aW9ucyBvcmdhbml6YXRpb24gcm9vdCwgT1UgKG9yZ2FuaXphdGlvbmFsIHVuaXQpIG9yIGFjY291bnQuIFRoZSB0YWJsZSBwbGFjZXMgdGhlbSBieSB3aGF0IHRoZXkgZ292ZXJuOgoKLSBBbiBTQ1AgZGlyZWN0bHkgbGltaXRzIHdoYXQgdGhlIHVzZXJzIGFuZCByb2xlcyBpbiB0aGUgYWNjb3VudCBjYW4gZG8uIEl0cyB0YXJnZXQgaXMgYWxyZWFkeSBmaXhlZCwgc28gaXQgaGFzIG5vIGBQcmluY2lwYWxgOyB0aGUgZWZmZWN0IGlzIHRoZSBzYW1lIGFzIGF0dGFjaGluZyBhIGNvcHkgdG8gZWFjaCBpZGVudGl0eS4KLSBBbiBSQ1AgbGltaXRzIHdobyBjYW4gYWNjZXNzIHRoZSByZXNvdXJjZXMgaW4gdGhlIGFjY291bnQuIEEgcnVsZSB3cml0dGVuIGFnYWluc3QgcmVzb3VyY2VzIGhhcyB0byBzYXkgd2hvIGlzIGFjY2Vzc2luZyB0aGVtLCBzbyBhbiBSQ1AgaGFzIGEgYFByaW5jaXBhbGAuIEl0IGNhbiBvbmx5IGJlIGAqYCwgdGhvdWdoOyBuYXJyb3dpbmcgaXQgdGFrZXMgYSBgQ29uZGl0aW9uYCwgZm9yIGV4YW1wbGUgdG8gZGVueSBvbmx5IGFjY291bnRzIG91dHNpZGUgdGhlIG9yZ2FuaXphdGlvbi4KClR3byBleGNlcHRpb25zIHNpdCBvdXRzaWRlIHRoZSB0YWJsZToKCi0gQW4gKipBQ0wqKiBncmFudHMgYWNjZXNzIGJ1dCBkb2Vzbid0IHVzZSBKU09OLgotIEEgKipDbG91ZEZvcm1hdGlvbiBzdGFjayBwb2xpY3kqKiB1c2VzIHRoZSBzYW1lIEpTT04gYnV0IGhhcyBub3RoaW5nIHRvIGRvIHdpdGggYWNjZXNzLCBzbyBpdCBpc24ndCBvbmUgb2YgQVdTJ3MgOS4KCkEgS01TIGtleSBwb2xpY3kgYmVsb25ncyB3aXRoICJhdHRhY2hlZCB0byBhIHJlc291cmNlLCBncmFudHMgYWNjZXNzLCIgYnV0IGlkZW50aXR5LWJhc2VkIHBvbGljaWVzIG9uIGEgS01TIGtleSBmb2xsb3cgb25lIHJ1bGUgdGhhdCBTMyBkb2Vzbid0IGhhdmU7IHRoZSBleGFtcGxlIGlzIFtmdXJ0aGVyIGRvd25dKCNrbXMpLgoKIyMgUXVlc3Rpb24gb25lOiBhdHRhY2hlZCB0byBhbiBpZGVudGl0eSwgb3IgdG8gYSByZXNvdXJjZT8KClNheSB5b3UgY3JlYXRlZCBhIHJvbGUgY2FsbGVkIGBSZWFkZXJgIChhbiBleGFtcGxlIG5hbWUsIHVzZWQgdGhyb3VnaG91dCksIGFuZCBpdCBzaG91bGQgYmUgYWJsZSB0byByZWFkIGZpbGVzIGluIHRoZSBidWNrZXQgYHJlcG9ydHNgLiBUaGVyZSBhcmUgdHdvIHBsYWNlcyB0byB3cml0ZSB0aGF0LgoKIyMjIElkZW50aXR5LWJhc2VkIHBvbGljeTogb24gdGhlIHJvbGUKClRoZSBmaXJzdCBwbGFjZSBpcyB0aGUgcm9sZSBgUmVhZGVyYC4gQSBwb2xpY3kgYXR0YWNoZWQgdG8gYW4gaWRlbnRpdHkgaXMgYW4gaWRlbnRpdHktYmFzZWQgcG9saWN5IChzaG9ydGVuZWQgdG8gImlkZW50aXR5IHBvbGljeSIgaW4gdGhlIGJvb2xlYW4gZXhwcmVzc2lvbnMgbGF0ZXIsIGFuZCBzb21ldGltZXMgY2FsbGVkIGFuICJJQU0gcG9saWN5IjsgYWxsIHRocmVlIG1lYW4gdGhlIHNhbWUgdGhpbmcpOgoKYGBganNvbgp7CiAgIkVmZmVjdCI6ICJBbGxvdyIsCiAgIkFjdGlvbiI6ICJzMzpHZXRPYmplY3QiLAogICJSZXNvdXJjZSI6ICJhcm46YXdzOnMzOjo6cmVwb3J0cy8qIgp9CmBgYAoKV3JpdGluZyB0aGUgcG9saWN5IGlzbid0IGVub3VnaDsgaXQgaGFzIHRvIGJlIGF0dGFjaGVkLiBTYXZlIGl0IGFzIGByZWFkLXJlcG9ydHMuanNvbmAgKHdyYXBwZWQgaW4gYCJWZXJzaW9uImAgYW5kIGAiU3RhdGVtZW50ImAsIGxpa2UgdGhlIEpTT04gYXQgdGhlIHRvcCBvZiB0aGUgYXJ0aWNsZSkgYW5kIGF0dGFjaCBpdCB0byB0aGUgcm9sZToKCmBgYAphd3MgaWFtIHB1dC1yb2xlLXBvbGljeSBcCiAgLS1yb2xlLW5hbWUgUmVhZGVyIFwKICAtLXBvbGljeS1uYW1lIHJlYWQtcmVwb3J0cyBcCiAgLS1wb2xpY3ktZG9jdW1lbnQgZmlsZTovL3JlYWQtcmVwb3J0cy5qc29uCmBgYAoKIyMjIFJlc291cmNlLWJhc2VkIHBvbGljeTogb24gdGhlIGJ1Y2tldAoKVGhlIHNlY29uZCBwbGFjZSBpcyB0aGUgYnVja2V0IGByZXBvcnRzYC4gQSBwb2xpY3kgYXR0YWNoZWQgdG8gYSByZXNvdXJjZSBpcyBhIHJlc291cmNlLWJhc2VkIHBvbGljeSwgaGVyZSBhIGJ1Y2tldCBwb2xpY3kuIENvbXBhcmVkIHdpdGggdGhlIG9uZSBhYm92ZSwgaXQgaGFzIG9uZSBleHRyYSBsaW5lOgoKYGBgZGlmZgogewogICAiRWZmZWN0IjogIkFsbG93IiwKKyAgIlByaW5jaXBhbCI6IHsgIkFXUyI6ICJhcm46YXdzOmlhbTo6MTExMTIyMjIzMzMzOnJvbGUvUmVhZGVyIiB9LAogICAiQWN0aW9uIjogInMzOkdldE9iamVjdCIsCiAgICJSZXNvdXJjZSI6ICJhcm46YXdzOnMzOjo6cmVwb3J0cy8qIgogfQpgYGAKCiMjIyBXaHkgb25seSB0aGUgYnVja2V0IHBvbGljeSBuZWVkcyBhIFByaW5jaXBhbAoKQSBidWNrZXQgcG9saWN5IHNheXMgd2hvIG1heSByZWFkIHRoZSBidWNrZXQsIHNvIGBQcmluY2lwYWxgIG5hbWVzIHRoZW0uIFRoZSBvbmUgb24gYFJlYWRlcmAgZG9lc24ndCBuZWVkIGl0LCBiZWNhdXNlIHRoZSBvbmUgcmVhZGluZyBpcyBgUmVhZGVyYCBpdHNlbGYuIFRoZSBbSUFNIFByaW5jaXBhbCBlbGVtZW50IHBhZ2VdKGh0dHBzOi8vZG9jcy5hd3MuYW1hem9uLmNvbS9JQU0vbGF0ZXN0L1VzZXJHdWlkZS9yZWZlcmVuY2VfcG9saWNpZXNfZWxlbWVudHNfcHJpbmNpcGFsLmh0bWwpIHN0YXRlcyBib3RoIHJ1bGVzLiBDaGVja2VkIGluIE5vdmVtYmVyIDIwMjYgd2l0aCBgYXdzIGFjY2Vzc2FuYWx5emVyIHZhbGlkYXRlLXBvbGljeWA6IHRoZSBzZWNvbmQgcG9saWN5LCBjaGVja2VkIGFzIGFuIGlkZW50aXR5LWJhc2VkIHBvbGljeSwgcmV0dXJucyBgVU5TVVBQT1JURURfUFJJTkNJUEFMYDsgdGhlIGZpcnN0LCBjaGVja2VkIGFzIGEgYnVja2V0IHBvbGljeSwgcmV0dXJucyBgTUlTU0lOR19QUklOQ0lQQUxgLgoKRXZlcnkgcG9saWN5IGxpc3RlZCBhdCB0aGUgdG9wIG9mIHRoZSBhcnRpY2xlIHNpdHMgb24gYSByZXNvdXJjZSBsaWtlIHRoaXMuIFdoZW4gdW5zdXJlLCBhc2s6IGNhbiBJIGF0dGFjaCBhIHBvbGljeSBkaXJlY3RseSB0byB0aGlzIHRoaW5nPyBJZiB5ZXMsIGl0J3MgcmVzb3VyY2UtYmFzZWQgYW5kIHdhbnRzIGEgYFByaW5jaXBhbGAuIFRoZSAiUmVzb3VyY2UtYmFzZWQgcG9saWNpZXMiIGNvbHVtbiBpbiB0aGUgW0lBTSBzZXJ2aWNlcyB0YWJsZV0oaHR0cHM6Ly9kb2NzLmF3cy5hbWF6b24uY29tL0lBTS9sYXRlc3QvVXNlckd1aWRlL3JlZmVyZW5jZV9hd3Mtc2VydmljZXMtdGhhdC13b3JrLXdpdGgtaWFtLmh0bWwpIGhhcyB0aGUgZnVsbCBsaXN0LgoKIyMgV2hpY2gga2luZCBpcyBhbiBJQU0gcm9sZSdzIHBvbGljeT8KCldoYXQgcGVvcGxlIGNhbGwgYW4gIklBTSByb2xlIHBvbGljeSIgaXMgcmVhbGx5IG9uZSBvZiB0d286IHRoZSBwZXJtaXNzaW9uIHBvbGljeSBvciB0aGUgdHJ1c3QgcG9saWN5LiBUaGUgZmlyc3QgaXMgaWRlbnRpdHktYmFzZWQsIHRoZSBzZWNvbmQgcmVzb3VyY2UtYmFzZWQuIEJvdGggYXJlIHNldCBpbiBJQU0uCgpTYXkgYSBMYW1iZGEgZnVuY3Rpb24gdXNlcyBgUmVhZGVyYCB0byByZWFkIGByZXBvcnRzYC4KCiMjIyBUcnVzdCBwb2xpY3k6IHdobyBtYXkgYXNzdW1lIFJlYWRlcgoKQSB0cnVzdCBwb2xpY3kncyBgQWN0aW9uYCBkZXBlbmRzIG9uIGhvdyB3aG9ldmVyIGFzc3VtZXMgdGhlIHJvbGUgc2lnbmVkIGluIChzZWUgdGhlIFtJQU0gT0lEQyByb2xlIHBhZ2VdKGh0dHBzOi8vZG9jcy5hd3MuYW1hem9uLmNvbS9JQU0vbGF0ZXN0L1VzZXJHdWlkZS9pZF9yb2xlc19jcmVhdGVfZm9yLWlkcF9vaWRjLmh0bWwpKToKCi0gQW4gQVdTIHVzZXIsIHJvbGUgb3Igc2VydmljZTogYHN0czpBc3N1bWVSb2xlYAotIFNpZ25lZCBpbiB0aHJvdWdoIE9JREMgKE9wZW5JRCBDb25uZWN0KSwgc3VjaCBhcyBHaXRIdWIgQWN0aW9uczogYHN0czpBc3N1bWVSb2xlV2l0aFdlYklkZW50aXR5YAotIFNpZ25lZCBpbiB0aHJvdWdoIFNBTUwgKFNlY3VyaXR5IEFzc2VydGlvbiBNYXJrdXAgTGFuZ3VhZ2UpOiBgc3RzOkFzc3VtZVJvbGVXaXRoU0FNTGAKClRoaXMgb25lIGxldHMgYSBMYW1iZGEgYXNzdW1lIGBSZWFkZXJgOgoKYGBganNvbgp7CiAgIkVmZmVjdCI6ICJBbGxvdyIsCiAgIlByaW5jaXBhbCI6IHsgIlNlcnZpY2UiOiAibGFtYmRhLmFtYXpvbmF3cy5jb20iIH0sCiAgIkFjdGlvbiI6ICJzdHM6QXNzdW1lUm9sZSIKfQpgYGAKCiMjIyBQZXJtaXNzaW9uIHBvbGljeTogd2hhdCBSZWFkZXIgbWF5IGRvIG9uY2UgYXNzdW1lZAoKVGhlIHBlcm1pc3Npb24gcG9saWN5IGlzIHRoZSBvbmUgZnJvbSBxdWVzdGlvbiBvbmUsIGF0dGFjaGVkIHRvIGBSZWFkZXJgIGFuZCBhbGxvd2luZyByZWFkcyBvZiBgcmVwb3J0c2AuCgojIyMgSG93IEFXUyBjaGVja3MgdGhlIHR3byB3aGVuIHRoZSBMYW1iZGEgcmVhZHMgYSBmaWxlCgoxLiBUaGUgTGFtYmRhIGFza3MgdG8gYXNzdW1lIGBSZWFkZXJgLgoyLiBBV1MgY2hlY2tzIHRoZSB0cnVzdCBwb2xpY3k6IGBsYW1iZGEuYW1hem9uYXdzLmNvbWAgaXMgaW4gYFByaW5jaXBhbGAsIHNvIHRoaXMgaXMgYWxsb3dlZC4KMy4gVGhlIExhbWJkYSBnZXRzIGBSZWFkZXJgJ3MgdGVtcG9yYXJ5IGNyZWRlbnRpYWxzLgo0LiBUaGUgTGFtYmRhIGNhbGxzIGBzMzpHZXRPYmplY3RgIHdpdGggdGhlbS4KNS4gQVdTIGNoZWNrcyB0aGUgcGVybWlzc2lvbiBwb2xpY3k6IGByZXBvcnRzLypgIGlzIGFsbG93ZWQsIHNvIHRoaXMgaXMgYWxsb3dlZC4KCiMjIyBXaHkgb25seSB0aGUgdHJ1c3QgcG9saWN5IG5lZWRzIGEgUHJpbmNpcGFsCgpBIHRydXN0IHBvbGljeSBzYXlzIHdobyBtYXkgYXNzdW1lIGBSZWFkZXJgLCBzbyBgUHJpbmNpcGFsYCBuYW1lcyB0aGVtLiBUaGUgcGVybWlzc2lvbiBwb2xpY3kgZG9lc24ndCBuZWVkIG9uZSwgYmVjYXVzZSBpdCBzaXRzIG9uIGBSZWFkZXJgIGFuZCB0aGUgb25lIGFjdGluZyBpcyBgUmVhZGVyYCBpdHNlbGYuIFRoZSBbSUFNIHNlcnZpY2VzIHRhYmxlXShodHRwczovL2RvY3MuYXdzLmFtYXpvbi5jb20vSUFNL2xhdGVzdC9Vc2VyR3VpZGUvcmVmZXJlbmNlX2F3cy1zZXJ2aWNlcy10aGF0LXdvcmstd2l0aC1pYW0uaHRtbCkgY2FsbHMgaXQgdGhlIG9ubHkgcmVzb3VyY2UtYmFzZWQgcG9saWN5IElBTSBzdXBwb3J0cy4KCkEgdHJ1c3QgcG9saWN5IGhhcyBubyBgUmVzb3VyY2VgLCBiZWNhdXNlIHRoZSByZXNvdXJjZSBpcyB0aGUgcm9sZSBpdHNlbGYuIGB2YWxpZGF0ZS1wb2xpY3lgIHJlamVjdHMgYSB0cnVzdCBwb2xpY3kgdGhhdCBpbmNsdWRlcyBvbmUgd2l0aCBgUk9MRV9UUlVTVF9QT0xJQ1lfU1lOVEFYX0VSUk9SX1JFU09VUkNFYC4KCkhvdyB0cnVzdCBwb2xpY2llcyB3b3JrIGlzIGNvdmVyZWQgaW4gW2Fzc3VtZVJvbGUgYW5kIHRydXN0IHBvbGljeV0oL3YyL2lhbS1hc3N1bWUtcm9sZS10cnVzdC1wb2xpY3kpLgoKIyMgUXVlc3Rpb24gdHdvOiBkb2VzIGl0IGdyYW50IGFjY2Vzcywgb3Igb25seSBjYXAgaXQ/CgpFdmVyeSBwb2xpY3kgc28gZmFyIGdyYW50cyBhY2Nlc3MuIEEgZmV3IG90aGVycyB1c2UgdGhlIHNhbWUgc2hhcGUgYnV0IG9ubHkgc2V0IGEgY2VpbGluZyBhbmQgZ3JhbnQgbm90aGluZyB0aGVtc2VsdmVzLiBTb21lIGF0dGFjaCB0byBpZGVudGl0aWVzIGFuZCBzb21lIHRvIHJlc291cmNlcy4KCiMjIyBQZXJtaXNzaW9ucyBib3VuZGFyeQoKQSBwZXJtaXNzaW9ucyBib3VuZGFyeSBhdHRhY2hlcyB0byBhbiBJQU0gdXNlciBvciByb2xlIGFuZCBoYXMgbm8gYFByaW5jaXBhbGAuIFNheSBgUmVhZGVyYCdzIGlkZW50aXR5LWJhc2VkIHBvbGljeSBhbGxvd3MgZXZlcnkgUzMgYWN0aW9uOgoKYGBganNvbgp7CiAgIkVmZmVjdCI6ICJBbGxvdyIsCiAgIkFjdGlvbiI6ICJzMzoqIiwKICAiUmVzb3VyY2UiOiAiKiIKfQpgYGAKCmBSZWFkZXJgIGFsc28gaGFzIGEgcGVybWlzc2lvbnMgYm91bmRhcnksIGBzMy1yZWFkLW9ubHlgLCB0aGF0IGFsbG93cyBvbmx5IGBzMzpHZXRPYmplY3RgOgoKYGBganNvbgp7CiAgIkVmZmVjdCI6ICJBbGxvdyIsCiAgIkFjdGlvbiI6ICJzMzpHZXRPYmplY3QiLAogICJSZXNvdXJjZSI6ICIqIgp9CmBgYAoKQm90aCBhcmUgdGhlIHNhbWUga2luZCBvZiBKU09OLCBhdHRhY2hlZCB3aXRoIGRpZmZlcmVudCBjb21tYW5kczoKCi0gQXR0YWNoZWQgd2l0aCBgcHV0LXJvbGUtcG9saWN5YCwgaXQncyBhbiBpZGVudGl0eS1iYXNlZCBwb2xpY3kgYW5kIGdyYW50cyBhY2Nlc3MuIElmIGBSZWFkZXJgIGhhcyBzZXZlcmFsLCB0aGV5IGNvbWJpbmUgd2l0aCBgfHxgOiBvbmUgYWxsb3cgaXMgZW5vdWdoLgotIEF0dGFjaGVkIHdpdGggYHB1dC1yb2xlLXBlcm1pc3Npb25zLWJvdW5kYXJ5YCBiZWxvdywgaXQncyBhIHBlcm1pc3Npb25zIGJvdW5kYXJ5IGFuZCBvbmx5IGNhcHMuCi0gSWRlbnRpdHktYmFzZWQgcG9saWN5IGFuZCBwZXJtaXNzaW9ucyBib3VuZGFyeSBjb21iaW5lIHdpdGggYCYmYCwgd2hpY2ggdGhlIFtJQU0gZXZhbHVhdGlvbiBwYWdlXShodHRwczovL2RvY3MuYXdzLmFtYXpvbi5jb20vSUFNL2xhdGVzdC9Vc2VyR3VpZGUvcmVmZXJlbmNlX3BvbGljaWVzX2V2YWx1YXRpb24tbG9naWMuaHRtbCkgY2FsbHMgYW4gaW50ZXJzZWN0aW9uOiBgaWRlbnRpdHktYmFzZWQgcG9saWN5ICYmIHBlcm1pc3Npb25zIGJvdW5kYXJ5YC4KClNvIGBSZWFkZXJgIGNhbiBkbyBvbmx5IGBzMzpHZXRPYmplY3RgLCB3aGljaCBib3RoIGFsbG93OyBhbiBgczM6UHV0T2JqZWN0YCBjYWxsIGlzIGRlbmllZC4KClRoZSBvdGhlciB3YXkgcm91bmQsIGlmIHRoZSBib3VuZGFyeSBhbGxvd3MgYHMzOipgIGFuZCB0aGUgaWRlbnRpdHktYmFzZWQgcG9saWN5IGFsbG93cyBubyBTMyBhY3Rpb24sIGBSZWFkZXJgIGhhcyBubyBTMyBhY2Nlc3MuCgpBIGJvdW5kYXJ5IGhhcyB0byBleGlzdCBhcyBhIG1hbmFnZWQgcG9saWN5IGZpcnN0LCB0aGVuIGdldHMgYXR0YWNoZWQgYnkgaXRzIEFSTjoKCmBgYAphd3MgaWFtIGNyZWF0ZS1wb2xpY3kgXAogIC0tcG9saWN5LW5hbWUgczMtcmVhZC1vbmx5IFwKICAtLXBvbGljeS1kb2N1bWVudCBmaWxlOi8vczMtcmVhZC1vbmx5Lmpzb24KCmF3cyBpYW0gcHV0LXJvbGUtcGVybWlzc2lvbnMtYm91bmRhcnkgXAogIC0tcm9sZS1uYW1lIFJlYWRlciBcCiAgLS1wZXJtaXNzaW9ucy1ib3VuZGFyeSBhcm46YXdzOmlhbTo6MTExMTIyMjIzMzMzOnBvbGljeS9zMy1yZWFkLW9ubHkKYGBgCgojIyMgU2Vzc2lvbiBwb2xpY3kKCkEgc2Vzc2lvbiBwb2xpY3kgYWxzbyBvbmx5IGNhcHMuIEl0IGFuZCB0aGUgdHJ1c3QgcG9saWN5IGJvdGggY29tZSB1cCB3aGVuIGEgcm9sZSBpcyBhc3N1bWVkLCBzbyB0aGV5J3JlIGVhc3kgdG8gbWl4IHVwLiBTYXkgdGhlIHNlc3Npb24gcG9saWN5IGBvbmx5LXEzLmpzb25gIGFsbG93cyByZWFkaW5nIG9ubHkgYHJlcG9ydHMvcTMucGRmYDoKCmBgYGpzb24KewogICJFZmZlY3QiOiAiQWxsb3ciLAogICJBY3Rpb24iOiAiczM6R2V0T2JqZWN0IiwKICAiUmVzb3VyY2UiOiAiYXJuOmF3czpzMzo6OnJlcG9ydHMvcTMucGRmIgp9CmBgYAoKQSBjYWxsZXIgYXNzdW1lcyBgUmVhZGVyYCB3aXRoIHRoaXMgY29tbWFuZCwgZ2V0cyBhIHRlbXBvcmFyeSBzZXNzaW9uLCBhbmQgcGFzc2VzIHRoZSBzZXNzaW9uIHBvbGljeSB3aXRoIGAtLXBvbGljeWA6CgpgYGAKYXdzIHN0cyBhc3N1bWUtcm9sZSBcCiAgLS1yb2xlLWFybiBhcm46YXdzOmlhbTo6MTExMTIyMjIzMzMzOnJvbGUvUmVhZGVyIFwKICAtLXJvbGUtc2Vzc2lvbi1uYW1lIHJlYWQtcTMgXAogIC0tcG9saWN5IGZpbGU6Ly9vbmx5LXEzLmpzb24KYGBgCgoxLiBBV1MgY2hlY2tzIGBSZWFkZXJgJ3MgdHJ1c3QgcG9saWN5IGZpcnN0LiBBIGNhbGxlciBub3QgaW4gaXRzIGBQcmluY2lwYWxgIGNhbid0IGFzc3VtZSB0aGUgcm9sZS4KMi4gQWZ0ZXIgdGhhdCwgdGhlIHNlc3Npb24gY2FuIGRvIG9ubHkgd2hhdCBib3RoIGBSZWFkZXJgJ3MgcGVybWlzc2lvbiBwb2xpY3kgYW5kIGBvbmx5LXEzLmpzb25gIGFsbG93LgoKLSBgUmVhZGVyYCdzIHBlcm1pc3Npb24gcG9saWN5IGFsbG93cyByZWFkaW5nIGFsbCBvZiBgcmVwb3J0cy8qYC4KLSBgb25seS1xMy5qc29uYCBhbGxvd3MgcmVhZGluZyBvbmx5IGByZXBvcnRzL3EzLnBkZmAuCi0gVGhlIHNlc3Npb24ncyBwZXJtaXNzaW9ucyBhcmUgYHBlcm1pc3Npb24gcG9saWN5ICYmIHNlc3Npb24gcG9saWN5YCwgc28gaXQgY2FuIHJlYWQgb25seSBgcTMucGRmYC4KCkEgc2Vzc2lvbiBwb2xpY3kgaXNuJ3QgYXR0YWNoZWQgYW55d2hlcmU7IGl0J3MgcGFzc2VkIG9uIGVhY2ggYGFzc3VtZS1yb2xlYCBjYWxsIGFuZCBhZmZlY3RzIG9ubHkgdGhhdCBzZXNzaW9uLiBUaGUgZXhhbXBsZSBhYm92ZSBoYXMgdGhlIHNlc3Npb24gcG9saWN5IG5hcnJvd2luZyBhY2Nlc3MgdG8gYHEzLnBkZmAuIEEgc2Vzc2lvbiBwb2xpY3kgY2FuJ3Qgd2lkZW4gYWNjZXNzLCB0aG91Z2g6IGV2ZW4gaWYgYG9ubHktcTMuanNvbmAgd2VyZSBgczM6KmAsIHRoZSBzZXNzaW9uIHN0aWxsIGNvdWxkbid0IGRvIGFueXRoaW5nIGBSZWFkZXJgJ3MgcGVybWlzc2lvbiBwb2xpY3kgZG9lc24ndCBhbGxvdy4KClRoZSBbSUFNIHBvbGljeSB0eXBlcyBwYWdlXShodHRwczovL2RvY3MuYXdzLmFtYXpvbi5jb20vSUFNL2xhdGVzdC9Vc2VyR3VpZGUvYWNjZXNzX3BvbGljaWVzLmh0bWwpIHNheXMgcGVybWlzc2lvbnMgYm91bmRhcmllcyBhbmQgc2Vzc2lvbiBwb2xpY2llcyAiZG8gbm90IGdyYW50IHBlcm1pc3Npb25zLiIgSW4gdGhlIGV4cHJlc3Npb25zIGBpZGVudGl0eS1iYXNlZCBwb2xpY3kgJiYgcGVybWlzc2lvbnMgYm91bmRhcnlgIGFuZCBgcGVybWlzc2lvbiBwb2xpY3kgJiYgc2Vzc2lvbiBwb2xpY3lgIGFib3ZlLCB0aGV5IG9ubHkgYXBwZWFyIHRvIHRoZSByaWdodCBvZiBgJiZgOiB3aGVuIHRoZSBsZWZ0IHNpZGUgaXMgYGZhbHNlYCwgbm90aGluZyBvbiB0aGUgcmlnaHQgY2FuIG1ha2UgdGhlIHJlc3VsdCBgdHJ1ZWAuCgojIyMgU0NQCgpBbiBTQ1AgKHNlcnZpY2UgY29udHJvbCBwb2xpY3kpIGlzIGFuIEFXUyBPcmdhbml6YXRpb25zIHBvbGljeS4gSXQgYXR0YWNoZXMgdG8gdGhlIG9yZ2FuaXphdGlvbiByb290LCBhbiBPVSBvciBhbiBhY2NvdW50LCBhbmQgbGltaXRzIHRoZSBJQU0gdXNlcnMgYW5kIHJvbGVzIHVuZGVybmVhdGguIEFuIG9yZ2FuaXphdGlvbiBsb29rcyByb3VnaGx5IGxpa2UgdGhpczoKCmBgYApvcmdhbml6YXRpb24gcm9vdArilJzilIDilIAgbWFuYWdlbWVudCBhY2NvdW50ICAg4oaQIGNyZWF0ZWQgdGhlIG9yZ2FuaXphdGlvbiwgcGF5cyB0aGUgd2hvbGUgb3JnYW5pemF0aW9uJ3MgYmlsbArilJzilIDilIAgT1U6IHByb2QK4pSCICAg4pSc4pSA4pSAIGFjY291bnQgQQrilIIgICDilJTilIDilIAgYWNjb3VudCBCCuKUlOKUgOKUgCBPVTogZGV2CiAgICDilJTilIDilIAgYWNjb3VudCBDCmBgYAoKU2F5IHRoaXMgU0NQIGlzIGF0dGFjaGVkIHRvIHRoZSBvcmdhbml6YXRpb24gcm9vdDoKCmBgYGpzb24KewogICJFZmZlY3QiOiAiRGVueSIsCiAgIkFjdGlvbiI6ICJzMzpEZWxldGVCdWNrZXQiLAogICJSZXNvdXJjZSI6ICIqIgp9CmBgYAoKLSBBIHVzZXIgaW4gYWNjb3VudCBBLCBCIG9yIEMgd2hvIGNhbGxzIGBzMzpEZWxldGVCdWNrZXRgIGlzIGRlbmllZCwgZXZlbiBpZiB0aGVpciBpZGVudGl0eS1iYXNlZCBwb2xpY3kgYWxsb3dzIGBzMzoqYC4KLSBUaGUgbWFuYWdlbWVudCBhY2NvdW50IGlzIHVuZGVyIHRoZSByb290IHRvbywgYnV0IGl0cyB1c2VycyBhbmQgcm9sZXMgY2FuIHN0aWxsIGNhbGwgYHMzOkRlbGV0ZUJ1Y2tldGAuIFRoZSBbU0NQIHBhZ2VdKGh0dHBzOi8vZG9jcy5hd3MuYW1hem9uLmNvbS9vcmdhbml6YXRpb25zL2xhdGVzdC91c2VyZ3VpZGUvb3Jnc19tYW5hZ2VfcG9saWNpZXNfc2Nwcy5odG1sKSBzYXlzIFNDUHMgZG9uJ3QgYWZmZWN0IHVzZXJzIG9yIHJvbGVzIGluIHRoZSBtYW5hZ2VtZW50IGFjY291bnQsIG9yIHNlcnZpY2UtbGlua2VkIHJvbGVzLgoKQXR0YWNoIHRoZSBzYW1lIFNDUCB0byBgT1U6IHByb2RgIGluc3RlYWQsIGFuZCBvbmx5IGFjY291bnRzIEEgYW5kIEIgYXJlIGxpbWl0ZWQuCgpCZWNhdXNlIFNDUHMgY2FuJ3QgbGltaXQgdGhlIG1hbmFnZW1lbnQgYWNjb3VudCwgdGhlIFtPcmdhbml6YXRpb25zIGJlc3QgcHJhY3RpY2VzIGZvciB0aGUgbWFuYWdlbWVudCBhY2NvdW50XShodHRwczovL2RvY3MuYXdzLmFtYXpvbi5jb20vb3JnYW5pemF0aW9ucy9sYXRlc3QvdXNlcmd1aWRlL29yZ3NfYmVzdC1wcmFjdGljZXNfbWdtdC1hY2N0Lmh0bWwpIHJlY29tbWVuZCBrZWVwaW5nIHJlc291cmNlcyBpbiBvdGhlciBhY2NvdW50cy4gVXNlIHRoZSBtYW5hZ2VtZW50IGFjY291bnQgb25seSB0byBtYW5hZ2UgdGhlIG9yZ2FuaXphdGlvbiBpdHNlbGYsIHN1Y2ggYXMgY3JlYXRpbmcgYWNjb3VudHMsIGNyZWF0aW5nIGFuZCBhdHRhY2hpbmcgU0NQcywgYW5kIHZpZXdpbmcgdGhlIG9yZ2FuaXphdGlvbidzIGJpbGwuCgpUaGUgc2FtZSBwYWdlIHNheXMgdGhhdCBvcmdhbml6YXRpb25zIGNyZWF0ZWQgaW4gdGhlIGNvbnNvbGUgYWZ0ZXIgSnVseSAxMCwgMjAyNiBnZXQgYW4gU0NQIGF0IHRoZSByb290IGF1dG9tYXRpY2FsbHkuIEl0IGRlbmllcyBgb3JnYW5pemF0aW9uczpMZWF2ZU9yZ2FuaXphdGlvbmAgYW5kIGBhY2NvdW50OkNsb3NlQWNjb3VudGAsIHNvIHVzZXJzIGFuZCByb2xlcyBpbiBhIG1lbWJlciBhY2NvdW50IGNhbid0IHRha2UgdGhlaXIgYWNjb3VudCBvdXQgb2YgdGhlIG9yZ2FuaXphdGlvbiBvciBjbG9zZSBpdDsgdGhvc2UgdHdvIHN0ZXBzIGFyZSBoYW5kbGVkIGZyb20gdGhlIG1hbmFnZW1lbnQgYWNjb3VudCBpbnN0ZWFkLgoKQW4gU0NQIGNhbid0IGhhdmUgYSBgUHJpbmNpcGFsYDogdGhlIFtTQ1Agc3ludGF4IHBhZ2VdKGh0dHBzOi8vZG9jcy5hd3MuYW1hem9uLmNvbS9vcmdhbml6YXRpb25zL2xhdGVzdC91c2VyZ3VpZGUvb3Jnc19tYW5hZ2VfcG9saWNpZXNfc2Nwc19zeW50YXguaHRtbCkgbGlzdHMgYFByaW5jaXBhbGAgYW5kIGBOb3RQcmluY2lwYWxgIGFzIHVuc3VwcG9ydGVkLgoKIyMjIFJDUAoKQW4gW1JDUF0oaHR0cHM6Ly9hd3MuYW1hem9uLmNvbS9ibG9ncy9hd3MvaW50cm9kdWNpbmctcmVzb3VyY2UtY29udHJvbC1wb2xpY2llcy1yY3BzLWEtbmV3LWF1dGhvcml6YXRpb24tcG9saWN5LykgKFJlc291cmNlIENvbnRyb2wgUG9saWN5KSBpcyBhbiBPcmdhbml6YXRpb25zIHBvbGljeSBhZGRlZCBpbiBOb3ZlbWJlciAyMDI0LiBJdCBhdHRhY2hlcyB0byB0aGUgYWNjb3VudCB0aGF0IG93bnMgdGhlIGJ1Y2tldCBhbmQgbGltaXRzIHdobyBtYXkgYWNjZXNzIHRoYXQgYWNjb3VudCdzIHJlc291cmNlcy4gSXQgYW5kIGFuIFNDUCBsaW1pdCBkaWZmZXJlbnQgdGhpbmdzOgoKLSBTQ1A6IHdoYXQgdXNlcnMgYW5kIHJvbGVzIGluc2lkZSB0aGUgb3JnYW5pemF0aW9uIG1heSBkby4KLSBSQ1A6IHdobyBtYXkgYWNjZXNzIHJlc291cmNlcyBpbiB0aGUgb3JnYW5pemF0aW9uLCBpbmNsdWRpbmcgYWNjb3VudHMgb3V0c2lkZSBpdC4KClRoaXMgb25lLCBmcm9tIHRoZSBbUkNQIHN5bnRheCBwYWdlXShodHRwczovL2RvY3MuYXdzLmFtYXpvbi5jb20vb3JnYW5pemF0aW9ucy9sYXRlc3QvdXNlcmd1aWRlL29yZ3NfbWFuYWdlX3BvbGljaWVzX3JjcHNfc3ludGF4Lmh0bWwpLCBkZW5pZXMgYW55IFMzIHJlcXVlc3Qgbm90IG1hZGUgb3ZlciBIVFRQUzoKCmBgYGpzb24KewogICJFZmZlY3QiOiAiRGVueSIsCiAgIlByaW5jaXBhbCI6ICIqIiwKICAiQWN0aW9uIjogInMzOioiLAogICJSZXNvdXJjZSI6ICIqIiwKICAiQ29uZGl0aW9uIjogeyAiQm9vbElmRXhpc3RzIjogeyAiYXdzOlNlY3VyZVRyYW5zcG9ydCI6ICJmYWxzZSIgfSB9Cn0KYGBgCgpBbiBSQ1AncyBgUHJpbmNpcGFsYCBhY2NlcHRzIG9ubHkgYCpgLCBhbmQgYW4gUkNQIHlvdSB3cml0ZSBjYW4gb25seSB1c2UgYERlbnlgLiBUaGUgW1JDUCBzeW50YXggcGFnZV0oaHR0cHM6Ly9kb2NzLmF3cy5hbWF6b24uY29tL29yZ2FuaXphdGlvbnMvbGF0ZXN0L3VzZXJndWlkZS9vcmdzX21hbmFnZV9wb2xpY2llc19yY3BzX3N5bnRheC5odG1sKSBzYXlzIGBBbGxvd2AgaXMgc3VwcG9ydGVkIG9ubHkgaW4gYFJDUEZ1bGxBV1NBY2Nlc3NgLiBXaGVuIHlvdSBlbmFibGUgUkNQcywgQVdTIGF0dGFjaGVzIHRoYXQgcG9saWN5IHRvIGV2ZXJ5IHJvb3QsIE9VIGFuZCBhY2NvdW50LCBhbmQgeW91IGNhbid0IGRldGFjaCBpdC4gSXQgbGV0cyBldmVyeSByZXF1ZXN0IHBhc3MgdGhlIFJDUCBjaGVjaywgc28gd2l0aCBubyBgRGVueWAgd3JpdHRlbiwgUkNQcyByZWZ1c2Ugbm90aGluZy4gQW4gUkNQIHJlZnVzZXMgYSByZXF1ZXN0IG9ubHkgd2hlbiBzb21lb25lIHdyaXRlcyBhIGBEZW55YCBhbmQgdGhlIHJlcXVlc3QgbWF0Y2hlcyBpdC4gRm9yIGV4YW1wbGUsIGlmIHRoZSBidWNrZXQgcG9saWN5IGFsbG93cyBhbiBvdXRzaWRlIGFjY291bnQgYHMzOkdldE9iamVjdGAgYW5kIGFuIFJDUCBoYXMgYSBgRGVueWAgZm9yIGFjY291bnRzIG91dHNpZGUgdGhlIG9yZ2FuaXphdGlvbiwgdGhhdCBhY2NvdW50IHN0aWxsIGNhbid0IHJlYWQgdGhlIG9iamVjdC4gTGlrZSBTQ1BzLCBSQ1BzIGRvbid0IGFmZmVjdCByZXNvdXJjZXMgaW4gdGhlIG1hbmFnZW1lbnQgYWNjb3VudCAoc2VlIHRoZSBbUkNQIHBhZ2VdKGh0dHBzOi8vZG9jcy5hd3MuYW1hem9uLmNvbS9vcmdhbml6YXRpb25zL2xhdGVzdC91c2VyZ3VpZGUvb3Jnc19tYW5hZ2VfcG9saWNpZXNfcmNwcy5odG1sKSkuCgojIyMgVlBDIGVuZHBvaW50IHBvbGljeQoKQSBWUEMgZW5kcG9pbnQgcG9saWN5IGF0dGFjaGVzIHRvIGEgVlBDIGVuZHBvaW50IGFuZCBsaW1pdHMgd2hhdCByZXF1ZXN0cyB0aHJvdWdoIHRoYXQgZW5kcG9pbnQgY2FuIHJlYWNoLiBBbiBlbmRwb2ludCBjcmVhdGVkIHdpdGhvdXQgYSBwb2xpY3kgZ2V0cyBhIGRlZmF1bHQgZW5kcG9pbnQgcG9saWN5IHRoYXQgbGV0cyByZXF1ZXN0cyB0aHJvdWdoIGl0IHJlYWNoIGFueSByZXNvdXJjZS4KCk9uZSBraW5kIG9mIFMzIGVuZHBvaW50IGlzIHRoZSBnYXRld2F5IGVuZHBvaW50OiBFQzIgaW5zdGFuY2VzIGluIHRoZSBWUEMgcmVhY2ggUzMgdGhyb3VnaCBpdCB3aXRob3V0IGFuIGludGVybmV0IGdhdGV3YXkgb3IgTkFUIChzZWUgdGhlIFtTMyBnYXRld2F5IGVuZHBvaW50IHBhZ2VdKGh0dHBzOi8vZG9jcy5hd3MuYW1hem9uLmNvbS92cGMvbGF0ZXN0L3ByaXZhdGVsaW5rL3ZwYy1lbmRwb2ludHMtczMuaHRtbCkpLiBUaGUgW1ZQQyBlbmRwb2ludCBwb2xpY3kgcGFnZV0oaHR0cHM6Ly9kb2NzLmF3cy5hbWF6b24uY29tL3ZwYy9sYXRlc3QvcHJpdmF0ZWxpbmsvdnBjLWVuZHBvaW50cy1hY2Nlc3MuaHRtbCkgc2F5cyBhbiBlbmRwb2ludCBwb2xpY3kgbXVzdCBoYXZlIGEgYFByaW5jaXBhbGAsIGFuZCBmb3IgYSBnYXRld2F5IGVuZHBvaW50IGl0IGNhbiBvbmx5IGJlIGAqYC4gU2F5IHRoZSBlbmRwb2ludCBwb2xpY3kgb24gYW4gUzMgZ2F0ZXdheSBlbmRwb2ludCBpcyB0aGlzOgoKYGBganNvbgp7CiAgIkVmZmVjdCI6ICJBbGxvdyIsCiAgIlByaW5jaXBhbCI6ICIqIiwKICAiQWN0aW9uIjogInMzOkdldE9iamVjdCIsCiAgIlJlc291cmNlIjogImFybjphd3M6czM6OjpyZXBvcnRzLyoiCn0KYGBgCgpDb2RlIGluIHRoZSBWUEMgZ29pbmcgdGhyb3VnaCB0aGF0IGVuZHBvaW50IGNhbiByZWFkIG9ubHkgYHJlcG9ydHNgLiBUaGUgZW5kcG9pbnQgcG9saWN5IG9ubHkgY2Fwczsgd2hldGhlciBgUmVhZGVyYCBjYW4gcmVhZCBgcmVwb3J0c2Agc3RpbGwgY29tZXMgZG93biB0byBpdHMgaWRlbnRpdHktYmFzZWQgcG9saWN5IGFuZCB0aGUgYnVja2V0IHBvbGljeS4KCiMjIFdoYXQgYWJvdXQgImRlbnkgZXZlcnlvbmUgZXhjZXB0IFgiPwoKYFByaW5jaXBhbGAgaGFzIGEgbmVnYXRlZCBmb3JtLCBgTm90UHJpbmNpcGFsYC4gVGhpcyBidWNrZXQgcG9saWN5IGRlbmllcyBldmVyeW9uZSBleGNlcHQgYEFkbWluYCBhY2Nlc3MgdG8gYHJlcG9ydHNgOgoKYGBganNvbgp7CiAgIkVmZmVjdCI6ICJEZW55IiwKICAiTm90UHJpbmNpcGFsIjogeyAiQVdTIjogWwogICAgImFybjphd3M6aWFtOjoxMTExMjIyMjMzMzM6cm9vdCIsCiAgICAiYXJuOmF3czppYW06OjExMTEyMjIyMzMzMzpyb2xlL0FkbWluIgogIF19LAogICJBY3Rpb24iOiAiczM6KiIsCiAgIlJlc291cmNlIjogWyJhcm46YXdzOnMzOjo6cmVwb3J0cyIsICJhcm46YXdzOnMzOjo6cmVwb3J0cy8qIl0KfQpgYGAKCmBOb3RQcmluY2lwYWxgIHN0aWxsIG5hbWVzIGEgd2hvLCBzbyBmb3IgcXVlc3Rpb24gb25lIGl0IGNvdW50cyB0aGUgc2FtZSBhcyBgUHJpbmNpcGFsYC4KClRoZSBbSUFNIE5vdFByaW5jaXBhbCBwYWdlXShodHRwczovL2RvY3MuYXdzLmFtYXpvbi5jb20vSUFNL2xhdGVzdC9Vc2VyR3VpZGUvcmVmZXJlbmNlX3BvbGljaWVzX2VsZW1lbnRzX25vdHByaW5jaXBhbC5odG1sKSBhbGxvd3MgYE5vdFByaW5jaXBhbGAgb25seSB3aXRoIGBEZW55YCwgYW5kIG5ldmVyIGluIGFuIGlkZW50aXR5LWJhc2VkIHBvbGljeSBvciBhIHRydXN0IHBvbGljeS4gSXQgYWxzbyByZWNvbW1lbmRzIGFnYWluc3QgYE5vdFByaW5jaXBhbGAgaW4gbmV3IHBvbGljaWVzLCBpbiBmYXZvdXIgb2YgYCJQcmluY2lwYWwiOiAiKiJgIHdpdGggYW4gYEFybk5vdEVxdWFsc2AgY29uZGl0aW9uIG9uIGBhd3M6UHJpbmNpcGFsQXJuYC4KCmBBY3Rpb25gIGFuZCBgUmVzb3VyY2VgIGhhdmUgbmVnYXRlZCBmb3JtcyB0b28sIGBOb3RBY3Rpb25gIGFuZCBgTm90UmVzb3VyY2VgLiBgIk5vdEFjdGlvbiI6ICJpYW06KiJgIG1lYW5zIGV2ZXJ5IGFjdGlvbiBvdXRzaWRlIElBTSAoc2VlIHRoZSBbTm90QWN0aW9uIHBhZ2VdKGh0dHBzOi8vZG9jcy5hd3MuYW1hem9uLmNvbS9JQU0vbGF0ZXN0L1VzZXJHdWlkZS9yZWZlcmVuY2VfcG9saWNpZXNfZWxlbWVudHNfbm90YWN0aW9uLmh0bWwpKS4KCiMjIFdoaWNoIHBvbGljaWVzIGhhdmUgcnVsZXMgb2YgdGhlaXIgb3duPwoKPHNwYW4gaWQ9ImttcyI+PC9zcGFuPgoKIyMjIEtNUyBrZXkgcG9saWN5CgpVc3VhbGx5LCBpZiBgUmVhZGVyYCdzIGlkZW50aXR5LWJhc2VkIHBvbGljeSBhbGxvd3MgYHMzOkdldE9iamVjdGAgYW5kIGBrbXM6RGVjcnlwdGAsIGl0IGNhbiByZWFkIEtNUy1lbmNyeXB0ZWQgZmlsZXMgKHNlZSB0aGUgW1MzIFNTRS1LTVMgcGFnZV0oaHR0cHM6Ly9kb2NzLmF3cy5hbWF6b24uY29tL0FtYXpvblMzL2xhdGVzdC91c2VyZ3VpZGUvVXNpbmdLTVNFbmNyeXB0aW9uLmh0bWwpKS4KClRoYXQncyBiZWNhdXNlIHRoZSBkZWZhdWx0IGtleSBwb2xpY3kgaGFzIGEgc3RhdGVtZW50IHdob3NlIGBQcmluY2lwYWxgIGlzIHRoZSBhY2NvdW50IGl0c2VsZiAoYDpyb290YCkuIE9uY2UgdGhlIGtleSBwb2xpY3kgYWxsb3dzIHRoZSBhY2NvdW50LCBLTVMgbG9va3MgYXQgdGhlIGFjY291bnQncyBpZGVudGl0eS1iYXNlZCBwb2xpY2llcywgYW5kIGBSZWFkZXJgJ3MgYGttczpEZWNyeXB0YCBjb3VudHMgKHNlZSB0aGUgW0tNUyBkZWZhdWx0IGtleSBwb2xpY3kgcGFnZV0oaHR0cHM6Ly9kb2NzLmF3cy5hbWF6b24uY29tL2ttcy9sYXRlc3QvZGV2ZWxvcGVyZ3VpZGUva2V5LXBvbGljeS1kZWZhdWx0Lmh0bWwpKS4gSWYgc29tZW9uZSB3cml0ZXMgdGhlaXIgb3duIGtleSBwb2xpY3kgYW5kIGxlYXZlcyB0aGlzIHN0YXRlbWVudCBvdXQsIEtNUyBpZ25vcmVzIGlkZW50aXR5LWJhc2VkIHBvbGljaWVzLCBhbmQgYFJlYWRlcmAgaXMgZGVuaWVkIGV2ZW4gd2l0aCBga21zOkRlY3J5cHRgIGluIGl0cyBpZGVudGl0eS1iYXNlZCBwb2xpY3kuCgpUaGUgYCtgIGxpbmVzIGJlbG93IGFyZSB0aGF0IHN0YXRlbWVudDoKCmBgYGRpZmYKIHsKICAgIlN0YXRlbWVudCI6IFsKICAgICB7CiAgICAgICAiU2lkIjogIkFsbG93IGFjY2VzcyBmb3IgS2V5IEFkbWluaXN0cmF0b3JzIiwKICAgICAgIC4uLgogICAgIH0sCisgICAgeworICAgICAgIlNpZCI6ICJFbmFibGUgSUFNIFVzZXIgUGVybWlzc2lvbnMiLAorICAgICAgIkVmZmVjdCI6ICJBbGxvdyIsCisgICAgICAiUHJpbmNpcGFsIjogeyAiQVdTIjogImFybjphd3M6aWFtOjoxMTExMjIyMjMzMzM6cm9vdCIgfSwKKyAgICAgICJBY3Rpb24iOiAia21zOioiLAorICAgICAgIlJlc291cmNlIjogIioiCisgICAgfQogICBdCiB9CmBgYAoKYGBgClMzOiAgaWRlbnRpdHkgcG9saWN5IHx8IGJ1Y2tldCBwb2xpY3kKS01TOiBrZXkgcG9saWN5IG5hbWVzIFJlYWRlciB8fCAoa2V5IHBvbGljeSBuYW1lcyA6cm9vdCAmJiBpZGVudGl0eSBwb2xpY3kpCmBgYAoKRm9yIFMzLCB0aGUgaWRlbnRpdHktYmFzZWQgcG9saWN5IHNpdHMgaW5zaWRlIGB8fGAgYW5kIGlzIGVub3VnaCBvbiBpdHMgb3duOyBmb3IgS01TLCBpdCBzaXRzIHRvIHRoZSByaWdodCBvZiBgJiZgLCBzbyB0aGUga2V5IHBvbGljeSBtdXN0IGFsbG93IGA6cm9vdGAgZmlyc3QgKHNlZSB0aGUgW0lBTSBldmFsdWF0aW9uIHBhZ2VdKGh0dHBzOi8vZG9jcy5hd3MuYW1hem9uLmNvbS9JQU0vbGF0ZXN0L1VzZXJHdWlkZS9yZWZlcmVuY2VfcG9saWNpZXNfZXZhbHVhdGlvbi1sb2dpY19wb2xpY3ktZXZhbC1kZW55YWxsb3cuaHRtbCkpLgoKIyMjIENsb3VkRm9ybWF0aW9uIHN0YWNrIHBvbGljeQoKQSBDbG91ZEZvcm1hdGlvbiBzdGFjayBwb2xpY3kgY29udHJvbHMgd2hpY2ggcmVzb3VyY2VzIGEgc3RhY2sgdXBkYXRlIG1heSBjaGFuZ2UuIFRoaXMgb25lIGFsbG93cyBldmVyeSB1cGRhdGUgZXhjZXB0IGRlbGV0ZXMgKGV4YW1wbGUgZnJvbSB0aGUgW0Nsb3VkRm9ybWF0aW9uIHN0YWNrIHBvbGljeSBwYWdlXShodHRwczovL2RvY3MuYXdzLmFtYXpvbi5jb20vQVdTQ2xvdWRGb3JtYXRpb24vbGF0ZXN0L1VzZXJHdWlkZS9wcm90ZWN0LXN0YWNrLXJlc291cmNlcy5odG1sKSk6CgpgYGBqc29uCnsKICAiRWZmZWN0IjogIkFsbG93IiwKICAiTm90QWN0aW9uIjogIlVwZGF0ZTpEZWxldGUiLAogICJQcmluY2lwYWwiOiAiKiIsCiAgIlJlc291cmNlIjogIioiCn0KYGBgCgpgUHJpbmNpcGFsYCBpcyByZXF1aXJlZCBidXQgYWNjZXB0cyBvbmx5IGAqYCwgc2luY2UgdGhlcmUgaXMgbm8gIndobyIgdG8gcGljay4gVGhlIGFjdGlvbnMgYXJlbid0IGEgc2VydmljZSdzIEFQSSBlaXRoZXI7IHRoZXJlIGFyZSB0aHJlZSwgYFVwZGF0ZTpNb2RpZnlgLCBgVXBkYXRlOlJlcGxhY2VgIGFuZCBgVXBkYXRlOkRlbGV0ZWAuCgojIyBXaGF0IGRvZXMgYFJlYWRlcmAgbmVlZCB0byByZWFkIGByZXBvcnRzL3EzLnBkZmA/CgpGb3IgYFJlYWRlcmAgcmVhZGluZyBgcTMucGRmYCBpbiB0aGUgc2FtZSBhY2NvdW50LCB0aGUgcnVsZXMgb24gdGhlIFtJQU0gcG9saWN5IGV2YWx1YXRpb24gcGFnZV0oaHR0cHM6Ly9kb2NzLmF3cy5hbWF6b24uY29tL0lBTS9sYXRlc3QvVXNlckd1aWRlL3JlZmVyZW5jZV9wb2xpY2llc19ldmFsdWF0aW9uLWxvZ2ljX3BvbGljeS1ldmFsLWRlbnlhbGxvdy5odG1sKSBjb21lIG91dCBhcyBhIGJvb2xlYW4gZXhwcmVzc2lvbiwgd2hlcmUgYW55IGxheWVyIHRoYXQgaXNuJ3QgYXR0YWNoZWQgY291bnRzIGFzIGB0cnVlYDoKCmBgYApubyBEZW55IG1hdGNoZXMKJiYgKGlkZW50aXR5IHBvbGljeSAxIHx8IGlkZW50aXR5IHBvbGljeSAyIHx8IGJ1Y2tldCBwb2xpY3kpCiYmIHBlcm1pc3Npb25zIGJvdW5kYXJ5CiYmIHNlc3Npb24gcG9saWN5CiYmIFNDUCAmJiBSQ1AgJiYgVlBDIGVuZHBvaW50IHBvbGljeQomJiBrbXM6RGVjcnlwdCAgIChpZiBxMy5wZGYgaXMgZW5jcnlwdGVkIHdpdGggYSBLTVMga2V5KQpgYGAKCkV2ZXJ5IGBEZW55YCBjb3VudHMgb24gdGhlIGZpcnN0IGxpbmUsIHdoZXRoZXIgaXQgc2l0cyBpbiB0aGUgYnVja2V0IHBvbGljeSwgYW4gaWRlbnRpdHkgcG9saWN5IG9yIGFuIFNDUC4gVGhlIG90aGVyIGxpbmVzIGxvb2sgb25seSBhdCB3aGV0aGVyIHRoYXQgcG9saWN5IGhhcyBhbiBgQWxsb3dgOiB0aGUgYGJ1Y2tldCBwb2xpY3lgIGluIHRoZSBwYXJlbnRoZXNlcywgZm9yIGV4YW1wbGUsIGFza3Mgd2hldGhlciB0aGUgYnVja2V0IHBvbGljeSBoYXMgYW4gYEFsbG93YCBzdGF0ZW1lbnQgdGhhdCBwZXJtaXRzIHRoaXMgcmVxdWVzdC4KClRoZXJlIGlzIG5vIEFDTCBpbiB0aGlzIGV4cHJlc3Npb24sIGJlY2F1c2UgdGhlIFtJQU0gcG9saWN5IHR5cGVzIHBhZ2VdKGh0dHBzOi8vZG9jcy5hd3MuYW1hem9uLmNvbS9JQU0vbGF0ZXN0L1VzZXJHdWlkZS9hY2Nlc3NfcG9saWNpZXMuaHRtbCkgc2F5cyAiQUNMcyBjYW5ub3QgZ3JhbnQgcGVybWlzc2lvbnMgdG8gZW50aXRpZXMgd2l0aGluIHRoZSBzYW1lIGFjY291bnQiLiBBQ0xzIGNhbiBvbmx5IGdyYW50IHRvIG90aGVyIGFjY291bnRzIGFuZCB0byBhbm9ueW1vdXMgcmVxdWVzdHMsIHNvIHRoZSBBQ0wgdGVybSBhcHBlYXJzIG9ubHkgaW4gdGhlIGNyb3NzLWFjY291bnQgZXhwcmVzc2lvbiBiZWxvdy4KCkluIHRoZSB3b3JkcyBvZiB0aGUgW0lBTSBldmFsdWF0aW9uIHBhZ2VdKGh0dHBzOi8vZG9jcy5hd3MuYW1hem9uLmNvbS9JQU0vbGF0ZXN0L1VzZXJHdWlkZS9yZWZlcmVuY2VfcG9saWNpZXNfZXZhbHVhdGlvbi1sb2dpYy5odG1sKToKCi0gYHx8YCBpcyBhIHVuaW9uOiBvbmUgYWxsb3cgYW1vbmcgdGhlIGlkZW50aXR5LWJhc2VkIGFuZCByZXNvdXJjZS1iYXNlZCBwb2xpY2llcyBpcyBlbm91Z2guCi0gYCYmYCBpcyBhbiBpbnRlcnNlY3Rpb246IHRoZSBgfHxgIGluIHBhcmVudGhlc2VzIGJlaW5nIGB0cnVlYCBpc24ndCBlbm91Z2g7IGV2ZXJ5IG90aGVyIGxpbmUgbXVzdCBiZSBgdHJ1ZWAgdG9vLCBpbmNsdWRpbmcgIm5vIERlbnkgbWF0Y2hlcyIgb24gdGhlIGZpcnN0IGxpbmUsIHRoZSBjYXBzIGluIHRoZSBtaWRkbGUsIGFuZCBga21zOkRlY3J5cHRgIG9uIHRoZSBsYXN0LgoKQWNyb3NzIGFjY291bnRzLCB0aGUgZXhwcmVzc2lvbiBjaGFuZ2VzLiBTYXkgYFJlYWRlcmAgaXMgaW4gYWNjb3VudCBBIGFuZCBgcmVwb3J0c2AgaW4gYWNjb3VudCBCOgoKYGBgCnNhbWUgYWNjb3VudDogICBpZGVudGl0eSBwb2xpY3kgMSB8fCBpZGVudGl0eSBwb2xpY3kgMiB8fCBidWNrZXQgcG9saWN5CmNyb3NzLWFjY291bnQ6ICAoaWRlbnRpdHkgcG9saWN5IDEgfHwgaWRlbnRpdHkgcG9saWN5IDIpICYmIChidWNrZXQgcG9saWN5IHx8IEFDTCkKYGBgCgotIFNhbWUgYWNjb3VudDogb25lIGFsbG93IGFtb25nIHRoZSB0aHJlZSBpcyBlbm91Z2guCi0gQ3Jvc3MtYWNjb3VudDogYWNjb3VudHMgQSBhbmQgQiBlYWNoIGNoZWNrIHRoZWlyIG93biBzaWRlLCBhbmQgYm90aCBtdXN0IGFsbG93IGl0IChzZWUgdGhlIFtJQU0gY3Jvc3MtYWNjb3VudCBldmFsdWF0aW9uIHBhZ2VdKGh0dHBzOi8vZG9jcy5hd3MuYW1hem9uLmNvbS9JQU0vbGF0ZXN0L1VzZXJHdWlkZS9yZWZlcmVuY2VfcG9saWNpZXNfZXZhbHVhdGlvbi1sb2dpYy1jcm9zcy1hY2NvdW50Lmh0bWwpKS4KICAtIEFjY291bnQgQSBjaGVja3MgdGhlIHBvbGljaWVzIG9uIGBSZWFkZXJgOiBpcyBgUmVhZGVyYCBhbGxvd2VkIHRvIHJlYWQgc29tZW9uZSBlbHNlJ3MgYnVja2V0PyBgaWRlbnRpdHkgcG9saWN5IDEgfHwgaWRlbnRpdHkgcG9saWN5IDJgLCBvbmUgYWxsb3cgaXMgZW5vdWdoLgogIC0gQWNjb3VudCBCIGNoZWNrcyB0aGUgcG9saWNpZXMgb24gYHJlcG9ydHNgOiBkb2VzIGByZXBvcnRzYCBsZXQgYWNjb3VudCBBJ3MgYFJlYWRlcmAgaW4/IGBidWNrZXQgcG9saWN5IHx8IEFDTGAsIG9uZSBhbGxvdyBpcyBlbm91Z2guCiAgLSBUaGUgdHdvIGdyb3VwcyBhcmUgam9pbmVkIGJ5IGAmJmA6IG9ubHkgd2hlbiBBIHNheXMgeWVzIGFuZCBCIHNheXMgeWVzIGNhbiBgUmVhZGVyYCByZWFkIHRoZSBmaWxlLgoKQXBwbGllZCB0byBjb25jcmV0ZSBzZXR1cHMuIEluIHRoZXNlIGV4YW1wbGVzIGBSZWFkZXJgIGFuZCBgcmVwb3J0c2AgYXJlIGluIHRoZSBzYW1lIGFjY291bnQsIGV4Y2VwdCBpbiB0aGUgY3Jvc3MtYWNjb3VudCByb3c6Cgp8IFNldHVwIHwgUmVhZGFibGU/IHwgV2h5IHwKfC0tLXwtLS18LS0tfAp8IElkZW50aXR5LWJhc2VkIHBvbGljeSBhbGxvd3MgYHMzOipgOyBidWNrZXQgcG9saWN5IGFsc28gbGV0cyBpbiBgUmVhZGVyYDsgbm90aGluZyBlbHNlIHwg4pyFIHwgYWxsID0gYHRydWVgIHwKfCBPbmx5IHRoZSBpZGVudGl0eS1iYXNlZCBwb2xpY3kgYWxsb3dzIGl0OyBidWNrZXQgcG9saWN5IGRvZXNuJ3QgbWVudGlvbiBgUmVhZGVyYCB8IOKchSB8IGBpZGVudGl0eSBwb2xpY3lgID0gYHRydWVgLCBzbyBgXHxcfGAgPSBgdHJ1ZWAgfAp8IElkZW50aXR5LWJhc2VkIHBvbGljeSBzaWxlbnQ7IGJ1Y2tldCBwb2xpY3kgbmFtZXMgYFJlYWRlcmAncyByb2xlIEFSTiB8IOKchSB8IGBidWNrZXQgcG9saWN5YCA9IGB0cnVlYCwgc28gYFx8XHxgID0gYHRydWVgIHwKfCBgUmVhZGVyYCBpbiBhbm90aGVyIGFjY291bnQ7IG9ubHkgdGhlIGlkZW50aXR5LWJhc2VkIHBvbGljeSBhbGxvd3MgaXQgfCDinYwgfCBgKGJ1Y2tldCBwb2xpY3kgXHxcfCBBQ0wpYCA9IGBmYWxzZWAgfAp8IElkZW50aXR5LWJhc2VkIHBvbGljeSBhbGxvd3MgYHMzOipgOyBidWNrZXQgcG9saWN5IGhhcyBhIGBEZW55YCBuYW1pbmcgYFJlYWRlcmAgfCDinYwgfCBhIGBEZW55YCBtYXRjaGVzLCBzbyBkZW5pZWQgfAp8IElkZW50aXR5LWJhc2VkIGFuZCBidWNrZXQgcG9saWNpZXMgYWxsb3cgaXQ7IHRoZSBTQ1Agb24gYFJlYWRlcmAncyBhY2NvdW50IGRlbmllcyBgczM6R2V0T2JqZWN0YCB8IOKdjCB8IGEgYERlbnlgIG1hdGNoZXMsIHNvIGRlbmllZCB8CnwgSWRlbnRpdHktYmFzZWQgcG9saWN5IGFsbG93cyBgczM6KmA7IHBlcm1pc3Npb25zIGJvdW5kYXJ5IGFsbG93cyBvbmx5IGBzMzpMaXN0QnVja2V0YCB8IOKdjCB8IGBwZXJtaXNzaW9ucyBib3VuZGFyeWAgPSBgZmFsc2VgIHwKfCBSZXF1ZXN0IGdvZXMgdGhyb3VnaCBhIFZQQyBlbmRwb2ludCB3aG9zZSBwb2xpY3kgYWxsb3dzIG9ubHkgYW5vdGhlciBidWNrZXQgfCDinYwgfCBgVlBDIGVuZHBvaW50IHBvbGljeWAgPSBgZmFsc2VgIHwKfCBBbGwgUzMgcGVybWlzc2lvbnMgYWxsb3cgaXQsIGJ1dCBgcTMucGRmYCBpcyBLTVMtZW5jcnlwdGVkIGFuZCB0aGUga2V5IHBvbGljeSBsYWNrcyB0aGUgYDpyb290YCBzdGF0ZW1lbnQgfCDinYwgfCBga21zOkRlY3J5cHRgID0gYGZhbHNlYCAoc2VlIFtLTVMga2V5IHBvbGljeV0oI2ttcykpIHwKCkFDTCBhbmQgQmxvY2sgUHVibGljIEFjY2VzcyBzZXR0aW5ncyBhcmUgY292ZXJlZCBpbiB0aGUgbmV4dCB0d28gc3Vic2VjdGlvbnMsIGFuZCBjYW4gYmUgZmxpcHBlZCBpbiB0aGUgZW1iZWQgaW4gdGhlIEJsb2NrIFB1YmxpYyBBY2Nlc3Mgb25lLgoKIyMjIFdpdGggQUNMcyBvbiwgYW4gQWxsb3ctb25seSBidWNrZXQgcG9saWN5IGlzIHVuZG9uZSBob3dldmVyIHByZWNpc2UgaXQgaXMKCkJlc2lkZXMgcG9saWNpZXMsIFMzIGhhcyBhbiBvbGRlciBhY2Nlc3Mgc3lzdGVtLCB0aGUgKipBQ0wqKiAoYWNjZXNzIGNvbnRyb2wgbGlzdCk6IHRoZSBgQUNMYCBpbiBgYnVja2V0IHBvbGljeSB8fCBBQ0xgIGluIHRoZSBjcm9zcy1hY2NvdW50IGV4cHJlc3Npb24gYWJvdmU7IGFub255bW91cyByZXF1ZXN0cyBhcmUgY2hlY2tlZCBhZ2FpbnN0IGl0IHRvby4gVGhlIFtJQU0gcG9saWN5IHR5cGVzIHBhZ2VdKGh0dHBzOi8vZG9jcy5hd3MuYW1hem9uLmNvbS9JQU0vbGF0ZXN0L1VzZXJHdWlkZS9hY2Nlc3NfcG9saWNpZXMuaHRtbCkgY2FsbHMgQUNMcyB0aGUgb25seSBwb2xpY3kgdHlwZSB0aGF0IGRvZXNuJ3QgdXNlIEpTT04uCgpTYXkgdGhlIGJ1Y2tldCBwb2xpY3kgb24gYHJlcG9ydHNgIGxldHMgaW4gb25seSBgUmVhZGVyYCwgYW5kIEFDTHMgYXJlIHN0aWxsIGVuYWJsZWQuIFNvbWVvbmUgdXBsb2FkcyBgcTMucGRmYCB3aXRoIGAtLWFjbCBwdWJsaWMtcmVhZGA6CgpgYGAKYXdzIHMzIGNwIHEzLnBkZiBzMzovL3JlcG9ydHMvIC0tYWNsIHB1YmxpYy1yZWFkCmBgYAoKMS4gYHEzLnBkZmAncyBBQ0wgZ2FpbnMgYSBncmFudDogYEFsbFVzZXJzYCBtYXkgYFJFQURgLgoyLiBUaGUgYnVja2V0IHBvbGljeSBzdGlsbCBuYW1lcyBvbmx5IGBSZWFkZXJgLgozLiBBbnlvbmUgY2FuIEdFVCB0aGUgZmlsZSdzIFVSTCwgdW5zaWduZWQsIGFuZCByZWFkIGl0LgoKVGhlIGdyYW50IGxvb2tzIGxpa2UgdGhpcy4gTm8gYEVmZmVjdGAsIG5vIGBBY3Rpb25gLCBubyBgQ29uZGl0aW9uYDoKCmBgYHhtbAo8R3JhbnQ+CiAgPEdyYW50ZWUgeHNpOnR5cGU9Ikdyb3VwIj4KICAgIDxVUkk+aHR0cDovL2Fjcy5hbWF6b25hd3MuY29tL2dyb3Vwcy9nbG9iYWwvQWxsVXNlcnM8L1VSST4KICA8L0dyYW50ZWU+CiAgPFBlcm1pc3Npb24+UkVBRDwvUGVybWlzc2lvbj4KPC9HcmFudD4KYGBgCgpUaGUgW1MzIEFDTCBwYWdlXShodHRwczovL2RvY3MuYXdzLmFtYXpvbi5jb20vQW1hem9uUzMvbGF0ZXN0L3VzZXJndWlkZS9hY2wtb3ZlcnZpZXcuaHRtbCkgc2F5cyBgQWxsVXNlcnNgIG1lYW5zIGFueW9uZSwgc2lnbmVkIG9yIGFub255bW91cy4gQW4gYW5vbnltb3VzIHJlcXVlc3QgaGFzIG5vIGlkZW50aXR5IHBvbGljeSwgc28gb25seSB0aGUgYHJlcG9ydHNgIHNpZGUgY291bnRzOiBgYnVja2V0IHBvbGljeSB8fCBBQ0xgLiBUaGUgYnVja2V0IHBvbGljeSBkb2Vzbid0IG5hbWUgaXQsIGJ1dCB0aGUgYEFDTGAgdGVybSBpcyBgdHJ1ZWAsIHNvIHRoZSBgfHxgIGhvbGRzLiBJZiB0aGUgYnVja2V0IHBvbGljeSBoYXMgb25seSBgQWxsb3dgIHN0YXRlbWVudHMsIGhvd2V2ZXIgc3RyaWN0LCBgcTMucGRmYCBpcyBwdWJsaWMuIEFkZCB0aGUgYERlbnlgIGJlbG93IHRvIHRoZSBidWNrZXQgcG9saWN5LCB0aG91Z2gsIGFuZCB0aGUgZmlyc3QgbGluZSwgIm5vIERlbnkgbWF0Y2hlcyIsIGZhaWxzLCBzbyB0aGUgQUNMIGdyYW50IGRvZXNuJ3QgaGVscC4gVGhlIFtJQU0gcG9saWN5IHZhcmlhYmxlcyBwYWdlXShodHRwczovL2RvY3MuYXdzLmFtYXpvbi5jb20vSUFNL2xhdGVzdC9Vc2VyR3VpZGUvcmVmZXJlbmNlX3BvbGljaWVzX3ZhcmlhYmxlcy5odG1sKSBzYXlzIGFuIGFub255bW91cyByZXF1ZXN0J3MgYGF3czpQcmluY2lwYWxUeXBlYCBpcyBgQW5vbnltb3VzYCwgc28gdGhpcyBkZW5pZXMgb25seSBhbm9ueW1vdXMgcmVxdWVzdHMgYW5kIGxlYXZlcyBgUmVhZGVyYCBhbG9uZToKCmBgYGpzb24KewogICJFZmZlY3QiOiAiRGVueSIsCiAgIlByaW5jaXBhbCI6ICIqIiwKICAiQWN0aW9uIjogInMzOkdldE9iamVjdCIsCiAgIlJlc291cmNlIjogImFybjphd3M6czM6OjpyZXBvcnRzLyoiLAogICJDb25kaXRpb24iOiB7ICJTdHJpbmdFcXVhbHMiOiB7ICJhd3M6UHJpbmNpcGFsVHlwZSI6ICJBbm9ueW1vdXMiIH0gfQp9CmBgYAoKIyMjIEJsb2NrIFB1YmxpYyBBY2Nlc3M6IGRvIHB1YmxpYyBBQ0xzIGFuZCBidWNrZXQgcG9saWNpZXMgY291bnQ/CgpUaGUgbGVmdCBzaWRlIG9mIHRoZSBlbWJlZCBiZWxvdyBob2xkcyB0aGUgc3dpdGNoZXM6IE9iamVjdCBPd25lcnNoaXAgKGEgdGhyZWUtd2F5IGNob2ljZSwgb25lIG9wdGlvbiBvZiB3aGljaCBkaXNhYmxlcyBBQ0xzKSwgdGhlIGZvdXIgQmxvY2sgUHVibGljIEFjY2VzcyBzd2l0Y2hlcywgYW5kIGhvdyBgcTMucGRmYCB3YXMgZW5jcnlwdGVkIHdoZW4gdXBsb2FkZWQsIHdpdGggdGhlIEtNUyBrZXkgcG9saWN5IGJlbG93IHRoYXQuIFRoZSByaWdodCBzaWRlIGhvbGRzIHRoZSBidWNrZXQgcG9saWN5IEpTT04gYW5kIGBxMy5wZGZgJ3Mgb2JqZWN0IEFDTC4gU3RhdGVtZW50cyBjYW4gYmUgYWRkZWQgdG8gb3IgcmVtb3ZlZCBmcm9tIHRoZSBidWNrZXQgcG9saWN5IGFuZCB0aGUgS01TIGtleSBwb2xpY3k7IHRoZSBLTVMga2V5IHBvbGljeSdzIHN0YXRlbWVudHMgYXBwZWFyIGFmdGVyIHlvdSBvcGVuICIyIHN0YXRlbWVudHMiLiBUaGUgb2JqZWN0IEFDTCBpcyBzaG93biBhcyBpcy4KCi0gU2V0IE9iamVjdCBPd25lcnNoaXAgdG8gQnVja2V0IG93bmVyIGVuZm9yY2VkLCB3aGljaCBkaXNhYmxlcyBBQ0xzLCBhbmQgYHEzLnBkZmAncyBvYmplY3QgQUNMIGFuZCB0aGUgYEJsb2NrUHVibGljQWNsc2AgYW5kIGBJZ25vcmVQdWJsaWNBY2xzYCBzd2l0Y2hlcyB0dXJuIGdyZXksIGJlY2F1c2UgUzMgbm8gbG9uZ2VyIGNvdW50cyBBQ0xzIHdoZW4gY2hlY2tpbmcgYWNjZXNzLgotIFRoZSBmb3VyIGxpbmVzIGF0IHRoZSB0b3AgcmlnaHQgYXJlIHRoZSByZXN1bHRzLiBUaGVpciB0ZXh0IG5ldmVyIGNoYW5nZXM7IG9ubHkgdGhlIGNvbG91ciBnaXZlcyB0aGUgYW5zd2VyOiBub3JtYWwgaW5rIG1lYW5zIHllcywgZmFkZWQgbWVhbnMgbm8uCgo8aWZyYW1lIHNyYz0iL2VtYmVkcy9zMy1hY2Nlc3MtdHJlZSIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTA4NCIgc3R5bGU9ImJvcmRlcjowO2Rpc3BsYXk6YmxvY2s7bWFyZ2luOjEuNXJlbSAwIDIuNXJlbSIgbG9hZGluZz0ibGF6eSIgdGl0bGU9IlMzIGJ1Y2tldCBzZXR0aW5ncyB0cmVlOiB3aGF0IGRlY2lkZXMgd2hldGhlciBxMy5wZGYgY2FuIGJlIHJlYWQiPjwvaWZyYW1lPgoKQmxvY2sgUHVibGljIEFjY2VzcyBpc24ndCBhIHNpbmdsZSBzd2l0Y2ggYnV0IGEgc2V0IG9mIGZvdXIuIEVhY2ggY2FuIGJlIG9uIG9yIG9mZiBvbiBpdHMgb3duOyB0aGUgW1MzIEJsb2NrIFB1YmxpYyBBY2Nlc3MgcGFnZV0oaHR0cHM6Ly9kb2NzLmF3cy5hbWF6b24uY29tL0FtYXpvblMzL2xhdGVzdC91c2VyZ3VpZGUvYWNjZXNzLWNvbnRyb2wtYmxvY2stcHVibGljLWFjY2Vzcy5odG1sKSBzYXlzICJUaGVzZSBzZXR0aW5ncyBhcmUgaW5kZXBlbmRlbnQgYW5kIGNhbiBiZSB1c2VkIGluIGFueSBjb21iaW5hdGlvbi4iIFRoZXkgZGVhbCB3aXRoICpwdWJsaWMqIEFDTHMgYW5kIGJ1Y2tldCBwb2xpY2llcy4gQSBwdWJsaWMgQUNMIGlzIGEgZ3JhbnQgdG8gYEFsbFVzZXJzYCBsaWtlIHRoZSBvbmUgYWJvdmU7IGEgcHVibGljIGJ1Y2tldCBwb2xpY3kgaXMgb25lIGxpa2UgdGhlIGBQcmluY2lwYWw6ICIqImAgc3RhdGVtZW50IGluIHRoZSBlbWJlZCwgd2l0aCBubyBsaW1pdGluZyBgQ29uZGl0aW9uYCwgc28gYW55b25lIGNhbiByZWFkLgoKSW4gdGhlIGNvbnNvbGUncyB3b3JkaW5nLCB0d28gb2YgdGhlIGZvdXIgYWN0IG9uICpuZXcqIG9uZXMgYW5kIHR3byBvbiAqYW55KjoKCi0gYEJsb2NrUHVibGljQWNsc2AsIGBCbG9ja1B1YmxpY1BvbGljeWAgKCpuZXcqKTogUzMgcmVqZWN0cyBhbnkgYXR0ZW1wdCB0byB3cml0ZSBhIHB1YmxpYyBBQ0wgb3IgYnVja2V0IHBvbGljeS4gRXhpc3Rpbmcgb25lcyBhcmUgdW50b3VjaGVkOyBgcTMucGRmYCdzIEFDTCBzdGF5cyBpbiBmb3JjZS4KLSBgSWdub3JlUHVibGljQWNsc2AsIGBSZXN0cmljdFB1YmxpY0J1Y2tldHNgICgqYW55Kik6IGV4aXN0aW5nIG9uZXMgYXJlbid0IGRlbGV0ZWQsIGJ1dCBzdG9wIHdvcmtpbmcgZm9yIG91dHNpZGVycy4gQSBwdWJsaWMgQUNMIGRvZXNuJ3QgY291bnQsIHNvIGFub255bW91cyByZXF1ZXN0cyBjYW4ndCByZWFkIGBxMy5wZGZgOyBhIHB1YmxpYyBidWNrZXQgcG9saWN5IHdvcmtzIG9ubHkgZm9yIHVzZXJzIGluIHRoZSBidWNrZXQgb3duZXIncyBhY2NvdW50IGFuZCBBV1Mgc2VydmljZXMuIGBSZWFkZXJgIHN0aWxsIHJlYWRzIHRocm91Z2ggcG9saWNpZXMgaW4gaXRzIG93biBhY2NvdW50LgoKSWYgdGhlIGFjY291bnQsIG9yZ2FuaXphdGlvbiBvciBhbiBhY2Nlc3MgcG9pbnQgYWxzbyBzZXRzIHRoZXNlIHN3aXRjaGVzLCBTMyBjb21wYXJlcyB0aGVtIG9uZSBzd2l0Y2ggYXQgYSB0aW1lOiBhIHN3aXRjaCBvbiBpbiBhbnkgb2YgdGhvc2UgcGxhY2VzIGNvdW50cyBhcyBvbiBmb3IgYHJlcG9ydHNgLiBJZiB0aGUgYWNjb3VudCBoYXMgYElnbm9yZVB1YmxpY0FjbHNgIG9uLCBwdWJsaWMgQUNMcyBpbiBgcmVwb3J0c2AgZG9uJ3QgY291bnQgZXZlbiB0aG91Z2ggdGhlIGJ1Y2tldCBpdHNlbGYgaGFzIGl0IG9mZi4gVGhlIG9yZ2FuaXphdGlvbiBpcyB0aGUgZXhjZXB0aW9uOiB0aGUgW0Jsb2NrIFB1YmxpYyBBY2Nlc3MgcGFnZV0oaHR0cHM6Ly9kb2NzLmF3cy5hbWF6b24uY29tL0FtYXpvblMzL2xhdGVzdC91c2VyZ3VpZGUvYWNjZXNzLWNvbnRyb2wtYmxvY2stcHVibGljLWFjY2Vzcy5odG1sKSBzYXlzIHRoYXQgYXQgdGhlIG9yZ2FuaXphdGlvbiBsZXZlbCBhbGwgZm91ciBzZXR0aW5ncyBhcHBseSB0b2dldGhlciwgYW5kIHlvdSBjYW4ndCB0dXJuIG9uIGp1c3Qgb25lLgoKIyMjIFRoZSAyMDIzIGRlZmF1bHRzCgpbU2luY2UgQXByaWwgMjAyM10oaHR0cHM6Ly9hd3MuYW1hem9uLmNvbS9ibG9ncy9hd3MvaGVhZHMtdXAtYW1hem9uLXMzLXNlY3VyaXR5LWNoYW5nZXMtYXJlLWNvbWluZy1pbi1hcHJpbC1vZi0yMDIzLyksIG5ldyBidWNrZXRzIGhhdmUgYWxsIGZvdXIgb24gYW5kIFtBQ0xzIGRpc2FibGVkXShodHRwczovL2RvY3MuYXdzLmFtYXpvbi5jb20vQW1hem9uUzMvbGF0ZXN0L3VzZXJndWlkZS9hYm91dC1vYmplY3Qtb3duZXJzaGlwLmh0bWwpICgiQnVja2V0IG93bmVyIGVuZm9yY2VkIikuIFdpdGggQUNMcyBkaXNhYmxlZDoKCi0gdGhlIGAtLWFjbCBwdWJsaWMtcmVhZGAgdXBsb2FkIGFib3ZlIGZhaWxzIHdpdGggYSA0MDAgYEFjY2Vzc0NvbnRyb2xMaXN0Tm90U3VwcG9ydGVkYDsKLSBleGlzdGluZyBBQ0xzIG5vIGxvbmdlciB0YWtlIHBhcnQgaW4gYWNjZXNzIGV2YWx1YXRpb247IHRoZSBgQUNMYCB0ZXJtIGluIHRoZSBleHByZXNzaW9uIGlzIG5ldmVyIHRydWUsIGFuZCBvbmx5IHRoZSBwb2xpY2llcyBkZWNpZGUuCgojIyBUaGUgdGFrZWF3YXkKCk5leHQgdGltZSBBV1MgaGFuZHMgeW91IGEgbmV3ICJYIHBvbGljeSwiIGFzayB0d28gcXVlc3Rpb25zOgoKMS4gKipEb2VzIGl0IG5hbWUgYSB3aG8sIHdpdGggYFByaW5jaXBhbGAgb3IgYE5vdFByaW5jaXBhbGA/KiogSWYgeWVzLCBpdCBzaXRzIG9uIGEgcmVzb3VyY2U7IGlmIG5vLCBvbiBhbiBpZGVudGl0eS4gU0NQIGFuZCBSQ1AgYXJlIHRoZSBleGNlcHRpb246IHRoZXkgYXR0YWNoIHRvIGFuIE9yZ2FuaXphdGlvbnMgcm9vdCwgT1Ugb3IgYWNjb3VudC4KMi4gKipEb2VzIGl0IGdyYW50IGFjY2Vzcywgb3Igb25seSBjYXAgaXQ/KiogSWYgdGhlIGRvY3Mgc2F5IGl0IGRvZXMgIm5vdCBncmFudCBwZXJtaXNzaW9ucywiIGl0IG9ubHkgY2Fwcy4KClRoZW4gZmluZCBpdHMgY2VsbCBpbiB0aGUgdGFibGUgYWJvdmUuIEZvciBhIEtNUyBrZXksIHRoZSBrZXkgcG9saWN5IG11c3QgZmlyc3QgYWxsb3cgdGhlIGtleSdzIGFjY291bnQgdG8gdXNlIGlkZW50aXR5LWJhc2VkIHBvbGljaWVzIGJlZm9yZSBhbnkgaWRlbnRpdHktYmFzZWQgcG9saWN5IHRha2VzIGVmZmVjdC4K17:Te129,<p>S3 bucket policy、SQS queue policy、SNS topic policy、Lambda function policy、KMS key policy、API Gateway resource policy、IAM role 的 trust policy，AWS 叫做 policy 的東西越來越多，看起來像是要學十幾種。</p>
+<p>其實它們用的都是同一種 JSON，而且大部分問兩個問題就能分類。</p>
+<h2>基本格式</h2>
+<p>每一種都長這樣（註解是為了閱讀才加的，真正的 policy JSON 不能有註解）：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="jsonc" data-theme="github-dark github-light"><code data-language="jsonc" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Version"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"2012-10-17"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Statement"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">    "Effect"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Allow"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,            </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// or Deny</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">    "Principal"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: { },             </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// who</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">    "Action"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"s3:GetObject"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">],   </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// what they may do</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">    "Resource"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"arn:..."</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,        </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// on which thing</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">    "Condition"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: { }              </span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// when (optional)</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  }]</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>換一個 service，會變的有兩個地方：</p>
+<ul>
+<li>action 前面的 service 前綴：<code>s3:</code>、<code>sqs:</code>、<code>kms:</code></li>
+<li><code>Resource</code> 裡 ARN（Amazon Resource Name，AWS 資源的完整 ID）的格式</li>
+</ul>
+<p><code>Principal</code> 則是有時有、有時沒有。</p>
+<h2>十幾種 policy 怎麼分</h2>
+<p><a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html">IAM 的 policy 類型文件</a>列了 9 種 policy：identity-based、resource-based、VPC endpoint policy、permissions boundary、SCP、RCP、ACL、RAM（Resource Access Manager）resource share、session policy。</p>
+<p>其中 8 種問兩個問題就能分完。第一個問題是 policy 掛在身分上還是資源上，第二個問題是它會給權限還是只設上限：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th></th><th>給權限</th><th>只設上限</th></tr></thead><tbody><tr><td><strong>掛在身分上</strong>（不寫 <code>Principal</code>）</td><td>identity-based policy（包括 role 的 permission policy）</td><td>permissions boundary、session policy、SCP</td></tr><tr><td><strong>掛在資源上</strong>（要寫 <code>Principal</code>）</td><td>resource-based policy（bucket policy、role 的 trust policy、KMS key policy⋯⋯，RAM resource share 產生的也是這種）</td><td>RCP、VPC endpoint policy</td></tr></tbody></table>
+<p>RAM 會替你產生 resource-based policy，用來把 subnet 這類資源分享給別的帳號，所以也算在 resource-based 那一類（見 <a href="https://docs.aws.amazon.com/ram/latest/userguide/security-ram-permissions.html">RAM 的 managed permission 文件</a>）。</p>
+<p>SCP 跟 RCP 其實不掛在身分或資源上，而是掛在 AWS Organizations 的 organization root、OU（organizational unit）或 account 上。表格裡的位置是照它們管的對象放的：</p>
+<ul>
+<li>SCP 直接限制 account 裡的 user 跟 role 能做什麼，對象已經確定了，所以不用寫 <code>Principal</code>，效果跟在每個身分上各掛一份一樣。</li>
+<li>RCP 限制的是誰能存取 account 裡的資源。既然規則是對著資源寫的，就要寫出存取的人是誰，所以 RCP 有 <code>Principal</code>。不過它只能填 <code>*</code>，要縮小範圍得靠 <code>Condition</code>，例如只拒絕 organization 外面的帳號。</li>
+</ul>
+<p>不在這張表格的兩個例外：</p>
+<ul>
+<li><strong>ACL</strong> 會給權限，可是它不用 JSON。</li>
+<li><strong>CloudFormation stack policy</strong> 用的是同一種 JSON，可是它不管存取權限，所以不在 AWS 那 9 種裡。</li>
+</ul>
+<p>另外，KMS key policy 屬於「掛在資源上、給權限」這一類，可是 identity-based policy 用在 KMS key 上，有一條 S3 沒有的規則，例子在<a href="#kms">後面</a>。</p>
+<h2>第一個問題：掛在身分上，還是掛在資源上</h2>
+<p>假設你建了一個 role 叫 <code>Reader</code>（名字是舉例用的，後面的例子都沿用它），要讓它讀取 <code>reports</code> bucket 裡的檔案，有兩個地方可以寫。</p>
+<h3>identity-based policy：掛在 role 上</h3>
+<p>第一個地方是 <code>Reader</code> 這個 role，掛在身分上的叫 identity-based policy（後面的布林式裡簡寫成 identity policy，也有人叫它 IAM policy，三個指的是同一種）：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Effect"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Allow"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Action"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"s3:GetObject"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Resource"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"arn:aws:s3:::reports/*"</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>寫好 policy 還不夠，要掛上去才會生效。把它存成 <code>read-reports.json</code>（外面要包上 <code>"Version"</code> 跟 <code>"Statement"</code>，像文章開頭的 JSON 骨架那樣），再掛到 role 上：</p>
+<pre><code>aws iam put-role-policy \
+  --role-name Reader \
+  --policy-name read-reports \
+  --policy-document file://read-reports.json
+</code></pre>
+<h3>resource-based policy：掛在 bucket 上</h3>
+<p>第二個地方是 <code>reports</code> 這個 bucket，掛在資源上的叫 resource-based policy，這裡就是 bucket policy。跟上面那份比，只多了一行：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="diff" data-theme="github-dark github-light"><code data-language="diff" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">   "Effect": "Allow",</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+  "Principal": { "AWS": "arn:aws:iam::111122223333:role/Reader" },</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">   "Action": "s3:GetObject",</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">   "Resource": "arn:aws:s3:::reports/*"</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> }</span></span></code></pre></figure>
+<h3>為什麼只有 bucket policy 要寫 Principal</h3>
+<p>bucket policy 寫的是誰可以讀這個 bucket，所以要用 <code>Principal</code> 寫出是誰。掛在 <code>Reader</code> 上的那份不用寫，因為讀檔案的就是 <code>Reader</code> 自己。<a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_principal.html">IAM 的 Principal 文件</a>兩條規則都有寫。2026 年 11 月用 <code>aws accessanalyzer validate-policy</code> 檢查，把第二份當成 identity-based policy 會回 <code>UNSUPPORTED_PRINCIPAL</code>，把第一份當成 bucket policy 會回 <code>MISSING_PRINCIPAL</code>。</p>
+<p>文章開頭列的那些 policy，都像這樣掛在資源上。不確定的時候，可以問：能不能直接把 policy 掛在這個東西上？能的話就是 resource-based，要寫 <code>Principal</code>。完整清單在 <a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_aws-services-that-work-with-iam.html">IAM 的 service 對照表</a>的「Resource-based policies」那一欄。</p>
+<h2>IAM role 的 policy 屬於哪一種</h2>
+<p>常聽到的 IAM role policy，其實是這兩種：permission policy 跟 trust policy。前者是 identity-based，後者是 resource-based。兩份都在 IAM 設定。</p>
+<p>假設有一個 Lambda function 要用 <code>Reader</code> 去讀 <code>reports</code>。</p>
+<h3>trust policy：誰可以 assume Reader</h3>
+<p>trust policy 的 <code>Action</code> 看 assume 的人怎麼登入（見 <a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_create_for-idp_oidc.html">IAM 的 OIDC role 文件</a>）：</p>
+<ul>
+<li>AWS 裡的 user、role、service：<code>sts:AssumeRole</code></li>
+<li>透過 OIDC（OpenID Connect）登入的，例如 GitHub Actions：<code>sts:AssumeRoleWithWebIdentity</code></li>
+<li>透過 SAML（Security Assertion Markup Language）登入的：<code>sts:AssumeRoleWithSAML</code></li>
+</ul>
+<p>下面這份允許 Lambda assume <code>Reader</code>：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Effect"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Allow"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Principal"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: { </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"Service"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"lambda.amazonaws.com"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> },</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Action"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"sts:AssumeRole"</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<h3>permission policy：assume Reader 之後能做什麼</h3>
+<p>permission policy 就是「第一個問題」裡掛在 <code>Reader</code> 上、允許讀 <code>reports</code> 的那份。</p>
+<h3>Lambda 讀檔案時，AWS 怎麼檢查這兩份</h3>
+<ol>
+<li>Lambda 要求 assume <code>Reader</code>。</li>
+<li>AWS 檢查 trust policy：<code>lambda.amazonaws.com</code> 在 <code>Principal</code> 裡，可以。</li>
+<li>Lambda 取得 <code>Reader</code> 的臨時 credentials。</li>
+<li>Lambda 用這組 credentials 呼叫 <code>s3:GetObject</code>。</li>
+<li>AWS 檢查 permission policy：允許讀 <code>reports/*</code>，可以。</li>
+</ol>
+<h3>為什麼只有 trust policy 要寫 Principal</h3>
+<p>trust policy 寫的是誰可以 assume <code>Reader</code>，所以要用 <code>Principal</code> 寫出是誰。permission policy 不用寫，因為它掛在 <code>Reader</code> 上，做事的就是 <code>Reader</code> 自己。<a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_aws-services-that-work-with-iam.html">IAM 的 service 對照表</a>也說 trust policy 是 IAM 唯一支援的 resource-based policy。</p>
+<p>trust policy 沒有 <code>Resource</code>，因為它作用的資源就是 role 本身，不用另外指定。<code>validate-policy</code> 檢查一份帶了 <code>Resource</code> 的 trust policy，會回 <code>ROLE_TRUST_POLICY_SYNTAX_ERROR_RESOURCE</code>。</p>
+<p>trust policy 怎麼運作，寫在 <a href="/v2/iam-assume-role-trust-policy">assumeRole 跟 trust policy</a> 那篇。</p>
+<h2>第二個問題：會給權限，還是只設上限</h2>
+<p>上面幾份 policy 都在給權限。另外有幾種 policy 寫法一樣，可是只設上限，本身不給權限。這類 policy 掛在身分上跟掛在資源上的都有。</p>
+<h3>permissions boundary</h3>
+<p>permissions boundary 掛在 IAM user 或 role 上，不寫 <code>Principal</code>。假設 <code>Reader</code> 的 identity-based policy 允許所有 S3 action：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Effect"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Allow"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Action"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"s3:*"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Resource"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"*"</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p><code>Reader</code> 另外掛了一份 permissions boundary <code>s3-read-only</code>，只允許 <code>s3:GetObject</code>：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Effect"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Allow"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Action"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"s3:GetObject"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Resource"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"*"</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>兩份是同一種 JSON，只是用不同的指令掛上去：</p>
+<ul>
+<li>用 <code>put-role-policy</code> 掛上去的是 identity-based policy，會給權限。<code>Reader</code> 如果掛了好幾份，它們之間是 <code>||</code>，有一份允許就能做。</li>
+<li>用下面的 <code>put-role-permissions-boundary</code> 掛上去的是 permissions boundary，只設上限。</li>
+<li>identity-based policy 跟 permissions boundary 之間是 <code>&#x26;&#x26;</code>，<a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic.html">IAM 的評估文件</a>叫它 intersection：<code>identity-based policy &#x26;&#x26; permissions boundary</code>。</li>
+</ul>
+<p>所以 <code>Reader</code> 只能做兩份都允許的 <code>s3:GetObject</code>，呼叫 <code>s3:PutObject</code> 會被拒絕。</p>
+<p>反過來，boundary 允許 <code>s3:*</code>，identity-based policy 卻沒有允許任何 S3 action，<code>Reader</code> 就沒有任何 S3 權限。</p>
+<p>boundary 要先建成一份 managed policy，再用它的 ARN 掛上去：</p>
+<pre><code>aws iam create-policy \
+  --policy-name s3-read-only \
+  --policy-document file://s3-read-only.json
+
+aws iam put-role-permissions-boundary \
+  --role-name Reader \
+  --permissions-boundary arn:aws:iam::111122223333:policy/s3-read-only
+</code></pre>
+<h3>session policy</h3>
+<p>session policy 也只設上限。它跟 trust policy 都在 assume role 的時候用到，所以很容易搞混。假設 session policy <code>only-q3.json</code> 只允許讀 <code>reports/q3.pdf</code>：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Effect"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Allow"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Action"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"s3:GetObject"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Resource"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"arn:aws:s3:::reports/q3.pdf"</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>呼叫的人用下面這行指令 assume <code>Reader</code>，取得一個臨時 session，同時用 <code>--policy</code> 把它傳進去：</p>
+<pre><code>aws sts assume-role \
+  --role-arn arn:aws:iam::111122223333:role/Reader \
+  --role-session-name read-q3 \
+  --policy file://only-q3.json
+</code></pre>
+<ol>
+<li>AWS 先檢查 <code>Reader</code> 的 trust policy。呼叫的人不在 <code>Principal</code> 裡，這次 assume 就失敗。</li>
+<li>通過之後，這個 session 只能做 <code>Reader</code> 的 permission policy 跟 <code>only-q3.json</code> 都允許的事。</li>
+</ol>
+<ul>
+<li><code>Reader</code> 的 permission policy 允許讀整個 <code>reports/*</code>。</li>
+<li><code>only-q3.json</code> 只允許讀 <code>reports/q3.pdf</code>。</li>
+<li>這個 session 的權限是 <code>permission policy &#x26;&#x26; session policy</code>，所以只能讀 <code>q3.pdf</code>。</li>
+</ul>
+<p>session policy 不掛在任何地方，每次呼叫 <code>assume-role</code> 時才傳進去，只影響這一次的 session。上面的例子是 session policy 把權限縮小到 <code>q3.pdf</code>。可是 session policy 沒辦法放大權限，就算 <code>only-q3.json</code> 改寫成 <code>s3:*</code>，<code>Reader</code> 的 permission policy 沒允許的事，這個 session 一樣不能做。</p>
+<p><a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html">IAM 的 policy 類型文件</a>說 permissions boundary 跟 session policy「do not grant permissions」。用前面的 <code>identity-based policy &#x26;&#x26; permissions boundary</code> 跟 <code>permission policy &#x26;&#x26; session policy</code> 來看，這兩種 policy 都只出現在 <code>&#x26;&#x26;</code> 右邊：左邊是 <code>false</code> 的時候，右邊寫什麼都沒辦法把結果變成 <code>true</code>。</p>
+<h3>SCP</h3>
+<p>SCP（service control policy）是 AWS Organizations 的 policy，掛在 organization root、OU 或 account 上，限制底下的 IAM user 跟 role。一個 organization 大概長這樣：</p>
+<pre><code>organization root
+├── management account   ← 建立 organization、付整個 organization 帳單的帳號
+├── OU: prod
+│   ├── account A
+│   └── account B
+└── OU: dev
+    └── account C
+</code></pre>
+<p>假設下面這份 SCP 掛在 organization root：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Effect"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Deny"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Action"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"s3:DeleteBucket"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Resource"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"*"</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<ul>
+<li>account A、B、C 裡的 user 呼叫 <code>s3:DeleteBucket</code> 會被拒絕，就算他的 identity-based policy 允許 <code>s3:*</code> 也一樣。</li>
+<li>management account 雖然也在 root 底下，它的 user 跟 role 呼叫 <code>s3:DeleteBucket</code> 照樣成功。<a href="https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html">SCP 文件</a>說 SCP 不影響 management account 裡的 user 跟 role，也不影響 service-linked role。</li>
+</ul>
+<p>同一份 SCP 如果改掛在 <code>OU: prod</code>，受限的就只有 account A 跟 B。</p>
+<p>因為 SCP 限制不了 management account，<a href="https://docs.aws.amazon.com/organizations/latest/userguide/orgs_best-practices_mgmt-acct.html">Organizations 的 management account best practices</a> 建議資源都放在其他帳號。management account 只用來管 organization 本身，例如建立帳號、建立跟掛上 SCP、看整個 organization 的帳單。</p>
+<p>同一頁也提到，2026 年 7 月 10 日之後從 console 建立的 organization，AWS 會在 root 自動掛一份 SCP，拒絕 <code>organizations:LeaveOrganization</code> 跟 <code>account:CloseAccount</code>。這樣一來，成員帳號裡的 user 跟 role 都沒辦法讓自己的帳號退出 organization，也沒辦法關閉帳號，這兩件事改由 management account 處理。</p>
+<p>SCP 不能寫 <code>Principal</code>，<a href="https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps_syntax.html">SCP 語法文件</a>把 <code>Principal</code> 跟 <code>NotPrincipal</code> 列在不支援的元素裡。</p>
+<h3>RCP</h3>
+<p><a href="https://aws.amazon.com/blogs/aws/introducing-resource-control-policies-rcps-a-new-authorization-policy/">RCP</a>（Resource Control Policy）是 2024 年 11 月推出的 Organizations policy，掛在 bucket 所在的 account 上，限制誰能存取這個 account 的資源。它跟 SCP 限制的對象不同：</p>
+<ul>
+<li>SCP：限制 organization 裡面的 user 跟 role 能做什麼。</li>
+<li>RCP：限制誰能存取 organization 裡的資源，organization 外面的帳號也算。</li>
+</ul>
+<p>下面這份取自 <a href="https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_rcps_syntax.html">RCP 語法文件</a>，拒絕所有沒走 HTTPS 的 S3 請求：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Effect"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Deny"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Principal"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"*"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Action"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"s3:*"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Resource"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"*"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Condition"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: { </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"BoolIfExists"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: { </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"aws:SecureTransport"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"false"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> } }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>RCP 的 <code>Principal</code> 只能填 <code>*</code>，而且自己寫的 RCP 只能用 <code>Deny</code>。<a href="https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_rcps_syntax.html">RCP 語法文件</a>說，<code>Allow</code> 只會出現在 <code>RCPFullAWSAccess</code> 這一份。啟用 RCP 的時候，AWS 會自動把它掛到每個 root、OU 跟 account 上，而且拿不掉。它的內容是讓所有請求通過 RCP 這一關，所以沒有人寫 <code>Deny</code> 的話，RCP 不會拒絕任何請求。要等有人寫了一條 <code>Deny</code>、而且這次請求剛好符合它，RCP 才會拒絕。例如 bucket policy 允許外面的帳號 <code>s3:GetObject</code>，如果 RCP 裡有一條 <code>Deny</code> 拒絕組織外的帳號，那個帳號還是讀不到 object。RCP 跟 SCP 一樣，不影響 management account 裡的資源（見 <a href="https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_rcps.html">RCP 文件</a>）。</p>
+<h3>VPC endpoint policy</h3>
+<p>VPC endpoint policy 掛在 VPC endpoint 上，限制經過這個 endpoint 的請求能存取什麼。如果建 endpoint 的時候沒有指定 policy，AWS 會掛上預設的 endpoint policy，允許經過的請求存取任何資源。</p>
+<p>S3 的 endpoint 有一種叫 gateway endpoint：VPC 裡的 EC2 透過它存取 S3，不用經過 internet gateway 或 NAT（見 <a href="https://docs.aws.amazon.com/vpc/latest/privatelink/vpc-endpoints-s3.html">S3 gateway endpoint 文件</a>）。<a href="https://docs.aws.amazon.com/vpc/latest/privatelink/vpc-endpoints-access.html">VPC endpoint policy 文件</a>說 endpoint policy 一定要寫 <code>Principal</code>，而且 gateway endpoint 的 <code>Principal</code> 只能填 <code>*</code>。假設某個 S3 gateway endpoint 上的 policy 是這份：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Effect"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Allow"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Principal"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"*"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Action"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"s3:GetObject"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Resource"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"arn:aws:s3:::reports/*"</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>VPC 裡的程式經過這個 endpoint，就只能讀 <code>reports</code>。endpoint policy 只設上限，<code>Reader</code> 能不能讀 <code>reports</code>，還是看它的 identity-based policy 跟 bucket policy。</p>
+<h2>想寫「除了某人以外全部拒絕」呢</h2>
+<p><code>Principal</code> 有一個反向的寫法 <code>NotPrincipal</code>。下面這份 bucket policy 拒絕 <code>Admin</code> 以外的所有人存取 <code>reports</code>：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Effect"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Deny"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "NotPrincipal"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: { </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"AWS"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [</span></span>
+<span data-line=""><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">    "arn:aws:iam::111122223333:root"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">    "arn:aws:iam::111122223333:role/Admin"</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  ]},</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Action"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"s3:*"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Resource"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: [</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"arn:aws:s3:::reports"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"arn:aws:s3:::reports/*"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">]</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p><code>NotPrincipal</code> 一樣寫出了「誰」，分類的時候跟 <code>Principal</code> 算同一種。</p>
+<p><a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_notprincipal.html">IAM 的 NotPrincipal 文件</a>規定 <code>NotPrincipal</code> 只能配 <code>Deny</code>，identity-based policy 跟 trust policy 都不能用。文件也不建議在新的 policy 用 <code>NotPrincipal</code>，改用 <code>"Principal": "*"</code>，再加一個對 <code>aws:PrincipalArn</code> 的 <code>ArnNotEquals</code> condition。</p>
+<p><code>Action</code> 跟 <code>Resource</code> 也有反向的寫法 <code>NotAction</code>、<code>NotResource</code>。例如 <code>"NotAction": "iam:*"</code> 指的是 IAM 以外的所有 action（見 <a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_notaction.html">NotAction 文件</a>）。</p>
+<h2>哪些 policy 有自己的規則</h2>
+<p><span id="kms"></span></p>
+<h3>KMS key policy</h3>
+<p>通常 <code>Reader</code> 的 identity-based policy 允許 <code>s3:GetObject</code> 跟 <code>kms:Decrypt</code>，就能讀 KMS 加密的檔案（見 <a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingKMSEncryption.html">S3 的 SSE-KMS 文件</a>）。</p>
+<p>這是因為 key policy 預設有一段 statement，<code>Principal</code> 寫的是帳號本身（<code>:root</code>）。key policy 允許了帳號，KMS 才會去看帳號裡的 identity-based policy，<code>Reader</code> 的 <code>kms:Decrypt</code> 才算數（見 <a href="https://docs.aws.amazon.com/kms/latest/developerguide/key-policy-default.html">KMS 的預設 key policy 文件</a>）。如果有人自己寫 key policy 漏了這段，KMS 就不看 identity-based policy，<code>Reader</code> 寫了 <code>kms:Decrypt</code> 也一樣被拒絕。</p>
+<p>下面 <code>+</code> 的部分是那段 statement：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="diff" data-theme="github-dark github-light"><code data-language="diff" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">   "Statement": [</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">     {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">       "Sid": "Allow access for Key Administrators",</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">       ...</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">     },</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+    {</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+      "Sid": "Enable IAM User Permissions",</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+      "Effect": "Allow",</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+      "Principal": { "AWS": "arn:aws:iam::111122223333:root" },</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+      "Action": "kms:*",</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+      "Resource": "*"</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+    }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">   ]</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> }</span></span></code></pre></figure>
+<pre><code>S3：  identity policy || bucket policy
+KMS： key policy 寫了 Reader || (key policy 寫了 :root &#x26;&#x26; identity policy)
+</code></pre>
+<p>S3 的 identity policy 在 <code>||</code> 裡，單獨就夠；KMS 的 identity policy 在 <code>&#x26;&#x26;</code> 右邊，key policy 要先允許 <code>:root</code>（見 <a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic_policy-eval-denyallow.html">IAM 的評估文件</a>）。</p>
+<h3>CloudFormation stack policy</h3>
+<p>CloudFormation stack policy 限制的是 stack update 能修改哪些資源。下面這份允許所有的 update，只有刪除不行（例子取自 <a href="https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/protect-stack-resources.html">CloudFormation 的 stack policy 文件</a>）：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Effect"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Allow"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "NotAction"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Update:Delete"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Principal"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"*"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Resource"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"*"</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p><code>Principal</code> 一定要寫，可是只能填 <code>*</code>，因為這裡沒有「誰」可以選。action 也不是某個 service 的 API，是 <code>Update:Modify</code>、<code>Update:Replace</code>、<code>Update:Delete</code> 這三種。</p>
+<h2><code>Reader</code> 要讀 <code>reports/q3.pdf</code>，得通過哪些檢查</h2>
+<p>同帳號的 <code>Reader</code> 讀 <code>q3.pdf</code>，照 <a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic_policy-eval-denyallow.html">IAM 的 policy 評估文件</a>的規則寫成布林式，沒掛的那一層當作 <code>true</code>：</p>
+<pre><code>沒有任何 Deny
+&#x26;&#x26; (identity policy 1 || identity policy 2 || bucket policy)
+&#x26;&#x26; permissions boundary
+&#x26;&#x26; session policy
+&#x26;&#x26; SCP &#x26;&#x26; RCP &#x26;&#x26; VPC endpoint policy
+&#x26;&#x26; kms:Decrypt（q3.pdf 用 KMS key 加密的話）
+</code></pre>
+<p>每份 policy 裡的 <code>Deny</code> 都算在第一行，不管它寫在 bucket policy、identity policy 還是 SCP 裡。其他幾行只算 <code>Allow</code>：只要 bucket policy 裡有一條 <code>Allow</code> 允許這個請求，括號裡的 <code>bucket policy</code> 就成立。</p>
+<p>式子裡沒有 ACL，因為 <a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html">IAM 的 policy 類型文件</a>說「ACLs cannot grant permissions to entities within the same account」。ACL 只能把權限給其他帳號跟匿名請求，所以它只出現在下面跨帳號的式子裡。</p>
+<p><a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic.html">IAM 的評估文件</a>的說法：</p>
+<ul>
+<li><code>||</code> 是 union：identity-based policy 跟 resource-based policy 有一份允許就算。</li>
+<li><code>&#x26;&#x26;</code> 是 intersection：括號裡的 <code>||</code> 是 <code>true</code> 還不夠，式子裡其他每一行也都要是 <code>true</code>，包括第一行的「沒有任何 Deny」、中間那幾個只設上限的 policy，以及最後一行的 <code>kms:Decrypt</code>。</li>
+</ul>
+<p>跨帳號的時候，式子不一樣。假設 <code>Reader</code> 在帳號 A，<code>reports</code> 在帳號 B：</p>
+<pre><code>同帳號：identity policy 1 || identity policy 2 || bucket policy
+跨帳號：(identity policy 1 || identity policy 2) &#x26;&#x26; (bucket policy || ACL)
+</code></pre>
+<ul>
+<li>同帳號：三個裡面有一個允許就夠了。</li>
+<li>跨帳號：A、B 兩個帳號各自檢查自己那一邊，兩邊都要允許（見 <a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic-cross-account.html">IAM 的跨帳號評估文件</a>）。
+<ul>
+<li>帳號 A 看 <code>Reader</code> 身上的 policy：<code>Reader</code> 有沒有被允許去讀別人的 bucket？<code>identity policy 1 || identity policy 2</code>，有一份允許就好。</li>
+<li>帳號 B 看 <code>reports</code> 身上的 policy：<code>reports</code> 有沒有允許帳號 A 的 <code>Reader</code> 進來？<code>bucket policy || ACL</code>，有一個允許就好。</li>
+<li>兩個括號之間是 <code>&#x26;&#x26;</code>：A 說可以、B 也說可以，才讀得到。</li>
+</ul>
+</li>
+</ul>
+<p>套到具體的設定上。下面的例子裡，<code>Reader</code> 跟 <code>reports</code> 都在同一個帳號，跨帳號那一列例外：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>設定</th><th>能讀嗎</th><th>原因</th></tr></thead><tbody><tr><td>identity-based policy 允許 <code>s3:*</code>，bucket policy 也開放給 <code>Reader</code>，沒有其他 policy</td><td>✅</td><td>全部 = <code>true</code></td></tr><tr><td>只有 identity-based policy 允許，bucket policy 沒提到 <code>Reader</code></td><td>✅</td><td><code>identity policy</code> = <code>true</code>，所以 <code>||</code> = <code>true</code></td></tr><tr><td>identity-based policy 沒寫，bucket policy 寫了 <code>Reader</code> 的 role ARN</td><td>✅</td><td><code>bucket policy</code> = <code>true</code>，所以 <code>||</code> = <code>true</code></td></tr><tr><td><code>Reader</code> 在另一個帳號，只有 identity-based policy 允許</td><td>❌</td><td><code>(bucket policy || ACL)</code> = <code>false</code></td></tr><tr><td>identity-based policy 允許 <code>s3:*</code>，bucket policy 有一條 <code>Deny</code> 寫到 <code>Reader</code></td><td>❌</td><td>有 <code>Deny</code> 符合，直接拒絕</td></tr><tr><td>identity-based policy、bucket policy 都允許，<code>Reader</code> 所在帳號的 SCP <code>Deny</code> <code>s3:GetObject</code></td><td>❌</td><td>有 <code>Deny</code> 符合，直接拒絕</td></tr><tr><td>identity-based policy 允許 <code>s3:*</code>，permissions boundary 只允許 <code>s3:ListBucket</code></td><td>❌</td><td><code>permissions boundary</code> = <code>false</code></td></tr><tr><td>請求經過 VPC endpoint，endpoint policy 只允許讀別的 bucket</td><td>❌</td><td><code>VPC endpoint policy</code> = <code>false</code></td></tr><tr><td>S3 的權限都允許，可是 <code>q3.pdf</code> 用 KMS key 加密，key policy 沒有 <code>:root</code> 那個 statement</td><td>❌</td><td><code>kms:Decrypt</code> = <code>false</code>（見 <a href="#kms">KMS key policy</a>）</td></tr></tbody></table>
+<p>ACL 跟 Block Public Access 的設定在下面兩小節介紹，可以在 Block Public Access 那節的 embed 裡切換。</p>
+<h3>如果 ACL 開著，只寫 <code>Allow</code> 的 bucket policy 再細緻也前功盡棄</h3>
+<p>S3 除了 policy 以外，還有一套更早的存取機制叫 <strong>ACL</strong>（access control list），就是上面跨帳號式子裡 <code>bucket policy || ACL</code> 的 <code>ACL</code>，匿名請求也看這一項。<a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html">IAM 的 policy 類型文件</a>說，ACL 是唯一不用 JSON 的 policy。</p>
+<p>假設 <code>reports</code> 的 bucket policy 只開放給 <code>Reader</code>，ACL 也還開著。有人上傳 <code>q3.pdf</code> 時帶了 <code>--acl public-read</code>：</p>
+<pre><code>aws s3 cp q3.pdf s3://reports/ --acl public-read
+</code></pre>
+<ol>
+<li><code>q3.pdf</code> 的 ACL 多了一條 grant：<code>AllUsers</code> 可以 <code>READ</code>。</li>
+<li>bucket policy 裡還是只有 <code>Reader</code>。</li>
+<li>任何人不帶簽章，直接 GET 這個檔案的網址，也讀得到。</li>
+</ol>
+<p>那條 grant 長這樣，沒有 <code>Effect</code>，沒有 <code>Action</code>，也沒有 <code>Condition</code>：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="xml" data-theme="github-dark github-light"><code data-language="xml" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">Grant</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  &#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">Grantee</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> xsi:type</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Group"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    &#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">URI</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">>http://acs.amazonaws.com/groups/global/AllUsers&#x3C;/</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">URI</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  &#x3C;/</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">Grantee</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  &#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">Permission</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">>READ&#x3C;/</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">Permission</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;/</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">Grant</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span></code></pre></figure>
+<p><a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/acl-overview.html">S3 的 ACL 文件</a>說 <code>AllUsers</code> 代表任何人，有簽章的請求跟匿名請求都算。匿名請求沒有 identity policy，所以只看 <code>reports</code> 這一邊的 <code>bucket policy || ACL</code>。bucket policy 沒寫到它，可是 <code>ACL</code> 是 <code>true</code>，<code>||</code> 就成立了。所以 bucket policy 只寫 <code>Allow</code> 的話，寫得再嚴，<code>q3.pdf</code> 還是公開的。反過來，bucket policy 加上下面這條 <code>Deny</code>，式子第一行「沒有任何 Deny」就不成立，ACL 的 grant 也沒有用。<a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_variables.html">IAM 的 policy 變數文件</a>說匿名請求的 <code>aws:PrincipalType</code> 是 <code>Anonymous</code>，所以這條只拒絕匿名請求，<code>Reader</code> 不受影響：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="json" data-theme="github-dark github-light"><code data-language="json" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">{</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Effect"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Deny"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Principal"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"*"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Action"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"s3:GetObject"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Resource"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"arn:aws:s3:::reports/*"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  "Condition"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: { </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"StringEquals"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: { </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">"aws:PrincipalType"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"Anonymous"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> } }</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<h3>Block Public Access：決定公開的 ACL 跟 bucket policy 算不算數</h3>
+<p>下面的 embed 左邊是開關：三選一的 Object Ownership（其中一個選項會停用 ACL）、Block Public Access 的四個開關，以及 <code>q3.pdf</code> 上傳時用的加密方式；KMS key policy 放在加密方式下面。右邊是 bucket policy 的 JSON 跟 <code>q3.pdf</code> 的 object ACL。bucket policy 跟 KMS key policy 可以加入或移除 statement，KMS key policy 的 statement 要先點開「2 條 statement」才會出現。object ACL 只顯示內容。</p>
+<ul>
+<li>如果把 Object Ownership 切到 Bucket owner enforced，也就是 ACL 停用，<code>q3.pdf</code> 的 object ACL 跟 <code>BlockPublicAcls</code>、<code>IgnorePublicAcls</code> 這兩個開關就會變灰，因為 S3 判斷權限時不再把 ACL 算進去。</li>
+<li>右邊最上面有四行結果。文字固定不變，只用字色表示答案：一般字色是「可以」，變淡是「不行」。</li>
+</ul>
+<iframe src="/embeds/s3-access-tree?lang=zh" width="100%" height="986" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="S3 bucket 設定樹：哪些設定決定 q3.pdf 讀不讀得到"></iframe>
+<p>Block Public Access 不是單一個開關，而是四個開關組成的一組設定，四個開關可以各自設成開或關，<a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-control-block-public-access.html">S3 的 Block Public Access 文件</a>說「These settings are independent and can be used in any combination」。它們處理的是「公開」的 ACL 跟 bucket policy。公開的 ACL 就是上面給了 <code>AllUsers</code> 的那條 grant；公開的 bucket policy 就像 embed 裡 <code>Principal: "*"</code> 的那條 statement，沒有用 <code>Condition</code> 限制，任何人都能讀。</p>
+<p>console 的英文說明裡，四個開關有兩個寫 <em>new</em>、兩個寫 <em>any</em>：</p>
+<ul>
+<li><code>BlockPublicAcls</code>、<code>BlockPublicPolicy</code>（<em>new</em>）：有人要寫入公開的 ACL 或 bucket policy 時，S3 直接拒絕。已經存在的不受影響，<code>q3.pdf</code> 原本的 ACL 照樣有效。</li>
+<li><code>IgnorePublicAcls</code>、<code>RestrictPublicBuckets</code>（<em>any</em>）：已經存在的不會被刪掉，可是不再對外生效。公開的 ACL 不算數，匿名請求讀不到 <code>q3.pdf</code>；公開的 bucket policy 只對 bucket 所在帳號的使用者跟 AWS service 有效。<code>Reader</code> 跟 <code>reports</code> 在同一個帳號，又有 identity-based policy 允許，所以照樣讀得到。</li>
+</ul>
+<p>如果 account、organization 或 access point 也設了這四個開關，S3 會逐一比對每個開關，同一個開關只要在任何一個地方打開，<code>reports</code> 就照打開處理。例如 account 開了 <code>IgnorePublicAcls</code>，就算 <code>reports</code> 自己沒開，裡面公開的 ACL 還是不算數。organization 是例外，<a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-control-block-public-access.html">Block Public Access 文件</a>說在 organization 層級，四個開關只能一起套用，不能只開其中一個。</p>
+<h3>2023 年的新預設</h3>
+<p><a href="https://aws.amazon.com/blogs/aws/heads-up-amazon-s3-security-changes-are-coming-in-april-of-2023/">從 2023 年 4 月起</a>，新建的 bucket 預設四個開關都開，並且<a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/about-object-ownership.html">停用 ACL</a>（「Bucket owner enforced」）。ACL 停用之後：</p>
+<ul>
+<li>上面那行 <code>--acl public-read</code> 會失敗，回 400 <code>AccessControlListNotSupported</code>。</li>
+<li>原本就存在的 ACL 不再參與存取判斷，式子裡的 <code>ACL</code> 那一項永遠不成立，只剩 policy 說了算。</li>
+</ul>
+<h2>下次遇到新的 policy</h2>
+<p>下次 AWS 又推出一個「X policy」，問兩個問題：</p>
+<ol>
+<li><strong>它有沒有用 <code>Principal</code> 或 <code>NotPrincipal</code> 寫出「誰」？</strong> 有的話掛在資源上，沒有的話掛在身分上。SCP 跟 RCP 例外，它們掛在 Organizations 的 root、OU 或 account 上。</li>
+<li><strong>它會給權限，還是只設上限？</strong> 文件寫「do not grant permissions」的，就是只設上限。</li>
+</ol>
+<p>兩個問題問完，對照上面那張表。如果是 KMS key，key policy 要先允許 key 所在的帳號使用 identity-based policy，identity-based policy 才會生效。</p>8:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L13",null,{"htmlContent":"$14","rawContent":"$15","base64Content":"$16","title":"AWS has a dozen policies. They're all one shape.","createdAt":"2026-11-05T19:22:34.000Z","updatedAt":"$undefined","tags":["aws","iam","security","cloud"],"altHtmlContent":"$17","altTitle":"AWS 的 policy 有十幾種，用的都是同一種 JSON","currentLang":"en","altLang":"zh","canonicalPath":"/v2/aws-policies-same-shape"}]}]}]

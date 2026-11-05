@@ -1,0 +1,373 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"default"]
+4:I[48350,[],""]
+5:I[11412,[],""]
+6:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+7:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-6e2326ce7d294bfd.js"],"default"]
+9:I[96727,[],"OutletBoundary"]
+b:I[14038,[],"AsyncMetadataOutlet"]
+d:I[96727,[],"ViewportBoundary"]
+f:I[96727,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[92950,[],""]
+:HL["/_next/static/media/8760c4774489e4ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/7928fc73d27b7462.css","style"]
+:HL["/_next/static/css/d3281eaf3cab9132.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/26082814d1c1fbd2.css","style"]
+0:{"P":null,"b":"7b-aY9z1PLkHmf7MEqV83","p":"","c":["","v2","five-ways-to-reach-a-k8s-service.en"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","five-ways-to-reach-a-k8s-service.en","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7928fc73d27b7462.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/d3281eaf3cab9132.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href=\"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap\";document.head.appendChild(l)})()"}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L7",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","five-ways-to-reach-a-k8s-service.en","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/26082814d1c1fbd2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+a:null
+c:{"metadata":[["$","title","0",{"children":"Five ways to reach a service in Kubernetes, and the one you should use  | jialinhuang"}],["$","meta","1",{"name":"description","content":"A Kubernetes service can be reached five different ways. In real code you use exactly one. Walking through all five is the fastest way to see what the service abstraction is hiding, and why the other four only come out when something is broken."}],["$","link","2",{"rel":"canonical","href":"/v2/five-ways-to-reach-a-k8s-service"}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"
+13:I[86734,["7654","static/chunks/7654-2fe46cddc56d2856.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+14:T3566,<p>To check whether an API inside a cluster is reachable, a common move is to <code>kubectl exec</code> into a pod and hit it with <code>wget</code> or <code>curl</code>.</p>
+<p>A pod gets a new IP whenever it is recreated. So that callers don't have to chase IPs, Kubernetes puts a service in front of a set of pods. A service has a stable DNS name and virtual IP; a NodePort service also opens a port on every node. That gives the same API several addresses to hit, tried below in this order:</p>
+<ol>
+<li>From inside a node, <code>localhost</code> plus the node port</li>
+<li>From a pod, the service's DNS name</li>
+<li>From a pod, the service's virtual IP</li>
+<li>From a pod, a node's IP plus the node port</li>
+<li>Skipping the service, a pod's IP directly</li>
+</ol>
+<h2>The setup</h2>
+<p>I'm on <a href="https://kind.sigs.k8s.io/">Kind</a>, which runs each K8s node as a Docker container. A pod is one or more containers sharing one IP. Two tiny Node.js APIs run in pods in the <code>noah</code> namespace (a name that groups resources), each behind a service:</p>
+<ul>
+<li><code>joke-service</code> → <code>type: ClusterIP</code></li>
+<li><code>number-service</code> → <code>type: NodePort</code></li>
+</ul>
+<p>A <code>ClusterIP</code> service gets a virtual IP that only answers inside the cluster. A <code>NodePort</code> service gets one too, plus a port (30000–32767) opened on every node.</p>
+<p>Apart from the names, the two YAML files differ in just the <code>type</code> line, yet <code>number-service</code> (NodePort) can be reached all five ways below and <code>joke-service</code> (ClusterIP) only three. Going from <code>joke-service</code> to <code>number-service</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="diff" data-theme="github-dark github-light"><code data-language="diff" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> apiVersion: v1</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> kind: Service</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> metadata:</span></span>
+<span data-line=""><span style="--shiki-dark:#FDAEB7;--shiki-light:#B31D28">-  name: joke-service</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+  name: number-service</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">   namespace: noah</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> spec:</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">   selector:</span></span>
+<span data-line=""><span style="--shiki-dark:#FDAEB7;--shiki-light:#B31D28">-    app: joke-service</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+    app: number-service</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">   ports:</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">     - port: 80</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">       targetPort: 3000</span></span>
+<span data-line=""><span style="--shiki-dark:#FDAEB7;--shiki-light:#B31D28">-  type: ClusterIP</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+  type: NodePort</span></span></code></pre></figure>
+<pre><code>$ kubectl get svc -n noah
+NAME             TYPE        CLUSTER-IP      PORT(S)
+joke-service     ClusterIP   10.96.236.182   80/TCP
+number-service   NodePort    10.96.183.131   80:30405/TCP
+</code></pre>
+<p>One detail that explains the commands below: the Alpine pods only ship <code>wget</code>, while Kind's Debian nodes have <code>curl</code>. Same request, different tool.</p>
+<p>Rerun in November 2026 on Kind v0.30.0 (Kubernetes v1.34.0) with the same results; the IPs and ports below are from the original run.</p>
+<h2>Hitting a NodePort service (all five work)</h2>
+<p>A <code>NodePort</code> service is the permissive one. Every method is on the table.</p>
+<p><strong>1. Docker exec into the node (a Kind-only trick).</strong> Kind nodes are containers, so you can jump inside one and hit <code>localhost</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">docker</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> exec</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -it</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> kubecmds-test-control-plane</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> curl</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> http://localhost:30405/health</span></span></code></pre></figure>
+<p><code>30405</code> is the node port from <code>kubectl get svc</code>. Inside the node, the NodePort is just a local port. On a real cluster you SSH into the node (or run <code>kubectl debug node/&#x3C;name></code>) and hit <code>127.0.0.1:30405</code>. Avoid <code>localhost</code>: an Alpine <code>kubectl debug</code> pod resolves it to IPv6 <code>::1</code>, which is refused because kube-proxy (the component on each node that turns service addresses into packet rules) never serves NodePorts there. Even <code>127.0.0.1</code> works only in kube-proxy's iptables mode, Kind's default; in its other modes the <a href="https://kubernetes.io/docs/reference/config-api/kube-proxy-config.v1alpha1/">docs</a> point to the node's own IP (untested here). Methods 2 to 5 use nothing Kind-specific, but I ran them only on Kind.</p>
+<p><strong>2. Service DNS (the one you should use).</strong> Name the service, let K8s resolve it:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">kubectl</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> exec</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -it</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> number-service-xxx</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -n</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> noah</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> --</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> wget</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -qO-</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> http://number-service:80/health</span></span></code></pre></figure>
+<p>Two caveats worth knowing:</p>
+<ul>
+<li>From another namespace, add the namespace: <code>number-service.noah</code> (or the full <code>number-service.noah.svc.cluster.local</code>). The bare name fails with <code>bad address</code>, because DNS only fills in the pod's own namespace.</li>
+<li>If CoreDNS (the cluster's DNS server, running as pods) is down, this is the method that stops working. The IP-based ones below still do.</li>
+</ul>
+<p><strong>3. ClusterIP direct.</strong> Skip DNS, use the service's virtual IP:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">kubectl</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> exec</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -it</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> &#x3C;</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">po</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">d</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">></span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -n</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> noah</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> --</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> wget</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -qO-</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> http://10.96.183.131:80/health</span></span></code></pre></figure>
+<p>Reliable, but you have to look the IP up first (<code>kubectl get svc</code>).</p>
+<p><strong>4. NodeIP + NodePort (the painful one).</strong> Reach the node's real IP on the node port:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">kubectl</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> exec</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -it</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> number-service-xxx</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -n</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> noah</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> --</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> wget</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -qO-</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> http://172.18.0.3:30405/health</span></span></code></pre></figure>
+<p>You need two lookups to build this: <code>kubectl get nodes -o wide</code> for the node IP, then <code>kubectl get svc</code> for the random port. Rarely worth it.</p>
+<p><strong>5. Direct pod IP (bypass the service entirely).</strong> Talk to one pod on its container port:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">kubectl</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> exec</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -it</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> &#x3C;</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">po</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">d</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">></span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -n</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> noah</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> --</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> wget</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -qO-</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> http://10.244.1.18:3000/health</span></span></code></pre></figure>
+<p>Find the pod IPs with <code>kubectl get pods -o wide</code>, or read them off the service's endpoints:</p>
+<pre><code>$ kubectl describe svc number-service -n noah
+Endpoints: 10.244.1.18:3000,10.244.2.23:3000
+</code></pre>
+<p>This skips load balancing completely, which is exactly why it's useful: it lets you test one misbehaving pod in isolation.</p>
+<h2>A ClusterIP service loses two of the five</h2>
+<p>Switch <code>joke-service</code> to <code>type: ClusterIP</code> and every method that needs a node port vanishes. Here are all five, side by side:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>#</th><th>Method</th><th>NodePort</th><th>ClusterIP</th></tr></thead><tbody><tr><td>1</td><td>Docker exec → <code>localhost:NodePort</code></td><td>✅</td><td>❌ no node port</td></tr><tr><td>2</td><td>Service DNS</td><td>✅</td><td>✅</td></tr><tr><td>3</td><td>ClusterIP direct</td><td>✅</td><td>✅</td></tr><tr><td>4</td><td>NodeIP + NodePort</td><td>✅</td><td>❌ no node port</td></tr><tr><td>5</td><td>Direct pod IP</td><td>✅</td><td>✅</td></tr></tbody></table>
+<p>ClusterIP keeps <strong>2, 3, and 5</strong>, and loses <strong>1 and 4</strong>, the two that reach in through a node port it doesn't have.</p>
+<h2>The takeaway</h2>
+<p>In practice, use <strong>service DNS</strong> (<code>service-name:port</code>). It reads cleanly, and the naming comes from the <a href="https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/">Kubernetes DNS spec</a>, not from Kind.</p>
+<p>The reason: <strong>every address under the name can change, and the name doesn't.</strong> A pod replaced by a rollout (deploying a new version) or a deletion gets a new IP; only a container restart inside the same pod keeps it. The ClusterIP and node port last as long as the Service. This YAML sets neither <code>spec.clusterIP</code> nor <code>nodePort</code>, so recreating the Service gets new ones. In the rerun, <code>10.96.54.49</code> and <code>31738</code> became <code>10.96.209.100</code> and <code>30236</code>, but <code>number-service</code> kept working. The other four methods all reach through to one of those addresses, which makes them perfect for debugging a specific layer (is DNS the problem? is one pod the problem?) and a bad idea for anything you actually ship.</p>15:T18dc,
+To check whether an API inside a cluster is reachable, a common move is to `kubectl exec` into a pod and hit it with `wget` or `curl`.
+
+A pod gets a new IP whenever it is recreated. So that callers don't have to chase IPs, Kubernetes puts a service in front of a set of pods. A service has a stable DNS name and virtual IP; a NodePort service also opens a port on every node. That gives the same API several addresses to hit, tried below in this order:
+
+1. From inside a node, `localhost` plus the node port
+2. From a pod, the service's DNS name
+3. From a pod, the service's virtual IP
+4. From a pod, a node's IP plus the node port
+5. Skipping the service, a pod's IP directly
+
+## The setup
+
+I'm on [Kind](https://kind.sigs.k8s.io/), which runs each K8s node as a Docker container. A pod is one or more containers sharing one IP. Two tiny Node.js APIs run in pods in the `noah` namespace (a name that groups resources), each behind a service:
+
+- `joke-service` → `type: ClusterIP`
+- `number-service` → `type: NodePort`
+
+A `ClusterIP` service gets a virtual IP that only answers inside the cluster. A `NodePort` service gets one too, plus a port (30000–32767) opened on every node.
+
+Apart from the names, the two YAML files differ in just the `type` line, yet `number-service` (NodePort) can be reached all five ways below and `joke-service` (ClusterIP) only three. Going from `joke-service` to `number-service`:
+
+```diff
+ apiVersion: v1
+ kind: Service
+ metadata:
+-  name: joke-service
++  name: number-service
+   namespace: noah
+ spec:
+   selector:
+-    app: joke-service
++    app: number-service
+   ports:
+     - port: 80
+       targetPort: 3000
+-  type: ClusterIP
++  type: NodePort
+```
+
+```
+$ kubectl get svc -n noah
+NAME             TYPE        CLUSTER-IP      PORT(S)
+joke-service     ClusterIP   10.96.236.182   80/TCP
+number-service   NodePort    10.96.183.131   80:30405/TCP
+```
+
+One detail that explains the commands below: the Alpine pods only ship `wget`, while Kind's Debian nodes have `curl`. Same request, different tool.
+
+Rerun in November 2026 on Kind v0.30.0 (Kubernetes v1.34.0) with the same results; the IPs and ports below are from the original run.
+
+## Hitting a NodePort service (all five work)
+
+A `NodePort` service is the permissive one. Every method is on the table.
+
+**1. Docker exec into the node (a Kind-only trick).** Kind nodes are containers, so you can jump inside one and hit `localhost`:
+
+```bash
+docker exec -it kubecmds-test-control-plane curl http://localhost:30405/health
+```
+
+`30405` is the node port from `kubectl get svc`. Inside the node, the NodePort is just a local port. On a real cluster you SSH into the node (or run `kubectl debug node/<name>`) and hit `127.0.0.1:30405`. Avoid `localhost`: an Alpine `kubectl debug` pod resolves it to IPv6 `::1`, which is refused because kube-proxy (the component on each node that turns service addresses into packet rules) never serves NodePorts there. Even `127.0.0.1` works only in kube-proxy's iptables mode, Kind's default; in its other modes the [docs](https://kubernetes.io/docs/reference/config-api/kube-proxy-config.v1alpha1/) point to the node's own IP (untested here). Methods 2 to 5 use nothing Kind-specific, but I ran them only on Kind.
+
+**2. Service DNS (the one you should use).** Name the service, let K8s resolve it:
+
+```bash
+kubectl exec -it number-service-xxx -n noah -- wget -qO- http://number-service:80/health
+```
+
+Two caveats worth knowing:
+
+- From another namespace, add the namespace: `number-service.noah` (or the full `number-service.noah.svc.cluster.local`). The bare name fails with `bad address`, because DNS only fills in the pod's own namespace.
+- If CoreDNS (the cluster's DNS server, running as pods) is down, this is the method that stops working. The IP-based ones below still do.
+
+**3. ClusterIP direct.** Skip DNS, use the service's virtual IP:
+
+```bash
+kubectl exec -it <pod> -n noah -- wget -qO- http://10.96.183.131:80/health
+```
+
+Reliable, but you have to look the IP up first (`kubectl get svc`).
+
+**4. NodeIP + NodePort (the painful one).** Reach the node's real IP on the node port:
+
+```bash
+kubectl exec -it number-service-xxx -n noah -- wget -qO- http://172.18.0.3:30405/health
+```
+
+You need two lookups to build this: `kubectl get nodes -o wide` for the node IP, then `kubectl get svc` for the random port. Rarely worth it.
+
+**5. Direct pod IP (bypass the service entirely).** Talk to one pod on its container port:
+
+```bash
+kubectl exec -it <pod> -n noah -- wget -qO- http://10.244.1.18:3000/health
+```
+
+Find the pod IPs with `kubectl get pods -o wide`, or read them off the service's endpoints:
+
+```
+$ kubectl describe svc number-service -n noah
+Endpoints: 10.244.1.18:3000,10.244.2.23:3000
+```
+
+This skips load balancing completely, which is exactly why it's useful: it lets you test one misbehaving pod in isolation.
+
+## A ClusterIP service loses two of the five
+
+Switch `joke-service` to `type: ClusterIP` and every method that needs a node port vanishes. Here are all five, side by side:
+
+| # | Method | NodePort | ClusterIP |
+|---|---|---|---|
+| 1 | Docker exec → `localhost:NodePort` | ✅ | ❌ no node port |
+| 2 | Service DNS | ✅ | ✅ |
+| 3 | ClusterIP direct | ✅ | ✅ |
+| 4 | NodeIP + NodePort | ✅ | ❌ no node port |
+| 5 | Direct pod IP | ✅ | ✅ |
+
+ClusterIP keeps **2, 3, and 5**, and loses **1 and 4**, the two that reach in through a node port it doesn't have.
+
+## The takeaway
+
+In practice, use **service DNS** (`service-name:port`). It reads cleanly, and the naming comes from the [Kubernetes DNS spec](https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/), not from Kind.
+
+The reason: **every address under the name can change, and the name doesn't.** A pod replaced by a rollout (deploying a new version) or a deletion gets a new IP; only a container restart inside the same pod keeps it. The ClusterIP and node port last as long as the Service. This YAML sets neither `spec.clusterIP` nor `nodePort`, so recreating the Service gets new ones. In the rerun, `10.96.54.49` and `31738` became `10.96.209.100` and `30236`, but `number-service` kept working. The other four methods all reach through to one of those addresses, which makes them perfect for debugging a specific layer (is DNS the problem? is one pod the problem?) and a bad idea for anything you actually ship.
+16:T234c,LS0tCnRpdGxlOiAiRml2ZSB3YXlzIHRvIHJlYWNoIGEgc2VydmljZSBpbiBLdWJlcm5ldGVzLCBhbmQgdGhlIG9uZSB5b3Ugc2hvdWxkIHVzZSIKZGF0ZTogMjAyNS0wOS0wN1QyMDoyMTowMAp0YWdzOiBba3ViZXJuZXRlcywgbmV0d29ya2luZywgZGV2b3BzXQpkZXNjcmlwdGlvbjogIkEgS3ViZXJuZXRlcyBzZXJ2aWNlIGNhbiBiZSByZWFjaGVkIGZpdmUgZGlmZmVyZW50IHdheXMuIEluIHJlYWwgY29kZSB5b3UgdXNlIGV4YWN0bHkgb25lLiBXYWxraW5nIHRocm91Z2ggYWxsIGZpdmUgaXMgdGhlIGZhc3Rlc3Qgd2F5IHRvIHNlZSB3aGF0IHRoZSBzZXJ2aWNlIGFic3RyYWN0aW9uIGlzIGhpZGluZywgYW5kIHdoeSB0aGUgb3RoZXIgZm91ciBvbmx5IGNvbWUgb3V0IHdoZW4gc29tZXRoaW5nIGlzIGJyb2tlbi4iCi0tLQoKVG8gY2hlY2sgd2hldGhlciBhbiBBUEkgaW5zaWRlIGEgY2x1c3RlciBpcyByZWFjaGFibGUsIGEgY29tbW9uIG1vdmUgaXMgdG8gYGt1YmVjdGwgZXhlY2AgaW50byBhIHBvZCBhbmQgaGl0IGl0IHdpdGggYHdnZXRgIG9yIGBjdXJsYC4KCkEgcG9kIGdldHMgYSBuZXcgSVAgd2hlbmV2ZXIgaXQgaXMgcmVjcmVhdGVkLiBTbyB0aGF0IGNhbGxlcnMgZG9uJ3QgaGF2ZSB0byBjaGFzZSBJUHMsIEt1YmVybmV0ZXMgcHV0cyBhIHNlcnZpY2UgaW4gZnJvbnQgb2YgYSBzZXQgb2YgcG9kcy4gQSBzZXJ2aWNlIGhhcyBhIHN0YWJsZSBETlMgbmFtZSBhbmQgdmlydHVhbCBJUDsgYSBOb2RlUG9ydCBzZXJ2aWNlIGFsc28gb3BlbnMgYSBwb3J0IG9uIGV2ZXJ5IG5vZGUuIFRoYXQgZ2l2ZXMgdGhlIHNhbWUgQVBJIHNldmVyYWwgYWRkcmVzc2VzIHRvIGhpdCwgdHJpZWQgYmVsb3cgaW4gdGhpcyBvcmRlcjoKCjEuIEZyb20gaW5zaWRlIGEgbm9kZSwgYGxvY2FsaG9zdGAgcGx1cyB0aGUgbm9kZSBwb3J0CjIuIEZyb20gYSBwb2QsIHRoZSBzZXJ2aWNlJ3MgRE5TIG5hbWUKMy4gRnJvbSBhIHBvZCwgdGhlIHNlcnZpY2UncyB2aXJ0dWFsIElQCjQuIEZyb20gYSBwb2QsIGEgbm9kZSdzIElQIHBsdXMgdGhlIG5vZGUgcG9ydAo1LiBTa2lwcGluZyB0aGUgc2VydmljZSwgYSBwb2QncyBJUCBkaXJlY3RseQoKIyMgVGhlIHNldHVwCgpJJ20gb24gW0tpbmRdKGh0dHBzOi8va2luZC5zaWdzLms4cy5pby8pLCB3aGljaCBydW5zIGVhY2ggSzhzIG5vZGUgYXMgYSBEb2NrZXIgY29udGFpbmVyLiBBIHBvZCBpcyBvbmUgb3IgbW9yZSBjb250YWluZXJzIHNoYXJpbmcgb25lIElQLiBUd28gdGlueSBOb2RlLmpzIEFQSXMgcnVuIGluIHBvZHMgaW4gdGhlIGBub2FoYCBuYW1lc3BhY2UgKGEgbmFtZSB0aGF0IGdyb3VwcyByZXNvdXJjZXMpLCBlYWNoIGJlaGluZCBhIHNlcnZpY2U6CgotIGBqb2tlLXNlcnZpY2VgIOKGkiBgdHlwZTogQ2x1c3RlcklQYAotIGBudW1iZXItc2VydmljZWAg4oaSIGB0eXBlOiBOb2RlUG9ydGAKCkEgYENsdXN0ZXJJUGAgc2VydmljZSBnZXRzIGEgdmlydHVhbCBJUCB0aGF0IG9ubHkgYW5zd2VycyBpbnNpZGUgdGhlIGNsdXN0ZXIuIEEgYE5vZGVQb3J0YCBzZXJ2aWNlIGdldHMgb25lIHRvbywgcGx1cyBhIHBvcnQgKDMwMDAw4oCTMzI3NjcpIG9wZW5lZCBvbiBldmVyeSBub2RlLgoKQXBhcnQgZnJvbSB0aGUgbmFtZXMsIHRoZSB0d28gWUFNTCBmaWxlcyBkaWZmZXIgaW4ganVzdCB0aGUgYHR5cGVgIGxpbmUsIHlldCBgbnVtYmVyLXNlcnZpY2VgIChOb2RlUG9ydCkgY2FuIGJlIHJlYWNoZWQgYWxsIGZpdmUgd2F5cyBiZWxvdyBhbmQgYGpva2Utc2VydmljZWAgKENsdXN0ZXJJUCkgb25seSB0aHJlZS4gR29pbmcgZnJvbSBgam9rZS1zZXJ2aWNlYCB0byBgbnVtYmVyLXNlcnZpY2VgOgoKYGBgZGlmZgogYXBpVmVyc2lvbjogdjEKIGtpbmQ6IFNlcnZpY2UKIG1ldGFkYXRhOgotICBuYW1lOiBqb2tlLXNlcnZpY2UKKyAgbmFtZTogbnVtYmVyLXNlcnZpY2UKICAgbmFtZXNwYWNlOiBub2FoCiBzcGVjOgogICBzZWxlY3RvcjoKLSAgICBhcHA6IGpva2Utc2VydmljZQorICAgIGFwcDogbnVtYmVyLXNlcnZpY2UKICAgcG9ydHM6CiAgICAgLSBwb3J0OiA4MAogICAgICAgdGFyZ2V0UG9ydDogMzAwMAotICB0eXBlOiBDbHVzdGVySVAKKyAgdHlwZTogTm9kZVBvcnQKYGBgCgpgYGAKJCBrdWJlY3RsIGdldCBzdmMgLW4gbm9haApOQU1FICAgICAgICAgICAgIFRZUEUgICAgICAgIENMVVNURVItSVAgICAgICBQT1JUKFMpCmpva2Utc2VydmljZSAgICAgQ2x1c3RlcklQICAgMTAuOTYuMjM2LjE4MiAgIDgwL1RDUApudW1iZXItc2VydmljZSAgIE5vZGVQb3J0ICAgIDEwLjk2LjE4My4xMzEgICA4MDozMDQwNS9UQ1AKYGBgCgpPbmUgZGV0YWlsIHRoYXQgZXhwbGFpbnMgdGhlIGNvbW1hbmRzIGJlbG93OiB0aGUgQWxwaW5lIHBvZHMgb25seSBzaGlwIGB3Z2V0YCwgd2hpbGUgS2luZCdzIERlYmlhbiBub2RlcyBoYXZlIGBjdXJsYC4gU2FtZSByZXF1ZXN0LCBkaWZmZXJlbnQgdG9vbC4KClJlcnVuIGluIE5vdmVtYmVyIDIwMjYgb24gS2luZCB2MC4zMC4wIChLdWJlcm5ldGVzIHYxLjM0LjApIHdpdGggdGhlIHNhbWUgcmVzdWx0czsgdGhlIElQcyBhbmQgcG9ydHMgYmVsb3cgYXJlIGZyb20gdGhlIG9yaWdpbmFsIHJ1bi4KCiMjIEhpdHRpbmcgYSBOb2RlUG9ydCBzZXJ2aWNlIChhbGwgZml2ZSB3b3JrKQoKQSBgTm9kZVBvcnRgIHNlcnZpY2UgaXMgdGhlIHBlcm1pc3NpdmUgb25lLiBFdmVyeSBtZXRob2QgaXMgb24gdGhlIHRhYmxlLgoKKioxLiBEb2NrZXIgZXhlYyBpbnRvIHRoZSBub2RlIChhIEtpbmQtb25seSB0cmljaykuKiogS2luZCBub2RlcyBhcmUgY29udGFpbmVycywgc28geW91IGNhbiBqdW1wIGluc2lkZSBvbmUgYW5kIGhpdCBgbG9jYWxob3N0YDoKCmBgYGJhc2gKZG9ja2VyIGV4ZWMgLWl0IGt1YmVjbWRzLXRlc3QtY29udHJvbC1wbGFuZSBjdXJsIGh0dHA6Ly9sb2NhbGhvc3Q6MzA0MDUvaGVhbHRoCmBgYAoKYDMwNDA1YCBpcyB0aGUgbm9kZSBwb3J0IGZyb20gYGt1YmVjdGwgZ2V0IHN2Y2AuIEluc2lkZSB0aGUgbm9kZSwgdGhlIE5vZGVQb3J0IGlzIGp1c3QgYSBsb2NhbCBwb3J0LiBPbiBhIHJlYWwgY2x1c3RlciB5b3UgU1NIIGludG8gdGhlIG5vZGUgKG9yIHJ1biBga3ViZWN0bCBkZWJ1ZyBub2RlLzxuYW1lPmApIGFuZCBoaXQgYDEyNy4wLjAuMTozMDQwNWAuIEF2b2lkIGBsb2NhbGhvc3RgOiBhbiBBbHBpbmUgYGt1YmVjdGwgZGVidWdgIHBvZCByZXNvbHZlcyBpdCB0byBJUHY2IGA6OjFgLCB3aGljaCBpcyByZWZ1c2VkIGJlY2F1c2Uga3ViZS1wcm94eSAodGhlIGNvbXBvbmVudCBvbiBlYWNoIG5vZGUgdGhhdCB0dXJucyBzZXJ2aWNlIGFkZHJlc3NlcyBpbnRvIHBhY2tldCBydWxlcykgbmV2ZXIgc2VydmVzIE5vZGVQb3J0cyB0aGVyZS4gRXZlbiBgMTI3LjAuMC4xYCB3b3JrcyBvbmx5IGluIGt1YmUtcHJveHkncyBpcHRhYmxlcyBtb2RlLCBLaW5kJ3MgZGVmYXVsdDsgaW4gaXRzIG90aGVyIG1vZGVzIHRoZSBbZG9jc10oaHR0cHM6Ly9rdWJlcm5ldGVzLmlvL2RvY3MvcmVmZXJlbmNlL2NvbmZpZy1hcGkva3ViZS1wcm94eS1jb25maWcudjFhbHBoYTEvKSBwb2ludCB0byB0aGUgbm9kZSdzIG93biBJUCAodW50ZXN0ZWQgaGVyZSkuIE1ldGhvZHMgMiB0byA1IHVzZSBub3RoaW5nIEtpbmQtc3BlY2lmaWMsIGJ1dCBJIHJhbiB0aGVtIG9ubHkgb24gS2luZC4KCioqMi4gU2VydmljZSBETlMgKHRoZSBvbmUgeW91IHNob3VsZCB1c2UpLioqIE5hbWUgdGhlIHNlcnZpY2UsIGxldCBLOHMgcmVzb2x2ZSBpdDoKCmBgYGJhc2gKa3ViZWN0bCBleGVjIC1pdCBudW1iZXItc2VydmljZS14eHggLW4gbm9haCAtLSB3Z2V0IC1xTy0gaHR0cDovL251bWJlci1zZXJ2aWNlOjgwL2hlYWx0aApgYGAKClR3byBjYXZlYXRzIHdvcnRoIGtub3dpbmc6CgotIEZyb20gYW5vdGhlciBuYW1lc3BhY2UsIGFkZCB0aGUgbmFtZXNwYWNlOiBgbnVtYmVyLXNlcnZpY2Uubm9haGAgKG9yIHRoZSBmdWxsIGBudW1iZXItc2VydmljZS5ub2FoLnN2Yy5jbHVzdGVyLmxvY2FsYCkuIFRoZSBiYXJlIG5hbWUgZmFpbHMgd2l0aCBgYmFkIGFkZHJlc3NgLCBiZWNhdXNlIEROUyBvbmx5IGZpbGxzIGluIHRoZSBwb2QncyBvd24gbmFtZXNwYWNlLgotIElmIENvcmVETlMgKHRoZSBjbHVzdGVyJ3MgRE5TIHNlcnZlciwgcnVubmluZyBhcyBwb2RzKSBpcyBkb3duLCB0aGlzIGlzIHRoZSBtZXRob2QgdGhhdCBzdG9wcyB3b3JraW5nLiBUaGUgSVAtYmFzZWQgb25lcyBiZWxvdyBzdGlsbCBkby4KCioqMy4gQ2x1c3RlcklQIGRpcmVjdC4qKiBTa2lwIEROUywgdXNlIHRoZSBzZXJ2aWNlJ3MgdmlydHVhbCBJUDoKCmBgYGJhc2gKa3ViZWN0bCBleGVjIC1pdCA8cG9kPiAtbiBub2FoIC0tIHdnZXQgLXFPLSBodHRwOi8vMTAuOTYuMTgzLjEzMTo4MC9oZWFsdGgKYGBgCgpSZWxpYWJsZSwgYnV0IHlvdSBoYXZlIHRvIGxvb2sgdGhlIElQIHVwIGZpcnN0IChga3ViZWN0bCBnZXQgc3ZjYCkuCgoqKjQuIE5vZGVJUCArIE5vZGVQb3J0ICh0aGUgcGFpbmZ1bCBvbmUpLioqIFJlYWNoIHRoZSBub2RlJ3MgcmVhbCBJUCBvbiB0aGUgbm9kZSBwb3J0OgoKYGBgYmFzaAprdWJlY3RsIGV4ZWMgLWl0IG51bWJlci1zZXJ2aWNlLXh4eCAtbiBub2FoIC0tIHdnZXQgLXFPLSBodHRwOi8vMTcyLjE4LjAuMzozMDQwNS9oZWFsdGgKYGBgCgpZb3UgbmVlZCB0d28gbG9va3VwcyB0byBidWlsZCB0aGlzOiBga3ViZWN0bCBnZXQgbm9kZXMgLW8gd2lkZWAgZm9yIHRoZSBub2RlIElQLCB0aGVuIGBrdWJlY3RsIGdldCBzdmNgIGZvciB0aGUgcmFuZG9tIHBvcnQuIFJhcmVseSB3b3J0aCBpdC4KCioqNS4gRGlyZWN0IHBvZCBJUCAoYnlwYXNzIHRoZSBzZXJ2aWNlIGVudGlyZWx5KS4qKiBUYWxrIHRvIG9uZSBwb2Qgb24gaXRzIGNvbnRhaW5lciBwb3J0OgoKYGBgYmFzaAprdWJlY3RsIGV4ZWMgLWl0IDxwb2Q+IC1uIG5vYWggLS0gd2dldCAtcU8tIGh0dHA6Ly8xMC4yNDQuMS4xODozMDAwL2hlYWx0aApgYGAKCkZpbmQgdGhlIHBvZCBJUHMgd2l0aCBga3ViZWN0bCBnZXQgcG9kcyAtbyB3aWRlYCwgb3IgcmVhZCB0aGVtIG9mZiB0aGUgc2VydmljZSdzIGVuZHBvaW50czoKCmBgYAokIGt1YmVjdGwgZGVzY3JpYmUgc3ZjIG51bWJlci1zZXJ2aWNlIC1uIG5vYWgKRW5kcG9pbnRzOiAxMC4yNDQuMS4xODozMDAwLDEwLjI0NC4yLjIzOjMwMDAKYGBgCgpUaGlzIHNraXBzIGxvYWQgYmFsYW5jaW5nIGNvbXBsZXRlbHksIHdoaWNoIGlzIGV4YWN0bHkgd2h5IGl0J3MgdXNlZnVsOiBpdCBsZXRzIHlvdSB0ZXN0IG9uZSBtaXNiZWhhdmluZyBwb2QgaW4gaXNvbGF0aW9uLgoKIyMgQSBDbHVzdGVySVAgc2VydmljZSBsb3NlcyB0d28gb2YgdGhlIGZpdmUKClN3aXRjaCBgam9rZS1zZXJ2aWNlYCB0byBgdHlwZTogQ2x1c3RlcklQYCBhbmQgZXZlcnkgbWV0aG9kIHRoYXQgbmVlZHMgYSBub2RlIHBvcnQgdmFuaXNoZXMuIEhlcmUgYXJlIGFsbCBmaXZlLCBzaWRlIGJ5IHNpZGU6Cgp8ICMgfCBNZXRob2QgfCBOb2RlUG9ydCB8IENsdXN0ZXJJUCB8CnwtLS18LS0tfC0tLXwtLS18CnwgMSB8IERvY2tlciBleGVjIOKGkiBgbG9jYWxob3N0Ok5vZGVQb3J0YCB8IOKchSB8IOKdjCBubyBub2RlIHBvcnQgfAp8IDIgfCBTZXJ2aWNlIEROUyB8IOKchSB8IOKchSB8CnwgMyB8IENsdXN0ZXJJUCBkaXJlY3QgfCDinIUgfCDinIUgfAp8IDQgfCBOb2RlSVAgKyBOb2RlUG9ydCB8IOKchSB8IOKdjCBubyBub2RlIHBvcnQgfAp8IDUgfCBEaXJlY3QgcG9kIElQIHwg4pyFIHwg4pyFIHwKCkNsdXN0ZXJJUCBrZWVwcyAqKjIsIDMsIGFuZCA1KiosIGFuZCBsb3NlcyAqKjEgYW5kIDQqKiwgdGhlIHR3byB0aGF0IHJlYWNoIGluIHRocm91Z2ggYSBub2RlIHBvcnQgaXQgZG9lc24ndCBoYXZlLgoKIyMgVGhlIHRha2Vhd2F5CgpJbiBwcmFjdGljZSwgdXNlICoqc2VydmljZSBETlMqKiAoYHNlcnZpY2UtbmFtZTpwb3J0YCkuIEl0IHJlYWRzIGNsZWFubHksIGFuZCB0aGUgbmFtaW5nIGNvbWVzIGZyb20gdGhlIFtLdWJlcm5ldGVzIEROUyBzcGVjXShodHRwczovL2t1YmVybmV0ZXMuaW8vZG9jcy9jb25jZXB0cy9zZXJ2aWNlcy1uZXR3b3JraW5nL2Rucy1wb2Qtc2VydmljZS8pLCBub3QgZnJvbSBLaW5kLgoKVGhlIHJlYXNvbjogKipldmVyeSBhZGRyZXNzIHVuZGVyIHRoZSBuYW1lIGNhbiBjaGFuZ2UsIGFuZCB0aGUgbmFtZSBkb2Vzbid0LioqIEEgcG9kIHJlcGxhY2VkIGJ5IGEgcm9sbG91dCAoZGVwbG95aW5nIGEgbmV3IHZlcnNpb24pIG9yIGEgZGVsZXRpb24gZ2V0cyBhIG5ldyBJUDsgb25seSBhIGNvbnRhaW5lciByZXN0YXJ0IGluc2lkZSB0aGUgc2FtZSBwb2Qga2VlcHMgaXQuIFRoZSBDbHVzdGVySVAgYW5kIG5vZGUgcG9ydCBsYXN0IGFzIGxvbmcgYXMgdGhlIFNlcnZpY2UuIFRoaXMgWUFNTCBzZXRzIG5laXRoZXIgYHNwZWMuY2x1c3RlcklQYCBub3IgYG5vZGVQb3J0YCwgc28gcmVjcmVhdGluZyB0aGUgU2VydmljZSBnZXRzIG5ldyBvbmVzLiBJbiB0aGUgcmVydW4sIGAxMC45Ni41NC40OWAgYW5kIGAzMTczOGAgYmVjYW1lIGAxMC45Ni4yMDkuMTAwYCBhbmQgYDMwMjM2YCwgYnV0IGBudW1iZXItc2VydmljZWAga2VwdCB3b3JraW5nLiBUaGUgb3RoZXIgZm91ciBtZXRob2RzIGFsbCByZWFjaCB0aHJvdWdoIHRvIG9uZSBvZiB0aG9zZSBhZGRyZXNzZXMsIHdoaWNoIG1ha2VzIHRoZW0gcGVyZmVjdCBmb3IgZGVidWdnaW5nIGEgc3BlY2lmaWMgbGF5ZXIgKGlzIEROUyB0aGUgcHJvYmxlbT8gaXMgb25lIHBvZCB0aGUgcHJvYmxlbT8pIGFuZCBhIGJhZCBpZGVhIGZvciBhbnl0aGluZyB5b3UgYWN0dWFsbHkgc2hpcC4K17:T388a,<p>要確認 cluster 裡某個 API 有沒有通，常見的做法是 <code>kubectl exec</code> 進一個 pod，再用 <code>wget</code> 或 <code>curl</code> 去打它。</p>
+<p>pod 一重建 IP 就會換。為了讓呼叫的一方不必追著 IP 跑，Kubernetes 在一組 pod 前面放一個 service。service 有固定的 DNS 名稱跟 virtual IP；如果是 NodePort 類型，每個 node 上還會多開一個 port。所以同一個 API 有好幾個位址可以打，下面依序試：</p>
+<ol>
+<li>在 node 裡連 <code>localhost</code> 加 node port</li>
+<li>從 pod 連 service 的 DNS 名稱</li>
+<li>從 pod 連 service 的 virtual IP</li>
+<li>從 pod 連 node 的 IP 加 node port</li>
+<li>跳過 service，直接連 pod 的 IP</li>
+</ol>
+<h2>環境</h2>
+<p>我用的是 <a href="https://kind.sigs.k8s.io/">Kind</a>，它的每個 K8s node 都是一個 Docker container。pod 是一個或幾個共用同一個 IP 的 container。<code>noah</code> 這個 namespace（把資源分組用的名字）裡有兩個很小的 Node.js API，都跑在 pod 裡，service 分別是：</p>
+<ul>
+<li><code>joke-service</code> → <code>type: ClusterIP</code></li>
+<li><code>number-service</code> → <code>type: NodePort</code></li>
+</ul>
+<p><code>ClusterIP</code> 的 service 會拿到一個 virtual IP，只有在 cluster 裡面才連得到。<code>NodePort</code> 的 service 一樣有這種 IP，另外每個 node 還會替它開一個 30000 到 32767 之間的 port。</p>
+<p>兩份 YAML 除了名字，只差 <code>type</code> 這一行。可是下面五種方法，NodePort 的 service 五種都能用，ClusterIP 的只剩三種。從 <code>joke-service</code> 改成 <code>number-service</code>，差異如下：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="diff" data-theme="github-dark github-light"><code data-language="diff" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> apiVersion: v1</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> kind: Service</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> metadata:</span></span>
+<span data-line=""><span style="--shiki-dark:#FDAEB7;--shiki-light:#B31D28">-  name: joke-service</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+  name: number-service</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">   namespace: noah</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> spec:</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">   selector:</span></span>
+<span data-line=""><span style="--shiki-dark:#FDAEB7;--shiki-light:#B31D28">-    app: joke-service</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+    app: number-service</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">   ports:</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">     - port: 80</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">       targetPort: 3000</span></span>
+<span data-line=""><span style="--shiki-dark:#FDAEB7;--shiki-light:#B31D28">-  type: ClusterIP</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+  type: NodePort</span></span></code></pre></figure>
+<pre><code>$ kubectl get svc -n noah
+NAME             TYPE        CLUSTER-IP      PORT(S)
+joke-service     ClusterIP   10.96.236.182   80/TCP
+number-service   NodePort    10.96.183.131   80:30405/TCP
+</code></pre>
+<p>下面的指令有的用 <code>wget</code>、有的用 <code>curl</code>，因為 Alpine 的 pod 裡只有 <code>wget</code>，Kind 的 node 是 Debian，裝了 <code>curl</code>。</p>
+<p>2026 年 11 月在 Kind v0.30.0（Kubernetes v1.34.0）重跑過，每種方法的結果都跟文中一樣。下面的 IP 跟 port 是原本那次的。</p>
+<h2>連 NodePort service：五種都能用</h2>
+<p><code>NodePort</code> 的 service 限制最少，每一種方法都能用。</p>
+<p><strong>1. docker exec 進 node（只有 Kind 能這樣做）。</strong> Kind 的 node 是 container，所以可以直接進去連 <code>localhost</code>：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">docker</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> exec</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -it</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> kubecmds-test-control-plane</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> curl</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> http://localhost:30405/health</span></span></code></pre></figure>
+<p><code>30405</code> 是 <code>kubectl get svc</code> 列出來的 node port。這樣能連，是因為在 node 裡面，NodePort 就只是一個本機的 port。真的 cluster 上沒辦法 <code>docker exec</code> 進 node，要改成 SSH 進去（或用 <code>kubectl debug node/&#x3C;name></code>），再連 <code>127.0.0.1:30405</code>。</p>
+<p>不要寫 <code>localhost</code>，因為用 Alpine image 開的 <code>kubectl debug</code> pod 會把 <code>localhost</code> 解析成 IPv6 的 <code>::1</code>，而 kube-proxy（每個 node 上把 service 的位址轉成封包規則的元件）不會在 <code>::1</code> 上處理 NodePort，所以連線被拒絕。<code>127.0.0.1</code> 也只有在 kube-proxy 跑 iptables 模式時才能連，Kind 預設就是這個模式。照 <a href="https://kubernetes.io/docs/reference/config-api/kube-proxy-config.v1alpha1/">kube-proxy 的設定文件</a>，另外兩種模式不在 loopback 位址上處理 NodePort（IPVS 一律不處理，nftables 預設不處理），所以要改連 node 自己的 IP。這兩種模式沒有實測過。</p>
+<p>第 2 到第 5 種方法沒有用到 Kind 特有的東西，不過也只在 Kind 上跑過。</p>
+<p><strong>2. Service DNS（平常該用的就是這個）。</strong> 寫 service 的名稱，讓 K8s 去解析：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">kubectl</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> exec</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -it</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> number-service-xxx</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -n</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> noah</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> --</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> wget</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -qO-</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> http://number-service:80/health</span></span></code></pre></figure>
+<p>有兩種情況，這個名稱會連不到：</p>
+<ul>
+<li>從別的 namespace 連，名稱要加上 namespace：<code>number-service.noah</code>，或寫完整的 <code>number-service.noah.svc.cluster.local</code>。只寫 <code>number-service</code> 的話，會拿到 <code>bad address</code>，因為 DNS 只會幫 pod 補上它自己的 namespace。</li>
+<li>CoreDNS（cluster 裡的 DNS server，本身也是幾個 pod）停掉的時候，五種方法裡只有這一種連不到，下面幾種直接用 IP 的照樣能連。</li>
+</ul>
+<p><strong>3. 直接連 ClusterIP。</strong> 跳過 DNS，用 service 的 virtual IP：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">kubectl</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> exec</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -it</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> &#x3C;</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">po</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">d</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">></span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -n</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> noah</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> --</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> wget</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -qO-</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> http://10.96.183.131:80/health</span></span></code></pre></figure>
+<p>這樣連很可靠，只是要先用 <code>kubectl get svc</code> 查出 IP。</p>
+<p><strong>4. NodeIP + NodePort（最麻煩的一種）。</strong> 連 node 真正的 IP，加上 node port：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">kubectl</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> exec</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -it</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> number-service-xxx</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -n</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> noah</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> --</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> wget</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -qO-</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> http://172.18.0.3:30405/health</span></span></code></pre></figure>
+<p>組出這個網址要查兩次：先用 <code>kubectl get nodes -o wide</code> 查 node IP，再用 <code>kubectl get svc</code> 查那個隨機分配的 port。平常幾乎不會這樣連。</p>
+<p><strong>5. 直接連 pod IP（完全繞過 service）。</strong> 對某一個 pod 的 container port 發請求：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">kubectl</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> exec</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -it</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> &#x3C;</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">po</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">d</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">></span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -n</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> noah</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> --</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> wget</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -qO-</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> http://10.244.1.18:3000/health</span></span></code></pre></figure>
+<p>pod 的 IP 可以用 <code>kubectl get pods -o wide</code> 查，也可以從 service 的 endpoints 讀出來：</p>
+<pre><code>$ kubectl describe svc number-service -n noah
+Endpoints: 10.244.1.18:3000,10.244.2.23:3000
+</code></pre>
+<p>這樣請求不會經過 load balancing，一定送到指定的那個 pod，所以可以單獨測某一個行為怪怪的 pod。</p>
+<h2>ClusterIP service 少了兩種</h2>
+<p>把 <code>joke-service</code> 設成 <code>type: ClusterIP</code>，需要 node port 的方法就都不能用了。五種並排比較：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>#</th><th>方法</th><th>NodePort</th><th>ClusterIP</th></tr></thead><tbody><tr><td>1</td><td>docker exec → <code>localhost:NodePort</code></td><td>✅</td><td>❌ 沒有 node port</td></tr><tr><td>2</td><td>Service DNS</td><td>✅</td><td>✅</td></tr><tr><td>3</td><td>直接連 ClusterIP</td><td>✅</td><td>✅</td></tr><tr><td>4</td><td>NodeIP + NodePort</td><td>✅</td><td>❌ 沒有 node port</td></tr><tr><td>5</td><td>直接連 pod IP</td><td>✅</td><td>✅</td></tr></tbody></table>
+<p>ClusterIP 留下 <strong>2、3、5</strong>，少了 <strong>1 跟 4</strong>。這兩種都要經過 node port，而 ClusterIP 的 service 沒有 node port。</p>
+<h2>平常該用哪一種</h2>
+<p>實際寫程式就用 <strong>service DNS</strong>（<code>service-name:port</code>）。它好讀，而且這套命名是 <a href="https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/">Kubernetes 的 DNS 規格</a>定的，跟 Kind 無關。</p>
+<p><strong>pod IP、ClusterIP、node port 都可能變，service 的名稱不會變。</strong> pod 只要被換掉，不管是因為 rollout（部署新版本）還是有人刪掉 pod，新的 pod 就會拿到新的 IP；只有同一個 pod 裡的 container 重啟，IP 才會留著。ClusterIP 跟 node port 只要 Service 物件還在就不會變。不過這份 YAML 沒寫 <code>spec.clusterIP</code>，也沒寫 <code>nodePort</code>，所以 Service 刪掉重建後，兩個都由 Kubernetes 重新分配。重跑時拿到的 ClusterIP 是 <code>10.96.54.49</code>、node port 是 <code>31738</code>，把 Service 刪掉重建之後變成 <code>10.96.209.100</code> 跟 <code>30236</code>，但用 <code>number-service</code> 這個名稱照樣能連。另外四種方法最後都是連到其中某個位址，所以拿來查某一層的問題很好用（是 DNS 的問題嗎？還是某一個 pod 的問題？），但不適合寫進真正要上線的程式。</p>8:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L13",null,{"htmlContent":"$14","rawContent":"$15","base64Content":"$16","title":"Five ways to reach a service in Kubernetes, and the one you should use","createdAt":"2025-09-07T20:21:00.000Z","updatedAt":"$undefined","tags":["kubernetes","networking","devops"],"altHtmlContent":"$17","altTitle":"連到 Kubernetes service 的五種方法，平常該用哪一種","currentLang":"en","altLang":"zh","canonicalPath":"/v2/five-ways-to-reach-a-k8s-service"}]}]}]

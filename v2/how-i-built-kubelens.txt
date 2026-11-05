@@ -1,0 +1,79 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"default"]
+4:I[48350,[],""]
+5:I[11412,[],""]
+6:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+7:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-6e2326ce7d294bfd.js"],"default"]
+9:I[96727,[],"OutletBoundary"]
+b:I[14038,[],"AsyncMetadataOutlet"]
+d:I[96727,[],"ViewportBoundary"]
+f:I[96727,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[92950,[],""]
+:HL["/_next/static/media/8760c4774489e4ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/7928fc73d27b7462.css","style"]
+:HL["/_next/static/css/d3281eaf3cab9132.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/26082814d1c1fbd2.css","style"]
+0:{"P":null,"b":"7b-aY9z1PLkHmf7MEqV83","p":"","c":["","v2","how-i-built-kubelens"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","how-i-built-kubelens","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7928fc73d27b7462.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/d3281eaf3cab9132.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href=\"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap\";document.head.appendChild(l)})()"}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L7",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","how-i-built-kubelens","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/26082814d1c1fbd2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+a:null
+c:{"metadata":[["$","title","0",{"children":"kubelens: a visual map and control panel for Kubernetes  | jialinhuang"}],["$","meta","1",{"name":"description","content":"Graph the whole cluster, click into any resource, run kubectl across windows, live or from an offline snapshot."}],["$","link","2",{"rel":"canonical","href":"/v2/how-i-built-kubelens"}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"
+13:I[86734,["7654","static/chunks/7654-2fe46cddc56d2856.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+14:T870,<p><code>kubectl get all -A</code> prints 800 lines, and ConfigMaps, Secrets and ServiceAccounts aren't even in them. Those 800 lines are one resource per row with nothing about how they connect, so you still don't know which Service feeds which Deployment, or which workloads share a Secret.</p>
+<p>kubelens draws the whole cluster as one dependency graph, next to a terminal you can open many windows in. The source is on <a href="https://github.com/jialinhuang00/kubelens">GitHub</a>.</p>
+<p><img src="/images/kubecmds-viz/05-home.png" alt="Home page"></p>
+<h2>The whole cluster in one graph</h2>
+<p>820 resources across every namespace, drawn on one WebGL canvas. Every edge is a real dependency read from the specs: a Service to the Deployment it selects, an HTTPRoute to its Gateway and backend Service, a workload to the ConfigMaps, Secrets and PVCs it mounts. Click any node and the sidebar lists all of its connections.</p>
+<p><img src="/images/kubecmds-viz/02-universe-target-ns.png" alt="K8s Universe, deployment detail with connection sidebar"></p>
+<h2>A terminal without flags to memorize</h2>
+<p>Each resource opens in its own window, and each kind gets its own buttons: a Deployment has Rollout Status and History, a Pod has Logs and the Previous Logs from before a restart, a Secret has one-click Decode. Windows sit side by side and spread across several desktops.</p>
+<p><img src="/images/kubecmds-viz/03-terminal.gif" alt="K8s Terminal: a deployment&#x27;s rollout panel in a floating window, across renamable desktops"></p>
+<h2>Works with the cluster off</h2>
+<p>Dev clusters shut down at night. kubelens can export the cluster to a YAML snapshot first, then draw the graph and simulate <code>kubectl get</code> and <code>describe</code> without a connection.</p>
+<p><img src="/images/kubecmds-viz/04-export.png" alt="Re-exporting a snapshot: pick a strategy and namespace count"></p>
+<h2>When to use it</h2>
+<p>For checking a single resource, kubectl or <a href="https://k9scli.io/">k9s</a> in a terminal is faster. kubelens is for when you need the whole picture, or need to explain what's running to someone who doesn't know kubectl.</p>15:T7ad,
+`kubectl get all -A` prints 800 lines, and ConfigMaps, Secrets and ServiceAccounts aren't even in them. Those 800 lines are one resource per row with nothing about how they connect, so you still don't know which Service feeds which Deployment, or which workloads share a Secret.
+
+kubelens draws the whole cluster as one dependency graph, next to a terminal you can open many windows in. The source is on [GitHub](https://github.com/jialinhuang00/kubelens).
+
+![Home page](/images/kubecmds-viz/05-home.png)
+
+## The whole cluster in one graph
+
+820 resources across every namespace, drawn on one WebGL canvas. Every edge is a real dependency read from the specs: a Service to the Deployment it selects, an HTTPRoute to its Gateway and backend Service, a workload to the ConfigMaps, Secrets and PVCs it mounts. Click any node and the sidebar lists all of its connections.
+
+![K8s Universe, deployment detail with connection sidebar](/images/kubecmds-viz/02-universe-target-ns.png)
+
+## A terminal without flags to memorize
+
+Each resource opens in its own window, and each kind gets its own buttons: a Deployment has Rollout Status and History, a Pod has Logs and the Previous Logs from before a restart, a Secret has one-click Decode. Windows sit side by side and spread across several desktops.
+
+![K8s Terminal: a deployment's rollout panel in a floating window, across renamable desktops](/images/kubecmds-viz/03-terminal.gif)
+
+## Works with the cluster off
+
+Dev clusters shut down at night. kubelens can export the cluster to a YAML snapshot first, then draw the graph and simulate `kubectl get` and `describe` without a connection.
+
+![Re-exporting a snapshot: pick a strategy and namespace count](/images/kubecmds-viz/04-export.png)
+
+## When to use it
+
+For checking a single resource, kubectl or [k9s](https://k9scli.io/) in a terminal is faster. kubelens is for when you need the whole picture, or need to explain what's running to someone who doesn't know kubectl.
+16:Tba0,LS0tCnRpdGxlOiAia3ViZWxlbnM6IGEgdmlzdWFsIG1hcCBhbmQgY29udHJvbCBwYW5lbCBmb3IgS3ViZXJuZXRlcyIKZGF0ZTogMjAyNi0wMy0wM1QwMDowMDowMAp0YWdzOiBbazhzLCBrdWJlcm5ldGVzLCB2aXN1YWxpemF0aW9uXQpkZXNjcmlwdGlvbjogIkdyYXBoIHRoZSB3aG9sZSBjbHVzdGVyLCBjbGljayBpbnRvIGFueSByZXNvdXJjZSwgcnVuIGt1YmVjdGwgYWNyb3NzIHdpbmRvd3MsIGxpdmUgb3IgZnJvbSBhbiBvZmZsaW5lIHNuYXBzaG90LiIKLS0tCgpga3ViZWN0bCBnZXQgYWxsIC1BYCBwcmludHMgODAwIGxpbmVzLCBhbmQgQ29uZmlnTWFwcywgU2VjcmV0cyBhbmQgU2VydmljZUFjY291bnRzIGFyZW4ndCBldmVuIGluIHRoZW0uIFRob3NlIDgwMCBsaW5lcyBhcmUgb25lIHJlc291cmNlIHBlciByb3cgd2l0aCBub3RoaW5nIGFib3V0IGhvdyB0aGV5IGNvbm5lY3QsIHNvIHlvdSBzdGlsbCBkb24ndCBrbm93IHdoaWNoIFNlcnZpY2UgZmVlZHMgd2hpY2ggRGVwbG95bWVudCwgb3Igd2hpY2ggd29ya2xvYWRzIHNoYXJlIGEgU2VjcmV0LgoKa3ViZWxlbnMgZHJhd3MgdGhlIHdob2xlIGNsdXN0ZXIgYXMgb25lIGRlcGVuZGVuY3kgZ3JhcGgsIG5leHQgdG8gYSB0ZXJtaW5hbCB5b3UgY2FuIG9wZW4gbWFueSB3aW5kb3dzIGluLiBUaGUgc291cmNlIGlzIG9uIFtHaXRIdWJdKGh0dHBzOi8vZ2l0aHViLmNvbS9qaWFsaW5odWFuZzAwL2t1YmVsZW5zKS4KCiFbSG9tZSBwYWdlXSgvaW1hZ2VzL2t1YmVjbWRzLXZpei8wNS1ob21lLnBuZykKCiMjIFRoZSB3aG9sZSBjbHVzdGVyIGluIG9uZSBncmFwaAoKODIwIHJlc291cmNlcyBhY3Jvc3MgZXZlcnkgbmFtZXNwYWNlLCBkcmF3biBvbiBvbmUgV2ViR0wgY2FudmFzLiBFdmVyeSBlZGdlIGlzIGEgcmVhbCBkZXBlbmRlbmN5IHJlYWQgZnJvbSB0aGUgc3BlY3M6IGEgU2VydmljZSB0byB0aGUgRGVwbG95bWVudCBpdCBzZWxlY3RzLCBhbiBIVFRQUm91dGUgdG8gaXRzIEdhdGV3YXkgYW5kIGJhY2tlbmQgU2VydmljZSwgYSB3b3JrbG9hZCB0byB0aGUgQ29uZmlnTWFwcywgU2VjcmV0cyBhbmQgUFZDcyBpdCBtb3VudHMuIENsaWNrIGFueSBub2RlIGFuZCB0aGUgc2lkZWJhciBsaXN0cyBhbGwgb2YgaXRzIGNvbm5lY3Rpb25zLgoKIVtLOHMgVW5pdmVyc2UsIGRlcGxveW1lbnQgZGV0YWlsIHdpdGggY29ubmVjdGlvbiBzaWRlYmFyXSgvaW1hZ2VzL2t1YmVjbWRzLXZpei8wMi11bml2ZXJzZS10YXJnZXQtbnMucG5nKQoKIyMgQSB0ZXJtaW5hbCB3aXRob3V0IGZsYWdzIHRvIG1lbW9yaXplCgpFYWNoIHJlc291cmNlIG9wZW5zIGluIGl0cyBvd24gd2luZG93LCBhbmQgZWFjaCBraW5kIGdldHMgaXRzIG93biBidXR0b25zOiBhIERlcGxveW1lbnQgaGFzIFJvbGxvdXQgU3RhdHVzIGFuZCBIaXN0b3J5LCBhIFBvZCBoYXMgTG9ncyBhbmQgdGhlIFByZXZpb3VzIExvZ3MgZnJvbSBiZWZvcmUgYSByZXN0YXJ0LCBhIFNlY3JldCBoYXMgb25lLWNsaWNrIERlY29kZS4gV2luZG93cyBzaXQgc2lkZSBieSBzaWRlIGFuZCBzcHJlYWQgYWNyb3NzIHNldmVyYWwgZGVza3RvcHMuCgohW0s4cyBUZXJtaW5hbDogYSBkZXBsb3ltZW50J3Mgcm9sbG91dCBwYW5lbCBpbiBhIGZsb2F0aW5nIHdpbmRvdywgYWNyb3NzIHJlbmFtYWJsZSBkZXNrdG9wc10oL2ltYWdlcy9rdWJlY21kcy12aXovMDMtdGVybWluYWwuZ2lmKQoKIyMgV29ya3Mgd2l0aCB0aGUgY2x1c3RlciBvZmYKCkRldiBjbHVzdGVycyBzaHV0IGRvd24gYXQgbmlnaHQuIGt1YmVsZW5zIGNhbiBleHBvcnQgdGhlIGNsdXN0ZXIgdG8gYSBZQU1MIHNuYXBzaG90IGZpcnN0LCB0aGVuIGRyYXcgdGhlIGdyYXBoIGFuZCBzaW11bGF0ZSBga3ViZWN0bCBnZXRgIGFuZCBgZGVzY3JpYmVgIHdpdGhvdXQgYSBjb25uZWN0aW9uLgoKIVtSZS1leHBvcnRpbmcgYSBzbmFwc2hvdDogcGljayBhIHN0cmF0ZWd5IGFuZCBuYW1lc3BhY2UgY291bnRdKC9pbWFnZXMva3ViZWNtZHMtdml6LzA0LWV4cG9ydC5wbmcpCgojIyBXaGVuIHRvIHVzZSBpdAoKRm9yIGNoZWNraW5nIGEgc2luZ2xlIHJlc291cmNlLCBrdWJlY3RsIG9yIFtrOXNdKGh0dHBzOi8vazlzY2xpLmlvLykgaW4gYSB0ZXJtaW5hbCBpcyBmYXN0ZXIuIGt1YmVsZW5zIGlzIGZvciB3aGVuIHlvdSBuZWVkIHRoZSB3aG9sZSBwaWN0dXJlLCBvciBuZWVkIHRvIGV4cGxhaW4gd2hhdCdzIHJ1bm5pbmcgdG8gc29tZW9uZSB3aG8gZG9lc24ndCBrbm93IGt1YmVjdGwuCg==17:T85d,<p><code>kubectl get all -A</code> 印出 800 行，ConfigMap、Secret、ServiceAccount 還根本不在裡面。而且這 800 行是一行一個資源，不會寫出資源之間怎麼接，看完還是不知道哪個 Service 接到哪個 Deployment，哪些 workload 共用同一個 Secret。</p>
+<p>kubelens 把整個 cluster 畫成一張關係圖，旁邊配一個能開很多視窗的 terminal。原始碼在 <a href="https://github.com/jialinhuang00/kubelens">GitHub</a>。</p>
+<p><img src="/images/kubecmds-viz/05-home.png" alt="首頁"></p>
+<h2>一張圖看完整個 cluster</h2>
+<p>820 個資源、所有 namespace，畫在同一個 WebGL canvas 上。每一條線都是從 spec 讀出來的真實依賴：Service 接到它選中的 Deployment，HTTPRoute 接到 Gateway 跟後端的 Service，workload 接到它掛載的 ConfigMap、Secret 跟 PVC。點任何一個節點，側邊欄就列出它所有的連線。</p>
+<p><img src="/images/kubecmds-viz/02-universe-target-ns.png" alt="K8s Universe：選中一個 deployment，側邊欄列出它的連線"></p>
+<h2>不用背 flag 的 terminal</h2>
+<p>每個資源開成一個視窗，不同 kind 的視窗有不同的按鈕：Deployment 有 Rollout Status 跟 History，Pod 有 Logs 跟重啟前留下的 Previous Logs，Secret 一鍵 Decode。視窗可以並排，也能分散在好幾個 desktop 上。</p>
+<p><img src="/images/kubecmds-viz/03-terminal.gif" alt="K8s Terminal：一個 deployment 的 rollout 面板開在浮動視窗裡，背後是可以改名的多個 desktop"></p>
+<h2>cluster 關機了也能查</h2>
+<p>dev cluster 晚上會關機。kubelens 可以先把 cluster 匯出成 YAML snapshot，之後不連線也照樣畫圖，也能模擬 <code>kubectl get</code> 跟 <code>describe</code>。</p>
+<p><img src="/images/kubecmds-viz/04-export.png" alt="重新匯出 snapshot：選匯出方式跟 namespace 數量"></p>
+<h2>什麼時候用</h2>
+<p>平常查單一資源，在 terminal 裡用 kubectl 或 <a href="https://k9scli.io/">k9s</a> 比較快。kubelens 是給需要看全貌的時候用的，或是要向不會 kubectl 的人解釋 cluster 上跑了什麼。</p>8:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L13",null,{"htmlContent":"$14","rawContent":"$15","base64Content":"$16","title":"kubelens: a visual map and control panel for Kubernetes","createdAt":"2026-03-03T00:00:00.000Z","updatedAt":"$undefined","tags":["k8s","kubernetes","visualization"],"altHtmlContent":"$17","altTitle":"kubelens：把 Kubernetes cluster 畫成一張圖，也從圖上直接下指令","currentLang":"en","altLang":"zh","canonicalPath":"$undefined"}]}]}]

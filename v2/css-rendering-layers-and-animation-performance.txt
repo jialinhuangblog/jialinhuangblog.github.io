@@ -1,0 +1,449 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"default"]
+4:I[48350,[],""]
+5:I[11412,[],""]
+6:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+7:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-6e2326ce7d294bfd.js"],"default"]
+9:I[96727,[],"OutletBoundary"]
+b:I[14038,[],"AsyncMetadataOutlet"]
+d:I[96727,[],"ViewportBoundary"]
+f:I[96727,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[92950,[],""]
+:HL["/_next/static/media/8760c4774489e4ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/7928fc73d27b7462.css","style"]
+:HL["/_next/static/css/d3281eaf3cab9132.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/26082814d1c1fbd2.css","style"]
+0:{"P":null,"b":"7b-aY9z1PLkHmf7MEqV83","p":"","c":["","v2","css-rendering-layers-and-animation-performance"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","css-rendering-layers-and-animation-performance","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7928fc73d27b7462.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/d3281eaf3cab9132.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href=\"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap\";document.head.appendChild(l)})()"}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L7",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","css-rendering-layers-and-animation-performance","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/26082814d1c1fbd2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+a:null
+c:{"metadata":[["$","title","0",{"children":"CSS rendering: layers, threads, and why transform beats width  | jialinhuang"}],["$","meta","1",{"name":"description","content":"Animating width re-runs Layout and Paint on the main thread every frame. Animating transform runs on the compositor thread, which keeps drawing even while JavaScript is busy."}],["$","link","2",{"rel":"canonical","href":"/v2/css-rendering-layers-and-animation-performance"}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"
+13:I[86734,["7654","static/chunks/7654-2fe46cddc56d2856.js","9489","static/chunks/app/v2/%5Bslug%5D/page-2e406f5eec6a5c88.js"],"MdDoc"]
+14:T3af7,<p>A sidebar that slides open by animating <code>width</code> can stutter. The same slide done with <code>transform</code> stays smooth. On screen they look identical. Why does one cost so much more?</p>
+<hr>
+<h2>The rendering waterfall</h2>
+<p>The browser turns CSS into pixels in stages. Each stage feeds the next. Triggering an early stage forces everything after it to re-run.</p>
+<p><strong>Style → Layout → Paint → Composite</strong></p>
+<ul>
+<li><strong>Style</strong> works out which CSS rules apply to each element.</li>
+<li><strong>Layout</strong> computes each element's size and position.</li>
+<li><strong>Paint</strong> works out the pixels of each layer, a part of the page drawn as its own image.</li>
+<li><strong>Composite</strong> stacks the layers into the final image.</li>
+</ul>
+<p>Style, Layout, and Paint run on the Main Thread, the same thread that runs JavaScript. Composite runs on a separate Compositor Thread, and the GPU draws the result. At 60fps, each frame has 16.7ms.</p>
+<p>Change <code>width</code>? The browser recalculates Layout, repaints pixels, re-composites layers. Three stages, every frame, and Layout and Paint have to share the Main Thread with JavaScript.</p>
+<p>Change <code>color</code>? Layout stays the same. Repaint and re-composite. Two stages.</p>
+<p>Change <code>transform</code>? Layout and Paint stay the same. Only re-composite. One stage. And it runs on the Compositor Thread, so a long-running script doesn't stop Composite. Tested in November 2026 on Chrome 153: while a busy loop held the Main Thread for 600ms, the <code>transform</code> transition drew 36 frames and the <code>width</code> transition drew none.</p>
+<hr>
+<h2>Which properties trigger what</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Trigger</th><th>Properties</th><th>What happens</th></tr></thead><tbody><tr><td>Layout</td><td><code>width</code>, <code>height</code>, <code>margin</code>, <code>padding</code>, <code>top</code>, <code>left</code>, <code>font-size</code></td><td>Recalculates positions of surrounding elements. Expensive.</td></tr><tr><td>Paint</td><td><code>color</code>, <code>background</code>, <code>border-color</code>, <code>box-shadow</code>, <code>outline</code></td><td>Redraws pixels. Positions stay the same.</td></tr><tr><td>Composite</td><td><code>transform</code>, <code>opacity</code>, <code>filter</code> (except <code>blur()</code> and <code>drop-shadow()</code>)</td><td>Re-composites layers on the GPU. Cheap.</td></tr></tbody></table>
+<p><code>blur()</code> and <code>drop-shadow()</code> spread pixels outside the element, so Chrome animates them on the Main Thread. Chrome 153 animates <code>background-color</code> on the Compositor Thread, despite the Paint row.</p>
+<p>For animations, always pick the Composite version:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Instead of</th><th>Use</th></tr></thead><tbody><tr><td><code>left</code> / <code>top</code> / <code>margin</code></td><td><code>transform: translateX/Y()</code></td></tr><tr><td><code>width</code> / <code>height</code></td><td><code>transform: scale()</code> (stretches the content)</td></tr><tr><td><code>display: none/block</code></td><td><code>opacity: 0/1</code> (still takes space and clicks)</td></tr></tbody></table>
+<hr>
+<h2>Compositor layers</h2>
+<p>Each layer costs GPU memory. A 500x500 element takes roughly 1MB (4 bytes per pixel). So the browser promotes elements to independent Compositor layers only when it has a reason to.</p>
+<p><strong>What creates a layer:</strong></p>
+<ul>
+<li><strong>3D transforms.</strong> <code>translateZ(0)</code> and <code>translate3d()</code> trigger layer promotion immediately. 2D transforms like <code>translateX(50px)</code> usually don't, unless they're inside an active animation.</li>
+<li><strong><code>will-change: transform</code>.</strong> Forces the browser to create a layer in advance. Use it on elements you know will animate. Remove it after. Keeping layers alive wastes memory.</li>
+<li><strong><code>position: fixed</code>.</strong> Fixed elements get their own layer.</li>
+<li><strong>Active <code>transform</code> or <code>opacity</code> animations.</strong> Even 2D transforms temporarily get a layer during animation. The browser promotes them for the duration, then demotes them when it ends.</li>
+</ul>
+<p><strong>What doesn't create a layer:</strong></p>
+<ul>
+<li><strong>Hover states.</strong> Hover itself has nothing to do with layers. A <code>color</code> change on hover stays on the Main Thread. Only the animation <em>triggered by</em> hover might create one.</li>
+<li><strong>Static <code>transform</code>.</strong> <code>transform: translateX(50px)</code> without animation or <code>will-change</code> is painted along with the rest of the page. No layer promotion.</li>
+</ul>
+<hr>
+<h2>What this looks like in practice</h2>
+<p>A sidebar that slides in. Two ways to build it.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="css" data-theme="github-dark github-light"><code data-language="css" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">/* Animating width: Layout reflow every frame */</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">.sidebar</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  width</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">;</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  transition</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: width </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">0.3</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">s</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">.sidebar.open</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  width</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">240</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">px</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>A recording in the DevTools Performance panel shows Layout and Paint in every frame. With a data table on the page, each Layout also recalculates the table's column widths. Tested in November 2026 on Chrome 153, with a 125-row table next to the sidebar: about 2.7ms of Main Thread work per frame at full CPU speed, and about 13.1ms with DevTools CPU throttling set to 6x slower. That is 80% of a 16.7ms frame, but every run, at both speeds, still drew 61 or 62 frames a second.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="css" data-theme="github-dark github-light"><code data-language="css" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">/* Animating transform: Compositor only */</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">.sidebar</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  width</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">240</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">px</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">;</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  transform</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">translateX</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">-100</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">%</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  transition</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: transform </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">0.3</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">s</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">.sidebar.open</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  transform</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">translateX</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>The Performance panel shows no Layout at all. The sidebar has its own layer during the transition. The Main Thread handles only the first and last few frames. The Compositor Thread draws the rest.</p>
+<p>The sidebar is always 240px wide. It just starts off-screen and slides in. Same visual result. No reflow.</p>
+<hr>
+<h2>The <code>will-change</code> trap</h2>
+<p>Developers discovered <code>will-change</code> and slapped it on everything.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="css" data-theme="github-dark github-light"><code data-language="css" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">/* Don't do this */</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">*</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> { </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">will-change</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: transform, opacity; }</span></span></code></pre></figure>
+<p>Each <code>will-change</code> creates a layer: in Chrome 153, a page with 200 divs went from 4 layers to 207. At 1MB per 500x500 element, 200 elements that size need about 200MB. web.dev warns that on devices with limited memory, that many layers can cost more than they gain.</p>
+<p>Use <code>will-change</code> like a scalpel:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="css" data-theme="github-dark github-light"><code data-language="css" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">/* Add it right before animation */</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">.card</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  transition</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: transform </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">0.1</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">s</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">.card:hover</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  will-change</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: transform;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">.card:active</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  transform</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">scale</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">0.98</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>The <code>transition</code> goes on <code>.card</code>, not <code>.card:active</code>. Otherwise the card snaps back when the mouse is released.</p>
+<p>Most of the time you don't need <code>will-change</code> at all: the browser auto-promotes elements during a <code>transform</code> or <code>opacity</code> transition or animation. You only need <code>will-change</code> when you want the layer created <em>before</em> the animation starts, to avoid a first-frame hitch.</p>
+<hr>
+<h2>Quick checklist</h2>
+<ol>
+<li><strong>Animate <code>transform</code> and <code>opacity</code>.</strong> These two run on the Compositor Thread.</li>
+<li><strong>Use <code>will-change</code> on one or two elements, not globally.</strong> Remove it after animation ends.</li>
+<li><strong>Record the animation in the DevTools Performance panel.</strong> If the Main track (the Main Thread's row) shows work in every frame, the animation is not on the Compositor Thread, even with no Layout or Paint in it.</li>
+<li><strong>Test on slow hardware, or with DevTools CPU throttling.</strong> A fast laptop hides Layout cost.</li>
+</ol>
+<hr>
+<h2>References</h2>
+<ul>
+<li><a href="https://web.archive.org/web/20191218030522/https://csstriggers.com/">CSS Triggers — what each property triggers (2019 archive)</a></li>
+<li><a href="https://web.dev/articles/stick-to-compositor-only-properties-and-manage-layer-count">web.dev: Stick to Compositor-Only Properties</a></li>
+<li><a href="https://developer.chrome.com/docs/devtools/layers">Chrome DevTools: Layers panel</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/will-change">MDN: CSS will-change</a></li>
+</ul>15:T1ac7,
+A sidebar that slides open by animating `width` can stutter. The same slide done with `transform` stays smooth. On screen they look identical. Why does one cost so much more?
+
+---
+
+## The rendering waterfall
+
+The browser turns CSS into pixels in stages. Each stage feeds the next. Triggering an early stage forces everything after it to re-run.
+
+**Style → Layout → Paint → Composite**
+
+- **Style** works out which CSS rules apply to each element.
+- **Layout** computes each element's size and position.
+- **Paint** works out the pixels of each layer, a part of the page drawn as its own image.
+- **Composite** stacks the layers into the final image.
+
+Style, Layout, and Paint run on the Main Thread, the same thread that runs JavaScript. Composite runs on a separate Compositor Thread, and the GPU draws the result. At 60fps, each frame has 16.7ms.
+
+Change `width`? The browser recalculates Layout, repaints pixels, re-composites layers. Three stages, every frame, and Layout and Paint have to share the Main Thread with JavaScript.
+
+Change `color`? Layout stays the same. Repaint and re-composite. Two stages.
+
+Change `transform`? Layout and Paint stay the same. Only re-composite. One stage. And it runs on the Compositor Thread, so a long-running script doesn't stop Composite. Tested in November 2026 on Chrome 153: while a busy loop held the Main Thread for 600ms, the `transform` transition drew 36 frames and the `width` transition drew none.
+
+---
+
+## Which properties trigger what
+
+| Trigger | Properties | What happens |
+|---|---|---|
+| Layout | `width`, `height`, `margin`, `padding`, `top`, `left`, `font-size` | Recalculates positions of surrounding elements. Expensive. |
+| Paint | `color`, `background`, `border-color`, `box-shadow`, `outline` | Redraws pixels. Positions stay the same. |
+| Composite | `transform`, `opacity`, `filter` (except `blur()` and `drop-shadow()`) | Re-composites layers on the GPU. Cheap. |
+
+`blur()` and `drop-shadow()` spread pixels outside the element, so Chrome animates them on the Main Thread. Chrome 153 animates `background-color` on the Compositor Thread, despite the Paint row.
+
+For animations, always pick the Composite version:
+
+| Instead of | Use |
+|---|---|
+| `left` / `top` / `margin` | `transform: translateX/Y()` |
+| `width` / `height` | `transform: scale()` (stretches the content) |
+| `display: none/block` | `opacity: 0/1` (still takes space and clicks) |
+
+---
+
+## Compositor layers
+
+Each layer costs GPU memory. A 500x500 element takes roughly 1MB (4 bytes per pixel). So the browser promotes elements to independent Compositor layers only when it has a reason to.
+
+**What creates a layer:**
+
+- **3D transforms.** `translateZ(0)` and `translate3d()` trigger layer promotion immediately. 2D transforms like `translateX(50px)` usually don't, unless they're inside an active animation.
+- **`will-change: transform`.** Forces the browser to create a layer in advance. Use it on elements you know will animate. Remove it after. Keeping layers alive wastes memory.
+- **`position: fixed`.** Fixed elements get their own layer.
+- **Active `transform` or `opacity` animations.** Even 2D transforms temporarily get a layer during animation. The browser promotes them for the duration, then demotes them when it ends.
+
+**What doesn't create a layer:**
+
+- **Hover states.** Hover itself has nothing to do with layers. A `color` change on hover stays on the Main Thread. Only the animation *triggered by* hover might create one.
+- **Static `transform`.** `transform: translateX(50px)` without animation or `will-change` is painted along with the rest of the page. No layer promotion.
+
+---
+
+## What this looks like in practice
+
+A sidebar that slides in. Two ways to build it.
+
+```css
+/* Animating width: Layout reflow every frame */
+.sidebar {
+  width: 0;
+  transition: width 0.3s;
+}
+.sidebar.open {
+  width: 240px;
+}
+```
+
+A recording in the DevTools Performance panel shows Layout and Paint in every frame. With a data table on the page, each Layout also recalculates the table's column widths. Tested in November 2026 on Chrome 153, with a 125-row table next to the sidebar: about 2.7ms of Main Thread work per frame at full CPU speed, and about 13.1ms with DevTools CPU throttling set to 6x slower. That is 80% of a 16.7ms frame, but every run, at both speeds, still drew 61 or 62 frames a second.
+
+```css
+/* Animating transform: Compositor only */
+.sidebar {
+  width: 240px;
+  transform: translateX(-100%);
+  transition: transform 0.3s;
+}
+.sidebar.open {
+  transform: translateX(0);
+}
+```
+
+The Performance panel shows no Layout at all. The sidebar has its own layer during the transition. The Main Thread handles only the first and last few frames. The Compositor Thread draws the rest.
+
+The sidebar is always 240px wide. It just starts off-screen and slides in. Same visual result. No reflow.
+
+---
+
+## The `will-change` trap
+
+Developers discovered `will-change` and slapped it on everything.
+
+```css
+/* Don't do this */
+* { will-change: transform, opacity; }
+```
+
+Each `will-change` creates a layer: in Chrome 153, a page with 200 divs went from 4 layers to 207. At 1MB per 500x500 element, 200 elements that size need about 200MB. web.dev warns that on devices with limited memory, that many layers can cost more than they gain.
+
+Use `will-change` like a scalpel:
+
+```css
+/* Add it right before animation */
+.card {
+  transition: transform 0.1s;
+}
+.card:hover {
+  will-change: transform;
+}
+.card:active {
+  transform: scale(0.98);
+}
+```
+
+The `transition` goes on `.card`, not `.card:active`. Otherwise the card snaps back when the mouse is released.
+
+Most of the time you don't need `will-change` at all: the browser auto-promotes elements during a `transform` or `opacity` transition or animation. You only need `will-change` when you want the layer created *before* the animation starts, to avoid a first-frame hitch.
+
+---
+
+## Quick checklist
+
+1. **Animate `transform` and `opacity`.** These two run on the Compositor Thread.
+2. **Use `will-change` on one or two elements, not globally.** Remove it after animation ends.
+3. **Record the animation in the DevTools Performance panel.** If the Main track (the Main Thread's row) shows work in every frame, the animation is not on the Compositor Thread, even with no Layout or Paint in it.
+4. **Test on slow hardware, or with DevTools CPU throttling.** A fast laptop hides Layout cost.
+
+---
+
+## References
+
+- [CSS Triggers — what each property triggers (2019 archive)](https://web.archive.org/web/20191218030522/https://csstriggers.com/)
+- [web.dev: Stick to Compositor-Only Properties](https://web.dev/articles/stick-to-compositor-only-properties-and-manage-layer-count)
+- [Chrome DevTools: Layers panel](https://developer.chrome.com/docs/devtools/layers)
+- [MDN: CSS will-change](https://developer.mozilla.org/en-US/docs/Web/CSS/will-change)
+16:T2578,LS0tCnRpdGxlOiAiQ1NTIHJlbmRlcmluZzogbGF5ZXJzLCB0aHJlYWRzLCBhbmQgd2h5IHRyYW5zZm9ybSBiZWF0cyB3aWR0aCIKZGF0ZTogMjAyNS0wOS0yMVQxOToxMDowMAp0YWdzOiBbZnJvbnRlbmQsIGJyb3dzZXIsIGNzcywgcGVyZm9ybWFuY2VdCmRlc2NyaXB0aW9uOiAiQW5pbWF0aW5nIHdpZHRoIHJlLXJ1bnMgTGF5b3V0IGFuZCBQYWludCBvbiB0aGUgbWFpbiB0aHJlYWQgZXZlcnkgZnJhbWUuIEFuaW1hdGluZyB0cmFuc2Zvcm0gcnVucyBvbiB0aGUgY29tcG9zaXRvciB0aHJlYWQsIHdoaWNoIGtlZXBzIGRyYXdpbmcgZXZlbiB3aGlsZSBKYXZhU2NyaXB0IGlzIGJ1c3kuIgotLS0KCkEgc2lkZWJhciB0aGF0IHNsaWRlcyBvcGVuIGJ5IGFuaW1hdGluZyBgd2lkdGhgIGNhbiBzdHV0dGVyLiBUaGUgc2FtZSBzbGlkZSBkb25lIHdpdGggYHRyYW5zZm9ybWAgc3RheXMgc21vb3RoLiBPbiBzY3JlZW4gdGhleSBsb29rIGlkZW50aWNhbC4gV2h5IGRvZXMgb25lIGNvc3Qgc28gbXVjaCBtb3JlPwoKLS0tCgojIyBUaGUgcmVuZGVyaW5nIHdhdGVyZmFsbAoKVGhlIGJyb3dzZXIgdHVybnMgQ1NTIGludG8gcGl4ZWxzIGluIHN0YWdlcy4gRWFjaCBzdGFnZSBmZWVkcyB0aGUgbmV4dC4gVHJpZ2dlcmluZyBhbiBlYXJseSBzdGFnZSBmb3JjZXMgZXZlcnl0aGluZyBhZnRlciBpdCB0byByZS1ydW4uCgoqKlN0eWxlIOKGkiBMYXlvdXQg4oaSIFBhaW50IOKGkiBDb21wb3NpdGUqKgoKLSAqKlN0eWxlKiogd29ya3Mgb3V0IHdoaWNoIENTUyBydWxlcyBhcHBseSB0byBlYWNoIGVsZW1lbnQuCi0gKipMYXlvdXQqKiBjb21wdXRlcyBlYWNoIGVsZW1lbnQncyBzaXplIGFuZCBwb3NpdGlvbi4KLSAqKlBhaW50Kiogd29ya3Mgb3V0IHRoZSBwaXhlbHMgb2YgZWFjaCBsYXllciwgYSBwYXJ0IG9mIHRoZSBwYWdlIGRyYXduIGFzIGl0cyBvd24gaW1hZ2UuCi0gKipDb21wb3NpdGUqKiBzdGFja3MgdGhlIGxheWVycyBpbnRvIHRoZSBmaW5hbCBpbWFnZS4KClN0eWxlLCBMYXlvdXQsIGFuZCBQYWludCBydW4gb24gdGhlIE1haW4gVGhyZWFkLCB0aGUgc2FtZSB0aHJlYWQgdGhhdCBydW5zIEphdmFTY3JpcHQuIENvbXBvc2l0ZSBydW5zIG9uIGEgc2VwYXJhdGUgQ29tcG9zaXRvciBUaHJlYWQsIGFuZCB0aGUgR1BVIGRyYXdzIHRoZSByZXN1bHQuIEF0IDYwZnBzLCBlYWNoIGZyYW1lIGhhcyAxNi43bXMuCgpDaGFuZ2UgYHdpZHRoYD8gVGhlIGJyb3dzZXIgcmVjYWxjdWxhdGVzIExheW91dCwgcmVwYWludHMgcGl4ZWxzLCByZS1jb21wb3NpdGVzIGxheWVycy4gVGhyZWUgc3RhZ2VzLCBldmVyeSBmcmFtZSwgYW5kIExheW91dCBhbmQgUGFpbnQgaGF2ZSB0byBzaGFyZSB0aGUgTWFpbiBUaHJlYWQgd2l0aCBKYXZhU2NyaXB0LgoKQ2hhbmdlIGBjb2xvcmA/IExheW91dCBzdGF5cyB0aGUgc2FtZS4gUmVwYWludCBhbmQgcmUtY29tcG9zaXRlLiBUd28gc3RhZ2VzLgoKQ2hhbmdlIGB0cmFuc2Zvcm1gPyBMYXlvdXQgYW5kIFBhaW50IHN0YXkgdGhlIHNhbWUuIE9ubHkgcmUtY29tcG9zaXRlLiBPbmUgc3RhZ2UuIEFuZCBpdCBydW5zIG9uIHRoZSBDb21wb3NpdG9yIFRocmVhZCwgc28gYSBsb25nLXJ1bm5pbmcgc2NyaXB0IGRvZXNuJ3Qgc3RvcCBDb21wb3NpdGUuIFRlc3RlZCBpbiBOb3ZlbWJlciAyMDI2IG9uIENocm9tZSAxNTM6IHdoaWxlIGEgYnVzeSBsb29wIGhlbGQgdGhlIE1haW4gVGhyZWFkIGZvciA2MDBtcywgdGhlIGB0cmFuc2Zvcm1gIHRyYW5zaXRpb24gZHJldyAzNiBmcmFtZXMgYW5kIHRoZSBgd2lkdGhgIHRyYW5zaXRpb24gZHJldyBub25lLgoKLS0tCgojIyBXaGljaCBwcm9wZXJ0aWVzIHRyaWdnZXIgd2hhdAoKfCBUcmlnZ2VyIHwgUHJvcGVydGllcyB8IFdoYXQgaGFwcGVucyB8CnwtLS18LS0tfC0tLXwKfCBMYXlvdXQgfCBgd2lkdGhgLCBgaGVpZ2h0YCwgYG1hcmdpbmAsIGBwYWRkaW5nYCwgYHRvcGAsIGBsZWZ0YCwgYGZvbnQtc2l6ZWAgfCBSZWNhbGN1bGF0ZXMgcG9zaXRpb25zIG9mIHN1cnJvdW5kaW5nIGVsZW1lbnRzLiBFeHBlbnNpdmUuIHwKfCBQYWludCB8IGBjb2xvcmAsIGBiYWNrZ3JvdW5kYCwgYGJvcmRlci1jb2xvcmAsIGBib3gtc2hhZG93YCwgYG91dGxpbmVgIHwgUmVkcmF3cyBwaXhlbHMuIFBvc2l0aW9ucyBzdGF5IHRoZSBzYW1lLiB8CnwgQ29tcG9zaXRlIHwgYHRyYW5zZm9ybWAsIGBvcGFjaXR5YCwgYGZpbHRlcmAgKGV4Y2VwdCBgYmx1cigpYCBhbmQgYGRyb3Atc2hhZG93KClgKSB8IFJlLWNvbXBvc2l0ZXMgbGF5ZXJzIG9uIHRoZSBHUFUuIENoZWFwLiB8CgpgYmx1cigpYCBhbmQgYGRyb3Atc2hhZG93KClgIHNwcmVhZCBwaXhlbHMgb3V0c2lkZSB0aGUgZWxlbWVudCwgc28gQ2hyb21lIGFuaW1hdGVzIHRoZW0gb24gdGhlIE1haW4gVGhyZWFkLiBDaHJvbWUgMTUzIGFuaW1hdGVzIGBiYWNrZ3JvdW5kLWNvbG9yYCBvbiB0aGUgQ29tcG9zaXRvciBUaHJlYWQsIGRlc3BpdGUgdGhlIFBhaW50IHJvdy4KCkZvciBhbmltYXRpb25zLCBhbHdheXMgcGljayB0aGUgQ29tcG9zaXRlIHZlcnNpb246Cgp8IEluc3RlYWQgb2YgfCBVc2UgfAp8LS0tfC0tLXwKfCBgbGVmdGAgLyBgdG9wYCAvIGBtYXJnaW5gIHwgYHRyYW5zZm9ybTogdHJhbnNsYXRlWC9ZKClgIHwKfCBgd2lkdGhgIC8gYGhlaWdodGAgfCBgdHJhbnNmb3JtOiBzY2FsZSgpYCAoc3RyZXRjaGVzIHRoZSBjb250ZW50KSB8CnwgYGRpc3BsYXk6IG5vbmUvYmxvY2tgIHwgYG9wYWNpdHk6IDAvMWAgKHN0aWxsIHRha2VzIHNwYWNlIGFuZCBjbGlja3MpIHwKCi0tLQoKIyMgQ29tcG9zaXRvciBsYXllcnMKCkVhY2ggbGF5ZXIgY29zdHMgR1BVIG1lbW9yeS4gQSA1MDB4NTAwIGVsZW1lbnQgdGFrZXMgcm91Z2hseSAxTUIgKDQgYnl0ZXMgcGVyIHBpeGVsKS4gU28gdGhlIGJyb3dzZXIgcHJvbW90ZXMgZWxlbWVudHMgdG8gaW5kZXBlbmRlbnQgQ29tcG9zaXRvciBsYXllcnMgb25seSB3aGVuIGl0IGhhcyBhIHJlYXNvbiB0by4KCioqV2hhdCBjcmVhdGVzIGEgbGF5ZXI6KioKCi0gKiozRCB0cmFuc2Zvcm1zLioqIGB0cmFuc2xhdGVaKDApYCBhbmQgYHRyYW5zbGF0ZTNkKClgIHRyaWdnZXIgbGF5ZXIgcHJvbW90aW9uIGltbWVkaWF0ZWx5LiAyRCB0cmFuc2Zvcm1zIGxpa2UgYHRyYW5zbGF0ZVgoNTBweClgIHVzdWFsbHkgZG9uJ3QsIHVubGVzcyB0aGV5J3JlIGluc2lkZSBhbiBhY3RpdmUgYW5pbWF0aW9uLgotICoqYHdpbGwtY2hhbmdlOiB0cmFuc2Zvcm1gLioqIEZvcmNlcyB0aGUgYnJvd3NlciB0byBjcmVhdGUgYSBsYXllciBpbiBhZHZhbmNlLiBVc2UgaXQgb24gZWxlbWVudHMgeW91IGtub3cgd2lsbCBhbmltYXRlLiBSZW1vdmUgaXQgYWZ0ZXIuIEtlZXBpbmcgbGF5ZXJzIGFsaXZlIHdhc3RlcyBtZW1vcnkuCi0gKipgcG9zaXRpb246IGZpeGVkYC4qKiBGaXhlZCBlbGVtZW50cyBnZXQgdGhlaXIgb3duIGxheWVyLgotICoqQWN0aXZlIGB0cmFuc2Zvcm1gIG9yIGBvcGFjaXR5YCBhbmltYXRpb25zLioqIEV2ZW4gMkQgdHJhbnNmb3JtcyB0ZW1wb3JhcmlseSBnZXQgYSBsYXllciBkdXJpbmcgYW5pbWF0aW9uLiBUaGUgYnJvd3NlciBwcm9tb3RlcyB0aGVtIGZvciB0aGUgZHVyYXRpb24sIHRoZW4gZGVtb3RlcyB0aGVtIHdoZW4gaXQgZW5kcy4KCioqV2hhdCBkb2Vzbid0IGNyZWF0ZSBhIGxheWVyOioqCgotICoqSG92ZXIgc3RhdGVzLioqIEhvdmVyIGl0c2VsZiBoYXMgbm90aGluZyB0byBkbyB3aXRoIGxheWVycy4gQSBgY29sb3JgIGNoYW5nZSBvbiBob3ZlciBzdGF5cyBvbiB0aGUgTWFpbiBUaHJlYWQuIE9ubHkgdGhlIGFuaW1hdGlvbiAqdHJpZ2dlcmVkIGJ5KiBob3ZlciBtaWdodCBjcmVhdGUgb25lLgotICoqU3RhdGljIGB0cmFuc2Zvcm1gLioqIGB0cmFuc2Zvcm06IHRyYW5zbGF0ZVgoNTBweClgIHdpdGhvdXQgYW5pbWF0aW9uIG9yIGB3aWxsLWNoYW5nZWAgaXMgcGFpbnRlZCBhbG9uZyB3aXRoIHRoZSByZXN0IG9mIHRoZSBwYWdlLiBObyBsYXllciBwcm9tb3Rpb24uCgotLS0KCiMjIFdoYXQgdGhpcyBsb29rcyBsaWtlIGluIHByYWN0aWNlCgpBIHNpZGViYXIgdGhhdCBzbGlkZXMgaW4uIFR3byB3YXlzIHRvIGJ1aWxkIGl0LgoKYGBgY3NzCi8qIEFuaW1hdGluZyB3aWR0aDogTGF5b3V0IHJlZmxvdyBldmVyeSBmcmFtZSAqLwouc2lkZWJhciB7CiAgd2lkdGg6IDA7CiAgdHJhbnNpdGlvbjogd2lkdGggMC4zczsKfQouc2lkZWJhci5vcGVuIHsKICB3aWR0aDogMjQwcHg7Cn0KYGBgCgpBIHJlY29yZGluZyBpbiB0aGUgRGV2VG9vbHMgUGVyZm9ybWFuY2UgcGFuZWwgc2hvd3MgTGF5b3V0IGFuZCBQYWludCBpbiBldmVyeSBmcmFtZS4gV2l0aCBhIGRhdGEgdGFibGUgb24gdGhlIHBhZ2UsIGVhY2ggTGF5b3V0IGFsc28gcmVjYWxjdWxhdGVzIHRoZSB0YWJsZSdzIGNvbHVtbiB3aWR0aHMuIFRlc3RlZCBpbiBOb3ZlbWJlciAyMDI2IG9uIENocm9tZSAxNTMsIHdpdGggYSAxMjUtcm93IHRhYmxlIG5leHQgdG8gdGhlIHNpZGViYXI6IGFib3V0IDIuN21zIG9mIE1haW4gVGhyZWFkIHdvcmsgcGVyIGZyYW1lIGF0IGZ1bGwgQ1BVIHNwZWVkLCBhbmQgYWJvdXQgMTMuMW1zIHdpdGggRGV2VG9vbHMgQ1BVIHRocm90dGxpbmcgc2V0IHRvIDZ4IHNsb3dlci4gVGhhdCBpcyA4MCUgb2YgYSAxNi43bXMgZnJhbWUsIGJ1dCBldmVyeSBydW4sIGF0IGJvdGggc3BlZWRzLCBzdGlsbCBkcmV3IDYxIG9yIDYyIGZyYW1lcyBhIHNlY29uZC4KCmBgYGNzcwovKiBBbmltYXRpbmcgdHJhbnNmb3JtOiBDb21wb3NpdG9yIG9ubHkgKi8KLnNpZGViYXIgewogIHdpZHRoOiAyNDBweDsKICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVgoLTEwMCUpOwogIHRyYW5zaXRpb246IHRyYW5zZm9ybSAwLjNzOwp9Ci5zaWRlYmFyLm9wZW4gewogIHRyYW5zZm9ybTogdHJhbnNsYXRlWCgwKTsKfQpgYGAKClRoZSBQZXJmb3JtYW5jZSBwYW5lbCBzaG93cyBubyBMYXlvdXQgYXQgYWxsLiBUaGUgc2lkZWJhciBoYXMgaXRzIG93biBsYXllciBkdXJpbmcgdGhlIHRyYW5zaXRpb24uIFRoZSBNYWluIFRocmVhZCBoYW5kbGVzIG9ubHkgdGhlIGZpcnN0IGFuZCBsYXN0IGZldyBmcmFtZXMuIFRoZSBDb21wb3NpdG9yIFRocmVhZCBkcmF3cyB0aGUgcmVzdC4KClRoZSBzaWRlYmFyIGlzIGFsd2F5cyAyNDBweCB3aWRlLiBJdCBqdXN0IHN0YXJ0cyBvZmYtc2NyZWVuIGFuZCBzbGlkZXMgaW4uIFNhbWUgdmlzdWFsIHJlc3VsdC4gTm8gcmVmbG93LgoKLS0tCgojIyBUaGUgYHdpbGwtY2hhbmdlYCB0cmFwCgpEZXZlbG9wZXJzIGRpc2NvdmVyZWQgYHdpbGwtY2hhbmdlYCBhbmQgc2xhcHBlZCBpdCBvbiBldmVyeXRoaW5nLgoKYGBgY3NzCi8qIERvbid0IGRvIHRoaXMgKi8KKiB7IHdpbGwtY2hhbmdlOiB0cmFuc2Zvcm0sIG9wYWNpdHk7IH0KYGBgCgpFYWNoIGB3aWxsLWNoYW5nZWAgY3JlYXRlcyBhIGxheWVyOiBpbiBDaHJvbWUgMTUzLCBhIHBhZ2Ugd2l0aCAyMDAgZGl2cyB3ZW50IGZyb20gNCBsYXllcnMgdG8gMjA3LiBBdCAxTUIgcGVyIDUwMHg1MDAgZWxlbWVudCwgMjAwIGVsZW1lbnRzIHRoYXQgc2l6ZSBuZWVkIGFib3V0IDIwME1CLiB3ZWIuZGV2IHdhcm5zIHRoYXQgb24gZGV2aWNlcyB3aXRoIGxpbWl0ZWQgbWVtb3J5LCB0aGF0IG1hbnkgbGF5ZXJzIGNhbiBjb3N0IG1vcmUgdGhhbiB0aGV5IGdhaW4uCgpVc2UgYHdpbGwtY2hhbmdlYCBsaWtlIGEgc2NhbHBlbDoKCmBgYGNzcwovKiBBZGQgaXQgcmlnaHQgYmVmb3JlIGFuaW1hdGlvbiAqLwouY2FyZCB7CiAgdHJhbnNpdGlvbjogdHJhbnNmb3JtIDAuMXM7Cn0KLmNhcmQ6aG92ZXIgewogIHdpbGwtY2hhbmdlOiB0cmFuc2Zvcm07Cn0KLmNhcmQ6YWN0aXZlIHsKICB0cmFuc2Zvcm06IHNjYWxlKDAuOTgpOwp9CmBgYAoKVGhlIGB0cmFuc2l0aW9uYCBnb2VzIG9uIGAuY2FyZGAsIG5vdCBgLmNhcmQ6YWN0aXZlYC4gT3RoZXJ3aXNlIHRoZSBjYXJkIHNuYXBzIGJhY2sgd2hlbiB0aGUgbW91c2UgaXMgcmVsZWFzZWQuCgpNb3N0IG9mIHRoZSB0aW1lIHlvdSBkb24ndCBuZWVkIGB3aWxsLWNoYW5nZWAgYXQgYWxsOiB0aGUgYnJvd3NlciBhdXRvLXByb21vdGVzIGVsZW1lbnRzIGR1cmluZyBhIGB0cmFuc2Zvcm1gIG9yIGBvcGFjaXR5YCB0cmFuc2l0aW9uIG9yIGFuaW1hdGlvbi4gWW91IG9ubHkgbmVlZCBgd2lsbC1jaGFuZ2VgIHdoZW4geW91IHdhbnQgdGhlIGxheWVyIGNyZWF0ZWQgKmJlZm9yZSogdGhlIGFuaW1hdGlvbiBzdGFydHMsIHRvIGF2b2lkIGEgZmlyc3QtZnJhbWUgaGl0Y2guCgotLS0KCiMjIFF1aWNrIGNoZWNrbGlzdAoKMS4gKipBbmltYXRlIGB0cmFuc2Zvcm1gIGFuZCBgb3BhY2l0eWAuKiogVGhlc2UgdHdvIHJ1biBvbiB0aGUgQ29tcG9zaXRvciBUaHJlYWQuCjIuICoqVXNlIGB3aWxsLWNoYW5nZWAgb24gb25lIG9yIHR3byBlbGVtZW50cywgbm90IGdsb2JhbGx5LioqIFJlbW92ZSBpdCBhZnRlciBhbmltYXRpb24gZW5kcy4KMy4gKipSZWNvcmQgdGhlIGFuaW1hdGlvbiBpbiB0aGUgRGV2VG9vbHMgUGVyZm9ybWFuY2UgcGFuZWwuKiogSWYgdGhlIE1haW4gdHJhY2sgKHRoZSBNYWluIFRocmVhZCdzIHJvdykgc2hvd3Mgd29yayBpbiBldmVyeSBmcmFtZSwgdGhlIGFuaW1hdGlvbiBpcyBub3Qgb24gdGhlIENvbXBvc2l0b3IgVGhyZWFkLCBldmVuIHdpdGggbm8gTGF5b3V0IG9yIFBhaW50IGluIGl0Lgo0LiAqKlRlc3Qgb24gc2xvdyBoYXJkd2FyZSwgb3Igd2l0aCBEZXZUb29scyBDUFUgdGhyb3R0bGluZy4qKiBBIGZhc3QgbGFwdG9wIGhpZGVzIExheW91dCBjb3N0LgoKLS0tCgojIyBSZWZlcmVuY2VzCgotIFtDU1MgVHJpZ2dlcnMg4oCUIHdoYXQgZWFjaCBwcm9wZXJ0eSB0cmlnZ2VycyAoMjAxOSBhcmNoaXZlKV0oaHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMTkxMjE4MDMwNTIyL2h0dHBzOi8vY3NzdHJpZ2dlcnMuY29tLykKLSBbd2ViLmRldjogU3RpY2sgdG8gQ29tcG9zaXRvci1Pbmx5IFByb3BlcnRpZXNdKGh0dHBzOi8vd2ViLmRldi9hcnRpY2xlcy9zdGljay10by1jb21wb3NpdG9yLW9ubHktcHJvcGVydGllcy1hbmQtbWFuYWdlLWxheWVyLWNvdW50KQotIFtDaHJvbWUgRGV2VG9vbHM6IExheWVycyBwYW5lbF0oaHR0cHM6Ly9kZXZlbG9wZXIuY2hyb21lLmNvbS9kb2NzL2RldnRvb2xzL2xheWVycykKLSBbTUROOiBDU1Mgd2lsbC1jaGFuZ2VdKGh0dHBzOi8vZGV2ZWxvcGVyLm1vemlsbGEub3JnL2VuLVVTL2RvY3MvV2ViL0NTUy93aWxsLWNoYW5nZSkK17:T3cf3,<p>用 <code>width</code> 做動畫讓側欄滑出來，畫面可能會卡；同樣的滑動改用 <code>transform</code> 做，就很順。兩種在畫面上看起來一模一樣，為什麼其中一種要花的工夫多這麼多呢？</p>
+<hr>
+<h2>渲染的流程</h2>
+<p>瀏覽器把 CSS 變成畫面上的像素，要經過幾個階段，前一個階段的結果會交給下一個。所以只要觸發了前面的階段，後面的每一個都得重跑。</p>
+<p><strong>Style → Layout → Paint → Composite</strong></p>
+<ul>
+<li><strong>Style</strong>：算出每個元素套用了哪些 CSS 規則。</li>
+<li><strong>Layout</strong>：算出每個元素的大小跟位置。</li>
+<li><strong>Paint</strong>：算出每個 layer 上的像素。layer 是頁面上單獨畫成一張圖的部分。</li>
+<li><strong>Composite</strong>：把各個 layer 疊成最後的畫面。</li>
+</ul>
+<p>Style、Layout、Paint 在 Main Thread 上跑，JavaScript 也是在這條 thread 上跑。Composite 則在另一條 Compositor Thread 上跑，最後由 GPU 畫出來。如果要 60fps，每個 frame 只有 16.7ms。</p>
+<p>改 <code>width</code> 的話，瀏覽器要重算 Layout、重新 paint、再重新 composite。每個 frame 都是三個階段，而且 Layout 跟 Paint 得跟 JavaScript 共用 Main Thread。</p>
+<p>改 <code>color</code> 的話，Layout 不變，只要重新 paint 跟 composite，兩個階段。</p>
+<p>改 <code>transform</code> 的話，Layout 跟 Paint 都不變，只要重新 composite，一個階段。而且這一步在 Compositor Thread 上跑，所以就算有一段 script 跑很久，composite 也不會停下來。2026 年 11 月在 Chrome 153 上測試時，用一個 busy loop 佔住 Main Thread 600ms，這段時間裡 <code>transform</code> 的 transition 照樣畫了 36 個 frame，<code>width</code> 的是 0 個。</p>
+<hr>
+<h2>哪些屬性會觸發哪個階段</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>觸發</th><th>屬性</th><th>會發生什麼</th></tr></thead><tbody><tr><td>Layout</td><td><code>width</code>、<code>height</code>、<code>margin</code>、<code>padding</code>、<code>top</code>、<code>left</code>、<code>font-size</code></td><td>周圍元素的位置都要重算，很花時間。</td></tr><tr><td>Paint</td><td><code>color</code>、<code>background</code>、<code>border-color</code>、<code>box-shadow</code>、<code>outline</code></td><td>重新算像素，位置不變。</td></tr><tr><td>Composite</td><td><code>transform</code>、<code>opacity</code>、<code>filter</code>（<code>blur()</code> 跟 <code>drop-shadow()</code> 除外）</td><td>在 GPU 上重新疊 layer，開銷很小。</td></tr></tbody></table>
+<p><code>blur()</code> 跟 <code>drop-shadow()</code> 會讓像素超出元素原本的範圍，所以 Chrome 把這兩種動畫放在 Main Thread 上跑。另外，<code>background</code> 雖然列在 Paint 那一列，Chrome 153 的 <code>background-color</code> 動畫卻是在 Compositor Thread 上跑的。</p>
+<p>做動畫的時候，一律挑 Composite 的寫法：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>不用</th><th>改用</th></tr></thead><tbody><tr><td><code>left</code> / <code>top</code> / <code>margin</code></td><td><code>transform: translateX/Y()</code></td></tr><tr><td><code>width</code> / <code>height</code></td><td><code>transform: scale()</code>（內容會跟著拉伸）</td></tr><tr><td><code>display: none/block</code></td><td><code>opacity: 0/1</code>（還是佔著位置，也會收到點擊）</td></tr></tbody></table>
+<hr>
+<h2>Compositor layer</h2>
+<p>每個 layer 都要佔 GPU 記憶體，一個 500x500 的元素大約 1MB（每個像素 4 bytes）。所以瀏覽器要有理由，才會把元素提升成獨立的 compositor layer。</p>
+<p><strong>會建立 layer 的：</strong></p>
+<ul>
+<li><strong>3D transform。</strong> 寫上 <code>translateZ(0)</code> 或 <code>translate3d()</code>，元素馬上就會提升成 layer。<code>translateX(50px)</code> 這種 2D transform 通常不會，除非它正在動畫裡。</li>
+<li><strong><code>will-change: transform</code>。</strong> 讓瀏覽器提前建好 layer。用在確定會動的元素上，動完就拿掉，因為 layer 一直留著會浪費記憶體。</li>
+<li><strong><code>position: fixed</code>。</strong> fixed 的元素會有自己的 layer。</li>
+<li><strong>正在跑的 <code>transform</code> 或 <code>opacity</code> 動畫。</strong> 就算是 2D transform，動畫期間也會暫時有一個 layer，瀏覽器在動畫開始時提升它，結束後再降回來。</li>
+</ul>
+<p><strong>不會建立 layer 的：</strong></p>
+<ul>
+<li><strong>hover 狀態。</strong> hover 本身跟 layer 無關，hover 時改 <code>color</code> 還是在 Main Thread 上做。只有 hover <em>觸發的</em>動畫才可能建立 layer。</li>
+<li><strong>靜態的 <code>transform</code>。</strong> 沒有動畫、也沒有 <code>will-change</code> 的 <code>transform: translateX(50px)</code>，會跟頁面其他部分一起 paint，不會提升成 layer。</li>
+</ul>
+<hr>
+<h2>實際做起來的樣子</h2>
+<p>一個滑出來的側欄，有兩種做法。</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="css" data-theme="github-dark github-light"><code data-language="css" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">/* 動畫改 width：每個 frame 都要重新 Layout */</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">.sidebar</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  width</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">;</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  transition</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: width </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">0.3</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">s</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">.sidebar.open</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  width</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">240</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">px</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>用 DevTools 的 Performance 分頁把這段動畫錄下來，可以看到每個 frame 都有 Layout 跟 Paint。如果頁面上有一張資料表，每次 Layout 還會連帶重算表格的欄寬。2026 年 11 月在 Chrome 153 上測試時，在側欄旁邊放了一張 125 列的表格，CPU 全速時 Main Thread 每個 frame 大約要花 2.7ms，把 DevTools 的 CPU throttling 設成慢 6 倍時大約要花 13.1ms。這已經是 16.7ms 的八成，不過不管是全速還是 6 倍，每一次測試都還維持一秒 61 或 62 個 frame。</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="css" data-theme="github-dark github-light"><code data-language="css" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">/* 動畫改 transform：只用到 Compositor */</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">.sidebar</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  width</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">240</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">px</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">;</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  transform</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">translateX</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">-100</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">%</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  transition</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: transform </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">0.3</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">s</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">.sidebar.open</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  transform</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">translateX</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>Performance 分頁裡完全沒有 Layout，transition 期間側欄有自己的 layer。Main Thread 只處理開頭跟結尾那幾個 frame，中間的都由 Compositor Thread 畫。</p>
+<p>側欄一直都是 240px 寬，只是一開始在畫面外，再滑進來。畫面上的結果一樣，但不用重新排版。</p>
+<hr>
+<h2><code>will-change</code> 的 trap</h2>
+<p>有人發現 <code>will-change</code> 好用，就把它加在每個元素上：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="css" data-theme="github-dark github-light"><code data-language="css" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">/* 不要這樣寫 */</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">*</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> { </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">will-change</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: transform, opacity; }</span></span></code></pre></figure>
+<p>每個 <code>will-change</code> 都會建立一個 layer。在 Chrome 153 裡，一個有 200 個 div 的頁面，layer 從 4 個變成 207 個。照 500x500 大約 1MB 來算，200 個這種大小的元素大約要 200MB。web.dev 提醒，在記憶體少的裝置上，開這麼多 layer 可能弊大於利。</p>
+<p><code>will-change</code> 要用在剛好需要的地方：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="css" data-theme="github-dark github-light"><code data-language="css" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">/* 動畫開始前才加上 */</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">.card</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  transition</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: transform </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">0.1</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">s</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">.card:hover</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  will-change</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: transform;</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">.card:active</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  transform</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">scale</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">0.98</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">);</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p><code>transition</code> 要寫在 <code>.card</code> 上，不能只寫在 <code>.card:active</code> 裡，不然放開滑鼠時卡片會直接跳回原狀。</p>
+<p>其實多數時候連 <code>will-change</code> 都不用寫，因為 <code>transform</code> 或 <code>opacity</code> 的 transition 跟 animation 進行時，瀏覽器會自動把元素提升成 layer。只有想在動畫<em>開始前</em>就建好 layer、避免第一個 frame 頓一下的時候，才需要 <code>will-change</code>。</p>
+<hr>
+<h2>檢查清單</h2>
+<ol>
+<li><strong>動畫用 <code>transform</code> 跟 <code>opacity</code>。</strong> 這兩個在 Compositor Thread 上跑。</li>
+<li><strong><code>will-change</code> 只用在一兩個元素上，不要全域加。</strong> 動畫結束就拿掉。</li>
+<li><strong>用 DevTools 的 Performance 分頁錄下動畫。</strong> 如果 Main 那條 track（Main Thread 那一列）每個 frame 都有工作，動畫就不是在 Compositor Thread 上跑，就算裡面沒有 Layout 或 Paint 也一樣。</li>
+<li><strong>在慢的裝置上測，或開 DevTools 的 CPU throttling。</strong> 在快的筆電上看不太出 Layout 的開銷。</li>
+</ol>
+<hr>
+<h2>參考資料</h2>
+<ul>
+<li><a href="https://web.archive.org/web/20191218030522/https://csstriggers.com/">CSS Triggers：每個屬性會觸發哪些階段（2019 年的封存版）</a></li>
+<li><a href="https://web.dev/articles/stick-to-compositor-only-properties-and-manage-layer-count">web.dev：Stick to Compositor-Only Properties</a></li>
+<li><a href="https://developer.chrome.com/docs/devtools/layers">Chrome DevTools：Layers panel</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/will-change">MDN：CSS will-change</a></li>
+</ul>8:["$","div",null,{"id":"root","children":["$","div",null,{"id":"main","className":"reading","children":["$","$L13",null,{"htmlContent":"$14","rawContent":"$15","base64Content":"$16","title":"CSS rendering: layers, threads, and why transform beats width","createdAt":"2025-09-21T19:10:00.000Z","updatedAt":"$undefined","tags":["frontend","browser","css","performance"],"altHtmlContent":"$17","altTitle":"CSS 動畫為什麼用 transform 比用 width 順：layer、thread 跟渲染流程","currentLang":"en","altLang":"zh","canonicalPath":"$undefined"}]}]}]
