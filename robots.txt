@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /folio/jialin-huang-cv.pdf
+
+Sitemap: https://jialin00.com/sitemap.xml

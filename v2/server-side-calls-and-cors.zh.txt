@@ -1,0 +1,1014 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"default"]
+4:I[48350,[],""]
+5:I[11412,[],""]
+6:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+7:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-a77fd018998af56d.js"],"default"]
+9:I[96727,[],"OutletBoundary"]
+b:I[14038,[],"AsyncMetadataOutlet"]
+d:I[96727,[],"ViewportBoundary"]
+f:I[96727,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[92950,[],""]
+:HL["/_next/static/media/8760c4774489e4ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/f850d8afe0a1a343.css","style"]
+:HL["/_next/static/css/d3281eaf3cab9132.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/39d05d4f3ac8045a.css","style"]
+0:{"P":null,"b":"oLBG52zFtBhrNey-_iVKb","p":"","c":["","v2","server-side-calls-and-cors.zh"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","server-side-calls-and-cors.zh","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f850d8afe0a1a343.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/d3281eaf3cab9132.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href=\"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap\";document.head.appendChild(l)})()"}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L7",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","server-side-calls-and-cors.zh","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/39d05d4f3ac8045a.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+a:null
+c:{"metadata":[["$","title","0",{"children":"為什麼只有瀏覽器會出現 CORS 錯誤，改從自己的 server 呼叫又為什麼不會  | jialinhuang"}],["$","meta","1",{"name":"description","content":"Postman 跟 curl 都拿到了 response，瀏覽器卻出現 CORS 錯誤。CORS 是只有瀏覽器會執行的規則，它決定頁面上的 JavaScript 能不能讀另一個 origin 的 response，有些請求還要先問過 server 才會送出。改從自己 origin 上的 server 呼叫，瀏覽器發的就是同源請求，API key 也留在 server 上。"}],["$","link","2",{"rel":"canonical","href":"/v2/server-side-calls-and-cors"}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"
+13:I[86734,["9489","static/chunks/app/v2/%5Bslug%5D/page-ee8eca34ab4b1584.js"],"MdDoc"]
+14:T8128,<p>串好一個 API 呼叫，Postman 回 200，curl 也回 200，後端工程師看了 log 說「我這邊正常」。同一個呼叫放到瀏覽器裡就失敗，Chrome 的 console 印出：</p>
+<pre><code>Access to fetch at 'https://api.example.test:8443/none' from origin 'https://app.example.test:8443'
+has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the
+requested resource.
+</code></pre>
+<p>於是回頭去找後端：「可以把我的 origin 加進 CORS header 嗎？」後端加了。下個禮拜接新的 endpoint，同一個錯誤又出現，只好再去問一次。</p>
+<p>為什麼只有瀏覽器會失敗呢？</p>
+<hr>
+<h2>只有瀏覽器會檢查 CORS</h2>
+<p>同一個 endpoint，不送任何 CORS header，用兩種方式呼叫：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>呼叫的一方</th><th>請求有沒有到 server</th><th>有沒有拿到 body</th></tr></thead><tbody><tr><td>curl</td><td>有</td><td>有</td></tr><tr><td>另一個 origin 的頁面裡的 JavaScript（Chrome 156、Firefox 159）</td><td>有</td><td>沒有，<code>fetch</code> 丟出 <code>TypeError</code></td></tr></tbody></table>
+<p>兩次 server 都收到了請求，也都回應了。CORS 是瀏覽器對網頁裡的 JavaScript 執行的規則，Postman、curl、後端呼叫另一個後端，都不會執行它。所以「Postman 可以、瀏覽器不行」並不矛盾，這幾個 client 裡只有瀏覽器有這條規則。</p>
+<hr>
+<h2>Origin、SOP 跟 CORS</h2>
+<p><strong>origin</strong> 由 scheme、host、port 組成，三個都一樣才算同一個 origin：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>頁面</th><th>請求送到</th><th>同一個 origin 嗎</th></tr></thead><tbody><tr><td><code>https://app.example.com</code></td><td><code>https://app.example.com/api</code></td><td>是</td></tr><tr><td><code>https://app.example.com</code></td><td><code>https://api.example.com</code></td><td>不是，host 不同</td></tr><tr><td><code>http://localhost:5173</code></td><td><code>http://localhost:8080</code></td><td>不是，port 不同</td></tr><tr><td><code>http://app.example.com</code></td><td><code>https://app.example.com</code></td><td>不是，scheme 不同</td></tr></tbody></table>
+<p><strong>Same-Origin Policy（SOP，同源政策）</strong> 是瀏覽器的預設：頁面裡的 JavaScript 不能讀另一個 origin 的 response。這條規則不用誰去打開，本來就在。<code>app.example.com</code> 上的前端去讀 <code>api.example.com</code>，跨了 origin，所以預設是讀不到的。</p>
+<p><strong>CORS（Cross-Origin Resource Sharing）</strong> 是 server 替它指定的 origin 解除這個預設的方法。瀏覽器在請求裡加上 <code>Origin</code> header，server 用 <code>Access-Control-Allow-Origin</code> 回應：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="http" data-theme="github-dark github-light"><code data-language="http" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">GET</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> /data </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">HTTP</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">/</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">1.1</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">Host</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> api.example.com</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">Origin</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> https://app.example.com</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">HTTP</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">/</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">1.1</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 200</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> OK</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">Access-Control-Allow-Origin</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> https://app.example.com</span></span></code></pre></figure>
+<p>這個值跟頁面的 origin 一樣，瀏覽器就把 response 交給 JavaScript；少了這個 header，瀏覽器就不交。</p>
+<h3>哪些請求會直接送到 server</h3>
+<p><strong>simple request</strong> 會直接送出，下面三個條件都要符合（<a href="https://fetch.spec.whatwg.org/#cors-safelisted-request-header">Fetch Standard</a>、<a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CORS#simple_requests">MDN</a>）：</p>
+<ol>
+<li>method 是 <code>GET</code>、<code>HEAD</code> 或 <code>POST</code>。</li>
+<li>程式自己設的 header 只有 <code>Accept</code>、<code>Accept-Language</code>、<code>Content-Language</code>、<code>Content-Type</code>，每個值不超過 128 bytes。（規格另外也允許簡單的 <code>Range</code> header。）</li>
+<li>如果有設 <code>Content-Type</code>，值是 <code>application/x-www-form-urlencoded</code>、<code>multipart/form-data</code> 或 <code>text/plain</code>。</li>
+</ol>
+<p>大致上就是 HTML 表單能送出的請求。瀏覽器自己加的 header，像 <code>Origin</code>、<code>Cookie</code>、<code>User-Agent</code>，不算在內。</p>
+<p>其他的請求，瀏覽器會先送一個 <code>OPTIONS</code> 請求，叫 <strong>preflight</strong>，問 server 允不允許真正的請求：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="http" data-theme="github-dark github-light"><code data-language="http" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">OPTIONS</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> /data </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">HTTP</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">/</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">1.1</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">Origin</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> https://app.example.com</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">Access-Control-Request-Method</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> POST</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">Access-Control-Request-Headers</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> content-type</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">HTTP</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">/</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">1.1</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 204</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> No Content</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">Access-Control-Allow-Origin</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> https://app.example.com</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">Access-Control-Allow-Methods</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> POST</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">Access-Control-Allow-Headers</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> content-type</span></span></code></pre></figure>
+<p>頁面對一個沒有 CORS header 的 endpoint 發請求，Chrome 156 跟 Firefox 159 的結果一樣：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>請求</th><th>preflight</th><th>server 收到</th><th>JavaScript 讀到 response</th></tr></thead><tbody><tr><td><code>GET</code></td><td>沒有</td><td>GET</td><td>沒有</td></tr><tr><td><code>POST</code>，<code>Content-Type: text/plain</code></td><td>沒有</td><td>POST</td><td>沒有</td></tr><tr><td><code>POST</code>，<code>Content-Type: application/json</code></td><td>有</td><td>只有 OPTIONS</td><td>沒有</td></tr><tr><td>帶 <code>Authorization</code> header 的 <code>GET</code></td><td>有</td><td>只有 OPTIONS</td><td>沒有</td></tr><tr><td><code>PUT</code></td><td>有</td><td>只有 OPTIONS</td><td>沒有</td></tr></tbody></table>
+<p>simple request 照常送到 server，server 也處理完了，CORS 只決定 JavaScript 能不能讀 response。需要 preflight 的請求，如果 server 沒有同意 preflight，真正的請求就不會送出。</p>
+<hr>
+<h2>改從自己的 origin 呼叫</h2>
+<p>錯誤會出現，是因為瀏覽器的請求送到了另一個 origin。如果頁面呼叫的是自己 origin 上的 server，再由這個 server 去呼叫 API，瀏覽器發出的就是同源請求。SOP 不管同源請求，所以也沒有 CORS header 要找後端加。呼叫 API 的請求變成 server 對 server，不經過瀏覽器，也就不會檢查 CORS。</p>
+<pre><code>瀏覽器  →  https://app.example.com/api/charge     同源，沒有 preflight
+server  →  https://api.payments.com/charge        server 對 server，沒有 CORS
+</code></pre>
+<p>同源的 <code>POST</code> 帶著 <code>Content-Type: application/json</code> 跟 <code>Authorization</code> header，在兩個瀏覽器都只送出一個請求，沒有 preflight。</p>
+<p>開發時可以用 Vite dev server 的 proxy：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// vite.config.js</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">export</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> default</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  server: {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    proxy: {</span></span>
+<span data-line=""><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">      '/api'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">        target: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'https://api.payments.com'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">        changeOrigin: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">true</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">        rewrite</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: (</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">path</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> path.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">replace</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">/</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">^</span><span style="--shiki-dark:#85E89D;--shiki-dark-font-weight:bold;--shiki-light:#22863A;--shiki-light-font-weight:bold">\/</span><span style="--shiki-dark:#DBEDFF;--shiki-light:#032F62">api</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">/</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">''</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">),</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">      },</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    },</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  },</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>瀏覽器呼叫 dev server 這個 origin 上的 <code>/api/charge</code>，Vite 把它轉送到 <code>https://api.payments.com/charge</code>。如果沒寫 <code>rewrite</code>，Vite 會保留原本的路徑，請求就送到 <code>https://api.payments.com/api/charge</code>（Vite 7.3.7 實測）。<code>changeOrigin: true</code> 會把 <code>Host</code> header 改成 target 的 host。</p>
+<p><code>server.proxy</code> 屬於 dev server，所以上線之後就沒有了。正式環境要有一個真的 server 在中間。Next.js 的 App Router（13.2 起）可以用 Route Handler：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="ts" data-theme="github-dark github-light"><code data-language="ts" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// app/api/charge/route.ts</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">export</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> async</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> POST</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">req</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> Request</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> body</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> await</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> req.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">json</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> upstream</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> fetch</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'https://api.payments.com/charge'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    method: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'POST'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    headers: {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">      Authorization: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">`Bearer ${</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">process</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">.</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">env</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">PAYMENTS_KEY</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">}`</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">      'Content-Type'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'application/json'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    },</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    body: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">JSON</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">stringify</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(body),</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  })</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> Response.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">json</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">await</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> upstream.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">json</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">())</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>瀏覽器呼叫自己 origin 上的 <code>/api/charge</code>，再由自己的 server 呼叫付款 API。</p>
+<p>除了 Route Handler，Server Action（<code>"use server"</code>）跟 Server Component 裡的 <code>fetch</code> 也跑在 server 上。在 Next.js 16.4.3 上各做一個頁面，瀏覽器的請求都只送到送出頁面的那台 Next.js server，再由它呼叫付款 API：</p>
+<pre><code>Route Handler     瀏覽器 fetch('/api/charge')            →  Next.js server  →  付款 API
+Server Action     瀏覽器 POST 目前的頁面（Next-Action header）  →  Next.js server  →  付款 API
+Server Component  瀏覽器 GET 頁面                         →  Next.js server render 時  →  付款 API
+</code></pre>
+<hr>
+<h2>API key 也因此留在 server 上</h2>
+<p>Route Handler 裡 <code>Authorization: Bearer ${process.env.PAYMENTS_KEY}</code> 這一行是在 server 上執行的。根據 <a href="https://nextjs.org/docs/app/guides/environment-variables">Next.js 文件</a>，Next.js 只會把名字以 <code>NEXT_PUBLIC_</code> 開頭的環境變數放進瀏覽器的 JavaScript，<code>PAYMENTS_KEY</code> 只有 server 上的程式能讀取。Route Handler、Server Action、Server Component 三個頁面都只拿 key 去呼叫付款 API，瀏覽器送出的請求跟收到的 response 裡，都沒有出現這個 key。</p>
+<p>如果元件直接呼叫付款 API，key 就會出現在瀏覽器發出的請求裡，任何人打開 DevTools 的 Network 分頁，都能讀到明文。改經過自己的 server 之後，瀏覽器的請求裡沒有 key，key 是 server 對 server 的請求才加上去的，使用者碰不到這個請求。</p>
+<p>就算沒有攻擊者，key 放在瀏覽器裡，也等於已經交給每一個用這個頁面的人。瀏覽器送出的每個請求都會出現在 DevTools 裡，頁面上執行的任何 script，能讀取的東西也跟頁面自己的 JavaScript 一樣多。在 client 端把 key 混淆或「加密」也沒用，因為解密的程式碼一樣會送到瀏覽器。</p>
+<p>如果在 <code>'use client'</code> 元件裡讀 <code>process.env.PAYMENTS_KEY</code>，瀏覽器的 JavaScript 拿到的是 <code>undefined</code>，可是 Next.js 在 server 上 render 這個元件時，拿到的是真正的值。測試頁面把這個變數 render 出來，key 就跟著寫進了 HTML（Next.js 16.4.3，<code>next dev</code>）。</p>
+<p>Server Component 也一樣。測試頁面把 key 寫進 JSX，或把它當 prop 傳給 <code>'use client'</code> 元件，送到瀏覽器的 HTML 裡都有 key。如果只拿 key 呼叫付款 API，再把 API 回的結果當 prop 傳給同一個 <code>'use client'</code> 元件，HTML 裡就沒有 key（Next.js 16.4.3，<code>next dev</code>）。</p>
+<p>Route Handler、Server Action、Server Component 都可以讀 key，只是不能把它 render 出來，也不能把它當 prop 傳給 <code>'use client'</code> 元件。</p>
+<p>這樣改了之後，<code>/api/charge</code> 是任何人都能呼叫的 endpoint，包括打開 DevTools 的使用者，所以自己的 server 要負責驗證使用者，也要替這個 route 加上 rate limit。</p>
+<hr>
+<h2>什麼時候不能改從自己的 origin 呼叫</h2>
+<p>上面講的都是自己去呼叫別人的 API，下面兩種情況不適用。</p>
+<p><strong>自己的 API 要讓其他 origin 的瀏覽器呼叫。</strong> 如果公開的 API 本來就是給別人的網頁呼叫，請求沒辦法經過自己的 server。這時要刻意設定 CORS，列出明確的 origin。請求帶 cookie 的時候，瀏覽器本來就不接受 <code>Access-Control-Allow-Origin: *</code>（見下面的 header 對照表）。</p>
+<p><strong>發請求的是攻擊者。</strong> 對 simple request 來說，CORS 只決定誰能讀 response，所以偽造的請求（CSRF）照樣會送到 server。下面兩個情境寫出 CORS 能防什麼、不能防什麼。</p>
+<details>
+<summary>深入：CORS 碰上攻擊者的兩個情境</summary>
+<p>在 Chrome 156 跟 Firefox 159 實測。〈<a href="/v2/samesite-and-the-subdomain-cookie-bug">為什麼 localhost 設的 cookie 不會送到 thembase.localhost</a>〉詳細講過 <code>SameSite</code>：它是 cookie 的屬性，限制別的網站發起的請求能帶哪些 cookie。測試裡銀行設了三個 cookie，<code>SameSite</code> 分別是沒寫、<code>Lax</code>、<code>None; Secure</code>。</p>
+<p><strong>情境 1：一般的 CSRF，CORS 完全沒參與。</strong> 使用者登入了 <code>bank.com</code>，接著打開 <code>evil.com</code>，這個頁面會自動送出一個表單：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="html" data-theme="github-dark github-light"><code data-language="html" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">form</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> action</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"https://bank.com/transfer"</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> method</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"POST"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  &#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">input</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> name</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"to"</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> value</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"evil-account"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  &#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">input</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> name</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"amount"</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> value</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"1000"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;/</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">form</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">script</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">>document.forms[</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">].</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">submit</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()&#x3C;/</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">script</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span></code></pre></figure>
+<p>表單 POST 是 simple request，沒有 preflight，直接送到 <code>bank.com/transfer</code>。兩個瀏覽器都帶上了 <code>SameSite=None</code> 跟沒寫 <code>SameSite</code> 的 cookie，<code>SameSite=Lax</code> 的 cookie 都沒帶。〈<a href="/v2/samesite-and-the-subdomain-cookie-bug">為什麼 localhost 設的 cookie 不會送到 thembase.localhost</a>〉提到，Chrome 帶上沒寫 <code>SameSite</code> 的 cookie 有時間條件。如果 session cookie 跟著送出，銀行看到的就是一個已登入的使用者要求轉帳，沒有其他防線的話就會照做。銀行的 CORS 設定在這裡完全沒作用，要防這種攻擊，得用〈<a href="/v2/xss-and-csrf-defense-stack">XSS 跟 CSRF 各要怎麼防，為什麼先處理 XSS</a>〉裡的 <code>SameSite=Lax</code> cookie、CSRF token 跟 <code>Origin</code> 檢查。</p>
+<p><strong>情境 2：用 <code>fetch</code> 發的 CSRF，CORS 幫了一部分。</strong> <code>evil.com</code> 用 <code>fetch</code> 送 POST，帶 <code>credentials: 'include'</code>（讓跨 origin 的請求也帶上 cookie）跟 <code>Content-Type: application/json</code>，所以會先送 preflight。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>情況</th><th>結果（Chrome 156 實測）</th></tr></thead><tbody><tr><td>銀行沒送任何 CORS header</td><td>銀行只收到 OPTIONS</td></tr><tr><td>銀行的 preflight 同意任何 origin，但真正的 response 沒有 CORS header</td><td>POST 送到了，帶著 <code>SameSite=None</code> 的 cookie；<code>evil.com</code> 的 JavaScript 讀不到結果</td></tr><tr><td>同樣的 JSON body 改用 <code>Content-Type: text/plain</code>、<code>mode: 'no-cors'</code> 送出</td><td>沒有 preflight；POST 送到了，帶著 <code>SameSite=None</code> 的 cookie</td></tr></tbody></table>
+<p>第一列的情況，CORS 確實攔下了請求。可是如果銀行不檢查 <code>Content-Type</code> 就把 body 當 JSON 解析，攻擊者只要像最後一列那樣拿掉這個 header，就回到情境 1。</p>
+</details>
+<details>
+<summary>對照表：CORS 的 header（瀏覽器送的跟 server 送的）</summary>
+<p>下面這些 header 由瀏覽器自己填，不用寫在 fetch 裡。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Header</th><th>內容</th></tr></thead><tbody><tr><td><code>Origin</code></td><td>發出請求的頁面的 scheme + host + port</td></tr><tr><td><code>Access-Control-Request-Method</code></td><td>只在 preflight 出現。真正的請求要用的 method。</td></tr><tr><td><code>Access-Control-Request-Headers</code></td><td>只在 preflight 出現。真正的請求會設、而且不在 simple 清單上的 header。</td></tr></tbody></table>
+<p>server 的 header 寫在 CORS middleware 裡。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Header</th><th>控制什麼</th></tr></thead><tbody><tr><td><code>Access-Control-Allow-Origin</code></td><td>允許的 origin：一個跟 <code>Origin</code> 相同的 origin，或 <code>*</code> 代表全部。請求帶 <code>credentials: 'include'</code> 時，<code>*</code> 會失敗。</td></tr><tr><td><code>Access-Control-Allow-Methods</code></td><td>需要 preflight 的請求，server 接受哪些 method。</td></tr><tr><td><code>Access-Control-Allow-Headers</code></td><td>不在 simple 清單上的 header，server 接受哪些。</td></tr><tr><td><code>Access-Control-Allow-Credentials</code></td><td>設成 <code>true</code>，JavaScript 才能讀帶 <code>credentials: 'include'</code> 的請求的 response。preflight 的 response 沒有它，真正的請求就不會送出。</td></tr></tbody></table>
+<p>跨 origin 的呼叫要帶 cookie，client 得自己開：<code>fetch(url, { credentials: 'include' })</code>，或舊的 <code>xhr.withCredentials = true</code>。</p>
+</details>
+<hr>
+<h2>API key、讀取權限跟 CSRF，各用什麼處理</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>要做的事</th><th>怎麼做</th><th>防的是什麼</th></tr></thead><tbody><tr><td>不讓 secret 進到 client</td><td>呼叫經過自己的 server</td><td>API key 出現在瀏覽器裡</td></tr><tr><td>控制誰能讀自己 server 的 response</td><td>預設靠 SOP，要開放就用 CORS</td><td>其他 origin 的 JavaScript 讀到敏感的 response</td></tr><tr><td>攔下偽造的跨站請求</td><td><code>SameSite</code> cookie + CSRF token + <code>Origin</code> 檢查</td><td>simple request 的一般 CSRF</td></tr></tbody></table>
+<p><strong>如果是自己要呼叫 API，就讓呼叫經過自己的 origin。</strong> 這樣不用處理 CORS 設定，key 也留在 server 上。自己的 endpoint 真的要讓其他 origin 讀的時候，才需要設定 CORS。也不要把 CORS 當成 CSRF 的防線，因為 simple request 不管怎樣都會送到 server。</p>
+<p>〈<a href="/v2/xss-and-csrf-defense-stack">XSS 跟 CSRF 各要怎麼防，為什麼先處理 XSS</a>〉有 CSRF 完整的防法。</p>
+<hr>
+<h2>環境</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>項目</th><th>版本</th></tr></thead><tbody><tr><td>系統</td><td>macOS 15.6（arm64），Node.js 22.22.3</td></tr><tr><td>瀏覽器</td><td>Chrome for Testing 156.0.8078.73、Firefox 159.0，headless，由 puppeteer-core 25.16.0 驅動</td></tr><tr><td>curl</td><td>8.7.1</td></tr><tr><td>Vite</td><td>7.3.7</td></tr><tr><td>Next.js</td><td>16.4.3（<code>next dev</code>，Turbopack），React 19.3.1</td></tr><tr><td>結果來源</td><td>server 記下的每個請求，以及頁面上 JavaScript 拿到的結果</td></tr></tbody></table>
+<hr>
+<h2>參考資料</h2>
+<ul>
+<li><a href="https://fetch.spec.whatwg.org/">Fetch Standard：CORS protocol、CORS check、CORS-preflight cache</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/Security/Defenses/Same-origin_policy">Same-Origin Policy（MDN）</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CORS">CORS（MDN）</a></li>
+<li><a href="https://vite.dev/config/server-options.html#server-proxy">Vite server.proxy</a></li>
+<li><a href="https://nextjs.org/docs/app/api-reference/file-conventions/route">Next.js Route Handlers（route.js）</a></li>
+<li><a href="https://nextjs.org/docs/app/guides/environment-variables">Next.js 環境變數</a></li>
+<li><a href="/v2/xss-and-csrf-defense-stack">XSS 跟 CSRF 各要怎麼防，為什麼先處理 XSS</a></li>
+<li><a href="/v2/samesite-and-the-subdomain-cookie-bug">為什麼 localhost 設的 cookie 不會送到 thembase.localhost</a></li>
+<li><a href="https://sentry.io/answers/why-does-my-javascript-code-receive-a-no-access-control-allow-origin-header-error-while-postman-does-not/">Why does my JS code receive a CORS error while Postman does not?（Sentry answers）</a></li>
+</ul>15:T3ed5,
+串好一個 API 呼叫，Postman 回 200，curl 也回 200，後端工程師看了 log 說「我這邊正常」。同一個呼叫放到瀏覽器裡就失敗，Chrome 的 console 印出：
+
+```
+Access to fetch at 'https://api.example.test:8443/none' from origin 'https://app.example.test:8443'
+has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the
+requested resource.
+```
+
+於是回頭去找後端：「可以把我的 origin 加進 CORS header 嗎？」後端加了。下個禮拜接新的 endpoint，同一個錯誤又出現，只好再去問一次。
+
+為什麼只有瀏覽器會失敗呢？
+
+---
+
+## 只有瀏覽器會檢查 CORS
+
+同一個 endpoint，不送任何 CORS header，用兩種方式呼叫：
+
+| 呼叫的一方 | 請求有沒有到 server | 有沒有拿到 body |
+|---|---|---|
+| curl | 有 | 有 |
+| 另一個 origin 的頁面裡的 JavaScript（Chrome 156、Firefox 159） | 有 | 沒有，`fetch` 丟出 `TypeError` |
+
+兩次 server 都收到了請求，也都回應了。CORS 是瀏覽器對網頁裡的 JavaScript 執行的規則，Postman、curl、後端呼叫另一個後端，都不會執行它。所以「Postman 可以、瀏覽器不行」並不矛盾，這幾個 client 裡只有瀏覽器有這條規則。
+
+---
+
+## Origin、SOP 跟 CORS
+
+**origin** 由 scheme、host、port 組成，三個都一樣才算同一個 origin：
+
+| 頁面 | 請求送到 | 同一個 origin 嗎 |
+|---|---|---|
+| `https://app.example.com` | `https://app.example.com/api` | 是 |
+| `https://app.example.com` | `https://api.example.com` | 不是，host 不同 |
+| `http://localhost:5173` | `http://localhost:8080` | 不是，port 不同 |
+| `http://app.example.com` | `https://app.example.com` | 不是，scheme 不同 |
+
+**Same-Origin Policy（SOP，同源政策）** 是瀏覽器的預設：頁面裡的 JavaScript 不能讀另一個 origin 的 response。這條規則不用誰去打開，本來就在。`app.example.com` 上的前端去讀 `api.example.com`，跨了 origin，所以預設是讀不到的。
+
+**CORS（Cross-Origin Resource Sharing）** 是 server 替它指定的 origin 解除這個預設的方法。瀏覽器在請求裡加上 `Origin` header，server 用 `Access-Control-Allow-Origin` 回應：
+
+```http
+GET /data HTTP/1.1
+Host: api.example.com
+Origin: https://app.example.com
+
+HTTP/1.1 200 OK
+Access-Control-Allow-Origin: https://app.example.com
+```
+
+這個值跟頁面的 origin 一樣，瀏覽器就把 response 交給 JavaScript；少了這個 header，瀏覽器就不交。
+
+### 哪些請求會直接送到 server
+
+**simple request** 會直接送出，下面三個條件都要符合（[Fetch Standard](https://fetch.spec.whatwg.org/#cors-safelisted-request-header)、[MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CORS#simple_requests)）：
+
+1. method 是 `GET`、`HEAD` 或 `POST`。
+2. 程式自己設的 header 只有 `Accept`、`Accept-Language`、`Content-Language`、`Content-Type`，每個值不超過 128 bytes。（規格另外也允許簡單的 `Range` header。）
+3. 如果有設 `Content-Type`，值是 `application/x-www-form-urlencoded`、`multipart/form-data` 或 `text/plain`。
+
+大致上就是 HTML 表單能送出的請求。瀏覽器自己加的 header，像 `Origin`、`Cookie`、`User-Agent`，不算在內。
+
+其他的請求，瀏覽器會先送一個 `OPTIONS` 請求，叫 **preflight**，問 server 允不允許真正的請求：
+
+```http
+OPTIONS /data HTTP/1.1
+Origin: https://app.example.com
+Access-Control-Request-Method: POST
+Access-Control-Request-Headers: content-type
+
+HTTP/1.1 204 No Content
+Access-Control-Allow-Origin: https://app.example.com
+Access-Control-Allow-Methods: POST
+Access-Control-Allow-Headers: content-type
+```
+
+頁面對一個沒有 CORS header 的 endpoint 發請求，Chrome 156 跟 Firefox 159 的結果一樣：
+
+| 請求 | preflight | server 收到 | JavaScript 讀到 response |
+|---|---|---|---|
+| `GET` | 沒有 | GET | 沒有 |
+| `POST`，`Content-Type: text/plain` | 沒有 | POST | 沒有 |
+| `POST`，`Content-Type: application/json` | 有 | 只有 OPTIONS | 沒有 |
+| 帶 `Authorization` header 的 `GET` | 有 | 只有 OPTIONS | 沒有 |
+| `PUT` | 有 | 只有 OPTIONS | 沒有 |
+
+simple request 照常送到 server，server 也處理完了，CORS 只決定 JavaScript 能不能讀 response。需要 preflight 的請求，如果 server 沒有同意 preflight，真正的請求就不會送出。
+
+---
+
+## 改從自己的 origin 呼叫
+
+錯誤會出現，是因為瀏覽器的請求送到了另一個 origin。如果頁面呼叫的是自己 origin 上的 server，再由這個 server 去呼叫 API，瀏覽器發出的就是同源請求。SOP 不管同源請求，所以也沒有 CORS header 要找後端加。呼叫 API 的請求變成 server 對 server，不經過瀏覽器，也就不會檢查 CORS。
+
+```
+瀏覽器  →  https://app.example.com/api/charge     同源，沒有 preflight
+server  →  https://api.payments.com/charge        server 對 server，沒有 CORS
+```
+
+同源的 `POST` 帶著 `Content-Type: application/json` 跟 `Authorization` header，在兩個瀏覽器都只送出一個請求，沒有 preflight。
+
+開發時可以用 Vite dev server 的 proxy：
+
+```js
+// vite.config.js
+export default {
+  server: {
+    proxy: {
+      '/api': {
+        target: 'https://api.payments.com',
+        changeOrigin: true,
+        rewrite: (path) => path.replace(/^\/api/, ''),
+      },
+    },
+  },
+}
+```
+
+瀏覽器呼叫 dev server 這個 origin 上的 `/api/charge`，Vite 把它轉送到 `https://api.payments.com/charge`。如果沒寫 `rewrite`，Vite 會保留原本的路徑，請求就送到 `https://api.payments.com/api/charge`（Vite 7.3.7 實測）。`changeOrigin: true` 會把 `Host` header 改成 target 的 host。
+
+`server.proxy` 屬於 dev server，所以上線之後就沒有了。正式環境要有一個真的 server 在中間。Next.js 的 App Router（13.2 起）可以用 Route Handler：
+
+```ts
+// app/api/charge/route.ts
+export async function POST(req: Request) {
+  const body = await req.json()
+  const upstream = await fetch('https://api.payments.com/charge', {
+    method: 'POST',
+    headers: {
+      Authorization: `Bearer ${process.env.PAYMENTS_KEY}`,
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify(body),
+  })
+  return Response.json(await upstream.json())
+}
+```
+
+瀏覽器呼叫自己 origin 上的 `/api/charge`，再由自己的 server 呼叫付款 API。
+
+除了 Route Handler，Server Action（`"use server"`）跟 Server Component 裡的 `fetch` 也跑在 server 上。在 Next.js 16.4.3 上各做一個頁面，瀏覽器的請求都只送到送出頁面的那台 Next.js server，再由它呼叫付款 API：
+
+```
+Route Handler     瀏覽器 fetch('/api/charge')            →  Next.js server  →  付款 API
+Server Action     瀏覽器 POST 目前的頁面（Next-Action header）  →  Next.js server  →  付款 API
+Server Component  瀏覽器 GET 頁面                         →  Next.js server render 時  →  付款 API
+```
+
+---
+
+## API key 也因此留在 server 上
+
+Route Handler 裡 `Authorization: Bearer ${process.env.PAYMENTS_KEY}` 這一行是在 server 上執行的。根據 [Next.js 文件](https://nextjs.org/docs/app/guides/environment-variables)，Next.js 只會把名字以 `NEXT_PUBLIC_` 開頭的環境變數放進瀏覽器的 JavaScript，`PAYMENTS_KEY` 只有 server 上的程式能讀取。Route Handler、Server Action、Server Component 三個頁面都只拿 key 去呼叫付款 API，瀏覽器送出的請求跟收到的 response 裡，都沒有出現這個 key。
+
+如果元件直接呼叫付款 API，key 就會出現在瀏覽器發出的請求裡，任何人打開 DevTools 的 Network 分頁，都能讀到明文。改經過自己的 server 之後，瀏覽器的請求裡沒有 key，key 是 server 對 server 的請求才加上去的，使用者碰不到這個請求。
+
+就算沒有攻擊者，key 放在瀏覽器裡，也等於已經交給每一個用這個頁面的人。瀏覽器送出的每個請求都會出現在 DevTools 裡，頁面上執行的任何 script，能讀取的東西也跟頁面自己的 JavaScript 一樣多。在 client 端把 key 混淆或「加密」也沒用，因為解密的程式碼一樣會送到瀏覽器。
+
+如果在 `'use client'` 元件裡讀 `process.env.PAYMENTS_KEY`，瀏覽器的 JavaScript 拿到的是 `undefined`，可是 Next.js 在 server 上 render 這個元件時，拿到的是真正的值。測試頁面把這個變數 render 出來，key 就跟著寫進了 HTML（Next.js 16.4.3，`next dev`）。
+
+Server Component 也一樣。測試頁面把 key 寫進 JSX，或把它當 prop 傳給 `'use client'` 元件，送到瀏覽器的 HTML 裡都有 key。如果只拿 key 呼叫付款 API，再把 API 回的結果當 prop 傳給同一個 `'use client'` 元件，HTML 裡就沒有 key（Next.js 16.4.3，`next dev`）。
+
+Route Handler、Server Action、Server Component 都可以讀 key，只是不能把它 render 出來，也不能把它當 prop 傳給 `'use client'` 元件。
+
+這樣改了之後，`/api/charge` 是任何人都能呼叫的 endpoint，包括打開 DevTools 的使用者，所以自己的 server 要負責驗證使用者，也要替這個 route 加上 rate limit。
+
+---
+
+## 什麼時候不能改從自己的 origin 呼叫
+
+上面講的都是自己去呼叫別人的 API，下面兩種情況不適用。
+
+**自己的 API 要讓其他 origin 的瀏覽器呼叫。** 如果公開的 API 本來就是給別人的網頁呼叫，請求沒辦法經過自己的 server。這時要刻意設定 CORS，列出明確的 origin。請求帶 cookie 的時候，瀏覽器本來就不接受 `Access-Control-Allow-Origin: *`（見下面的 header 對照表）。
+
+**發請求的是攻擊者。** 對 simple request 來說，CORS 只決定誰能讀 response，所以偽造的請求（CSRF）照樣會送到 server。下面兩個情境寫出 CORS 能防什麼、不能防什麼。
+
+<details>
+<summary>深入：CORS 碰上攻擊者的兩個情境</summary>
+
+在 Chrome 156 跟 Firefox 159 實測。〈[為什麼 localhost 設的 cookie 不會送到 thembase.localhost](/v2/samesite-and-the-subdomain-cookie-bug)〉詳細講過 `SameSite`：它是 cookie 的屬性，限制別的網站發起的請求能帶哪些 cookie。測試裡銀行設了三個 cookie，`SameSite` 分別是沒寫、`Lax`、`None; Secure`。
+
+**情境 1：一般的 CSRF，CORS 完全沒參與。** 使用者登入了 `bank.com`，接著打開 `evil.com`，這個頁面會自動送出一個表單：
+
+```html
+<form action="https://bank.com/transfer" method="POST">
+  <input name="to" value="evil-account">
+  <input name="amount" value="1000">
+</form>
+<script>document.forms[0].submit()</script>
+```
+
+表單 POST 是 simple request，沒有 preflight，直接送到 `bank.com/transfer`。兩個瀏覽器都帶上了 `SameSite=None` 跟沒寫 `SameSite` 的 cookie，`SameSite=Lax` 的 cookie 都沒帶。〈[為什麼 localhost 設的 cookie 不會送到 thembase.localhost](/v2/samesite-and-the-subdomain-cookie-bug)〉提到，Chrome 帶上沒寫 `SameSite` 的 cookie 有時間條件。如果 session cookie 跟著送出，銀行看到的就是一個已登入的使用者要求轉帳，沒有其他防線的話就會照做。銀行的 CORS 設定在這裡完全沒作用，要防這種攻擊，得用〈[XSS 跟 CSRF 各要怎麼防，為什麼先處理 XSS](/v2/xss-and-csrf-defense-stack)〉裡的 `SameSite=Lax` cookie、CSRF token 跟 `Origin` 檢查。
+
+**情境 2：用 `fetch` 發的 CSRF，CORS 幫了一部分。** `evil.com` 用 `fetch` 送 POST，帶 `credentials: 'include'`（讓跨 origin 的請求也帶上 cookie）跟 `Content-Type: application/json`，所以會先送 preflight。
+
+| 情況 | 結果（Chrome 156 實測） |
+|---|---|
+| 銀行沒送任何 CORS header | 銀行只收到 OPTIONS |
+| 銀行的 preflight 同意任何 origin，但真正的 response 沒有 CORS header | POST 送到了，帶著 `SameSite=None` 的 cookie；`evil.com` 的 JavaScript 讀不到結果 |
+| 同樣的 JSON body 改用 `Content-Type: text/plain`、`mode: 'no-cors'` 送出 | 沒有 preflight；POST 送到了，帶著 `SameSite=None` 的 cookie |
+
+第一列的情況，CORS 確實攔下了請求。可是如果銀行不檢查 `Content-Type` 就把 body 當 JSON 解析，攻擊者只要像最後一列那樣拿掉這個 header，就回到情境 1。
+
+</details>
+
+<details>
+<summary>對照表：CORS 的 header（瀏覽器送的跟 server 送的）</summary>
+
+下面這些 header 由瀏覽器自己填，不用寫在 fetch 裡。
+
+| Header | 內容 |
+|---|---|
+| `Origin` | 發出請求的頁面的 scheme + host + port |
+| `Access-Control-Request-Method` | 只在 preflight 出現。真正的請求要用的 method。 |
+| `Access-Control-Request-Headers` | 只在 preflight 出現。真正的請求會設、而且不在 simple 清單上的 header。 |
+
+server 的 header 寫在 CORS middleware 裡。
+
+| Header | 控制什麼 |
+|---|---|
+| `Access-Control-Allow-Origin` | 允許的 origin：一個跟 `Origin` 相同的 origin，或 `*` 代表全部。請求帶 `credentials: 'include'` 時，`*` 會失敗。 |
+| `Access-Control-Allow-Methods` | 需要 preflight 的請求，server 接受哪些 method。 |
+| `Access-Control-Allow-Headers` | 不在 simple 清單上的 header，server 接受哪些。 |
+| `Access-Control-Allow-Credentials` | 設成 `true`，JavaScript 才能讀帶 `credentials: 'include'` 的請求的 response。preflight 的 response 沒有它，真正的請求就不會送出。 |
+
+跨 origin 的呼叫要帶 cookie，client 得自己開：`fetch(url, { credentials: 'include' })`，或舊的 `xhr.withCredentials = true`。
+
+</details>
+
+---
+
+## API key、讀取權限跟 CSRF，各用什麼處理
+
+| 要做的事 | 怎麼做 | 防的是什麼 |
+|---|---|---|
+| 不讓 secret 進到 client | 呼叫經過自己的 server | API key 出現在瀏覽器裡 |
+| 控制誰能讀自己 server 的 response | 預設靠 SOP，要開放就用 CORS | 其他 origin 的 JavaScript 讀到敏感的 response |
+| 攔下偽造的跨站請求 | `SameSite` cookie + CSRF token + `Origin` 檢查 | simple request 的一般 CSRF |
+
+**如果是自己要呼叫 API，就讓呼叫經過自己的 origin。** 這樣不用處理 CORS 設定，key 也留在 server 上。自己的 endpoint 真的要讓其他 origin 讀的時候，才需要設定 CORS。也不要把 CORS 當成 CSRF 的防線，因為 simple request 不管怎樣都會送到 server。
+
+〈[XSS 跟 CSRF 各要怎麼防，為什麼先處理 XSS](/v2/xss-and-csrf-defense-stack)〉有 CSRF 完整的防法。
+
+---
+
+## 環境
+
+| 項目 | 版本 |
+|---|---|
+| 系統 | macOS 15.6（arm64），Node.js 22.22.3 |
+| 瀏覽器 | Chrome for Testing 156.0.8078.73、Firefox 159.0，headless，由 puppeteer-core 25.16.0 驅動 |
+| curl | 8.7.1 |
+| Vite | 7.3.7 |
+| Next.js | 16.4.3（`next dev`，Turbopack），React 19.3.1 |
+| 結果來源 | server 記下的每個請求，以及頁面上 JavaScript 拿到的結果 |
+
+---
+
+## 參考資料
+
+- [Fetch Standard：CORS protocol、CORS check、CORS-preflight cache](https://fetch.spec.whatwg.org/)
+- [Same-Origin Policy（MDN）](https://developer.mozilla.org/en-US/docs/Web/Security/Defenses/Same-origin_policy)
+- [CORS（MDN）](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CORS)
+- [Vite server.proxy](https://vite.dev/config/server-options.html#server-proxy)
+- [Next.js Route Handlers（route.js）](https://nextjs.org/docs/app/api-reference/file-conventions/route)
+- [Next.js 環境變數](https://nextjs.org/docs/app/guides/environment-variables)
+- [XSS 跟 CSRF 各要怎麼防，為什麼先處理 XSS](/v2/xss-and-csrf-defense-stack)
+- [為什麼 localhost 設的 cookie 不會送到 thembase.localhost](/v2/samesite-and-the-subdomain-cookie-bug)
+- [Why does my JS code receive a CORS error while Postman does not?（Sentry answers）](https://sentry.io/answers/why-does-my-javascript-code-receive-a-no-access-control-allow-origin-header-error-while-postman-does-not/)
+16:T56a8,LS0tCnRpdGxlOiAi54K65LuA6bq85Y+q5pyJ54CP6Ka95Zmo5pyD5Ye654++IENPUlMg6Yyv6Kqk77yM5pS55b6e6Ieq5bex55qEIHNlcnZlciDlkbzlj6vlj4jngrrku4DpurzkuI3mnIMiCmRhdGU6IDIwMjUtMDgtMDJUMTI6NDY6MDAKdGFnczogW3NlY3VyaXR5LCBjb3JzLCBuZXh0anMsIHdlYiwgY3NyZl0KZGVzY3JpcHRpb246ICJQb3N0bWFuIOi3nyBjdXJsIOmDveaLv+WIsOS6hiByZXNwb25zZe+8jOeAj+imveWZqOWNu+WHuuePviBDT1JTIOmMr+iqpOOAgkNPUlMg5piv5Y+q5pyJ54CP6Ka95Zmo5pyD5Z+36KGM55qE6KaP5YmH77yM5a6D5rG65a6a6aCB6Z2i5LiK55qEIEphdmFTY3JpcHQg6IO95LiN6IO96K6A5Y+m5LiA5YCLIG9yaWdpbiDnmoQgcmVzcG9uc2XvvIzmnInkupvoq4vmsYLpgoTopoHlhYjllY/pgY4gc2VydmVyIOaJjeacg+mAgeWHuuOAguaUueW+nuiHquW3sSBvcmlnaW4g5LiK55qEIHNlcnZlciDlkbzlj6vvvIzngI/opr3lmajnmbznmoTlsLHmmK/lkIzmupDoq4vmsYLvvIxBUEkga2V5IOS5n+eVmeWcqCBzZXJ2ZXIg5LiK44CCIgotLS0KCuS4suWlveS4gOWAiyBBUEkg5ZG85Y+r77yMUG9zdG1hbiDlm54gMjAw77yMY3VybCDkuZ/lm54gMjAw77yM5b6M56uv5bel56iL5bir55yL5LqGIGxvZyDoqqrjgIzmiJHpgJnpgormraPluLjjgI3jgILlkIzkuIDlgIvlkbzlj6vmlL7liLDngI/opr3lmajoo6HlsLHlpLHmlZfvvIxDaHJvbWUg55qEIGNvbnNvbGUg5Y2w5Ye677yaCgpgYGAKQWNjZXNzIHRvIGZldGNoIGF0ICdodHRwczovL2FwaS5leGFtcGxlLnRlc3Q6ODQ0My9ub25lJyBmcm9tIG9yaWdpbiAnaHR0cHM6Ly9hcHAuZXhhbXBsZS50ZXN0Ojg0NDMnCmhhcyBiZWVuIGJsb2NrZWQgYnkgQ09SUyBwb2xpY3k6IE5vICdBY2Nlc3MtQ29udHJvbC1BbGxvdy1PcmlnaW4nIGhlYWRlciBpcyBwcmVzZW50IG9uIHRoZQpyZXF1ZXN0ZWQgcmVzb3VyY2UuCmBgYAoK5pa85piv5Zue6aCt5Y675om+5b6M56uv77ya44CM5Y+v5Lul5oqK5oiR55qEIG9yaWdpbiDliqDpgLIgQ09SUyBoZWFkZXIg5ZeO77yf44CN5b6M56uv5Yqg5LqG44CC5LiL5YCL56au5ouc5o6l5paw55qEIGVuZHBvaW5077yM5ZCM5LiA5YCL6Yyv6Kqk5Y+I5Ye654++77yM5Y+q5aW95YaN5Y675ZWP5LiA5qyh44CCCgrngrrku4Dpurzlj6rmnInngI/opr3lmajmnIPlpLHmlZflkaLvvJ8KCi0tLQoKIyMg5Y+q5pyJ54CP6Ka95Zmo5pyD5qqi5p+lIENPUlMKCuWQjOS4gOWAiyBlbmRwb2ludO+8jOS4jemAgeS7u+S9lSBDT1JTIGhlYWRlcu+8jOeUqOWFqeeoruaWueW8j+WRvOWPq++8mgoKfCDlkbzlj6vnmoTkuIDmlrkgfCDoq4vmsYLmnInmspLmnInliLAgc2VydmVyIHwg5pyJ5rKS5pyJ5ou/5YiwIGJvZHkgfAp8LS0tfC0tLXwtLS18CnwgY3VybCB8IOaciSB8IOaciSB8Cnwg5Y+m5LiA5YCLIG9yaWdpbiDnmoTpoIHpnaLoo6HnmoQgSmF2YVNjcmlwdO+8iENocm9tZSAxNTbjgIFGaXJlZm94IDE1Oe+8iSB8IOaciSB8IOaykuacie+8jGBmZXRjaGAg5Lif5Ye6IGBUeXBlRXJyb3JgIHwKCuWFqeasoSBzZXJ2ZXIg6YO95pS25Yiw5LqG6KuL5rGC77yM5Lmf6YO95Zue5oeJ5LqG44CCQ09SUyDmmK/ngI/opr3lmajlsI3ntrLpoIHoo6HnmoQgSmF2YVNjcmlwdCDln7fooYznmoTopo/liYfvvIxQb3N0bWFu44CBY3VybOOAgeW+jOerr+WRvOWPq+WPpuS4gOWAi+W+jOerr++8jOmDveS4jeacg+Wft+ihjOWug+OAguaJgOS7peOAjFBvc3RtYW4g5Y+v5Lul44CB54CP6Ka95Zmo5LiN6KGM44CN5Lim5LiN55+b55u+77yM6YCZ5bm+5YCLIGNsaWVudCDoo6Hlj6rmnInngI/opr3lmajmnInpgJnmop3opo/liYfjgIIKCi0tLQoKIyMgT3JpZ2lu44CBU09QIOi3nyBDT1JTCgoqKm9yaWdpbioqIOeUsSBzY2hlbWXjgIFob3N044CBcG9ydCDntYTmiJDvvIzkuInlgIvpg73kuIDmqKPmiY3nrpflkIzkuIDlgIsgb3JpZ2lu77yaCgp8IOmggemdoiB8IOiri+axgumAgeWIsCB8IOWQjOS4gOWAiyBvcmlnaW4g5ZeOIHwKfC0tLXwtLS18LS0tfAp8IGBodHRwczovL2FwcC5leGFtcGxlLmNvbWAgfCBgaHR0cHM6Ly9hcHAuZXhhbXBsZS5jb20vYXBpYCB8IOaYryB8CnwgYGh0dHBzOi8vYXBwLmV4YW1wbGUuY29tYCB8IGBodHRwczovL2FwaS5leGFtcGxlLmNvbWAgfCDkuI3mmK/vvIxob3N0IOS4jeWQjCB8CnwgYGh0dHA6Ly9sb2NhbGhvc3Q6NTE3M2AgfCBgaHR0cDovL2xvY2FsaG9zdDo4MDgwYCB8IOS4jeaYr++8jHBvcnQg5LiN5ZCMIHwKfCBgaHR0cDovL2FwcC5leGFtcGxlLmNvbWAgfCBgaHR0cHM6Ly9hcHAuZXhhbXBsZS5jb21gIHwg5LiN5piv77yMc2NoZW1lIOS4jeWQjCB8CgoqKlNhbWUtT3JpZ2luIFBvbGljee+8iFNPUO+8jOWQjOa6kOaUv+etlu+8iSoqIOaYr+eAj+imveWZqOeahOmgkOiore+8mumggemdouijoeeahCBKYXZhU2NyaXB0IOS4jeiDveiugOWPpuS4gOWAiyBvcmlnaW4g55qEIHJlc3BvbnNl44CC6YCZ5qKd6KaP5YmH5LiN55So6Kqw5Y675omT6ZaL77yM5pys5L6G5bCx5Zyo44CCYGFwcC5leGFtcGxlLmNvbWAg5LiK55qE5YmN56uv5Y676K6AIGBhcGkuZXhhbXBsZS5jb21g77yM6Leo5LqGIG9yaWdpbu+8jOaJgOS7pemgkOioreaYr+iugOS4jeWIsOeahOOAggoKKipDT1JT77yIQ3Jvc3MtT3JpZ2luIFJlc291cmNlIFNoYXJpbmfvvIkqKiDmmK8gc2VydmVyIOabv+Wug+aMh+WumueahCBvcmlnaW4g6Kej6Zmk6YCZ5YCL6aCQ6Kit55qE5pa55rOV44CC54CP6Ka95Zmo5Zyo6KuL5rGC6KOh5Yqg5LiKIGBPcmlnaW5gIGhlYWRlcu+8jHNlcnZlciDnlKggYEFjY2Vzcy1Db250cm9sLUFsbG93LU9yaWdpbmAg5Zue5oeJ77yaCgpgYGBodHRwCkdFVCAvZGF0YSBIVFRQLzEuMQpIb3N0OiBhcGkuZXhhbXBsZS5jb20KT3JpZ2luOiBodHRwczovL2FwcC5leGFtcGxlLmNvbQoKSFRUUC8xLjEgMjAwIE9LCkFjY2Vzcy1Db250cm9sLUFsbG93LU9yaWdpbjogaHR0cHM6Ly9hcHAuZXhhbXBsZS5jb20KYGBgCgrpgJnlgIvlgLzot5/poIHpnaLnmoQgb3JpZ2luIOS4gOaoo++8jOeAj+imveWZqOWwseaKiiByZXNwb25zZSDkuqTntaYgSmF2YVNjcmlwdO+8m+WwkeS6humAmeWAiyBoZWFkZXLvvIzngI/opr3lmajlsLHkuI3kuqTjgIIKCiMjIyDlk6rkupvoq4vmsYLmnIPnm7TmjqXpgIHliLAgc2VydmVyCgoqKnNpbXBsZSByZXF1ZXN0Kiog5pyD55u05o6l6YCB5Ye677yM5LiL6Z2i5LiJ5YCL5qKd5Lu26YO96KaB56ym5ZCI77yIW0ZldGNoIFN0YW5kYXJkXShodHRwczovL2ZldGNoLnNwZWMud2hhdHdnLm9yZy8jY29ycy1zYWZlbGlzdGVkLXJlcXVlc3QtaGVhZGVyKeOAgVtNRE5dKGh0dHBzOi8vZGV2ZWxvcGVyLm1vemlsbGEub3JnL2VuLVVTL2RvY3MvV2ViL0hUVFAvR3VpZGVzL0NPUlMjc2ltcGxlX3JlcXVlc3RzKe+8ie+8mgoKMS4gbWV0aG9kIOaYryBgR0VUYOOAgWBIRUFEYCDmiJYgYFBPU1Rg44CCCjIuIOeoi+W8j+iHquW3seioreeahCBoZWFkZXIg5Y+q5pyJIGBBY2NlcHRg44CBYEFjY2VwdC1MYW5ndWFnZWDjgIFgQ29udGVudC1MYW5ndWFnZWDjgIFgQ29udGVudC1UeXBlYO+8jOavj+WAi+WAvOS4jei2hemBjiAxMjggYnl0ZXPjgILvvIjopo/moLzlj6blpJbkuZ/lhYHoqLHnsKHllq7nmoQgYFJhbmdlYCBoZWFkZXLjgILvvIkKMy4g5aaC5p6c5pyJ6KitIGBDb250ZW50LVR5cGVg77yM5YC85pivIGBhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWRg44CBYG11bHRpcGFydC9mb3JtLWRhdGFgIOaIliBgdGV4dC9wbGFpbmDjgIIKCuWkp+iHtOS4iuWwseaYryBIVE1MIOihqOWWruiDvemAgeWHuueahOiri+axguOAgueAj+imveWZqOiHquW3seWKoOeahCBoZWFkZXLvvIzlg48gYE9yaWdpbmDjgIFgQ29va2llYOOAgWBVc2VyLUFnZW50YO+8jOS4jeeul+WcqOWFp+OAggoK5YW25LuW55qE6KuL5rGC77yM54CP6Ka95Zmo5pyD5YWI6YCB5LiA5YCLIGBPUFRJT05TYCDoq4vmsYLvvIzlj6sgKipwcmVmbGlnaHQqKu+8jOWVjyBzZXJ2ZXIg5YWB5LiN5YWB6Kix55yf5q2j55qE6KuL5rGC77yaCgpgYGBodHRwCk9QVElPTlMgL2RhdGEgSFRUUC8xLjEKT3JpZ2luOiBodHRwczovL2FwcC5leGFtcGxlLmNvbQpBY2Nlc3MtQ29udHJvbC1SZXF1ZXN0LU1ldGhvZDogUE9TVApBY2Nlc3MtQ29udHJvbC1SZXF1ZXN0LUhlYWRlcnM6IGNvbnRlbnQtdHlwZQoKSFRUUC8xLjEgMjA0IE5vIENvbnRlbnQKQWNjZXNzLUNvbnRyb2wtQWxsb3ctT3JpZ2luOiBodHRwczovL2FwcC5leGFtcGxlLmNvbQpBY2Nlc3MtQ29udHJvbC1BbGxvdy1NZXRob2RzOiBQT1NUCkFjY2Vzcy1Db250cm9sLUFsbG93LUhlYWRlcnM6IGNvbnRlbnQtdHlwZQpgYGAKCumggemdouWwjeS4gOWAi+aykuaciSBDT1JTIGhlYWRlciDnmoQgZW5kcG9pbnQg55m86KuL5rGC77yMQ2hyb21lIDE1NiDot58gRmlyZWZveCAxNTkg55qE57WQ5p6c5LiA5qij77yaCgp8IOiri+axgiB8IHByZWZsaWdodCB8IHNlcnZlciDmlLbliLAgfCBKYXZhU2NyaXB0IOiugOWIsCByZXNwb25zZSB8CnwtLS18LS0tfC0tLXwtLS18CnwgYEdFVGAgfCDmspLmnIkgfCBHRVQgfCDmspLmnIkgfAp8IGBQT1NUYO+8jGBDb250ZW50LVR5cGU6IHRleHQvcGxhaW5gIHwg5rKS5pyJIHwgUE9TVCB8IOaykuaciSB8CnwgYFBPU1Rg77yMYENvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbmAgfCDmnIkgfCDlj6rmnIkgT1BUSU9OUyB8IOaykuaciSB8Cnwg5bi2IGBBdXRob3JpemF0aW9uYCBoZWFkZXIg55qEIGBHRVRgIHwg5pyJIHwg5Y+q5pyJIE9QVElPTlMgfCDmspLmnIkgfAp8IGBQVVRgIHwg5pyJIHwg5Y+q5pyJIE9QVElPTlMgfCDmspLmnIkgfAoKc2ltcGxlIHJlcXVlc3Qg54Wn5bi46YCB5YiwIHNlcnZlcu+8jHNlcnZlciDkuZ/omZXnkIblrozkuobvvIxDT1JTIOWPquaxuuWumiBKYXZhU2NyaXB0IOiDveS4jeiDveiugCByZXNwb25zZeOAgumcgOimgSBwcmVmbGlnaHQg55qE6KuL5rGC77yM5aaC5p6cIHNlcnZlciDmspLmnInlkIzmhI8gcHJlZmxpZ2h077yM55yf5q2j55qE6KuL5rGC5bCx5LiN5pyD6YCB5Ye644CCCgotLS0KCiMjIOaUueW+nuiHquW3seeahCBvcmlnaW4g5ZG85Y+rCgrpjK/oqqTmnIPlh7rnj77vvIzmmK/lm6DngrrngI/opr3lmajnmoToq4vmsYLpgIHliLDkuoblj6bkuIDlgIsgb3JpZ2lu44CC5aaC5p6c6aCB6Z2i5ZG85Y+r55qE5piv6Ieq5bexIG9yaWdpbiDkuIrnmoQgc2VydmVy77yM5YaN55Sx6YCZ5YCLIHNlcnZlciDljrvlkbzlj6sgQVBJ77yM54CP6Ka95Zmo55m85Ye655qE5bCx5piv5ZCM5rqQ6KuL5rGC44CCU09QIOS4jeeuoeWQjOa6kOiri+axgu+8jOaJgOS7peS5n+aykuaciSBDT1JTIGhlYWRlciDopoHmib7lvoznq6/liqDjgILlkbzlj6sgQVBJIOeahOiri+axguiuiuaIkCBzZXJ2ZXIg5bCNIHNlcnZlcu+8jOS4jee2k+mBjueAj+imveWZqO+8jOS5n+WwseS4jeacg+aqouafpSBDT1JT44CCCgpgYGAK54CP6Ka95ZmoICDihpIgIGh0dHBzOi8vYXBwLmV4YW1wbGUuY29tL2FwaS9jaGFyZ2UgICAgIOWQjOa6kO+8jOaykuaciSBwcmVmbGlnaHQKc2VydmVyICDihpIgIGh0dHBzOi8vYXBpLnBheW1lbnRzLmNvbS9jaGFyZ2UgICAgICAgIHNlcnZlciDlsI0gc2VydmVy77yM5rKS5pyJIENPUlMKYGBgCgrlkIzmupDnmoQgYFBPU1RgIOW4tuiRlyBgQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uYCDot58gYEF1dGhvcml6YXRpb25gIGhlYWRlcu+8jOWcqOWFqeWAi+eAj+imveWZqOmDveWPqumAgeWHuuS4gOWAi+iri+axgu+8jOaykuaciSBwcmVmbGlnaHTjgIIKCumWi+eZvOaZguWPr+S7peeUqCBWaXRlIGRldiBzZXJ2ZXIg55qEIHByb3h577yaCgpgYGBqcwovLyB2aXRlLmNvbmZpZy5qcwpleHBvcnQgZGVmYXVsdCB7CiAgc2VydmVyOiB7CiAgICBwcm94eTogewogICAgICAnL2FwaSc6IHsKICAgICAgICB0YXJnZXQ6ICdodHRwczovL2FwaS5wYXltZW50cy5jb20nLAogICAgICAgIGNoYW5nZU9yaWdpbjogdHJ1ZSwKICAgICAgICByZXdyaXRlOiAocGF0aCkgPT4gcGF0aC5yZXBsYWNlKC9eXC9hcGkvLCAnJyksCiAgICAgIH0sCiAgICB9LAogIH0sCn0KYGBgCgrngI/opr3lmajlkbzlj6sgZGV2IHNlcnZlciDpgJnlgIsgb3JpZ2luIOS4iueahCBgL2FwaS9jaGFyZ2Vg77yMVml0ZSDmiorlroPovYnpgIHliLAgYGh0dHBzOi8vYXBpLnBheW1lbnRzLmNvbS9jaGFyZ2Vg44CC5aaC5p6c5rKS5a+rIGByZXdyaXRlYO+8jFZpdGUg5pyD5L+d55WZ5Y6f5pys55qE6Lev5b6R77yM6KuL5rGC5bCx6YCB5YiwIGBodHRwczovL2FwaS5wYXltZW50cy5jb20vYXBpL2NoYXJnZWDvvIhWaXRlIDcuMy43IOWvpua4rO+8ieOAgmBjaGFuZ2VPcmlnaW46IHRydWVgIOacg+aKiiBgSG9zdGAgaGVhZGVyIOaUueaIkCB0YXJnZXQg55qEIGhvc3TjgIIKCmBzZXJ2ZXIucHJveHlgIOWxrOaWvCBkZXYgc2VydmVy77yM5omA5Lul5LiK57ea5LmL5b6M5bCx5rKS5pyJ5LqG44CC5q2j5byP55Kw5aKD6KaB5pyJ5LiA5YCL55yf55qEIHNlcnZlciDlnKjkuK3plpPjgIJOZXh0LmpzIOeahCBBcHAgUm91dGVy77yIMTMuMiDotbfvvInlj6/ku6XnlKggUm91dGUgSGFuZGxlcu+8mgoKYGBgdHMKLy8gYXBwL2FwaS9jaGFyZ2Uvcm91dGUudHMKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIFBPU1QocmVxOiBSZXF1ZXN0KSB7CiAgY29uc3QgYm9keSA9IGF3YWl0IHJlcS5qc29uKCkKICBjb25zdCB1cHN0cmVhbSA9IGF3YWl0IGZldGNoKCdodHRwczovL2FwaS5wYXltZW50cy5jb20vY2hhcmdlJywgewogICAgbWV0aG9kOiAnUE9TVCcsCiAgICBoZWFkZXJzOiB7CiAgICAgIEF1dGhvcml6YXRpb246IGBCZWFyZXIgJHtwcm9jZXNzLmVudi5QQVlNRU5UU19LRVl9YCwKICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJywKICAgIH0sCiAgICBib2R5OiBKU09OLnN0cmluZ2lmeShib2R5KSwKICB9KQogIHJldHVybiBSZXNwb25zZS5qc29uKGF3YWl0IHVwc3RyZWFtLmpzb24oKSkKfQpgYGAKCueAj+imveWZqOWRvOWPq+iHquW3sSBvcmlnaW4g5LiK55qEIGAvYXBpL2NoYXJnZWDvvIzlho3nlLHoh6rlt7HnmoQgc2VydmVyIOWRvOWPq+S7mOasviBBUEnjgIIKCumZpOS6hiBSb3V0ZSBIYW5kbGVy77yMU2VydmVyIEFjdGlvbu+8iGAidXNlIHNlcnZlciJg77yJ6LefIFNlcnZlciBDb21wb25lbnQg6KOh55qEIGBmZXRjaGAg5Lmf6LeR5ZyoIHNlcnZlciDkuIrjgILlnKggTmV4dC5qcyAxNi40LjMg5LiK5ZCE5YGa5LiA5YCL6aCB6Z2i77yM54CP6Ka95Zmo55qE6KuL5rGC6YO95Y+q6YCB5Yiw6YCB5Ye66aCB6Z2i55qE6YKj5Y+wIE5leHQuanMgc2VydmVy77yM5YaN55Sx5a6D5ZG85Y+r5LuY5qy+IEFQSe+8mgoKYGBgClJvdXRlIEhhbmRsZXIgICAgIOeAj+imveWZqCBmZXRjaCgnL2FwaS9jaGFyZ2UnKSAgICAgICAgICAgIOKGkiAgTmV4dC5qcyBzZXJ2ZXIgIOKGkiAg5LuY5qy+IEFQSQpTZXJ2ZXIgQWN0aW9uICAgICDngI/opr3lmaggUE9TVCDnm67liY3nmoTpoIHpnaLvvIhOZXh0LUFjdGlvbiBoZWFkZXLvvIkgIOKGkiAgTmV4dC5qcyBzZXJ2ZXIgIOKGkiAg5LuY5qy+IEFQSQpTZXJ2ZXIgQ29tcG9uZW50ICDngI/opr3lmaggR0VUIOmggemdoiAgICAgICAgICAgICAgICAgICAgICAgICDihpIgIE5leHQuanMgc2VydmVyIHJlbmRlciDmmYIgIOKGkiAg5LuY5qy+IEFQSQpgYGAKCi0tLQoKIyMgQVBJIGtleSDkuZ/lm6DmraTnlZnlnKggc2VydmVyIOS4igoKUm91dGUgSGFuZGxlciDoo6EgYEF1dGhvcml6YXRpb246IEJlYXJlciAke3Byb2Nlc3MuZW52LlBBWU1FTlRTX0tFWX1gIOmAmeS4gOihjOaYr+WcqCBzZXJ2ZXIg5LiK5Z+36KGM55qE44CC5qC55pOaIFtOZXh0LmpzIOaWh+S7tl0oaHR0cHM6Ly9uZXh0anMub3JnL2RvY3MvYXBwL2d1aWRlcy9lbnZpcm9ubWVudC12YXJpYWJsZXMp77yMTmV4dC5qcyDlj6rmnIPmiorlkI3lrZfku6UgYE5FWFRfUFVCTElDX2Ag6ZaL6aCt55qE55Kw5aKD6K6K5pW45pS+6YCy54CP6Ka95Zmo55qEIEphdmFTY3JpcHTvvIxgUEFZTUVOVFNfS0VZYCDlj6rmnIkgc2VydmVyIOS4iueahOeoi+W8j+iDveiugOWPluOAglJvdXRlIEhhbmRsZXLjgIFTZXJ2ZXIgQWN0aW9u44CBU2VydmVyIENvbXBvbmVudCDkuInlgIvpoIHpnaLpg73lj6rmi78ga2V5IOWOu+WRvOWPq+S7mOasviBBUEnvvIzngI/opr3lmajpgIHlh7rnmoToq4vmsYLot5/mlLbliLDnmoQgcmVzcG9uc2Ug6KOh77yM6YO95rKS5pyJ5Ye654++6YCZ5YCLIGtleeOAggoK5aaC5p6c5YWD5Lu255u05o6l5ZG85Y+r5LuY5qy+IEFQSe+8jGtleSDlsLHmnIPlh7rnj77lnKjngI/opr3lmajnmbzlh7rnmoToq4vmsYLoo6HvvIzku7vkvZXkurrmiZPplosgRGV2VG9vbHMg55qEIE5ldHdvcmsg5YiG6aCB77yM6YO96IO96K6A5Yiw5piO5paH44CC5pS557aT6YGO6Ieq5bex55qEIHNlcnZlciDkuYvlvozvvIzngI/opr3lmajnmoToq4vmsYLoo6HmspLmnIkga2V577yMa2V5IOaYryBzZXJ2ZXIg5bCNIHNlcnZlciDnmoToq4vmsYLmiY3liqDkuIrljrvnmoTvvIzkvb/nlKjogIXnorDkuI3liLDpgJnlgIvoq4vmsYLjgIIKCuWwseeul+aykuacieaUu+aTiuiAhe+8jGtleSDmlL7lnKjngI/opr3lmajoo6HvvIzkuZ/nrYnmlrzlt7LntpPkuqTntabmr4/kuIDlgIvnlKjpgJnlgIvpoIHpnaLnmoTkurrjgILngI/opr3lmajpgIHlh7rnmoTmr4/lgIvoq4vmsYLpg73mnIPlh7rnj77lnKggRGV2VG9vbHMg6KOh77yM6aCB6Z2i5LiK5Z+36KGM55qE5Lu75L2VIHNjcmlwdO+8jOiDveiugOWPlueahOadseilv+S5n+i3n+mggemdouiHquW3seeahCBKYXZhU2NyaXB0IOS4gOaoo+WkmuOAguWcqCBjbGllbnQg56uv5oqKIGtleSDmt7fmt4bmiJbjgIzliqDlr4bjgI3kuZ/mspLnlKjvvIzlm6Dngrrop6Plr4bnmoTnqIvlvI/norzkuIDmqKPmnIPpgIHliLDngI/opr3lmajjgIIKCuWmguaenOWcqCBgJ3VzZSBjbGllbnQnYCDlhYPku7boo6HoroAgYHByb2Nlc3MuZW52LlBBWU1FTlRTX0tFWWDvvIzngI/opr3lmajnmoQgSmF2YVNjcmlwdCDmi7/liLDnmoTmmK8gYHVuZGVmaW5lZGDvvIzlj6/mmK8gTmV4dC5qcyDlnKggc2VydmVyIOS4iiByZW5kZXIg6YCZ5YCL5YWD5Lu25pmC77yM5ou/5Yiw55qE5piv55yf5q2j55qE5YC844CC5ris6Kmm6aCB6Z2i5oqK6YCZ5YCL6K6K5pW4IHJlbmRlciDlh7rkvobvvIxrZXkg5bCx6Lef6JGX5a+r6YCy5LqGIEhUTUzvvIhOZXh0LmpzIDE2LjQuM++8jGBuZXh0IGRldmDvvInjgIIKClNlcnZlciBDb21wb25lbnQg5Lmf5LiA5qij44CC5ris6Kmm6aCB6Z2i5oqKIGtleSDlr6vpgLIgSlNY77yM5oiW5oqK5a6D55W2IHByb3Ag5YKz57WmIGAndXNlIGNsaWVudCdgIOWFg+S7tu+8jOmAgeWIsOeAj+imveWZqOeahCBIVE1MIOijoemDveaciSBrZXnjgILlpoLmnpzlj6rmi78ga2V5IOWRvOWPq+S7mOasviBBUEnvvIzlho3mioogQVBJIOWbnueahOe1kOaenOeVtiBwcm9wIOWCs+e1puWQjOS4gOWAiyBgJ3VzZSBjbGllbnQnYCDlhYPku7bvvIxIVE1MIOijoeWwseaykuaciSBrZXnvvIhOZXh0LmpzIDE2LjQuM++8jGBuZXh0IGRldmDvvInjgIIKClJvdXRlIEhhbmRsZXLjgIFTZXJ2ZXIgQWN0aW9u44CBU2VydmVyIENvbXBvbmVudCDpg73lj6/ku6XoroAga2V577yM5Y+q5piv5LiN6IO95oqK5a6DIHJlbmRlciDlh7rkvobvvIzkuZ/kuI3og73miorlroPnlbYgcHJvcCDlgrPntaYgYCd1c2UgY2xpZW50J2Ag5YWD5Lu244CCCgrpgJnmqKPmlLnkuobkuYvlvozvvIxgL2FwaS9jaGFyZ2VgIOaYr+S7u+S9leS6uumDveiDveWRvOWPq+eahCBlbmRwb2ludO+8jOWMheaLrOaJk+mWiyBEZXZUb29scyDnmoTkvb/nlKjogIXvvIzmiYDku6Xoh6rlt7HnmoQgc2VydmVyIOimgeiyoOiyrOmpl+itieS9v+eUqOiAhe+8jOS5n+imgeabv+mAmeWAiyByb3V0ZSDliqDkuIogcmF0ZSBsaW1pdOOAggoKLS0tCgojIyDku4DpurzmmYLlgJnkuI3og73mlLnlvp7oh6rlt7HnmoQgb3JpZ2luIOWRvOWPqwoK5LiK6Z2i6Kyb55qE6YO95piv6Ieq5bex5Y675ZG85Y+r5Yil5Lq655qEIEFQSe+8jOS4i+mdouWFqeeoruaDheazgeS4jemBqeeUqOOAggoKKiroh6rlt7HnmoQgQVBJIOimgeiuk+WFtuS7liBvcmlnaW4g55qE54CP6Ka95Zmo5ZG85Y+r44CCKiog5aaC5p6c5YWs6ZaL55qEIEFQSSDmnKzkvoblsLHmmK/ntabliKXkurrnmoTntrLpoIHlkbzlj6vvvIzoq4vmsYLmspLovqbms5XntpPpgY7oh6rlt7HnmoQgc2VydmVy44CC6YCZ5pmC6KaB5Yi75oSP6Kit5a6aIENPUlPvvIzliJflh7rmmI7norrnmoQgb3JpZ2lu44CC6KuL5rGC5bi2IGNvb2tpZSDnmoTmmYLlgJnvvIzngI/opr3lmajmnKzkvoblsLHkuI3mjqXlj5cgYEFjY2Vzcy1Db250cm9sLUFsbG93LU9yaWdpbjogKmDvvIjopovkuIvpnaLnmoQgaGVhZGVyIOWwjeeFp+ihqO+8ieOAggoKKirnmbzoq4vmsYLnmoTmmK/mlLvmk4rogIXjgIIqKiDlsI0gc2ltcGxlIHJlcXVlc3Qg5L6G6Kqq77yMQ09SUyDlj6rmsbrlrproqrDog73oroAgcmVzcG9uc2XvvIzmiYDku6Xlgb3pgKDnmoToq4vmsYLvvIhDU1JG77yJ54Wn5qij5pyD6YCB5YiwIHNlcnZlcuOAguS4i+mdouWFqeWAi+aDheWig+Wvq+WHuiBDT1JTIOiDvemYsuS7gOm6vOOAgeS4jeiDvemYsuS7gOm6vOOAggoKPGRldGFpbHM+CjxzdW1tYXJ5Pua3seWFpe+8mkNPUlMg56Kw5LiK5pS75pOK6ICF55qE5YWp5YCL5oOF5aKDPC9zdW1tYXJ5PgoK5ZyoIENocm9tZSAxNTYg6LefIEZpcmVmb3ggMTU5IOWvpua4rOOAguOAiFvngrrku4DpurwgbG9jYWxob3N0IOioreeahCBjb29raWUg5LiN5pyD6YCB5YiwIHRoZW1iYXNlLmxvY2FsaG9zdF0oL3YyL3NhbWVzaXRlLWFuZC10aGUtc3ViZG9tYWluLWNvb2tpZS1idWcp44CJ6Kmz57Sw6Kyb6YGOIGBTYW1lU2l0ZWDvvJrlroPmmK8gY29va2llIOeahOWxrOaAp++8jOmZkOWItuWIpeeahOe2suermeeZvOi1t+eahOiri+axguiDveW4tuWTquS6myBjb29raWXjgILmuKzoqaboo6HpioDooYzoqK3kuobkuInlgIsgY29va2ll77yMYFNhbWVTaXRlYCDliIbliKXmmK/mspLlr6vjgIFgTGF4YOOAgWBOb25lOyBTZWN1cmVg44CCCgoqKuaDheWigyAx77ya5LiA6Iis55qEIENTUkbvvIxDT1JTIOWujOWFqOaykuWPg+iIh+OAgioqIOS9v+eUqOiAheeZu+WFpeS6hiBgYmFuay5jb21g77yM5o6l6JGX5omT6ZaLIGBldmlsLmNvbWDvvIzpgJnlgIvpoIHpnaLmnIPoh6rli5XpgIHlh7rkuIDlgIvooajllq7vvJoKCmBgYGh0bWwKPGZvcm0gYWN0aW9uPSJodHRwczovL2JhbmsuY29tL3RyYW5zZmVyIiBtZXRob2Q9IlBPU1QiPgogIDxpbnB1dCBuYW1lPSJ0byIgdmFsdWU9ImV2aWwtYWNjb3VudCI+CiAgPGlucHV0IG5hbWU9ImFtb3VudCIgdmFsdWU9IjEwMDAiPgo8L2Zvcm0+CjxzY3JpcHQ+ZG9jdW1lbnQuZm9ybXNbMF0uc3VibWl0KCk8L3NjcmlwdD4KYGBgCgrooajllq4gUE9TVCDmmK8gc2ltcGxlIHJlcXVlc3TvvIzmspLmnIkgcHJlZmxpZ2h077yM55u05o6l6YCB5YiwIGBiYW5rLmNvbS90cmFuc2ZlcmDjgILlhanlgIvngI/opr3lmajpg73luLbkuIrkuoYgYFNhbWVTaXRlPU5vbmVgIOi3n+aykuWvqyBgU2FtZVNpdGVgIOeahCBjb29raWXvvIxgU2FtZVNpdGU9TGF4YCDnmoQgY29va2llIOmDveaykuW4tuOAguOAiFvngrrku4DpurwgbG9jYWxob3N0IOioreeahCBjb29raWUg5LiN5pyD6YCB5YiwIHRoZW1iYXNlLmxvY2FsaG9zdF0oL3YyL3NhbWVzaXRlLWFuZC10aGUtc3ViZG9tYWluLWNvb2tpZS1idWcp44CJ5o+Q5Yiw77yMQ2hyb21lIOW4tuS4iuaykuWvqyBgU2FtZVNpdGVgIOeahCBjb29raWUg5pyJ5pmC6ZaT5qKd5Lu244CC5aaC5p6cIHNlc3Npb24gY29va2llIOi3n+iRl+mAgeWHuu+8jOmKgOihjOeci+WIsOeahOWwseaYr+S4gOWAi+W3sueZu+WFpeeahOS9v+eUqOiAheimgeaxgui9ieW4s++8jOaykuacieWFtuS7lumYsue3mueahOipseWwseacg+eFp+WBmuOAgumKgOihjOeahCBDT1JTIOioreWumuWcqOmAmeijoeWujOWFqOaykuS9nOeUqO+8jOimgemYsumAmeeoruaUu+aTiu+8jOW+l+eUqOOAiFtYU1Mg6LefIENTUkYg5ZCE6KaB5oCO6bq86Ziy77yM54K65LuA6bq85YWI6JmV55CGIFhTU10oL3YyL3hzcy1hbmQtY3NyZi1kZWZlbnNlLXN0YWNrKeOAieijoeeahCBgU2FtZVNpdGU9TGF4YCBjb29raWXjgIFDU1JGIHRva2VuIOi3nyBgT3JpZ2luYCDmqqLmn6XjgIIKCioq5oOF5aKDIDLvvJrnlKggYGZldGNoYCDnmbznmoQgQ1NSRu+8jENPUlMg5bmr5LqG5LiA6YOo5YiG44CCKiogYGV2aWwuY29tYCDnlKggYGZldGNoYCDpgIEgUE9TVO+8jOW4tiBgY3JlZGVudGlhbHM6ICdpbmNsdWRlJ2DvvIjorpPot6ggb3JpZ2luIOeahOiri+axguS5n+W4tuS4iiBjb29raWXvvInot58gYENvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbmDvvIzmiYDku6XmnIPlhYjpgIEgcHJlZmxpZ2h044CCCgp8IOaDheazgSB8IOe1kOaenO+8iENocm9tZSAxNTYg5a+m5ris77yJIHwKfC0tLXwtLS18Cnwg6YqA6KGM5rKS6YCB5Lu75L2VIENPUlMgaGVhZGVyIHwg6YqA6KGM5Y+q5pS25YiwIE9QVElPTlMgfAp8IOmKgOihjOeahCBwcmVmbGlnaHQg5ZCM5oSP5Lu75L2VIG9yaWdpbu+8jOS9huecn+ato+eahCByZXNwb25zZSDmspLmnIkgQ09SUyBoZWFkZXIgfCBQT1NUIOmAgeWIsOS6hu+8jOW4tuiRlyBgU2FtZVNpdGU9Tm9uZWAg55qEIGNvb2tpZe+8m2BldmlsLmNvbWAg55qEIEphdmFTY3JpcHQg6K6A5LiN5Yiw57WQ5p6cIHwKfCDlkIzmqKPnmoQgSlNPTiBib2R5IOaUueeUqCBgQ29udGVudC1UeXBlOiB0ZXh0L3BsYWluYOOAgWBtb2RlOiAnbm8tY29ycydgIOmAgeWHuiB8IOaykuaciSBwcmVmbGlnaHTvvJtQT1NUIOmAgeWIsOS6hu+8jOW4tuiRlyBgU2FtZVNpdGU9Tm9uZWAg55qEIGNvb2tpZSB8CgrnrKzkuIDliJfnmoTmg4Xms4HvvIxDT1JTIOeiuuWvpuaUlOS4i+S6huiri+axguOAguWPr+aYr+WmguaenOmKgOihjOS4jeaqouafpSBgQ29udGVudC1UeXBlYCDlsLHmioogYm9keSDnlbYgSlNPTiDop6PmnpDvvIzmlLvmk4rogIXlj6ropoHlg4/mnIDlvozkuIDliJfpgqPmqKPmi7/mjonpgJnlgIsgaGVhZGVy77yM5bCx5Zue5Yiw5oOF5aKDIDHjgIIKCjwvZGV0YWlscz4KCjxkZXRhaWxzPgo8c3VtbWFyeT7lsI3nhafooajvvJpDT1JTIOeahCBoZWFkZXLvvIjngI/opr3lmajpgIHnmoTot58gc2VydmVyIOmAgeeahO+8iTwvc3VtbWFyeT4KCuS4i+mdoumAmeS6myBoZWFkZXIg55Sx54CP6Ka95Zmo6Ieq5bex5aGr77yM5LiN55So5a+r5ZyoIGZldGNoIOijoeOAggoKfCBIZWFkZXIgfCDlhaflrrkgfAp8LS0tfC0tLXwKfCBgT3JpZ2luYCB8IOeZvOWHuuiri+axgueahOmggemdoueahCBzY2hlbWUgKyBob3N0ICsgcG9ydCB8CnwgYEFjY2Vzcy1Db250cm9sLVJlcXVlc3QtTWV0aG9kYCB8IOWPquWcqCBwcmVmbGlnaHQg5Ye654++44CC55yf5q2j55qE6KuL5rGC6KaB55So55qEIG1ldGhvZOOAgiB8CnwgYEFjY2Vzcy1Db250cm9sLVJlcXVlc3QtSGVhZGVyc2AgfCDlj6rlnKggcHJlZmxpZ2h0IOWHuuePvuOAguecn+ato+eahOiri+axguacg+ioreOAgeiAjOS4lOS4jeWcqCBzaW1wbGUg5riF5Zau5LiK55qEIGhlYWRlcuOAgiB8CgpzZXJ2ZXIg55qEIGhlYWRlciDlr6vlnKggQ09SUyBtaWRkbGV3YXJlIOijoeOAggoKfCBIZWFkZXIgfCDmjqfliLbku4DpurwgfAp8LS0tfC0tLXwKfCBgQWNjZXNzLUNvbnRyb2wtQWxsb3ctT3JpZ2luYCB8IOWFgeioseeahCBvcmlnaW7vvJrkuIDlgIvot58gYE9yaWdpbmAg55u45ZCM55qEIG9yaWdpbu+8jOaIliBgKmAg5Luj6KGo5YWo6YOo44CC6KuL5rGC5bi2IGBjcmVkZW50aWFsczogJ2luY2x1ZGUnYCDmmYLvvIxgKmAg5pyD5aSx5pWX44CCIHwKfCBgQWNjZXNzLUNvbnRyb2wtQWxsb3ctTWV0aG9kc2AgfCDpnIDopoEgcHJlZmxpZ2h0IOeahOiri+axgu+8jHNlcnZlciDmjqXlj5flk6rkupsgbWV0aG9k44CCIHwKfCBgQWNjZXNzLUNvbnRyb2wtQWxsb3ctSGVhZGVyc2AgfCDkuI3lnKggc2ltcGxlIOa4heWWruS4iueahCBoZWFkZXLvvIxzZXJ2ZXIg5o6l5Y+X5ZOq5Lqb44CCIHwKfCBgQWNjZXNzLUNvbnRyb2wtQWxsb3ctQ3JlZGVudGlhbHNgIHwg6Kit5oiQIGB0cnVlYO+8jEphdmFTY3JpcHQg5omN6IO96K6A5bi2IGBjcmVkZW50aWFsczogJ2luY2x1ZGUnYCDnmoToq4vmsYLnmoQgcmVzcG9uc2XjgIJwcmVmbGlnaHQg55qEIHJlc3BvbnNlIOaykuacieWug++8jOecn+ato+eahOiri+axguWwseS4jeacg+mAgeWHuuOAgiB8Cgrot6ggb3JpZ2luIOeahOWRvOWPq+imgeW4tiBjb29raWXvvIxjbGllbnQg5b6X6Ieq5bex6ZaL77yaYGZldGNoKHVybCwgeyBjcmVkZW50aWFsczogJ2luY2x1ZGUnIH0pYO+8jOaIluiIiueahCBgeGhyLndpdGhDcmVkZW50aWFscyA9IHRydWVg44CCCgo8L2RldGFpbHM+CgotLS0KCiMjIEFQSSBrZXnjgIHoroDlj5bmrIrpmZDot58gQ1NSRu+8jOWQhOeUqOS7gOm6vOiZleeQhgoKfCDopoHlgZrnmoTkuosgfCDmgI7purzlgZogfCDpmLLnmoTmmK/ku4DpurwgfAp8LS0tfC0tLXwtLS18Cnwg5LiN6K6TIHNlY3JldCDpgLLliLAgY2xpZW50IHwg5ZG85Y+r57aT6YGO6Ieq5bex55qEIHNlcnZlciB8IEFQSSBrZXkg5Ye654++5Zyo54CP6Ka95Zmo6KOhIHwKfCDmjqfliLboqrDog73oroDoh6rlt7Egc2VydmVyIOeahCByZXNwb25zZSB8IOmgkOioremdoCBTT1DvvIzopoHplovmlL7lsLHnlKggQ09SUyB8IOWFtuS7liBvcmlnaW4g55qEIEphdmFTY3JpcHQg6K6A5Yiw5pWP5oSf55qEIHJlc3BvbnNlIHwKfCDmlJTkuIvlgb3pgKDnmoTot6jnq5noq4vmsYIgfCBgU2FtZVNpdGVgIGNvb2tpZSArIENTUkYgdG9rZW4gKyBgT3JpZ2luYCDmqqLmn6UgfCBzaW1wbGUgcmVxdWVzdCDnmoTkuIDoiKwgQ1NSRiB8CgoqKuWmguaenOaYr+iHquW3seimgeWRvOWPqyBBUEnvvIzlsLHorpPlkbzlj6vntpPpgY7oh6rlt7HnmoQgb3JpZ2lu44CCKiog6YCZ5qij5LiN55So6JmV55CGIENPUlMg6Kit5a6a77yMa2V5IOS5n+eVmeWcqCBzZXJ2ZXIg5LiK44CC6Ieq5bex55qEIGVuZHBvaW50IOecn+eahOimgeiuk+WFtuS7liBvcmlnaW4g6K6A55qE5pmC5YCZ77yM5omN6ZyA6KaB6Kit5a6aIENPUlPjgILkuZ/kuI3opoHmioogQ09SUyDnlbbmiJAgQ1NSRiDnmoTpmLLnt5rvvIzlm6Dngrogc2ltcGxlIHJlcXVlc3Qg5LiN566h5oCO5qij6YO95pyD6YCB5YiwIHNlcnZlcuOAggoK44CIW1hTUyDot58gQ1NSRiDlkITopoHmgI7purzpmLLvvIzngrrku4DpurzlhYjomZXnkIYgWFNTXSgvdjIveHNzLWFuZC1jc3JmLWRlZmVuc2Utc3RhY2sp44CJ5pyJIENTUkYg5a6M5pW055qE6Ziy5rOV44CCCgotLS0KCiMjIOeSsOWigwoKfCDpoIXnm64gfCDniYjmnKwgfAp8LS0tfC0tLXwKfCDns7vntbEgfCBtYWNPUyAxNS4277yIYXJtNjTvvInvvIxOb2RlLmpzIDIyLjIyLjMgfAp8IOeAj+imveWZqCB8IENocm9tZSBmb3IgVGVzdGluZyAxNTYuMC44MDc4Ljcz44CBRmlyZWZveCAxNTkuMO+8jGhlYWRsZXNz77yM55SxIHB1cHBldGVlci1jb3JlIDI1LjE2LjAg6amF5YuVIHwKfCBjdXJsIHwgOC43LjEgfAp8IFZpdGUgfCA3LjMuNyB8CnwgTmV4dC5qcyB8IDE2LjQuM++8iGBuZXh0IGRldmDvvIxUdXJib3BhY2vvvInvvIxSZWFjdCAxOS4zLjEgfAp8IOe1kOaenOS+hua6kCB8IHNlcnZlciDoqJjkuIvnmoTmr4/lgIvoq4vmsYLvvIzku6Xlj4rpoIHpnaLkuIogSmF2YVNjcmlwdCDmi7/liLDnmoTntZDmnpwgfAoKLS0tCgojIyDlj4PogIPos4fmlpkKCi0gW0ZldGNoIFN0YW5kYXJk77yaQ09SUyBwcm90b2NvbOOAgUNPUlMgY2hlY2vjgIFDT1JTLXByZWZsaWdodCBjYWNoZV0oaHR0cHM6Ly9mZXRjaC5zcGVjLndoYXR3Zy5vcmcvKQotIFtTYW1lLU9yaWdpbiBQb2xpY3nvvIhNRE7vvIldKGh0dHBzOi8vZGV2ZWxvcGVyLm1vemlsbGEub3JnL2VuLVVTL2RvY3MvV2ViL1NlY3VyaXR5L0RlZmVuc2VzL1NhbWUtb3JpZ2luX3BvbGljeSkKLSBbQ09SU++8iE1ETu+8iV0oaHR0cHM6Ly9kZXZlbG9wZXIubW96aWxsYS5vcmcvZW4tVVMvZG9jcy9XZWIvSFRUUC9HdWlkZXMvQ09SUykKLSBbVml0ZSBzZXJ2ZXIucHJveHldKGh0dHBzOi8vdml0ZS5kZXYvY29uZmlnL3NlcnZlci1vcHRpb25zLmh0bWwjc2VydmVyLXByb3h5KQotIFtOZXh0LmpzIFJvdXRlIEhhbmRsZXJz77yIcm91dGUuanPvvIldKGh0dHBzOi8vbmV4dGpzLm9yZy9kb2NzL2FwcC9hcGktcmVmZXJlbmNlL2ZpbGUtY29udmVudGlvbnMvcm91dGUpCi0gW05leHQuanMg55Kw5aKD6K6K5pW4XShodHRwczovL25leHRqcy5vcmcvZG9jcy9hcHAvZ3VpZGVzL2Vudmlyb25tZW50LXZhcmlhYmxlcykKLSBbWFNTIOi3nyBDU1JGIOWQhOimgeaAjum6vOmYsu+8jOeCuuS7gOm6vOWFiOiZleeQhiBYU1NdKC92Mi94c3MtYW5kLWNzcmYtZGVmZW5zZS1zdGFjaykKLSBb54K65LuA6bq8IGxvY2FsaG9zdCDoqK3nmoQgY29va2llIOS4jeacg+mAgeWIsCB0aGVtYmFzZS5sb2NhbGhvc3RdKC92Mi9zYW1lc2l0ZS1hbmQtdGhlLXN1YmRvbWFpbi1jb29raWUtYnVnKQotIFtXaHkgZG9lcyBteSBKUyBjb2RlIHJlY2VpdmUgYSBDT1JTIGVycm9yIHdoaWxlIFBvc3RtYW4gZG9lcyBub3Q/77yIU2VudHJ5IGFuc3dlcnPvvIldKGh0dHBzOi8vc2VudHJ5LmlvL2Fuc3dlcnMvd2h5LWRvZXMtbXktamF2YXNjcmlwdC1jb2RlLXJlY2VpdmUtYS1uby1hY2Nlc3MtY29udHJvbC1hbGxvdy1vcmlnaW4taGVhZGVyLWVycm9yLXdoaWxlLXBvc3RtYW4tZG9lcy1ub3QvKQo=17:T81e8,<p>You wire up an API call. Postman returns 200. curl returns 200. The backend engineer checks the logs and says "works fine on my end." The same call in the browser fails, and Chrome's console shows:</p>
+<pre><code>Access to fetch at 'https://api.example.test:8443/none' from origin 'https://app.example.test:8443'
+has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the
+requested resource.
+</code></pre>
+<p>So you go back to the backend: "can you add my origin to the CORS headers?" They do. Next week a new endpoint shows the same error, and you have to ask again.</p>
+<p>Why does only the browser fail?</p>
+<hr>
+<h2>Only the browser checks CORS</h2>
+<p>The same endpoint, which sends no CORS headers, called two ways:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Caller</th><th>Request reached the server</th><th>Caller got the body</th></tr></thead><tbody><tr><td>curl</td><td>yes</td><td>yes</td></tr><tr><td>JavaScript in a page on another origin (Chrome 156, Firefox 159)</td><td>yes</td><td>no, <code>fetch</code> throws a <code>TypeError</code></td></tr></tbody></table>
+<p>The server received the request and answered both times. CORS is a rule the browser applies to JavaScript running in a web page. Postman, curl, and your backend calling another backend don't apply it. So "works in Postman, fails in the browser" is not a contradiction: of these clients, only the browser has the rule.</p>
+<hr>
+<h2>Origin, SOP, and CORS</h2>
+<p>An <strong>origin</strong> is scheme + host + port. Two URLs have the same origin only when all three match:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Page</th><th>Request to</th><th>Same origin?</th></tr></thead><tbody><tr><td><code>https://app.example.com</code></td><td><code>https://app.example.com/api</code></td><td>yes</td></tr><tr><td><code>https://app.example.com</code></td><td><code>https://api.example.com</code></td><td>no, the host differs</td></tr><tr><td><code>http://localhost:5173</code></td><td><code>http://localhost:8080</code></td><td>no, the port differs</td></tr><tr><td><code>http://app.example.com</code></td><td><code>https://app.example.com</code></td><td>no, the scheme differs</td></tr></tbody></table>
+<p><strong>Same-Origin Policy (SOP)</strong> is the browser's default: JavaScript in a page cannot read a response from another origin. Nobody has to switch it on. A frontend at <code>app.example.com</code> reading from <code>api.example.com</code> crosses origins, so the read fails by default.</p>
+<p><strong>CORS (Cross-Origin Resource Sharing)</strong> is how a server lifts that default for the origins it names. The browser adds an <code>Origin</code> header to the request, and the server answers with <code>Access-Control-Allow-Origin</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="http" data-theme="github-dark github-light"><code data-language="http" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">GET</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> /data </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">HTTP</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">/</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">1.1</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">Host</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> api.example.com</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">Origin</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> https://app.example.com</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">HTTP</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">/</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">1.1</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 200</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> OK</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">Access-Control-Allow-Origin</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> https://app.example.com</span></span></code></pre></figure>
+<p>The value matches the page's origin, so the browser hands the response to the JavaScript. Without that header, the browser does not hand it over.</p>
+<h3>Which requests go straight to the server</h3>
+<p>A <strong>simple request</strong> goes out directly. It has to meet all three conditions (<a href="https://fetch.spec.whatwg.org/#cors-safelisted-request-header">Fetch Standard</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CORS#simple_requests">MDN</a>):</p>
+<ol>
+<li>The method is <code>GET</code>, <code>HEAD</code>, or <code>POST</code>.</li>
+<li>Your code sets no headers other than <code>Accept</code>, <code>Accept-Language</code>, <code>Content-Language</code>, and <code>Content-Type</code>, each value at most 128 bytes. (The spec also allows a simple <code>Range</code> header.)</li>
+<li>If <code>Content-Type</code> is set, it is <code>application/x-www-form-urlencoded</code>, <code>multipart/form-data</code>, or <code>text/plain</code>.</li>
+</ol>
+<p>These are roughly the requests an HTML form can send. Headers the browser adds on its own, like <code>Origin</code>, <code>Cookie</code>, and <code>User-Agent</code>, don't count.</p>
+<p>Any other request makes the browser send an <code>OPTIONS</code> request first, the <strong>preflight</strong>, asking the server whether the real request is allowed:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="http" data-theme="github-dark github-light"><code data-language="http" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">OPTIONS</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> /data </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">HTTP</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">/</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">1.1</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">Origin</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> https://app.example.com</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">Access-Control-Request-Method</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> POST</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">Access-Control-Request-Headers</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> content-type</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">HTTP</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">/</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">1.1</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 204</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> No Content</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">Access-Control-Allow-Origin</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> https://app.example.com</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">Access-Control-Allow-Methods</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> POST</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">Access-Control-Allow-Headers</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> content-type</span></span></code></pre></figure>
+<p>Requests from a page to an endpoint with no CORS headers (Chrome 156 and Firefox 159 gave the same results):</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Request</th><th>Preflight</th><th>Server received</th><th>JavaScript read the response</th></tr></thead><tbody><tr><td><code>GET</code></td><td>no</td><td>GET</td><td>no</td></tr><tr><td><code>POST</code>, <code>Content-Type: text/plain</code></td><td>no</td><td>POST</td><td>no</td></tr><tr><td><code>POST</code>, <code>Content-Type: application/json</code></td><td>yes</td><td>OPTIONS only</td><td>no</td></tr><tr><td><code>GET</code> with an <code>Authorization</code> header</td><td>yes</td><td>OPTIONS only</td><td>no</td></tr><tr><td><code>PUT</code></td><td>yes</td><td>OPTIONS only</td><td>no</td></tr></tbody></table>
+<p>For a simple request, the server has already processed it, and CORS only decides whether the JavaScript can read the response. For a preflighted request, if the server does not approve the preflight, the real request is never sent.</p>
+<hr>
+<h2>Send the call through your own origin</h2>
+<p>The error appears because the browser's request goes to a different origin. If the page calls a server on its own origin, and that server calls the API, the browser's request is same-origin. SOP does not apply to same-origin requests, so there is no CORS header to ask the backend for. The call to the API goes from server to server; it does not pass through the browser, so CORS is never checked.</p>
+<pre><code>browser  →  https://app.example.com/api/charge     same origin, no preflight
+server   →  https://api.payments.com/charge        server to server, no CORS
+</code></pre>
+<p>A same-origin <code>POST</code> with <code>Content-Type: application/json</code> and an <code>Authorization</code> header went out as one request, with no preflight, in both browsers.</p>
+<p>In development, Vite's dev server proxy does this:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="js" data-theme="github-dark github-light"><code data-language="js" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// vite.config.js</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">export</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> default</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  server: {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    proxy: {</span></span>
+<span data-line=""><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">      '/api'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">        target: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'https://api.payments.com'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">        changeOrigin: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">true</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">        rewrite</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: (</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">path</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">=></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> path.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">replace</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">/</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">^</span><span style="--shiki-dark:#85E89D;--shiki-dark-font-weight:bold;--shiki-light:#22863A;--shiki-light-font-weight:bold">\/</span><span style="--shiki-dark:#DBEDFF;--shiki-light:#032F62">api</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">/</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">''</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">),</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">      },</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    },</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  },</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>The browser calls <code>/api/charge</code> on the dev server's origin, and Vite forwards it to <code>https://api.payments.com/charge</code>. Without <code>rewrite</code>, Vite keeps the path as it is and the request goes to <code>https://api.payments.com/api/charge</code> (measured on Vite 7.3.7). <code>changeOrigin: true</code> sets the <code>Host</code> header to the target's host.</p>
+<p><code>server.proxy</code> is part of the dev server, so it is gone in production. In production a real server has to be in the path. In the Next.js App Router (13.2 and later), that can be a Route Handler:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="ts" data-theme="github-dark github-light"><code data-language="ts" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">// app/api/charge/route.ts</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">export</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> async</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> function</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> POST</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#FFAB70;--shiki-light:#E36209">req</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">:</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> Request</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">) {</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> body</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> await</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> req.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">json</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  const</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> upstream</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> =</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> await</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> fetch</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'https://api.payments.com/charge'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">, {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    method: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'POST'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    headers: {</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">      Authorization: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">`Bearer ${</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">process</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">.</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">env</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">PAYMENTS_KEY</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">}`</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">      'Content-Type'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">: </span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">'application/json'</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">,</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    },</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">    body: </span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">JSON</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">stringify</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(body),</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  })</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  return</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> Response.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">json</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">await</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> upstream.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">json</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">())</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">}</span></span></code></pre></figure>
+<p>The browser calls <code>/api/charge</code> on its own origin, and your server calls the payment API.</p>
+<p>Besides Route Handlers, the <code>fetch</code> in a Server Action (<code>"use server"</code>) or a Server Component also runs on the server. With one page for each on Next.js 16.4.3, the browser only sent requests to the Next.js server that served the page, and that server called the payment API:</p>
+<pre><code>Route Handler     browser fetch('/api/charge')                     →  Next.js server            →  payment API
+Server Action     browser POSTs the current page (Next-Action header)  →  Next.js server            →  payment API
+Server Component  browser GETs the page                            →  Next.js server, at render  →  payment API
+</code></pre>
+<hr>
+<h2>The same setup keeps the API key out of the browser</h2>
+<p>In the Route Handler, the line <code>Authorization: Bearer ${process.env.PAYMENTS_KEY}</code> runs on the server. According to <a href="https://nextjs.org/docs/app/guides/environment-variables">the Next.js docs</a>, Next.js puts an environment variable into the browser's JavaScript only when its name starts with <code>NEXT_PUBLIC_</code>; <code>PAYMENTS_KEY</code> is available only on the server. The Route Handler, Server Action, and Server Component pages each used the key only to call the payment API, and the key appeared in none of the requests the browser sent and none of the responses it received.</p>
+<p>If the component had called the payment API directly, the key would be in the request the browser makes, in plain text in the DevTools Network tab for anyone who opens it. Routed through your server, the browser's request carries no key. The server adds the key on the server-to-server request, which the user never sees.</p>
+<p>Even without an attacker, a key in the browser has already been handed to whoever uses the page: anything the browser sends shows up in DevTools, and any script running in the page can reach whatever your JavaScript can reach. Obscuring or "encrypting" the key on the client doesn't help, because the code that decrypts it ships to the browser too.</p>
+<p>If a <code>'use client'</code> component reads <code>process.env.PAYMENTS_KEY</code>, the browser's JavaScript gets <code>undefined</code>, but when Next.js renders that component on the server, it gets the real value. A test page rendered the variable, and the key ended up in the HTML (Next.js 16.4.3, <code>next dev</code>).</p>
+<p>Server Components work the same way. When a test page wrote the key into JSX, or passed it as a prop to a <code>'use client'</code> component, the key was in the HTML sent to the browser. When the page used the key only to call the payment API and passed the API's result as a prop to the same <code>'use client'</code> component, the HTML had no key (Next.js 16.4.3, <code>next dev</code>).</p>
+<p>Route Handlers, Server Actions, and Server Components can all read the key, as long as they don't render it and don't pass it as a prop to a <code>'use client'</code> component.</p>
+<p>After this change, <code>/api/charge</code> is an endpoint anyone can call, including your own users with DevTools open, so your server has to authenticate the user and rate-limit the route.</p>
+<hr>
+<h2>When routing through your origin isn't the answer</h2>
+<p>All of the above is about calling someone else's API. Two other situations work differently.</p>
+<p><strong>You own an API that browsers on other origins have to call.</strong> If your public API is meant to be called from other people's web apps, it can't go through your server. Set CORS on purpose and list specific origins. When the request carries cookies, the browser rejects <code>Access-Control-Allow-Origin: *</code> anyway (see the reference table below).</p>
+<p><strong>The request comes from an attacker.</strong> For a simple request, CORS only decides who can read the response, so it does not stop a forged request (CSRF) from reaching your server. The two stories below show what it stops and what it doesn't.</p>
+<details>
+<summary>Deeper: how CORS plays out against an attacker (two stories)</summary>
+<p>Measured in Chrome 156 and Firefox 159. <a href="/v2/samesite-and-the-subdomain-cookie-bug">Why a localhost cookie never reaches thembase.localhost</a> covers <code>SameSite</code> in detail: it is a cookie attribute that limits which cookies go along on requests started by another site. In the test, the bank sets three cookies, whose <code>SameSite</code> is unset, <code>Lax</code>, and <code>None; Secure</code>.</p>
+<p><strong>Story 1: classic CSRF, where CORS plays no part.</strong> A user is logged in to <code>bank.com</code> and opens <code>evil.com</code>, whose page auto-submits a form:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="html" data-theme="github-dark github-light"><code data-language="html" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">form</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> action</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"https://bank.com/transfer"</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> method</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"POST"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  &#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">input</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> name</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"to"</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> value</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"evil-account"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  &#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">input</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> name</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"amount"</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> value</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">=</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"1000"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;/</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">form</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">&#x3C;</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">script</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">>document.forms[</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">0</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">].</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">submit</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">()&#x3C;/</span><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">script</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">></span></span></code></pre></figure>
+<p>A form POST is a simple request, so there is no preflight. It goes straight to <code>bank.com/transfer</code>. Both browsers attached the <code>SameSite=None</code> cookie and the cookie without <code>SameSite</code>, and neither sent the <code>SameSite=Lax</code> cookie. As <a href="/v2/samesite-and-the-subdomain-cookie-bug">Why a localhost cookie never reaches thembase.localhost</a> explains, Chrome sends the cookie without <code>SameSite</code> only under a timing condition. If the session cookie goes along, the bank sees a logged-in user asking for a transfer and, with no other defense, carries it out. The bank's CORS settings play no part here; the defenses against this attack are the <code>SameSite=Lax</code> cookies, CSRF token, and <code>Origin</code> check covered in <a href="/v2/xss-and-csrf-defense-stack">XSS and CSRF: which defense stops which attack</a>.</p>
+<p><strong>Story 2: CSRF with <code>fetch</code>, where CORS helps part way.</strong> <code>evil.com</code> sends the POST with <code>fetch</code>, <code>credentials: 'include'</code> (which makes a cross-origin request carry cookies), and <code>Content-Type: application/json</code>, so a preflight goes first.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Situation</th><th>Result (measured in Chrome 156)</th></tr></thead><tbody><tr><td>The bank sends no CORS headers</td><td>the bank receives only the OPTIONS</td></tr><tr><td>The bank's preflight approves any origin, but the actual response has no CORS headers</td><td>the POST arrives with the <code>SameSite=None</code> cookie; <code>evil.com</code>'s JavaScript can't read the result</td></tr><tr><td>The same JSON body sent as <code>Content-Type: text/plain</code> with <code>mode: 'no-cors'</code></td><td>no preflight; the POST arrives with the <code>SameSite=None</code> cookie</td></tr></tbody></table>
+<p>In the first row, CORS did stop the request. But if the bank parses the body as JSON without checking <code>Content-Type</code>, the attacker only has to drop the header as in the last row, and is back to story 1.</p>
+</details>
+<details>
+<summary>Reference: CORS headers (sent by the browser and by the server)</summary>
+<p>The browser fills in these headers itself; you don't write them in your fetch.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Header</th><th>What it carries</th></tr></thead><tbody><tr><td><code>Origin</code></td><td>The calling page's scheme + host + port</td></tr><tr><td><code>Access-Control-Request-Method</code></td><td>Preflight only. The method the real request will use.</td></tr><tr><td><code>Access-Control-Request-Headers</code></td><td>Preflight only. The headers the real request will set that are not on the simple list.</td></tr></tbody></table>
+<p>You write the server headers in your CORS middleware.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Header</th><th>What it controls</th></tr></thead><tbody><tr><td><code>Access-Control-Allow-Origin</code></td><td>The allowed origin: one origin that matches <code>Origin</code>, or <code>*</code> for any. With <code>credentials: 'include'</code>, <code>*</code> fails.</td></tr><tr><td><code>Access-Control-Allow-Methods</code></td><td>Methods the server accepts from a preflighted request.</td></tr><tr><td><code>Access-Control-Allow-Headers</code></td><td>Headers outside the simple list that the server accepts.</td></tr><tr><td><code>Access-Control-Allow-Credentials</code></td><td>With <code>true</code>, JavaScript may read the response to a request sent with <code>credentials: 'include'</code>. On a preflight, without it the real request is not sent.</td></tr></tbody></table>
+<p>To send cookies on a cross-origin call, the client opts in with <code>fetch(url, { credentials: 'include' })</code> or the older <code>xhr.withCredentials = true</code>.</p>
+</details>
+<hr>
+<h2>API keys, read access, and CSRF: what handles each</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Job</th><th>What does it</th><th>What it stops</th></tr></thead><tbody><tr><td>Keep secrets out of the client</td><td>Route the call through your own server</td><td>Your API key showing up in the browser</td></tr><tr><td>Control who can read your responses</td><td>SOP by default, CORS to open it up</td><td>JavaScript on other origins reading sensitive responses</td></tr><tr><td>Block forged cross-site requests</td><td><code>SameSite</code> cookie + CSRF token + <code>Origin</code> check</td><td>Classic CSRF on simple requests</td></tr></tbody></table>
+<p><strong>If you are the one calling an API, route the call through your own origin.</strong> You skip the CORS setup and keep the key on the server at the same time. Configure CORS only when you own an endpoint that really has to be read from other origins. Don't count CORS as a CSRF defense, because a simple request reaches your server either way.</p>
+<p><a href="/v2/xss-and-csrf-defense-stack">XSS and CSRF: which defense stops which attack</a> covers the CSRF side in full.</p>
+<hr>
+<h2>Environment</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Item</th><th>Version</th></tr></thead><tbody><tr><td>System</td><td>macOS 15.6 (arm64), Node.js 22.22.3</td></tr><tr><td>Browsers</td><td>Chrome for Testing 156.0.8078.73, Firefox 159.0, headless, driven by puppeteer-core 25.16.0</td></tr><tr><td>curl</td><td>8.7.1</td></tr><tr><td>Vite</td><td>7.3.7</td></tr><tr><td>Next.js</td><td>16.4.3 (<code>next dev</code>, Turbopack), React 19.3.1</td></tr><tr><td>Results from</td><td>the server's log of every request it received, and what the page's JavaScript got back</td></tr></tbody></table>
+<hr>
+<h2>References</h2>
+<ul>
+<li><a href="https://fetch.spec.whatwg.org/">Fetch Standard: CORS protocol, CORS check, CORS-preflight cache</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/Security/Defenses/Same-origin_policy">Same-Origin Policy (MDN)</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CORS">CORS (MDN)</a></li>
+<li><a href="https://vite.dev/config/server-options.html#server-proxy">Vite server.proxy</a></li>
+<li><a href="https://nextjs.org/docs/app/api-reference/file-conventions/route">Next.js Route Handlers (route.js)</a></li>
+<li><a href="https://nextjs.org/docs/app/guides/environment-variables">Next.js environment variables</a></li>
+<li><a href="/v2/xss-and-csrf-defense-stack">XSS and CSRF: which defense stops which attack</a></li>
+<li><a href="/v2/samesite-and-the-subdomain-cookie-bug">Why a localhost cookie never reaches thembase.localhost</a></li>
+<li><a href="https://sentry.io/answers/why-does-my-javascript-code-receive-a-no-access-control-allow-origin-header-error-while-postman-does-not/">Why does my JS code receive a CORS error while Postman does not? (Sentry answers)</a></li>
+</ul>8:["$","div",null,{"id":"root","children":["$","main",null,{"id":"main","className":"reading","children":["$","$L13",null,{"htmlContent":"$14","rawContent":"$15","base64Content":"$16","title":"為什麼只有瀏覽器會出現 CORS 錯誤，改從自己的 server 呼叫又為什麼不會","createdAt":"2025-08-02T12:46:00.000Z","updatedAt":"$undefined","tags":["security","cors","nextjs","web","csrf"],"altHtmlContent":"$17","altTitle":"Why only the browser gives you a CORS error, and why a call through your own server doesn't","currentLang":"zh","altLang":"en","canonicalPath":"/v2/server-side-calls-and-cors"}]}]}]

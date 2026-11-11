@@ -1,0 +1,277 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"default"]
+4:I[48350,[],""]
+5:I[11412,[],""]
+6:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+7:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","8512","static/chunks/app/v2/layout-a77fd018998af56d.js"],"default"]
+9:I[96727,[],"OutletBoundary"]
+b:I[14038,[],"AsyncMetadataOutlet"]
+d:I[96727,[],"ViewportBoundary"]
+f:I[96727,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[92950,[],""]
+:HL["/_next/static/media/8760c4774489e4ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/f850d8afe0a1a343.css","style"]
+:HL["/_next/static/css/d3281eaf3cab9132.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/39d05d4f3ac8045a.css","style"]
+0:{"P":null,"b":"oLBG52zFtBhrNey-_iVKb","p":"","c":["","v2","a-packet-walk-through-the-vpc.zh"],"i":false,"f":[[["",{"children":["v2",{"children":[["slug","a-packet-walk-through-the-vpc.zh","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f850d8afe0a1a343.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/d3281eaf3cab9132.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href=\"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap\";document.head.appendChild(l)})()"}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+TC:wght@400;600;700&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&family=VT323&display=swap"}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["v2",["$","$1","c",{"children":[null,[["$","$L7",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","a-packet-walk-through-the-vpc.zh","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/39d05d4f3ac8045a.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+a:null
+c:{"metadata":[["$","title","0",{"children":"跟著一個封包走進 AWS 的 VPC  | jialinhuang"}],["$","meta","1",{"name":"description","content":"security group 開了 inbound 80、outbound rule 全部刪掉，server 照樣能回應 client，因為 security group 會記住連線，NACL 不會。從 internet 跟著一個封包走到 EC2 instance，看它沿路經過哪幾道過濾。"}],["$","link","2",{"rel":"canonical","href":"/v2/a-packet-walk-through-the-vpc"}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"
+13:I[86734,["9489","static/chunks/app/v2/%5Bslug%5D/page-ee8eca34ab4b1584.js"],"MdDoc"]
+14:T1d26,<p>在 security group 上開 inbound port 80，再把 outbound rule 全部刪掉，這台 server 還能回應 client 嗎？</p>
+<p>可以，這台 server 整天都在回應 web client，只是沒辦法自己主動往 internet 開連線。原因在 security group 是 <em>stateful</em> 的。要看懂這件事，可以跟著一個封包從 internet 走到 EC2 instance，看它沿路經過哪幾道過濾。</p>
+<h2>封包會碰到的五個元件</h2>
+<p>VPC 裡的元件不多，每個只負責一件事。</p>
+<ul>
+<li><strong>Internet Gateway（<code>IGW</code>）</strong> 接在 VPC 本身上，<a href="https://docs.aws.amazon.com/vpc/latest/userguide/amazon-vpc-limits.html#vpc-limits-gateways">一個 VPC 只能接一個</a>。VPC 要通 internet，就是經過它。</li>
+<li><strong>Route Table（<code>RT</code>）</strong> 決定流量下一步往哪裡送。</li>
+<li><strong>Subnet</strong> 是放資源的範圍，每個 subnet <strong>只綁一個 <code>RT</code> 跟一個 <code>NACL</code></strong>。</li>
+<li><strong>Network Access Control List（<code>NACL</code>）</strong> 在 subnet 的邊界過濾流量。</li>
+<li><strong>Security Group（<code>SG</code>）</strong> 在 instance 上過濾流量。</li>
+</ul>
+<p>架構圖上常畫一台「VPC router」，實際上並沒有這台機器可以設定，圖上那台代表的就是那些 <code>RT</code>。</p>
+<h2>subnet 怎樣才算 public</h2>
+<p>console 上沒有一個「設成 public」的選項，判斷的依據是 route。</p>
+<p>如果 subnet 的 <code>RT</code> 裡有一筆把流量送到 <code>IGW</code> 的 entry，這個 subnet 就是 public subnet，定義就只有這一筆：</p>
+<pre><code>0.0.0.0/0     igw-xxxxx    # 其他所有目的地：送去 internet
+10.0.0.0/24   local        # VPC 內部的流量（預設就有，無法刪除）
+</code></pre>
+<p><code>/24</code>、<code>/16</code> 這些區塊只是數字，不代表地點。同一段位址可以同時用在三家雲端上而不衝突，這件事另外寫在<a href="/v2/cloud-network-cidr">同一個 /16，三家雲端讓它延伸到多遠</a>。</p>
+<p>另外，subnet 沒辦法直接接到 <code>IGW</code>，中間一定要經過 <code>RT</code>。</p>
+<pre><code>Subnet  →  RT  →  IGW
+</code></pre>
+<p>很多個 <code>RT</code> 可以指向同一個 <code>IGW</code>。不過這個箭頭代表的是 routing 的路徑，<code>IGW</code> 並不屬於 <code>RT</code>。<code>IGW</code> 接在 VPC 上，<code>RT</code> 只是指向它。</p>
+<h2>兩道過濾，只有一道記得連線</h2>
+<p>往 instance 去的封包要經過兩道過濾，而這兩道的運作方式不一樣。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th></th><th><code>SG</code></th><th><code>NACL</code></th></tr></thead><tbody><tr><td>作用在</td><td>instance（它的 network interface，ENI）</td><td>subnet</td></tr><tr><td>記不記得連線</td><td><strong>stateful</strong></td><td><strong>stateless</strong></td></tr><tr><td>rule 方向</td><td>inbound、outbound 都有，outbound rule 只管 instance 自己發起的連線</td><td>inbound、outbound 都有，回應出去也要 outbound rule 放行</td></tr><tr><td>rule 種類</td><td>只有 allow</td><td>allow 跟 deny</td></tr><tr><td>來源</td><td>CIDR、IP、prefix list 或另一個 <code>SG</code></td><td>只有 CIDR</td></tr><tr><td>怎麼評估</td><td>所有 rule 一起看</td><td>編號 1–32766，由小到大，第一條符合的生效</td></tr></tbody></table>
+<p>表格裡的 stateful，意思是 <code>SG</code> 會記住每一條連線。放一個 ping 進來，pong 不用另外寫反方向的 rule 就能出去。<a href="https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html">AWS 的 security group 文件</a>寫明，被允許進來的流量，它的回應不管 outbound rule 怎麼設都可以出去。所以開頭那台 server 只開 inbound 80，就能回應 client。</p>
+<p><code>NACL</code> 不記連線，每個封包都分開判斷，所以一條連線要通，進跟出兩個方向都要有 rule。而且回程那條 rule 要開的也不是 port 80，因為回應是送到 client 的 ephemeral port（client 開連線時臨時挑的 port）。<a href="https://docs.aws.amazon.com/vpc/latest/userguide/custom-network-acl.html#nacl-ephemeral-ports">AWS 的 NACL 文件</a>建議開 1024-65535，才能涵蓋各種 client。</p>
+<blockquote>
+<p><strong>附註：分成兩道是 AWS 特有的設計。</strong> Azure 沒有 stateless 的那一層，它的 <a href="https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview">Network Security Group</a> 不管綁在 subnet 還是 NIC 上都是 stateful。GCP 只有一道 stateful 的 <a href="https://docs.cloud.google.com/firewall/docs/firewalls">VPC firewall</a>，用 network tag 或 service account 指定要套用在哪些機器上。既然底下沒有 stateless 的 <code>NACL</code>，也就不用另外開回程方向。</p>
+</blockquote>
+<h2>封包進來的路徑</h2>
+<p>把進來的封包從頭走到尾：</p>
+<pre><code>IGW  →  VPC 內部路由送到 subnet  →  NACL  →  SG  →  instance
+</code></pre>
+<p>下面這個 embed 的上方有一排選項，除了「全部設好」，點其他任一項就等於拿掉那項設定。例如點「NACL 沒開 outbound 1024–65535」，請求照樣會送到 instance，但回應出去時會在 <code>NACL</code> 被丟掉。按「下一步」時封包往前走一步，embed 下方會同時寫出封包這時的 header，以及封包走到的那個元件（<code>RT</code>、<code>NACL</code> 或 <code>SG</code>）檢查了哪條 rule 或 route。</p>
+<iframe src="/embeds/vpc-packet-walk?lang=zh" width="100%" height="696" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="讓一個封包走一趟 VPC：從 internet 到 instance，再把回應送出去"></iframe>
+<p>進來的封包從頭到尾都沒用到 <code>0.0.0.0/0 → IGW</code> 這筆 route。封包抵達時，目的地是 instance 的 public IP，<code>IGW</code> 會<a href="https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html#ip-addresses-and-nat">把它換成 private IP</a>。private IP 在 VPC 的位址範圍內，所以接下來由 VPC 內部的路由送到 subnet。<code>0.0.0.0/0 → IGW</code> 要等到回應的時候才用上，因為那時的目的地是 internet 上的某個 IP。也就是說，讓 subnet 變成 public 的那筆 route，只有出去的流量會用到。</p>
+<p><code>RT</code> 跟 <code>NACL</code> 都綁在 subnet 上，所以常被搞混，但兩者做的事不同。<code>RT</code> 決定下一個 hop 往哪裡走，<code>NACL</code> 決定這個封包放不放行。</p>
+<h2>整理</h2>
+<p>public subnet 指的是 route table 裡有一筆通往 <code>IGW</code> 的 route，而這筆 route 只在流量出去時用到。<code>RT</code> 選下一個 hop，<code>NACL</code> 決定放不放行，只有 <code>SG</code> 記得連線。</p>
+<h2>參考資料</h2>
+<ul>
+<li><a href="https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview">Azure network security groups overview</a>：Microsoft Learn。NSG 是 stateful，可以綁在 subnet 或 NIC 上。</li>
+<li><a href="https://docs.cloud.google.com/firewall/docs/firewalls">VPC firewall rules</a>：Google Cloud。firewall rule 是 stateful，用 network tag 或 service account 指定對象。</li>
+</ul>15:T1882,
+在 security group 上開 inbound port 80，再把 outbound rule 全部刪掉，這台 server 還能回應 client 嗎？
+
+可以，這台 server 整天都在回應 web client，只是沒辦法自己主動往 internet 開連線。原因在 security group 是 *stateful* 的。要看懂這件事，可以跟著一個封包從 internet 走到 EC2 instance，看它沿路經過哪幾道過濾。
+
+## 封包會碰到的五個元件
+
+VPC 裡的元件不多，每個只負責一件事。
+
+- **Internet Gateway（`IGW`）** 接在 VPC 本身上，[一個 VPC 只能接一個](https://docs.aws.amazon.com/vpc/latest/userguide/amazon-vpc-limits.html#vpc-limits-gateways)。VPC 要通 internet，就是經過它。
+- **Route Table（`RT`）** 決定流量下一步往哪裡送。
+- **Subnet** 是放資源的範圍，每個 subnet **只綁一個 `RT` 跟一個 `NACL`**。
+- **Network Access Control List（`NACL`）** 在 subnet 的邊界過濾流量。
+- **Security Group（`SG`）** 在 instance 上過濾流量。
+
+架構圖上常畫一台「VPC router」，實際上並沒有這台機器可以設定，圖上那台代表的就是那些 `RT`。
+
+## subnet 怎樣才算 public
+
+console 上沒有一個「設成 public」的選項，判斷的依據是 route。
+
+如果 subnet 的 `RT` 裡有一筆把流量送到 `IGW` 的 entry，這個 subnet 就是 public subnet，定義就只有這一筆：
+
+```
+0.0.0.0/0     igw-xxxxx    # 其他所有目的地：送去 internet
+10.0.0.0/24   local        # VPC 內部的流量（預設就有，無法刪除）
+```
+
+`/24`、`/16` 這些區塊只是數字，不代表地點。同一段位址可以同時用在三家雲端上而不衝突，這件事另外寫在[同一個 /16，三家雲端讓它延伸到多遠](/v2/cloud-network-cidr)。
+
+另外，subnet 沒辦法直接接到 `IGW`，中間一定要經過 `RT`。
+
+```
+Subnet  →  RT  →  IGW
+```
+
+很多個 `RT` 可以指向同一個 `IGW`。不過這個箭頭代表的是 routing 的路徑，`IGW` 並不屬於 `RT`。`IGW` 接在 VPC 上，`RT` 只是指向它。
+
+## 兩道過濾，只有一道記得連線
+
+往 instance 去的封包要經過兩道過濾，而這兩道的運作方式不一樣。
+
+| | `SG` | `NACL` |
+|---|---|---|
+| 作用在 | instance（它的 network interface，ENI） | subnet |
+| 記不記得連線 | **stateful** | **stateless** |
+| rule 方向 | inbound、outbound 都有，outbound rule 只管 instance 自己發起的連線 | inbound、outbound 都有，回應出去也要 outbound rule 放行 |
+| rule 種類 | 只有 allow | allow 跟 deny |
+| 來源 | CIDR、IP、prefix list 或另一個 `SG` | 只有 CIDR |
+| 怎麼評估 | 所有 rule 一起看 | 編號 1–32766，由小到大，第一條符合的生效 |
+
+表格裡的 stateful，意思是 `SG` 會記住每一條連線。放一個 ping 進來，pong 不用另外寫反方向的 rule 就能出去。[AWS 的 security group 文件](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html)寫明，被允許進來的流量，它的回應不管 outbound rule 怎麼設都可以出去。所以開頭那台 server 只開 inbound 80，就能回應 client。
+
+`NACL` 不記連線，每個封包都分開判斷，所以一條連線要通，進跟出兩個方向都要有 rule。而且回程那條 rule 要開的也不是 port 80，因為回應是送到 client 的 ephemeral port（client 開連線時臨時挑的 port）。[AWS 的 NACL 文件](https://docs.aws.amazon.com/vpc/latest/userguide/custom-network-acl.html#nacl-ephemeral-ports)建議開 1024-65535，才能涵蓋各種 client。
+
+> **附註：分成兩道是 AWS 特有的設計。** Azure 沒有 stateless 的那一層，它的 [Network Security Group](https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview) 不管綁在 subnet 還是 NIC 上都是 stateful。GCP 只有一道 stateful 的 [VPC firewall](https://docs.cloud.google.com/firewall/docs/firewalls)，用 network tag 或 service account 指定要套用在哪些機器上。既然底下沒有 stateless 的 `NACL`，也就不用另外開回程方向。
+
+## 封包進來的路徑
+
+把進來的封包從頭走到尾：
+
+```
+IGW  →  VPC 內部路由送到 subnet  →  NACL  →  SG  →  instance
+```
+
+下面這個 embed 的上方有一排選項，除了「全部設好」，點其他任一項就等於拿掉那項設定。例如點「NACL 沒開 outbound 1024–65535」，請求照樣會送到 instance，但回應出去時會在 `NACL` 被丟掉。按「下一步」時封包往前走一步，embed 下方會同時寫出封包這時的 header，以及封包走到的那個元件（`RT`、`NACL` 或 `SG`）檢查了哪條 rule 或 route。
+
+<iframe src="/embeds/vpc-packet-walk?lang=zh" width="100%" height="696" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="讓一個封包走一趟 VPC：從 internet 到 instance，再把回應送出去"></iframe>
+
+進來的封包從頭到尾都沒用到 `0.0.0.0/0 → IGW` 這筆 route。封包抵達時，目的地是 instance 的 public IP，`IGW` 會[把它換成 private IP](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html#ip-addresses-and-nat)。private IP 在 VPC 的位址範圍內，所以接下來由 VPC 內部的路由送到 subnet。`0.0.0.0/0 → IGW` 要等到回應的時候才用上，因為那時的目的地是 internet 上的某個 IP。也就是說，讓 subnet 變成 public 的那筆 route，只有出去的流量會用到。
+
+`RT` 跟 `NACL` 都綁在 subnet 上，所以常被搞混，但兩者做的事不同。`RT` 決定下一個 hop 往哪裡走，`NACL` 決定這個封包放不放行。
+
+## 整理
+
+public subnet 指的是 route table 裡有一筆通往 `IGW` 的 route，而這筆 route 只在流量出去時用到。`RT` 選下一個 hop，`NACL` 決定放不放行，只有 `SG` 記得連線。
+
+## 參考資料
+
+- [Azure network security groups overview](https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview)：Microsoft Learn。NSG 是 stateful，可以綁在 subnet 或 NIC 上。
+- [VPC firewall rules](https://docs.cloud.google.com/firewall/docs/firewalls)：Google Cloud。firewall rule 是 stateful，用 network tag 或 service account 指定對象。
+16:T2294,LS0tCnRpdGxlOiAi6Lef6JGX5LiA5YCL5bCB5YyF6LWw6YCyIEFXUyDnmoQgVlBDIgpkYXRlOiAyMDI0LTA5LTI5VDA5OjQ3OjAwCnRhZ3M6IFtjbG91ZCwgbmV0d29yaywgYXdzXQpkZXNjcmlwdGlvbjogInNlY3VyaXR5IGdyb3VwIOmWi+S6hiBpbmJvdW5kIDgw44CBb3V0Ym91bmQgcnVsZSDlhajpg6jliKrmjonvvIxzZXJ2ZXIg54Wn5qij6IO95Zue5oeJIGNsaWVudO+8jOWboOeCuiBzZWN1cml0eSBncm91cCDmnIPoqJjkvY/pgKPnt5rvvIxOQUNMIOS4jeacg+OAguW+niBpbnRlcm5ldCDot5/okZfkuIDlgIvlsIHljIXotbDliLAgRUMyIGluc3RhbmNl77yM55yL5a6D5rK/6Lev57aT6YGO5ZOq5bm+6YGT6YGO5r++44CCIgotLS0KCuWcqCBzZWN1cml0eSBncm91cCDkuIrplosgaW5ib3VuZCBwb3J0IDgw77yM5YaN5oqKIG91dGJvdW5kIHJ1bGUg5YWo6YOo5Yiq5o6J77yM6YCZ5Y+wIHNlcnZlciDpgoTog73lm57mh4kgY2xpZW50IOWXju+8nwoK5Y+v5Lul77yM6YCZ5Y+wIHNlcnZlciDmlbTlpKnpg73lnKjlm57mh4kgd2ViIGNsaWVudO+8jOWPquaYr+aykui+puazleiHquW3seS4u+WLleW+gCBpbnRlcm5ldCDplovpgKPnt5rjgILljp/lm6DlnKggc2VjdXJpdHkgZ3JvdXAg5pivICpzdGF0ZWZ1bCog55qE44CC6KaB55yL5oeC6YCZ5Lu25LqL77yM5Y+v5Lul6Lef6JGX5LiA5YCL5bCB5YyF5b6eIGludGVybmV0IOi1sOWIsCBFQzIgaW5zdGFuY2XvvIznnIvlroPmsr/ot6/ntpPpgY7lk6rlub7pgZPpgY7mv77jgIIKCiMjIOWwgeWMheacg+eisOWIsOeahOS6lOWAi+WFg+S7tgoKVlBDIOijoeeahOWFg+S7tuS4jeWkmu+8jOavj+WAi+WPquiyoOiyrOS4gOS7tuS6i+OAggoKLSAqKkludGVybmV0IEdhdGV3YXnvvIhgSUdXYO+8iSoqIOaOpeWcqCBWUEMg5pys6Lqr5LiK77yMW+S4gOWAiyBWUEMg5Y+q6IO95o6l5LiA5YCLXShodHRwczovL2RvY3MuYXdzLmFtYXpvbi5jb20vdnBjL2xhdGVzdC91c2VyZ3VpZGUvYW1hem9uLXZwYy1saW1pdHMuaHRtbCN2cGMtbGltaXRzLWdhdGV3YXlzKeOAglZQQyDopoHpgJogaW50ZXJuZXTvvIzlsLHmmK/ntpPpgY7lroPjgIIKLSAqKlJvdXRlIFRhYmxl77yIYFJUYO+8iSoqIOaxuuWumua1gemHj+S4i+S4gOatpeW+gOWTquijoemAgeOAggotICoqU3VibmV0Kiog5piv5pS+6LOH5rqQ55qE56+E5ZyN77yM5q+P5YCLIHN1Ym5ldCAqKuWPque2geS4gOWAiyBgUlRgIOi3n+S4gOWAiyBgTkFDTGAqKuOAggotICoqTmV0d29yayBBY2Nlc3MgQ29udHJvbCBMaXN077yIYE5BQ0xg77yJKiog5ZyoIHN1Ym5ldCDnmoTpgornlYzpgY7mv77mtYHph4/jgIIKLSAqKlNlY3VyaXR5IEdyb3Vw77yIYFNHYO+8iSoqIOWcqCBpbnN0YW5jZSDkuIrpgY7mv77mtYHph4/jgIIKCuaetuani+WcluS4iuW4uOeVq+S4gOWPsOOAjFZQQyByb3V0ZXLjgI3vvIzlr6bpmpvkuIrkuKbmspLmnInpgJnlj7DmqZ/lmajlj6/ku6XoqK3lrprvvIzlnJbkuIrpgqPlj7Dku6PooajnmoTlsLHmmK/pgqPkupsgYFJUYOOAggoKIyMgc3VibmV0IOaAjuaoo+aJjeeulyBwdWJsaWMKCmNvbnNvbGUg5LiK5rKS5pyJ5LiA5YCL44CM6Kit5oiQIHB1YmxpY+OAjeeahOmBuOmghe+8jOWIpOaWt+eahOS+neaTmuaYryByb3V0ZeOAggoK5aaC5p6cIHN1Ym5ldCDnmoQgYFJUYCDoo6HmnInkuIDnrYbmiormtYHph4/pgIHliLAgYElHV2Ag55qEIGVudHJ577yM6YCZ5YCLIHN1Ym5ldCDlsLHmmK8gcHVibGljIHN1Ym5ldO+8jOWumue+qeWwseWPquaciemAmeS4gOethu+8mgoKYGBgCjAuMC4wLjAvMCAgICAgaWd3LXh4eHh4ICAgICMg5YW25LuW5omA5pyJ55uu55qE5Zyw77ya6YCB5Y67IGludGVybmV0CjEwLjAuMC4wLzI0ICAgbG9jYWwgICAgICAgICMgVlBDIOWFp+mDqOeahOa1gemHj++8iOmgkOioreWwseacie+8jOeEoeazleWIqumZpO+8iQpgYGAKCmAvMjRg44CBYC8xNmAg6YCZ5Lqb5Y2A5aGK5Y+q5piv5pW45a2X77yM5LiN5Luj6KGo5Zyw6bue44CC5ZCM5LiA5q615L2N5Z2A5Y+v5Lul5ZCM5pmC55So5Zyo5LiJ5a626Zuy56uv5LiK6ICM5LiN6KGd56qB77yM6YCZ5Lu25LqL5Y+m5aSW5a+r5ZyoW+WQjOS4gOWAiyAvMTbvvIzkuInlrrbpm7Lnq6/orpPlroPlu7bkvLjliLDlpJrpgaBdKC92Mi9jbG91ZC1uZXR3b3JrLWNpZHIp44CCCgrlj6blpJbvvIxzdWJuZXQg5rKS6L6m5rOV55u05o6l5o6l5YiwIGBJR1dg77yM5Lit6ZaT5LiA5a6a6KaB57aT6YGOIGBSVGDjgIIKCmBgYApTdWJuZXQgIOKGkiAgUlQgIOKGkiAgSUdXCmBgYAoK5b6I5aSa5YCLIGBSVGAg5Y+v5Lul5oyH5ZCR5ZCM5LiA5YCLIGBJR1dg44CC5LiN6YGO6YCZ5YCL566t6aCt5Luj6KGo55qE5pivIHJvdXRpbmcg55qE6Lev5b6R77yMYElHV2Ag5Lim5LiN5bGs5pa8IGBSVGDjgIJgSUdXYCDmjqXlnKggVlBDIOS4iu+8jGBSVGAg5Y+q5piv5oyH5ZCR5a6D44CCCgojIyDlhanpgZPpgY7mv77vvIzlj6rmnInkuIDpgZPoqJjlvpfpgKPnt5oKCuW+gCBpbnN0YW5jZSDljrvnmoTlsIHljIXopoHntpPpgY7lhanpgZPpgY7mv77vvIzogIzpgJnlhanpgZPnmoTpgYvkvZzmlrnlvI/kuI3kuIDmqKPjgIIKCnwgfCBgU0dgIHwgYE5BQ0xgIHwKfC0tLXwtLS18LS0tfAp8IOS9nOeUqOWcqCB8IGluc3RhbmNl77yI5a6D55qEIG5ldHdvcmsgaW50ZXJmYWNl77yMRU5J77yJIHwgc3VibmV0IHwKfCDoqJjkuI3oqJjlvpfpgKPnt5ogfCAqKnN0YXRlZnVsKiogfCAqKnN0YXRlbGVzcyoqIHwKfCBydWxlIOaWueWQkSB8IGluYm91bmTjgIFvdXRib3VuZCDpg73mnInvvIxvdXRib3VuZCBydWxlIOWPqueuoSBpbnN0YW5jZSDoh6rlt7HnmbzotbfnmoTpgKPnt5ogfCBpbmJvdW5k44CBb3V0Ym91bmQg6YO95pyJ77yM5Zue5oeJ5Ye65Y675Lmf6KaBIG91dGJvdW5kIHJ1bGUg5pS+6KGMIHwKfCBydWxlIOeorumhniB8IOWPquaciSBhbGxvdyB8IGFsbG93IOi3nyBkZW55IHwKfCDkvobmupAgfCBDSURS44CBSVDjgIFwcmVmaXggbGlzdCDmiJblj6bkuIDlgIsgYFNHYCB8IOWPquaciSBDSURSIHwKfCDmgI7purzoqZXkvLAgfCDmiYDmnIkgcnVsZSDkuIDotbfnnIsgfCDnt6jomZ8gMeKAkzMyNzY277yM55Sx5bCP5Yiw5aSn77yM56ys5LiA5qKd56ym5ZCI55qE55Sf5pWIIHwKCuihqOagvOijoeeahCBzdGF0ZWZ1bO+8jOaEj+aAneaYryBgU0dgIOacg+iomOS9j+avj+S4gOainemAo+e3muOAguaUvuS4gOWAiyBwaW5nIOmAsuS+hu+8jHBvbmcg5LiN55So5Y+m5aSW5a+r5Y+N5pa55ZCR55qEIHJ1bGUg5bCx6IO95Ye65Y6744CCW0FXUyDnmoQgc2VjdXJpdHkgZ3JvdXAg5paH5Lu2XShodHRwczovL2RvY3MuYXdzLmFtYXpvbi5jb20vdnBjL2xhdGVzdC91c2VyZ3VpZGUvdnBjLXNlY3VyaXR5LWdyb3Vwcy5odG1sKeWvq+aYju+8jOiiq+WFgeiosemAsuS+hueahOa1gemHj++8jOWug+eahOWbnuaHieS4jeeuoSBvdXRib3VuZCBydWxlIOaAjum6vOioremDveWPr+S7peWHuuWOu+OAguaJgOS7pemWi+mgremCo+WPsCBzZXJ2ZXIg5Y+q6ZaLIGluYm91bmQgODDvvIzlsLHog73lm57mh4kgY2xpZW5044CCCgpgTkFDTGAg5LiN6KiY6YCj57ea77yM5q+P5YCL5bCB5YyF6YO95YiG6ZaL5Yik5pa377yM5omA5Lul5LiA5qKd6YCj57ea6KaB6YCa77yM6YCy6Lef5Ye65YWp5YCL5pa55ZCR6YO96KaB5pyJIHJ1bGXjgILogIzkuJTlm57nqIvpgqPmop0gcnVsZSDopoHplovnmoTkuZ/kuI3mmK8gcG9ydCA4MO+8jOWboOeCuuWbnuaHieaYr+mAgeWIsCBjbGllbnQg55qEIGVwaGVtZXJhbCBwb3J077yIY2xpZW50IOmWi+mAo+e3muaZguiHqOaZguaMkeeahCBwb3J077yJ44CCW0FXUyDnmoQgTkFDTCDmlofku7ZdKGh0dHBzOi8vZG9jcy5hd3MuYW1hem9uLmNvbS92cGMvbGF0ZXN0L3VzZXJndWlkZS9jdXN0b20tbmV0d29yay1hY2wuaHRtbCNuYWNsLWVwaGVtZXJhbC1wb3J0cynlu7rorbDplosgMTAyNC02NTUzNe+8jOaJjeiDvea2teiTi+WQhOeoriBjbGllbnTjgIIKCj4gKirpmYToqLvvvJrliIbmiJDlhanpgZPmmK8gQVdTIOeJueacieeahOioreioiOOAgioqIEF6dXJlIOaykuaciSBzdGF0ZWxlc3Mg55qE6YKj5LiA5bGk77yM5a6D55qEIFtOZXR3b3JrIFNlY3VyaXR5IEdyb3VwXShodHRwczovL2xlYXJuLm1pY3Jvc29mdC5jb20vZW4tdXMvYXp1cmUvdmlydHVhbC1uZXR3b3JrL25ldHdvcmstc2VjdXJpdHktZ3JvdXBzLW92ZXJ2aWV3KSDkuI3nrqHntoHlnKggc3VibmV0IOmChOaYryBOSUMg5LiK6YO95pivIHN0YXRlZnVs44CCR0NQIOWPquacieS4gOmBkyBzdGF0ZWZ1bCDnmoQgW1ZQQyBmaXJld2FsbF0oaHR0cHM6Ly9kb2NzLmNsb3VkLmdvb2dsZS5jb20vZmlyZXdhbGwvZG9jcy9maXJld2FsbHMp77yM55SoIG5ldHdvcmsgdGFnIOaIliBzZXJ2aWNlIGFjY291bnQg5oyH5a6a6KaB5aWX55So5Zyo5ZOq5Lqb5qmf5Zmo5LiK44CC5pei54S25bqV5LiL5rKS5pyJIHN0YXRlbGVzcyDnmoQgYE5BQ0xg77yM5Lmf5bCx5LiN55So5Y+m5aSW6ZaL5Zue56iL5pa55ZCR44CCCgojIyDlsIHljIXpgLLkvobnmoTot6/lvpEKCuaKiumAsuS+hueahOWwgeWMheW+numgrei1sOWIsOWwvu+8mgoKYGBgCklHVyAg4oaSICBWUEMg5YWn6YOo6Lev55Sx6YCB5YiwIHN1Ym5ldCAg4oaSICBOQUNMICDihpIgIFNHICDihpIgIGluc3RhbmNlCmBgYAoK5LiL6Z2i6YCZ5YCLIGVtYmVkIOeahOS4iuaWueacieS4gOaOkumBuOmghe+8jOmZpOS6huOAjOWFqOmDqOioreWlveOAje+8jOm7nuWFtuS7luS7u+S4gOmgheWwseetieaWvOaLv+aOiemCo+mgheioreWumuOAguS+i+Wmgum7nuOAjE5BQ0wg5rKS6ZaLIG91dGJvdW5kIDEwMjTigJM2NTUzNeOAje+8jOiri+axgueFp+aoo+acg+mAgeWIsCBpbnN0YW5jZe+8jOS9huWbnuaHieWHuuWOu+aZguacg+WcqCBgTkFDTGAg6KKr5Lif5o6J44CC5oyJ44CM5LiL5LiA5q2l44CN5pmC5bCB5YyF5b6A5YmN6LWw5LiA5q2l77yMZW1iZWQg5LiL5pa55pyD5ZCM5pmC5a+r5Ye65bCB5YyF6YCZ5pmC55qEIGhlYWRlcu+8jOS7peWPiuWwgeWMhei1sOWIsOeahOmCo+WAi+WFg+S7tu+8iGBSVGDjgIFgTkFDTGAg5oiWIGBTR2DvvInmqqLmn6Xkuoblk6rmop0gcnVsZSDmiJYgcm91dGXjgIIKCjxpZnJhbWUgc3JjPSIvZW1iZWRzL3ZwYy1wYWNrZXQtd2Fsaz9sYW5nPXpoIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI2OTYiIHN0eWxlPSJib3JkZXI6MDtkaXNwbGF5OmJsb2NrO21hcmdpbjoxLjVyZW0gMCAyLjVyZW0iIGxvYWRpbmc9ImxhenkiIHRpdGxlPSLorpPkuIDlgIvlsIHljIXotbDkuIDotp8gVlBD77ya5b6eIGludGVybmV0IOWIsCBpbnN0YW5jZe+8jOWGjeaKiuWbnuaHiemAgeWHuuWOuyI+PC9pZnJhbWU+CgrpgLLkvobnmoTlsIHljIXlvp7poK3liLDlsL7pg73mspLnlKjliLAgYDAuMC4wLjAvMCDihpIgSUdXYCDpgJnnrYYgcm91dGXjgILlsIHljIXmirXpgZTmmYLvvIznm67nmoTlnLDmmK8gaW5zdGFuY2Ug55qEIHB1YmxpYyBJUO+8jGBJR1dgIOacg1vmiorlroPmj5vmiJAgcHJpdmF0ZSBJUF0oaHR0cHM6Ly9kb2NzLmF3cy5hbWF6b24uY29tL3ZwYy9sYXRlc3QvdXNlcmd1aWRlL1ZQQ19JbnRlcm5ldF9HYXRld2F5Lmh0bWwjaXAtYWRkcmVzc2VzLWFuZC1uYXQp44CCcHJpdmF0ZSBJUCDlnKggVlBDIOeahOS9jeWdgOevhOWcjeWFp++8jOaJgOS7peaOpeS4i+S+hueUsSBWUEMg5YWn6YOo55qE6Lev55Sx6YCB5YiwIHN1Ym5ldOOAgmAwLjAuMC4wLzAg4oaSIElHV2Ag6KaB562J5Yiw5Zue5oeJ55qE5pmC5YCZ5omN55So5LiK77yM5Zug54K66YKj5pmC55qE55uu55qE5Zyw5pivIGludGVybmV0IOS4iueahOafkOWAiyBJUOOAguS5n+WwseaYr+iqqu+8jOiukyBzdWJuZXQg6K6K5oiQIHB1YmxpYyDnmoTpgqPnrYYgcm91dGXvvIzlj6rmnInlh7rljrvnmoTmtYHph4/mnIPnlKjliLDjgIIKCmBSVGAg6LefIGBOQUNMYCDpg73ntoHlnKggc3VibmV0IOS4iu+8jOaJgOS7peW4uOiiq+aQnua3t++8jOS9huWFqeiAheWBmueahOS6i+S4jeWQjOOAgmBSVGAg5rG65a6a5LiL5LiA5YCLIGhvcCDlvoDlk6roo6HotbDvvIxgTkFDTGAg5rG65a6a6YCZ5YCL5bCB5YyF5pS+5LiN5pS+6KGM44CCCgojIyDmlbTnkIYKCnB1YmxpYyBzdWJuZXQg5oyH55qE5pivIHJvdXRlIHRhYmxlIOijoeacieS4gOethumAmuW+gCBgSUdXYCDnmoQgcm91dGXvvIzogIzpgJnnrYYgcm91dGUg5Y+q5Zyo5rWB6YeP5Ye65Y675pmC55So5Yiw44CCYFJUYCDpgbjkuIvkuIDlgIsgaG9w77yMYE5BQ0xgIOaxuuWumuaUvuS4jeaUvuihjO+8jOWPquaciSBgU0dgIOiomOW+l+mAo+e3muOAggoKIyMg5Y+D6ICD6LOH5paZCgotIFtBenVyZSBuZXR3b3JrIHNlY3VyaXR5IGdyb3VwcyBvdmVydmlld10oaHR0cHM6Ly9sZWFybi5taWNyb3NvZnQuY29tL2VuLXVzL2F6dXJlL3ZpcnR1YWwtbmV0d29yay9uZXR3b3JrLXNlY3VyaXR5LWdyb3Vwcy1vdmVydmlldynvvJpNaWNyb3NvZnQgTGVhcm7jgIJOU0cg5pivIHN0YXRlZnVs77yM5Y+v5Lul57aB5ZyoIHN1Ym5ldCDmiJYgTklDIOS4iuOAggotIFtWUEMgZmlyZXdhbGwgcnVsZXNdKGh0dHBzOi8vZG9jcy5jbG91ZC5nb29nbGUuY29tL2ZpcmV3YWxsL2RvY3MvZmlyZXdhbGxzKe+8mkdvb2dsZSBDbG91ZOOAgmZpcmV3YWxsIHJ1bGUg5pivIHN0YXRlZnVs77yM55SoIG5ldHdvcmsgdGFnIOaIliBzZXJ2aWNlIGFjY291bnQg5oyH5a6a5bCN6LGh44CCCg==17:T1c69,<p>Open inbound port 80 on a security group. Delete every outbound rule. Can the server still reply?</p>
+<p>It sounds like it shouldn't. It can.</p>
+<p>That server answers web clients all day. It just can't open a connection to the internet on its own. One word hides the trick: <em>stateful</em>. To see it, follow one packet from the internet to an EC2 instance, and watch which walls it hits.</p>
+<h2>The five things a packet meets</h2>
+<p>A VPC has a small cast, and each member does exactly one job.</p>
+<ul>
+<li><strong>Internet Gateway (<code>IGW</code>)</strong> attaches to the VPC itself, <a href="https://docs.aws.amazon.com/vpc/latest/userguide/amazon-vpc-limits.html#vpc-limits-gateways">one per VPC</a>. It is the VPC's door to the internet.</li>
+<li><strong>Route Table (<code>RT</code>)</strong> decides where traffic goes next.</li>
+<li><strong>Subnet</strong> is a box for resources. It carries <strong>one <code>RT</code> and one <code>NACL</code></strong>.</li>
+<li><strong>Network Access Control List (<code>NACL</code>)</strong> filters at the subnet edge.</li>
+<li><strong>Security Group (<code>SG</code>)</strong> filters at the instance.</li>
+</ul>
+<p>The "VPC router" you see in architecture diagrams is not a real box. It is a picture of the <code>RT</code>s.</p>
+<h2>What actually makes a subnet "public"</h2>
+<p>Not a checkbox. A route.</p>
+<p>A subnet is public when its <code>RT</code> holds an entry that sends traffic to the <code>IGW</code>. That entry, and nothing else, is the definition:</p>
+<pre><code>0.0.0.0/0     igw-xxxxx    # everything else: out to the internet
+10.0.0.0/24   local        # traffic inside the VPC (default, can't be removed)
+</code></pre>
+<p>Those <code>/24</code> and <code>/16</code> blocks are just numbers, not places. The same block can live in three clouds at once without colliding, which is its own surprise: see <a href="/v2/cloud-network-cidr">Same /16, the big 3 cloud providers differ on how far it reaches</a>.</p>
+<p>One more rule people trip on: a subnet cannot attach to an <code>IGW</code> directly. The link runs through the <code>RT</code>.</p>
+<pre><code>Subnet  →  RT  →  IGW
+</code></pre>
+<p>Many <code>RT</code>s can point at the same <code>IGW</code>. But the arrow is a routing path, not ownership: the <code>IGW</code> hangs off the VPC, and the <code>RT</code> only points at it.</p>
+<h2>Two walls, and only one remembers you</h2>
+<p>A packet heading for your instance passes two filters. They are not the same kind of wall.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th></th><th><code>SG</code></th><th><code>NACL</code></th></tr></thead><tbody><tr><td>Level</td><td>the instance (its network interface, ENI)</td><td>the subnet</td></tr><tr><td>Memory</td><td><strong>stateful</strong></td><td><strong>stateless</strong></td></tr><tr><td>Rule direction</td><td>inbound and outbound; outbound rules only apply to connections the instance opens</td><td>inbound and outbound; replies also need an outbound rule to get out</td></tr><tr><td>Rules</td><td>allow only</td><td>allow and deny</td></tr><tr><td>Sources</td><td>CIDR, IP, prefix list, or another <code>SG</code></td><td>CIDR only</td></tr><tr><td>Evaluation</td><td>all rules at once</td><td>numbered 1–32766, first match wins</td></tr></tbody></table>
+<p>That is <em>stateful</em>. The <code>SG</code> tracks the connection, not the port. Allow a ping in, and the pong goes back out for free, no reverse rule. <a href="https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html">AWS's security group page</a> puts it plainly: responses to allowed inbound traffic leave "regardless of the outbound rules". That resolves the opening puzzle: inbound 80 alone is enough to serve clients.</p>
+<p>The <code>NACL</code> tracks nothing. It judges every packet alone, ping and pong alike, so a working flow needs a rule in both directions. The return rule is not port 80: the reply goes to the client's ephemeral port, and <a href="https://docs.aws.amazon.com/vpc/latest/userguide/custom-network-acl.html#nacl-ephemeral-ports">AWS's NACL guide</a> suggests opening 1024-65535 to cover every kind of client.</p>
+<blockquote>
+<p><strong>Caveat: the two-wall split is an AWS quirk.</strong> Azure has no stateless layer: its <a href="https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview">Network Security Group</a> is stateful whether attached to a subnet or a NIC. GCP gives you one stateful <a href="https://docs.cloud.google.com/firewall/docs/firewalls">VPC firewall</a>, targeted by network tag or service account. With no stateless <code>NACL</code> underneath, the "open the return direction" chore never shows up.</p>
+</blockquote>
+<h2>The path in, and the part everyone forgets</h2>
+<p>Trace the inbound packet end to end:</p>
+<pre><code>IGW  →  VPC routing delivers it to the subnet  →  NACL  →  SG  →  instance
+</code></pre>
+<p>Apart from "Everything set up", each option along the top of the embed below removes one setting. Pick "NACL: no outbound 1024–65535", for example, and the request still reaches the instance, but the reply is dropped at the <code>NACL</code> on its way out. Each press of Next moves the packet one step, and the panel shows its header at that point and which rule or route the component it has reached (<code>RT</code>, <code>NACL</code> or <code>SG</code>) checks.</p>
+<iframe src="/embeds/vpc-packet-walk" width="100%" height="745" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="Roll one packet through the VPC: from the internet to the instance and the reply back out"></iframe>
+<p>Here is the part that surprises people: the inbound packet never uses <code>0.0.0.0/0 → IGW</code>. It arrives addressed to the instance's public IP, and the <code>IGW</code> <a href="https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html#ip-addresses-and-nat">translates that to the private IP</a>, which sits inside the VPC's range, so routing inside the VPC delivers it. <code>0.0.0.0/0 → IGW</code> speaks up only on the reply, when the destination is some internet IP. So the route that makes a subnet public is for the trip out, not the trip in.</p>
+<p>Both the <code>RT</code> and the <code>NACL</code> attach to the subnet, which is why people mix them up. They do different jobs: the <code>RT</code> decides your next hop, the <code>NACL</code> decides yes or no. One picks a path, the other filters.</p>
+<h2>The model to keep</h2>
+<p>A public subnet is a routing fact, not a switch. The route to the <code>IGW</code> works on the way out, not the way in. The <code>RT</code> picks the next hop, the <code>NACL</code> says yes or no, and only the <code>SG</code> remembers you. Hold those three and the VPC stops being a maze.</p>
+<h2>References</h2>
+<ul>
+<li><a href="https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview">Azure network security groups overview</a> — Microsoft Learn. NSG is stateful; attaches to a subnet or a NIC.</li>
+<li><a href="https://docs.cloud.google.com/firewall/docs/firewalls">VPC firewall rules</a> — Google Cloud. Firewall rules are stateful; targeted by network tag or service account.</li>
+</ul>8:["$","div",null,{"id":"root","children":["$","main",null,{"id":"main","className":"reading","children":["$","$L13",null,{"htmlContent":"$14","rawContent":"$15","base64Content":"$16","title":"跟著一個封包走進 AWS 的 VPC","createdAt":"2024-09-29T09:47:00.000Z","updatedAt":"$undefined","tags":["cloud","network","aws"],"altHtmlContent":"$17","altTitle":"A packet's walk through a VPC, in AWS","currentLang":"zh","altLang":"en","canonicalPath":"/v2/a-packet-walk-through-the-vpc"}]}]}]
