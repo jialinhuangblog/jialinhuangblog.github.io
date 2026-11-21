@@ -1,0 +1,740 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"default"]
+4:I[48350,[],""]
+5:I[11412,[],""]
+6:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+7:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","3814","static/chunks/app/writing/layout-8a1925e3e456474e.js"],"default"]
+9:I[96727,[],"OutletBoundary"]
+b:I[14038,[],"AsyncMetadataOutlet"]
+d:I[96727,[],"ViewportBoundary"]
+f:I[96727,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[92950,[],""]
+:HL["/_next/static/media/8760c4774489e4ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/ddd1cae212b4098b.css","style"]
+:HL["/_next/static/css/d3281eaf3cab9132.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/6a64424697caf6b1.css","style"]
+0:{"P":null,"b":"eHdFjmDU8Ie9LVzVLeaep","p":"","c":["","writing","taiex-crash-day-puts.en"],"i":false,"f":[[["",{"children":["writing",{"children":[["slug","taiex-crash-day-puts.en","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/ddd1cae212b4098b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/d3281eaf3cab9132.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href=\"https://fonts.googleapis.com/css2?family=Finlandica:ital,wght@0,400..700;1,400..700&display=swap\";document.head.appendChild(l)})()"}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Finlandica:ital,wght@0,400..700;1,400..700&display=swap"}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["writing",["$","$1","c",{"children":[null,[["$","$L7",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","taiex-crash-day-puts.en","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/6a64424697caf6b1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+a:null
+c:{"metadata":[["$","title","0",{"children":"Limit-down plus settlement day: reviewing the short put trades  | jialinhuang"}],["$","meta","1",{"name":"description","content":"On 11/6 the Taiwan index opened close to limit-down on a weekly options settlement day. A short 37400 put was sure to expire at zero, but it paid at most 600 TWD a lot, and only in the 15 minutes before 9:00. Moving up to 37500 or a spread paid a few points more and risked 83. A short 40000 put was a bet on a rebound, and that day the bet paid."}],["$","link","2",{"rel":"canonical","href":"/writing/taiex-crash-day-puts"}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"
+13:I[86734,["7654","static/chunks/7654-2fe46cddc56d2856.js","5851","static/chunks/app/writing/%5Bslug%5D/page-df2ea9d466ee5461.js"],"MdDoc"]
+14:T41f4,<p>On 11/6 TAIEX gapped down 6.4% at the open, to 38,915, and by 9:00:55 it had dropped to 37,837, almost 9% down. It was also settlement day for the 202611F1 weekly options, so a put with its strike below the limit-down line would expire worthless that same day, and selling one looked like free money.</p>
+<p>The index then climbed back all day, closed at 39,701, and F1 settled at 39,824.</p>
+<iframe src="/embeds/crash-day?chart=index&#x26;lang=en" width="100%" height="390" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="TAIEX on 11/6 in 5-minute candles, with the open, low, close, the limit-down level and the F1 settlement price"></iframe>
+<p>The charts follow the Western convention: green candles go up, red candles go down. Taiwanese platforms use the opposite colours.</p>
+<h2>How far can the index fall</h2>
+<ul>
+<li>Listed and OTC stocks can fall at most 10% a day. TAIEX is computed from listed stocks, weighted by market value.</li>
+<li>TAIEX itself has no daily limit. Its futures contract, TAIEX futures, can fall at most 10% of the previous day's settlement price; on 11/6 that limit was 37,694.</li>
+<li>Futures and options open at 8:45, 15 minutes before stocks.</li>
+</ul>
+<p>So even if every stock hits limit-down, TAIEX falls only 10%: 90% of the previous close of 41,574.72 is 37,417.</p>
+<p>F1 settles at the average of TAIEX from 13:00 to 13:30, which cannot be lower than the day's low, so it cannot go below 37,417 either. The 37400 put, with its strike under that line, expires at zero. One strike up, if the index settles near limit-down, a seller of the 37500 put still pays.</p>
+<p>The line actually sits a little higher. TSMC closed at 2,240 the day before, and 0.9 times that is 2,016, but stocks above 1,000 TWD move in 5 TWD ticks, so its limit-down price is 2,020. That leaves 4 TWD it cannot fall. Leftovers like TSMC's, across all stocks, add up to roughly 30 index points: 37,417 plus 30 is 37,447. Using 0.901 instead of 0.9 as a shortcut gives 37,459.</p>
+<h2>Short 37400 put: picking up pennies</h2>
+<p>"It settles today. Even if everything hits limit-down, the index only gets to 37,417, so the 37400 put will be out of the money at settlement. It's going to zero anyway, so if someone will pay a few points for it, collect them before it gets there."</p>
+<p>Whether the index goes up or down, the 37400 put goes to zero, so this trade needs no view on direction. Because F1 settles on 11/6 itself, there is no other trading day between the sale and settlement, so the index can fall at most that one day's 10%.</p>
+<iframe src="/embeds/crash-day?chart=p37400-open&#x26;lang=en" width="100%" height="390" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="37400 put in 1-minute candles from 8:45 to 9:15, with two sales at 8:47 and 9:05"></iframe>
+<p>Selling at 10 at 8:47 made 500 TWD a lot. Waiting until 9:05 got you 0.6, or 30 TWD. The gap is because TAIEX did not open until 9:00. Before that, all anyone could see was futures falling, and buyers kept paying several points for this put. <span style="color:#D40920;font-weight:700">Once the index opened, the price dropped under 2 and never came back</span>:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Period</th><th>Lots</th><th>Volume-weighted average (points)</th><th>High (points)</th></tr></thead><tbody><tr><td>8:45 to 8:59</td><td>7,953</td><td>4.47</td><td>12</td></tr><tr><td>after 9:00</td><td>8,467</td><td>0.62</td><td>2.0</td></tr></tbody></table>
+<p>Getting 10 was not easy either. Of the day's 16,420 lots, only 1,628 traded at 8 or higher, under one in ten.</p>
+<iframe src="/embeds/crash-day?chart=p37400-day&#x26;lang=en" width="100%" height="390" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="37400 put over the whole day in 5-minute candles, with the volume-weighted averages before and after 9:00"></iframe>
+<p>For that little money, the margin is not small. Margin on a short option is:</p>
+<pre><code>margin = premium value + max(A − out-of-the-money amount, B)
+out-of-the-money amount = (TAIEX − strike) × 50
+</code></pre>
+<p>A and B come from TAIFEX's <a href="https://www.taifex.com.tw/cht/5/indexMarging">margin table</a>. Opening a position uses the initial tier: A is 187,000 TWD and B is 94,000 TWD. Using the previous close, one lot needs 94,500 TWD; using the 9:00 open, 111,712 TWD. Put in about 100,000 TWD, make at most 500. That is roughly 0.5%.</p>
+<p>Would the position get closed out when the index hit its low? No. A broker only closes a position when the risk ratio (account equity divided by required margin) falls below 25%. Say the account held exactly 111,712 TWD. At 9:00:55, with the index at its low, this put traded at 1.6:</p>
+<pre><code>equity          ≈ 111,712 + 500 − 1.6 × 50 = 112,132 TWD
+required margin ≈ 187,000 − (37,837.05 − 37,400) × 50 ≈ 165,148 TWD
+risk ratio      ≈ 112,132 ÷ 165,148 ≈ 67.9%
+</code></pre>
+<p>That is nowhere near 25%. The money is just tied up for the day.</p>
+<p><span style="color:#D40920;font-weight:700">This only works for a contract that settles that day.</span> The 202611W2 37400 put, expiring 11/11, opened at 1,080 on the same day. It had four more trading days, and the index could fall 10% on each one. Four limit-down days in a row reach about 27,277, so 37,400 is nowhere near a floor.</p>
+<h3>Before 9:00, people still paid 10 for the 37400 put</h3>
+<p>From 8:45 to 9:00, futures were trading. They opened at 38,888 at 8:45, 3,027 points below the previous close, while TAIEX itself waited until 9:00. The 37400 put hit its day high of 12 at 8:48:05, with futures at 38,382.</p>
+<p>One trader said option prices all come from a formula, so you can always tell whether a price makes sense. For the 37400 put that is true: it is sure to expire at zero, so its fair price is zero. Still, 7,953 lots traded before 9:00, at prices from 1 to 12.</p>
+<p>Could you have sold it the night before? No. In the 11/5 night session, the lowest F1 put strike that traded was 38600. The 37400 and 37500 puts traded 0 lots all night.</p>
+<h2>Short 37500 put: 5 points more, up to 83 points lost</h2>
+<p>"The limit-down line is really a bit above 37,417, so I can move the strike up one step and collect more than twice the premium. The index would have to settle exactly inside the 83 points between 37,417 and 37,500. Unlikely."</p>
+<p>The premium really was bigger: 10.83 on average before 9:00 for the 37500 put, 2.4 times the 4.47 on the 37400 put.</p>
+<iframe src="/embeds/crash-day?chart=p37500-open&#x26;lang=en" width="100%" height="390" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="37500 put in 1-minute candles from 8:45 to 9:15, with a sale at 8:50"></iframe>
+<p>Selling at 9.2 at 8:50 kept all 9.2 points, since settlement was 39,824. But 37500 is 83 points above 37,417, and still 41 above 37,459. <span style="color:#D40920;font-weight:700">Had the index settled at limit-down, each lot would pay 83 points</span>, a loss of 73.8 after the 9.2 collected, about 3,700 TWD.</p>
+<h3>Turning it into a spread cuts margin from 90,000 to 5,000</h3>
+<p>"Over 90,000 TWD tied up on one short 37500 put is too much. Buy a 37400 put as well: it costs its premium, but margin drops to 5,000, so the same money carries more than ten lots."</p>
+<p>Short 37500 plus long 37400 is a bull put spread:</p>
+<pre><code>settlement ≥ 37,500           → both expire at 0, keep the net premium
+37,400 &#x3C; settlement &#x3C; 37,500  → pay (37,500 − settlement), minus the net premium
+settlement ≤ 37,400           → pay 100, minus the net premium
+</code></pre>
+<p>The long 37400 put expires at zero anyway, so it does nothing for the risk: settle at limit-down and you still lose 83. <span style="color:#D40920;font-weight:700">It does one thing, which is make the margin cheap.</span> TAIFEX ignores limit-down when it sets margin. On a short 37500 put alone the contract's loss has no cap, so the margin is over 90,000 TWD. With the long 37400 put added, the worst case is the 100 points between strikes, and <a href="https://www.taifex.com.tw/cht/5/margingReqIndexOpt">TAIFEX's margin rules</a> charge a put bull spread 100 points times 50 TWD, which is 5,000 TWD. Because of limit-down the real worst case is 83, but margin is still charged on 100.</p>
+<iframe src="/embeds/crash-day?chart=spread&#x26;lang=en" width="100%" height="390" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="37500 put minus 37400 put in seconds where both traded, with a line at 10 points"></iframe>
+<p>Could you sell the spread at 10? The two puts trade separately, so the table below takes seconds where both traded and subtracts the last trade of each in that second:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Time</th><th>37500 put</th><th>37400 put</th><th>Spread</th><th></th></tr></thead><tbody><tr><td>8:45:05</td><td>15</td><td>9.6</td><td>5.4</td><td></td></tr><tr><td>8:45:07</td><td>50</td><td>6.2</td><td>43.8</td><td>37500 put traded 3 lots at 49 to 50</td></tr><tr><td>8:48:14</td><td>20</td><td>10</td><td>10</td><td></td></tr><tr><td>8:48:18</td><td>26.5</td><td>10</td><td>16.5</td><td>last time at 10 or more</td></tr><tr><td>8:50:23</td><td>12</td><td>5.4</td><td>6.6</td><td>never back to 10 after 8:49</td></tr></tbody></table>
+<p>Selling at 10 at 8:48:14 collects 500 TWD a lot on 5,000 TWD of margin, a 10% return, about twenty times what a short 37400 put alone paid. But spreads of 10 or more only showed up from 8:45 to 8:48; two minutes later it was about 7.</p>
+<p><span style="color:#D40920;font-weight:700">These spreads come from two separate single-put trades, not from spread orders filling.</span> TAIFEX's trading system <a href="https://www.taifex.com.tw/file/taifex/event/cht/10305_1/event.html">has no order book for option combination orders</a>, so a spread order is split into its two legs and filled against the 37500 and 37400 put order books (<a href="https://www.chinatimes.com/realtimenews/20190321000439-260511">a 2019 Commercial Times explainer</a> puts it as "its counterparties are two single-leg orders"). Selling the spread at a net 10 needs, at the moment it arrives, a resting bid on the 37500 put and a resting offer on the 37400 put at least 10 apart. The trade data records fills but not resting orders, so it cannot confirm whether the quotes were 10 apart at 8:48:14.</p>
+<p><span style="color:#D40920;font-weight:700">A spread order also cannot rest in the book with ROD.</span> Say you send "sell 10 spreads at a net 10" and only 3 can fill when it arrives:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Order condition</th><th>Allowed for spreads</th><th>Result</th></tr></thead><tbody><tr><td>ROD (Rest of Day)</td><td>No</td><td>3 fill, the other 7 wait in the book</td></tr><tr><td>IOC (Immediate-Or-Cancel)</td><td>Yes</td><td>3 fill, the other 7 are cancelled at once</td></tr><tr><td>FOK (Fill-Or-Kill)</td><td>Yes</td><td>all 10 cannot fill at once, so the whole order is cancelled</td></tr></tbody></table>
+<p>TAIFEX's <a href="https://www.taifex.com.tw/cht/4/oamIntroduction">order type page</a> says option combination orders are not open to ROD ("選擇權組合式委託及一定範圍市價委託，未開放ROD之委託條件"), and combination orders are not accepted in the 8:30 to 8:45 pre-open. So an IOC order to sell the spread at a net 10 sent at 8:45:05, when the spread was 5.4, is cancelled; you would have to resend at 8:45:07, when it jumped to 43.8, to have a chance. Brokers' "repeated IOC on spread orders" is probably just the system resending for you until it fills.</p>
+<h2>Short 40000 put: the index opened near limit-down, so bet on a rebound</h2>
+<p>"It opened almost at limit-down. After a drop like that, it should bounce some before the close. Deep in-the-money puts carry the most premium, so if I'm right, they pay the most."</p>
+<p>So some traders sold the 39700, 40000 and 40300 puts. Those strikes are over 2,000 points above the limit-down line, so limit-down does not protect them. If the index did not come back, they lose.</p>
+<iframe src="/embeds/crash-day?chart=p40000&#x26;lang=en" width="100%" height="390" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="40000 put in 1-minute candles over the whole day, with four sales and their results"></iframe>
+<p>Settlement at 39,824 is 176 points below 40,000, so the 40000 put pays 176 points a lot. Selling at different times:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Sold at</th><th>Price</th><th>Owed at settlement</th><th>Per lot (points)</th></tr></thead><tbody><tr><td>9:01</td><td>1,890</td><td>176</td><td>+1,714</td></tr><tr><td>9:06</td><td>1,680</td><td>176</td><td>+1,504</td></tr><tr><td>10:37</td><td>225</td><td>176</td><td>+49</td></tr><tr><td>13:03</td><td>42.5</td><td>176</td><td>−133.5</td></tr></tbody></table>
+<p>Five minutes between 9:01 and 9:06 cost 210 points. After 9:00 the index kept climbing and the 40000 put kept falling. By 10:37 the index was back around 40,000 and the put sold for 225; at 13:03 it sold for 42.5, not even enough to cover the 176 owed.</p>
+<p>All three puts hit their highs between 9:00 and 9:05: 1,700 for the 39700, 1,960 for the 40000, 2,250 for the 40300. The index was around 37,840 in those seconds, yet each high was 160 to 209 points below the put's intrinsic value at that moment. <span style="color:#D40920;font-weight:700">So even selling at the very top, if the index had stayed right there, you would lose that much per lot.</span> Settlement uses the average after 13:00, not the index at 9:00; anyone selling below intrinsic value was probably betting the index would be higher by the afternoon.</p>
+<p>For a seller at the high, the result depends on where the index ends (in points; one point is 50 TWD):</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Strike</th><th>High</th><th>Settles at 39,824 (actual)</th><th>Stays near 37,840</th><th>Settles at limit-down 37,417</th></tr></thead><tbody><tr><td>39700 put</td><td>1,700</td><td>+1,700</td><td>−160</td><td>−583</td></tr><tr><td>40000 put</td><td>1,960</td><td>+1,784</td><td>−203</td><td>−623</td></tr><tr><td>40300 put</td><td>2,250</td><td>+1,774</td><td>−209</td><td>−633</td></tr></tbody></table>
+<p>Had it settled at limit-down, the 40000 put would lose 623 points a lot, over 31,000 TWD. That day the bet paid.</p>
+<h2>Post-market review</h2>
+<p>At 8:45 TAIEX futures opened at 38,888, 3,027 points or 7.2% below the previous close, so a big down day was clear from the open. Whether it would reach limit-down was not, and in the end it did not: the low was −8.99%. For someone placing an order at 8:45, each trade left a different thing to wait for until the close:</p>
+<ul>
+<li><strong>Short 37400 put</strong>: expires at zero wherever the index settles, even on an up day. But without a big drop nobody pays 10 for it; the premium only existed because of the crash.</li>
+<li><strong>Short 37500 put and the spread</strong>: lose only if the index settles between the limit-down level and 37,500, which nobody could know at 8:45. The day's low of 37,837 was still over 300 points above that range.</li>
+<li><strong>Short 40000 put</strong>: a bet on the rebound. It made money because the index came back, which you only know afterwards.</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Trade</th><th>Premium collected (points)</th><th>Margin per lot</th><th>Owed if the index settles at 37,417 (points)</th></tr></thead><tbody><tr><td>Short 37400 put</td><td>4.47 average before 9:00, high 12</td><td>94,500 to 111,712 TWD</td><td>0</td></tr><tr><td>Short 37500 put</td><td>10.83 average before 9:00</td><td>over 90,000 TWD</td><td>83</td></tr><tr><td>Short 37500 + long 37400</td><td>10+ until 8:48, about 7 at 8:50</td><td>5,000 TWD</td><td>83</td></tr><tr><td>Short 40000 put</td><td>high 1,960</td><td>about 285,000 TWD</td><td>2,583</td></tr></tbody></table>
+<p><span style="color:#D40920;font-weight:700">The only sure win was the short 37400 put</span>, but it ties up 100,000 TWD of margin to pick up pocket change of at most 600 TWD a lot, guaranteed. Whether that is worth it depends on who you are; for some people it just is not. The short 37500 put and the spread collected about 5 points more per lot, and owed 83 if the index settled at limit-down. The spread needs one eighteenth of the margin of a short 37500 put, so 90,000 TWD carries 18 lots; settle at limit-down and those 18 owe 1,494 points together, 74,700 TWD. The short 40000 put is a different trade. It is in the money, so its margin is about 285,000 TWD, limit-down does not protect it, and it made money that day because the index came back.</p>15:T3b32,
+On 11/6 TAIEX gapped down 6.4% at the open, to 38,915, and by 9:00:55 it had dropped to 37,837, almost 9% down. It was also settlement day for the 202611F1 weekly options, so a put with its strike below the limit-down line would expire worthless that same day, and selling one looked like free money.
+
+The index then climbed back all day, closed at 39,701, and F1 settled at 39,824.
+
+<iframe src="/embeds/crash-day?chart=index&lang=en" width="100%" height="390" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="TAIEX on 11/6 in 5-minute candles, with the open, low, close, the limit-down level and the F1 settlement price"></iframe>
+
+The charts follow the Western convention: green candles go up, red candles go down. Taiwanese platforms use the opposite colours.
+
+## How far can the index fall
+
+- Listed and OTC stocks can fall at most 10% a day. TAIEX is computed from listed stocks, weighted by market value.
+- TAIEX itself has no daily limit. Its futures contract, TAIEX futures, can fall at most 10% of the previous day's settlement price; on 11/6 that limit was 37,694.
+- Futures and options open at 8:45, 15 minutes before stocks.
+
+So even if every stock hits limit-down, TAIEX falls only 10%: 90% of the previous close of 41,574.72 is 37,417.
+
+F1 settles at the average of TAIEX from 13:00 to 13:30, which cannot be lower than the day's low, so it cannot go below 37,417 either. The 37400 put, with its strike under that line, expires at zero. One strike up, if the index settles near limit-down, a seller of the 37500 put still pays.
+
+The line actually sits a little higher. TSMC closed at 2,240 the day before, and 0.9 times that is 2,016, but stocks above 1,000 TWD move in 5 TWD ticks, so its limit-down price is 2,020. That leaves 4 TWD it cannot fall. Leftovers like TSMC's, across all stocks, add up to roughly 30 index points: 37,417 plus 30 is 37,447. Using 0.901 instead of 0.9 as a shortcut gives 37,459.
+
+## Short 37400 put: picking up pennies
+
+"It settles today. Even if everything hits limit-down, the index only gets to 37,417, so the 37400 put will be out of the money at settlement. It's going to zero anyway, so if someone will pay a few points for it, collect them before it gets there."
+
+Whether the index goes up or down, the 37400 put goes to zero, so this trade needs no view on direction. Because F1 settles on 11/6 itself, there is no other trading day between the sale and settlement, so the index can fall at most that one day's 10%.
+
+<iframe src="/embeds/crash-day?chart=p37400-open&lang=en" width="100%" height="390" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="37400 put in 1-minute candles from 8:45 to 9:15, with two sales at 8:47 and 9:05"></iframe>
+
+Selling at 10 at 8:47 made 500 TWD a lot. Waiting until 9:05 got you 0.6, or 30 TWD. The gap is because TAIEX did not open until 9:00. Before that, all anyone could see was futures falling, and buyers kept paying several points for this put. <span style="color:#D40920;font-weight:700">Once the index opened, the price dropped under 2 and never came back</span>:
+
+| Period | Lots | Volume-weighted average (points) | High (points) |
+|---|---|---|---|
+| 8:45 to 8:59 | 7,953 | 4.47 | 12 |
+| after 9:00 | 8,467 | 0.62 | 2.0 |
+
+Getting 10 was not easy either. Of the day's 16,420 lots, only 1,628 traded at 8 or higher, under one in ten.
+
+<iframe src="/embeds/crash-day?chart=p37400-day&lang=en" width="100%" height="390" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="37400 put over the whole day in 5-minute candles, with the volume-weighted averages before and after 9:00"></iframe>
+
+For that little money, the margin is not small. Margin on a short option is:
+
+```
+margin = premium value + max(A − out-of-the-money amount, B)
+out-of-the-money amount = (TAIEX − strike) × 50
+```
+
+A and B come from TAIFEX's [margin table](https://www.taifex.com.tw/cht/5/indexMarging). Opening a position uses the initial tier: A is 187,000 TWD and B is 94,000 TWD. Using the previous close, one lot needs 94,500 TWD; using the 9:00 open, 111,712 TWD. Put in about 100,000 TWD, make at most 500. That is roughly 0.5%.
+
+Would the position get closed out when the index hit its low? No. A broker only closes a position when the risk ratio (account equity divided by required margin) falls below 25%. Say the account held exactly 111,712 TWD. At 9:00:55, with the index at its low, this put traded at 1.6:
+
+```
+equity          ≈ 111,712 + 500 − 1.6 × 50 = 112,132 TWD
+required margin ≈ 187,000 − (37,837.05 − 37,400) × 50 ≈ 165,148 TWD
+risk ratio      ≈ 112,132 ÷ 165,148 ≈ 67.9%
+```
+
+That is nowhere near 25%. The money is just tied up for the day.
+
+<span style="color:#D40920;font-weight:700">This only works for a contract that settles that day.</span> The 202611W2 37400 put, expiring 11/11, opened at 1,080 on the same day. It had four more trading days, and the index could fall 10% on each one. Four limit-down days in a row reach about 27,277, so 37,400 is nowhere near a floor.
+
+### Before 9:00, people still paid 10 for the 37400 put
+
+From 8:45 to 9:00, futures were trading. They opened at 38,888 at 8:45, 3,027 points below the previous close, while TAIEX itself waited until 9:00. The 37400 put hit its day high of 12 at 8:48:05, with futures at 38,382.
+
+One trader said option prices all come from a formula, so you can always tell whether a price makes sense. For the 37400 put that is true: it is sure to expire at zero, so its fair price is zero. Still, 7,953 lots traded before 9:00, at prices from 1 to 12.
+
+Could you have sold it the night before? No. In the 11/5 night session, the lowest F1 put strike that traded was 38600. The 37400 and 37500 puts traded 0 lots all night.
+
+## Short 37500 put: 5 points more, up to 83 points lost
+
+"The limit-down line is really a bit above 37,417, so I can move the strike up one step and collect more than twice the premium. The index would have to settle exactly inside the 83 points between 37,417 and 37,500. Unlikely."
+
+The premium really was bigger: 10.83 on average before 9:00 for the 37500 put, 2.4 times the 4.47 on the 37400 put.
+
+<iframe src="/embeds/crash-day?chart=p37500-open&lang=en" width="100%" height="390" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="37500 put in 1-minute candles from 8:45 to 9:15, with a sale at 8:50"></iframe>
+
+Selling at 9.2 at 8:50 kept all 9.2 points, since settlement was 39,824. But 37500 is 83 points above 37,417, and still 41 above 37,459. <span style="color:#D40920;font-weight:700">Had the index settled at limit-down, each lot would pay 83 points</span>, a loss of 73.8 after the 9.2 collected, about 3,700 TWD.
+
+### Turning it into a spread cuts margin from 90,000 to 5,000
+
+"Over 90,000 TWD tied up on one short 37500 put is too much. Buy a 37400 put as well: it costs its premium, but margin drops to 5,000, so the same money carries more than ten lots."
+
+Short 37500 plus long 37400 is a bull put spread:
+
+```
+settlement ≥ 37,500           → both expire at 0, keep the net premium
+37,400 < settlement < 37,500  → pay (37,500 − settlement), minus the net premium
+settlement ≤ 37,400           → pay 100, minus the net premium
+```
+
+The long 37400 put expires at zero anyway, so it does nothing for the risk: settle at limit-down and you still lose 83. <span style="color:#D40920;font-weight:700">It does one thing, which is make the margin cheap.</span> TAIFEX ignores limit-down when it sets margin. On a short 37500 put alone the contract's loss has no cap, so the margin is over 90,000 TWD. With the long 37400 put added, the worst case is the 100 points between strikes, and [TAIFEX's margin rules](https://www.taifex.com.tw/cht/5/margingReqIndexOpt) charge a put bull spread 100 points times 50 TWD, which is 5,000 TWD. Because of limit-down the real worst case is 83, but margin is still charged on 100.
+
+<iframe src="/embeds/crash-day?chart=spread&lang=en" width="100%" height="390" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="37500 put minus 37400 put in seconds where both traded, with a line at 10 points"></iframe>
+
+Could you sell the spread at 10? The two puts trade separately, so the table below takes seconds where both traded and subtracts the last trade of each in that second:
+
+| Time | 37500 put | 37400 put | Spread | |
+|---|---|---|---|---|
+| 8:45:05 | 15 | 9.6 | 5.4 | |
+| 8:45:07 | 50 | 6.2 | 43.8 | 37500 put traded 3 lots at 49 to 50 |
+| 8:48:14 | 20 | 10 | 10 | |
+| 8:48:18 | 26.5 | 10 | 16.5 | last time at 10 or more |
+| 8:50:23 | 12 | 5.4 | 6.6 | never back to 10 after 8:49 |
+
+Selling at 10 at 8:48:14 collects 500 TWD a lot on 5,000 TWD of margin, a 10% return, about twenty times what a short 37400 put alone paid. But spreads of 10 or more only showed up from 8:45 to 8:48; two minutes later it was about 7.
+
+<span style="color:#D40920;font-weight:700">These spreads come from two separate single-put trades, not from spread orders filling.</span> TAIFEX's trading system [has no order book for option combination orders](https://www.taifex.com.tw/file/taifex/event/cht/10305_1/event.html), so a spread order is split into its two legs and filled against the 37500 and 37400 put order books ([a 2019 Commercial Times explainer](https://www.chinatimes.com/realtimenews/20190321000439-260511) puts it as "its counterparties are two single-leg orders"). Selling the spread at a net 10 needs, at the moment it arrives, a resting bid on the 37500 put and a resting offer on the 37400 put at least 10 apart. The trade data records fills but not resting orders, so it cannot confirm whether the quotes were 10 apart at 8:48:14.
+
+<span style="color:#D40920;font-weight:700">A spread order also cannot rest in the book with ROD.</span> Say you send "sell 10 spreads at a net 10" and only 3 can fill when it arrives:
+
+| Order condition | Allowed for spreads | Result |
+|---|---|---|
+| ROD (Rest of Day) | No | 3 fill, the other 7 wait in the book |
+| IOC (Immediate-Or-Cancel) | Yes | 3 fill, the other 7 are cancelled at once |
+| FOK (Fill-Or-Kill) | Yes | all 10 cannot fill at once, so the whole order is cancelled |
+
+TAIFEX's [order type page](https://www.taifex.com.tw/cht/4/oamIntroduction) says option combination orders are not open to ROD ("選擇權組合式委託及一定範圍市價委託，未開放ROD之委託條件"), and combination orders are not accepted in the 8:30 to 8:45 pre-open. So an IOC order to sell the spread at a net 10 sent at 8:45:05, when the spread was 5.4, is cancelled; you would have to resend at 8:45:07, when it jumped to 43.8, to have a chance. Brokers' "repeated IOC on spread orders" is probably just the system resending for you until it fills.
+
+## Short 40000 put: the index opened near limit-down, so bet on a rebound
+
+"It opened almost at limit-down. After a drop like that, it should bounce some before the close. Deep in-the-money puts carry the most premium, so if I'm right, they pay the most."
+
+So some traders sold the 39700, 40000 and 40300 puts. Those strikes are over 2,000 points above the limit-down line, so limit-down does not protect them. If the index did not come back, they lose.
+
+<iframe src="/embeds/crash-day?chart=p40000&lang=en" width="100%" height="390" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="40000 put in 1-minute candles over the whole day, with four sales and their results"></iframe>
+
+Settlement at 39,824 is 176 points below 40,000, so the 40000 put pays 176 points a lot. Selling at different times:
+
+| Sold at | Price | Owed at settlement | Per lot (points) |
+|---|---|---|---|
+| 9:01 | 1,890 | 176 | +1,714 |
+| 9:06 | 1,680 | 176 | +1,504 |
+| 10:37 | 225 | 176 | +49 |
+| 13:03 | 42.5 | 176 | −133.5 |
+
+Five minutes between 9:01 and 9:06 cost 210 points. After 9:00 the index kept climbing and the 40000 put kept falling. By 10:37 the index was back around 40,000 and the put sold for 225; at 13:03 it sold for 42.5, not even enough to cover the 176 owed.
+
+All three puts hit their highs between 9:00 and 9:05: 1,700 for the 39700, 1,960 for the 40000, 2,250 for the 40300. The index was around 37,840 in those seconds, yet each high was 160 to 209 points below the put's intrinsic value at that moment. <span style="color:#D40920;font-weight:700">So even selling at the very top, if the index had stayed right there, you would lose that much per lot.</span> Settlement uses the average after 13:00, not the index at 9:00; anyone selling below intrinsic value was probably betting the index would be higher by the afternoon.
+
+For a seller at the high, the result depends on where the index ends (in points; one point is 50 TWD):
+
+| Strike | High | Settles at 39,824 (actual) | Stays near 37,840 | Settles at limit-down 37,417 |
+|---|---|---|---|---|
+| 39700 put | 1,700 | +1,700 | −160 | −583 |
+| 40000 put | 1,960 | +1,784 | −203 | −623 |
+| 40300 put | 2,250 | +1,774 | −209 | −633 |
+
+Had it settled at limit-down, the 40000 put would lose 623 points a lot, over 31,000 TWD. That day the bet paid.
+
+## Post-market review
+
+At 8:45 TAIEX futures opened at 38,888, 3,027 points or 7.2% below the previous close, so a big down day was clear from the open. Whether it would reach limit-down was not, and in the end it did not: the low was −8.99%. For someone placing an order at 8:45, each trade left a different thing to wait for until the close:
+
+- **Short 37400 put**: expires at zero wherever the index settles, even on an up day. But without a big drop nobody pays 10 for it; the premium only existed because of the crash.
+- **Short 37500 put and the spread**: lose only if the index settles between the limit-down level and 37,500, which nobody could know at 8:45. The day's low of 37,837 was still over 300 points above that range.
+- **Short 40000 put**: a bet on the rebound. It made money because the index came back, which you only know afterwards.
+
+| Trade | Premium collected (points) | Margin per lot | Owed if the index settles at 37,417 (points) |
+|---|---|---|---|
+| Short 37400 put | 4.47 average before 9:00, high 12 | 94,500 to 111,712 TWD | 0 |
+| Short 37500 put | 10.83 average before 9:00 | over 90,000 TWD | 83 |
+| Short 37500 + long 37400 | 10+ until 8:48, about 7 at 8:50 | 5,000 TWD | 83 |
+| Short 40000 put | high 1,960 | about 285,000 TWD | 2,583 |
+
+<span style="color:#D40920;font-weight:700">The only sure win was the short 37400 put</span>, but it ties up 100,000 TWD of margin to pick up pocket change of at most 600 TWD a lot, guaranteed. Whether that is worth it depends on who you are; for some people it just is not. The short 37500 put and the spread collected about 5 points more per lot, and owed 83 if the index settled at limit-down. The spread needs one eighteenth of the margin of a short 37500 put, so 90,000 TWD carries 18 lots; settle at limit-down and those 18 owe 1,494 points together, 74,700 TWD. The short 40000 put is a different trade. It is in the money, so its margin is about 285,000 TWD, limit-down does not protect it, and it made money that day because the index came back.
+16:T5188,LS0tCnRpdGxlOiAiTGltaXQtZG93biBwbHVzIHNldHRsZW1lbnQgZGF5OiByZXZpZXdpbmcgdGhlIHNob3J0IHB1dCB0cmFkZXMiCmRhdGU6IDIwMjYtMTEtMDdUMjE6MDA6MDAKdGFnczogW29wdGlvbnMsIHRhaWV4LCB0cmFkaW5nXQpkZXNjcmlwdGlvbjogIk9uIDExLzYgdGhlIFRhaXdhbiBpbmRleCBvcGVuZWQgY2xvc2UgdG8gbGltaXQtZG93biBvbiBhIHdlZWtseSBvcHRpb25zIHNldHRsZW1lbnQgZGF5LiBBIHNob3J0IDM3NDAwIHB1dCB3YXMgc3VyZSB0byBleHBpcmUgYXQgemVybywgYnV0IGl0IHBhaWQgYXQgbW9zdCA2MDAgVFdEIGEgbG90LCBhbmQgb25seSBpbiB0aGUgMTUgbWludXRlcyBiZWZvcmUgOTowMC4gTW92aW5nIHVwIHRvIDM3NTAwIG9yIGEgc3ByZWFkIHBhaWQgYSBmZXcgcG9pbnRzIG1vcmUgYW5kIHJpc2tlZCA4My4gQSBzaG9ydCA0MDAwMCBwdXQgd2FzIGEgYmV0IG9uIGEgcmVib3VuZCwgYW5kIHRoYXQgZGF5IHRoZSBiZXQgcGFpZC4iCi0tLQoKT24gMTEvNiBUQUlFWCBnYXBwZWQgZG93biA2LjQlIGF0IHRoZSBvcGVuLCB0byAzOCw5MTUsIGFuZCBieSA5OjAwOjU1IGl0IGhhZCBkcm9wcGVkIHRvIDM3LDgzNywgYWxtb3N0IDklIGRvd24uIEl0IHdhcyBhbHNvIHNldHRsZW1lbnQgZGF5IGZvciB0aGUgMjAyNjExRjEgd2Vla2x5IG9wdGlvbnMsIHNvIGEgcHV0IHdpdGggaXRzIHN0cmlrZSBiZWxvdyB0aGUgbGltaXQtZG93biBsaW5lIHdvdWxkIGV4cGlyZSB3b3J0aGxlc3MgdGhhdCBzYW1lIGRheSwgYW5kIHNlbGxpbmcgb25lIGxvb2tlZCBsaWtlIGZyZWUgbW9uZXkuCgpUaGUgaW5kZXggdGhlbiBjbGltYmVkIGJhY2sgYWxsIGRheSwgY2xvc2VkIGF0IDM5LDcwMSwgYW5kIEYxIHNldHRsZWQgYXQgMzksODI0LgoKPGlmcmFtZSBzcmM9Ii9lbWJlZHMvY3Jhc2gtZGF5P2NoYXJ0PWluZGV4Jmxhbmc9ZW4iIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjM5MCIgc3R5bGU9ImJvcmRlcjowO2Rpc3BsYXk6YmxvY2s7bWFyZ2luOjEuNXJlbSAwIDIuNXJlbSIgbG9hZGluZz0ibGF6eSIgdGl0bGU9IlRBSUVYIG9uIDExLzYgaW4gNS1taW51dGUgY2FuZGxlcywgd2l0aCB0aGUgb3BlbiwgbG93LCBjbG9zZSwgdGhlIGxpbWl0LWRvd24gbGV2ZWwgYW5kIHRoZSBGMSBzZXR0bGVtZW50IHByaWNlIj48L2lmcmFtZT4KClRoZSBjaGFydHMgZm9sbG93IHRoZSBXZXN0ZXJuIGNvbnZlbnRpb246IGdyZWVuIGNhbmRsZXMgZ28gdXAsIHJlZCBjYW5kbGVzIGdvIGRvd24uIFRhaXdhbmVzZSBwbGF0Zm9ybXMgdXNlIHRoZSBvcHBvc2l0ZSBjb2xvdXJzLgoKIyMgSG93IGZhciBjYW4gdGhlIGluZGV4IGZhbGwKCi0gTGlzdGVkIGFuZCBPVEMgc3RvY2tzIGNhbiBmYWxsIGF0IG1vc3QgMTAlIGEgZGF5LiBUQUlFWCBpcyBjb21wdXRlZCBmcm9tIGxpc3RlZCBzdG9ja3MsIHdlaWdodGVkIGJ5IG1hcmtldCB2YWx1ZS4KLSBUQUlFWCBpdHNlbGYgaGFzIG5vIGRhaWx5IGxpbWl0LiBJdHMgZnV0dXJlcyBjb250cmFjdCwgVEFJRVggZnV0dXJlcywgY2FuIGZhbGwgYXQgbW9zdCAxMCUgb2YgdGhlIHByZXZpb3VzIGRheSdzIHNldHRsZW1lbnQgcHJpY2U7IG9uIDExLzYgdGhhdCBsaW1pdCB3YXMgMzcsNjk0LgotIEZ1dHVyZXMgYW5kIG9wdGlvbnMgb3BlbiBhdCA4OjQ1LCAxNSBtaW51dGVzIGJlZm9yZSBzdG9ja3MuCgpTbyBldmVuIGlmIGV2ZXJ5IHN0b2NrIGhpdHMgbGltaXQtZG93biwgVEFJRVggZmFsbHMgb25seSAxMCU6IDkwJSBvZiB0aGUgcHJldmlvdXMgY2xvc2Ugb2YgNDEsNTc0LjcyIGlzIDM3LDQxNy4KCkYxIHNldHRsZXMgYXQgdGhlIGF2ZXJhZ2Ugb2YgVEFJRVggZnJvbSAxMzowMCB0byAxMzozMCwgd2hpY2ggY2Fubm90IGJlIGxvd2VyIHRoYW4gdGhlIGRheSdzIGxvdywgc28gaXQgY2Fubm90IGdvIGJlbG93IDM3LDQxNyBlaXRoZXIuIFRoZSAzNzQwMCBwdXQsIHdpdGggaXRzIHN0cmlrZSB1bmRlciB0aGF0IGxpbmUsIGV4cGlyZXMgYXQgemVyby4gT25lIHN0cmlrZSB1cCwgaWYgdGhlIGluZGV4IHNldHRsZXMgbmVhciBsaW1pdC1kb3duLCBhIHNlbGxlciBvZiB0aGUgMzc1MDAgcHV0IHN0aWxsIHBheXMuCgpUaGUgbGluZSBhY3R1YWxseSBzaXRzIGEgbGl0dGxlIGhpZ2hlci4gVFNNQyBjbG9zZWQgYXQgMiwyNDAgdGhlIGRheSBiZWZvcmUsIGFuZCAwLjkgdGltZXMgdGhhdCBpcyAyLDAxNiwgYnV0IHN0b2NrcyBhYm92ZSAxLDAwMCBUV0QgbW92ZSBpbiA1IFRXRCB0aWNrcywgc28gaXRzIGxpbWl0LWRvd24gcHJpY2UgaXMgMiwwMjAuIFRoYXQgbGVhdmVzIDQgVFdEIGl0IGNhbm5vdCBmYWxsLiBMZWZ0b3ZlcnMgbGlrZSBUU01DJ3MsIGFjcm9zcyBhbGwgc3RvY2tzLCBhZGQgdXAgdG8gcm91Z2hseSAzMCBpbmRleCBwb2ludHM6IDM3LDQxNyBwbHVzIDMwIGlzIDM3LDQ0Ny4gVXNpbmcgMC45MDEgaW5zdGVhZCBvZiAwLjkgYXMgYSBzaG9ydGN1dCBnaXZlcyAzNyw0NTkuCgojIyBTaG9ydCAzNzQwMCBwdXQ6IHBpY2tpbmcgdXAgcGVubmllcwoKIkl0IHNldHRsZXMgdG9kYXkuIEV2ZW4gaWYgZXZlcnl0aGluZyBoaXRzIGxpbWl0LWRvd24sIHRoZSBpbmRleCBvbmx5IGdldHMgdG8gMzcsNDE3LCBzbyB0aGUgMzc0MDAgcHV0IHdpbGwgYmUgb3V0IG9mIHRoZSBtb25leSBhdCBzZXR0bGVtZW50LiBJdCdzIGdvaW5nIHRvIHplcm8gYW55d2F5LCBzbyBpZiBzb21lb25lIHdpbGwgcGF5IGEgZmV3IHBvaW50cyBmb3IgaXQsIGNvbGxlY3QgdGhlbSBiZWZvcmUgaXQgZ2V0cyB0aGVyZS4iCgpXaGV0aGVyIHRoZSBpbmRleCBnb2VzIHVwIG9yIGRvd24sIHRoZSAzNzQwMCBwdXQgZ29lcyB0byB6ZXJvLCBzbyB0aGlzIHRyYWRlIG5lZWRzIG5vIHZpZXcgb24gZGlyZWN0aW9uLiBCZWNhdXNlIEYxIHNldHRsZXMgb24gMTEvNiBpdHNlbGYsIHRoZXJlIGlzIG5vIG90aGVyIHRyYWRpbmcgZGF5IGJldHdlZW4gdGhlIHNhbGUgYW5kIHNldHRsZW1lbnQsIHNvIHRoZSBpbmRleCBjYW4gZmFsbCBhdCBtb3N0IHRoYXQgb25lIGRheSdzIDEwJS4KCjxpZnJhbWUgc3JjPSIvZW1iZWRzL2NyYXNoLWRheT9jaGFydD1wMzc0MDAtb3BlbiZsYW5nPWVuIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIzOTAiIHN0eWxlPSJib3JkZXI6MDtkaXNwbGF5OmJsb2NrO21hcmdpbjoxLjVyZW0gMCAyLjVyZW0iIGxvYWRpbmc9ImxhenkiIHRpdGxlPSIzNzQwMCBwdXQgaW4gMS1taW51dGUgY2FuZGxlcyBmcm9tIDg6NDUgdG8gOToxNSwgd2l0aCB0d28gc2FsZXMgYXQgODo0NyBhbmQgOTowNSI+PC9pZnJhbWU+CgpTZWxsaW5nIGF0IDEwIGF0IDg6NDcgbWFkZSA1MDAgVFdEIGEgbG90LiBXYWl0aW5nIHVudGlsIDk6MDUgZ290IHlvdSAwLjYsIG9yIDMwIFRXRC4gVGhlIGdhcCBpcyBiZWNhdXNlIFRBSUVYIGRpZCBub3Qgb3BlbiB1bnRpbCA5OjAwLiBCZWZvcmUgdGhhdCwgYWxsIGFueW9uZSBjb3VsZCBzZWUgd2FzIGZ1dHVyZXMgZmFsbGluZywgYW5kIGJ1eWVycyBrZXB0IHBheWluZyBzZXZlcmFsIHBvaW50cyBmb3IgdGhpcyBwdXQuIDxzcGFuIHN0eWxlPSJjb2xvcjojRDQwOTIwO2ZvbnQtd2VpZ2h0OjcwMCI+T25jZSB0aGUgaW5kZXggb3BlbmVkLCB0aGUgcHJpY2UgZHJvcHBlZCB1bmRlciAyIGFuZCBuZXZlciBjYW1lIGJhY2s8L3NwYW4+OgoKfCBQZXJpb2QgfCBMb3RzIHwgVm9sdW1lLXdlaWdodGVkIGF2ZXJhZ2UgKHBvaW50cykgfCBIaWdoIChwb2ludHMpIHwKfC0tLXwtLS18LS0tfC0tLXwKfCA4OjQ1IHRvIDg6NTkgfCA3LDk1MyB8IDQuNDcgfCAxMiB8CnwgYWZ0ZXIgOTowMCB8IDgsNDY3IHwgMC42MiB8IDIuMCB8CgpHZXR0aW5nIDEwIHdhcyBub3QgZWFzeSBlaXRoZXIuIE9mIHRoZSBkYXkncyAxNiw0MjAgbG90cywgb25seSAxLDYyOCB0cmFkZWQgYXQgOCBvciBoaWdoZXIsIHVuZGVyIG9uZSBpbiB0ZW4uCgo8aWZyYW1lIHNyYz0iL2VtYmVkcy9jcmFzaC1kYXk/Y2hhcnQ9cDM3NDAwLWRheSZsYW5nPWVuIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIzOTAiIHN0eWxlPSJib3JkZXI6MDtkaXNwbGF5OmJsb2NrO21hcmdpbjoxLjVyZW0gMCAyLjVyZW0iIGxvYWRpbmc9ImxhenkiIHRpdGxlPSIzNzQwMCBwdXQgb3ZlciB0aGUgd2hvbGUgZGF5IGluIDUtbWludXRlIGNhbmRsZXMsIHdpdGggdGhlIHZvbHVtZS13ZWlnaHRlZCBhdmVyYWdlcyBiZWZvcmUgYW5kIGFmdGVyIDk6MDAiPjwvaWZyYW1lPgoKRm9yIHRoYXQgbGl0dGxlIG1vbmV5LCB0aGUgbWFyZ2luIGlzIG5vdCBzbWFsbC4gTWFyZ2luIG9uIGEgc2hvcnQgb3B0aW9uIGlzOgoKYGBgCm1hcmdpbiA9IHByZW1pdW0gdmFsdWUgKyBtYXgoQSDiiJIgb3V0LW9mLXRoZS1tb25leSBhbW91bnQsIEIpCm91dC1vZi10aGUtbW9uZXkgYW1vdW50ID0gKFRBSUVYIOKIkiBzdHJpa2UpIMOXIDUwCmBgYAoKQSBhbmQgQiBjb21lIGZyb20gVEFJRkVYJ3MgW21hcmdpbiB0YWJsZV0oaHR0cHM6Ly93d3cudGFpZmV4LmNvbS50dy9jaHQvNS9pbmRleE1hcmdpbmcpLiBPcGVuaW5nIGEgcG9zaXRpb24gdXNlcyB0aGUgaW5pdGlhbCB0aWVyOiBBIGlzIDE4NywwMDAgVFdEIGFuZCBCIGlzIDk0LDAwMCBUV0QuIFVzaW5nIHRoZSBwcmV2aW91cyBjbG9zZSwgb25lIGxvdCBuZWVkcyA5NCw1MDAgVFdEOyB1c2luZyB0aGUgOTowMCBvcGVuLCAxMTEsNzEyIFRXRC4gUHV0IGluIGFib3V0IDEwMCwwMDAgVFdELCBtYWtlIGF0IG1vc3QgNTAwLiBUaGF0IGlzIHJvdWdobHkgMC41JS4KCldvdWxkIHRoZSBwb3NpdGlvbiBnZXQgY2xvc2VkIG91dCB3aGVuIHRoZSBpbmRleCBoaXQgaXRzIGxvdz8gTm8uIEEgYnJva2VyIG9ubHkgY2xvc2VzIGEgcG9zaXRpb24gd2hlbiB0aGUgcmlzayByYXRpbyAoYWNjb3VudCBlcXVpdHkgZGl2aWRlZCBieSByZXF1aXJlZCBtYXJnaW4pIGZhbGxzIGJlbG93IDI1JS4gU2F5IHRoZSBhY2NvdW50IGhlbGQgZXhhY3RseSAxMTEsNzEyIFRXRC4gQXQgOTowMDo1NSwgd2l0aCB0aGUgaW5kZXggYXQgaXRzIGxvdywgdGhpcyBwdXQgdHJhZGVkIGF0IDEuNjoKCmBgYAplcXVpdHkgICAgICAgICAg4omIIDExMSw3MTIgKyA1MDAg4oiSIDEuNiDDlyA1MCA9IDExMiwxMzIgVFdECnJlcXVpcmVkIG1hcmdpbiDiiYggMTg3LDAwMCDiiJIgKDM3LDgzNy4wNSDiiJIgMzcsNDAwKSDDlyA1MCDiiYggMTY1LDE0OCBUV0QKcmlzayByYXRpbyAgICAgIOKJiCAxMTIsMTMyIMO3IDE2NSwxNDgg4omIIDY3LjklCmBgYAoKVGhhdCBpcyBub3doZXJlIG5lYXIgMjUlLiBUaGUgbW9uZXkgaXMganVzdCB0aWVkIHVwIGZvciB0aGUgZGF5LgoKPHNwYW4gc3R5bGU9ImNvbG9yOiNENDA5MjA7Zm9udC13ZWlnaHQ6NzAwIj5UaGlzIG9ubHkgd29ya3MgZm9yIGEgY29udHJhY3QgdGhhdCBzZXR0bGVzIHRoYXQgZGF5Ljwvc3Bhbj4gVGhlIDIwMjYxMVcyIDM3NDAwIHB1dCwgZXhwaXJpbmcgMTEvMTEsIG9wZW5lZCBhdCAxLDA4MCBvbiB0aGUgc2FtZSBkYXkuIEl0IGhhZCBmb3VyIG1vcmUgdHJhZGluZyBkYXlzLCBhbmQgdGhlIGluZGV4IGNvdWxkIGZhbGwgMTAlIG9uIGVhY2ggb25lLiBGb3VyIGxpbWl0LWRvd24gZGF5cyBpbiBhIHJvdyByZWFjaCBhYm91dCAyNywyNzcsIHNvIDM3LDQwMCBpcyBub3doZXJlIG5lYXIgYSBmbG9vci4KCiMjIyBCZWZvcmUgOTowMCwgcGVvcGxlIHN0aWxsIHBhaWQgMTAgZm9yIHRoZSAzNzQwMCBwdXQKCkZyb20gODo0NSB0byA5OjAwLCBmdXR1cmVzIHdlcmUgdHJhZGluZy4gVGhleSBvcGVuZWQgYXQgMzgsODg4IGF0IDg6NDUsIDMsMDI3IHBvaW50cyBiZWxvdyB0aGUgcHJldmlvdXMgY2xvc2UsIHdoaWxlIFRBSUVYIGl0c2VsZiB3YWl0ZWQgdW50aWwgOTowMC4gVGhlIDM3NDAwIHB1dCBoaXQgaXRzIGRheSBoaWdoIG9mIDEyIGF0IDg6NDg6MDUsIHdpdGggZnV0dXJlcyBhdCAzOCwzODIuCgpPbmUgdHJhZGVyIHNhaWQgb3B0aW9uIHByaWNlcyBhbGwgY29tZSBmcm9tIGEgZm9ybXVsYSwgc28geW91IGNhbiBhbHdheXMgdGVsbCB3aGV0aGVyIGEgcHJpY2UgbWFrZXMgc2Vuc2UuIEZvciB0aGUgMzc0MDAgcHV0IHRoYXQgaXMgdHJ1ZTogaXQgaXMgc3VyZSB0byBleHBpcmUgYXQgemVybywgc28gaXRzIGZhaXIgcHJpY2UgaXMgemVyby4gU3RpbGwsIDcsOTUzIGxvdHMgdHJhZGVkIGJlZm9yZSA5OjAwLCBhdCBwcmljZXMgZnJvbSAxIHRvIDEyLgoKQ291bGQgeW91IGhhdmUgc29sZCBpdCB0aGUgbmlnaHQgYmVmb3JlPyBOby4gSW4gdGhlIDExLzUgbmlnaHQgc2Vzc2lvbiwgdGhlIGxvd2VzdCBGMSBwdXQgc3RyaWtlIHRoYXQgdHJhZGVkIHdhcyAzODYwMC4gVGhlIDM3NDAwIGFuZCAzNzUwMCBwdXRzIHRyYWRlZCAwIGxvdHMgYWxsIG5pZ2h0LgoKIyMgU2hvcnQgMzc1MDAgcHV0OiA1IHBvaW50cyBtb3JlLCB1cCB0byA4MyBwb2ludHMgbG9zdAoKIlRoZSBsaW1pdC1kb3duIGxpbmUgaXMgcmVhbGx5IGEgYml0IGFib3ZlIDM3LDQxNywgc28gSSBjYW4gbW92ZSB0aGUgc3RyaWtlIHVwIG9uZSBzdGVwIGFuZCBjb2xsZWN0IG1vcmUgdGhhbiB0d2ljZSB0aGUgcHJlbWl1bS4gVGhlIGluZGV4IHdvdWxkIGhhdmUgdG8gc2V0dGxlIGV4YWN0bHkgaW5zaWRlIHRoZSA4MyBwb2ludHMgYmV0d2VlbiAzNyw0MTcgYW5kIDM3LDUwMC4gVW5saWtlbHkuIgoKVGhlIHByZW1pdW0gcmVhbGx5IHdhcyBiaWdnZXI6IDEwLjgzIG9uIGF2ZXJhZ2UgYmVmb3JlIDk6MDAgZm9yIHRoZSAzNzUwMCBwdXQsIDIuNCB0aW1lcyB0aGUgNC40NyBvbiB0aGUgMzc0MDAgcHV0LgoKPGlmcmFtZSBzcmM9Ii9lbWJlZHMvY3Jhc2gtZGF5P2NoYXJ0PXAzNzUwMC1vcGVuJmxhbmc9ZW4iIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjM5MCIgc3R5bGU9ImJvcmRlcjowO2Rpc3BsYXk6YmxvY2s7bWFyZ2luOjEuNXJlbSAwIDIuNXJlbSIgbG9hZGluZz0ibGF6eSIgdGl0bGU9IjM3NTAwIHB1dCBpbiAxLW1pbnV0ZSBjYW5kbGVzIGZyb20gODo0NSB0byA5OjE1LCB3aXRoIGEgc2FsZSBhdCA4OjUwIj48L2lmcmFtZT4KClNlbGxpbmcgYXQgOS4yIGF0IDg6NTAga2VwdCBhbGwgOS4yIHBvaW50cywgc2luY2Ugc2V0dGxlbWVudCB3YXMgMzksODI0LiBCdXQgMzc1MDAgaXMgODMgcG9pbnRzIGFib3ZlIDM3LDQxNywgYW5kIHN0aWxsIDQxIGFib3ZlIDM3LDQ1OS4gPHNwYW4gc3R5bGU9ImNvbG9yOiNENDA5MjA7Zm9udC13ZWlnaHQ6NzAwIj5IYWQgdGhlIGluZGV4IHNldHRsZWQgYXQgbGltaXQtZG93biwgZWFjaCBsb3Qgd291bGQgcGF5IDgzIHBvaW50czwvc3Bhbj4sIGEgbG9zcyBvZiA3My44IGFmdGVyIHRoZSA5LjIgY29sbGVjdGVkLCBhYm91dCAzLDcwMCBUV0QuCgojIyMgVHVybmluZyBpdCBpbnRvIGEgc3ByZWFkIGN1dHMgbWFyZ2luIGZyb20gOTAsMDAwIHRvIDUsMDAwCgoiT3ZlciA5MCwwMDAgVFdEIHRpZWQgdXAgb24gb25lIHNob3J0IDM3NTAwIHB1dCBpcyB0b28gbXVjaC4gQnV5IGEgMzc0MDAgcHV0IGFzIHdlbGw6IGl0IGNvc3RzIGl0cyBwcmVtaXVtLCBidXQgbWFyZ2luIGRyb3BzIHRvIDUsMDAwLCBzbyB0aGUgc2FtZSBtb25leSBjYXJyaWVzIG1vcmUgdGhhbiB0ZW4gbG90cy4iCgpTaG9ydCAzNzUwMCBwbHVzIGxvbmcgMzc0MDAgaXMgYSBidWxsIHB1dCBzcHJlYWQ6CgpgYGAKc2V0dGxlbWVudCDiiaUgMzcsNTAwICAgICAgICAgICDihpIgYm90aCBleHBpcmUgYXQgMCwga2VlcCB0aGUgbmV0IHByZW1pdW0KMzcsNDAwIDwgc2V0dGxlbWVudCA8IDM3LDUwMCAg4oaSIHBheSAoMzcsNTAwIOKIkiBzZXR0bGVtZW50KSwgbWludXMgdGhlIG5ldCBwcmVtaXVtCnNldHRsZW1lbnQg4omkIDM3LDQwMCAgICAgICAgICAg4oaSIHBheSAxMDAsIG1pbnVzIHRoZSBuZXQgcHJlbWl1bQpgYGAKClRoZSBsb25nIDM3NDAwIHB1dCBleHBpcmVzIGF0IHplcm8gYW55d2F5LCBzbyBpdCBkb2VzIG5vdGhpbmcgZm9yIHRoZSByaXNrOiBzZXR0bGUgYXQgbGltaXQtZG93biBhbmQgeW91IHN0aWxsIGxvc2UgODMuIDxzcGFuIHN0eWxlPSJjb2xvcjojRDQwOTIwO2ZvbnQtd2VpZ2h0OjcwMCI+SXQgZG9lcyBvbmUgdGhpbmcsIHdoaWNoIGlzIG1ha2UgdGhlIG1hcmdpbiBjaGVhcC48L3NwYW4+IFRBSUZFWCBpZ25vcmVzIGxpbWl0LWRvd24gd2hlbiBpdCBzZXRzIG1hcmdpbi4gT24gYSBzaG9ydCAzNzUwMCBwdXQgYWxvbmUgdGhlIGNvbnRyYWN0J3MgbG9zcyBoYXMgbm8gY2FwLCBzbyB0aGUgbWFyZ2luIGlzIG92ZXIgOTAsMDAwIFRXRC4gV2l0aCB0aGUgbG9uZyAzNzQwMCBwdXQgYWRkZWQsIHRoZSB3b3JzdCBjYXNlIGlzIHRoZSAxMDAgcG9pbnRzIGJldHdlZW4gc3RyaWtlcywgYW5kIFtUQUlGRVgncyBtYXJnaW4gcnVsZXNdKGh0dHBzOi8vd3d3LnRhaWZleC5jb20udHcvY2h0LzUvbWFyZ2luZ1JlcUluZGV4T3B0KSBjaGFyZ2UgYSBwdXQgYnVsbCBzcHJlYWQgMTAwIHBvaW50cyB0aW1lcyA1MCBUV0QsIHdoaWNoIGlzIDUsMDAwIFRXRC4gQmVjYXVzZSBvZiBsaW1pdC1kb3duIHRoZSByZWFsIHdvcnN0IGNhc2UgaXMgODMsIGJ1dCBtYXJnaW4gaXMgc3RpbGwgY2hhcmdlZCBvbiAxMDAuCgo8aWZyYW1lIHNyYz0iL2VtYmVkcy9jcmFzaC1kYXk/Y2hhcnQ9c3ByZWFkJmxhbmc9ZW4iIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjM5MCIgc3R5bGU9ImJvcmRlcjowO2Rpc3BsYXk6YmxvY2s7bWFyZ2luOjEuNXJlbSAwIDIuNXJlbSIgbG9hZGluZz0ibGF6eSIgdGl0bGU9IjM3NTAwIHB1dCBtaW51cyAzNzQwMCBwdXQgaW4gc2Vjb25kcyB3aGVyZSBib3RoIHRyYWRlZCwgd2l0aCBhIGxpbmUgYXQgMTAgcG9pbnRzIj48L2lmcmFtZT4KCkNvdWxkIHlvdSBzZWxsIHRoZSBzcHJlYWQgYXQgMTA/IFRoZSB0d28gcHV0cyB0cmFkZSBzZXBhcmF0ZWx5LCBzbyB0aGUgdGFibGUgYmVsb3cgdGFrZXMgc2Vjb25kcyB3aGVyZSBib3RoIHRyYWRlZCBhbmQgc3VidHJhY3RzIHRoZSBsYXN0IHRyYWRlIG9mIGVhY2ggaW4gdGhhdCBzZWNvbmQ6Cgp8IFRpbWUgfCAzNzUwMCBwdXQgfCAzNzQwMCBwdXQgfCBTcHJlYWQgfCB8CnwtLS18LS0tfC0tLXwtLS18LS0tfAp8IDg6NDU6MDUgfCAxNSB8IDkuNiB8IDUuNCB8IHwKfCA4OjQ1OjA3IHwgNTAgfCA2LjIgfCA0My44IHwgMzc1MDAgcHV0IHRyYWRlZCAzIGxvdHMgYXQgNDkgdG8gNTAgfAp8IDg6NDg6MTQgfCAyMCB8IDEwIHwgMTAgfCB8CnwgODo0ODoxOCB8IDI2LjUgfCAxMCB8IDE2LjUgfCBsYXN0IHRpbWUgYXQgMTAgb3IgbW9yZSB8CnwgODo1MDoyMyB8IDEyIHwgNS40IHwgNi42IHwgbmV2ZXIgYmFjayB0byAxMCBhZnRlciA4OjQ5IHwKClNlbGxpbmcgYXQgMTAgYXQgODo0ODoxNCBjb2xsZWN0cyA1MDAgVFdEIGEgbG90IG9uIDUsMDAwIFRXRCBvZiBtYXJnaW4sIGEgMTAlIHJldHVybiwgYWJvdXQgdHdlbnR5IHRpbWVzIHdoYXQgYSBzaG9ydCAzNzQwMCBwdXQgYWxvbmUgcGFpZC4gQnV0IHNwcmVhZHMgb2YgMTAgb3IgbW9yZSBvbmx5IHNob3dlZCB1cCBmcm9tIDg6NDUgdG8gODo0ODsgdHdvIG1pbnV0ZXMgbGF0ZXIgaXQgd2FzIGFib3V0IDcuCgo8c3BhbiBzdHlsZT0iY29sb3I6I0Q0MDkyMDtmb250LXdlaWdodDo3MDAiPlRoZXNlIHNwcmVhZHMgY29tZSBmcm9tIHR3byBzZXBhcmF0ZSBzaW5nbGUtcHV0IHRyYWRlcywgbm90IGZyb20gc3ByZWFkIG9yZGVycyBmaWxsaW5nLjwvc3Bhbj4gVEFJRkVYJ3MgdHJhZGluZyBzeXN0ZW0gW2hhcyBubyBvcmRlciBib29rIGZvciBvcHRpb24gY29tYmluYXRpb24gb3JkZXJzXShodHRwczovL3d3dy50YWlmZXguY29tLnR3L2ZpbGUvdGFpZmV4L2V2ZW50L2NodC8xMDMwNV8xL2V2ZW50Lmh0bWwpLCBzbyBhIHNwcmVhZCBvcmRlciBpcyBzcGxpdCBpbnRvIGl0cyB0d28gbGVncyBhbmQgZmlsbGVkIGFnYWluc3QgdGhlIDM3NTAwIGFuZCAzNzQwMCBwdXQgb3JkZXIgYm9va3MgKFthIDIwMTkgQ29tbWVyY2lhbCBUaW1lcyBleHBsYWluZXJdKGh0dHBzOi8vd3d3LmNoaW5hdGltZXMuY29tL3JlYWx0aW1lbmV3cy8yMDE5MDMyMTAwMDQzOS0yNjA1MTEpIHB1dHMgaXQgYXMgIml0cyBjb3VudGVycGFydGllcyBhcmUgdHdvIHNpbmdsZS1sZWcgb3JkZXJzIikuIFNlbGxpbmcgdGhlIHNwcmVhZCBhdCBhIG5ldCAxMCBuZWVkcywgYXQgdGhlIG1vbWVudCBpdCBhcnJpdmVzLCBhIHJlc3RpbmcgYmlkIG9uIHRoZSAzNzUwMCBwdXQgYW5kIGEgcmVzdGluZyBvZmZlciBvbiB0aGUgMzc0MDAgcHV0IGF0IGxlYXN0IDEwIGFwYXJ0LiBUaGUgdHJhZGUgZGF0YSByZWNvcmRzIGZpbGxzIGJ1dCBub3QgcmVzdGluZyBvcmRlcnMsIHNvIGl0IGNhbm5vdCBjb25maXJtIHdoZXRoZXIgdGhlIHF1b3RlcyB3ZXJlIDEwIGFwYXJ0IGF0IDg6NDg6MTQuCgo8c3BhbiBzdHlsZT0iY29sb3I6I0Q0MDkyMDtmb250LXdlaWdodDo3MDAiPkEgc3ByZWFkIG9yZGVyIGFsc28gY2Fubm90IHJlc3QgaW4gdGhlIGJvb2sgd2l0aCBST0QuPC9zcGFuPiBTYXkgeW91IHNlbmQgInNlbGwgMTAgc3ByZWFkcyBhdCBhIG5ldCAxMCIgYW5kIG9ubHkgMyBjYW4gZmlsbCB3aGVuIGl0IGFycml2ZXM6Cgp8IE9yZGVyIGNvbmRpdGlvbiB8IEFsbG93ZWQgZm9yIHNwcmVhZHMgfCBSZXN1bHQgfAp8LS0tfC0tLXwtLS18CnwgUk9EIChSZXN0IG9mIERheSkgfCBObyB8IDMgZmlsbCwgdGhlIG90aGVyIDcgd2FpdCBpbiB0aGUgYm9vayB8CnwgSU9DIChJbW1lZGlhdGUtT3ItQ2FuY2VsKSB8IFllcyB8IDMgZmlsbCwgdGhlIG90aGVyIDcgYXJlIGNhbmNlbGxlZCBhdCBvbmNlIHwKfCBGT0sgKEZpbGwtT3ItS2lsbCkgfCBZZXMgfCBhbGwgMTAgY2Fubm90IGZpbGwgYXQgb25jZSwgc28gdGhlIHdob2xlIG9yZGVyIGlzIGNhbmNlbGxlZCB8CgpUQUlGRVgncyBbb3JkZXIgdHlwZSBwYWdlXShodHRwczovL3d3dy50YWlmZXguY29tLnR3L2NodC80L29hbUludHJvZHVjdGlvbikgc2F5cyBvcHRpb24gY29tYmluYXRpb24gb3JkZXJzIGFyZSBub3Qgb3BlbiB0byBST0QgKCLpgbjmk4fmrIrntYTlkIjlvI/lp5ToqJflj4rkuIDlrprnr4TlnI3luILlg7nlp5ToqJfvvIzmnKrplovmlL5ST0TkuYvlp5ToqJfmop3ku7YiKSwgYW5kIGNvbWJpbmF0aW9uIG9yZGVycyBhcmUgbm90IGFjY2VwdGVkIGluIHRoZSA4OjMwIHRvIDg6NDUgcHJlLW9wZW4uIFNvIGFuIElPQyBvcmRlciB0byBzZWxsIHRoZSBzcHJlYWQgYXQgYSBuZXQgMTAgc2VudCBhdCA4OjQ1OjA1LCB3aGVuIHRoZSBzcHJlYWQgd2FzIDUuNCwgaXMgY2FuY2VsbGVkOyB5b3Ugd291bGQgaGF2ZSB0byByZXNlbmQgYXQgODo0NTowNywgd2hlbiBpdCBqdW1wZWQgdG8gNDMuOCwgdG8gaGF2ZSBhIGNoYW5jZS4gQnJva2VycycgInJlcGVhdGVkIElPQyBvbiBzcHJlYWQgb3JkZXJzIiBpcyBwcm9iYWJseSBqdXN0IHRoZSBzeXN0ZW0gcmVzZW5kaW5nIGZvciB5b3UgdW50aWwgaXQgZmlsbHMuCgojIyBTaG9ydCA0MDAwMCBwdXQ6IHRoZSBpbmRleCBvcGVuZWQgbmVhciBsaW1pdC1kb3duLCBzbyBiZXQgb24gYSByZWJvdW5kCgoiSXQgb3BlbmVkIGFsbW9zdCBhdCBsaW1pdC1kb3duLiBBZnRlciBhIGRyb3AgbGlrZSB0aGF0LCBpdCBzaG91bGQgYm91bmNlIHNvbWUgYmVmb3JlIHRoZSBjbG9zZS4gRGVlcCBpbi10aGUtbW9uZXkgcHV0cyBjYXJyeSB0aGUgbW9zdCBwcmVtaXVtLCBzbyBpZiBJJ20gcmlnaHQsIHRoZXkgcGF5IHRoZSBtb3N0LiIKClNvIHNvbWUgdHJhZGVycyBzb2xkIHRoZSAzOTcwMCwgNDAwMDAgYW5kIDQwMzAwIHB1dHMuIFRob3NlIHN0cmlrZXMgYXJlIG92ZXIgMiwwMDAgcG9pbnRzIGFib3ZlIHRoZSBsaW1pdC1kb3duIGxpbmUsIHNvIGxpbWl0LWRvd24gZG9lcyBub3QgcHJvdGVjdCB0aGVtLiBJZiB0aGUgaW5kZXggZGlkIG5vdCBjb21lIGJhY2ssIHRoZXkgbG9zZS4KCjxpZnJhbWUgc3JjPSIvZW1iZWRzL2NyYXNoLWRheT9jaGFydD1wNDAwMDAmbGFuZz1lbiIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMzkwIiBzdHlsZT0iYm9yZGVyOjA7ZGlzcGxheTpibG9jazttYXJnaW46MS41cmVtIDAgMi41cmVtIiBsb2FkaW5nPSJsYXp5IiB0aXRsZT0iNDAwMDAgcHV0IGluIDEtbWludXRlIGNhbmRsZXMgb3ZlciB0aGUgd2hvbGUgZGF5LCB3aXRoIGZvdXIgc2FsZXMgYW5kIHRoZWlyIHJlc3VsdHMiPjwvaWZyYW1lPgoKU2V0dGxlbWVudCBhdCAzOSw4MjQgaXMgMTc2IHBvaW50cyBiZWxvdyA0MCwwMDAsIHNvIHRoZSA0MDAwMCBwdXQgcGF5cyAxNzYgcG9pbnRzIGEgbG90LiBTZWxsaW5nIGF0IGRpZmZlcmVudCB0aW1lczoKCnwgU29sZCBhdCB8IFByaWNlIHwgT3dlZCBhdCBzZXR0bGVtZW50IHwgUGVyIGxvdCAocG9pbnRzKSB8CnwtLS18LS0tfC0tLXwtLS18CnwgOTowMSB8IDEsODkwIHwgMTc2IHwgKzEsNzE0IHwKfCA5OjA2IHwgMSw2ODAgfCAxNzYgfCArMSw1MDQgfAp8IDEwOjM3IHwgMjI1IHwgMTc2IHwgKzQ5IHwKfCAxMzowMyB8IDQyLjUgfCAxNzYgfCDiiJIxMzMuNSB8CgpGaXZlIG1pbnV0ZXMgYmV0d2VlbiA5OjAxIGFuZCA5OjA2IGNvc3QgMjEwIHBvaW50cy4gQWZ0ZXIgOTowMCB0aGUgaW5kZXgga2VwdCBjbGltYmluZyBhbmQgdGhlIDQwMDAwIHB1dCBrZXB0IGZhbGxpbmcuIEJ5IDEwOjM3IHRoZSBpbmRleCB3YXMgYmFjayBhcm91bmQgNDAsMDAwIGFuZCB0aGUgcHV0IHNvbGQgZm9yIDIyNTsgYXQgMTM6MDMgaXQgc29sZCBmb3IgNDIuNSwgbm90IGV2ZW4gZW5vdWdoIHRvIGNvdmVyIHRoZSAxNzYgb3dlZC4KCkFsbCB0aHJlZSBwdXRzIGhpdCB0aGVpciBoaWdocyBiZXR3ZWVuIDk6MDAgYW5kIDk6MDU6IDEsNzAwIGZvciB0aGUgMzk3MDAsIDEsOTYwIGZvciB0aGUgNDAwMDAsIDIsMjUwIGZvciB0aGUgNDAzMDAuIFRoZSBpbmRleCB3YXMgYXJvdW5kIDM3LDg0MCBpbiB0aG9zZSBzZWNvbmRzLCB5ZXQgZWFjaCBoaWdoIHdhcyAxNjAgdG8gMjA5IHBvaW50cyBiZWxvdyB0aGUgcHV0J3MgaW50cmluc2ljIHZhbHVlIGF0IHRoYXQgbW9tZW50LiA8c3BhbiBzdHlsZT0iY29sb3I6I0Q0MDkyMDtmb250LXdlaWdodDo3MDAiPlNvIGV2ZW4gc2VsbGluZyBhdCB0aGUgdmVyeSB0b3AsIGlmIHRoZSBpbmRleCBoYWQgc3RheWVkIHJpZ2h0IHRoZXJlLCB5b3Ugd291bGQgbG9zZSB0aGF0IG11Y2ggcGVyIGxvdC48L3NwYW4+IFNldHRsZW1lbnQgdXNlcyB0aGUgYXZlcmFnZSBhZnRlciAxMzowMCwgbm90IHRoZSBpbmRleCBhdCA5OjAwOyBhbnlvbmUgc2VsbGluZyBiZWxvdyBpbnRyaW5zaWMgdmFsdWUgd2FzIHByb2JhYmx5IGJldHRpbmcgdGhlIGluZGV4IHdvdWxkIGJlIGhpZ2hlciBieSB0aGUgYWZ0ZXJub29uLgoKRm9yIGEgc2VsbGVyIGF0IHRoZSBoaWdoLCB0aGUgcmVzdWx0IGRlcGVuZHMgb24gd2hlcmUgdGhlIGluZGV4IGVuZHMgKGluIHBvaW50czsgb25lIHBvaW50IGlzIDUwIFRXRCk6Cgp8IFN0cmlrZSB8IEhpZ2ggfCBTZXR0bGVzIGF0IDM5LDgyNCAoYWN0dWFsKSB8IFN0YXlzIG5lYXIgMzcsODQwIHwgU2V0dGxlcyBhdCBsaW1pdC1kb3duIDM3LDQxNyB8CnwtLS18LS0tfC0tLXwtLS18LS0tfAp8IDM5NzAwIHB1dCB8IDEsNzAwIHwgKzEsNzAwIHwg4oiSMTYwIHwg4oiSNTgzIHwKfCA0MDAwMCBwdXQgfCAxLDk2MCB8ICsxLDc4NCB8IOKIkjIwMyB8IOKIkjYyMyB8CnwgNDAzMDAgcHV0IHwgMiwyNTAgfCArMSw3NzQgfCDiiJIyMDkgfCDiiJI2MzMgfAoKSGFkIGl0IHNldHRsZWQgYXQgbGltaXQtZG93biwgdGhlIDQwMDAwIHB1dCB3b3VsZCBsb3NlIDYyMyBwb2ludHMgYSBsb3QsIG92ZXIgMzEsMDAwIFRXRC4gVGhhdCBkYXkgdGhlIGJldCBwYWlkLgoKIyMgUG9zdC1tYXJrZXQgcmV2aWV3CgpBdCA4OjQ1IFRBSUVYIGZ1dHVyZXMgb3BlbmVkIGF0IDM4LDg4OCwgMywwMjcgcG9pbnRzIG9yIDcuMiUgYmVsb3cgdGhlIHByZXZpb3VzIGNsb3NlLCBzbyBhIGJpZyBkb3duIGRheSB3YXMgY2xlYXIgZnJvbSB0aGUgb3Blbi4gV2hldGhlciBpdCB3b3VsZCByZWFjaCBsaW1pdC1kb3duIHdhcyBub3QsIGFuZCBpbiB0aGUgZW5kIGl0IGRpZCBub3Q6IHRoZSBsb3cgd2FzIOKIkjguOTklLiBGb3Igc29tZW9uZSBwbGFjaW5nIGFuIG9yZGVyIGF0IDg6NDUsIGVhY2ggdHJhZGUgbGVmdCBhIGRpZmZlcmVudCB0aGluZyB0byB3YWl0IGZvciB1bnRpbCB0aGUgY2xvc2U6CgotICoqU2hvcnQgMzc0MDAgcHV0Kio6IGV4cGlyZXMgYXQgemVybyB3aGVyZXZlciB0aGUgaW5kZXggc2V0dGxlcywgZXZlbiBvbiBhbiB1cCBkYXkuIEJ1dCB3aXRob3V0IGEgYmlnIGRyb3Agbm9ib2R5IHBheXMgMTAgZm9yIGl0OyB0aGUgcHJlbWl1bSBvbmx5IGV4aXN0ZWQgYmVjYXVzZSBvZiB0aGUgY3Jhc2guCi0gKipTaG9ydCAzNzUwMCBwdXQgYW5kIHRoZSBzcHJlYWQqKjogbG9zZSBvbmx5IGlmIHRoZSBpbmRleCBzZXR0bGVzIGJldHdlZW4gdGhlIGxpbWl0LWRvd24gbGV2ZWwgYW5kIDM3LDUwMCwgd2hpY2ggbm9ib2R5IGNvdWxkIGtub3cgYXQgODo0NS4gVGhlIGRheSdzIGxvdyBvZiAzNyw4Mzcgd2FzIHN0aWxsIG92ZXIgMzAwIHBvaW50cyBhYm92ZSB0aGF0IHJhbmdlLgotICoqU2hvcnQgNDAwMDAgcHV0Kio6IGEgYmV0IG9uIHRoZSByZWJvdW5kLiBJdCBtYWRlIG1vbmV5IGJlY2F1c2UgdGhlIGluZGV4IGNhbWUgYmFjaywgd2hpY2ggeW91IG9ubHkga25vdyBhZnRlcndhcmRzLgoKfCBUcmFkZSB8IFByZW1pdW0gY29sbGVjdGVkIChwb2ludHMpIHwgTWFyZ2luIHBlciBsb3QgfCBPd2VkIGlmIHRoZSBpbmRleCBzZXR0bGVzIGF0IDM3LDQxNyAocG9pbnRzKSB8CnwtLS18LS0tfC0tLXwtLS18CnwgU2hvcnQgMzc0MDAgcHV0IHwgNC40NyBhdmVyYWdlIGJlZm9yZSA5OjAwLCBoaWdoIDEyIHwgOTQsNTAwIHRvIDExMSw3MTIgVFdEIHwgMCB8CnwgU2hvcnQgMzc1MDAgcHV0IHwgMTAuODMgYXZlcmFnZSBiZWZvcmUgOTowMCB8IG92ZXIgOTAsMDAwIFRXRCB8IDgzIHwKfCBTaG9ydCAzNzUwMCArIGxvbmcgMzc0MDAgfCAxMCsgdW50aWwgODo0OCwgYWJvdXQgNyBhdCA4OjUwIHwgNSwwMDAgVFdEIHwgODMgfAp8IFNob3J0IDQwMDAwIHB1dCB8IGhpZ2ggMSw5NjAgfCBhYm91dCAyODUsMDAwIFRXRCB8IDIsNTgzIHwKCjxzcGFuIHN0eWxlPSJjb2xvcjojRDQwOTIwO2ZvbnQtd2VpZ2h0OjcwMCI+VGhlIG9ubHkgc3VyZSB3aW4gd2FzIHRoZSBzaG9ydCAzNzQwMCBwdXQ8L3NwYW4+LCBidXQgaXQgdGllcyB1cCAxMDAsMDAwIFRXRCBvZiBtYXJnaW4gdG8gcGljayB1cCBwb2NrZXQgY2hhbmdlIG9mIGF0IG1vc3QgNjAwIFRXRCBhIGxvdCwgZ3VhcmFudGVlZC4gV2hldGhlciB0aGF0IGlzIHdvcnRoIGl0IGRlcGVuZHMgb24gd2hvIHlvdSBhcmU7IGZvciBzb21lIHBlb3BsZSBpdCBqdXN0IGlzIG5vdC4gVGhlIHNob3J0IDM3NTAwIHB1dCBhbmQgdGhlIHNwcmVhZCBjb2xsZWN0ZWQgYWJvdXQgNSBwb2ludHMgbW9yZSBwZXIgbG90LCBhbmQgb3dlZCA4MyBpZiB0aGUgaW5kZXggc2V0dGxlZCBhdCBsaW1pdC1kb3duLiBUaGUgc3ByZWFkIG5lZWRzIG9uZSBlaWdodGVlbnRoIG9mIHRoZSBtYXJnaW4gb2YgYSBzaG9ydCAzNzUwMCBwdXQsIHNvIDkwLDAwMCBUV0QgY2FycmllcyAxOCBsb3RzOyBzZXR0bGUgYXQgbGltaXQtZG93biBhbmQgdGhvc2UgMTggb3dlIDEsNDk0IHBvaW50cyB0b2dldGhlciwgNzQsNzAwIFRXRC4gVGhlIHNob3J0IDQwMDAwIHB1dCBpcyBhIGRpZmZlcmVudCB0cmFkZS4gSXQgaXMgaW4gdGhlIG1vbmV5LCBzbyBpdHMgbWFyZ2luIGlzIGFib3V0IDI4NSwwMDAgVFdELCBsaW1pdC1kb3duIGRvZXMgbm90IHByb3RlY3QgaXQsIGFuZCBpdCBtYWRlIG1vbmV5IHRoYXQgZGF5IGJlY2F1c2UgdGhlIGluZGV4IGNhbWUgYmFjay4K17:T3d27,<p>11/6 開盤，加權指數直接跳空跌 6.4%，開在 38,915，9:00:55 最低殺到 37,837，跌了快 9%。偏偏這天又是 202611F1 週選結算日，跌停點位以下的 put 當天就歸零，賣 Put 看起來像在撿錢。</p>
+<p>結果指數一路彈回來，收在 39,701，F1 結算在 39,824。</p>
+<iframe src="/embeds/crash-day?chart=index&#x26;lang=zh" width="100%" height="390" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="11/6 加權指數 5 分 K，標出開盤、最低、收盤、指數跌停點位跟 F1 結算價"></iframe>
+<h2>指數最多跌到哪</h2>
+<ul>
+<li>上市、上櫃股票一天最多跌 10%，加權指數是上市股票照市值權重算出來的。</li>
+<li>加權指數本身沒有漲跌幅限制。拿它當標的的期貨是台指期，台指期一天最多跌前一天結算價的 10%，11/6 的跌停價是 37,694。</li>
+<li>期貨跟選擇權 8:45 開盤，比股市早 15 分鐘。</li>
+</ul>
+<p>所以就算全部跌停，加權指數也只跌 10%，前一天收 41,574.72，打九折是 37,417。</p>
+<p>F1 的結算價是 13:00 到 13:30 加權指數的平均，不會比當天最低點低，所以也不會低於 37,417。履約價在這條線下面的 37400P，到期就是 0；往上一檔的 37500P，指數真的收在跌停附近，賣方還是要付錢。</p>
+<p>這條線實際上還會高一點。台積電前一天收 2,240，乘 0.9 是 2,016，可是千元以上的股票一跳 5 元，跌停價只能掛 2,020，有 4 元跌不完。像台積電這樣跌不完的零頭，所有股票加起來大約是加權指數 30 點，37,417 加 30 是 37,447；直接把 0.9 換成 0.901 粗估，則是 37,459。</p>
+<h2>SP37400：撿銅板</h2>
+<p>「今天就結算，就算全部跌停，指數也只到 37,417，37400P 結算時一定是價外。反正一定歸零，有人肯付幾點，就趁歸零前先收下來。」</p>
+<p>SP 是 sell put，賣出 put；BP 是 buy put，買進 put。指數不管漲還是跌，37400P 都會歸零，所以這個做法不用猜方向。因為 F1 在 11/6 當天結算，從賣出到結算之間沒有下一個交易日，所以指數最多只會跌 11/6 這一天的 10%。</p>
+<iframe src="/embeds/crash-day?chart=p37400-open&#x26;lang=zh" width="100%" height="390" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="37400P 8:45 到 9:15 的 1 分 K，標出 8:47 跟 9:05 兩個賣出時間"></iframe>
+<p>8:47 賣在 10 點的人，一口賺 500 元。拖到 9:05 才賣，只剩 0.6 點，一口 30 元。差這麼多，是因為 9:00 以前加權指數還沒開，盤面上只有台指期在跌，這張 put 一直有人願意用好幾點買。<span style="color:#D40920;font-weight:700">9:00 指數一開出來，價格馬上掉到 2 點以內</span>，之後再也沒回去：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>時段</th><th>成交口數</th><th>成交量加權平均（點）</th><th>最高（點）</th></tr></thead><tbody><tr><td>8:45 到 8:59</td><td>7,953</td><td>4.47</td><td>12</td></tr><tr><td>9:00 以後</td><td>8,467</td><td>0.62</td><td>2.0</td></tr></tbody></table>
+<p>10 點其實也不好賣。全天 16,420 口裡，成交在 8 點以上的只有 1,628 口，不到一成。</p>
+<iframe src="/embeds/crash-day?chart=p37400-day&#x26;lang=zh" width="100%" height="390" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="37400P 全天 5 分 K，疊上 9:00 前後兩段成交量加權平均"></iframe>
+<p>收這麼一點錢，保證金倒是一點都不少。賣一口選擇權的保證金這樣算：</p>
+<pre><code>保證金 = 權利金市值 + max(A 值 − 價外值, B 值)
+價外值 = (加權指數 − 履約價) × 50
+</code></pre>
+<p>A 值、B 值是期交所<a href="https://www.taifex.com.tw/cht/5/indexMarging">保證金一覽表</a>公告的，開新倉用原始保證金那一級，A 值 187,000、B 值 94,000。用前一天收盤算，一口要 94,500 元；用 9:00 開盤算，要 111,712 元。放十萬塊進去，最多賺 500 元，報酬大概 0.5%。</p>
+<p>那指數殺到最低的那一刻，會不會被砍倉？不會。期貨商要等風險指標（帳戶權益除以所需保證金）跌破 25% 才會代為沖銷。假設帳戶裡剛好放 111,712 元，9:00:55 指數最低的時候，這張 put 成交在 1.6 點：</p>
+<pre><code>帳戶權益 ≈ 111,712 + 500 − 1.6 × 50 = 112,132 元
+所需保證金 ≈ 187,000 − (37,837.05 − 37,400) × 50 ≈ 165,148 元
+風險指標 ≈ 112,132 ÷ 165,148 ≈ 67.9%
+</code></pre>
+<p>離 25% 還很遠，這筆錢只是當天被綁住，不能拿去做別的事。</p>
+<p><span style="color:#D40920;font-weight:700">這招只對當天結算的契約有用。</span>同一天、11/11 才到期的 202611W2 37400P，開盤是 1,080 點。它後面還有四個交易日，每天都可以再跌 10%，四天連續跌停會跌到 27,277 左右，37,400 根本不是底。</p>
+<h3>9:00 前，37400P 還有人用 10 點買</h3>
+<p>8:45 到 9:00 這段，台指期已經開盤，8:45 開在 38,888，比前一天收盤低了 3,027 點，加權指數卻要等到 9:00 才開。37400P 衝到當天最高 12 點是在 8:48:05，那時台指期在 38,382。</p>
+<p>也有人說，選擇權價格都是公式算得出來的，合不合理也算得出來。放在 37400P 上倒是沒錯，它到期一定是 0，合理價格就是 0。可是 9:00 前還是有 7,953 口成交，價格在 1 到 12 點之間。</p>
+<p>那前一晚夜盤先賣呢？也沒辦法。11/5 夜盤 F1 的 put 最低只成交到 38600 這個履約價，37400P 跟 37500P 整晚都是 0 口。</p>
+<h2>SP37500：多收 5 點，最多虧 83 點</h2>
+<p>「跌停線其實比 37,417 高一點，所以履約價可以往上移一檔，權利金多一倍多。指數要剛好收在 37,417 到 37,500 這 83 點裡面，機會不大。」</p>
+<p>權利金確實多：9:00 前 37500P 平均 10.83 點，是 37400P 4.47 點的 2.4 倍。</p>
+<iframe src="/embeds/crash-day?chart=p37500-open&#x26;lang=zh" width="100%" height="390" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="37500P 8:45 到 9:15 的 1 分 K，標出 8:50 的賣出"></iframe>
+<p>8:50 賣在 9.2 點，那天結算在 39,824，這 9.2 點全部入袋。可是 37500 比 37,417 高 83 點，就算用 37,459 算，也還高 41 點。<span style="color:#D40920;font-weight:700">萬一指數真的收在跌停，一口要付 83 點</span>，扣掉收的 9.2 點還虧 73.8 點，大約 3,700 元。</p>
+<h3>改成價差單，保證金從九萬多降到 5,000</h3>
+<p>「單做 SP37500 要綁九萬多，太重了。多買一口 37400P，雖然要付它的權利金，保證金卻能降到 5,000，同樣的錢可以做十幾口。」</p>
+<p>SP37500 + BP37400 這個組合叫 bull put spread：</p>
+<pre><code>結算 ≥ 37,500           → 兩張都是 0，淨收的權利金全部留著
+37,400 &#x3C; 結算 &#x3C; 37,500  → 每口付 (37,500 − 結算)，再扣掉淨收的權利金
+結算 ≤ 37,400           → 每口付 100 點，再扣掉淨收的權利金
+</code></pre>
+<p>BP37400 反正會歸零，對風險一點幫助都沒有，指數收在跌停一樣虧 83 點。<span style="color:#D40920;font-weight:700">它只有一個作用，就是讓保證金變便宜。</span>期交所算保證金不管跌停，單做 SP37500 照合約看虧損沒有上限，所以收九萬多；加了 BP37400 以後，最壞就是兩個履約價之間的 100 點，<a href="https://www.taifex.com.tw/cht/5/margingReqIndexOpt">期交所的保證金規定</a>對 put 多頭價差收 100 點乘 50 元，也就是 5,000 元。實際上有跌停，最多只會虧 83 點，保證金還是照 100 點收。</p>
+<iframe src="/embeds/crash-day?chart=spread&#x26;lang=zh" width="100%" height="390" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="37500P 減 37400P，兩張同一秒都有成交時的價差，畫出 10 點的位置"></iframe>
+<p>那這組價差賣得到 10 點嗎？兩張 put 是分開成交的，下表取兩張在同一秒都有成交的時間，各取那一秒最後一筆成交價相減：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>時間</th><th>37500P</th><th>37400P</th><th>價差</th><th></th></tr></thead><tbody><tr><td>8:45:05</td><td>15</td><td>9.6</td><td>5.4</td><td></td></tr><tr><td>8:45:07</td><td>50</td><td>6.2</td><td>43.8</td><td>37500P 在 49 到 50 點成交 3 口</td></tr><tr><td>8:48:14</td><td>20</td><td>10</td><td>10</td><td></td></tr><tr><td>8:48:18</td><td>26.5</td><td>10</td><td>16.5</td><td>最後一次 10 點以上</td></tr><tr><td>8:50:23</td><td>12</td><td>5.4</td><td>6.6</td><td>8:49 以後沒有再到 10 點</td></tr></tbody></table>
+<p>8:48:14 賣在 10 點，一口收 500 元，保證金 5,000 元，報酬 10%，差不多是單做 SP37400 的二十倍。可是 10 點以上只出現在 8:45 到 8:48，晚兩分鐘就只剩 7 點左右。</p>
+<p><span style="color:#D40920;font-weight:700">這些價差是兩張單獨成交的 put 湊出來的，不是價差單的成交價。</span>期交所的交易系統<a href="https://www.taifex.com.tw/file/taifex/event/cht/10305_1/event.html">沒有選擇權組合式委託簿</a>，價差單送進去以後，是拆成兩隻腳，分別跟 37500P、37400P 的掛單成交（<a href="https://www.chinatimes.com/realtimenews/20190321000439-260511">工商時報的說明</a>寫「其成交相對方為兩個單式委託」）。所以價差單想以淨收 10 點賣出，送出的那一刻要有人掛買 37500P、有人掛賣 37400P，兩邊價格相差 10 點以上。逐筆資料只記成交、不記掛單，沒辦法確認 8:48:14 那時的掛單價差有沒有到 10 點。</p>
+<p><span style="color:#D40920;font-weight:700">價差單也不能用 ROD 掛著等。</span>假設送出「賣 10 口價差單，淨收 10 點」，當下只有 3 口能成交：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>委託條件</th><th>價差單能用嗎</th><th>結果</th></tr></thead><tbody><tr><td>ROD（Rest of Day，當日有效）</td><td>不能</td><td>成交 3 口，剩下 7 口留在市場上排隊</td></tr><tr><td>IOC（Immediate-Or-Cancel）</td><td>能</td><td>成交 3 口，剩下 7 口立刻取消</td></tr><tr><td>FOK（Fill-Or-Kill）</td><td>能</td><td>10 口沒辦法一次成交，整張取消</td></tr></tbody></table>
+<p>期交所的<a href="https://www.taifex.com.tw/cht/4/oamIntroduction">委託單種類說明</a>寫「選擇權組合式委託及一定範圍市價委託，未開放ROD之委託條件」，8:30 到 8:45 的盤前也不收組合式委託。所以 8:45:05 送出淨收 10 點的 IOC 價差單，因為價差只有 5.4 點，會整張取消，要在 8:45:07 價差衝到 43.8 點時重送才有機會成交。券商的「價差單連續 IOC」，大概就是讓系統一直幫你重送，送到成交為止。</p>
+<h2>SP40000：一開盤就快跌停，賭收盤前反彈</h2>
+<p>「一開盤就殺到快跌停，跌成這樣，收盤前應該會彈一點。深價內的 put 權利金最多，賭對了賺最多。」</p>
+<p>所以有人去 SP39700、SP40000、SP40300。這幾張的履約價比跌停線高了兩千多點，跌停保護不到它們，指數沒彈回來就要賠。</p>
+<iframe src="/embeds/crash-day?chart=p40000&#x26;lang=zh" width="100%" height="390" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="40000P 全天 1 分 K，標出四個賣出時間跟結果"></iframe>
+<p>結算價 39,824 比 40,000 低 176 點，所以 40000P 結算時每口要付 176 點。換幾個時間賣：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>賣出時間</th><th>賣出價</th><th>結算要付</th><th>每口損益（點）</th></tr></thead><tbody><tr><td>9:01</td><td>1,890</td><td>176</td><td>+1,714</td></tr><tr><td>9:06</td><td>1,680</td><td>176</td><td>+1,504</td></tr><tr><td>10:37</td><td>225</td><td>176</td><td>+49</td></tr><tr><td>13:03</td><td>42.5</td><td>176</td><td>−133.5</td></tr></tbody></table>
+<p>9:01 跟 9:06 只隔 5 分鐘，就少賺 210 點。指數 9:00 之後一路往上彈，40000P 就一路往下掉。到 10:37，指數已經回到 40,000 上下，賣只收得到 225 點；拖到 13:03 才賣，收 42.5 點，連結算要付的 176 點都不夠。</p>
+<p>三張的最高價都出在 9:00 到 9:05，39700P 1,700、40000P 1,960、40300P 2,250。那幾秒指數大概在 37,840，三張的最高價卻都比當下的內含價值低了 160 到 209 點。換句話說，<span style="color:#D40920;font-weight:700">就算賣在最高點，指數如果就停在那裡不動，每口還是虧這麼多。</span>結算看的是 13:00 以後的平均，不是 9:00 那一刻；肯用低於內含價值的價格賣，大概是賭指數到下午會比 9:00 高。</p>
+<p>賣在最高價的人，最後賺賠要看指數收在哪裡（單位是點，一點 50 元）：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>履約價</th><th>最高價</th><th>收在 39,824（實際）</th><th>停在 37,840 附近</th><th>收在跌停 37,417</th></tr></thead><tbody><tr><td>39700P</td><td>1,700</td><td>+1,700</td><td>−160</td><td>−583</td></tr><tr><td>40000P</td><td>1,960</td><td>+1,784</td><td>−203</td><td>−623</td></tr><tr><td>40300P</td><td>2,250</td><td>+1,774</td><td>−209</td><td>−633</td></tr></tbody></table>
+<p>要是真的收在跌停，40000P 一口虧 623 點，三萬一千多元。那天是賭對了。</p>
+<h2>盤後檢討</h2>
+<p>8:45 台指期開在 38,888，比前一天收盤低 3,027 點，跌了 7.2%，所以開盤就知道是大跌，只是不知道會不會跌停，最後也沒有，最低是 −8.99%。站在 8:45 下單，各種做法要等收盤才知道的事不一樣：</p>
+<ul>
+<li><strong>SP37400</strong>：不管指數收在哪裡都是 0，就算那天是漲也一樣歸零。只是不大跌的話，沒有人會花 10 點買它，這幾點權利金是大跌才有的。</li>
+<li><strong>SP37500 跟價差單</strong>：只有指數收在跌停點位到 37,500 之間才會虧，8:45 時沒人知道會不會落在這裡。那天最低 37,837，離這個區間還有 300 多點。</li>
+<li><strong>SP40000</strong>：賭的就是反彈，那天賺錢是因為指數真的彈回來，這是事後才知道的。</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>做法</th><th>收進的權利金（點）</th><th>一口的保證金</th><th>指數收在跌停 37,417 時要付（點）</th></tr></thead><tbody><tr><td>SP37400</td><td>9:00 前平均 4.47，最高 12</td><td>94,500 到 111,712 元</td><td>0</td></tr><tr><td>SP37500</td><td>9:00 前平均 10.83</td><td>九萬多元</td><td>83</td></tr><tr><td>SP37500 + BP37400</td><td>8:48 以前 10 以上，8:50 約 7</td><td>5,000 元</td><td>83</td></tr><tr><td>SP40000</td><td>最高 1,960</td><td>約 285,000 元</td><td>2,583</td></tr></tbody></table>
+<p><span style="color:#D40920;font-weight:700">真正穩贏的就只有 SP37400</span>，不過它是拿十萬塊保證金，去撿一口最多 600 元、一定撿得到的零花錢。看人吧，對有些人來說就是不划算。SP37500 跟價差單每口比 SP37400 多收 5 點左右，指數收在跌停時卻要付 83 點。價差單的保證金只要單做 SP37500 的十八分之一，九萬多元可以做 18 口，指數要是真的收在跌停，18 口一起付 1,494 點，就是 74,700 元。40000P 又是另一回事，它是價內，保證金大約 28 萬 5 千元，跌停線也保護不到它，那天會賺錢，是因為指數彈回來了。</p>8:["$","div",null,{"id":"root","children":["$","main",null,{"id":"main","className":"reading","children":["$","$L13",null,{"htmlContent":"$14","rawContent":"$15","base64Content":"$16","title":"Limit-down plus settlement day: reviewing the short put trades","createdAt":"2026-11-07T21:00:00.000Z","updatedAt":"$undefined","tags":["options","taiex","trading"],"altHtmlContent":"$17","altTitle":"跌停＋結算日，復盤 SP 策略","currentLang":"en","altLang":"zh","canonicalPath":"/writing/taiex-crash-day-puts"}]}]}]

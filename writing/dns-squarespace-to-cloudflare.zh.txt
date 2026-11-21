@@ -1,0 +1,981 @@
+1:"$Sreact.fragment"
+2:I[48245,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"ThemeProvider"]
+3:I[92233,["7177","static/chunks/app/layout-a4020a707966f3ad.js"],"default"]
+4:I[48350,[],""]
+5:I[11412,[],""]
+6:I[43714,["4345","static/chunks/app/not-found-d958f5a82c6bd60e.js"],"default"]
+7:I[74646,["6711","static/chunks/6711-28504c068f3cc299.js","3814","static/chunks/app/writing/layout-8a1925e3e456474e.js"],"default"]
+9:I[96727,[],"OutletBoundary"]
+b:I[14038,[],"AsyncMetadataOutlet"]
+d:I[96727,[],"ViewportBoundary"]
+f:I[96727,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[92950,[],""]
+:HL["/_next/static/media/8760c4774489e4ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/ddd1cae212b4098b.css","style"]
+:HL["/_next/static/css/d3281eaf3cab9132.css","style"]
+:HL["/_next/static/css/f18ff65194ef1f2e.css","style"]
+:HL["/_next/static/css/6a64424697caf6b1.css","style"]
+0:{"P":null,"b":"eHdFjmDU8Ie9LVzVLeaep","p":"","c":["","writing","dns-squarespace-to-cloudflare.zh"],"i":false,"f":[[["",{"children":["writing",{"children":[["slug","dns-squarespace-to-cloudflare.zh","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/ddd1cae212b4098b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/d3281eaf3cab9132.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"jialin's RSS Feed","href":"https://jialin00.com/rss.xml"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/fav.svg"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon-180x180.png"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href=\"https://fonts.googleapis.com/css2?family=Finlandica:ital,wght@0,400..700;1,400..700&display=swap\";document.head.appendChild(l)})()"}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Finlandica:ital,wght@0,400..700;1,400..700&display=swap"}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"jialin00.com\",\"author\":{\"@type\":\"Person\",\"name\":\"JiaLin Huang\"},\"datePublished\":\"2022-05-17\",\"description\":\"Exploring web technologies, cloud computing, and AWS, while integrating philosophical perspectives. We examine technological advancements and their impact on human understanding, emphasizing the essential role of philosophy in tech-driven life.\",\"keywords\":\"cloud, cicd, Nextjs, philosophy, simplification\"}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}]]}],{"children":["writing",["$","$1","c",{"children":[null,[["$","$L7",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":[["slug","dns-squarespace-to-cloudflare.zh","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f18ff65194ef1f2e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/6a64424697caf6b1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}]]
+a:null
+c:{"metadata":[["$","title","0",{"children":"從 Squarespace DNS 遷移 Cloudflare  | jialinhuang"}],["$","meta","1",{"name":"description","content":"record 寫成 txt 匯入 Cloudflare 之後，要把 Proxied 改回 DNS only；DNSSEC 要先關、等換完 nameserver 再開；GitHub Pages 的子網域開了 Proxied，GitHub 查到的是 Cloudflare 的 IP，就不會申請憑證。"}],["$","link","2",{"rel":"canonical","href":"/writing/dns-squarespace-to-cloudflare"}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"
+13:I[86734,["7654","static/chunks/7654-2fe46cddc56d2856.js","5851","static/chunks/app/writing/%5Bslug%5D/page-df2ea9d466ee5461.js"],"MdDoc"]
+14:Tc227,<p>我想在 <code>whateveryoucall.com</code> 底下加一個子網域 <code>xx</code>，用 Cloudflare Access 讓它只有登入過的人能打開。可是現在 DNS 在 Squarespace，網頁在 GitHub Pages：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="diff" data-theme="github-dark github-light"><code data-language="diff" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  whateveryoucall.com        A      185.199.108.153         # GitHub Pages</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  alpha.whateveryoucall.com  CNAME  &#x3C;user>.github.io        # GitHub Pages</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  bravo.whateveryoucall.com  CNAME  &#x3C;user>.github.io        # GitHub Pages</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  ...</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  aws.whateveryoucall.com    NS     ns-1024.awsdns-00.org.  # 委派給 Route 53，網站在 S3</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  delta.whateveryoucall.com  NS     ns-2048.awsdns-64.com.  # 委派給 Route 53，網站在 S3</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+ xx.whateveryoucall.com     CNAME  &#x3C;project>.pages.dev     # Cloudflare Pages，加上 Access</span></span></code></pre></figure>
+<p>為了加這一行，整個網域的 DNS 都要搬到 Cloudflare 嗎？搬過去，GitHub 上原本的網站會不會受影響？</p>
+<p>搬完之後的差別：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="diff" data-theme="github-dark github-light"><code data-language="diff" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  註冊商      Squarespace</span></span>
+<span data-line=""><span style="--shiki-dark:#FDAEB7;--shiki-light:#B31D28">- nameserver  ns-cloud-a1～a4.googledomains.com</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+ nameserver  ada.ns.cloudflare.com、bob.ns.cloudflare.com  # 在 Squarespace 填，存在 .com</span></span>
+<span data-line=""><span style="--shiki-dark:#FDAEB7;--shiki-light:#B31D28">- 改 record   Squarespace 的 DNS Settings</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+ 改 record   Cloudflare 的 DNS → Records</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  網頁        GitHub Pages</span></span></code></pre></figure>
+<p>nameserver 原本是 Google 的機器，因為這個網域是在 Google Domains 買的。2023 年 Google 把 Google Domains 賣給 Squarespace，DNS 還留在 Google 的基礎設施上（<a href="https://www.squarespace.com/press-releases/2023/9/7/squarespace-completes-acquisition-of-google-domains-assets">新聞稿</a>）。</p>
+<h2>單一 subdomain 管理在 Cloudflare 不划算</h2>
+<p>Cloudflare Access 只保護放在 Cloudflare 帳號裡、狀態是 active 的 zone，<a href="https://developers.cloudflare.com/cloudflare-one/access-controls/applications/http-apps/self-hosted-public-app/">Access 的文件</a>寫的前提是「An active domain on Cloudflare」。</p>
+<p>的確是有 for subdomain 的管理方式，但免費方案不包含這個功能：</p>
+<ul>
+<li><strong>Partial（CNAME）setup：</strong> DNS 留在 Squarespace，只在 Cloudflare 掛一個 zone。<a href="https://developers.cloudflare.com/dns/zone-setups/partial-setup/">文件</a>寫的是「only available to customers on a Business or Enterprise plan」，Business <a href="https://www.cloudflare.com/plans/network-cdn/">$2,400/yr 或 $250/mo</a>。</li>
+<li><strong>Subdomain setup：</strong> 只把那個子網域當成獨立的 zone。<a href="https://developers.cloudflare.com/dns/zone-setups/subdomain-setup/">文件</a>的表格上只有 Enterprise 能用。</li>
+</ul>
+<p><span id="route53"></span>BUT... AWS Route 53 就能把子網域當成獨立的 zone，一個 hosted zone 一個月只要 0.5 美元！在 Route 53 開一個 <code>xxins3.whateveryoucall.com</code> 的 hosted zone，再回 Squarespace 加四筆 NS 指過去：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="diff" data-theme="github-dark github-light"><code data-language="diff" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  # Squarespace 上的 whateveryoucall.com</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  www.whateveryoucall.com     CNAME  &#x3C;user>.github.io</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  ...</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+ xxins3.whateveryoucall.com  NS     ns-111.awsdns-11.org.   # Route 53 給的 4 台</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+ xxins3.whateveryoucall.com  NS     ns-222.awsdns-22.net.</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+ xxins3.whateveryoucall.com  NS     ns-333.awsdns-33.com.</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+ xxins3.whateveryoucall.com  NS     ns-444.awsdns-44.co.uk.</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  # Route 53 上的 xxins3.whateveryoucall.com</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+ xxins3.whateveryoucall.com  A      ALIAS d111111abcdef8.cloudfront.net</span></span></code></pre></figure>
+<p>指向 CloudFront 的 alias 查詢也不另外收費（<a href="https://aws.amazon.com/route53/pricing/">Route 53 的收費</a>）。前面 diff 裡的 <code>aws</code>、<code>delta</code> 就是這樣委派過去的。不過 Access 是 Cloudflare 的功能，zone 放在 Route 53 就沒辦法用，所以這條路對要加 Access 的那個子網域沒有幫助。</p>
+<p>好吧，最後只好用免費方案，當然把我網域整組搬過去。（反正 Squarespace 很難用）</p>
+<h2>搬 DNS，網站會跟著搬走嗎</h2>
+<p>不會，你原本在 Squarespace DNS 大部分指向 GitHub，你現在從 Squarespace 搬到 Cloudflare，但也都指向 GitHub，根本還是跟原來一樣，網站檔案都是放在 GitHub！</p>
+<pre><code>搬家前  訪客 → 問 Google 的 nameserver     → 185.199.108.153（GitHub） → GitHub 回網頁
+搬家後  訪客 → 問 Cloudflare 的 nameserver → 185.199.108.153（GitHub） → GitHub 回網頁
+</code></pre>
+<h2>怎麼把 record 搬到 Cloudflare</h2>
+<p>把 Squarespace DNS Settings 頁上的 record 全部照 Berkeley Internet Name Domain（BIND）格式寫成一個 txt 檔，在 Cloudflare 的 DNS → Records 用 Import DNS Records 上傳：</p>
+<pre><code>$ORIGIN whateveryoucall.com.
+$TTL 3600
+alpha        IN CNAME &#x3C;user>.github.io.
+bravo        IN CNAME &#x3C;user>.github.io.
+...
+delta        IN NS    ns-2048.awsdns-64.com.
+...
+</code></pre>
+<p>（<code>&#x3C;user></code> 是放網頁的 GitHub 帳號。）</p>
+<p>匯入之後，Cloudflare 上的 record 就跟 Squarespace 上的一樣。</p>
+<h2>匯入的 record 預設會打開 Proxied</h2>
+<p>Cloudflare 每一筆 A、AAAA、CNAME 都有一個雲朵開關。Import 對話框裡的 Proxy imported DNS records 預設是勾的，所以匯入的 record 全部是橘色的 Proxied，取消勾選就會匯入成 DNS only：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th></th><th>訪客查 <code>alreadyhascert.whateveryoucall.com</code> 得到</th><th>網頁流量經過</th></tr></thead><tbody><tr><td><img src="/images/dns-squarespace-to-cloudflare/dns-only.png" alt="Proxy status 開關關著，灰色雲朵，DNS only"></td><td>GitHub 的 IP</td><td>訪客 → GitHub</td></tr><tr><td><img src="/images/dns-squarespace-to-cloudflare/proxied.png" alt="Proxy status 開關打開，橘色雲朵，Proxied"></td><td>Cloudflare 的 IP</td><td>訪客 → Cloudflare → GitHub</td></tr></tbody></table>
+<p><strong>Proxied 的時候，Cloudflare 就是 GitHub 前面的 reverse proxy。</strong> 訪客查 DNS 只拿到 Cloudflare 的 IP，連到 Cloudflare 之後，Cloudflare 再照 <code>CNAME &#x3C;user>.github.io</code> 把請求轉給 GitHub，這筆 CNAME 只留在 Cloudflare 內部用。因為 Cloudflare 站在中間，所以可以做快取、攔下攻擊。它轉送的只有網頁流量，所以雲朵開關只出現在瀏覽器找網站時會查的 record 上：</p>
+<ul>
+<li><strong>A、AAAA：</strong> 瀏覽器用它拿到網站的 IP。</li>
+<li><strong>CNAME：</strong> 瀏覽器先拿到另一個名字（例如 <code>&#x3C;user>.github.io</code>），再去查這個名字的 IP。</li>
+</ul>
+<p>另外三種不是瀏覽器在查，所以沒有開關：</p>
+<ul>
+<li><strong>MX：</strong> 寄信過來的郵件伺服器用它找收信的主機。</li>
+<li><strong>NS：</strong> resolver 用它找這個網域歸哪台 nameserver 管。</li>
+<li><strong>TXT：</strong> Google、GitHub 這類服務用它讀驗證用的文字。</li>
+</ul>
+<p>可是 GitHub Pages 的子網域開 Proxied 有個疑慮：GitHub 替 custom domain 申請 https 憑證之前會先查 DNS，開了 Proxied，查到的就是 Cloudflare 的 IP，GitHub 可能就不申請了。在 Squarespace 時這些 record 都相當於 DNS only，所以我把它們全部點回灰色，只留 <code>alreadyhascert</code> 一筆 Proxied 當實驗，GitHub 到底會不會申請，<a href="#proxied">後面</a>有實測。</p>
+<h2>匯入的 <code>_domainconnect</code> CNAME 要不要刪</h2>
+<p>匯入的 record 其中一條，它是 Squarespace 原本就有的：</p>
+<pre><code>CNAME  _domainconnect  _domainconnect.domains.squarespace.com
+</code></pre>
+<p>它給 Domain Connect 協定用，讓別的服務能自動幫你新增 record。例如在 Google Workspace 設定用 <code>whateveryoucall.com</code> 收信，Google 會先查這筆，知道 DNS 哦原來歸 Squarespace 管，再把你帶到那一家的授權頁。</p>
+<p>搬到 Cloudflare 之後，這筆留著或刪掉都一樣。Cloudflare 對 <code>_domainconnect</code> 的 TXT 查詢一律回自己的值，Google 查的是 TXT，所以會走到 Cloudflare。我把它刪了，讓 Records 清單少一筆用不到的 record；Squarespace 上原本那筆沒有動。</p>
+<p>兩家查 <code>_domainconnect</code> 的路徑分成兩組，同一個步驟用同一個編號，第 1 步兩家就不一樣：</p>
+<p><strong>① 搬家前，DNS 在 Squarespace</strong></p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># 1. 問 Squarespace 的 nameserver 要 TXT，這個名字只有 CNAME，所以回 CNAME</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">$</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> dig</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +noall</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +answer</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> @ns-cloud-a1.googledomains.com</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> _domainconnect.whateveryoucall.com</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> TXT</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">_domainconnect.whateveryoucall.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  14400</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  CNAME</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  _domainconnect.domains.squarespace.com.</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># 2. 到 CNAME 指的名字上查 TXT</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">$</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> dig</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +noall</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +answer</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> _domainconnect.domains.squarespace.com</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> TXT</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">_domainconnect.domains.squarespace.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  1800</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  TXT</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  "domains.squarespace.com"</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># 1+2. 問 resolver，它碰到 CNAME 會自己跟過去，一次回兩行</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">$</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> dig</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +noall</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +answer</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> _domainconnect.whateveryoucall.com</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> TXT</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">_domainconnect.whateveryoucall.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">      14400</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  CNAME</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  _domainconnect.domains.squarespace.com.</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">_domainconnect.domains.squarespace.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  1800</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">   IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  TXT</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">    "domains.squarespace.com"</span></span></code></pre></figure>
+<p><strong>② 搬家後，DNS 在 Cloudflare</strong></p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># 1. 問 Cloudflare 的 nameserver 要 TXT，直接拿到 TXT，沒有第 2 步</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">#    這筆不在 Records 清單裡；匯入的 CNAME 在不在、Proxied 還是 DNS only，回的都是它</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">$</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> dig</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +noall</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +answer</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> @ada.ns.cloudflare.com</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> _domainconnect.whateveryoucall.com</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> TXT</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">_domainconnect.whateveryoucall.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  3600</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  TXT</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  "api.cloudflare.com/client/v4/dns/domainconnect"</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># 1+2. 問 resolver，一樣只有一行</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">$</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> dig</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +noall</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +answer</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> _domainconnect.whateveryoucall.com</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> TXT</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">_domainconnect.whateveryoucall.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  3600</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  TXT</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  "api.cloudflare.com/client/v4/dns/domainconnect"</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># 別的 DNS 放在 Cloudflare 的網域，回的也一樣</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">$</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> dig</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +noall</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +answer</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> _domainconnect.discord.com</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> TXT</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">_domainconnect.discord.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  3600</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  TXT</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  "api.cloudflare.com/client/v4/dns/domainconnect"</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">$</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> dig</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +noall</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +answer</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> _domainconnect.medium.com</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> TXT</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">_domainconnect.medium.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">   3600</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  TXT</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  "api.cloudflare.com/client/v4/dns/domainconnect"</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># 3. 照 TXT 去打 Cloudflare 的設定網址</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">$</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> curl</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> https://api.cloudflare.com/client/v4/dns/domainconnect/v2/whateveryoucall.com/settings</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">→</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> "urlSyncUX":</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> "https://dash.cloudflare.com/domainconnect"</span></span></code></pre></figure>
+<p>Google 在 TXT 的值後面接上 <code>/v2/whateveryoucall.com/settings</code> 去打，Cloudflare 回的授權頁是 <code>https://dash.cloudflare.com/domainconnect</code>，所以同樣的流程現在會走到 Cloudflare。</p>
+<p>一般的 DNS，一個名字有了 CNAME，問什麼都先回 CNAME，① 的 Squarespace 就是這樣；Cloudflare 在 <code>_domainconnect</code> 這個名字上不照這條走。</p>
+<h2>換 nameserver：讓 resolver 以後改來 Cloudflare 查</h2>
+<p>東西搬進新家還不夠，郵局地址簿上寫的還是舊家，郵差照樣去舊家問。record 匯入 Cloudflare 之後也一樣：TLD（頂級網域，這裡是 <code>.com</code>）的伺服器上，「<code>whateveryoucall.com</code> 歸誰管」寫的還是 Google，resolver 就照這一行繼續去問 Google。換 nameserver 就是去改這一行，而這一行只有註冊商能改，所以要到 Squarespace 改。查一次 <code>alreadyhascert.whateveryoucall.com</code> 要問三層：</p>
+<iframe src="/embeds/dns-ns-layers?lang=zh" width="100%" height="470" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="resolver 查 alreadyhascert.whateveryoucall.com，要問三層"></iframe>
+<p>換 nameserver 改的是中間那一層，從 Google 的四台改成 Cloudflare 的兩台。根伺服器那層不動，我們自訂最終目的地的 CNAME 也不動（這些是稍早一次匯入給 Cloudflare 的）。在 Squarespace 的 Domain Nameservers 頁改完，直接問 TLD 伺服器，回的已經是新的 NS，再問 Cloudflare，A、CNAME、MX 都對。</p>
+<p>換 NS 大約半天後，對四個 resolver 各問 300 次 NS，看還有沒有人在問 Google：</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>resolver</th><th>誰在營運</th><th>回 Google</th></tr></thead><tbody><tr><td><code>8.8.8.8</code></td><td>Google Public DNS，任何人都能用的公共 resolver</td><td>0</td></tr><tr><td><code>1.1.1.1</code></td><td>Cloudflare 的公共 resolver</td><td>0</td></tr><tr><td><code>9.9.9.9</code></td><td>Quad9，瑞士的非營利組織經營的公共 resolver</td><td>0</td></tr><tr><td><code>168.95.1.1</code></td><td>中華電信 HiNet，台灣 ISP 給自家用戶的預設 resolver</td><td>13（大約 4%）</td></tr></tbody></table>
+<p>HiNet 還是偶發性會回 Google，是因為 resolver 會把舊的答案快取，而同一個 resolver 位址背後有很多台機器，每台的快取過期時間不一樣。TLD 上這一行的 TTL 是兩天，所以這兩天裡 Squarespace 上的 record 要留著。要是提早刪掉，用 HiNet 的人就有小機率打不開網站。</p>
+<h2>DNSSEC 跟換 nameserver，誰先誰後</h2>
+<p>先在 Squarespace 關 DNSSEC，等一天；再換 nameserver，等兩天；最後在 Cloudflare 開 DNSSEC，把 DS 貼回 Squarespace。但其實我當時沒等這麼久，就沒問題的樣子就是。</p>
+<p>resolver 查網址像在問路：</p>
+<pre><code>1. resolver 問窗口（.com）：whateveryoucall.com 要去問誰？
+2. 窗口回：去問 ada.ns.cloudflare.com、bob.ns.cloudflare.com（NS）
+3. resolver 問 NS：whateveryoucall.com 在哪？
+4. NS 回：185.199.108.153
+</code></pre>
+<p>沒開 DNSSEC 的時候，第 4 步誰先回答 resolver 就信誰，攻擊者可以搶在 NS 前面回一個假 IP。開了 DNSSEC，多了兩樣東西：</p>
+<ul>
+<li>第 2 步，窗口除了指路，還登記了「NS 的回答要用哪把鑰匙簽名」，這筆叫 DS（Delegation Signer）。</li>
+<li>第 4 步，NS 回答時附上簽名，叫 RRSIG（Resource Record Signature）。</li>
+</ul>
+<p>resolver 拿 DS 比對 RRSIG，比對成功才收下。</p>
+<p>搬家時 NS 跟 DS 都一定會跟著調整，兩個都在 Squarespace 那邊改設定。可是 resolver 會把舊的存在快取裡，NS 最長兩天、DS 最長一天，這段時間它可能拿著舊的 DS 去問新的 NS，或拿著新的 DS 去問舊的 NS。問到的那台 NS 沒有 DS 指定的那把鑰匙，簽名就驗不過，resolver 回 SERVFAIL；<code>.com</code> 上沒有 DS，resolver 就不驗。下面可以切換 DS 跟 NS 的組合：</p>
+<iframe src="/embeds/dns-dnssec-order?lang=zh" width="100%" height="470" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="DNSSEC：nameserver 要用 DS 指定的那把鑰匙簽名"></iframe>
+<p>「開在 Google」配「Cloudflare 的 nameserver」，就是 DNSSEC 沒關就換了 NS：DS 要 Google 的鑰匙，Cloudflare 沒有，網站跟信都查不到。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>步驟</th><th>做什麼</th><th>要等多久</th><th>這次等了</th></tr></thead><tbody><tr><td>1. 關 DNSSEC</td><td>在 Squarespace 關掉，DS 跟 Google 的簽名會同時撤掉</td><td>一天，等 DS 的快取過期</td><td>三分鐘</td></tr><tr><td>2. 換 NS</td><td>在 Squarespace 改成 Cloudflare 的 nameserver</td><td>兩天，等 NS 的快取過期</td><td>三小時</td></tr><tr><td>3. 開 DNSSEC</td><td>在 Cloudflare 開，再把 DS 貼到 Squarespace</td><td>不用等</td><td></td></tr></tbody></table>
+<p>步驟 1 那一天也有風險：DS 跟 Google 的簽名在同一分鐘消失，快取裡還留著舊 DS 的驗證型 resolver 一樣會 SERVFAIL。撤 DS 那一刻對 8.8.8.8、1.1.1.1、9.9.9.9 各查一次，快取裡都沒有舊 DS，之後也沒有發現哪個子網域打不開。HiNet 換 NS 半天後還有 4% 問到 Google，不過它剛好不驗證 DNSSEC。</p>
+<details>
+<summary>DS、DNSKEY、RRSIG 實際長什麼樣子</summary>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># DS：在上一層的 .com（a.gtld-servers.net 是 .com 的其中一台 TLD 伺服器），簽名者是 com.</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">$</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> dig</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +norec</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +dnssec</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +noall</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +authority</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> @a.gtld-servers.net</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> whateveryoucall.com</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> NS</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">whateveryoucall.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  172800</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  NS</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">     ada.ns.cloudflare.com.</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">whateveryoucall.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  172800</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  NS</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">     bob.ns.cloudflare.com.</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">whateveryoucall.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  86400</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">   IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  DS</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">     54321</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 13</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 2</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> &#x3C;</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">has</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">h</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">></span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">whateveryoucall.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  86400</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">   IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  RRSIG</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  DS</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 13</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 2</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 86400</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> ...</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> com.</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> &#x3C;</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">簽</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">名</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">></span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># DNSKEY：在 Cloudflare，兩把不同的鑰匙</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">#   257：DS 對應的那把，只拿來簽下面這組 DNSKEY</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">#   256：實際替 A、CNAME、MX 這些 record 簽名的那把</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">$</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> dig</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +dnssec</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +noall</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +answer</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> @ada.ns.cloudflare.com</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> whateveryoucall.com</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> DNSKEY</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">whateveryoucall.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  3600</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  DNSKEY</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  257</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 3</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 13</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> &#x3C;</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">257</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 那把的公</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">鑰</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">></span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">whateveryoucall.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  3600</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  DNSKEY</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  256</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 3</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 13</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> &#x3C;</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">256</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> 那把的公</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">鑰</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">></span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">whateveryoucall.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  3600</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  RRSIG</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">   DNSKEY</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 13</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 2</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 3600</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> ...</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> whateveryoucall.com.</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> &#x3C;</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">簽</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">名</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">></span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># RRSIG：跟 A 一起回，簽名者是 whateveryoucall.com.</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">$</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> dig</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +dnssec</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +noall</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +answer</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> @ada.ns.cloudflare.com</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> whateveryoucall.com</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> A</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">whateveryoucall.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  300</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  A</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">      185.199.108.153</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">...</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">whateveryoucall.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  300</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  RRSIG</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  A</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 13</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 2</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 300</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> ...</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> whateveryoucall.com.</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> &#x3C;</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">簽</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">名</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">></span></span></code></pre></figure>
+<p>resolver 從根開始一層一層驗：先確認 <code>.com</code> 的鑰匙，再用 <code>.com</code> 上的 DS 確認 Cloudflare 的 DNSKEY，最後用這把 DNSKEY 驗 A 旁邊的 RRSIG。</p>
+<p>在 Cloudflare 按下 Enable DNSSEC 之後：</p>
+<ol>
+<li>Cloudflare 產生兩組鑰匙對，就是 257 跟 256。私鑰留在 Cloudflare，公鑰放進 zone，成為那兩筆 DNSKEY。</li>
+<li>Cloudflare 用 256 的私鑰替 A、CNAME、MX、TXT 簽名，用 257 的私鑰替 DNSKEY 那一組簽名，簽出來的就是 RRSIG。Cloudflare 是在回答的當下才簽名，每次查詢拿到的 RRSIG，有效期都是從查詢時間往前、往後各 25 小時。</li>
+<li>Cloudflare 把網域名稱跟 257 的公鑰一起做 SHA-256，算出 DS，顯示在 dashboard。DS 複製到 Squarespace 的 DNSSEC 頁之後，Squarespace 送給 <code>.com</code>，<code>.com</code> 再用自己的私鑰替它簽名，就是 <code>RRSIG DS</code>。</li>
+</ol>
+<p>分成兩把，是為了方便換鑰匙。256 簽的東西多，可以常換，換了只要 257 重簽一次 DNSKEY；257 一換，DS 就要跟著換，又得到 Squarespace 貼一次，所以 257 盡量不動。</p>
+</details>
+<p><span id="proxied"></span></p>
+<h2>GitHub Pages 的子網域能不能開 Proxied</h2>
+<p>開了 Proxied，回應的 header 裡 Cloudflare 跟 GitHub 兩邊都有：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">$</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> curl</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -I</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> https://alreadyhascert.whateveryoucall.com</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">HTTP/2</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 200</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">server:</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> cloudflare</span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">          # Cloudflare 加的</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">x-github-request-id:</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> &#x3C;</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">i</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">d</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">></span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">   # GitHub 回應時帶的</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">...</span></span></code></pre></figure>
+<p>可是 GitHub 申請憑證時不看 header。GitHub Pages 替 custom domain 向 Let's Encrypt 申請 https 憑證之前，會先查 DNS，確認網域指向 GitHub。同一筆 <code>CNAME &#x3C;user>.github.io</code>，DNS only 跟 Proxied 查到的不一樣：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># DNS only：照實回 CNAME 跟 GitHub 的 IP</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">$</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> dig</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +short</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> alreadyhascert.whateveryoucall.com</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">&#x3C;</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">user</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.github.io.</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">185.199.108.153</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">...</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># Proxied：只回 Cloudflare 的 IP，連 CNAME 都不回</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">$</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> dig</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +short</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> alreadyhascert.whateveryoucall.com</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">104.21.x.x</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">172.67.x.x</span></span></code></pre></figure>
+<p>所以 Proxied 的時候，GitHub 查 DNS 只會查到 Cloudflare 的 IP，那它還會申請嗎？<a href="https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https">GitHub 的文件</a>沒提 Cloudflare，<a href="https://community.letsencrypt.org/t/fyi-for-github-pages-or-vercel-netlify-with-cloudflare/231054">Let's Encrypt 論壇</a>上說會、說不會的都有，所以自己試。</p>
+<p>用已經在 GitHub 運行的子網域 <code>alreadyhascert</code> 測不出來，因為憑證早就發了，所以把 custom domain 清掉再設回去，GitHub 也只是沿用手上那張，不會重新申請。所以另外開一個全新的 repo <code>brandnewnocert</code>，在 Cloudflare 加一筆 Proxied 的 CNAME，設定 custom domain，再用 <code>gh api</code> 讀 Pages 的狀態：</p>
+<pre><code>14:38  Proxied，設定 custom domain   DNS check successful
+                                    health: is_proxied=true  is_https_eligible=false
+14:41  Enforce HTTPS 不能勾："your domain is not properly configured to support HTTPS"
+       gh api PUT https_enforced=true → 404 "The certificate does not exist yet"
+14:43  改成 DNS only，重設 custom domain
+14:44  health: is_proxied=false  is_https_eligible=true，cert=authorization_pending
+14:45  cert=approved，Let's Encrypt，subject brandnewnocert.whateveryoucall.com
+</code></pre>
+<p>14:38 在 Proxied 下設定 custom domain，GitHub 5 分鐘都沒有申請；14:43 改成 DNS only，把 custom domain 清掉再填一次，2 分鐘就拿到憑證。兩次都是設定 custom domain，差別只有 proxy。原因在 <a href="https://github.com/github/pages-health-check/blob/master/lib/github-pages-health-check/domain.rb">pages-health-check</a> 的 <code>domain.rb</code>：</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="ruby" data-theme="github-dark github-light"><code data-language="ruby" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">def</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> https_eligible?</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">  # Can't have any IP's which aren't GitHub's present.</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  return</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> false</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> non_github_pages_ip_present?</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">  # Can't have underscores in the domain name (Let's Encrypt does not allow it)</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  return</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> false</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> host.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">include?</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"_"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">  # Must be a CNAME or point to our IPs.</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  return</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> true</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> cname_to_github_user_domain? </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">||</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> cname_to_domain_to_pages?</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">  # Check CAA records for the full domain and its parent domain.</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  pointed_to_github_pages_ip? </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">&#x26;&#x26;</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> caa.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">lets_encrypt_allowed?</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">end</span></span></code></pre></figure>
+<p>第一行 <code>non_github_pages_ip_present?</code> 會把 DNS 回答裡的每個 IP，拿去跟 GitHub Pages 的 IP 名單（<code>185.199.108.153</code> 到 <code>.111.153</code>，加上 4 個 IPv6）比對，只要有一個不在名單上，就直接回 false，不申請。拿前面兩次 dig 的結果來跑：</p>
+<ul>
+<li><strong>Proxied：</strong> 回的是 <code>104.21.x.x</code>，不在名單上，第一行就回 false。</li>
+<li><strong>DNS only：</strong> 回的是 <code>185.199.108.153</code>，在名單上，第一行過；<code>alreadyhascert.whateveryoucall.com</code> 沒有底線，第二行過；CNAME 指向 <code>&#x3C;user>.github.io</code>，第三行回 true，GitHub 就去申請。</li>
+</ul>
+<p>開關切到 Proxied，第一個檢查就沒過；三種申請時機的結果都在下面：</p>
+<iframe src="/embeds/dns-pages-cert?lang=zh" width="100%" height="500" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="GitHub Pages 申請憑證之前的檢查：Proxied 停在哪一步"></iframe>
+<h3>拿不到憑證，網站為什麼還能打開</h3>
+<p>瀏覽器拿到的是 Cloudflare 的憑證，Cloudflare 再自己去連 GitHub。這個網域的 SSL/TLS 模式是 <a href="https://developers.cloudflare.com/ssl/origin-configuration/ssl-modes/full/">Full</a>，不檢查 origin 的憑證，所以就算 GitHub 那張過期了，網站還是能打開，瀏覽器的鎖頭顯示的也是 Cloudflare 的憑證。</p>
+<p>要是變成 <a href="https://developers.cloudflare.com/ssl/origin-configuration/ssl-modes/full-strict/">Full (strict)</a>，過期的 origin 憑證會讓 Cloudflare 回 <a href="https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-526/">526</a>。現在的 Full 是 <a href="https://developers.cloudflare.com/ssl/origin-configuration/ssl-modes/">Automatic SSL/TLS</a> 自動選的，它只升不降。續約時 GitHub 會不會再跑一次 <code>https_eligible?</code>，文件沒寫，這次也沒等到續約；如果會，Proxied 的子網域就續不了約，到時又升成 Full (strict) 的話就會變成 526。</p>
+<p>所以 GitHub Pages 的子網域全部維持 DNS only，<code>alreadyhascert</code> 也改回灰色，測試用的 <code>brandnewnocert</code> 的 repo 跟 record 都刪了。</p>
+<p>換 NS 兩天後，舊的 Google nameserver 不會再被問到，到時把 Squarespace DNS Settings 上的 record 全部刪掉，搬家才算結束。</p>
+<h2>題外話：留在 DNS 上的 CNAME 被佔用？</h2>
+<p>搬家之後，某個 repo 刪了，CNAME 忘記跟著同步刪除，會有什麼風險？</p>
+<pre><code>oldpage.whateveryoucall.com  CNAME  &#x3C;user>.github.io     ← repo oldpage 已經刪了
+</code></pre>
+<p>陌生人在他自己的 repo 填上 <code>oldpage.whateveryoucall.com</code> 當 custom domain，GitHub 檢查 DNS，發現這個名字確實指向 GitHub，就會放行。GitHub Pages 的 IP 是所有人共用的，GitHub 只看這個網址被哪個 repo 認領，所以訪客打開 <code>oldpage.whateveryoucall.com</code>，看到的就是陌生人的網頁。整個過程他不用碰我們的 Cloudflare，就這樣鳩佔鵲巢，這叫 domain takeover。</p>
+<p>其實 GitHub 有提供機制擋這件事，就是<a href="https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages">驗證網域</a>：在 GitHub 帳號的 Settings → Pages 加入 <code>whateveryoucall.com</code>，照它給的值在 DNS 新增一筆 TXT <code>_github-pages-challenge-&#x3C;user>.whateveryoucall.com</code>，再按 Verify。能在 DNS 上放這筆 TXT 的，只有網域的主人，所以驗證之後，只有這個帳號底下的 repo 能用 <code>whateveryoucall.com</code> 跟它的第一層子網域，陌生人填了會被拒絕。這筆 TXT 要一直留著；另外，它只管 GitHub Pages，指向其他服務的 CNAME 還是要記得刪。</p>15:T5b75,
+我想在 `whateveryoucall.com` 底下加一個子網域 `xx`，用 Cloudflare Access 讓它只有登入過的人能打開。可是現在 DNS 在 Squarespace，網頁在 GitHub Pages：
+
+```diff
+  whateveryoucall.com        A      185.199.108.153         # GitHub Pages
+  alpha.whateveryoucall.com  CNAME  <user>.github.io        # GitHub Pages
+  bravo.whateveryoucall.com  CNAME  <user>.github.io        # GitHub Pages
+  ...
+  aws.whateveryoucall.com    NS     ns-1024.awsdns-00.org.  # 委派給 Route 53，網站在 S3
+  delta.whateveryoucall.com  NS     ns-2048.awsdns-64.com.  # 委派給 Route 53，網站在 S3
++ xx.whateveryoucall.com     CNAME  <project>.pages.dev     # Cloudflare Pages，加上 Access
+```
+
+為了加這一行，整個網域的 DNS 都要搬到 Cloudflare 嗎？搬過去，GitHub 上原本的網站會不會受影響？
+
+搬完之後的差別：
+
+```diff
+  註冊商      Squarespace
+- nameserver  ns-cloud-a1～a4.googledomains.com
++ nameserver  ada.ns.cloudflare.com、bob.ns.cloudflare.com  # 在 Squarespace 填，存在 .com
+- 改 record   Squarespace 的 DNS Settings
++ 改 record   Cloudflare 的 DNS → Records
+  網頁        GitHub Pages
+```
+
+nameserver 原本是 Google 的機器，因為這個網域是在 Google Domains 買的。2023 年 Google 把 Google Domains 賣給 Squarespace，DNS 還留在 Google 的基礎設施上（[新聞稿](https://www.squarespace.com/press-releases/2023/9/7/squarespace-completes-acquisition-of-google-domains-assets)）。
+
+## 單一 subdomain 管理在 Cloudflare 不划算
+
+Cloudflare Access 只保護放在 Cloudflare 帳號裡、狀態是 active 的 zone，[Access 的文件](https://developers.cloudflare.com/cloudflare-one/access-controls/applications/http-apps/self-hosted-public-app/)寫的前提是「An active domain on Cloudflare」。
+
+的確是有 for subdomain 的管理方式，但免費方案不包含這個功能：
+
+- **Partial（CNAME）setup：** DNS 留在 Squarespace，只在 Cloudflare 掛一個 zone。[文件](https://developers.cloudflare.com/dns/zone-setups/partial-setup/)寫的是「only available to customers on a Business or Enterprise plan」，Business [\$2,400/yr 或 \$250/mo](https://www.cloudflare.com/plans/network-cdn/)。
+- **Subdomain setup：** 只把那個子網域當成獨立的 zone。[文件](https://developers.cloudflare.com/dns/zone-setups/subdomain-setup/)的表格上只有 Enterprise 能用。
+
+<span id="route53"></span>BUT... AWS Route 53 就能把子網域當成獨立的 zone，一個 hosted zone 一個月只要 0.5 美元！在 Route 53 開一個 `xxins3.whateveryoucall.com` 的 hosted zone，再回 Squarespace 加四筆 NS 指過去：
+
+```diff
+  # Squarespace 上的 whateveryoucall.com
+  www.whateveryoucall.com     CNAME  <user>.github.io
+  ...
++ xxins3.whateveryoucall.com  NS     ns-111.awsdns-11.org.   # Route 53 給的 4 台
++ xxins3.whateveryoucall.com  NS     ns-222.awsdns-22.net.
++ xxins3.whateveryoucall.com  NS     ns-333.awsdns-33.com.
++ xxins3.whateveryoucall.com  NS     ns-444.awsdns-44.co.uk.
+
+  # Route 53 上的 xxins3.whateveryoucall.com
++ xxins3.whateveryoucall.com  A      ALIAS d111111abcdef8.cloudfront.net
+```
+
+指向 CloudFront 的 alias 查詢也不另外收費（[Route 53 的收費](https://aws.amazon.com/route53/pricing/)）。前面 diff 裡的 `aws`、`delta` 就是這樣委派過去的。不過 Access 是 Cloudflare 的功能，zone 放在 Route 53 就沒辦法用，所以這條路對要加 Access 的那個子網域沒有幫助。
+
+好吧，最後只好用免費方案，當然把我網域整組搬過去。（反正 Squarespace 很難用）
+
+## 搬 DNS，網站會跟著搬走嗎
+
+不會，你原本在 Squarespace DNS 大部分指向 GitHub，你現在從 Squarespace 搬到 Cloudflare，但也都指向 GitHub，根本還是跟原來一樣，網站檔案都是放在 GitHub！
+
+```
+搬家前  訪客 → 問 Google 的 nameserver     → 185.199.108.153（GitHub） → GitHub 回網頁
+搬家後  訪客 → 問 Cloudflare 的 nameserver → 185.199.108.153（GitHub） → GitHub 回網頁
+```
+
+## 怎麼把 record 搬到 Cloudflare
+
+把 Squarespace DNS Settings 頁上的 record 全部照 Berkeley Internet Name Domain（BIND）格式寫成一個 txt 檔，在 Cloudflare 的 DNS → Records 用 Import DNS Records 上傳：
+
+```
+$ORIGIN whateveryoucall.com.
+$TTL 3600
+alpha        IN CNAME <user>.github.io.
+bravo        IN CNAME <user>.github.io.
+...
+delta        IN NS    ns-2048.awsdns-64.com.
+...
+```
+
+（`<user>` 是放網頁的 GitHub 帳號。）
+
+匯入之後，Cloudflare 上的 record 就跟 Squarespace 上的一樣。
+
+## 匯入的 record 預設會打開 Proxied
+
+Cloudflare 每一筆 A、AAAA、CNAME 都有一個雲朵開關。Import 對話框裡的 Proxy imported DNS records 預設是勾的，所以匯入的 record 全部是橘色的 Proxied，取消勾選就會匯入成 DNS only：
+
+| | 訪客查 `alreadyhascert.whateveryoucall.com` 得到 | 網頁流量經過 |
+|---|---|---|
+| ![Proxy status 開關關著，灰色雲朵，DNS only](/images/dns-squarespace-to-cloudflare/dns-only.png) | GitHub 的 IP | 訪客 → GitHub |
+| ![Proxy status 開關打開，橘色雲朵，Proxied](/images/dns-squarespace-to-cloudflare/proxied.png) | Cloudflare 的 IP | 訪客 → Cloudflare → GitHub |
+
+**Proxied 的時候，Cloudflare 就是 GitHub 前面的 reverse proxy。** 訪客查 DNS 只拿到 Cloudflare 的 IP，連到 Cloudflare 之後，Cloudflare 再照 `CNAME <user>.github.io` 把請求轉給 GitHub，這筆 CNAME 只留在 Cloudflare 內部用。因為 Cloudflare 站在中間，所以可以做快取、攔下攻擊。它轉送的只有網頁流量，所以雲朵開關只出現在瀏覽器找網站時會查的 record 上：
+
+- **A、AAAA：** 瀏覽器用它拿到網站的 IP。
+- **CNAME：** 瀏覽器先拿到另一個名字（例如 `<user>.github.io`），再去查這個名字的 IP。
+
+另外三種不是瀏覽器在查，所以沒有開關：
+
+- **MX：** 寄信過來的郵件伺服器用它找收信的主機。
+- **NS：** resolver 用它找這個網域歸哪台 nameserver 管。
+- **TXT：** Google、GitHub 這類服務用它讀驗證用的文字。
+
+可是 GitHub Pages 的子網域開 Proxied 有個疑慮：GitHub 替 custom domain 申請 https 憑證之前會先查 DNS，開了 Proxied，查到的就是 Cloudflare 的 IP，GitHub 可能就不申請了。在 Squarespace 時這些 record 都相當於 DNS only，所以我把它們全部點回灰色，只留 `alreadyhascert` 一筆 Proxied 當實驗，GitHub 到底會不會申請，[後面](#proxied)有實測。
+
+## 匯入的 `_domainconnect` CNAME 要不要刪
+
+匯入的 record 其中一條，它是 Squarespace 原本就有的：
+
+```
+CNAME  _domainconnect  _domainconnect.domains.squarespace.com
+```
+
+它給 Domain Connect 協定用，讓別的服務能自動幫你新增 record。例如在 Google Workspace 設定用 `whateveryoucall.com` 收信，Google 會先查這筆，知道 DNS 哦原來歸 Squarespace 管，再把你帶到那一家的授權頁。
+
+搬到 Cloudflare 之後，這筆留著或刪掉都一樣。Cloudflare 對 `_domainconnect` 的 TXT 查詢一律回自己的值，Google 查的是 TXT，所以會走到 Cloudflare。我把它刪了，讓 Records 清單少一筆用不到的 record；Squarespace 上原本那筆沒有動。
+
+兩家查 `_domainconnect` 的路徑分成兩組，同一個步驟用同一個編號，第 1 步兩家就不一樣：
+
+**① 搬家前，DNS 在 Squarespace**
+
+```bash
+# 1. 問 Squarespace 的 nameserver 要 TXT，這個名字只有 CNAME，所以回 CNAME
+$ dig +noall +answer @ns-cloud-a1.googledomains.com _domainconnect.whateveryoucall.com TXT
+_domainconnect.whateveryoucall.com.  14400  IN  CNAME  _domainconnect.domains.squarespace.com.
+
+# 2. 到 CNAME 指的名字上查 TXT
+$ dig +noall +answer _domainconnect.domains.squarespace.com TXT
+_domainconnect.domains.squarespace.com.  1800  IN  TXT  "domains.squarespace.com"
+
+# 1+2. 問 resolver，它碰到 CNAME 會自己跟過去，一次回兩行
+$ dig +noall +answer _domainconnect.whateveryoucall.com TXT
+_domainconnect.whateveryoucall.com.      14400  IN  CNAME  _domainconnect.domains.squarespace.com.
+_domainconnect.domains.squarespace.com.  1800   IN  TXT    "domains.squarespace.com"
+```
+
+**② 搬家後，DNS 在 Cloudflare**
+
+```bash
+# 1. 問 Cloudflare 的 nameserver 要 TXT，直接拿到 TXT，沒有第 2 步
+#    這筆不在 Records 清單裡；匯入的 CNAME 在不在、Proxied 還是 DNS only，回的都是它
+$ dig +noall +answer @ada.ns.cloudflare.com _domainconnect.whateveryoucall.com TXT
+_domainconnect.whateveryoucall.com.  3600  IN  TXT  "api.cloudflare.com/client/v4/dns/domainconnect"
+
+# 1+2. 問 resolver，一樣只有一行
+$ dig +noall +answer _domainconnect.whateveryoucall.com TXT
+_domainconnect.whateveryoucall.com.  3600  IN  TXT  "api.cloudflare.com/client/v4/dns/domainconnect"
+
+# 別的 DNS 放在 Cloudflare 的網域，回的也一樣
+$ dig +noall +answer _domainconnect.discord.com TXT
+_domainconnect.discord.com.  3600  IN  TXT  "api.cloudflare.com/client/v4/dns/domainconnect"
+$ dig +noall +answer _domainconnect.medium.com TXT
+_domainconnect.medium.com.   3600  IN  TXT  "api.cloudflare.com/client/v4/dns/domainconnect"
+
+# 3. 照 TXT 去打 Cloudflare 的設定網址
+$ curl https://api.cloudflare.com/client/v4/dns/domainconnect/v2/whateveryoucall.com/settings
+→ "urlSyncUX": "https://dash.cloudflare.com/domainconnect"
+```
+
+Google 在 TXT 的值後面接上 `/v2/whateveryoucall.com/settings` 去打，Cloudflare 回的授權頁是 `https://dash.cloudflare.com/domainconnect`，所以同樣的流程現在會走到 Cloudflare。
+
+一般的 DNS，一個名字有了 CNAME，問什麼都先回 CNAME，① 的 Squarespace 就是這樣；Cloudflare 在 `_domainconnect` 這個名字上不照這條走。
+
+## 換 nameserver：讓 resolver 以後改來 Cloudflare 查
+
+東西搬進新家還不夠，郵局地址簿上寫的還是舊家，郵差照樣去舊家問。record 匯入 Cloudflare 之後也一樣：TLD（頂級網域，這裡是 `.com`）的伺服器上，「`whateveryoucall.com` 歸誰管」寫的還是 Google，resolver 就照這一行繼續去問 Google。換 nameserver 就是去改這一行，而這一行只有註冊商能改，所以要到 Squarespace 改。查一次 `alreadyhascert.whateveryoucall.com` 要問三層：
+
+<iframe src="/embeds/dns-ns-layers?lang=zh" width="100%" height="470" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="resolver 查 alreadyhascert.whateveryoucall.com，要問三層"></iframe>
+
+換 nameserver 改的是中間那一層，從 Google 的四台改成 Cloudflare 的兩台。根伺服器那層不動，我們自訂最終目的地的 CNAME 也不動（這些是稍早一次匯入給 Cloudflare 的）。在 Squarespace 的 Domain Nameservers 頁改完，直接問 TLD 伺服器，回的已經是新的 NS，再問 Cloudflare，A、CNAME、MX 都對。
+
+換 NS 大約半天後，對四個 resolver 各問 300 次 NS，看還有沒有人在問 Google：
+
+| resolver | 誰在營運 | 回 Google |
+|---|---|---|
+| `8.8.8.8` | Google Public DNS，任何人都能用的公共 resolver | 0 |
+| `1.1.1.1` | Cloudflare 的公共 resolver | 0 |
+| `9.9.9.9` | Quad9，瑞士的非營利組織經營的公共 resolver | 0 |
+| `168.95.1.1` | 中華電信 HiNet，台灣 ISP 給自家用戶的預設 resolver | 13（大約 4%） |
+
+HiNet 還是偶發性會回 Google，是因為 resolver 會把舊的答案快取，而同一個 resolver 位址背後有很多台機器，每台的快取過期時間不一樣。TLD 上這一行的 TTL 是兩天，所以這兩天裡 Squarespace 上的 record 要留著。要是提早刪掉，用 HiNet 的人就有小機率打不開網站。
+
+## DNSSEC 跟換 nameserver，誰先誰後
+
+先在 Squarespace 關 DNSSEC，等一天；再換 nameserver，等兩天；最後在 Cloudflare 開 DNSSEC，把 DS 貼回 Squarespace。但其實我當時沒等這麼久，就沒問題的樣子就是。
+
+resolver 查網址像在問路：
+
+```
+1. resolver 問窗口（.com）：whateveryoucall.com 要去問誰？
+2. 窗口回：去問 ada.ns.cloudflare.com、bob.ns.cloudflare.com（NS）
+3. resolver 問 NS：whateveryoucall.com 在哪？
+4. NS 回：185.199.108.153
+```
+
+沒開 DNSSEC 的時候，第 4 步誰先回答 resolver 就信誰，攻擊者可以搶在 NS 前面回一個假 IP。開了 DNSSEC，多了兩樣東西：
+
+- 第 2 步，窗口除了指路，還登記了「NS 的回答要用哪把鑰匙簽名」，這筆叫 DS（Delegation Signer）。
+- 第 4 步，NS 回答時附上簽名，叫 RRSIG（Resource Record Signature）。
+
+resolver 拿 DS 比對 RRSIG，比對成功才收下。
+
+搬家時 NS 跟 DS 都一定會跟著調整，兩個都在 Squarespace 那邊改設定。可是 resolver 會把舊的存在快取裡，NS 最長兩天、DS 最長一天，這段時間它可能拿著舊的 DS 去問新的 NS，或拿著新的 DS 去問舊的 NS。問到的那台 NS 沒有 DS 指定的那把鑰匙，簽名就驗不過，resolver 回 SERVFAIL；`.com` 上沒有 DS，resolver 就不驗。下面可以切換 DS 跟 NS 的組合：
+
+<iframe src="/embeds/dns-dnssec-order?lang=zh" width="100%" height="470" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="DNSSEC：nameserver 要用 DS 指定的那把鑰匙簽名"></iframe>
+
+「開在 Google」配「Cloudflare 的 nameserver」，就是 DNSSEC 沒關就換了 NS：DS 要 Google 的鑰匙，Cloudflare 沒有，網站跟信都查不到。
+
+| 步驟 | 做什麼 | 要等多久 | 這次等了 |
+|---|---|---|---|
+| 1. 關 DNSSEC | 在 Squarespace 關掉，DS 跟 Google 的簽名會同時撤掉 | 一天，等 DS 的快取過期 | 三分鐘 |
+| 2. 換 NS | 在 Squarespace 改成 Cloudflare 的 nameserver | 兩天，等 NS 的快取過期 | 三小時 |
+| 3. 開 DNSSEC | 在 Cloudflare 開，再把 DS 貼到 Squarespace | 不用等 | |
+
+步驟 1 那一天也有風險：DS 跟 Google 的簽名在同一分鐘消失，快取裡還留著舊 DS 的驗證型 resolver 一樣會 SERVFAIL。撤 DS 那一刻對 8.8.8.8、1.1.1.1、9.9.9.9 各查一次，快取裡都沒有舊 DS，之後也沒有發現哪個子網域打不開。HiNet 換 NS 半天後還有 4% 問到 Google，不過它剛好不驗證 DNSSEC。
+
+<details>
+<summary>DS、DNSKEY、RRSIG 實際長什麼樣子</summary>
+
+```bash
+# DS：在上一層的 .com（a.gtld-servers.net 是 .com 的其中一台 TLD 伺服器），簽名者是 com.
+$ dig +norec +dnssec +noall +authority @a.gtld-servers.net whateveryoucall.com NS
+whateveryoucall.com.  172800  IN  NS     ada.ns.cloudflare.com.
+whateveryoucall.com.  172800  IN  NS     bob.ns.cloudflare.com.
+whateveryoucall.com.  86400   IN  DS     54321 13 2 <hash>
+whateveryoucall.com.  86400   IN  RRSIG  DS 13 2 86400 ... com. <簽名>
+
+# DNSKEY：在 Cloudflare，兩把不同的鑰匙
+#   257：DS 對應的那把，只拿來簽下面這組 DNSKEY
+#   256：實際替 A、CNAME、MX 這些 record 簽名的那把
+$ dig +dnssec +noall +answer @ada.ns.cloudflare.com whateveryoucall.com DNSKEY
+whateveryoucall.com.  3600  IN  DNSKEY  257 3 13 <257 那把的公鑰>
+whateveryoucall.com.  3600  IN  DNSKEY  256 3 13 <256 那把的公鑰>
+whateveryoucall.com.  3600  IN  RRSIG   DNSKEY 13 2 3600 ... whateveryoucall.com. <簽名>
+
+# RRSIG：跟 A 一起回，簽名者是 whateveryoucall.com.
+$ dig +dnssec +noall +answer @ada.ns.cloudflare.com whateveryoucall.com A
+whateveryoucall.com.  300  IN  A      185.199.108.153
+...
+whateveryoucall.com.  300  IN  RRSIG  A 13 2 300 ... whateveryoucall.com. <簽名>
+```
+
+resolver 從根開始一層一層驗：先確認 `.com` 的鑰匙，再用 `.com` 上的 DS 確認 Cloudflare 的 DNSKEY，最後用這把 DNSKEY 驗 A 旁邊的 RRSIG。
+
+在 Cloudflare 按下 Enable DNSSEC 之後：
+
+1. Cloudflare 產生兩組鑰匙對，就是 257 跟 256。私鑰留在 Cloudflare，公鑰放進 zone，成為那兩筆 DNSKEY。
+2. Cloudflare 用 256 的私鑰替 A、CNAME、MX、TXT 簽名，用 257 的私鑰替 DNSKEY 那一組簽名，簽出來的就是 RRSIG。Cloudflare 是在回答的當下才簽名，每次查詢拿到的 RRSIG，有效期都是從查詢時間往前、往後各 25 小時。
+3. Cloudflare 把網域名稱跟 257 的公鑰一起做 SHA-256，算出 DS，顯示在 dashboard。DS 複製到 Squarespace 的 DNSSEC 頁之後，Squarespace 送給 `.com`，`.com` 再用自己的私鑰替它簽名，就是 `RRSIG DS`。
+
+分成兩把，是為了方便換鑰匙。256 簽的東西多，可以常換，換了只要 257 重簽一次 DNSKEY；257 一換，DS 就要跟著換，又得到 Squarespace 貼一次，所以 257 盡量不動。
+
+</details>
+
+<span id="proxied"></span>
+
+## GitHub Pages 的子網域能不能開 Proxied
+
+開了 Proxied，回應的 header 裡 Cloudflare 跟 GitHub 兩邊都有：
+
+```bash
+$ curl -I https://alreadyhascert.whateveryoucall.com
+HTTP/2 200
+server: cloudflare          # Cloudflare 加的
+x-github-request-id: <id>   # GitHub 回應時帶的
+...
+```
+
+可是 GitHub 申請憑證時不看 header。GitHub Pages 替 custom domain 向 Let's Encrypt 申請 https 憑證之前，會先查 DNS，確認網域指向 GitHub。同一筆 `CNAME <user>.github.io`，DNS only 跟 Proxied 查到的不一樣：
+
+```bash
+# DNS only：照實回 CNAME 跟 GitHub 的 IP
+$ dig +short alreadyhascert.whateveryoucall.com
+<user>.github.io.
+185.199.108.153
+...
+
+# Proxied：只回 Cloudflare 的 IP，連 CNAME 都不回
+$ dig +short alreadyhascert.whateveryoucall.com
+104.21.x.x
+172.67.x.x
+```
+
+所以 Proxied 的時候，GitHub 查 DNS 只會查到 Cloudflare 的 IP，那它還會申請嗎？[GitHub 的文件](https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https)沒提 Cloudflare，[Let's Encrypt 論壇](https://community.letsencrypt.org/t/fyi-for-github-pages-or-vercel-netlify-with-cloudflare/231054)上說會、說不會的都有，所以自己試。
+
+用已經在 GitHub 運行的子網域 `alreadyhascert` 測不出來，因為憑證早就發了，所以把 custom domain 清掉再設回去，GitHub 也只是沿用手上那張，不會重新申請。所以另外開一個全新的 repo `brandnewnocert`，在 Cloudflare 加一筆 Proxied 的 CNAME，設定 custom domain，再用 `gh api` 讀 Pages 的狀態：
+
+```
+14:38  Proxied，設定 custom domain   DNS check successful
+                                    health: is_proxied=true  is_https_eligible=false
+14:41  Enforce HTTPS 不能勾："your domain is not properly configured to support HTTPS"
+       gh api PUT https_enforced=true → 404 "The certificate does not exist yet"
+14:43  改成 DNS only，重設 custom domain
+14:44  health: is_proxied=false  is_https_eligible=true，cert=authorization_pending
+14:45  cert=approved，Let's Encrypt，subject brandnewnocert.whateveryoucall.com
+```
+
+14:38 在 Proxied 下設定 custom domain，GitHub 5 分鐘都沒有申請；14:43 改成 DNS only，把 custom domain 清掉再填一次，2 分鐘就拿到憑證。兩次都是設定 custom domain，差別只有 proxy。原因在 [pages-health-check](https://github.com/github/pages-health-check/blob/master/lib/github-pages-health-check/domain.rb) 的 `domain.rb`：
+
+```ruby
+def https_eligible?
+  # Can't have any IP's which aren't GitHub's present.
+  return false if non_github_pages_ip_present?
+
+  # Can't have underscores in the domain name (Let's Encrypt does not allow it)
+  return false if host.include?("_")
+
+  # Must be a CNAME or point to our IPs.
+  return true if cname_to_github_user_domain? || cname_to_domain_to_pages?
+
+  # Check CAA records for the full domain and its parent domain.
+  pointed_to_github_pages_ip? && caa.lets_encrypt_allowed?
+end
+```
+
+第一行 `non_github_pages_ip_present?` 會把 DNS 回答裡的每個 IP，拿去跟 GitHub Pages 的 IP 名單（`185.199.108.153` 到 `.111.153`，加上 4 個 IPv6）比對，只要有一個不在名單上，就直接回 false，不申請。拿前面兩次 dig 的結果來跑：
+
+- **Proxied：** 回的是 `104.21.x.x`，不在名單上，第一行就回 false。
+- **DNS only：** 回的是 `185.199.108.153`，在名單上，第一行過；`alreadyhascert.whateveryoucall.com` 沒有底線，第二行過；CNAME 指向 `<user>.github.io`，第三行回 true，GitHub 就去申請。
+
+開關切到 Proxied，第一個檢查就沒過；三種申請時機的結果都在下面：
+
+<iframe src="/embeds/dns-pages-cert?lang=zh" width="100%" height="500" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="GitHub Pages 申請憑證之前的檢查：Proxied 停在哪一步"></iframe>
+
+### 拿不到憑證，網站為什麼還能打開
+
+瀏覽器拿到的是 Cloudflare 的憑證，Cloudflare 再自己去連 GitHub。這個網域的 SSL/TLS 模式是 [Full](https://developers.cloudflare.com/ssl/origin-configuration/ssl-modes/full/)，不檢查 origin 的憑證，所以就算 GitHub 那張過期了，網站還是能打開，瀏覽器的鎖頭顯示的也是 Cloudflare 的憑證。
+
+要是變成 [Full (strict)](https://developers.cloudflare.com/ssl/origin-configuration/ssl-modes/full-strict/)，過期的 origin 憑證會讓 Cloudflare 回 [526](https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-526/)。現在的 Full 是 [Automatic SSL/TLS](https://developers.cloudflare.com/ssl/origin-configuration/ssl-modes/) 自動選的，它只升不降。續約時 GitHub 會不會再跑一次 `https_eligible?`，文件沒寫，這次也沒等到續約；如果會，Proxied 的子網域就續不了約，到時又升成 Full (strict) 的話就會變成 526。
+
+所以 GitHub Pages 的子網域全部維持 DNS only，`alreadyhascert` 也改回灰色，測試用的 `brandnewnocert` 的 repo 跟 record 都刪了。
+
+換 NS 兩天後，舊的 Google nameserver 不會再被問到，到時把 Squarespace DNS Settings 上的 record 全部刪掉，搬家才算結束。
+
+## 題外話：留在 DNS 上的 CNAME 被佔用？
+
+搬家之後，某個 repo 刪了，CNAME 忘記跟著同步刪除，會有什麼風險？
+
+```
+oldpage.whateveryoucall.com  CNAME  <user>.github.io     ← repo oldpage 已經刪了
+```
+
+陌生人在他自己的 repo 填上 `oldpage.whateveryoucall.com` 當 custom domain，GitHub 檢查 DNS，發現這個名字確實指向 GitHub，就會放行。GitHub Pages 的 IP 是所有人共用的，GitHub 只看這個網址被哪個 repo 認領，所以訪客打開 `oldpage.whateveryoucall.com`，看到的就是陌生人的網頁。整個過程他不用碰我們的 Cloudflare，就這樣鳩佔鵲巢，這叫 domain takeover。
+
+其實 GitHub 有提供機制擋這件事，就是[驗證網域](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages)：在 GitHub 帳號的 Settings → Pages 加入 `whateveryoucall.com`，照它給的值在 DNS 新增一筆 TXT `_github-pages-challenge-<user>.whateveryoucall.com`，再按 Verify。能在 DNS 上放這筆 TXT 的，只有網域的主人，所以驗證之後，只有這個帳號底下的 repo 能用 `whateveryoucall.com` 跟它的第一層子網域，陌生人填了會被拒絕。這筆 TXT 要一直留著；另外，它只管 GitHub Pages，指向其他服務的 CNAME 還是要記得刪。
+16:T7bf0,LS0tCnRpdGxlOiAi5b6eIFNxdWFyZXNwYWNlIEROUyDpgbfnp7sgQ2xvdWRmbGFyZSIKY3JlYXRlZEF0OiAyMDI2LTExLTE5VDEyOjAwOjAwCnRhZ3M6IFtkbnMsIGNsb3VkZmxhcmUsIGdpdGh1Yi1wYWdlcywgZG5zc2VjXQpkZXNjcmlwdGlvbjogInJlY29yZCDlr6vmiJAgdHh0IOWMr+WFpSBDbG91ZGZsYXJlIOS5i+W+jO+8jOimgeaKiiBQcm94aWVkIOaUueWbniBETlMgb25see+8m0ROU1NFQyDopoHlhYjpl5zjgIHnrYnmj5vlrowgbmFtZXNlcnZlciDlho3plovvvJtHaXRIdWIgUGFnZXMg55qE5a2Q57ay5Z+f6ZaL5LqGIFByb3hpZWTvvIxHaXRIdWIg5p+l5Yiw55qE5pivIENsb3VkZmxhcmUg55qEIElQ77yM5bCx5LiN5pyD55Sz6KuL5oaR6K2J44CCIgotLS0KCuaIkeaDs+WcqCBgd2hhdGV2ZXJ5b3VjYWxsLmNvbWAg5bqV5LiL5Yqg5LiA5YCL5a2Q57ay5Z+fIGB4eGDvvIznlKggQ2xvdWRmbGFyZSBBY2Nlc3Mg6K6T5a6D5Y+q5pyJ55m75YWl6YGO55qE5Lq66IO95omT6ZaL44CC5Y+v5piv54++5ZyoIEROUyDlnKggU3F1YXJlc3BhY2XvvIzntrLpoIHlnKggR2l0SHViIFBhZ2Vz77yaCgpgYGBkaWZmCiAgd2hhdGV2ZXJ5b3VjYWxsLmNvbSAgICAgICAgQSAgICAgIDE4NS4xOTkuMTA4LjE1MyAgICAgICAgICMgR2l0SHViIFBhZ2VzCiAgYWxwaGEud2hhdGV2ZXJ5b3VjYWxsLmNvbSAgQ05BTUUgIDx1c2VyPi5naXRodWIuaW8gICAgICAgICMgR2l0SHViIFBhZ2VzCiAgYnJhdm8ud2hhdGV2ZXJ5b3VjYWxsLmNvbSAgQ05BTUUgIDx1c2VyPi5naXRodWIuaW8gICAgICAgICMgR2l0SHViIFBhZ2VzCiAgLi4uCiAgYXdzLndoYXRldmVyeW91Y2FsbC5jb20gICAgTlMgICAgIG5zLTEwMjQuYXdzZG5zLTAwLm9yZy4gICMg5aeU5rS+57WmIFJvdXRlIDUz77yM57ay56uZ5ZyoIFMzCiAgZGVsdGEud2hhdGV2ZXJ5b3VjYWxsLmNvbSAgTlMgICAgIG5zLTIwNDguYXdzZG5zLTY0LmNvbS4gICMg5aeU5rS+57WmIFJvdXRlIDUz77yM57ay56uZ5ZyoIFMzCisgeHgud2hhdGV2ZXJ5b3VjYWxsLmNvbSAgICAgQ05BTUUgIDxwcm9qZWN0Pi5wYWdlcy5kZXYgICAgICMgQ2xvdWRmbGFyZSBQYWdlc++8jOWKoOS4iiBBY2Nlc3MKYGBgCgrngrrkuobliqDpgJnkuIDooYzvvIzmlbTlgIvntrLln5/nmoQgRE5TIOmDveimgeaQrOWIsCBDbG91ZGZsYXJlIOWXju+8n+aQrOmBjuWOu++8jEdpdEh1YiDkuIrljp/mnKznmoTntrLnq5nmnIPkuI3mnIPlj5flvbHpn7/vvJ8KCuaQrOWujOS5i+W+jOeahOW3ruWIpe+8mgoKYGBgZGlmZgogIOiou+WGiuWVhiAgICAgIFNxdWFyZXNwYWNlCi0gbmFtZXNlcnZlciAgbnMtY2xvdWQtYTHvvZ5hNC5nb29nbGVkb21haW5zLmNvbQorIG5hbWVzZXJ2ZXIgIGFkYS5ucy5jbG91ZGZsYXJlLmNvbeOAgWJvYi5ucy5jbG91ZGZsYXJlLmNvbSAgIyDlnKggU3F1YXJlc3BhY2Ug5aGr77yM5a2Y5ZyoIC5jb20KLSDmlLkgcmVjb3JkICAgU3F1YXJlc3BhY2Ug55qEIEROUyBTZXR0aW5ncworIOaUuSByZWNvcmQgICBDbG91ZGZsYXJlIOeahCBETlMg4oaSIFJlY29yZHMKICDntrLpoIEgICAgICAgIEdpdEh1YiBQYWdlcwpgYGAKCm5hbWVzZXJ2ZXIg5Y6f5pys5pivIEdvb2dsZSDnmoTmqZ/lmajvvIzlm6DngrrpgJnlgIvntrLln5/mmK/lnKggR29vZ2xlIERvbWFpbnMg6LK355qE44CCMjAyMyDlubQgR29vZ2xlIOaKiiBHb29nbGUgRG9tYWlucyDos6PntaYgU3F1YXJlc3BhY2XvvIxETlMg6YKE55WZ5ZyoIEdvb2dsZSDnmoTln7rnpI7oqK3mlr3kuIrvvIhb5paw6IGe56i/XShodHRwczovL3d3dy5zcXVhcmVzcGFjZS5jb20vcHJlc3MtcmVsZWFzZXMvMjAyMy85Lzcvc3F1YXJlc3BhY2UtY29tcGxldGVzLWFjcXVpc2l0aW9uLW9mLWdvb2dsZS1kb21haW5zLWFzc2V0cynvvInjgIIKCiMjIOWWruS4gCBzdWJkb21haW4g566h55CG5ZyoIENsb3VkZmxhcmUg5LiN5YiS566XCgpDbG91ZGZsYXJlIEFjY2VzcyDlj6rkv53orbfmlL7lnKggQ2xvdWRmbGFyZSDluLPomZ/oo6HjgIHni4DmhYvmmK8gYWN0aXZlIOeahCB6b25l77yMW0FjY2VzcyDnmoTmlofku7ZdKGh0dHBzOi8vZGV2ZWxvcGVycy5jbG91ZGZsYXJlLmNvbS9jbG91ZGZsYXJlLW9uZS9hY2Nlc3MtY29udHJvbHMvYXBwbGljYXRpb25zL2h0dHAtYXBwcy9zZWxmLWhvc3RlZC1wdWJsaWMtYXBwLynlr6vnmoTliY3mj5DmmK/jgIxBbiBhY3RpdmUgZG9tYWluIG9uIENsb3VkZmxhcmXjgI3jgIIKCueahOeiuuaYr+aciSBmb3Igc3ViZG9tYWluIOeahOeuoeeQhuaWueW8j++8jOS9huWFjeiyu+aWueahiOS4jeWMheWQq+mAmeWAi+WKn+iDve+8mgoKLSAqKlBhcnRpYWzvvIhDTkFNRe+8iXNldHVw77yaKiogRE5TIOeVmeWcqCBTcXVhcmVzcGFjZe+8jOWPquWcqCBDbG91ZGZsYXJlIOaOm+S4gOWAiyB6b25l44CCW+aWh+S7tl0oaHR0cHM6Ly9kZXZlbG9wZXJzLmNsb3VkZmxhcmUuY29tL2Rucy96b25lLXNldHVwcy9wYXJ0aWFsLXNldHVwLynlr6vnmoTmmK/jgIxvbmx5IGF2YWlsYWJsZSB0byBjdXN0b21lcnMgb24gYSBCdXNpbmVzcyBvciBFbnRlcnByaXNlIHBsYW7jgI3vvIxCdXNpbmVzcyBbXCQyLDQwMC95ciDmiJYgXCQyNTAvbW9dKGh0dHBzOi8vd3d3LmNsb3VkZmxhcmUuY29tL3BsYW5zL25ldHdvcmstY2RuLynjgIIKLSAqKlN1YmRvbWFpbiBzZXR1cO+8mioqIOWPquaKiumCo+WAi+WtkOe2suWfn+eVtuaIkOeNqOeri+eahCB6b25l44CCW+aWh+S7tl0oaHR0cHM6Ly9kZXZlbG9wZXJzLmNsb3VkZmxhcmUuY29tL2Rucy96b25lLXNldHVwcy9zdWJkb21haW4tc2V0dXAvKeeahOihqOagvOS4iuWPquaciSBFbnRlcnByaXNlIOiDveeUqOOAggoKPHNwYW4gaWQ9InJvdXRlNTMiPjwvc3Bhbj5CVVQuLi4gQVdTIFJvdXRlIDUzIOWwseiDveaKiuWtkOe2suWfn+eVtuaIkOeNqOeri+eahCB6b25l77yM5LiA5YCLIGhvc3RlZCB6b25lIOS4gOWAi+aciOWPquimgSAwLjUg576O5YWD77yB5ZyoIFJvdXRlIDUzIOmWi+S4gOWAiyBgeHhpbnMzLndoYXRldmVyeW91Y2FsbC5jb21gIOeahCBob3N0ZWQgem9uZe+8jOWGjeWbniBTcXVhcmVzcGFjZSDliqDlm5vnrYYgTlMg5oyH6YGO5Y6777yaCgpgYGBkaWZmCiAgIyBTcXVhcmVzcGFjZSDkuIrnmoQgd2hhdGV2ZXJ5b3VjYWxsLmNvbQogIHd3dy53aGF0ZXZlcnlvdWNhbGwuY29tICAgICBDTkFNRSAgPHVzZXI+LmdpdGh1Yi5pbwogIC4uLgorIHh4aW5zMy53aGF0ZXZlcnlvdWNhbGwuY29tICBOUyAgICAgbnMtMTExLmF3c2Rucy0xMS5vcmcuICAgIyBSb3V0ZSA1MyDntabnmoQgNCDlj7AKKyB4eGluczMud2hhdGV2ZXJ5b3VjYWxsLmNvbSAgTlMgICAgIG5zLTIyMi5hd3NkbnMtMjIubmV0LgorIHh4aW5zMy53aGF0ZXZlcnlvdWNhbGwuY29tICBOUyAgICAgbnMtMzMzLmF3c2Rucy0zMy5jb20uCisgeHhpbnMzLndoYXRldmVyeW91Y2FsbC5jb20gIE5TICAgICBucy00NDQuYXdzZG5zLTQ0LmNvLnVrLgoKICAjIFJvdXRlIDUzIOS4iueahCB4eGluczMud2hhdGV2ZXJ5b3VjYWxsLmNvbQorIHh4aW5zMy53aGF0ZXZlcnlvdWNhbGwuY29tICBBICAgICAgQUxJQVMgZDExMTExMWFiY2RlZjguY2xvdWRmcm9udC5uZXQKYGBgCgrmjIflkJEgQ2xvdWRGcm9udCDnmoQgYWxpYXMg5p+l6Kmi5Lmf5LiN5Y+m5aSW5pS26LK777yIW1JvdXRlIDUzIOeahOaUtuiyu10oaHR0cHM6Ly9hd3MuYW1hem9uLmNvbS9yb3V0ZTUzL3ByaWNpbmcvKe+8ieOAguWJjemdoiBkaWZmIOijoeeahCBgYXdzYOOAgWBkZWx0YWAg5bCx5piv6YCZ5qij5aeU5rS+6YGO5Y6755qE44CC5LiN6YGOIEFjY2VzcyDmmK8gQ2xvdWRmbGFyZSDnmoTlip/og73vvIx6b25lIOaUvuWcqCBSb3V0ZSA1MyDlsLHmspLovqbms5XnlKjvvIzmiYDku6XpgJnmop3ot6/lsI3opoHliqAgQWNjZXNzIOeahOmCo+WAi+WtkOe2suWfn+aykuacieW5q+WKqeOAggoK5aW95ZCn77yM5pyA5b6M5Y+q5aW955So5YWN6LK75pa55qGI77yM55W254S25oqK5oiR57ay5Z+f5pW057WE5pCs6YGO5Y6744CC77yI5Y+N5q2jIFNxdWFyZXNwYWNlIOW+iOmbo+eUqO+8iQoKIyMg5pCsIEROU++8jOe2suermeacg+i3n+iRl+aQrOi1sOWXjgoK5LiN5pyD77yM5L2g5Y6f5pys5ZyoIFNxdWFyZXNwYWNlIEROUyDlpKfpg6jliIbmjIflkJEgR2l0SHVi77yM5L2g54++5Zyo5b6eIFNxdWFyZXNwYWNlIOaQrOWIsCBDbG91ZGZsYXJl77yM5L2G5Lmf6YO95oyH5ZCRIEdpdEh1Yu+8jOagueacrOmChOaYr+i3n+WOn+S+huS4gOaoo++8jOe2suermeaqlOahiOmDveaYr+aUvuWcqCBHaXRIdWLvvIEKCmBgYArmkKzlrrbliY0gIOioquWuoiDihpIg5ZWPIEdvb2dsZSDnmoQgbmFtZXNlcnZlciAgICAg4oaSIDE4NS4xOTkuMTA4LjE1M++8iEdpdEh1Yu+8iSDihpIgR2l0SHViIOWbnue2sumggQrmkKzlrrblvowgIOioquWuoiDihpIg5ZWPIENsb3VkZmxhcmUg55qEIG5hbWVzZXJ2ZXIg4oaSIDE4NS4xOTkuMTA4LjE1M++8iEdpdEh1Yu+8iSDihpIgR2l0SHViIOWbnue2sumggQpgYGAKCiMjIOaAjum6vOaKiiByZWNvcmQg5pCs5YiwIENsb3VkZmxhcmUKCuaKiiBTcXVhcmVzcGFjZSBETlMgU2V0dGluZ3Mg6aCB5LiK55qEIHJlY29yZCDlhajpg6jnhacgQmVya2VsZXkgSW50ZXJuZXQgTmFtZSBEb21haW7vvIhCSU5E77yJ5qC85byP5a+r5oiQ5LiA5YCLIHR4dCDmqpTvvIzlnKggQ2xvdWRmbGFyZSDnmoQgRE5TIOKGkiBSZWNvcmRzIOeUqCBJbXBvcnQgRE5TIFJlY29yZHMg5LiK5YKz77yaCgpgYGAKJE9SSUdJTiB3aGF0ZXZlcnlvdWNhbGwuY29tLgokVFRMIDM2MDAKYWxwaGEgICAgICAgIElOIENOQU1FIDx1c2VyPi5naXRodWIuaW8uCmJyYXZvICAgICAgICBJTiBDTkFNRSA8dXNlcj4uZ2l0aHViLmlvLgouLi4KZGVsdGEgICAgICAgIElOIE5TICAgIG5zLTIwNDguYXdzZG5zLTY0LmNvbS4KLi4uCmBgYAoK77yIYDx1c2VyPmAg5piv5pS+57ay6aCB55qEIEdpdEh1YiDluLPomZ/jgILvvIkKCuWMr+WFpeS5i+W+jO+8jENsb3VkZmxhcmUg5LiK55qEIHJlY29yZCDlsLHot58gU3F1YXJlc3BhY2Ug5LiK55qE5LiA5qij44CCCgojIyDljK/lhaXnmoQgcmVjb3JkIOmgkOioreacg+aJk+mWiyBQcm94aWVkCgpDbG91ZGZsYXJlIOavj+S4gOethiBB44CBQUFBQeOAgUNOQU1FIOmDveacieS4gOWAi+mbsuactemWi+mXnOOAgkltcG9ydCDlsI3oqbHmoYboo6HnmoQgUHJveHkgaW1wb3J0ZWQgRE5TIHJlY29yZHMg6aCQ6Kit5piv5Yu+55qE77yM5omA5Lul5Yyv5YWl55qEIHJlY29yZCDlhajpg6jmmK/mqZjoibLnmoQgUHJveGllZO+8jOWPlua2iOWLvumBuOWwseacg+WMr+WFpeaIkCBETlMgb25see+8mgoKfCB8IOioquWuouafpSBgYWxyZWFkeWhhc2NlcnQud2hhdGV2ZXJ5b3VjYWxsLmNvbWAg5b6X5YiwIHwg57ay6aCB5rWB6YeP57aT6YGOIHwKfC0tLXwtLS18LS0tfAp8ICFbUHJveHkgc3RhdHVzIOmWi+mXnOmXnOiRl++8jOeBsOiJsumbsuacte+8jEROUyBvbmx5XSgvaW1hZ2VzL2Rucy1zcXVhcmVzcGFjZS10by1jbG91ZGZsYXJlL2Rucy1vbmx5LnBuZykgfCBHaXRIdWIg55qEIElQIHwg6Kiq5a6iIOKGkiBHaXRIdWIgfAp8ICFbUHJveHkgc3RhdHVzIOmWi+mXnOaJk+mWi++8jOapmOiJsumbsuacte+8jFByb3hpZWRdKC9pbWFnZXMvZG5zLXNxdWFyZXNwYWNlLXRvLWNsb3VkZmxhcmUvcHJveGllZC5wbmcpIHwgQ2xvdWRmbGFyZSDnmoQgSVAgfCDoqKrlrqIg4oaSIENsb3VkZmxhcmUg4oaSIEdpdEh1YiB8CgoqKlByb3hpZWQg55qE5pmC5YCZ77yMQ2xvdWRmbGFyZSDlsLHmmK8gR2l0SHViIOWJjemdoueahCByZXZlcnNlIHByb3h544CCKiog6Kiq5a6i5p+lIEROUyDlj6rmi7/liLAgQ2xvdWRmbGFyZSDnmoQgSVDvvIzpgKPliLAgQ2xvdWRmbGFyZSDkuYvlvozvvIxDbG91ZGZsYXJlIOWGjeeFpyBgQ05BTUUgPHVzZXI+LmdpdGh1Yi5pb2Ag5oqK6KuL5rGC6L2J57WmIEdpdEh1Yu+8jOmAmeethiBDTkFNRSDlj6rnlZnlnKggQ2xvdWRmbGFyZSDlhafpg6jnlKjjgILlm6DngrogQ2xvdWRmbGFyZSDnq5nlnKjkuK3plpPvvIzmiYDku6Xlj6/ku6XlgZrlv6vlj5bjgIHmlJTkuIvmlLvmk4rjgILlroPovYnpgIHnmoTlj6rmnInntrLpoIHmtYHph4/vvIzmiYDku6Xpm7LmnLXplovpl5zlj6rlh7rnj77lnKjngI/opr3lmajmib7ntrLnq5nmmYLmnIPmn6XnmoQgcmVjb3JkIOS4iu+8mgoKLSAqKkHjgIFBQUFB77yaKiog54CP6Ka95Zmo55So5a6D5ou/5Yiw57ay56uZ55qEIElQ44CCCi0gKipDTkFNRe+8mioqIOeAj+imveWZqOWFiOaLv+WIsOWPpuS4gOWAi+WQjeWtl++8iOS+i+WmgiBgPHVzZXI+LmdpdGh1Yi5pb2DvvInvvIzlho3ljrvmn6XpgJnlgIvlkI3lrZfnmoQgSVDjgIIKCuWPpuWkluS4ieeoruS4jeaYr+eAj+imveWZqOWcqOafpe+8jOaJgOS7peaykuaciemWi+mXnO+8mgoKLSAqKk1Y77yaKiog5a+E5L+h6YGO5L6G55qE6YO15Lu25Ly65pyN5Zmo55So5a6D5om+5pS25L+h55qE5Li75qmf44CCCi0gKipOU++8mioqIHJlc29sdmVyIOeUqOWug+aJvumAmeWAi+e2suWfn+atuOWTquWPsCBuYW1lc2VydmVyIOeuoeOAggotICoqVFhU77yaKiogR29vZ2xl44CBR2l0SHViIOmAmemhnuacjeWLmeeUqOWug+iugOmpl+itieeUqOeahOaWh+Wtl+OAggoK5Y+v5pivIEdpdEh1YiBQYWdlcyDnmoTlrZDntrLln5/plosgUHJveGllZCDmnInlgIvnlpHmha7vvJpHaXRIdWIg5pu/IGN1c3RvbSBkb21haW4g55Sz6KuLIGh0dHBzIOaGkeitieS5i+WJjeacg+WFiOafpSBETlPvvIzplovkuoYgUHJveGllZO+8jOafpeWIsOeahOWwseaYryBDbG91ZGZsYXJlIOeahCBJUO+8jEdpdEh1YiDlj6/og73lsLHkuI3nlLPoq4vkuobjgILlnKggU3F1YXJlc3BhY2Ug5pmC6YCZ5LqbIHJlY29yZCDpg73nm7jnlbbmlrwgRE5TIG9ubHnvvIzmiYDku6XmiJHmiorlroPlgJHlhajpg6jpu57lm57ngbDoibLvvIzlj6rnlZkgYGFscmVhZHloYXNjZXJ0YCDkuIDnrYYgUHJveGllZCDnlbblr6bpqZfvvIxHaXRIdWIg5Yiw5bqV5pyD5LiN5pyD55Sz6KuL77yMW+W+jOmdol0oI3Byb3hpZWQp5pyJ5a+m5ris44CCCgojIyDljK/lhaXnmoQgYF9kb21haW5jb25uZWN0YCBDTkFNRSDopoHkuI3opoHliKoKCuWMr+WFpeeahCByZWNvcmQg5YW25Lit5LiA5qKd77yM5a6D5pivIFNxdWFyZXNwYWNlIOWOn+acrOWwseacieeahO+8mgoKYGBgCkNOQU1FICBfZG9tYWluY29ubmVjdCAgX2RvbWFpbmNvbm5lY3QuZG9tYWlucy5zcXVhcmVzcGFjZS5jb20KYGBgCgrlroPntaYgRG9tYWluIENvbm5lY3Qg5Y2U5a6a55So77yM6K6T5Yil55qE5pyN5YuZ6IO96Ieq5YuV5bmr5L2g5paw5aKeIHJlY29yZOOAguS+i+WmguWcqCBHb29nbGUgV29ya3NwYWNlIOioreWumueUqCBgd2hhdGV2ZXJ5b3VjYWxsLmNvbWAg5pS25L+h77yMR29vZ2xlIOacg+WFiOafpemAmeethu+8jOefpemBkyBETlMg5ZOm5Y6f5L6G5q24IFNxdWFyZXNwYWNlIOeuoe+8jOWGjeaKiuS9oOW4tuWIsOmCo+S4gOWutueahOaOiOasiumggeOAggoK5pCs5YiwIENsb3VkZmxhcmUg5LmL5b6M77yM6YCZ562G55WZ6JGX5oiW5Yiq5o6J6YO95LiA5qij44CCQ2xvdWRmbGFyZSDlsI0gYF9kb21haW5jb25uZWN0YCDnmoQgVFhUIOafpeipouS4gOW+i+WbnuiHquW3seeahOWAvO+8jEdvb2dsZSDmn6XnmoTmmK8gVFhU77yM5omA5Lul5pyD6LWw5YiwIENsb3VkZmxhcmXjgILmiJHmiorlroPliKrkuobvvIzorpMgUmVjb3JkcyDmuIXllq7lsJHkuIDnrYbnlKjkuI3liLDnmoQgcmVjb3Jk77ybU3F1YXJlc3BhY2Ug5LiK5Y6f5pys6YKj562G5rKS5pyJ5YuV44CCCgrlhanlrrbmn6UgYF9kb21haW5jb25uZWN0YCDnmoTot6/lvpHliIbmiJDlhanntYTvvIzlkIzkuIDlgIvmraXpqZ/nlKjlkIzkuIDlgIvnt6jomZ/vvIznrKwgMSDmraXlhanlrrblsLHkuI3kuIDmqKPvvJoKCioq4pGgIOaQrOWutuWJje+8jEROUyDlnKggU3F1YXJlc3BhY2UqKgoKYGBgYmFzaAojIDEuIOWVjyBTcXVhcmVzcGFjZSDnmoQgbmFtZXNlcnZlciDopoEgVFhU77yM6YCZ5YCL5ZCN5a2X5Y+q5pyJIENOQU1F77yM5omA5Lul5ZueIENOQU1FCiQgZGlnICtub2FsbCArYW5zd2VyIEBucy1jbG91ZC1hMS5nb29nbGVkb21haW5zLmNvbSBfZG9tYWluY29ubmVjdC53aGF0ZXZlcnlvdWNhbGwuY29tIFRYVApfZG9tYWluY29ubmVjdC53aGF0ZXZlcnlvdWNhbGwuY29tLiAgMTQ0MDAgIElOICBDTkFNRSAgX2RvbWFpbmNvbm5lY3QuZG9tYWlucy5zcXVhcmVzcGFjZS5jb20uCgojIDIuIOWIsCBDTkFNRSDmjIfnmoTlkI3lrZfkuIrmn6UgVFhUCiQgZGlnICtub2FsbCArYW5zd2VyIF9kb21haW5jb25uZWN0LmRvbWFpbnMuc3F1YXJlc3BhY2UuY29tIFRYVApfZG9tYWluY29ubmVjdC5kb21haW5zLnNxdWFyZXNwYWNlLmNvbS4gIDE4MDAgIElOICBUWFQgICJkb21haW5zLnNxdWFyZXNwYWNlLmNvbSIKCiMgMSsyLiDllY8gcmVzb2x2ZXLvvIzlroPnorDliLAgQ05BTUUg5pyD6Ieq5bex6Lef6YGO5Y6777yM5LiA5qyh5Zue5YWp6KGMCiQgZGlnICtub2FsbCArYW5zd2VyIF9kb21haW5jb25uZWN0LndoYXRldmVyeW91Y2FsbC5jb20gVFhUCl9kb21haW5jb25uZWN0LndoYXRldmVyeW91Y2FsbC5jb20uICAgICAgMTQ0MDAgIElOICBDTkFNRSAgX2RvbWFpbmNvbm5lY3QuZG9tYWlucy5zcXVhcmVzcGFjZS5jb20uCl9kb21haW5jb25uZWN0LmRvbWFpbnMuc3F1YXJlc3BhY2UuY29tLiAgMTgwMCAgIElOICBUWFQgICAgImRvbWFpbnMuc3F1YXJlc3BhY2UuY29tIgpgYGAKCioq4pGhIOaQrOWutuW+jO+8jEROUyDlnKggQ2xvdWRmbGFyZSoqCgpgYGBiYXNoCiMgMS4g5ZWPIENsb3VkZmxhcmUg55qEIG5hbWVzZXJ2ZXIg6KaBIFRYVO+8jOebtOaOpeaLv+WIsCBUWFTvvIzmspLmnInnrKwgMiDmraUKIyAgICDpgJnnrYbkuI3lnKggUmVjb3JkcyDmuIXllq7oo6HvvJvljK/lhaXnmoQgQ05BTUUg5Zyo5LiN5Zyo44CBUHJveGllZCDpgoTmmK8gRE5TIG9ubHnvvIzlm57nmoTpg73mmK/lroMKJCBkaWcgK25vYWxsICthbnN3ZXIgQGFkYS5ucy5jbG91ZGZsYXJlLmNvbSBfZG9tYWluY29ubmVjdC53aGF0ZXZlcnlvdWNhbGwuY29tIFRYVApfZG9tYWluY29ubmVjdC53aGF0ZXZlcnlvdWNhbGwuY29tLiAgMzYwMCAgSU4gIFRYVCAgImFwaS5jbG91ZGZsYXJlLmNvbS9jbGllbnQvdjQvZG5zL2RvbWFpbmNvbm5lY3QiCgojIDErMi4g5ZWPIHJlc29sdmVy77yM5LiA5qij5Y+q5pyJ5LiA6KGMCiQgZGlnICtub2FsbCArYW5zd2VyIF9kb21haW5jb25uZWN0LndoYXRldmVyeW91Y2FsbC5jb20gVFhUCl9kb21haW5jb25uZWN0LndoYXRldmVyeW91Y2FsbC5jb20uICAzNjAwICBJTiAgVFhUICAiYXBpLmNsb3VkZmxhcmUuY29tL2NsaWVudC92NC9kbnMvZG9tYWluY29ubmVjdCIKCiMg5Yil55qEIEROUyDmlL7lnKggQ2xvdWRmbGFyZSDnmoTntrLln5/vvIzlm57nmoTkuZ/kuIDmqKMKJCBkaWcgK25vYWxsICthbnN3ZXIgX2RvbWFpbmNvbm5lY3QuZGlzY29yZC5jb20gVFhUCl9kb21haW5jb25uZWN0LmRpc2NvcmQuY29tLiAgMzYwMCAgSU4gIFRYVCAgImFwaS5jbG91ZGZsYXJlLmNvbS9jbGllbnQvdjQvZG5zL2RvbWFpbmNvbm5lY3QiCiQgZGlnICtub2FsbCArYW5zd2VyIF9kb21haW5jb25uZWN0Lm1lZGl1bS5jb20gVFhUCl9kb21haW5jb25uZWN0Lm1lZGl1bS5jb20uICAgMzYwMCAgSU4gIFRYVCAgImFwaS5jbG91ZGZsYXJlLmNvbS9jbGllbnQvdjQvZG5zL2RvbWFpbmNvbm5lY3QiCgojIDMuIOeFpyBUWFQg5Y675omTIENsb3VkZmxhcmUg55qE6Kit5a6a57ay5Z2ACiQgY3VybCBodHRwczovL2FwaS5jbG91ZGZsYXJlLmNvbS9jbGllbnQvdjQvZG5zL2RvbWFpbmNvbm5lY3QvdjIvd2hhdGV2ZXJ5b3VjYWxsLmNvbS9zZXR0aW5ncwrihpIgInVybFN5bmNVWCI6ICJodHRwczovL2Rhc2guY2xvdWRmbGFyZS5jb20vZG9tYWluY29ubmVjdCIKYGBgCgpHb29nbGUg5ZyoIFRYVCDnmoTlgLzlvozpnaLmjqXkuIogYC92Mi93aGF0ZXZlcnlvdWNhbGwuY29tL3NldHRpbmdzYCDljrvmiZPvvIxDbG91ZGZsYXJlIOWbnueahOaOiOasiumggeaYryBgaHR0cHM6Ly9kYXNoLmNsb3VkZmxhcmUuY29tL2RvbWFpbmNvbm5lY3Rg77yM5omA5Lul5ZCM5qij55qE5rWB56iL54++5Zyo5pyD6LWw5YiwIENsb3VkZmxhcmXjgIIKCuS4gOiIrOeahCBETlPvvIzkuIDlgIvlkI3lrZfmnInkuoYgQ05BTUXvvIzllY/ku4Dpurzpg73lhYjlm54gQ05BTUXvvIzikaAg55qEIFNxdWFyZXNwYWNlIOWwseaYr+mAmeaoo++8m0Nsb3VkZmxhcmUg5ZyoIGBfZG9tYWluY29ubmVjdGAg6YCZ5YCL5ZCN5a2X5LiK5LiN54Wn6YCZ5qKd6LWw44CCCgojIyDmj5sgbmFtZXNlcnZlcu+8muiukyByZXNvbHZlciDku6XlvozmlLnkvoYgQ2xvdWRmbGFyZSDmn6UKCuadseilv+aQrOmAsuaWsOWutumChOS4jeWkoO+8jOmDteWxgOWcsOWdgOewv+S4iuWvq+eahOmChOaYr+iIiuWutu+8jOmDteW3rueFp+aoo+WOu+iIiuWutuWVj+OAgnJlY29yZCDljK/lhaUgQ2xvdWRmbGFyZSDkuYvlvozkuZ/kuIDmqKPvvJpUTETvvIjpoILntJrntrLln5/vvIzpgJnoo6HmmK8gYC5jb21g77yJ55qE5Ly65pyN5Zmo5LiK77yM44CMYHdoYXRldmVyeW91Y2FsbC5jb21gIOatuOiqsOeuoeOAjeWvq+eahOmChOaYryBHb29nbGXvvIxyZXNvbHZlciDlsLHnhafpgJnkuIDooYznubznuozljrvllY8gR29vZ2xl44CC5o+bIG5hbWVzZXJ2ZXIg5bCx5piv5Y675pS56YCZ5LiA6KGM77yM6ICM6YCZ5LiA6KGM5Y+q5pyJ6Ki75YaK5ZWG6IO95pS577yM5omA5Lul6KaB5YiwIFNxdWFyZXNwYWNlIOaUueOAguafpeS4gOasoSBgYWxyZWFkeWhhc2NlcnQud2hhdGV2ZXJ5b3VjYWxsLmNvbWAg6KaB5ZWP5LiJ5bGk77yaCgo8aWZyYW1lIHNyYz0iL2VtYmVkcy9kbnMtbnMtbGF5ZXJzP2xhbmc9emgiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjQ3MCIgc3R5bGU9ImJvcmRlcjowO2Rpc3BsYXk6YmxvY2s7bWFyZ2luOjEuNXJlbSAwIDIuNXJlbSIgbG9hZGluZz0ibGF6eSIgdGl0bGU9InJlc29sdmVyIOafpSBhbHJlYWR5aGFzY2VydC53aGF0ZXZlcnlvdWNhbGwuY29t77yM6KaB5ZWP5LiJ5bGkIj48L2lmcmFtZT4KCuaPmyBuYW1lc2VydmVyIOaUueeahOaYr+S4remWk+mCo+S4gOWxpO+8jOW+niBHb29nbGUg55qE5Zub5Y+w5pS55oiQIENsb3VkZmxhcmUg55qE5YWp5Y+w44CC5qC55Ly65pyN5Zmo6YKj5bGk5LiN5YuV77yM5oiR5YCR6Ieq6KiC5pyA57WC55uu55qE5Zyw55qEIENOQU1FIOS5n+S4jeWLle+8iOmAmeS6m+aYr+eojeaXqeS4gOasoeWMr+WFpee1piBDbG91ZGZsYXJlIOeahO+8ieOAguWcqCBTcXVhcmVzcGFjZSDnmoQgRG9tYWluIE5hbWVzZXJ2ZXJzIOmggeaUueWujO+8jOebtOaOpeWVjyBUTEQg5Ly65pyN5Zmo77yM5Zue55qE5bey57aT5piv5paw55qEIE5T77yM5YaN5ZWPIENsb3VkZmxhcmXvvIxB44CBQ05BTUXjgIFNWCDpg73lsI3jgIIKCuaPmyBOUyDlpKfntITljYrlpKnlvozvvIzlsI3lm5vlgIsgcmVzb2x2ZXIg5ZCE5ZWPIDMwMCDmrKEgTlPvvIznnIvpgoTmnInmspLmnInkurrlnKjllY8gR29vZ2xl77yaCgp8IHJlc29sdmVyIHwg6Kqw5Zyo54ef6YGLIHwg5ZueIEdvb2dsZSB8CnwtLS18LS0tfC0tLXwKfCBgOC44LjguOGAgfCBHb29nbGUgUHVibGljIEROU++8jOS7u+S9leS6uumDveiDveeUqOeahOWFrOWFsSByZXNvbHZlciB8IDAgfAp8IGAxLjEuMS4xYCB8IENsb3VkZmxhcmUg55qE5YWs5YWxIHJlc29sdmVyIHwgMCB8CnwgYDkuOS45LjlgIHwgUXVhZDnvvIznkZ7lo6vnmoTpnZ7nh5/liKnntYTnuZTntpPnh5/nmoTlhazlhbEgcmVzb2x2ZXIgfCAwIHwKfCBgMTY4Ljk1LjEuMWAgfCDkuK3oj6/pm7vkv6EgSGlOZXTvvIzlj7DngaMgSVNQIOe1puiHquWutueUqOaItueahOmgkOiorSByZXNvbHZlciB8IDEz77yI5aSn57SEIDQl77yJIHwKCkhpTmV0IOmChOaYr+WBtueZvOaAp+acg+WbniBHb29nbGXvvIzmmK/lm6DngrogcmVzb2x2ZXIg5pyD5oqK6IiK55qE562U5qGI5b+r5Y+W77yM6ICM5ZCM5LiA5YCLIHJlc29sdmVyIOS9jeWdgOiDjOW+jOacieW+iOWkmuWPsOapn+WZqO+8jOavj+WPsOeahOW/q+WPlumBjuacn+aZgumWk+S4jeS4gOaoo+OAglRMRCDkuIrpgJnkuIDooYznmoQgVFRMIOaYr+WFqeWkqe+8jOaJgOS7pemAmeWFqeWkqeijoSBTcXVhcmVzcGFjZSDkuIrnmoQgcmVjb3JkIOimgeeVmeiRl+OAguimgeaYr+aPkOaXqeWIquaOie+8jOeUqCBIaU5ldCDnmoTkurrlsLHmnInlsI/mqZ/njofmiZPkuI3plovntrLnq5njgIIKCiMjIEROU1NFQyDot5/mj5sgbmFtZXNlcnZlcu+8jOiqsOWFiOiqsOW+jAoK5YWI5ZyoIFNxdWFyZXNwYWNlIOmXnCBETlNTRUPvvIznrYnkuIDlpKnvvJvlho3mj5sgbmFtZXNlcnZlcu+8jOetieWFqeWkqe+8m+acgOW+jOWcqCBDbG91ZGZsYXJlIOmWiyBETlNTRUPvvIzmioogRFMg6LK85ZueIFNxdWFyZXNwYWNl44CC5L2G5YW25a+m5oiR55W25pmC5rKS562J6YCZ6bq85LmF77yM5bCx5rKS5ZWP6aGM55qE5qij5a2Q5bCx5piv44CCCgpyZXNvbHZlciDmn6XntrLlnYDlg4/lnKjllY/ot6/vvJoKCmBgYAoxLiByZXNvbHZlciDllY/nqpflj6PvvIguY29t77yJ77yad2hhdGV2ZXJ5b3VjYWxsLmNvbSDopoHljrvllY/oqrDvvJ8KMi4g56qX5Y+j5Zue77ya5Y675ZWPIGFkYS5ucy5jbG91ZGZsYXJlLmNvbeOAgWJvYi5ucy5jbG91ZGZsYXJlLmNvbe+8iE5T77yJCjMuIHJlc29sdmVyIOWVjyBOU++8mndoYXRldmVyeW91Y2FsbC5jb20g5Zyo5ZOq77yfCjQuIE5TIOWbnu+8mjE4NS4xOTkuMTA4LjE1MwpgYGAKCuaykumWiyBETlNTRUMg55qE5pmC5YCZ77yM56ysIDQg5q2l6Kqw5YWI5Zue562UIHJlc29sdmVyIOWwseS/oeiqsO+8jOaUu+aTiuiAheWPr+S7peaQtuWcqCBOUyDliY3pnaLlm57kuIDlgIvlgYcgSVDjgILplovkuoYgRE5TU0VD77yM5aSa5LqG5YWp5qij5p2x6KW/77yaCgotIOesrCAyIOatpe+8jOeql+WPo+mZpOS6huaMh+i3r++8jOmChOeZu+iomOS6huOAjE5TIOeahOWbnuetlOimgeeUqOWTquaKiumRsOWMmeewveWQjeOAje+8jOmAmeethuWPqyBEU++8iERlbGVnYXRpb24gU2lnbmVy77yJ44CCCi0g56ysIDQg5q2l77yMTlMg5Zue562U5pmC6ZmE5LiK57C95ZCN77yM5Y+rIFJSU0lH77yIUmVzb3VyY2UgUmVjb3JkIFNpZ25hdHVyZe+8ieOAggoKcmVzb2x2ZXIg5ou/IERTIOavlOWwjSBSUlNJR++8jOavlOWwjeaIkOWKn+aJjeaUtuS4i+OAggoK5pCs5a625pmCIE5TIOi3nyBEUyDpg73kuIDlrprmnIPot5/okZfoqr/mlbTvvIzlhanlgIvpg73lnKggU3F1YXJlc3BhY2Ug6YKj6YKK5pS56Kit5a6a44CC5Y+v5pivIHJlc29sdmVyIOacg+aKiuiIiueahOWtmOWcqOW/q+WPluijoe+8jE5TIOacgOmVt+WFqeWkqeOAgURTIOacgOmVt+S4gOWkqe+8jOmAmeauteaZgumWk+Wug+WPr+iDveaLv+iRl+iIiueahCBEUyDljrvllY/mlrDnmoQgTlPvvIzmiJbmi7/okZfmlrDnmoQgRFMg5Y675ZWP6IiK55qEIE5T44CC5ZWP5Yiw55qE6YKj5Y+wIE5TIOaykuaciSBEUyDmjIflrprnmoTpgqPmiorpkbDljJnvvIznsL3lkI3lsLHpqZfkuI3pgY7vvIxyZXNvbHZlciDlm54gU0VSVkZBSUzvvJtgLmNvbWAg5LiK5rKS5pyJIERT77yMcmVzb2x2ZXIg5bCx5LiN6amX44CC5LiL6Z2i5Y+v5Lul5YiH5o+bIERTIOi3nyBOUyDnmoTntYTlkIjvvJoKCjxpZnJhbWUgc3JjPSIvZW1iZWRzL2Rucy1kbnNzZWMtb3JkZXI/bGFuZz16aCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iNDcwIiBzdHlsZT0iYm9yZGVyOjA7ZGlzcGxheTpibG9jazttYXJnaW46MS41cmVtIDAgMi41cmVtIiBsb2FkaW5nPSJsYXp5IiB0aXRsZT0iRE5TU0VD77yabmFtZXNlcnZlciDopoHnlKggRFMg5oyH5a6a55qE6YKj5oqK6ZGw5YyZ57C95ZCNIj48L2lmcmFtZT4KCuOAjOmWi+WcqCBHb29nbGXjgI3phY3jgIxDbG91ZGZsYXJlIOeahCBuYW1lc2VydmVy44CN77yM5bCx5pivIEROU1NFQyDmspLpl5zlsLHmj5vkuoYgTlPvvJpEUyDopoEgR29vZ2xlIOeahOmRsOWMme+8jENsb3VkZmxhcmUg5rKS5pyJ77yM57ay56uZ6Lef5L+h6YO95p+l5LiN5Yiw44CCCgp8IOatpempnyB8IOWBmuS7gOm6vCB8IOimgeetieWkmuS5hSB8IOmAmeasoeetieS6hiB8CnwtLS18LS0tfC0tLXwtLS18CnwgMS4g6ZecIEROU1NFQyB8IOWcqCBTcXVhcmVzcGFjZSDpl5zmjonvvIxEUyDot58gR29vZ2xlIOeahOewveWQjeacg+WQjOaZguaSpOaOiSB8IOS4gOWkqe+8jOetiSBEUyDnmoTlv6vlj5bpgY7mnJ8gfCDkuInliIbpkJggfAp8IDIuIOaPmyBOUyB8IOWcqCBTcXVhcmVzcGFjZSDmlLnmiJAgQ2xvdWRmbGFyZSDnmoQgbmFtZXNlcnZlciB8IOWFqeWkqe+8jOetiSBOUyDnmoTlv6vlj5bpgY7mnJ8gfCDkuInlsI/mmYIgfAp8IDMuIOmWiyBETlNTRUMgfCDlnKggQ2xvdWRmbGFyZSDplovvvIzlho3mioogRFMg6LK85YiwIFNxdWFyZXNwYWNlIHwg5LiN55So562JIHwgfAoK5q2l6amfIDEg6YKj5LiA5aSp5Lmf5pyJ6aKo6Zqq77yaRFMg6LefIEdvb2dsZSDnmoTnsL3lkI3lnKjlkIzkuIDliIbpkJjmtojlpLHvvIzlv6vlj5boo6HpgoTnlZnokZfoiIogRFMg55qE6amX6K2J5Z6LIHJlc29sdmVyIOS4gOaoo+acgyBTRVJWRkFJTOOAguaSpCBEUyDpgqPkuIDliLvlsI0gOC44LjguOOOAgTEuMS4xLjHjgIE5LjkuOS45IOWQhOafpeS4gOasoe+8jOW/q+WPluijoemDveaykuacieiIiiBEU++8jOS5i+W+jOS5n+aykuacieeZvOePvuWTquWAi+WtkOe2suWfn+aJk+S4jemWi+OAgkhpTmV0IOaPmyBOUyDljYrlpKnlvozpgoTmnIkgNCUg5ZWP5YiwIEdvb2dsZe+8jOS4jemBjuWug+WJm+WlveS4jempl+itiSBETlNTRUPjgIIKCjxkZXRhaWxzPgo8c3VtbWFyeT5EU+OAgUROU0tFWeOAgVJSU0lHIOWvpumam+mVt+S7gOm6vOaoo+WtkDwvc3VtbWFyeT4KCmBgYGJhc2gKIyBEU++8muWcqOS4iuS4gOWxpOeahCAuY29t77yIYS5ndGxkLXNlcnZlcnMubmV0IOaYryAuY29tIOeahOWFtuS4reS4gOWPsCBUTEQg5Ly65pyN5Zmo77yJ77yM57C95ZCN6ICF5pivIGNvbS4KJCBkaWcgK25vcmVjICtkbnNzZWMgK25vYWxsICthdXRob3JpdHkgQGEuZ3RsZC1zZXJ2ZXJzLm5ldCB3aGF0ZXZlcnlvdWNhbGwuY29tIE5TCndoYXRldmVyeW91Y2FsbC5jb20uICAxNzI4MDAgIElOICBOUyAgICAgYWRhLm5zLmNsb3VkZmxhcmUuY29tLgp3aGF0ZXZlcnlvdWNhbGwuY29tLiAgMTcyODAwICBJTiAgTlMgICAgIGJvYi5ucy5jbG91ZGZsYXJlLmNvbS4Kd2hhdGV2ZXJ5b3VjYWxsLmNvbS4gIDg2NDAwICAgSU4gIERTICAgICA1NDMyMSAxMyAyIDxoYXNoPgp3aGF0ZXZlcnlvdWNhbGwuY29tLiAgODY0MDAgICBJTiAgUlJTSUcgIERTIDEzIDIgODY0MDAgLi4uIGNvbS4gPOewveWQjT4KCiMgRE5TS0VZ77ya5ZyoIENsb3VkZmxhcmXvvIzlhanmiorkuI3lkIznmoTpkbDljJkKIyAgIDI1N++8mkRTIOWwjeaHieeahOmCo+aKiu+8jOWPquaLv+S+huewveS4i+mdoumAmee1hCBETlNLRVkKIyAgIDI1Nu+8muWvpumam+abvyBB44CBQ05BTUXjgIFNWCDpgJnkupsgcmVjb3JkIOewveWQjeeahOmCo+aKigokIGRpZyArZG5zc2VjICtub2FsbCArYW5zd2VyIEBhZGEubnMuY2xvdWRmbGFyZS5jb20gd2hhdGV2ZXJ5b3VjYWxsLmNvbSBETlNLRVkKd2hhdGV2ZXJ5b3VjYWxsLmNvbS4gIDM2MDAgIElOICBETlNLRVkgIDI1NyAzIDEzIDwyNTcg6YKj5oqK55qE5YWs6ZGwPgp3aGF0ZXZlcnlvdWNhbGwuY29tLiAgMzYwMCAgSU4gIEROU0tFWSAgMjU2IDMgMTMgPDI1NiDpgqPmiornmoTlhazpkbA+CndoYXRldmVyeW91Y2FsbC5jb20uICAzNjAwICBJTiAgUlJTSUcgICBETlNLRVkgMTMgMiAzNjAwIC4uLiB3aGF0ZXZlcnlvdWNhbGwuY29tLiA857C95ZCNPgoKIyBSUlNJR++8mui3nyBBIOS4gOi1t+Wbnu+8jOewveWQjeiAheaYryB3aGF0ZXZlcnlvdWNhbGwuY29tLgokIGRpZyArZG5zc2VjICtub2FsbCArYW5zd2VyIEBhZGEubnMuY2xvdWRmbGFyZS5jb20gd2hhdGV2ZXJ5b3VjYWxsLmNvbSBBCndoYXRldmVyeW91Y2FsbC5jb20uICAzMDAgIElOICBBICAgICAgMTg1LjE5OS4xMDguMTUzCi4uLgp3aGF0ZXZlcnlvdWNhbGwuY29tLiAgMzAwICBJTiAgUlJTSUcgIEEgMTMgMiAzMDAgLi4uIHdoYXRldmVyeW91Y2FsbC5jb20uIDznsL3lkI0+CmBgYAoKcmVzb2x2ZXIg5b6e5qC56ZaL5aeL5LiA5bGk5LiA5bGk6amX77ya5YWI56K66KqNIGAuY29tYCDnmoTpkbDljJnvvIzlho3nlKggYC5jb21gIOS4iueahCBEUyDnorroqo0gQ2xvdWRmbGFyZSDnmoQgRE5TS0VZ77yM5pyA5b6M55So6YCZ5oqKIEROU0tFWSDpqZcgQSDml4HpgornmoQgUlJTSUfjgIIKCuWcqCBDbG91ZGZsYXJlIOaMieS4iyBFbmFibGUgRE5TU0VDIOS5i+W+jO+8mgoKMS4gQ2xvdWRmbGFyZSDnlKLnlJ/lhanntYTpkbDljJnlsI3vvIzlsLHmmK8gMjU3IOi3nyAyNTbjgILnp4HpkbDnlZnlnKggQ2xvdWRmbGFyZe+8jOWFrOmRsOaUvumAsiB6b25l77yM5oiQ54K66YKj5YWp562GIEROU0tFWeOAggoyLiBDbG91ZGZsYXJlIOeUqCAyNTYg55qE56eB6ZGw5pu/IEHjgIFDTkFNReOAgU1Y44CBVFhUIOewveWQje+8jOeUqCAyNTcg55qE56eB6ZGw5pu/IEROU0tFWSDpgqPkuIDntYTnsL3lkI3vvIznsL3lh7rkvobnmoTlsLHmmK8gUlJTSUfjgIJDbG91ZGZsYXJlIOaYr+WcqOWbnuetlOeahOeVtuS4i+aJjeewveWQje+8jOavj+asoeafpeipouaLv+WIsOeahCBSUlNJR++8jOacieaViOacn+mDveaYr+W+nuafpeipouaZgumWk+W+gOWJjeOAgeW+gOW+jOWQhCAyNSDlsI/mmYLjgIIKMy4gQ2xvdWRmbGFyZSDmiorntrLln5/lkI3nqLHot58gMjU3IOeahOWFrOmRsOS4gOi1t+WBmiBTSEEtMjU277yM566X5Ye6IERT77yM6aGv56S65ZyoIGRhc2hib2FyZOOAgkRTIOikh+ijveWIsCBTcXVhcmVzcGFjZSDnmoQgRE5TU0VDIOmggeS5i+W+jO+8jFNxdWFyZXNwYWNlIOmAgee1piBgLmNvbWDvvIxgLmNvbWAg5YaN55So6Ieq5bex55qE56eB6ZGw5pu/5a6D57C95ZCN77yM5bCx5pivIGBSUlNJRyBEU2DjgIIKCuWIhuaIkOWFqeaKiu+8jOaYr+eCuuS6huaWueS+v+aPm+mRsOWMmeOAgjI1NiDnsL3nmoTmnbHopb/lpJrvvIzlj6/ku6XluLjmj5vvvIzmj5vkuoblj6ropoEgMjU3IOmHjeewveS4gOasoSBETlNLRVnvvJsyNTcg5LiA5o+b77yMRFMg5bCx6KaB6Lef6JGX5o+b77yM5Y+I5b6X5YiwIFNxdWFyZXNwYWNlIOiyvOS4gOasoe+8jOaJgOS7pSAyNTcg55uh6YeP5LiN5YuV44CCCgo8L2RldGFpbHM+Cgo8c3BhbiBpZD0icHJveGllZCI+PC9zcGFuPgoKIyMgR2l0SHViIFBhZ2VzIOeahOWtkOe2suWfn+iDveS4jeiDvemWiyBQcm94aWVkCgrplovkuoYgUHJveGllZO+8jOWbnuaHieeahCBoZWFkZXIg6KOhIENsb3VkZmxhcmUg6LefIEdpdEh1YiDlhanpgorpg73mnInvvJoKCmBgYGJhc2gKJCBjdXJsIC1JIGh0dHBzOi8vYWxyZWFkeWhhc2NlcnQud2hhdGV2ZXJ5b3VjYWxsLmNvbQpIVFRQLzIgMjAwCnNlcnZlcjogY2xvdWRmbGFyZSAgICAgICAgICAjIENsb3VkZmxhcmUg5Yqg55qECngtZ2l0aHViLXJlcXVlc3QtaWQ6IDxpZD4gICAjIEdpdEh1YiDlm57mh4nmmYLluLbnmoQKLi4uCmBgYAoK5Y+v5pivIEdpdEh1YiDnlLPoq4vmhpHorYnmmYLkuI3nnIsgaGVhZGVy44CCR2l0SHViIFBhZ2VzIOabvyBjdXN0b20gZG9tYWluIOWQkSBMZXQncyBFbmNyeXB0IOeUs+iriyBodHRwcyDmhpHorYnkuYvliY3vvIzmnIPlhYjmn6UgRE5T77yM56K66KqN57ay5Z+f5oyH5ZCRIEdpdEh1YuOAguWQjOS4gOethiBgQ05BTUUgPHVzZXI+LmdpdGh1Yi5pb2DvvIxETlMgb25seSDot58gUHJveGllZCDmn6XliLDnmoTkuI3kuIDmqKPvvJoKCmBgYGJhc2gKIyBETlMgb25see+8mueFp+WvpuWbniBDTkFNRSDot58gR2l0SHViIOeahCBJUAokIGRpZyArc2hvcnQgYWxyZWFkeWhhc2NlcnQud2hhdGV2ZXJ5b3VjYWxsLmNvbQo8dXNlcj4uZ2l0aHViLmlvLgoxODUuMTk5LjEwOC4xNTMKLi4uCgojIFByb3hpZWTvvJrlj6rlm54gQ2xvdWRmbGFyZSDnmoQgSVDvvIzpgKMgQ05BTUUg6YO95LiN5ZueCiQgZGlnICtzaG9ydCBhbHJlYWR5aGFzY2VydC53aGF0ZXZlcnlvdWNhbGwuY29tCjEwNC4yMS54LngKMTcyLjY3LngueApgYGAKCuaJgOS7pSBQcm94aWVkIOeahOaZguWAme+8jEdpdEh1YiDmn6UgRE5TIOWPquacg+afpeWIsCBDbG91ZGZsYXJlIOeahCBJUO+8jOmCo+Wug+mChOacg+eUs+iri+WXju+8n1tHaXRIdWIg55qE5paH5Lu2XShodHRwczovL2RvY3MuZ2l0aHViLmNvbS9lbi9wYWdlcy9nZXR0aW5nLXN0YXJ0ZWQtd2l0aC1naXRodWItcGFnZXMvc2VjdXJpbmcteW91ci1naXRodWItcGFnZXMtc2l0ZS13aXRoLWh0dHBzKeaykuaPkCBDbG91ZGZsYXJl77yMW0xldCdzIEVuY3J5cHQg6KuW5aOHXShodHRwczovL2NvbW11bml0eS5sZXRzZW5jcnlwdC5vcmcvdC9meWktZm9yLWdpdGh1Yi1wYWdlcy1vci12ZXJjZWwtbmV0bGlmeS13aXRoLWNsb3VkZmxhcmUvMjMxMDU0KeS4iuiqquacg+OAgeiqquS4jeacg+eahOmDveacie+8jOaJgOS7peiHquW3seippuOAggoK55So5bey57aT5ZyoIEdpdEh1YiDpgYvooYznmoTlrZDntrLln58gYGFscmVhZHloYXNjZXJ0YCDmuKzkuI3lh7rkvobvvIzlm6DngrrmhpHorYnml6nlsLHnmbzkuobvvIzmiYDku6XmioogY3VzdG9tIGRvbWFpbiDmuIXmjonlho3oqK3lm57ljrvvvIxHaXRIdWIg5Lmf5Y+q5piv5rK/55So5omL5LiK6YKj5by177yM5LiN5pyD6YeN5paw55Sz6KuL44CC5omA5Lul5Y+m5aSW6ZaL5LiA5YCL5YWo5paw55qEIHJlcG8gYGJyYW5kbmV3bm9jZXJ0YO+8jOWcqCBDbG91ZGZsYXJlIOWKoOS4gOethiBQcm94aWVkIOeahCBDTkFNRe+8jOioreWumiBjdXN0b20gZG9tYWlu77yM5YaN55SoIGBnaCBhcGlgIOiugCBQYWdlcyDnmoTni4DmhYvvvJoKCmBgYAoxNDozOCAgUHJveGllZO+8jOioreWumiBjdXN0b20gZG9tYWluICAgRE5TIGNoZWNrIHN1Y2Nlc3NmdWwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVhbHRoOiBpc19wcm94aWVkPXRydWUgIGlzX2h0dHBzX2VsaWdpYmxlPWZhbHNlCjE0OjQxICBFbmZvcmNlIEhUVFBTIOS4jeiDveWLvu+8miJ5b3VyIGRvbWFpbiBpcyBub3QgcHJvcGVybHkgY29uZmlndXJlZCB0byBzdXBwb3J0IEhUVFBTIgogICAgICAgZ2ggYXBpIFBVVCBodHRwc19lbmZvcmNlZD10cnVlIOKGkiA0MDQgIlRoZSBjZXJ0aWZpY2F0ZSBkb2VzIG5vdCBleGlzdCB5ZXQiCjE0OjQzICDmlLnmiJAgRE5TIG9ubHnvvIzph43oqK0gY3VzdG9tIGRvbWFpbgoxNDo0NCAgaGVhbHRoOiBpc19wcm94aWVkPWZhbHNlICBpc19odHRwc19lbGlnaWJsZT10cnVl77yMY2VydD1hdXRob3JpemF0aW9uX3BlbmRpbmcKMTQ6NDUgIGNlcnQ9YXBwcm92ZWTvvIxMZXQncyBFbmNyeXB077yMc3ViamVjdCBicmFuZG5ld25vY2VydC53aGF0ZXZlcnlvdWNhbGwuY29tCmBgYAoKMTQ6Mzgg5ZyoIFByb3hpZWQg5LiL6Kit5a6aIGN1c3RvbSBkb21haW7vvIxHaXRIdWIgNSDliIbpkJjpg73mspLmnInnlLPoq4vvvJsxNDo0MyDmlLnmiJAgRE5TIG9ubHnvvIzmioogY3VzdG9tIGRvbWFpbiDmuIXmjonlho3loavkuIDmrKHvvIwyIOWIhumQmOWwseaLv+WIsOaGkeitieOAguWFqeasoemDveaYr+ioreWumiBjdXN0b20gZG9tYWlu77yM5beu5Yil5Y+q5pyJIHByb3h544CC5Y6f5Zug5ZyoIFtwYWdlcy1oZWFsdGgtY2hlY2tdKGh0dHBzOi8vZ2l0aHViLmNvbS9naXRodWIvcGFnZXMtaGVhbHRoLWNoZWNrL2Jsb2IvbWFzdGVyL2xpYi9naXRodWItcGFnZXMtaGVhbHRoLWNoZWNrL2RvbWFpbi5yYikg55qEIGBkb21haW4ucmJg77yaCgpgYGBydWJ5CmRlZiBodHRwc19lbGlnaWJsZT8KICAjIENhbid0IGhhdmUgYW55IElQJ3Mgd2hpY2ggYXJlbid0IEdpdEh1YidzIHByZXNlbnQuCiAgcmV0dXJuIGZhbHNlIGlmIG5vbl9naXRodWJfcGFnZXNfaXBfcHJlc2VudD8KCiAgIyBDYW4ndCBoYXZlIHVuZGVyc2NvcmVzIGluIHRoZSBkb21haW4gbmFtZSAoTGV0J3MgRW5jcnlwdCBkb2VzIG5vdCBhbGxvdyBpdCkKICByZXR1cm4gZmFsc2UgaWYgaG9zdC5pbmNsdWRlPygiXyIpCgogICMgTXVzdCBiZSBhIENOQU1FIG9yIHBvaW50IHRvIG91ciBJUHMuCiAgcmV0dXJuIHRydWUgaWYgY25hbWVfdG9fZ2l0aHViX3VzZXJfZG9tYWluPyB8fCBjbmFtZV90b19kb21haW5fdG9fcGFnZXM/CgogICMgQ2hlY2sgQ0FBIHJlY29yZHMgZm9yIHRoZSBmdWxsIGRvbWFpbiBhbmQgaXRzIHBhcmVudCBkb21haW4uCiAgcG9pbnRlZF90b19naXRodWJfcGFnZXNfaXA/ICYmIGNhYS5sZXRzX2VuY3J5cHRfYWxsb3dlZD8KZW5kCmBgYAoK56ys5LiA6KGMIGBub25fZ2l0aHViX3BhZ2VzX2lwX3ByZXNlbnQ/YCDmnIPmioogRE5TIOWbnuetlOijoeeahOavj+WAiyBJUO+8jOaLv+WOu+i3nyBHaXRIdWIgUGFnZXMg55qEIElQIOWQjeWWru+8iGAxODUuMTk5LjEwOC4xNTNgIOWIsCBgLjExMS4xNTNg77yM5Yqg5LiKIDQg5YCLIElQdjbvvInmr5TlsI3vvIzlj6ropoHmnInkuIDlgIvkuI3lnKjlkI3llq7kuIrvvIzlsLHnm7TmjqXlm54gZmFsc2XvvIzkuI3nlLPoq4vjgILmi7/liY3pnaLlhanmrKEgZGlnIOeahOe1kOaenOS+hui3ke+8mgoKLSAqKlByb3hpZWTvvJoqKiDlm57nmoTmmK8gYDEwNC4yMS54Lnhg77yM5LiN5Zyo5ZCN5Zau5LiK77yM56ys5LiA6KGM5bCx5ZueIGZhbHNl44CCCi0gKipETlMgb25see+8mioqIOWbnueahOaYryBgMTg1LjE5OS4xMDguMTUzYO+8jOWcqOWQjeWWruS4iu+8jOesrOS4gOihjOmBju+8m2BhbHJlYWR5aGFzY2VydC53aGF0ZXZlcnlvdWNhbGwuY29tYCDmspLmnInlupXnt5rvvIznrKzkuozooYzpgY7vvJtDTkFNRSDmjIflkJEgYDx1c2VyPi5naXRodWIuaW9g77yM56ys5LiJ6KGM5ZueIHRydWXvvIxHaXRIdWIg5bCx5Y6755Sz6KuL44CCCgrplovpl5zliIfliLAgUHJveGllZO+8jOesrOS4gOWAi+aqouafpeWwseaykumBju+8m+S4ieeorueUs+iri+aZguapn+eahOe1kOaenOmDveWcqOS4i+mdou+8mgoKPGlmcmFtZSBzcmM9Ii9lbWJlZHMvZG5zLXBhZ2VzLWNlcnQ/bGFuZz16aCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iNTAwIiBzdHlsZT0iYm9yZGVyOjA7ZGlzcGxheTpibG9jazttYXJnaW46MS41cmVtIDAgMi41cmVtIiBsb2FkaW5nPSJsYXp5IiB0aXRsZT0iR2l0SHViIFBhZ2VzIOeUs+iri+aGkeitieS5i+WJjeeahOaqouafpe+8mlByb3hpZWQg5YGc5Zyo5ZOq5LiA5q2lIj48L2lmcmFtZT4KCiMjIyDmi7/kuI3liLDmhpHorYnvvIzntrLnq5nngrrku4DpurzpgoTog73miZPplosKCueAj+imveWZqOaLv+WIsOeahOaYryBDbG91ZGZsYXJlIOeahOaGkeitie+8jENsb3VkZmxhcmUg5YaN6Ieq5bex5Y676YCjIEdpdEh1YuOAgumAmeWAi+e2suWfn+eahCBTU0wvVExTIOaooeW8j+aYryBbRnVsbF0oaHR0cHM6Ly9kZXZlbG9wZXJzLmNsb3VkZmxhcmUuY29tL3NzbC9vcmlnaW4tY29uZmlndXJhdGlvbi9zc2wtbW9kZXMvZnVsbC8p77yM5LiN5qqi5p+lIG9yaWdpbiDnmoTmhpHorYnvvIzmiYDku6XlsLHnrpcgR2l0SHViIOmCo+W8temBjuacn+S6hu+8jOe2suermemChOaYr+iDveaJk+mWi++8jOeAj+imveWZqOeahOmOlumgremhr+ekuueahOS5n+aYryBDbG91ZGZsYXJlIOeahOaGkeitieOAggoK6KaB5piv6K6K5oiQIFtGdWxsIChzdHJpY3QpXShodHRwczovL2RldmVsb3BlcnMuY2xvdWRmbGFyZS5jb20vc3NsL29yaWdpbi1jb25maWd1cmF0aW9uL3NzbC1tb2Rlcy9mdWxsLXN0cmljdC8p77yM6YGO5pyf55qEIG9yaWdpbiDmhpHorYnmnIPorpMgQ2xvdWRmbGFyZSDlm54gWzUyNl0oaHR0cHM6Ly9kZXZlbG9wZXJzLmNsb3VkZmxhcmUuY29tL3N1cHBvcnQvdHJvdWJsZXNob290aW5nL2h0dHAtc3RhdHVzLWNvZGVzL2Nsb3VkZmxhcmUtNXh4LWVycm9ycy9lcnJvci01MjYvKeOAguePvuWcqOeahCBGdWxsIOaYryBbQXV0b21hdGljIFNTTC9UTFNdKGh0dHBzOi8vZGV2ZWxvcGVycy5jbG91ZGZsYXJlLmNvbS9zc2wvb3JpZ2luLWNvbmZpZ3VyYXRpb24vc3NsLW1vZGVzLykg6Ieq5YuV6YG455qE77yM5a6D5Y+q5Y2H5LiN6ZmN44CC57qM57SE5pmCIEdpdEh1YiDmnIPkuI3mnIPlho3ot5HkuIDmrKEgYGh0dHBzX2VsaWdpYmxlP2DvvIzmlofku7bmspLlr6vvvIzpgJnmrKHkuZ/mspLnrYnliLDnuozntITvvJvlpoLmnpzmnIPvvIxQcm94aWVkIOeahOWtkOe2suWfn+Wwsee6jOS4jeS6hue0hO+8jOWIsOaZguWPiOWNh+aIkCBGdWxsIChzdHJpY3QpIOeahOipseWwseacg+iuiuaIkCA1MjbjgIIKCuaJgOS7pSBHaXRIdWIgUGFnZXMg55qE5a2Q57ay5Z+f5YWo6YOo57at5oyBIEROUyBvbmx577yMYGFscmVhZHloYXNjZXJ0YCDkuZ/mlLnlm57ngbDoibLvvIzmuKzoqabnlKjnmoQgYGJyYW5kbmV3bm9jZXJ0YCDnmoQgcmVwbyDot58gcmVjb3JkIOmDveWIquS6huOAggoK5o+bIE5TIOWFqeWkqeW+jO+8jOiIiueahCBHb29nbGUgbmFtZXNlcnZlciDkuI3mnIPlho3ooqvllY/liLDvvIzliLDmmYLmioogU3F1YXJlc3BhY2UgRE5TIFNldHRpbmdzIOS4iueahCByZWNvcmQg5YWo6YOo5Yiq5o6J77yM5pCs5a625omN566X57WQ5p2f44CCCgojIyDpoYzlpJboqbHvvJrnlZnlnKggRE5TIOS4iueahCBDTkFNRSDooqvkvZTnlKjvvJ8KCuaQrOWutuS5i+W+jO+8jOafkOWAiyByZXBvIOWIquS6hu+8jENOQU1FIOW/mOiomOi3n+iRl+WQjOatpeWIqumZpO+8jOacg+acieS7gOm6vOmiqOmaqu+8nwoKYGBgCm9sZHBhZ2Uud2hhdGV2ZXJ5b3VjYWxsLmNvbSAgQ05BTUUgIDx1c2VyPi5naXRodWIuaW8gICAgIOKGkCByZXBvIG9sZHBhZ2Ug5bey57aT5Yiq5LqGCmBgYAoK6ZmM55Sf5Lq65Zyo5LuW6Ieq5bex55qEIHJlcG8g5aGr5LiKIGBvbGRwYWdlLndoYXRldmVyeW91Y2FsbC5jb21gIOeVtiBjdXN0b20gZG9tYWlu77yMR2l0SHViIOaqouafpSBETlPvvIznmbznj77pgJnlgIvlkI3lrZfnorrlr6bmjIflkJEgR2l0SHVi77yM5bCx5pyD5pS+6KGM44CCR2l0SHViIFBhZ2VzIOeahCBJUCDmmK/miYDmnInkurrlhbHnlKjnmoTvvIxHaXRIdWIg5Y+q55yL6YCZ5YCL57ay5Z2A6KKr5ZOq5YCLIHJlcG8g6KqN6aCY77yM5omA5Lul6Kiq5a6i5omT6ZaLIGBvbGRwYWdlLndoYXRldmVyeW91Y2FsbC5jb21g77yM55yL5Yiw55qE5bCx5piv6ZmM55Sf5Lq655qE57ay6aCB44CC5pW05YCL6YGO56iL5LuW5LiN55So56Kw5oiR5YCR55qEIENsb3VkZmxhcmXvvIzlsLHpgJnmqKPps6nkvZTptbLlt6LvvIzpgJnlj6sgZG9tYWluIHRha2VvdmVy44CCCgrlhbblr6YgR2l0SHViIOacieaPkOS+m+apn+WItuaTi+mAmeS7tuS6i++8jOWwseaYr1vpqZforYnntrLln59dKGh0dHBzOi8vZG9jcy5naXRodWIuY29tL2VuL3BhZ2VzL2NvbmZpZ3VyaW5nLWEtY3VzdG9tLWRvbWFpbi1mb3IteW91ci1naXRodWItcGFnZXMtc2l0ZS92ZXJpZnlpbmcteW91ci1jdXN0b20tZG9tYWluLWZvci1naXRodWItcGFnZXMp77ya5ZyoIEdpdEh1YiDluLPomZ/nmoQgU2V0dGluZ3Mg4oaSIFBhZ2VzIOWKoOWFpSBgd2hhdGV2ZXJ5b3VjYWxsLmNvbWDvvIznhaflroPntabnmoTlgLzlnKggRE5TIOaWsOWinuS4gOethiBUWFQgYF9naXRodWItcGFnZXMtY2hhbGxlbmdlLTx1c2VyPi53aGF0ZXZlcnlvdWNhbGwuY29tYO+8jOWGjeaMiSBWZXJpZnnjgILog73lnKggRE5TIOS4iuaUvumAmeethiBUWFQg55qE77yM5Y+q5pyJ57ay5Z+f55qE5Li75Lq677yM5omA5Lul6amX6K2J5LmL5b6M77yM5Y+q5pyJ6YCZ5YCL5biz6Jmf5bqV5LiL55qEIHJlcG8g6IO955SoIGB3aGF0ZXZlcnlvdWNhbGwuY29tYCDot5/lroPnmoTnrKzkuIDlsaTlrZDntrLln5/vvIzpmYznlJ/kurrloavkuobmnIPooqvmi5LntZXjgILpgJnnrYYgVFhUIOimgeS4gOebtOeVmeiRl++8m+WPpuWklu+8jOWug+WPqueuoSBHaXRIdWIgUGFnZXPvvIzmjIflkJHlhbbku5bmnI3li5nnmoQgQ05BTUUg6YKE5piv6KaB6KiY5b6X5Yiq44CCCg==17:Tc625,<p>I wanted to add a subdomain <code>xx</code> under <code>whateveryoucall.com</code> and put Cloudflare Access in front of it, so that only people who had signed in could open it. The DNS, though, was at Squarespace and the sites were on GitHub Pages:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="diff" data-theme="github-dark github-light"><code data-language="diff" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  whateveryoucall.com        A      185.199.108.153         # GitHub Pages</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  alpha.whateveryoucall.com  CNAME  &#x3C;user>.github.io        # GitHub Pages</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  bravo.whateveryoucall.com  CNAME  &#x3C;user>.github.io        # GitHub Pages</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  ...</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  aws.whateveryoucall.com    NS     ns-1024.awsdns-00.org.  # delegated to Route 53, site on S3</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  delta.whateveryoucall.com  NS     ns-2048.awsdns-64.com.  # delegated to Route 53, site on S3</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+ xx.whateveryoucall.com     CNAME  &#x3C;project>.pages.dev     # Cloudflare Pages, behind Access</span></span></code></pre></figure>
+<p>Does adding that one line mean moving the whole domain's DNS to Cloudflare, and would the sites already on GitHub be affected if I did?</p>
+<p>What changes after the move:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="diff" data-theme="github-dark github-light"><code data-language="diff" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  registrar    Squarespace</span></span>
+<span data-line=""><span style="--shiki-dark:#FDAEB7;--shiki-light:#B31D28">- nameservers  ns-cloud-a1 to a4.googledomains.com</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+ nameservers  ada.ns.cloudflare.com, bob.ns.cloudflare.com  # entered at Squarespace, stored at .com</span></span>
+<span data-line=""><span style="--shiki-dark:#FDAEB7;--shiki-light:#B31D28">- edit records Squarespace DNS Settings</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+ edit records Cloudflare DNS → Records</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  sites        GitHub Pages</span></span></code></pre></figure>
+<p>The old nameservers were Google's because the domain was bought at Google Domains. Google sold Google Domains to Squarespace in 2023, and the DNS kept running on Google's infrastructure (<a href="https://www.squarespace.com/press-releases/2023/9/7/squarespace-completes-acquisition-of-google-domains-assets">press release</a>).</p>
+<h2>Managing a single subdomain on Cloudflare costs too much</h2>
+<p>Cloudflare Access only protects zones that are active in your Cloudflare account; the <a href="https://developers.cloudflare.com/cloudflare-one/access-controls/applications/http-apps/self-hosted-public-app/">Access docs</a> list "An active domain on Cloudflare" as the prerequisite.</p>
+<p>Cloudflare can manage just a subdomain, but not on the free plan:</p>
+<ul>
+<li><strong>Partial (CNAME) setup:</strong> DNS stays at Squarespace and Cloudflare holds only a zone. The <a href="https://developers.cloudflare.com/dns/zone-setups/partial-setup/">docs</a> say it is "only available to customers on a Business or Enterprise plan", and Business is <a href="https://www.cloudflare.com/plans/network-cdn/">$2,400/yr or $250/mo</a>.</li>
+<li><strong>Subdomain setup:</strong> the subdomain becomes its own zone, which the table in the <a href="https://developers.cloudflare.com/dns/zone-setups/subdomain-setup/">docs</a> lists for Enterprise only.</li>
+</ul>
+<p><span id="route53"></span>BUT... AWS Route 53 will happily make a subdomain its own zone, for $0.50 a month per hosted zone. You create an <code>xxins3.whateveryoucall.com</code> hosted zone in Route 53 and add four NS records at Squarespace that point to it:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="diff" data-theme="github-dark github-light"><code data-language="diff" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  # whateveryoucall.com at Squarespace</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  www.whateveryoucall.com     CNAME  &#x3C;user>.github.io</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  ...</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+ xxins3.whateveryoucall.com  NS     ns-111.awsdns-11.org.   # the 4 Route 53 gives you</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+ xxins3.whateveryoucall.com  NS     ns-222.awsdns-22.net.</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+ xxins3.whateveryoucall.com  NS     ns-333.awsdns-33.com.</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+ xxins3.whateveryoucall.com  NS     ns-444.awsdns-44.co.uk.</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  # xxins3.whateveryoucall.com at Route 53</span></span>
+<span data-line=""><span style="--shiki-dark:#85E89D;--shiki-light:#22863A">+ xxins3.whateveryoucall.com  A      ALIAS d111111abcdef8.cloudfront.net</span></span></code></pre></figure>
+<p>Alias queries that point to CloudFront are free too (<a href="https://aws.amazon.com/route53/pricing/">Route 53 pricing</a>), and that is how <code>aws</code> and <code>delta</code> in the diff above were delegated. Access is a Cloudflare feature, though, so a zone on Route 53 cannot use it, and this route does nothing for the subdomain that needs Access.</p>
+<p>Fine. Free plan it is, and the whole domain moves. (Squarespace is painful to use anyway.)</p>
+<h2>Does moving DNS move the sites?</h2>
+<p>No. Most records at Squarespace pointed to GitHub, and after the move they still point to GitHub, so nothing changes for the sites themselves; the files were on GitHub all along.</p>
+<pre><code>Before  visitor → asks Google's nameserver     → 185.199.108.153 (GitHub) → GitHub serves the page
+After   visitor → asks Cloudflare's nameserver → 185.199.108.153 (GitHub) → GitHub serves the page
+</code></pre>
+<h2>How the records get to Cloudflare</h2>
+<p>Write every record from the Squarespace DNS Settings page into a txt file in Berkeley Internet Name Domain (BIND) format, then upload it with Import DNS Records under Cloudflare DNS → Records:</p>
+<pre><code>$ORIGIN whateveryoucall.com.
+$TTL 3600
+alpha        IN CNAME &#x3C;user>.github.io.
+bravo        IN CNAME &#x3C;user>.github.io.
+...
+delta        IN NS    ns-2048.awsdns-64.com.
+...
+</code></pre>
+<p>(<code>&#x3C;user></code> is the GitHub account that hosts the sites.) After the import, Cloudflare has the same records as Squarespace.</p>
+<h2>Imported records come in Proxied by default</h2>
+<p>Every A, AAAA and CNAME record on Cloudflare has a cloud switch. Proxy imported DNS records is checked by default in the Import dialog, so everything you import comes in orange (Proxied) unless you uncheck it:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th></th><th>A visitor looking up <code>alreadyhascert.whateveryoucall.com</code> gets</th><th>Web traffic goes</th></tr></thead><tbody><tr><td><img src="/images/dns-squarespace-to-cloudflare/dns-only.png" alt="Proxy status switch off, grey cloud, DNS only"></td><td>GitHub's IP</td><td>visitor → GitHub</td></tr><tr><td><img src="/images/dns-squarespace-to-cloudflare/proxied.png" alt="Proxy status switch on, orange cloud, Proxied"></td><td>Cloudflare's IP</td><td>visitor → Cloudflare → GitHub</td></tr></tbody></table>
+<p><strong>A Proxied record puts Cloudflare in front of GitHub as a reverse proxy.</strong> The visitor's DNS lookup only returns Cloudflare's IP; once they connect, Cloudflare follows <code>CNAME &#x3C;user>.github.io</code> and forwards the request to GitHub, so that CNAME is only used inside Cloudflare. Sitting in the middle is what lets Cloudflare cache and block attacks. It only forwards web traffic, which is why the switch only appears on the records a browser looks up:</p>
+<ul>
+<li><strong>A, AAAA:</strong> the browser gets the site's IP from these.</li>
+<li><strong>CNAME:</strong> the browser gets another name (for example <code>&#x3C;user>.github.io</code>) and then looks up that name's IP.</li>
+</ul>
+<p>The other three are not looked up by browsers, so they have no switch:</p>
+<ul>
+<li><strong>MX:</strong> a sending mail server uses it to find the host that receives mail.</li>
+<li><strong>NS:</strong> a resolver uses it to find which nameserver is responsible for the domain.</li>
+<li><strong>TXT:</strong> services like Google and GitHub read verification text from it.</li>
+</ul>
+<p>Proxied raises a concern for GitHub Pages subdomains. Before GitHub requests an https certificate for a custom domain, it looks up DNS, and with Proxied on it would find Cloudflare's IPs and might not request one. These records behaved like DNS only at Squarespace anyway, so I switched them all back to grey and kept only <code>alreadyhascert</code> Proxied as an experiment; whether GitHub still requests a certificate is tested <a href="#proxied">further down</a>.</p>
+<h2>Should the imported <code>_domainconnect</code> CNAME be deleted?</h2>
+<p>One imported record came from Squarespace itself:</p>
+<pre><code>CNAME  _domainconnect  _domainconnect.domains.squarespace.com
+</code></pre>
+<p>It is for the Domain Connect protocol, which lets other services add records for you. Say you set up Google Workspace to receive mail at <code>whateveryoucall.com</code>: Google looks up this record first, learns that Squarespace manages the DNS, and sends you to Squarespace's authorization page.</p>
+<p>After the move, keeping it or deleting it makes no difference. Cloudflare answers every TXT query for <code>_domainconnect</code> with its own value, and Google asks for TXT, so Google ends up at Cloudflare either way. I deleted it to keep an unused record out of the Records list, and left the original at Squarespace alone.</p>
+<p>Here are the lookups at both providers, with matching step numbers; step 1 is where they differ:</p>
+<p><strong>① Before the move, DNS at Squarespace</strong></p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># 1. Ask Squarespace's nameserver for TXT. This name only has a CNAME, so it returns the CNAME</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">$</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> dig</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +noall</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +answer</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> @ns-cloud-a1.googledomains.com</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> _domainconnect.whateveryoucall.com</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> TXT</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">_domainconnect.whateveryoucall.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  14400</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  CNAME</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  _domainconnect.domains.squarespace.com.</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># 2. Look up TXT on the name the CNAME points to</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">$</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> dig</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +noall</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +answer</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> _domainconnect.domains.squarespace.com</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> TXT</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">_domainconnect.domains.squarespace.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  1800</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  TXT</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  "domains.squarespace.com"</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># 1+2. Ask a resolver. It follows the CNAME itself and returns both lines at once</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">$</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> dig</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +noall</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +answer</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> _domainconnect.whateveryoucall.com</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> TXT</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">_domainconnect.whateveryoucall.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">      14400</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  CNAME</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  _domainconnect.domains.squarespace.com.</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">_domainconnect.domains.squarespace.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  1800</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">   IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  TXT</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">    "domains.squarespace.com"</span></span></code></pre></figure>
+<p><strong>② After the move, DNS at Cloudflare</strong></p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># 1. Ask Cloudflare's nameserver for TXT. It returns TXT directly, so there is no step 2</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">#    This record is not in the Records list. Whether the imported CNAME exists, Proxied or DNS only, this is what comes back</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">$</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> dig</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +noall</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +answer</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> @ada.ns.cloudflare.com</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> _domainconnect.whateveryoucall.com</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> TXT</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">_domainconnect.whateveryoucall.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  3600</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  TXT</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  "api.cloudflare.com/client/v4/dns/domainconnect"</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># 1+2. Ask a resolver. Still one line</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">$</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> dig</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +noall</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +answer</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> _domainconnect.whateveryoucall.com</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> TXT</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">_domainconnect.whateveryoucall.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  3600</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  TXT</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  "api.cloudflare.com/client/v4/dns/domainconnect"</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># Other domains with DNS on Cloudflare get the same answer</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">$</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> dig</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +noall</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +answer</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> _domainconnect.discord.com</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> TXT</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">_domainconnect.discord.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  3600</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  TXT</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  "api.cloudflare.com/client/v4/dns/domainconnect"</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">$</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> dig</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +noall</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +answer</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> _domainconnect.medium.com</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> TXT</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">_domainconnect.medium.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">   3600</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  TXT</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  "api.cloudflare.com/client/v4/dns/domainconnect"</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># 3. Call Cloudflare's settings URL from the TXT value</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">$</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> curl</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> https://api.cloudflare.com/client/v4/dns/domainconnect/v2/whateveryoucall.com/settings</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">→</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> "urlSyncUX":</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> "https://dash.cloudflare.com/domainconnect"</span></span></code></pre></figure>
+<p>Google appends <code>/v2/whateveryoucall.com/settings</code> to the TXT value and calls it, Cloudflare returns <code>https://dash.cloudflare.com/domainconnect</code> as the authorization page, and so the same flow now ends at Cloudflare.</p>
+<p>In normal DNS, once a name has a CNAME, every query on it returns the CNAME first, which is what Squarespace does in ①. Cloudflare makes an exception for <code>_domainconnect</code>.</p>
+<h2>Changing nameservers: sending resolvers to Cloudflare</h2>
+<p>Moving your things into a new house is not enough if the post office's address book still lists the old one. Imported records are in the same position: on the TLD (Top-Level Domain, here <code>.com</code>) servers, the line saying who is responsible for <code>whateveryoucall.com</code> still says Google, so resolvers keep asking Google. Changing nameservers means changing that line, and only the registrar can do it, so it happens at Squarespace. Looking up <code>alreadyhascert.whateveryoucall.com</code> takes three levels:</p>
+<iframe src="/embeds/dns-ns-layers" width="100%" height="470" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="A resolver looking up alreadyhascert.whateveryoucall.com asks three levels"></iframe>
+<p>The change touches only the middle level, from Google's four servers to Cloudflare's two. The root level stays the same, and so does our CNAME pointing at the final destination, which was imported into Cloudflare earlier. Right after the change on the Squarespace Domain Nameservers page, the TLD servers already returned the new NS, and Cloudflare returned the right A, CNAME and MX records.</p>
+<p>About half a day after the NS change, I asked four resolvers for NS 300 times each to see whether any were still asking Google:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Resolver</th><th>Run by</th><th>Answered Google</th></tr></thead><tbody><tr><td><code>8.8.8.8</code></td><td>Google Public DNS, a public resolver anyone can use</td><td>0</td></tr><tr><td><code>1.1.1.1</code></td><td>Cloudflare's public resolver</td><td>0</td></tr><tr><td><code>9.9.9.9</code></td><td>Quad9, a public resolver run by a Swiss nonprofit</td><td>0</td></tr><tr><td><code>168.95.1.1</code></td><td>Chunghwa Telecom HiNet, the default resolver a Taiwanese ISP gives its customers</td><td>13 (about 4%)</td></tr></tbody></table>
+<p>HiNet still answers Google now and then because resolvers cache old answers, and one resolver address has many machines behind it whose caches expire at different times. That line on the TLD has a TTL of two days, so the records at Squarespace have to stay for those two days; delete them early and people on HiNet have a small chance of not reaching the site.</p>
+<h2>DNSSEC and the nameserver change: which goes first</h2>
+<p>Turn off DNSSEC at Squarespace and wait a day, change the nameservers and wait two days, then turn on DNSSEC at Cloudflare and paste the DS back into Squarespace. Honestly, I didn't wait that long, and nothing seemed to break.</p>
+<p>A resolver looking up a name is like someone asking for directions:</p>
+<pre><code>1. resolver asks the counter (.com): who do I ask about whateveryoucall.com?
+2. counter: ask ada.ns.cloudflare.com or bob.ns.cloudflare.com (the NS)
+3. resolver asks the NS: where is whateveryoucall.com?
+4. NS: 185.199.108.153
+</code></pre>
+<p>Without DNSSEC, the resolver believes whichever answer arrives first at step 4, so an attacker can beat the NS to it with a fake IP. DNSSEC adds two things:</p>
+<ul>
+<li>At step 2, besides pointing the way, the counter records which key the NS's answers must be signed with. That record is the DS (Delegation Signer).</li>
+<li>At step 4, the NS attaches a signature to its answer, the RRSIG (Resource Record Signature).</li>
+</ul>
+<p>The resolver checks the RRSIG against the DS and only accepts the answer if they match.</p>
+<p>Both the NS and the DS change during the move, and both are changed at Squarespace. Resolvers keep the old ones in cache, though, the NS for up to two days and the DS for up to one, so for a while a resolver may take the old DS to the new NS, or the new DS to the old NS. If the nameserver it asks cannot produce the signature the DS wants, the resolver returns SERVFAIL; if <code>.com</code> has no DS, it checks nothing. Switch between the DS and NS combinations below:</p>
+<iframe src="/embeds/dns-dnssec-order" width="100%" height="470" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="DNSSEC: the nameserver must sign with the key the DS names"></iframe>
+<p>"On at Google" with "Cloudflare's nameserver" is what you get by changing nameservers with DNSSEC still on: the DS wants Google's key, Cloudflare does not have it, and neither the site nor mail can be looked up.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Step</th><th>What to do</th><th>How long to wait</th><th>How long I waited</th></tr></thead><tbody><tr><td>1. Turn off DNSSEC</td><td>Turn it off at Squarespace; the DS and Google's signatures are removed together</td><td>One day, for the DS cache to expire</td><td>Three minutes</td></tr><tr><td>2. Change NS</td><td>Change to Cloudflare's nameservers at Squarespace</td><td>Two days, for the NS cache to expire</td><td>Three hours</td></tr><tr><td>3. Turn on DNSSEC</td><td>Turn it on at Cloudflare, then paste the DS into Squarespace</td><td>No wait</td><td></td></tr></tbody></table>
+<p>Step 1 has its own risky day. The DS and Google's signatures disappear in the same minute, so a validating resolver that still has the old DS cached returns SERVFAIL too. When the DS was removed, I queried 8.8.8.8, 1.1.1.1 and 9.9.9.9 once each; none had the old DS cached, and I did not notice any subdomain failing to open afterwards. HiNet was still asking Google 4% of the time half a day after the NS change, but HiNet happens not to validate DNSSEC.</p>
+<details>
+<summary>What DS, DNSKEY and RRSIG actually look like</summary>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># DS: one level up at .com (a.gtld-servers.net is one of the .com TLD servers). Signer is com.</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">$</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> dig</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +norec</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +dnssec</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +noall</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +authority</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> @a.gtld-servers.net</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> whateveryoucall.com</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> NS</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">whateveryoucall.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  172800</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  NS</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">     ada.ns.cloudflare.com.</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">whateveryoucall.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  172800</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  NS</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">     bob.ns.cloudflare.com.</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">whateveryoucall.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  86400</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">   IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  DS</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">     54321</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 13</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 2</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> &#x3C;</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">has</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">h</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">></span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">whateveryoucall.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  86400</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">   IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  RRSIG</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  DS</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 13</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 2</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 86400</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> ...</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> com.</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> &#x3C;</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">signatur</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">e</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">></span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># DNSKEY: at Cloudflare, two different keys</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">#   257: the one the DS matches, used only to sign this DNSKEY set</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">#   256: the one that actually signs A, CNAME, MX and the other records</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">$</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> dig</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +dnssec</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +noall</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +answer</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> @ada.ns.cloudflare.com</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> whateveryoucall.com</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> DNSKEY</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">whateveryoucall.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  3600</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  DNSKEY</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  257</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 3</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 13</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> &#x3C;</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">public</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> key</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> of</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 25</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">7></span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">whateveryoucall.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  3600</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  DNSKEY</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  256</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 3</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 13</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> &#x3C;</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">public</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> key</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> of</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 25</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">6></span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">whateveryoucall.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  3600</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  RRSIG</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">   DNSKEY</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 13</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 2</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 3600</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> ...</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> whateveryoucall.com.</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> &#x3C;</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">signatur</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">e</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">></span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># RRSIG: returned with the A record. Signer is whateveryoucall.com.</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">$</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> dig</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +dnssec</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +noall</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +answer</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> @ada.ns.cloudflare.com</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> whateveryoucall.com</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> A</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">whateveryoucall.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  300</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  A</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">      185.199.108.153</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">...</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">whateveryoucall.com.</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">  300</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  IN</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  RRSIG</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">  A</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 13</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 2</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 300</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> ...</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> whateveryoucall.com.</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> &#x3C;</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">signatur</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">e</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">></span></span></code></pre></figure>
+<p>The resolver checks from the root down: it confirms <code>.com</code>'s key, uses the DS on <code>.com</code> to confirm Cloudflare's DNSKEY, and uses that DNSKEY to check the RRSIG next to the A record.</p>
+<p>After you click Enable DNSSEC at Cloudflare:</p>
+<ol>
+<li>Cloudflare generates two key pairs, 257 and 256. The private keys stay at Cloudflare and the public keys go into the zone as the two DNSKEY records.</li>
+<li>Cloudflare signs A, CNAME, MX and TXT with the private key of 256 and the DNSKEY set with the private key of 257; those signatures are the RRSIGs. It signs at the moment it answers, so every RRSIG you get is valid from 25 hours before the query to 25 hours after it.</li>
+<li>Cloudflare hashes the domain name together with the public key of 257 using SHA-256 and shows the result, the DS, in the dashboard. Once you paste it into the Squarespace DNSSEC page, Squarespace sends it to <code>.com</code>, which signs it with its own private key as the <code>RRSIG DS</code>.</li>
+</ol>
+<p>Having two keys makes replacing them easier. 256 signs a lot and can be replaced often, which only means 257 signs the DNSKEY set again, whereas replacing 257 changes the DS and means another trip to Squarespace, so 257 is left alone as much as possible.</p>
+</details>
+<p><span id="proxied"></span></p>
+<h2>Can GitHub Pages subdomains be Proxied?</h2>
+<p>With Proxied on, the response headers show both Cloudflare and GitHub:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">$</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> curl</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> -I</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> https://alreadyhascert.whateveryoucall.com</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">HTTP/2</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> 200</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">server:</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> cloudflare</span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">          # added by Cloudflare</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">x-github-request-id:</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> &#x3C;</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">i</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">d</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">></span><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">   # sent by GitHub</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">...</span></span></code></pre></figure>
+<p>GitHub does not look at headers when it requests a certificate, though. Before GitHub Pages asks Let's Encrypt for an https certificate for a custom domain, it looks up DNS to confirm the domain points to GitHub, and the same <code>CNAME &#x3C;user>.github.io</code> answers differently under DNS only and Proxied:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="github-dark github-light"><code data-language="bash" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># DNS only: returns the CNAME and GitHub's IPs as they are</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">$</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> dig</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +short</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> alreadyhascert.whateveryoucall.com</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">&#x3C;</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">user</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">></span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">.github.io.</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">185.199.108.153</span></span>
+<span data-line=""><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5">...</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D"># Proxied: returns only Cloudflare's IPs, not even the CNAME</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">$</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> dig</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> +short</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62"> alreadyhascert.whateveryoucall.com</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">104.21.x.x</span></span>
+<span data-line=""><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">172.67.x.x</span></span></code></pre></figure>
+<p>So under Proxied, GitHub's lookup only finds Cloudflare's IPs. Will it still request a certificate? <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https">GitHub's docs</a> do not mention Cloudflare and the <a href="https://community.letsencrypt.org/t/fyi-for-github-pages-or-vercel-netlify-with-cloudflare/231054">Let's Encrypt forum</a> has people saying both yes and no, so I tested it.</p>
+<p><code>alreadyhascert</code> cannot answer this, because its certificate was issued long ago, and clearing and re-entering its custom domain only makes GitHub reuse that certificate. So I made a brand new repo, <code>brandnewnocert</code>, added a Proxied CNAME for it on Cloudflare, set the custom domain, and read the Pages status with <code>gh api</code>:</p>
+<pre><code>14:38  Proxied, set custom domain   DNS check successful
+                                    health: is_proxied=true  is_https_eligible=false
+14:41  Enforce HTTPS cannot be checked: "your domain is not properly configured to support HTTPS"
+       gh api PUT https_enforced=true → 404 "The certificate does not exist yet"
+14:43  switched to DNS only, set custom domain again
+14:44  health: is_proxied=false  is_https_eligible=true, cert=authorization_pending
+14:45  cert=approved, Let's Encrypt, subject brandnewnocert.whateveryoucall.com
+</code></pre>
+<p>Under Proxied, GitHub did not request a certificate for the 5 minutes after 14:38. At 14:43 I switched to DNS only, cleared the custom domain and entered it again, and the certificate arrived within 2 minutes. I set the custom domain both times, so the only difference was the proxy. The reason is in <code>domain.rb</code> in <a href="https://github.com/github/pages-health-check/blob/master/lib/github-pages-health-check/domain.rb">pages-health-check</a>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="ruby" data-theme="github-dark github-light"><code data-language="ruby" data-theme="github-dark github-light" style="display: grid;"><span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">def</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1"> https_eligible?</span></span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">  # Can't have any IP's which aren't GitHub's present.</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  return</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> false</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> non_github_pages_ip_present?</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">  # Can't have underscores in the domain name (Let's Encrypt does not allow it)</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  return</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> false</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> host.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">include?</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">(</span><span style="--shiki-dark:#9ECBFF;--shiki-light:#032F62">"_"</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">  # Must be a CNAME or point to our IPs.</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">  return</span><span style="--shiki-dark:#79B8FF;--shiki-light:#005CC5"> true</span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49"> if</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> cname_to_github_user_domain? </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">||</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> cname_to_domain_to_pages?</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-dark:#6A737D;--shiki-light:#6A737D">  # Check CAA records for the full domain and its parent domain.</span></span>
+<span data-line=""><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E">  pointed_to_github_pages_ip? </span><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">&#x26;&#x26;</span><span style="--shiki-dark:#E1E4E8;--shiki-light:#24292E"> caa.</span><span style="--shiki-dark:#B392F0;--shiki-light:#6F42C1">lets_encrypt_allowed?</span></span>
+<span data-line=""><span style="--shiki-dark:#F97583;--shiki-light:#D73A49">end</span></span></code></pre></figure>
+<p>The first line, <code>non_github_pages_ip_present?</code>, compares every IP in the DNS answer against the GitHub Pages IP list (<code>185.199.108.153</code> to <code>.111.153</code>, plus 4 IPv6 addresses) and returns false as soon as one is not on it. Running the two dig results through it:</p>
+<ul>
+<li><strong>Proxied:</strong> the answer is <code>104.21.x.x</code>, which is not on the list, so the first line returns false.</li>
+<li><strong>DNS only:</strong> <code>185.199.108.153</code> is on the list, so the first line passes; <code>alreadyhascert.whateveryoucall.com</code> has no underscore, so the second passes; the CNAME points to <code>&#x3C;user>.github.io</code>, so the third returns true and GitHub requests the certificate.</li>
+</ul>
+<p>With the switch on Proxied, the very first check fails. Here is what happens at each of the three times GitHub might request a certificate:</p>
+<iframe src="/embeds/dns-pages-cert" width="100%" height="500" style="border:0;display:block;margin:1.5rem 0 2.5rem" loading="lazy" title="The checks GitHub Pages runs before requesting a certificate: where Proxied stops"></iframe>
+<h3>Without a certificate, why does the site still open?</h3>
+<p>The browser gets Cloudflare's certificate, and Cloudflare makes its own connection to GitHub. This domain's SSL/TLS mode is <a href="https://developers.cloudflare.com/ssl/origin-configuration/ssl-modes/full/">Full</a>, which does not check the origin's certificate, so the site keeps opening even if GitHub's certificate expires, and the lock icon shows Cloudflare's certificate.</p>
+<p>Under <a href="https://developers.cloudflare.com/ssl/origin-configuration/ssl-modes/full-strict/">Full (strict)</a>, an expired origin certificate makes Cloudflare return <a href="https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-526/">526</a>. The current Full was picked by <a href="https://developers.cloudflare.com/ssl/origin-configuration/ssl-modes/">Automatic SSL/TLS</a>, which only ever moves up. Whether GitHub runs <code>https_eligible?</code> again at renewal is not documented, and I did not wait for a renewal; if it does, a Proxied subdomain cannot renew, and once the mode has moved up to Full (strict) the result is a 526.</p>
+<p>So every GitHub Pages subdomain stays DNS only, <code>alreadyhascert</code> went back to grey, and the test repo and record for <code>brandnewnocert</code> are gone.</p>
+<p>Two days after the NS change, the old Google nameservers are no longer asked, and deleting every record in Squarespace DNS Settings finishes the move.</p>
+<h2>Aside: can a leftover CNAME be taken over?</h2>
+<p>Say a repo gets deleted after the move but its CNAME is forgotten:</p>
+<pre><code>oldpage.whateveryoucall.com  CNAME  &#x3C;user>.github.io     ← repo oldpage already deleted
+</code></pre>
+<p>A stranger enters <code>oldpage.whateveryoucall.com</code> as the custom domain of their own repo, GitHub checks DNS, sees that the name does point to GitHub, and accepts it. GitHub Pages IPs are shared by everyone and GitHub only looks at which repo has claimed the address, so a visitor opening <code>oldpage.whateveryoucall.com</code> sees the stranger's page. The stranger never touches our Cloudflare account; they simply claim a name we left pointing at GitHub. This is called domain takeover.</p>
+<p>GitHub's fix is <a href="https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages">verifying your domain</a>: add <code>whateveryoucall.com</code> under Settings → Pages in your GitHub account, add the TXT record <code>_github-pages-challenge-&#x3C;user>.whateveryoucall.com</code> with the value it gives you, and click Verify. Only the domain's owner can put that TXT in its DNS, so after verification only repos under this account can use <code>whateveryoucall.com</code> and its first-level subdomains, and a stranger who tries is rejected. The TXT has to stay. It also only covers GitHub Pages, so CNAMEs pointing to other services still need deleting when you stop using them.</p>8:["$","div",null,{"id":"root","children":["$","main",null,{"id":"main","className":"reading","children":["$","$L13",null,{"htmlContent":"$14","rawContent":"$15","base64Content":"$16","title":"從 Squarespace DNS 遷移 Cloudflare","createdAt":"$undefined","updatedAt":"$undefined","tags":["dns","cloudflare","github-pages","dnssec"],"altHtmlContent":"$17","altTitle":"Moving DNS from Squarespace to Cloudflare","currentLang":"zh","altLang":"en","canonicalPath":"/writing/dns-squarespace-to-cloudflare"}]}]}]
